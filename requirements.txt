@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn[standard]
+jinja2
+pydantic
+pydantic-settings
+langchain-core
+langchain-groq
+langgraph
+chromadb
+langchain-huggingface
+sentence-transformers
+requests
+httpx
+tenacity
