@@ -1,0 +1,334 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03006952",
+      "orgStudyIdInfo": {
+        "id": "931133003"
+      },
+      "organization": {
+        "fullName": "Tehran University of Medical Sciences",
+        "class": "OTHER"
+      },
+      "briefTitle": "Add-on Pentoxifylline to Losartan Versus Increasing Dose of Losartan on NT-PRO BNP in Type 2 Diabetics With Nephropathy",
+      "officialTitle": "Comparative Effects of add-on Pentoxifylline to Losartan Versus Increasing Dose of Losartan on Serum NT-PRO BNP and Proteinuria in Type 2 Diabetics With Nephropathy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-04"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2015-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2015-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-12-24",
+      "studyFirstSubmitQcDate": "2016-12-29",
+      "studyFirstPostDateStruct": {
+        "date": "2016-12-30",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-12-29",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-12-30",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Tehran University of Medical Sciences",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This study was designed to assess the efficacy of adding pentoxifylline to losartan in comparison with increasing dose of losartan in type 2 diabetes patients with nephropathy. also the effect of pentoxifylline on N terminal brain natriuretic peptide (NT-pro BNP) and C-reactive protein",
+      "detailedDescription": "Addition of pentoxifylline to losartan provides antiproteinuric effects in type 2 diabetes patients with nephropathy that might relate to its effect on N terminal brain natriuretic peptide (NT-pro BNP) and C-reactive protein.\n\nPentoxifylline is a phosphodiestrase inhibitor with anti-inflammatory effects that was used in type 2 diabetes patients with nephropathy for treatment of diabetes complications.\n\nNT-Pro BNP, which is released from the heart due to wall stress and pressures, is known as a diagnostic and prognostic marker for heart failure and cardiovascular mortality in type 2 diabetes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetic Nephropathies"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 59,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "pentoxifylline & losartan",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "pentoxifylline arm took 400 mg pentoxifylline twice daily plus 50mg losartan daily for 12 weeks.",
+          "interventionNames": [
+            "Drug: Pentoxifylline",
+            "Drug: Losartan"
+          ]
+        },
+        {
+          "label": "Losartan",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "losartan arm took 100mg losartan daily for 12 weeks.",
+          "interventionNames": [
+            "Drug: Losartan"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pentoxifylline",
+          "description": "pentoxifylline arm took 400 mg pentoxifylline twice daily plus 50mg losartan daily for 12 weeks.",
+          "armGroupLabels": [
+            "pentoxifylline & losartan"
+          ],
+          "otherNames": [
+            "oxpentifylline"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Losartan",
+          "description": "losartan arm took 100mg losartan daily for 12 weeks.",
+          "armGroupLabels": [
+            "Losartan",
+            "pentoxifylline & losartan"
+          ],
+          "otherNames": [
+            "Cozaar"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "N terminal brain natriuretic peptide (NT-pro BNP)",
+          "description": "N terminal brain natriuretic peptide assessed using ELISA method (zelbio, Germany) with inter- and intra-assay coefficient of variation (CV) \\<12% and \\<10%. Measured at baseline, 3rd month",
+          "timeFrame": "3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Highly sensitive C-reactive protein (hsCRP)",
+          "description": "Highly sensitive C-reactive protein assessed by commercial kits (DRG kit, Germany) using the ELISA (enzyme-linked immunosorbent assay) method with inter- and intra-assay coefficient of variation (CV) of \\<20%. Measured at baseline, 3rd month",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Urinary albumin excretion",
+          "description": "Urinary albumin excretion assessed by overnight (12 hour) collection of urine. Measured at baseline, 3rd month",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Blood pressure",
+          "description": "Systolic and diastolic blood pressure assessed by mercury sphygnomanometry. Patients were placed in a sitting position and after ten minutes rest, two readings from right-side hand with five minutes interval were obtained. Measured at baseline, 3rd month",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "estimated glomerular filtration rate",
+          "description": "estimated glomerular filtration rate calculated using the formula developed by Chronic Kidney Disease Epidemiology Collaboration. Measured at baseline, 3rd month",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "serum creatinine concentrations",
+          "description": "serum creatinine concentrations assessed by Jaffe method. Measured at baseline, 3rd month",
+          "timeFrame": "3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* age\\>30 and age\\<70, urinary albumin excretion (UAE) \u2265150 mg/24 h\n\nExclusion Criteria:\n\n* any infectious or malignant diseases, non-diabetic kidney disease, retinal hemorrhage, acute myocardial infarction, uncontrolled hypertension, pregnancy, unable to follow up, hyperthyroidism, baseline serum potassium concentrations \u22655.5 meq/L, glomerular filtration rate (GFR)\\<30mL/min/1.73 m and intolerance of pentoxifylline",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "38 Years",
+      "maximumAge": "76 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Alireza Esteghamati, MD",
+          "affiliation": "Endocrinology and Metabolism Research Center (EMRC), Vali-Asr Hospital, Tehran University of Medical Sciences, Tehran, Iran",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Tehran University of Medical Sciences",
+          "city": "Tehran",
+          "country": "Iran",
+          "geoPoint": {
+            "lat": 35.69439,
+            "lon": 51.42151
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003928",
+          "term": "Diabetic Nephropathies"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007674",
+          "term": "Kidney Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D010431",
+          "term": "Pentoxifylline"
+        },
+        {
+          "id": "D019808",
+          "term": "Losartan"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013805",
+          "term": "Theobromine"
+        },
+        {
+          "id": "D014970",
+          "term": "Xanthines"
+        },
+        {
+          "id": "D011688",
+          "term": "Purinones"
+        },
+        {
+          "id": "D011687",
+          "term": "Purines"
+        },
+        {
+          "id": "D006574",
+          "term": "Heterocyclic Compounds, 2-Ring"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D001713",
+          "term": "Biphenyl Compounds"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D007093",
+          "term": "Imidazoles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D013777",
+          "term": "Tetrazoles"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

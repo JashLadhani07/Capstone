@@ -1,0 +1,23 @@
+{
+  "pmid": "37830342",
+  "title": "Tenecteplase, 0.4\u2009mg/kg, in Moderate and Severe Acute Ischemic Stroke: A Pooled Analysis of NOR-TEST and NOR-TEST 2A.",
+  "abstract": "Background The optimal dose of tenecteplase in acute ischemic stroke remains to be defined. We present a pooled analysis of the 2 NOR-TESTs (Norwegian Tenecteplase Stroke Trials) exploring the efficacy and safety of tenecteplase, 0.4\u2009mg/kg. Methods and Results We retrospectively reviewed 2 PROBE (Prospective Randomized Open, Blinded End-point) trials, NOR-TEST and NOR-TEST 2A. Patients were randomized to either tenecteplase, 0.4\u2009mg/kg, or alteplase, 0.9\u2009mg/kg. The primary end point was favorable functional outcome at 3\u2009months (modified Rankin Scale score, 0-1) or return to baseline if prestroke modified Rankin Scale score was 2. Secondary end points included favorable functional and clinical outcome and safety data. The pooled analysis includes patients with National Institutes of Health Stroke Scale score \u22656 from both trials and an additional post hoc analysis of patients with National Institutes of Health Stroke Scale score \u22645 from NOR-TEST. The per-protocol analysis contains 483 patients, of whom 235 were assigned to tenecteplase and 248 were assigned to alteplase. In per-protocol analysis, functional outcome was better in the alteplase arm with cutoff modified Rankin Scale score of 2 (odds ratio [OR], 0.52 [95% CI, 0.33-0.80];",
+  "journal": "Journal of the American Heart Association",
+  "pub_date": "2023-Oct",
+  "authors": [
+    "Novotny, Vojtech",
+    "Kvistad, Christopher Elnan",
+    "Naess, Halvor",
+    "Logallo, Nicola",
+    "Fromm, Annette",
+    "Khanevski, Andrej Netland",
+    "Thomassen, Lars"
+  ],
+  "nct_ids_referenced": [
+    "NCT01949948",
+    "NCT03854500"
+  ],
+  "source": "pubmed",
+  "word_count": 187,
+  "parsed_at": "2026-10-30T10:31:33.247964"
+}

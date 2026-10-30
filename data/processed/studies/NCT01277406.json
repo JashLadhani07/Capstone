@@ -1,0 +1,327 @@
+{
+  "nct_id": "NCT01277406",
+  "title": "A Phase I/II Study to Evaluate Safety, Tolerability, Pharmacokinetics and Efficacy of Resminostat (4SC-201) in Combination With a Second-line Treatment in Patients With K-ras Mutated Advanced Colorectal Carcinoma",
+  "sponsor": "4SC AG",
+  "phase": "PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Advanced Colorectal Carcinoma"
+  ],
+  "interventions": [
+    "4SC-201(Resminostat)",
+    "FOLFIRI"
+  ],
+  "primary_outcome": "Phase I: MTD of 4SC-201 (Resminostat) in combination with FOLFIRI by investigating safety, tolerability and pharmacokinetics",
+  "secondary_outcomes": [
+    "Phase I: Progression free survival (PFS)",
+    "Phase I: Progression free survival rate (PFSR) after 8 weeks (4 cycles) and every following 8 weeks (additional 4 cycles each)",
+    "Phase I: Time to Progression (TTP)",
+    "Phase I: Number of Objective Response (OR)",
+    "Phase I: Overall survival (OS)",
+    "Phase I: Duration of Response (DOR)",
+    "Phase II: Progression free survival rate (PFSR) after 8 weeks (4 cycles) and ever following 8 week (additional 4 cycles each)",
+    "Phase II: Time to Progression (TTP)",
+    "Phase II: Number of Objective Responses (OR)",
+    "Phase II: Duration of Response (DOR)",
+    "Phase II: Safety and tolerability data comprising vital signs, physical examinations, ECGs, clinical laboratory and adverse events",
+    "Phase II: Overall survival (OS)",
+    "Phase II: Pharmacokinetics: AUClast, AUCtau, cmax, tmax, t \u00bd, CL/F of resminostat, Irinotecan (SN-38), 5-FU and folinic acid"
+  ],
+  "start_date": "2011-01",
+  "completion_date": "2013-02",
+  "results_posted": false,
+  "enrollment": 17,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01277406",
+        "orgStudyIdInfo": {
+          "id": "4SC-201-3-2010"
+        },
+        "organization": {
+          "fullName": "4SC AG",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "4SC-201 (Resminostat) in Advanced Colorectal Carcinoma",
+        "officialTitle": "A Phase I/II Study to Evaluate Safety, Tolerability, Pharmacokinetics and Efficacy of Resminostat (4SC-201) in Combination With a Second-line Treatment in Patients With K-ras Mutated Advanced Colorectal Carcinoma",
+        "acronym": "SHORE"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2015-03",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2011-01"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2013-02",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2015-02",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2011-01-10",
+        "studyFirstSubmitQcDate": "2011-01-13",
+        "studyFirstPostDateStruct": {
+          "date": "2011-01-14",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2015-03-31",
+        "lastUpdatePostDateStruct": {
+          "date": "2015-04-01",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {
+          "name": "4SC AG",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to determine the Maximum Tolerated Dose (MTD) of 4SC-201 (Resminostat) in combination with FOLFIRI and whether 4SC-201 (Resminostat) is effective and safe in combination FOLFIRI versus FOLFIRI alone in the treatment of advanced colorectal carcinoma."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Advanced Colorectal Carcinoma"
+        ],
+        "keywords": [
+          "Colorectal Carcinoma",
+          "Resminostat",
+          "HDAC",
+          "4SC-201",
+          "Phase I",
+          "Phase II"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 17,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "4SC-201+FOLFIRI",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Drug: 4SC-201(Resminostat)",
+              "Drug: FOLFIRI"
+            ]
+          },
+          {
+            "label": "FOLFIRI",
+            "type": "ACTIVE_COMPARATOR",
+            "interventionNames": [
+              "Drug: FOLFIRI"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "4SC-201(Resminostat)",
+            "description": "oral administration",
+            "armGroupLabels": [
+              "4SC-201+FOLFIRI"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "FOLFIRI",
+            "description": "i.v. administration",
+            "armGroupLabels": [
+              "4SC-201+FOLFIRI",
+              "FOLFIRI"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Phase I: MTD of 4SC-201 (Resminostat) in combination with FOLFIRI by investigating safety, tolerability and pharmacokinetics"
+          },
+          {
+            "measure": "Phase II: Progression free survival (PFS)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Phase I: Progression free survival (PFS)"
+          },
+          {
+            "measure": "Phase I: Progression free survival rate (PFSR) after 8 weeks (4 cycles) and every following 8 weeks (additional 4 cycles each)"
+          },
+          {
+            "measure": "Phase I: Time to Progression (TTP)"
+          },
+          {
+            "measure": "Phase I: Number of Objective Response (OR)"
+          },
+          {
+            "measure": "Phase I: Overall survival (OS)"
+          },
+          {
+            "measure": "Phase I: Duration of Response (DOR)"
+          },
+          {
+            "measure": "Phase II: Progression free survival rate (PFSR) after 8 weeks (4 cycles) and ever following 8 week (additional 4 cycles each)"
+          },
+          {
+            "measure": "Phase II: Time to Progression (TTP)"
+          },
+          {
+            "measure": "Phase II: Number of Objective Responses (OR)"
+          },
+          {
+            "measure": "Phase II: Duration of Response (DOR)"
+          },
+          {
+            "measure": "Phase II: Safety and tolerability data comprising vital signs, physical examinations, ECGs, clinical laboratory and adverse events"
+          },
+          {
+            "measure": "Phase II: Overall survival (OS)"
+          },
+          {
+            "measure": "Phase II: Pharmacokinetics: AUClast, AUCtau, cmax, tmax, t \u00bd, CL/F of resminostat, Irinotecan (SN-38), 5-FU and folinic acid"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria Phase I:\n\n* Histologically or cytologically confirmed advanced stage colorectal carcinoma\n* Documented progression after precedent treatment according to RECIST criteria\n* ECOG performance status 0 - 2\n* Live expectancy of 12 weeks or more\n* Patients must have previously received treatment with 5-FU alone or in combination with other anti-tumor medications\n* Patients foreseen for chemotherapy with FOLFIRI in second or further line treatment\n\nExclusion Criteria Phase I:\n\n* Patients who have received previous treatment with an HDAC inhibitor\n* Anticipation of need for a major surgical procedure or radiation therapy (RT) during the study\n* Therapy with agents known to prolong the QT interval, such as certain antibiotics (e.g. erythromycin, clarithromycin), antidepressants (e.g. doxepin, amitryptiline) or neuroleptics (e.g. haloperidol, clozapine)\n* Patients who are homozygous for the UGT1A1 and characterized by the presence of an additional TA repeat in the TATA sequence of the UGT1A1 promoter ((TA)7TAA)). For patients having shown good tolerability of irinotecan in a precedent treatment line according to the investigator's judgement, availability of UGT1A1 result is not mandatory for study inclusion\n* Therapy with strong CYP3A4 inhibitors (e.g. ketoconazole) or inductors (e.g. carbamazepine, phenytoin, St. John's Wort)\n* Severe internal disease: insufficiently treated or uncontrolled arterial hypertension, hemoptoe, New York Heart Association (NYHA) grade II or greater congestive heart failure, symptomatic coronary heart disease, myocardial infarction (\u2264 12 months prior to inclusion), serious cardiac arrhythmia requiring medication, peripheral arterial occlusive disease stage II or greater, uncontrolled severe disease\n* Patients with a confirmed QTcF \\> 480 ms, or a history of additional risk factors for Torsades de Pointes\n* Major surgery within the last 4 weeks\n\nInclusion Criteria Phase II :\n\n* Histologically or cytologically confirmed advanced stage colorectal carcinoma\n* Documented progression after precedent treatment according to RECIST criteria\n* K-ras mutation (which contraindicates EGFR inhibitor therapy, results from local pathology will be accepted for inclusion\n* ECOG performance status 0 - 2\n* Live expectancy of 12 weeks or more\n* Patients must have previously received treatment with 5-FU alone or in combination with other anti-tumor medications\n* Patients foreseen for chemotherapy with FOLFIRI in second line treatment\n\nExclusion Criteria Phase II arm:\n\n* Patients who have received previous treatment with an HDAC inhibitor\n* Anticipation of need for a major surgical procedure or radiation therapy (RT) during the study\n* Therapy with agents known to prolong the QT interval, such as certain antibiotics (e.g. erythromycin, clarithromycin), antidepressants (e.g. doxepin, amitryptiline) or neuroleptics (e.g. haloperidol, clozapine)\n* Patients who are homozygous for the UGT1A1 and characterized by the presence of an additional TA repeat in the TATA sequence of the UGT1A1 promoter ((TA)7TAA)).\n* Therapy with strong CYP3A4 inhibitors (e.g. ketoconazole) or inductors (e.g. carbamazepine, phenytoin, St. John's Wort)\n* Severe internal disease: insufficiently treated or uncontrolled arterial hypertension, hemoptoe, New York Heart Association (NYHA) grade II or greater congestive heart failure, symptomatic coronary heart disease, myocardial infarction (\u2264 12 months prior to inclusion), serious cardiac arrhythmia requiring medication, peripheral arterial occlusive disease stage II or greater, uncontrolled severe disease\n* Patients with a confirmed QTcF \\> 480 ms, or a history of additional risk factors for Torsades de Pointes\n* Major surgery within the last 4 weeks",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Dirk J\u00e4ger, Prof. Dr.",
+            "affiliation": "Medical Oncology National Centre for Tumor Diseases (NCT); University of Heidelberg",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "KTB-Klinik f\u00fcr Tumorbiologie, Klinik f\u00fcr Internistische Onkologie",
+            "city": "Freiburg im Breisgau",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 47.9959,
+              "lon": 7.85222
+            }
+          },
+          {
+            "facility": "University of Heidelberg",
+            "city": "Heidelberg",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 49.40768,
+              "lon": 8.69079
+            }
+          },
+          {
+            "facility": "Universitaetsklinikum Tuebingen; Med. Klinik und Poliklinik II",
+            "city": "T\u00fcbingen",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.52266,
+              "lon": 9.05222
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D015179",
+            "term": "Colorectal Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D007414",
+            "term": "Intestinal Neoplasms"
+          },
+          {
+            "id": "D005770",
+            "term": "Gastrointestinal Neoplasms"
+          },
+          {
+            "id": "D004067",
+            "term": "Digestive System Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D004066",
+            "term": "Digestive System Diseases"
+          },
+          {
+            "id": "D005767",
+            "term": "Gastrointestinal Diseases"
+          },
+          {
+            "id": "D003108",
+            "term": "Colonic Diseases"
+          },
+          {
+            "id": "D007410",
+            "term": "Intestinal Diseases"
+          },
+          {
+            "id": "D012002",
+            "term": "Rectal Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C480833",
+            "term": "IFL protocol"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256863"
+}

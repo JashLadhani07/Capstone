@@ -1,0 +1,25 @@
+{
+  "pmid": "30191097",
+  "title": "A randomized controlled trial in Norwegian pharmacies on effects of risk alert and advice in people with elevated cardiovascular risk.",
+  "abstract": "We investigated if alerting subjects to elevated total cholesterol (TC), hemoglobin A1c (HbA1c) and blood pressure (BP) (cardiovascular disease (CVD) risk factors that are usually asymptomatic), and if providing advice would result in reduced risk. We conducted a multicenter (50 community pharmacies) parallel three-arm 8-week randomized controlled trial (RCT) with a 52-week follow-up visit. During six days of screening, TC, HDL- and LDL-cholesterol, triglycerides, HbA1c, BP and body mass index (BMI) were assessed in 1318 individuals. Of these, 582 with a measured and predefined elevated ad hoc CVD risk score were randomized to either Alert/advice (n\u202f=\u202f198) (immediately alerted of their screening result and received healthy lifestyle-advice), Advice-only (n\u202f=\u202f185) (received only advice) or Control (n\u202f=\u202f199) (not alert, no advice). Changes in risk score and self-reported health-related behaviors (diet, alcohol, physical activity) were assessed in pharmacies after 8\u202fweeks (N\u202f=\u202f543; 93%). Although the primary analysis showed no significant difference between groups, the Control group had the largest reduction in risk score of 14%. The total (uncontrolled) sample (N\u202f=\u202f543) reduced the risk score by 3.2% beyond estimated regression towards the mean and improved their health-related behaviors. Among the 65% (n\u202f=\u202f377) who returned 52\u202fweeks after baseline, 14% reported started using CVD preventive medication after the screening. The study demonstrated that while assessing risk factors and behaviors in pharmacies proved efficient and possibly led to a small risk decrease, alerting people to their screening result did not seem to be more effective than a self-directed approach. ClinicalTrials.gov identifier: NCT02223793.",
+  "journal": "Preventive medicine reports",
+  "pub_date": "2018-Dec",
+  "authors": [
+    "Svendsen, Karianne",
+    "Telle-Hansen, Vibeke H",
+    "M\u00f8rch-Reiersen, Lisa T",
+    "Garstad, Kjersti W",
+    "Thyholt, Kari",
+    "Granlund, Linda",
+    "Henriksen, Hege Berg",
+    "Gran, Jon Michael",
+    "Jacobs, David R",
+    "Retterst\u00f8l, Kjetil"
+  ],
+  "nct_ids_referenced": [
+    "NCT02223793"
+  ],
+  "source": "pubmed",
+  "word_count": 257,
+  "parsed_at": "2026-10-30T13:37:55.077846"
+}

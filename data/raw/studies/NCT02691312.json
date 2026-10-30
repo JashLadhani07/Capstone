@@ -1,0 +1,259 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02691312",
+      "orgStudyIdInfo": {
+        "id": "IRB201501086"
+      },
+      "organization": {
+        "fullName": "University of Florida",
+        "class": "OTHER"
+      },
+      "briefTitle": "Pediatric Type 1 Diabetes and Retinopathy",
+      "officialTitle": "Prevalence and Characterization of Retinopathy in Children With Type 1 Diabetes Using a Non-mydriatic Fundus Camera"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-07",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-01-20",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-12-27",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-02-22",
+      "studyFirstSubmitQcDate": "2016-02-22",
+      "studyFirstPostDateStruct": {
+        "date": "2016-02-25",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2019-12-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-12-12",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Florida",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Diabetic retinopathy (DR) causes more new cases of blindness among young adults than any other disease. More than 90% of individuals with type 1 diabetes (T1D) will have some form of DR by 20 years after their diagnosis. DR is associated with long-term hyperglycemia and blood glucose variability, which induces vascular endothelial dysfunction and destruction in the retina, eventual retinal ischemia, and in the end, widespread neovascularization of the retina and optic disk. When these fragile vessels bleed, they can cause vitreous hemorrhage and loss of vision. Eventually the friable vessels fibrose and can result in retinal detachment or further retinal ischemia.\n\nMajor risk factors for the development of diabetic retinopathy are time since diagnosis, age at diagnosis, and severity of hyperglycemia. Retinopathy most commonly occurs at least three years after diagnosis and most cases are diagnosed more than five years after the onset of T1D. Current guidelines from the American Diabetes Association (ADA) and American Academy of Ophthalmology (AAO) recommend that patients with T1D undergo an initial comprehensive dilated fundoscopic evaluation once the individual has had diabetes for 3-5 years and has either reached puberty or 10 years of age, whichever is earlier. These patients should receive a yearly exam thereafter, or every two years based upon the recommendation of an eye care professional. However, the prevalence of retinopathy in children is unknown and adherence to these guidelines, especially in youth, has proven difficult. Thus, it is important to make these guidelines more evidence based, as retinopathy is often asymptomatic until vision loss occurs. The first step in this process is the determination of the prevalence of retinopathy in a general population of youth with diabetes. This should be followed by determining which children are most at risk, so the guidelines can provide realistic and pertinent guidance to practitioners.",
+      "detailedDescription": "The study will be a prospective cross-sectional study of pediatric participants who have had T1D for one year or more. Pediatric participants will be recruited at the Florida Diabetes Camps, the Children With Diabetes Friends for Life Orlando Conference, and the University of Florida Pediatric Endocrinology Clinics. The participants will be tested for diabetic retinopathy using a Digital Retinography System (DRS) (http://www.centervue.com/producta556.html?id=637). The DRS is a portable non-mydriatic fundus camera in which the participants places their chins on the chin-rest and the device takes a digital image of their eyes for evaluation by an ophthalmologist remotely. These photographs will be examined by an ophthalmologist (specializing in retinal disease) to assess for evidence of diabetic retinopathy.\n\nAs part of their informed consent, all participants will be asked as part of their informed consent to allow study staff to contact their local ophthalmologist for their eye exam results following a positive or inconclusive portable retinal screening. Participants or their guardians will also be asked to fill out a study questionnaire during the screening visit. When available, the study subjects' medical record will be accessed to identify their BMI, time since T1D diagnosis, previous hemoglobin A1c (HbA1c) levels over the last 12 months (or longer if available), insulin regimen, Tanner staging, serum lipids, urine microalbumin:creatinine, presence or absence of hypertension, and previous diagnoses of diabetic retinopathy, microalbuminuria, hyperlipidemia or hypertension."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetic Retinopathy"
+      ],
+      "keywords": [
+        "type 1 diabetes",
+        "retinopathy"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "CASE_ONLY",
+        "timePerspective": "CROSS_SECTIONAL"
+      },
+      "enrollmentInfo": {
+        "count": 500,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Type 1 diabetes (T1D)",
+          "description": "Pediatric patients with type 1 diabetes (T1D) will have an eye exam using the Digital Retinography System (DRS) taking non-mydriatic fundus images. If the test is positive or inconclusive, subjects will be notified and referred to an ophthalmologist for a dilated retinal exam. A chart review and questionnaire will be completed to evaluate for risk factors predisposing subjects to diabetic retinopathy.",
+          "interventionNames": [
+            "Device: Digital Retinography System"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Digital Retinography System",
+          "description": "The DRS is a portable non-mydriatic fundus camera in which children place their chin on a chin rest and the camera, after auto-focusing, takes photographs of their retinas. These photographs will be examined by an ophthalmologist (specializing in retinal disease) to assess for evidence of diabetic retinopathy.",
+          "armGroupLabels": [
+            "Type 1 diabetes (T1D)"
+          ],
+          "otherNames": [
+            "CenterVue Digital Retinography System",
+            "DRS"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of participants diagnosed with retinopathy",
+          "description": "Using a CenterVue Digital Retinography System (DRS) the participants with a positive or inconclusive screen will be called with the results and recommended to undergo a dilated eye examination by a skilled ophthalmologist. The results from the ophthalmologist will be compared to the DRS results.",
+          "timeFrame": "Baseline"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of type 1 diabetes\n* Duration of diabetes 1 year or greater\n\nExclusion Criteria:\n\n* Diabetes less than 1 year duration\n* Age \\< 9 years and \\>26 years of age",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "9 Years",
+      "maximumAge": "26 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ],
+      "studyPopulation": "People with type 1 diabetes and a duration of 1 year or greater will be asked to participate. Potential participants will be approached at the Pediatric Endocrinology clinic visits, Florida Diabetes Camp and the Children With Diabetes annual meeting.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Janet H Silverstein, MD",
+          "affiliation": "University of Florida",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Florida Diabetes Camps",
+          "city": "De Leon Springs",
+          "state": "Florida",
+          "zip": "32130",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.11989,
+            "lon": -81.35286
+          }
+        },
+        {
+          "facility": "Pediatrics Endocrinology/Diabetes at UF Health Medical Plaza and Children's Medical Services Building",
+          "city": "Gainesville",
+          "state": "Florida",
+          "zip": "32611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.65163,
+            "lon": -82.32483
+          }
+        },
+        {
+          "facility": "Children With Diabetes Friends For Life Conference",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32821",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "availIpds": [
+        {
+          "type": "FDA 501(k)",
+          "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K101935.pdf"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003930",
+          "term": "Diabetic Retinopathy"
+        },
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        },
+        {
+          "id": "D012164",
+          "term": "Retinal Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        },
+        {
+          "id": "D003925",
+          "term": "Diabetic Angiopathies"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

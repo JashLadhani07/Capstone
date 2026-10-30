@@ -1,0 +1,862 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06614192",
+      "orgStudyIdInfo": {
+        "id": "M24-064"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2024-512804-20-00",
+          "type": "OTHER",
+          "domain": "EU CT"
+        }
+      ],
+      "organization": {
+        "fullName": "AbbVie",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study Assessing Adverse Events and Disease Activity of Intravenously (IV) Infused Telisotuzumab Adizutecan in Adult Participants With c-Met Protein Above Cutoff Level Above Refractory Metastatic Colorectal Cancer",
+      "officialTitle": "AndroMETa-CRC-064: An Open-Label, Randomized Global Dose Optimization Study Comparing Two Doses of Telisotuzumab Adizutecan (ABBV-400) Monotherapy in Subjects With Refractory Metastatic Colorectal Cancer Expressing c-Met Protein Level Above a Defined Cutoff"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-09",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-11-08",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-08",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-08",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-09-25",
+      "studyFirstSubmitQcDate": "2024-09-25",
+      "studyFirstPostDateStruct": {
+        "date": "2024-09-26",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-09-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-09-23",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "AbbVie",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Colorectal cancer (CRC) is the third most common type of cancer diagnosed worldwide and in China. The purpose of this study is to assess adverse events and change in disease activity of intravenously (IV) infused telisotuzumab adizutecan in adult participants with c-Met protein above cutoff level refractory metastatic colorectal cancer (mCRC).\n\nTelisotuzumab adizutecan is an investigational drug being developed for the treatment of CRC. Participants are put into treatment arms and each treatment arm receives a different dose of telisotuzumab adizutecan. Up to approximately 60 adult participants with c-Met protein above cutoff level refractory mCRC, will be enrolled in the study at approximately 80 sites in 7 countries.\n\nParticipants will receive intravenously (IV) infused telisotuzumab adizutecan dose A or B. The total study duration will be approximately 4 years.\n\nThere may be higher treatment burden for participants in this trial compared to their standard of care. Participants will attend regular visits during the study at an approved institution (hospital or clinic). The effect of the treatment will be frequently checked by medical assessments, blood tests, questionnaires and side effects."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Metastatic Colorectal Cancer"
+      ],
+      "keywords": [
+        "Metastatic Colorectal Cancer",
+        "Telisotuzumab Adizutecan",
+        "ABBV-400",
+        "AndroMETa-CRC-064"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 74,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Telisotuzumab Adizutecan Dose A",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive telisotuzumab adizutecan dose A, as part of the approximately 4 year study duration."
+        },
+        {
+          "label": "Telisotuzumab Adizutecan Dose B",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive telisotuzumab adizutecan dose B, as part of the approximately 4 year study duration.",
+          "interventionNames": [
+            "Drug: Telisotuzumab Adizutecan"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Telisotuzumab Adizutecan",
+          "description": "Intravenous (IV) Infusion",
+          "armGroupLabels": [
+            "Telisotuzumab Adizutecan Dose B"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants with Adverse Events (AE)s",
+          "description": "An AE is defined as any untoward medical occurrence, inappropriate patient management decision, unintended disease or injury or any untoward clinical signs (including an abnormal laboratory finding) in participants, users or other persons whether or not related to the investigational drug.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Percentage of Participants with Clinically Significant Vital Sign Measurements as Assessed by the Investigator",
+          "description": "Vital signs are defined as determinations of systolic and diastolic blood pressure, pulse rate, respiratory rate, oxygen saturation (SpO2), and body temperature will be obtained at visits.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Percentage of Participants with Clinically Significant Electrocardiograms (ECGs) Findings as Assessed by the Investigator",
+          "description": "Percentage of participants with clinically significant ECGs findings as assessed by the investigator.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Percentage of Participants with Clinically Significant Laboratory Values (Chemistry, Hematology, Coagulation, and Urinalysis) as Assessed by the Investigator",
+          "description": "Percentage of participants with clinically significant laboratory values (hematology, chemistry, coagulation, and urinalysis) as assessed by the investigator.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Objective Response (OR) as Assessed by Blinded Independent Central Review (BICR)",
+          "description": "OR is defined as confirmed complete response (CR) or confirmed partial response (PR) as assessed by BICR per Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Overall Survival (OS)",
+          "description": "OS is defined as the time from randomization to the event of death from any cause.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Progression Free Survival (PFS) as Assessed by BICR",
+          "description": "PFS is defined as the time from randomization to the first occurrence of radiographic progression based on RECIST version 1.1 as determined by BICR or death from any cause, whichever occurs earlier.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "OS",
+          "description": "OS is defined as the time from randomization to the event of death from any cause",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Duration of Response (DOR) as Assessed by BICR",
+          "description": "DOR is defined as the time from the first documented CR or PR to the first occurrence of radiographic progression per RECIST v1.1 as determined by BICR or death from any cause, whichever occurs first. DOR is defined for participants with confirmed CR/PR.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Disease Control (DC) as Assessed by BICR",
+          "description": "DC is defined as best overall response of confirmed CR or confirmed PR, or stable disease (SD) based on RECIST, version 1.1 as determined by BICR.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "OR as Assessed by Investigator",
+          "description": "OR is defined as confirmed CR or confirmed PR as assessed by investigator per RECIST, version 1.1.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "PFS as Assessed by Investigator",
+          "description": "PFS is defined as the time from randomization to the first occurrence of radiographic progression based on RECIST version 1.1 as determined by investigator or death from any cause, whichever occurs earlier.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "DOR as Assessed by Investigator",
+          "description": "DOR is defined as the time from the first documented CR or PR to the first occurrence of radiographic progression per RECIST v1.1 as determined by BICR or death from any cause, whichever occurs first. DOR is defined for participants with confirmed CR/PR.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Maximum Observed Serum (or Plasma, for Payload) Concentration (Cmax) for Telisotuzumab Adizutecan",
+          "description": "Maximum observed serum (or plasma, for payload) concentration for telisotuzumab adizutecan.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Time to Cmax (Tmax) for Telisotuzumab Adizutecan",
+          "description": "Time to Cmax for telisotuzumab adizutecan.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Terminal Elimination Half-Life (t1/2) for Telisotuzumab Adizutecan",
+          "description": "Terminal elimination half-life for telisotuzumab adizutecan.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Area Under the Serum (or Plasma, for Payload) Concentration Versus Time Curve (AUC) for Telisotuzumab Adizutecan",
+          "description": "Area under the serum (or plasma, for payload) concentration versus time curve will be determined using noncompartmental methods for total antibody for telisotuzumab adizutecan.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Antibody Drug Conjugate (ADC) for Telisotuzumab Adizutecan",
+          "description": "Antibody drug conjugate for telisotuzumab adizutecan.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Unconjugated Topoisomerase 1 (Top1) Inhibitor Payload for Telisotuzumab Adizutecan",
+          "description": "Unconjugated Top1 inhibitor payload for telisotuzumab adizutecan.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Incidence of Anti-Drug Antibodies (ADAs) for Telisotuzumab Adizutecan",
+          "description": "Incidence of anti-drug antibodies for telisotuzumab adizutecan.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        },
+        {
+          "measure": "Neutralizing Anti-Drug Antibodies (nADAs) for Telisotuzumab Adizutecan",
+          "description": "Neutralizing anti-drug antibodies for telisotuzumab adizutecan.",
+          "timeFrame": "Up to a Maximum of 4 Years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Life expectancy \\>= 12 weeks per investigator assessment.\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 during the screening period prior to the first dose of the study drug.\n* Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1.\n\nExclusion Criteria:\n\n* Prior systemic regimen containing c-MET targeting antibody/bispecific or Antibody Drug Conjugate (c-Met targeting Antibody Drug Conjugate \\[ADC\\]).\n* History of allergic reactions or hypersensitivity to bevacizumab or any of its excipients, or to compounds similar to trifluridine/tipiracil.\n* Active infection as noted in the protocol.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "ABBVIE INC.",
+          "affiliation": "AbbVie",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "City of Hope National Medical Center /ID# 267875",
+          "city": "Duarte",
+          "state": "California",
+          "zip": "91010",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.13945,
+            "lon": -117.97729
+          }
+        },
+        {
+          "facility": "City of Hope - Orange County Lennar Foundation Cancer Center /ID# 270655",
+          "city": "Irvine",
+          "state": "California",
+          "zip": "92618",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.66946,
+            "lon": -117.82311
+          }
+        },
+        {
+          "facility": "USC Norris Comprehensive Cancer Center /ID# 268131",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90033",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Lutheran Medical Center- Cancer Centers of Colorado /ID# 268175",
+          "city": "Golden",
+          "state": "Colorado",
+          "zip": "80401",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.75554,
+            "lon": -105.2211
+          }
+        },
+        {
+          "facility": "Smilow Cancer Center At Yale-New Haven /ID# 269125",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06511",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.30815,
+            "lon": -72.92816
+          }
+        },
+        {
+          "facility": "AdventHealth Orlando /ID# 267970",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32803",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "facility": "Winship Cancer Institute of Emory University /ID# 266884",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "St. Luke's Cancer Institute: Boise /ID# 268095",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83712",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Northwestern Medicine - Northwestern Memorial Hospital /ID# 268610",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Hope And Healing Cancer Services /ID# 268541",
+          "city": "Hinsdale",
+          "state": "Illinois",
+          "zip": "60521",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.80086,
+            "lon": -87.93701
+          }
+        },
+        {
+          "facility": "Springfield Clinic - First /ID# 268666",
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62702",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.80172,
+            "lon": -89.64371
+          }
+        },
+        {
+          "facility": "Community Cancer Center North /ID# 267965",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46250",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Hattiesburg Clinic /ID# 267860",
+          "city": "Hattiesburg",
+          "state": "Mississippi",
+          "zip": "39401",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 31.32712,
+            "lon": -89.29034
+          }
+        },
+        {
+          "facility": "Washington University /ID# 267872",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Intermountain Health St Vincent Regional Hospital - Cancer Centers of Montana /ID# 268185",
+          "city": "Billings",
+          "state": "Montana",
+          "zip": "59102",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.78329,
+            "lon": -108.50069
+          }
+        },
+        {
+          "facility": "Rutgers Cancer Institute of New Jersey /ID# 268056",
+          "city": "New Brunswick",
+          "state": "New Jersey",
+          "zip": "08901",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.48622,
+            "lon": -74.45182
+          }
+        },
+        {
+          "facility": "University of North Carolina Medical Center /ID# 266879",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27514",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.9132,
+            "lon": -79.05584
+          }
+        },
+        {
+          "facility": "Duke University Medical Center /ID# 267966",
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.99403,
+            "lon": -78.89862
+          }
+        },
+        {
+          "facility": "Avera Cancer Institute - Sioux Falls /ID# 268074",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "zip": "57105",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.54369,
+            "lon": -96.72796
+          }
+        },
+        {
+          "facility": "West Cancer Center and Research Institute - Germantown /ID# 268619",
+          "city": "Germantown",
+          "state": "Tennessee",
+          "zip": "38138",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.08676,
+            "lon": -89.81009
+          }
+        },
+        {
+          "facility": "University of Texas - Southwestern Medical Center /ID# 268241",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75235",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "The University of Texas MD Anderson Cancer Center /ID# 268098",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Millennium Physicians /ID# 268400",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77090",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "University of Virginia /ID# 268108",
+          "city": "Charlottesville",
+          "state": "Virginia",
+          "zip": "22908",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.02931,
+            "lon": -78.47668
+          }
+        },
+        {
+          "facility": "Mater Misericordiae /ID# 268360",
+          "city": "South Brisbane",
+          "state": "Queensland",
+          "zip": "4101",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -27.48034,
+            "lon": 153.02049
+          }
+        },
+        {
+          "facility": "Rabin Medical Center. /ID# 267740",
+          "city": "Petah Tikva",
+          "state": "Central District",
+          "zip": "4941492",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.0888,
+            "lon": 34.88666
+          }
+        },
+        {
+          "facility": "Rambam Health Care Campus- Haifa /ID# 267739",
+          "city": "Haifa",
+          "state": "Haifa District",
+          "zip": "3109601",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.81303,
+            "lon": 34.99928
+          }
+        },
+        {
+          "facility": "Hadassah Medical Center-Hebrew University /ID# 267579",
+          "city": "Jerusalem",
+          "state": "Jerusalem",
+          "zip": "91120",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 31.76904,
+            "lon": 35.21633
+          }
+        },
+        {
+          "facility": "The Chaim Sheba Medical Center /ID# 267741",
+          "city": "Ramat Gan",
+          "state": "Tel Aviv",
+          "zip": "5265601",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.08227,
+            "lon": 34.81065
+          }
+        },
+        {
+          "facility": "Tel Aviv Sourasky Medical Center /ID# 267578",
+          "city": "Tel Aviv",
+          "state": "Tel Aviv",
+          "zip": "6423906",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.08088,
+            "lon": 34.78057
+          }
+        },
+        {
+          "facility": "Assuta Medical Center - Tel Aviv /ID# 267745",
+          "city": "Tel Aviv",
+          "state": "Tel Aviv",
+          "zip": "6789140",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.08088,
+            "lon": 34.78057
+          }
+        },
+        {
+          "facility": "Aichi Cancer Center /ID# 268237",
+          "city": "Nagoya",
+          "state": "Aichi-ken",
+          "zip": "464-8681",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.18147,
+            "lon": 136.90641
+          }
+        },
+        {
+          "facility": "National Cancer Center Hospital East /ID# 268236",
+          "city": "Kashiwa-shi",
+          "state": "Chiba",
+          "zip": "277-8577",
+          "country": "Japan"
+        },
+        {
+          "facility": "The University of Osaka Hospital /ID# 268743",
+          "city": "Suita-shi",
+          "state": "Osaka",
+          "zip": "565-0871",
+          "country": "Japan"
+        },
+        {
+          "facility": "Saitama Prefectural Cancer Center /ID# 268706",
+          "city": "Kitaadachi-gun",
+          "state": "Saitama",
+          "zip": "362-0806",
+          "country": "Japan"
+        },
+        {
+          "facility": "National Cancer Center Hospital /ID# 268713",
+          "city": "Chuo-Ku",
+          "state": "Tokyo",
+          "zip": "104-0045",
+          "country": "Japan"
+        },
+        {
+          "facility": "Pan American Center for Oncology Trials - Rio Piedras /ID# 267888",
+          "city": "Rio Piedras",
+          "state": "Puerto Rico",
+          "zip": "00935",
+          "country": "Puerto Rico",
+          "geoPoint": {
+            "lat": 18.39745,
+            "lon": -66.04989
+          }
+        },
+        {
+          "facility": "Seoul National University Bundang Hospital /ID# 268592",
+          "city": "Seongnam-si",
+          "state": "Gyeonggido",
+          "zip": "13620",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.43861,
+            "lon": 127.13778
+          }
+        },
+        {
+          "facility": "Seoul National University Hospital /ID# 268719",
+          "city": "Seoul",
+          "state": "Seoul Teugbyeolsi",
+          "zip": "03080",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Yonsei University Health System Severance Hospital /ID# 268718",
+          "city": "Seoul",
+          "state": "Seoul Teugbyeolsi",
+          "zip": "03722",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Asan Medical Center /ID# 268717",
+          "city": "Seoul",
+          "state": "Seoul Teugbyeolsi",
+          "zip": "05505",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Samsung Medical Center /ID# 268720",
+          "city": "Seoul",
+          "state": "Seoul Teugbyeolsi",
+          "zip": "06351",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Changhua Christian Hospital /ID# 270464",
+          "city": "Changhua City, Changhua County",
+          "zip": "50006",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.0692,
+            "lon": 120.5512
+          }
+        },
+        {
+          "facility": "Kaohsiung Medical University Chung-Ho Memorial Hospital /ID# 267635",
+          "city": "Kaohsiung City",
+          "zip": "807",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 22.61626,
+            "lon": 120.31333
+          }
+        },
+        {
+          "facility": "Kaohsiung Chang Gung Memorial Hospital /ID# 267638",
+          "city": "Kaohsiung City",
+          "zip": "833",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 22.61626,
+            "lon": 120.31333
+          }
+        },
+        {
+          "facility": "China Medical University Hospital /ID# 267631",
+          "city": "Taichung",
+          "zip": "40447",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.1469,
+            "lon": 120.6839
+          }
+        },
+        {
+          "facility": "Taichung Veterans General Hospital /ID# 270467",
+          "city": "Taichung",
+          "zip": "407",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.1469,
+            "lon": 120.6839
+          }
+        },
+        {
+          "facility": "National Cheng Kung University Hospital /ID# 270468",
+          "city": "Tainan",
+          "zip": "704",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 22.99259,
+            "lon": 120.20507
+          }
+        },
+        {
+          "facility": "National Taiwan University Hospital /ID# 267627",
+          "city": "Taipei",
+          "zip": "100",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        },
+        {
+          "facility": "Taipei Veterans General Hospital /ID# 267628",
+          "city": "Taipei",
+          "zip": "112",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        },
+        {
+          "facility": "Linkou Chang Gung Memorial Hospital /ID# 267637",
+          "city": "Taoyuan City",
+          "zip": "333",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.99368,
+            "lon": 121.29696
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "AbbVie is committed to responsible clinical trial data sharing. This includes access to anonymized, individual and trial-level data (analysis data sets), as well as other information.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP"
+      ],
+      "timeFrame": "For details on when studies are available for sharing, visit https://vivli.org/ourmember/abbvie/",
+      "accessCriteria": "To learn more about the process, or to submit a request, visit the following link https://www.abbvieclinicaltrials.com/hcp/data-sharing/",
+      "url": "https://vivli.org/ourmember/abbvie/"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015179",
+          "term": "Colorectal Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007414",
+          "term": "Intestinal Neoplasms"
+        },
+        {
+          "id": "D005770",
+          "term": "Gastrointestinal Neoplasms"
+        },
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D003108",
+          "term": "Colonic Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        },
+        {
+          "id": "D012002",
+          "term": "Rectal Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

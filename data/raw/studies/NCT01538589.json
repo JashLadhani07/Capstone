@@ -1,0 +1,283 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01538589",
+      "orgStudyIdInfo": {
+        "id": "BIASP-1943"
+      },
+      "organization": {
+        "fullName": "Novo Nordisk A/S",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Special Survey for Patients With Type 1 or Type 2 Diabetes",
+      "officialTitle": "Special Survey for Type 1 or Type 2 Diabetic Patients"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2003-12"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2009-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2009-10",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2012-02-15",
+      "studyFirstSubmitQcDate": "2012-02-20",
+      "studyFirstPostDateStruct": {
+        "date": "2012-02-24",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-03-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-03-07",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novo Nordisk A/S",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is conducted in Japan. The aim of this study is to evaluate the incidence of severe hypoglycaemia under normal clinical practice."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes",
+        "Diabetes Mellitus, Type 1",
+        "Diabetes Mellitus, Type 2"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 1582,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Insulin aspart users",
+          "interventionNames": [
+            "Drug: insulin aspart"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "insulin aspart",
+          "description": "Prescribed by the physicians as a result of normal clinical practice",
+          "armGroupLabels": [
+            "Insulin aspart users"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Occurrence of severe hypoglycaemic symptoms",
+          "timeFrame": "Year 1"
+        },
+        {
+          "measure": "Occurrence of severe hypoglycaemic symptoms",
+          "timeFrame": "Year 2 for patients who had an antibody titre test performed"
+        },
+        {
+          "measure": "Antibody titre findings",
+          "timeFrame": "Year 1"
+        },
+        {
+          "measure": "Antibody titre findings",
+          "timeFrame": "Year 2 for patients who had an antibody titre test performed"
+        },
+        {
+          "measure": "Adverse events",
+          "timeFrame": "Year 1"
+        },
+        {
+          "measure": "Adverse events",
+          "timeFrame": "Year 2 for patients who had an antibody titre test performed"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Response rate assessed by the investigator: Ability or failure to achieve expected glycaemic control",
+          "timeFrame": "Year 1"
+        },
+        {
+          "measure": "Response rate assessed by the investigator: Ability or failure to achieve expected glycaemic control",
+          "timeFrame": "Year 2 for patients who had an antibody titre test performed"
+        },
+        {
+          "measure": "HbA1c (glycosylated haemoglobin)",
+          "timeFrame": "Year 1"
+        },
+        {
+          "measure": "HbA1c (glycosylated haemoglobin)",
+          "timeFrame": "Year 2 for patients who had an antibody titre test performed"
+        },
+        {
+          "measure": "Total dose of insulin infused subcutaneously",
+          "timeFrame": "Year 1"
+        },
+        {
+          "measure": "Total dose of insulin infused subcutaneously",
+          "timeFrame": "Year 2 for patients who had an antibody titre test performed"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with no treatment history of insulin aspart (NovoRapid\u00ae)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients with diabetes requiring insulin therapy with no treatment history of insulin aspart (NovoRapid\u00ae)",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Global Clinical Registry (GCR, 1452)",
+          "affiliation": "Novo Nordisk A/S",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "city": "Tokyo",
+          "zip": "1000005",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.6895,
+            "lon": 139.69171
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "Clinical Trials at Novo Nordisk",
+          "url": "http://novonordisk-trials.com"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        },
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D061267",
+          "term": "Insulin Aspart"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D061266",
+          "term": "Insulin, Short-Acting"
+        },
+        {
+          "id": "D061385",
+          "term": "Insulins"
+        },
+        {
+          "id": "D010187",
+          "term": "Pancreatic Hormones"
+        },
+        {
+          "id": "D036361",
+          "term": "Peptide Hormones"
+        },
+        {
+          "id": "D006728",
+          "term": "Hormones"
+        },
+        {
+          "id": "D006730",
+          "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

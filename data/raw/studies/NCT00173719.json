@@ -1,0 +1,208 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00173719",
+      "orgStudyIdInfo": {
+        "id": "9100002423"
+      },
+      "organization": {
+        "fullName": "National Taiwan University Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Influence of Assistive Device Use While Performing Dual Task in Patients With Stroke",
+      "officialTitle": "Influence of Assistive Device Use on Dynamic Balance and the Associated Attentional Demands During Standing and Walking in Patients With Stroke"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2013-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2003-09"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2004-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2004-07",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2005-09-12",
+      "studyFirstSubmitQcDate": "2005-09-12",
+      "studyFirstPostDateStruct": {
+        "date": "2005-09-15",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2013-08-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2013-08-28",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "National Taiwan University Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Science and Technology Council, Taiwan",
+          "class": "OTHER_GOV"
+        }
+      ]
+    },
+    "descriptionModule": {
+      "briefSummary": "The primary purposes of the this three-year research proposal are to investigate the influence of assistive device use on dynamic balance and the associated attentional demands during standing and walking in patients with stroke",
+      "detailedDescription": "Research has shown the effectiveness of using ambulatory assistive devices to increase standing stability of patients with stroke in clinical practice (Maeda et al., 2001). However, literature has also suggested that manipulation of ambulatory assistive devices in dynamic motor tasks, such as walking, inevitably requires additional attention, even in healthy adults (Wright \\& Kemp, 1992). Given that the majority of patients with stroke suffer from balance control difficulty, which subsequently increases their attentional demands associated with maintaining balance (Brown et al., 2002), it remains an important question as to whether the use of ambulatory assistive devices would take away some attentional resources that would otherwise be used for maintaining balance."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Stroke"
+      ],
+      "keywords": [
+        "Hemiplegia",
+        "Assisstive device",
+        "Walking",
+        "Dynamic equilibrium",
+        "Reaction time",
+        "Attention",
+        "Dual task"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 40,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Standard cane"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "To investigate the voice reaction time and response accuracy while simultaneously performing the dual task with or without using assistive devices for healthy adults and stroke patients",
+          "timeFrame": "2003-2004"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "To investigate the related gait parameters(ex. walking speed, stride length, gait cycle time, and foot pressure etc.)while simultaneously performing the dual task with or without using assistive devices for healthy adults and stroke patients"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nHealthy adults\n\n* between 50 and 75 years old\n* having no neuromuscular or musculoskeletal disorders that would jeopardize their balance control abilities\n* being willing to sign an informed consent approved by the Human Subjects Committee of the National Taiwan University Hospital\n\nStroke patients\n\n* between 50 and 75 years old\n* hemiplegic or hemiparetic as a result of a single cerebral vascular accident\n* medically stable with no ongoing complications\n* independently walking without using any assistive device for at least 10 meters, and have the exercise endurance for at least 30 minutes\n* having no serious hemianopsia, hemi-inattention or any obvious cognitive problems as evaluated with the Mini-Mental State examination\n* being willing to sign an informed consent approved by the Human Subjects Committee of the National Taiwan University Hospital\n\nExclusion Criteria:\n\n* unable to follow the order of the experimenters, and having serious comprehension and expression impairment",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "50 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Pei-Fang Tang, PhD",
+          "affiliation": "National Taiwan University Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "School and Graduate Institute of Physical Therapy College of Medicine, National Taiwan University",
+          "city": "Taipei",
+          "zip": "100",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D006429",
+          "term": "Hemiplegia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010243",
+          "term": "Paralysis"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

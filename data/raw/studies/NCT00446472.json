@@ -1,0 +1,443 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00446472",
+      "orgStudyIdInfo": {
+        "id": "#778"
+      },
+      "organization": {
+        "fullName": "Southern California Institute for Research and Education",
+        "class": "OTHER"
+      },
+      "briefTitle": "Evaluation of Windowed Casts With and Without Regranex\u00ae Gel for Healing Diabetic Neuropathic Ulcers",
+      "officialTitle": "Evaluation of Windowed Casts With and Without Regranex\u00ae Gel for Healing"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2010-06",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2007-04"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2010-09",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2010-09",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2007-03-08",
+      "studyFirstSubmitQcDate": "2007-03-08",
+      "studyFirstPostDateStruct": {
+        "date": "2007-03-12",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2010-06-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2010-06-04",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Ian Gordon, M.D.",
+        "oldOrganization": "VA Long Beach Health Care System"
+      },
+      "leadSponsor": {
+        "name": "Southern California Institute for Research and Education",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Heritage Medical Research Institute",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The objective of this study is to compare the effectiveness and safety of windowed casts with Regranex\u00ae (topical becaplermin gel) versus placebo (inactive medication) for treatment of diabetic ulcers on the legs and feet.",
+      "detailedDescription": "Management of diabetic leg or foot ulcers is based on certain principals: 1) effective off-loading of pressure on the wound via specialized shoes, cast braces, or casts, 2) removal of infected or necrotic tissue vial surgery or non-surgical methods, and 3) optimization of wound healing by interventions that promote wound repair such as nutritional support, provision of optimal moisture balance and growth factor therapy.\n\nApplication of casts or cast braces \\[below knee, removable boots with protective padding\\] to protect and immobilize the ankle and foot have been demonstrated to provide superior wound healing than less cumbersome types of shoe gear (1-3). The benefit of casting may be the result of more effective off-loading of pressure than can be achieved with other devices, but the inability of patients to remove their casts also appears to an important factor, as non-compliance with removable cast-braces has been shown to be a pervasive and significant issue (4,5). One critical concept in diabetic foot ulcer management is the relation between chronically and limb loss - for each year a wound persists, a patient has a 25% risk for major amputation due to complications from infection (6-8). Limb loss has a profound effect on Diabetics' quality of life and rate of lower limb loss among diabetics is four per 1,000 person years in comparison with three per 10,000 person years (9-10)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetic Foot Ulcers"
+      ],
+      "keywords": [
+        "diabetes mellitus",
+        "diabetic neuropathies",
+        "peripheral vascular diseases"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 60,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "1",
+          "type": "EXPERIMENTAL",
+          "description": "Randomized to Regranex gel",
+          "interventionNames": [
+            "Drug: Regranex\u00ae"
+          ]
+        },
+        {
+          "label": "2",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Placebo hydrogel will be used for a total of 16 weeks",
+          "interventionNames": [
+            "Drug: Hydrogel"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Regranex\u00ae",
+          "description": "Regranex gel will be used for a total of 16 weeks",
+          "armGroupLabels": [
+            "1"
+          ],
+          "otherNames": [
+            "Becaplermin"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Hydrogel",
+          "description": "Placebo hydrogel will be applied for 16 weeks",
+          "armGroupLabels": [
+            "2"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Completely healed wounds",
+          "timeFrame": "4 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject must sign an informed consent\n* Have a history of compliance and reliability in following study required treatment regimen.\n* Have diabetic mellitus Type I or Type II and have a glycohemoglobin Alc less than l0\n* Presence of one or two ulcers in lower extremities\n\n  1. Wounds cannot be positioned more than 2.5cm proximal to the malleoli, but may involve any more distal position of the foot\n  2. Type 2 Diabetic Mellitus Neuropathic ulcers present at least for 3months with failure to heal\n  3. Post-operation wounds in DM patients with wound present for minimum 4 weeks after surgery and wound surface area has failed to decrease more than 20% in 4 weeks\n  4. Ulcer(s) must be stage II or III full-thickness (extending through the subcutaneous tissue or beyond - Wagner grade II or III)\n  5. No joint, tendon or bone exposure\n  6. Located on the lower extremity.\n  7. Ulcer size measures 1cm2 \\< 16 cm2\n  8. No osteomyelitis affecting the area of the ulcer\n  9. If two wounds, both can be incorporated into one window when cast applied\n* Adequate foot arterial circulation evidenced by palpable ankle pulses or Doppler with ABI less than or equal to 0.8. If non-compressible, must have triphasic wave Doppler velocity waveforms or toe/brachial pressure greater than or equal to 0.6.\n\nExclusion criteria:\n\n* Female subjects who are within child bearing age range.\n* Previous sensitivity to Regranex\u00ae Gel.\n* Use of topical antibiotics, enzymatic debriders on the selected ulcer(s) within 30 days preceding randomization.\n* Osteomyelitis affecting the area of the selected ulcer(s)\n* Exposed bone, joint or tendon at ulcer site (Wagner III or higher)\n* Presence of more than two full-thickness ulcers on targeted lower extremity\n* Requirement for systemic antibiotics use within 7 days of study entry\n* Inability to tolerate cast\n* Presence of systemic or local cancer of any kind\n* Life expectancy less than 1 year\n* Subjects with end stage renal failure requiring chronic hemodialysis\n* Concomitant use of Pletal or other vasodilators\n* Ankle Brachial Index less or equal to 0.8 or toe pressure index less than 0.6\n* ESR\\>20\n* Demonstration of poor compliance including a chronic alcohol, psychiatric condition or drug abuse problems",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "21 Years",
+      "maximumAge": "85 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Ian Gordon, M.D., Ph.D.",
+          "affiliation": "VA Long Beach Healthcare System",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Aksone Nouvong, D.P.M.",
+          "affiliation": "VA Greater Los Angeles Healthcare System",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "VA Long Beach Healthcare System",
+          "status": "RECRUITING",
+          "city": "Long Beach",
+          "state": "California",
+          "zip": "90822",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Christine Ma Agas",
+              "role": "CONTACT",
+              "phone": "562-826-8000",
+              "phoneExt": "2889",
+              "email": "christine.ma@va.gov"
+            },
+            {
+              "name": "Ian Gordon, M.D., Ph.D.",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.76696,
+            "lon": -118.18923
+          }
+        },
+        {
+          "facility": "VA Greater Los Angeles Healthcare System",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90073",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Aksone Nouvong, D.P.M.",
+              "role": "CONTACT",
+              "phone": "310-268-3193",
+              "email": "aksone.nouvong@va.gov"
+            },
+            {
+              "name": "Aksone Nouvong, D.P.M.",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "11375363",
+          "type": "BACKGROUND",
+          "citation": "Armstrong DG, Nguyen HC, Lavery LA, van Schie CH, Boulton AJ, Harkless LB. Off-loading the diabetic foot wound: a randomized clinical trial. Diabetes Care. 2001 Jun;24(6):1019-22. doi: 10.2337/diacare.24.6.1019."
+        },
+        {
+          "pmid": "14514590",
+          "type": "BACKGROUND",
+          "citation": "Ha Van G, Siney H, Hartmann-Heurtier A, Jacqueminet S, Greau F, Grimaldi A. Nonremovable, windowed, fiberglass cast boot in the treatment of diabetic plantar ulcers: efficacy, safety, and compliance. Diabetes Care. 2003 Oct;26(10):2848-52. doi: 10.2337/diacare.26.10.2848."
+        },
+        {
+          "pmid": "11128345",
+          "type": "BACKGROUND",
+          "citation": "Caravaggi C, Faglia E, De Giglio R, Mantero M, Quarantiello A, Sommariva E, Gino M, Pritelli C, Morabito A. Effectiveness and safety of a nonremovable fiberglass off-bearing cast versus a therapeutic shoe in the treatment of neuropathic foot ulcers: a randomized study. Diabetes Care. 2000 Dec;23(12):1746-51. doi: 10.2337/diacare.23.12.1746."
+        },
+        {
+          "pmid": "12941724",
+          "type": "BACKGROUND",
+          "citation": "Armstrong DG, Lavery LA, Kimbriel HR, Nixon BP, Boulton AJ. Activity patterns of patients with diabetic foot ulceration: patients with active ulceration may not adhere to a standard pressure off-loading regimen. Diabetes Care. 2003 Sep;26(9):2595-7. doi: 10.2337/diacare.26.9.2595."
+        },
+        {
+          "pmid": "15735186",
+          "type": "BACKGROUND",
+          "citation": "Armstrong DG, Lavery LA, Wu S, Boulton AJ. Evaluation of removable and irremovable cast walkers in the healing of diabetic foot wounds: a randomized controlled trial. Diabetes Care. 2005 Mar;28(3):551-4. doi: 10.2337/diacare.28.3.551."
+        },
+        {
+          "pmid": "8542736",
+          "type": "BACKGROUND",
+          "citation": "Larsson J, Apelqvist J, Agardh CD, Stenstrom A. Decreasing incidence of major amputation in diabetic patients: a consequence of a multidisciplinary foot care team approach? Diabet Med. 1995 Sep;12(9):770-6. doi: 10.1111/j.1464-5491.1995.tb02078.x."
+        },
+        {
+          "pmid": "1936593",
+          "type": "BACKGROUND",
+          "citation": "Pecoraro RE, Ahroni JH, Boyko EJ, Stensel VL. Chronology and determinants of tissue repair in diabetic lower-extremity ulcers. Diabetes. 1991 Oct;40(10):1305-13. doi: 10.2337/diab.40.10.1305."
+        },
+        {
+          "pmid": "9602314",
+          "type": "BACKGROUND",
+          "citation": "Bergink GJ, Hoyng CB, van der Maazen RW, Vingerling JR, van Daal WA, Deutman AF. A randomized controlled clinical trial on the efficacy of radiation therapy in the control of subfoveal choroidal neovascularization in age-related macular degeneration: radiation versus observation. Graefes Arch Clin Exp Ophthalmol. 1998 May;236(5):321-5. doi: 10.1007/s004170050085."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "U.S. Department of Health and Human Services. Healthy People 2010: Understanding and improving health, vol.2. Washington, DC: US Government Printing Office, 2000"
+        },
+        {
+          "pmid": "2351029",
+          "type": "BACKGROUND",
+          "citation": "Pecoraro RE, Reiber GE, Burgess EM. Pathways to diabetic limb amputation. Basis for prevention. Diabetes Care. 1990 May;13(5):513-21. doi: 10.2337/diacare.13.5.513."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Southern California Institute for Research and Education (SCIRE) Website",
+          "url": "http://www.scire-lb.org"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017719",
+          "term": "Diabetic Foot"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D003929",
+          "term": "Diabetic Neuropathies"
+        },
+        {
+          "id": "D016491",
+          "term": "Peripheral Vascular Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003925",
+          "term": "Diabetic Angiopathies"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D016523",
+          "term": "Foot Ulcer"
+        },
+        {
+          "id": "D007871",
+          "term": "Leg Ulcer"
+        },
+        {
+          "id": "D012883",
+          "term": "Skin Ulcer"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D010523",
+          "term": "Peripheral Nervous System Diseases"
+        },
+        {
+          "id": "D009468",
+          "term": "Neuromuscular Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077214",
+          "term": "Becaplermin"
+        },
+        {
+          "id": "D020100",
+          "term": "Hydrogels"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020574",
+          "term": "Proto-Oncogene Proteins c-sis"
+        },
+        {
+          "id": "D010982",
+          "term": "Platelet-Derived Growth Factor"
+        },
+        {
+          "id": "D036341",
+          "term": "Intercellular Signaling Peptides and Proteins"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D004268",
+          "term": "DNA-Binding Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        },
+        {
+          "id": "D005782",
+          "term": "Gels"
+        },
+        {
+          "id": "D003102",
+          "term": "Colloids"
+        },
+        {
+          "id": "D045424",
+          "term": "Complex Mixtures"
+        },
+        {
+          "id": "D004304",
+          "term": "Dosage Forms"
+        },
+        {
+          "id": "D004364",
+          "term": "Pharmaceutical Preparations"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

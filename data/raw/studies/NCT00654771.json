@@ -1,0 +1,262 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00654771",
+      "orgStudyIdInfo": {
+        "id": "0502110"
+      },
+      "organization": {
+        "fullName": "University of Pittsburgh",
+        "class": "OTHER"
+      },
+      "briefTitle": "Comparison of Catheterized and Clean Catch Urine Specimens for Protein/Creatinine Ratio in Preeclampsia Evaluation",
+      "officialTitle": "Prospective Comparison of Catheterized and Clean Catch Urine Specimens for Determination of Protein/Creatinine Ratio in Evaluation of Preeclampsia",
+      "acronym": "UPREE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2012-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2005-07"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2006-05",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2006-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2008-04-03",
+      "studyFirstSubmitQcDate": "2008-04-03",
+      "studyFirstPostDateStruct": {
+        "date": "2008-04-09",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2012-08-14",
+      "lastUpdatePostDateStruct": {
+        "date": "2012-08-16",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Beatrice Chen"
+      },
+      "leadSponsor": {
+        "name": "University of Pittsburgh",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Irene McLenahan Young Investigators Research Fund of the Magee-Womens Foundation",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this prospective study was to examine whether protein/creatinine ratios in catheterized urine specimens correlate to clean catch specimens in pregnant patients being evaluated for preeclampsia.",
+      "detailedDescription": "Preeclampsia is the new onset of hypertension and proteinuria after twenty weeks of gestation in pregnant women. The gold standard for evaluation of proteinuria in the diagnosis of preeclampsia is a twenty-four hour urine collection. However, single-specimen protein/creatinine ratios have been used to detect preeclampsia without the delay and inconvenience that a twenty-four hour urine collection would entail. At our institution, women are routinely catheterized for urine collection of protein/creatinine ratios because of concerns that vaginal contaminants would falsely elevate protein measurement in urine. However, no studies have specifically evaluated whether catheterized urine specimens correlate to clean catch urine specimens in protein estimation. Thus, the purpose of this prospective study was to examine whether protein/creatinine ratios in catheterized urine specimens correlate to clean catch specimens in pregnant patients being evaluated for preeclampsia."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Preeclampsia",
+        "Proteinuria",
+        "Hypertension",
+        "Pregnancy"
+      ],
+      "keywords": [
+        "protein/creatinine ratio",
+        "clean catch urine",
+        "catheterized urine"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "designInfo": {
+        "observationalModel": "CASE_ONLY",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 76,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "1",
+          "description": "women undergoing evaluation for pre-eclampsia",
+          "interventionNames": [
+            "Other: urine collection"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "urine collection",
+          "description": "clean catch urine collection and catheterized urine collection",
+          "armGroupLabels": [
+            "1"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Correlation between protein/creatinine ratios for clean catch and catheterized urine specimens",
+          "timeFrame": "time of enrollment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Pregnant hypertensive patients between the ages of 14 - 50 of any gestational age greater than 20 weeks undergoing evaluation for preeclampsia\n\nExclusion Criteria:\n\n* Ruptured membranes\n* Any vaginal bleeding or spotting\n* Pre-existing urinary tract infections or patients who are found to have a concurrent urinary tract infection upon culture of urine\n* Patients who have previously been enrolled in the study",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "14 Years",
+      "maximumAge": "50 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ],
+      "studyPopulation": "Any pregnant woman between the ages of 14 - 50 who is being evaluated for preeclampsia is eligible for this study.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Beatrice A Chen, MD",
+          "affiliation": "University of Pittsburgh Medical Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Magee-Womens Hospital of UPMC",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15213",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011225",
+          "term": "Pre-Eclampsia"
+        },
+        {
+          "id": "D011507",
+          "term": "Proteinuria"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D046110",
+          "term": "Hypertension, Pregnancy-Induced"
+        },
+        {
+          "id": "D011248",
+          "term": "Pregnancy Complications"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D014555",
+          "term": "Urination Disorders"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        },
+        {
+          "id": "D020924",
+          "term": "Urological Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D059349",
+          "term": "Urine Specimen Collection"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013048",
+          "term": "Specimen Handling"
+        },
+        {
+          "id": "D019411",
+          "term": "Clinical Laboratory Techniques"
+        },
+        {
+          "id": "D019937",
+          "term": "Diagnostic Techniques and Procedures"
+        },
+        {
+          "id": "D003933",
+          "term": "Diagnosis"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

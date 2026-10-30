@@ -1,0 +1,284 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01861860",
+      "orgStudyIdInfo": {
+        "id": "P12-37811002 / 2012-A00696-37"
+      },
+      "organization": {
+        "fullName": "Centre Chirurgical Marie Lannelongue",
+        "class": "OTHER"
+      },
+      "briefTitle": "OPtimized Stenting Using Intravascular Ultrasound(IVUS) in Long lEsion: Rationale for Simplified criteriA",
+      "officialTitle": "OPtimized Stenting Using IVUS in Long lEsion: Rationale for Simplified criteriA",
+      "acronym": "OPERA"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2018-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2012-10"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2017-04",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-07",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2013-05-16",
+      "studyFirstSubmitQcDate": "2013-05-23",
+      "studyFirstPostDateStruct": {
+        "date": "2013-05-24",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2020-01-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-01-23",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Centre Chirurgical Marie Lannelongue",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "H\u00f4pital Cochin",
+          "class": "OTHER"
+        },
+        {
+          "name": "Centre Hospitalier de La Rochelle",
+          "class": "OTHER"
+        },
+        {
+          "name": "University Hospital, Limoges",
+          "class": "OTHER"
+        },
+        {
+          "name": "H\u00f4pital de la Timone",
+          "class": "OTHER"
+        },
+        {
+          "name": "Centre Hospitalier Universitaire de Nice",
+          "class": "OTHER"
+        },
+        {
+          "name": "Centre Hospitalier de PAU",
+          "class": "OTHER"
+        },
+        {
+          "name": "Rangueil Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Versailles Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Rationale IVUS has shown to be efficient for bare metal stent deployment, but has not been specifically studied for Drug Eluting Stents. The angiographically versus IVUS optimization (AVIO) study was performed with (medical device's type )Promus stent, results are promising, but the study was not designed for clinical endpoint.\n\nThere is no consensus on IVUS criteria for stent deployment. The MUSIC criteria were widely used in the early 2000, but have limitations for complex long lesions. The AVIO criteria were recently proposed for complex lesions, but these criteria also have some issues and the complexity make their routine use challenging.\n\nWe performed a pilot study for long complex lesion analysis using IVUS, in order to define easy to use criteria, applicable for complex lesions in drug eluting stents (DES) era. The new criteria (OPERA) are an adaptation of the MUSIC criteria.\n\nOTELLO study is an ongoing trial sponsored by Boston Scientific Inc, to determine Major Adverse Cardiac Event with the new TAXUS Element stent. 500 patients will be enrolled in the study.\n\nMain question Is IVUS using simplified new criteria beneficial for long (\\>28mm) TAXUS element stent deployment?\n\nStudy design This study will consist to prospectively include consecutive patients with\\>28mm taxus element stent using IVUS. OPERA Criteria for stent deployment will be the objectives to reach. OPERA is an adaptation of the MUSIC criteria for long complex lesion. The patients from the OTELLO study, with the same inclusion criteria, will composed the control group . Population will be matched using the propensity score.\n\n20 to 30 French centers involved in OTELLO study will be contacted for participating in OPERA.\n\nHypothesis:\n\nLong lesion percutaneous coronary intervention(PCI) have specific characteristics like Diffuse old atheroma Calcifications Discrepancies between prox and distal diameter Infiltration longer than the target lesion Bifurcations Inhomogeneous strength due to the balloon (Laplace law) Primary hypothesis Long Taxus element deployed using IVUS and OPERA criteria have better outcomes than without IVUS\n\nPrimary Objectives 38% MACE (SAT, target lesion revascularization (TLR), myocardial infarction (MI), Death) reduction using IVUS and OPERA criteria for Taxus element \u2265 28 mm implantation\n\nSecondary endpoint\n\n1. MACE determination for Taxus element \u2265 28 mm implantation with IVUS and OPERA criteria\n2. Safety: procedural Stroke, Urgent cardiac surgery, procedural MI\n3. Comparison of IVUS criteria: OPERA, MUSIC, AVIO\n\nSecondary objectives Safety of OPERA criteria Feasibility of using OPERA criteria in non expert IVUS center MACE determination with a 4% margin error for Taxus element \u2265 28 mm implantation with IVUS and OPERA criteria\n\nMethods Inclusion of consecutive patients using IVUS Taxus element \u2265 28 mm in a multicentric study propensity score matched analysis matched for comparison to OTELLO study. (Same inclusion criteria as OTELLO)\n\nStatistical analysis Primary Endpoint: MACE expected in the OTELLO study=18% MACE expected in the OPERA study=11% Number of patient in the OTELLO study=500 Alpha=0.05,1- Beta=0.73 Number of patients analysable in the OPERA study needed =250 patients i.e 300 pts inclusions.\n\nSecondary Endpoint 4% margin error with a MACE of 11% need also 250 pts\n\nType of study Biomedical research French study Centralized IVUS analysis 1, 6 and 12 months telephone contact\n\nSafety and efficacy measures Efficacy: MACE (Cardiac Death, target vessel revascularization (TVR), Myocardial Infarction) at 12 months Safety: procedure related event: Urgent surgery, According to Good Clinical Practices serious adverse event (SAE) declared within 24 Hours"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Coronary Heart Disease",
+        "Diabetes",
+        "Vascular Lesions",
+        "Chronic Total Occlusion of Coronary Artery",
+        "Restenosis"
+      ],
+      "keywords": [
+        "stenting using IVUS in long lEsion"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "DIAGNOSTIC",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 300,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "New OPERA Criteria",
+          "type": "EXPERIMENTAL",
+          "description": "TAXUS\u2122 Element long stent",
+          "interventionNames": [
+            "Device: TAXUS\u2122 Element long stent"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "TAXUS\u2122 Element long stent",
+          "description": "Segments are selected using bifurcation branch take-off. The reference is selected or estimated on both sides of the bifurcation and is applied to the concerned segment. The objective is to attain \\> 80% of the reference cross-sectional areas (CSA) per segment. The balloon diameter is adapted to the endoluminal diameter of the reference.",
+          "armGroupLabels": [
+            "New OPERA Criteria"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The incidence of MACE composite criteria among patients who received a TAXUS long stent deployed using IVUS according to the OPERA criteria according to the LPPR during a 12 months period after inclusion in the trial.",
+          "description": "The MACE composite criteria includes all cardiac deaths and infarctions in the regions of treated lesions as well as revascularization of treated lesions (via iterative angioplasty or aortocoronary bypass) of lesion(s) that receive TAXUS long stent according to the Commission Evaluation of Products and Service (CEPP) over a 12 months period after inclusion in the trial.\n\nTo demonstrate improvement of MACE during deployment of 28, 32 and 38 mm TAXUS\u2122 Element\u2122 stents using IVUS. The main objective of the trial is the collection of health data, especially the rate of serious cardiac events at 12 months in the indications recognized by the LPPR. These events are represented by a MACE composite criteria at 1 year, including all cardiac deaths and infarctions in the region of the stented artery and revascularization of the stented artery (TVR) where the reference population is the OTELLO population.",
+          "timeFrame": "12 months period after inclusion in the trial"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "The incidence of the MACE composite criteria at 6 months, 12 months and 3 years.",
+          "timeFrame": "6 months, 12 months and 3 years"
+        },
+        {
+          "measure": "The incidence of individual components of the MACE composite criteria at 6 months, 12 months and 3 years.",
+          "description": "Cardiac deaths and infarctions in the region of the stented artery, revascularization of the stented artery",
+          "timeFrame": "6 months, 12 months and 3 years"
+        },
+        {
+          "measure": "The occurrence of follow-on events over a period of 6 months, 12 months and 3 years.",
+          "description": "Death from all causes, all myocardia infarctions, all revascularizations.",
+          "timeFrame": "6 months, 12 months and 3 years"
+        },
+        {
+          "measure": "Stent thrombosis at 12 months",
+          "timeFrame": "12 months"
+        },
+        {
+          "measure": "Medico-economics data at 12 months including",
+          "description": "* the number of secondary hospitalizations for cardiac problems\n* the number of hospitalizations for problem non cardiac but associated with the procedure\n* the number of new coronary angiographies\n* the number de new angioplasties\n* the number of Coronary Artery Bypass Grafting (CABG)\n* the number and type of other additional examinations\n* the number and type of special consultations during the monitoring period",
+          "timeFrame": "At 12 months including"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Patients who have had a coronary angioplasty with implantation of a TAXUS\u2122 Element\u2122 stent of 28, 32 and 38 mm in length and up to 3 stents per patient in the case of acute occlusive dissection deployed using IVUS\n* Patients with indication of Taxus\u2122 Element\u2122 stent included in the List of Reimbursable Products and Supplies (LPPR):\n* diabetes,\n* small vessel (less than 3 mm in diameter),\n* long lesion(s) (more than 15 mm long),\n* chronic total occlusion \\> 1 month,\n* intra-stent restenosis with the exclusion drug eluting stent(s), restenosis of\n* people with a lesion that is accessible to IVUS after stenting\n* people who have provided consent for collection of medical data for this trial.\n\nExclusion Criteria:\n\n-Those who refuse to consent to the collection and/or processing of data necessary to complete the trial and/or the centralized follow-up",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "PHILIPPE DELEUZE, MD",
+          "affiliation": "CENTRE CHIRUGICAL MARIE LANNELONGUE",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Centre Chirurgical Marie Lannelongue",
+          "city": "Le Plessis-Robinson",
+          "state": "\u00cele-de-France Region",
+          "zip": "92350",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.78889,
+            "lon": 2.27078
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "19228612",
+          "type": "RESULT",
+          "citation": "Serruys PW, Morice MC, Kappetein AP, Colombo A, Holmes DR, Mack MJ, Stahle E, Feldman TE, van den Brand M, Bass EJ, Van Dyck N, Leadley K, Dawkins KD, Mohr FW; SYNTAX Investigators. Percutaneous coronary intervention versus coronary-artery bypass grafting for severe coronary artery disease. N Engl J Med. 2009 Mar 5;360(10):961-72. doi: 10.1056/NEJMoa0804626. Epub 2009 Feb 18."
+        },
+        {
+          "pmid": "14993129",
+          "type": "RESULT",
+          "citation": "Fujii K, Mintz GS, Kobayashi Y, Carlier SG, Takebayashi H, Yasuda T, Moussa I, Dangas G, Mehran R, Lansky AJ, Reyes A, Kreps E, Collins M, Colombo A, Stone GW, Teirstein PS, Leon MB, Moses JW. Contribution of stent underexpansion to recurrence after sirolimus-eluting stent implantation for in-stent restenosis. Circulation. 2004 Mar 9;109(9):1085-8. doi: 10.1161/01.CIR.0000121327.67756.19. Epub 2004 Mar 1."
+        },
+        {
+          "pmid": "15172398",
+          "type": "RESULT",
+          "citation": "Sonoda S, Morino Y, Ako J, Terashima M, Hassan AH, Bonneau HN, Leon MB, Moses JW, Yock PG, Honda Y, Kuntz RE, Fitzgerald PJ; SIRIUS Investigators. Impact of final stent dimensions on long-term results following sirolimus-eluting stent implantation: serial intravascular ultrasound analysis from the sirius trial. J Am Coll Cardiol. 2004 Jun 2;43(11):1959-63. doi: 10.1016/j.jacc.2004.01.044."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003327",
+          "term": "Coronary Disease"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017202",
+          "term": "Myocardial Ischemia"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

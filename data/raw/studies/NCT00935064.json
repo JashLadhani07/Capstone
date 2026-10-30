@@ -1,0 +1,954 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00935064",
+      "orgStudyIdInfo": {
+        "id": "29011"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NIH (INBRE 2-P20-RR016472-09)"
+        }
+      ],
+      "organization": {
+        "fullName": "Christiana Care Health Services",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Effect of Renin Inhibition on Nerve Function in Diabetes",
+      "officialTitle": "Effect of Renin Inhibition on Cardiovascular Autonomic Nerve Function in Diabetes"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2009-06"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2011-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2012-04",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2009-07-07",
+      "studyFirstSubmitQcDate": "2009-07-07",
+      "studyFirstPostDateStruct": {
+        "date": "2009-07-08",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2012-12-31",
+      "resultsFirstSubmitQcDate": "2013-02-13",
+      "resultsFirstPostDateStruct": {
+        "date": "2013-04-01",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-07-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-08-09",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Christiana Care Health Services",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will assess the effect of direct renin inhibition on nerve function in persons with diabetes using a double-blind, placebo-controlled randomized trial involving two treatment arms (i.e., \\[1\\] 30 participants enrolled and randomized to 300 mg of Aliskiren; \\[2\\] 30 participants enrolled and randomized to placebo)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes"
+      ],
+      "keywords": [
+        "Diabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 60,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Aliskiren",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Pill, 300 mg, once daily, for 6 weeks",
+          "interventionNames": [
+            "Drug: Aliskiren",
+            "Other: Placebo"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "interventionNames": [
+            "Other: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Aliskiren",
+          "description": "Pill, 300 mg, once daily, for 6 weeks",
+          "armGroupLabels": [
+            "Aliskiren"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo",
+          "description": "Placebo orally one tablet once a day for 6 weeks.",
+          "armGroupLabels": [
+            "Aliskiren",
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Systolic Blood Pressure Before and After Treatment",
+          "description": "Systolic blood pressure at baseline and follow-up",
+          "timeFrame": "baseline and 6 weeks"
+        },
+        {
+          "measure": "Diastolic Blood Pressure Before and After Treatment",
+          "description": "Diastolic blood pressure at baseline and follow-up.",
+          "timeFrame": "baseline and 6 weeks"
+        },
+        {
+          "measure": "Serum Renin Level Before and After Treatment",
+          "description": "Serum renin level at baseline and follow-up",
+          "timeFrame": "baseline and 6 weeks"
+        },
+        {
+          "measure": "Mean Circular Resultant Before and After Treatment",
+          "description": "Mean circular resultant at baseline and follow-up. There are several different assessment modalities used for the determination of cardiovascular autonomic function (i.e. HRV). One widely used clinical method for assessing HRV is RR-variation during deep breathing. RR-variation is a measure of the change in heart rate resulting from the variation in intrathoracic pressure due to respiration. It is predominantly a function of parasympathetic activity. In this study, RR-variation during deep breathing, performed for 6 min, was measured by vector analysis \\[i.e. mean circular resultant (MCR)\\] and by the expiration/inspiration (E/I) ratio of the first six breath cycles. With regard to the MCR, the length of the vector mean is proportional to the degree of HRV. Weinberg and Pfeifer first introduced the assessment of HRV via determination of the MCR in a paper in Biometrics 1984:40:855-861. Low HRV is considered to be less favorable.",
+          "timeFrame": "baseline and 6 weeks"
+        },
+        {
+          "measure": "Expiration/Inspiration Ratio Before and After Treatment",
+          "description": "Expiration/inspiration ratio at baseline and follow-up. There are several different assessment modalities used for the determination of cardiovascular autonomic function (i.e. HRV). One widely used clinical method for assessing HRV is RR-variation during deep breathing. RR-variation is a measure of the change in heart rate resulting from the variation in intrathoracic pressure due to respiration. It is predominantly a function of parasympathetic activity. In this study, RR-variation during deep breathing, performed for 6 min, was measured by vector analysis \\[i.e. mean circular resultant (MCR)\\] and by the expiration/inspiration (E/I) ratio of the first six breath cycles.",
+          "timeFrame": "baseline and 6 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Individuals \\>18 years old with type 1 or type 2 diabetes mellitus.\n\nExclusion Criteria:\n\n* Individuals currently taking the maximum dose of an ACE inhibitor or an ARB.\n* Individuals with a history of a MI, percutaneous coronary interventions, coronary artery bypass graft (CABG) surgery, acute coronary syndromes, recent/on going atrial fibrillation, frequent atrial arrhythmias, frequent ventricular arrhythmias, or acute myocardial ischemia changes.\n* Individuals whose treatment dosage changes 2 months prior to the study for antihypertensive and antidiabetes medications, and the following medications that may affect the ANS: anti-tuberculosis drugs, nitrofurantoin, metronidazole, chloramphenicol, perhexiline maleate, amiodarone, clofibrate, tricyclic antidepressants, phenytoin, barbiturates, neuroleptic, antiparkinsonism drugs, and nitrated drugs.\n* Pregnant or lactating females.\n* Individuals with impaired renal function (i.e., creatinine \\>1.5 mg/dl), a history of dialysis, nephritic syndrome or renovascular hypertension.\n* Individuals with potassium levels within 0.5 mmol/L of the upper limit of normal (i.e., hyperkalemia).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Raelene E Maser, PhD",
+          "affiliation": "University of Delaware",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Christiana Care Health Services",
+          "city": "Newark",
+          "state": "Delaware",
+          "zip": "19713",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.68372,
+            "lon": -75.74966
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Aliskiren",
+          "description": "300 mg, once daily, for 6 weeks"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Once daily, for 6 weeks"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "30"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "30"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "30"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "30"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Aliskiren",
+          "description": "300 mg, once daily, for 6 weeks"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Once daily, for 6 weeks"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "30"
+            },
+            {
+              "groupId": "BG001",
+              "value": "30"
+            },
+            {
+              "groupId": "BG002",
+              "value": "60"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "55"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "49",
+                      "spread": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "53",
+                      "spread": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "51",
+                      "spread": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "27"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "60"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Systolic Blood Pressure Before and After Treatment",
+          "description": "Systolic blood pressure at baseline and follow-up",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mm Hg",
+          "timeFrame": "baseline and 6 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Aliskiren",
+              "description": "300 mg, once daily, for 6 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Once daily, for 6 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "30"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "30"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "121.0",
+                      "spread": "11.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "124.1",
+                      "spread": "13.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Follow-up",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "112.1",
+                      "spread": "12.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "121.5",
+                      "spread": "15.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Diastolic Blood Pressure Before and After Treatment",
+          "description": "Diastolic blood pressure at baseline and follow-up.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mm Hg",
+          "timeFrame": "baseline and 6 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Aliskiren",
+              "description": "300 mg, once daily, for 6 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Once daily, for 6 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "30"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "30"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "66.1",
+                      "spread": "7.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "68.2",
+                      "spread": "8.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Follow-up",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61.5",
+                      "spread": "6.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "66.7",
+                      "spread": "9.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Serum Renin Level Before and After Treatment",
+          "description": "Serum renin level at baseline and follow-up",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "ug/l/h",
+          "timeFrame": "baseline and 6 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Aliskiren",
+              "description": "300 mg, once daily, for 6 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Once daily, for 6 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "30"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "30"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.4",
+                      "spread": "3.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.1",
+                      "spread": "6.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Follow-up",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.5",
+                      "spread": "0.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.6",
+                      "spread": "4.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Mean Circular Resultant Before and After Treatment",
+          "description": "Mean circular resultant at baseline and follow-up. There are several different assessment modalities used for the determination of cardiovascular autonomic function (i.e. HRV). One widely used clinical method for assessing HRV is RR-variation during deep breathing. RR-variation is a measure of the change in heart rate resulting from the variation in intrathoracic pressure due to respiration. It is predominantly a function of parasympathetic activity. In this study, RR-variation during deep breathing, performed for 6 min, was measured by vector analysis \\[i.e. mean circular resultant (MCR)\\] and by the expiration/inspiration (E/I) ratio of the first six breath cycles. With regard to the MCR, the length of the vector mean is proportional to the degree of HRV. Weinberg and Pfeifer first introduced the assessment of HRV via determination of the MCR in a paper in Biometrics 1984:40:855-861. Low HRV is considered to be less favorable.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "MCR is unitless",
+          "timeFrame": "baseline and 6 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Aliskiren",
+              "description": "300 mg, once daily, for 6 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Once daily, for 6 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "30"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "30"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "41.8",
+                      "spread": "19.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "38.2",
+                      "spread": "23.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Follow-up",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "50.8",
+                      "spread": "26.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37.5",
+                      "spread": "24.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Expiration/Inspiration Ratio Before and After Treatment",
+          "description": "Expiration/inspiration ratio at baseline and follow-up. There are several different assessment modalities used for the determination of cardiovascular autonomic function (i.e. HRV). One widely used clinical method for assessing HRV is RR-variation during deep breathing. RR-variation is a measure of the change in heart rate resulting from the variation in intrathoracic pressure due to respiration. It is predominantly a function of parasympathetic activity. In this study, RR-variation during deep breathing, performed for 6 min, was measured by vector analysis \\[i.e. mean circular resultant (MCR)\\] and by the expiration/inspiration (E/I) ratio of the first six breath cycles.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Ratio",
+          "timeFrame": "baseline and 6 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Aliskiren",
+              "description": "300 mg, once daily, for 6 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Once daily, for 6 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "30"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "30"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.22",
+                      "spread": "0.12"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.21",
+                      "spread": "0.14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Follow-up",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.28",
+                      "spread": "0.15"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.20",
+                      "spread": "0.14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Aliskiren",
+          "description": "300 mg, once daily, for 6 weeks",
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 30,
+          "otherNumAffected": 1,
+          "otherNumAtRisk": 30
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Once daily, for 6 weeks",
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 30,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 30
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Hyperkalemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 30
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 30
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Raelene E. Maser",
+        "organization": "University of Delaware/Christiana Care Health System",
+        "email": "rmaser@udel.edu",
+        "phone": "302-831-8400"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C446481",
+          "term": "aliskiren"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

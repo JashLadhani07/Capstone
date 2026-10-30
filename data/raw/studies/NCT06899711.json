@@ -1,0 +1,323 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06899711",
+      "orgStudyIdInfo": {
+        "id": "IRB00475054"
+      },
+      "organization": {
+        "fullName": "Johns Hopkins University",
+        "class": "OTHER"
+      },
+      "briefTitle": "External Post-Operative Skull Prosthesis to Prevent Sunken Flap Syndrome in Craniectomy Patients",
+      "officialTitle": "A Prospective Study to Evaluate the Protective Effects of External Cranial Prosthesis on Incidence of Sunken Flap Syndrome in Decompressive Craniectomy Patients",
+      "acronym": "ExO-Skull"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-05",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-04-26",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2028-04",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2028-04",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-03-21",
+      "studyFirstSubmitQcDate": "2025-03-21",
+      "studyFirstPostDateStruct": {
+        "date": "2025-03-28",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-05-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-05-11",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Johns Hopkins University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Patients that undergo decompressive craniectomy are at risk of delayed changes in brain function known as \"Sunken Flap Syndrome\" or \"Syndrome of the Trephined.\" The goal of this clinical trial is to see if placing a prosthetic over patients' skull defects can prevent \"Sunken Flap Syndrome.\"\n\nThe main questions are:\n\n1. Can placing a prosthetic device over patients' skull defects prevent Sunken Flap Syndrome?\n2. Can placing a prosthetic device over patients' skull defects decrease healthcare costs?\n3. Can placing a prosthetic device over patients' skull defects improve recovery and return of brain function after decompressive craniectomy?\n\nPatients that experience traumatic brain injuries, brain bleeds, and large strokes can build up high levels of pressure in the skull. When this pressure can't be controlled with medications, a life-saving surgery called a decompressive hemicraniectomy (DC) is often performed. In this surgery, a large portion of the patient's skull is removed to decrease pressure on the brain and decrease permanent damage.\n\nAfter this surgery, many patients experience sinking of the brain in the skull as the pressure inside the head improves. The skull normally protects the brain from the outside environment. When large parts of the skull are removed, the brain is not able to regulate itself normally. This can lead to a number of problems, such as headaches, weakness, seizures, and even coma and permanent brain damage. This is referred to as \"Sunken Flap Syndrome\" (SFS) or \"Syndrome of the Trephined\" (SoT). After 3-6 months, patients can have the missing skull surgically repaired, which improves and sometimes fixes SFS, but the damage is sometimes too severe to be reversed.\n\nThere are reports of patients with SFS treated with custom-made prosthetics that cover the missing piece of skull. In this study, the researchers want to see if wearing a custom-made prosthetic can prevent patients from experiencing SFS. Patients will also receive additional non-invasive measurement to see if the prosthetic can improve brain function and recovery. Finally, the researchers want to know if the prosthetic is cost-effective by decreasing the frequency that patients see doctors or receive care to treat SFS.\n\nPatients or the patient's medical decision makers will be asked if the patient wants to participate in the study after DC. If the patient or decision maker agrees to participate, the patient will be also asked if the patient wants to wear the prosthetic. The prosthetic is made of a common material used in other facial prosthetics. Patients that agree to wear the prosthetic will have a custom plate made for the participant.\n\nAll patients will receive the same post-operative care and appointments whether or not the prosthetic is worn. The participant will go to the normally scheduled post-operative doctor's appointments at 2 and 4 weeks after initial DC surgery. Patient's that agree to wear the prosthetic will receive it at the 4-week post-DC appointment. The participant will then be asked to wear it as much as possible, but to let the researchers know if the participant experiences any pain, itching, discomfort or other problems.\n\nAll patients will also be seen by the patient's physician before and after and after skull repair. At all appointments, patients will receive non-invasive testing of brain function. Recovery and rate of SFS will be compared between patients that do and do not wear the prosthetic.\n\nParticipants will:\n\n* Go to the normally scheduled 2 and 4 week post-DC appointments\n* Go to the normally scheduled pre- and post-skull repair appointments\n* Receive additional non-invasive brain health testing at each appointment\n\nParticipants that agree to wear a prosthetic will:\n\n* Receive the custom prosthetic at the 4-week post-DC appointment\n* Wear the prosthetic as much as possible, including at night\n* Take a brief survey about the prosthetic at the post-skull repair appointment"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Craniectomy",
+        "Trephined Syndrome",
+        "Traumatic Brain Injury (TBI) Patients",
+        "Ischemic Stroke"
+      ],
+      "keywords": [
+        "Syndrome of the Trephined",
+        "Sunken Flap Syndrome",
+        "Post-Craniectomy Syndrome",
+        "Craniectomy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 72,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "No Prosthesis",
+          "type": "NO_INTERVENTION",
+          "description": "Patients that elect not to wear the post-operative skull prosthesis will receive standard-of-care treatment which includes 2-week and 4-week post-operative appointments with neurologic assessments and pre- and post-cranioplasty appointments with neurologic assessments. In addition to their neurologic assessment, the participant will also receive trans-cranial duplex ultrasonography to measure the blood flow velocities in their middle cerebral arteries at each appointment."
+        },
+        {
+          "label": "External Cranial Prosthesis (ECP)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients that agree to participate in wearing the post-operative skull prosthesis will receive the prosthesis at their 4 week post-operative appointment. At this time, the participant will be asked to wear the prosthesis at all times, as much as the participant is able, and to notify the investigators of any pain, itching, discomfort, or other problems with the prosthesis. These patients will receive a neurologic assessment at this 4-week appointment and will also receive their standard-of-care 2-week post-craniectomy and pre- and post-cranioplasty appointments with neurologic assessments. In addition to these neurologic assessments, the participant will receive trans-cranial duplex ultrasonography to measure the blood flow velocities in their middle cerebral arteries at each appointment. Finally, patients' will receive a survey at their post-cranioplasty appointment with questions regarding their experience with the external cranial prosthesis.",
+          "interventionNames": [
+            "Device: External Cranial Prosthesis"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "External Cranial Prosthesis",
+          "description": "The external cranial prosthesis is a 3D printed external plate that approximates patients' post-craniectomy skull defect. The prosthesis is made from the same material used in other external Craniofacial prostheses. Patients will be counseled on securing it properly and comfortably on their scalp. Patients will be asked to wear this prosthesis as much as possible until Cranioplasty takes place. After Cranioplasty, the participant will be asked to stop wearing the prosthesis.",
+          "armGroupLabels": [
+            "External Cranial Prosthesis (ECP)"
+          ],
+          "otherNames": [
+            "External Skull Prosthesis",
+            "External Post-Operative Skull Prosthesis (ExO-Skull)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Incidence of Sunken Flap Syndrome",
+          "description": "Sunken Flap Syndrome will be defined as development of new neurologic symptoms after acute injury and craniectomy that improve quickly post-cranioplasty (ie. between pre- and post-cranioplasty appointments). Changes will be determined based on Glasgow coma scale, brainstem reflex assessment, confrontational strength testing, and Mini-Mental State Exam testing (MMSE). Patients that have improvement in at least one of these modalities will indicate that the patient suffered from SFS and the reported variable will be \"incidence of SFS\". The incidence of SFS will be compared between the intervention and non-intervention groups using chi-squared analysis.",
+          "timeFrame": "Up to 6 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Ratio of Ipsilateral to Contralateral Middle Cerebral Artery Flow Velocity",
+          "description": "Patients will receive trans-cranial duplex ultrasounds (TCDs) of their middle cerebral arteries (MCAs) at each of their appointments (4-week post-craniectomy and pre- and post-cranioplasty). For each patient that receives TCDs of their MCAs, the investigators will collect the velocity of flow in the MCA ipsilateral to the craniectomy and contralateral to the craniectomy. The investigators will compare the ratio of the ipsilateral and contralateral velocities between the intervention and non-intervention groups via Student's t-test.",
+          "timeFrame": "Up to 6 months"
+        },
+        {
+          "measure": "Difference in health care utilization for post-craniectomy patients with implementation of ECP",
+          "description": "To determine differences in health care utilization between the intervention and non-intervention arms after craniectomy, the investigators will record number of additional hospitalizations, number of days spent inpatient in a hospital facility after discharge from index admission, number of days spent in an ICU after discharge from index admission, number of imaging studies of the brain (CT and MRI) obtained after discharge from index admission, and the number of Emergency Department (ED) visits after discharge from index admission for each patient. These variables will be compared between the two groups via Student's t-test with an alpha of 0.05.",
+          "timeFrame": "Up to 6 months"
+        },
+        {
+          "measure": "The effect of ECP on neurologic recovery measured by Glascow Coma Scale (GCS)",
+          "description": "Patients will receive neurologic assessments at each post-craniectomy appointment including GCS (score range 3-15). The difference in patients' GCS between their 2-week post-craniectomy and 2 week post-cranioplasty assessments will be compared between the intervention and non-intervention group via Student's T-test with an alpha of 0.05. In general, a higher GCS score less likelihood of brain injury, better outcome.",
+          "timeFrame": "Up to 6 months"
+        },
+        {
+          "measure": "The effect of ECP on neurologic recovery as measured by confrontational strength testing",
+          "description": "Patients will receive neurologic assessments at each post-craniectomy appointment including confrontational strength testing. Strength is measured on a scale from 0-5 with 5 indicating full strength. The difference in their performance at the 2-week post-craniectomy and 2 week post-cranioplasty assessments will be compared between the intervention and non-intervention groups via Student's T-test with an alpha of 0.05.",
+          "timeFrame": "Up to 6 months"
+        },
+        {
+          "measure": "The effect of ECP on neurologic recovery as measured by Mini Mental Status Exam",
+          "description": "Patients will receive neurologic assessments at each post-craniectomy appointment including Mini Mental Status Exam. This is measured on a scale from 0 to 30 with lower scores indicating more cognitive impairment. The difference in patients' MMSE score at the 2-week post-craniectomy and 2 week post-cranioplasty assessments will be compared between the intervention and non-intervention groups via Student's T-test with an alpha of 0.05.",
+          "timeFrame": "Up to 6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18\n* Patients must be admitted to Johns Hopkins Hospital or Johns Hopkins Bayview Medical Center\n* Patients must have undergone decompressive hemicraniectomy within 2 weeks of consent for inclusion in the study (before the initial 2 week post-craniectomy assessment)\n\nExclusion Criteria:\n\n* Patients that undergo bilateral decompressive hemicraniectomy\n* Patients that undergo suboccipital decompressive craniectomy\n* Patients with pre-existing diagnosis of hydrocephalus\n* Patients with a ventriculoperitoneal, ventriculoatrial, or other permanent cerebrospinal fluid shunt\n* Patients with an open external ventricular drain at the time of their 2 week post-craniectomy assessment",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Joseph M Dardick, MD",
+          "role": "CONTACT",
+          "phone": "314-249-4648",
+          "email": "jdardic1@jhmi.edu"
+        },
+        {
+          "name": "Fernando Gonzalez, MD",
+          "role": "CONTACT",
+          "phone": "919-886-1166",
+          "email": "fernando.gonzalez@jhu.edu"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Joseph M Dardick, MD",
+          "affiliation": "Johns Hopkins Medical Institute",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Fernando Gonzalez, MD",
+          "affiliation": "Johns Hopkins University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Johns Hopkins Bayview Medical Center",
+          "status": "RECRUITING",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Joseph M Dardick, MD",
+              "role": "CONTACT",
+              "phone": "314-249-4648",
+              "email": "jdardic1@jhmi.edu"
+            },
+            {
+              "name": "Fernando Gonzalez, MD",
+              "role": "CONTACT",
+              "phone": "919-886-1166",
+              "email": "fernando.gonzalez@jhu.edu"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Johns Hopkins Hospital",
+          "status": "RECRUITING",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Joseph M Dardick, MD",
+              "role": "CONTACT",
+              "phone": "314-249-4648",
+              "email": "jdardic1@jhmi.edu"
+            },
+            {
+              "name": "Fernando Gonzalez, MD",
+              "role": "CONTACT",
+              "phone": "919-886-1166",
+              "email": "fernando.gonzalez@jhu.edu"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000070642",
+          "term": "Brain Injuries, Traumatic"
+        },
+        {
+          "id": "D000083242",
+          "term": "Ischemic Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001930",
+          "term": "Brain Injuries"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D006259",
+          "term": "Craniocerebral Trauma"
+        },
+        {
+          "id": "D020196",
+          "term": "Trauma, Nervous System"
+        },
+        {
+          "id": "D014947",
+          "term": "Wounds and Injuries"
+        },
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

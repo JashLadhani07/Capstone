@@ -1,0 +1,25 @@
+{
+  "pmid": "37257563",
+  "title": "Impact of a Low-Carbohydrate Compared with Low-Fat Breakfast on Blood Glucose Control in Type 2 Diabetes: A Randomized Trial.",
+  "abstract": "In type 2 diabetes (T2D), consuming carbohydrates results in a rapid and large increase in blood glucose, particularly in the morning when glucose intolerance is highest. We investigated if a low-carbohydrate (LC) breakfast (\u223c465 kcal: 25 g protein, 8 g carbohydrates, and 37 g fat) could improve glucose control in people with T2D when compared with a low-fat control (CTL) breakfast (\u223c450 kcal:20 g protein, 56 g carbohydrates, and 15 g fat). Participants with T2D (N = 121, 53% women, mean age 64 y) completed a remote 3-month parallel-group randomized controlled trial comparing a LC with standard low-fat guideline CTL breakfast. The change in HbA1c was the prespecified primary outcome. Continuous glucose monitoring, self-reported anthropometrics, and dietary information were collected for an intention-to-treat analysis. HbA1c was reduced (-0.3%; 95% CI: -0.4%, -0.1%) after 12 wks of a LC breakfast, but the between-group difference in HbA1c was of borderline statistical significance (-0.2; 95% CI: -0.4, 0.0; P = 0.06). Self-reported total daily energy (-242 kcal; 95% CI: -460, -24 kcal; P = 0.03) and carbohydrate (-73 g; 95% CI: -101, -44 g; P < 0.01) intake were lower in the LC group but the significance of this difference is unclear. Mean and maximum glucose, area under the curve, glycemic variability, standard deviation, and time above range were all significantly lower, and time in the range was significantly higher, in the LC group compared with CTL (all P < 0.05). Advice and guidance to consume a LC breakfast appears to be a simple dietary strategy to reduce overall energy and carbohydrate intake and improve several continuous glucose monitoring variables when compared with a CTL breakfast in persons living with T2D. The trial was registered at clinicaltrials.gov as NCT04550468.",
+  "journal": "The American journal of clinical nutrition",
+  "pub_date": "2023-Jul",
+  "authors": [
+    "Oliveira, Barbara F",
+    "Chang, Courtney R",
+    "Oetsch, Kate",
+    "Falkenhain, Kaja",
+    "Crampton, Kara",
+    "Stork, Matthew",
+    "Hoonjan, Malvinder",
+    "Elliott, Thomas",
+    "Francois, Monique E",
+    "Little, Jonathan P"
+  ],
+  "nct_ids_referenced": [
+    "NCT04550468"
+  ],
+  "source": "pubmed",
+  "word_count": 286,
+  "parsed_at": "2026-10-30T10:29:49.986469"
+}

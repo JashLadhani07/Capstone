@@ -1,0 +1,696 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04935333",
+      "orgStudyIdInfo": {
+        "id": "IGX1-DTU-AM-21-03"
+      },
+      "organization": {
+        "fullName": "Igenomix",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Accuracy of the Preoperative Molecular Diagnosis of Uterine Tumors by Liquid Biopsy",
+      "officialTitle": "Prospective, Observational and Multicenter Case-control Study to Evaluate the Precision of the Preoperative Molecular Diagnosis of Uterine Tumors by Liquid Biopsy",
+      "acronym": "MYOSARCII"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-09",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-09",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-05",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2023-05",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-06-21",
+      "studyFirstSubmitQcDate": "2021-06-21",
+      "studyFirstPostDateStruct": {
+        "date": "2021-06-23",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-09-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-09-10",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Igenomix",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The development of precise and non-invasive diagnostic methods is a priority in areas such as gynaecology and oncology, and above all in improving the health of those patients with a surgical indication for hysterectomy, laparoscopic or laparotomic myomectomy for diagnosis of uterine tumours. Indeed, in the absence of an accurate and objective preoperative diagnostic option, all patients with suspected benign tumours should be considered at risk for occult leiomyosarcoma.\n\nRecently, the concept of \"liquid biopsy\" has emerged as a minimally invasive alternative to surgical biopsies for solid tumours with highly recurrent mutations, avoiding the sampling of tumour tissue before and after treatment. Generally, the liquid biopsy is obtained by taking a sample of blood or other body fluids, to provide tumour-specific information.\n\nBased on these premises, a prospective, observational and multicentre case-control study is proposed, the objective of which is to evaluate the diagnostic precision (sensitivity, specificity, negative predictive value and positive predictive value) in the detection of molecular differences by liquid biopsy in patients with suspected myometrial tumour (leiomyoma / leiomyosarcoma).\n\nDepending on the results of these analysis, the application of this technology could allow the differential diagnosis of the tumour in a non-invasive and objective way, as well as the development of biomarkers and effective targeted therapies in the treatment of leiomyosarcomas. Consequently, we would also be increasing our knowledge of tumour biology and associated pathologies in a clinical and therapeutic context.",
+      "detailedDescription": "Recently, the concept of \"liquid biopsy\" has emerged as a minimally invasive alternative to surgical biopsies. Generally, the liquid biopsy is obtained by taking a sample of blood or other body fluids, to provide tumour-specific information.\n\nThe use of technologies such as high-throughput sequencing or Next Generation Sequencing (NGS) could be an effective method for the detection of molecular differences from circulating genetic material in peripheral blood of patients with suspected myometrial tumour (leiomyoma / leiomyosarcoma), versus patients without tumour pathologies.\n\nThis is a prospective, multicentre, national biomedical case-control study aimed at patients with a surgical indication for hysterectomy or myomectomy due to the diagnosis of myometrial tumours (leiomyoma / leiomyosarcoma) according to standard clinical practice.\n\nOnce the study is approved by the Research Ethics Committee (CEI) of the Hospital, we will proceed to the recruitment and selection of those patients who meet the inclusion criteria.\n\nAfter obtaining informed consent, peripheral blood will be collected from the candidate patient, prior to the surgery that the patient had already planned for medical indication in accordance with the usual clinical practice or, in the case of control patients, during an analysis or gynaecological consultation that was already planned to be performed by routine clinical practice. These samples will be sent to the Igenomix Foundation laboratories for molecular study.\n\nFinally, and once both molecular and histological results are obtained, the precision of the determination of the molecular results will be compared with the \"gold standard\" in the diagnosis of myometrial tumours through two expert evaluators in pathological anatomy.\n\nIn this way, if the hypothesis raised is confirmed and the proposed objectives are achieved, we would be demonstrating the viability of a minimally invasive and precise preoperative diagnostic approach, based on the molecular characterization of leiomyoma and leiomyosarcoma.\n\nWhen calculating the sample size for our study, we have considered the main objective, which is the validation of the test, comparing it with the \"gold standard\" of pathological anatomy. To calculate the sensitivity and specificity of the test, we would need a minimum of 200 LMS samples, 200 LM samples, and 200 control patient samples for validation.\n\nIt is intended to establish a cut-off point with a preliminary analysis in the first 30 patients (10 first patients from each group), in which the laboratory data are combined with those derived from the Pathological Anatomy (Gold Standard)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Leiomyoma, Uterine",
+        "Leiomyosarcoma Uterus"
+      ],
+      "keywords": [
+        "Leiomyoma (LM)",
+        "Leiomyosarcoma (LMS)",
+        "Sarcoma",
+        "Next Generation Sequencing",
+        "Circulating tumour cells (CTC)",
+        "Plasma cell-free RNA (cfRNA)"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "CASE_CONTROL",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "Blood samples to provide tumour-specific information from the circulating tumour cells (CTC) and or free tumour DNA / RNA (ctDNA / ctRNA) present in peripheral blood."
+      },
+      "enrollmentInfo": {
+        "count": 600,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Leiomyoma samples",
+          "description": "Leiomyoma samples and peripheral blood samples obtained from women between 18 and 80 years with suspected myometrial tumour",
+          "interventionNames": [
+            "Procedure: Collection of Leiomyoma samples"
+          ]
+        },
+        {
+          "label": "Leiomyosarcoma samples",
+          "description": "Leiomyosarcoma samples and peripheral blood samples obtained from women between 18 and 80 years with suspected myometrial tumour",
+          "interventionNames": [
+            "Procedure: Collection of Leiomyosarcoma samples"
+          ]
+        },
+        {
+          "label": "Control samples",
+          "description": "Peripheral blood samples obtained from women between 18 and 80 years without suspected myometrial tumour",
+          "interventionNames": [
+            "Procedure: Collection of control samples"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Collection of Leiomyoma samples",
+          "description": "Peripheral blood will be collected from the candidate patient with suspected myometrial tumours, prior to the surgery already planned form medical indication in accordance with routine clinical practice.\n\nA sample of tumour tissue will be collected during surgery and sent to pathologists for diagnosis in accordance with the usual clinical practice. The tumour paraffin block/sections will be requested for the study only after the diagnosis.",
+          "armGroupLabels": [
+            "Leiomyoma samples"
+          ],
+          "otherNames": [
+            "Obtainment of blood sample (peripheral blood) and tumour tissue sample"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Collection of Leiomyosarcoma samples",
+          "description": "Peripheral blood will be collected from the candidate patient with suspected myometrial tumours, prior to the surgery already planned form medical indication in accordance with routine clinical practice.\n\nA sample of tumour tissue will be collected during surgery and sent to pathologists for diagnosis in accordance with the usual clinical practice. The tumour paraffin block/sections will be requested for the study only after the diagnosis.",
+          "armGroupLabels": [
+            "Leiomyosarcoma samples"
+          ],
+          "otherNames": [
+            "Obtainment of blood sample (peripheral blood) and tumour tissue sample"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Collection of control samples",
+          "description": "Peripheral blood will be collected during an analysis or gynaecological consultation already planned by routine clinical practice. The sample will be sent to Igenomix for molecular analysis.",
+          "armGroupLabels": [
+            "Control samples"
+          ],
+          "otherNames": [
+            "Obtainment of blood sample (peripheral blood)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Diagnostic precision of uterine tumours at molecular level",
+          "description": "Sensitivity, specificity, negative predictive value and positive predictive value of the molecular diagnosis of uterine tumours by liquid biopsy as a preoperative diagnosis, using pathological diagnosis as a \"gold standard\" to validate the molecular diagnosis.",
+          "timeFrame": "25 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Concordance of Circulating tumour DNA / RNA versus DNA / RNA in tumour",
+          "description": "Determine the concordance of circulating tumour DNA / RNA in plasma (ctRNA / ctDNA) versus the contribution of tumour tissue DNA / RNA in determining the diagnosis and histological subtype",
+          "timeFrame": "25 months"
+        },
+        {
+          "measure": "Inter-observer variability",
+          "description": "Inter-observer variability in determining the histological diagnosis of uterine tumours in the analysis performed by pathologists",
+          "timeFrame": "25 months"
+        },
+        {
+          "measure": "Evaluation of Circulating tumour DNA / RNA profile for oncological outcome",
+          "description": "Contribution of the plasma circulating tumour DNA / RNA profile (ctRNA / ctDNA) in determining the oncological outcome (survival, disease-free interval)",
+          "timeFrame": "25 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who voluntarily sign the informed consent approved by the Research Ethics Committee (CEI) after having been duly informed of the nature of the study, before carrying out any test related to it, knowing the potential risks, benefits and discomforts derived from their participation. Participants should be informed that they may leave the study at any time, without this entailing any consequence for their subsequent medical care.\n* BMI = 18.5-40 kg / m2\n* Age = 18-80 years\n* Surgical indication according to usual clinical practice, due to suspicion of a tumour mass in the uterus, either primary (stages I-IV) or recurrence, but without prior chemotherapy or radiotherapy (at the time of primary diagnosis or prior to recurrence) .\n* Note: Control patients will have the same inclusion criteria for BMI and age but without uterine tumour pathology.\n\nExclusion Criteria:\n\n* Patients who have participated in a clinical trial during the last 30 days unless it is approved by the sponsor as it does not interfere with the current study.\n* Patients who have received chemotherapy or radiotherapy before taking the sample (in case of recurrence).\n* Pregnant patients before or during the duration of the study.\n* Existence of serious or uncontrolled bacterial, fungal, or viral infections (type HPV, HIV, hepatitis) that, in the opinion of the principal investigator, could interfere with the participation of the patient in the study or in the evaluation of the study results.\n* Any disease or medical condition that is unstable or may jeopardize patient safety and compliance in the study. For example: patients with an active history of other malignant tumours.\n* Psychological, family, sociological or geographical situations that do not allow compliance with the protocol or the signing of informed consent.\n* Patients vaccinated with mRNA vaccines in the week before surgery.\n* Note: Control patients will have the same exclusion criteria as patients with tumour pathology",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Women between 18 and 80 years old and with a body mass index (BMI) of 18.5-40.0 kg / m2, with suspected myometrial tumour (leiomyoma / leiomyosarcoma) based on clinical symptoms and imaging diagnosis, will be evaluated in their referral centre, verifying that they meet the inclusion / exclusion criteria to participate in the study. Women with the same age and BMI but without a uterine tumour will be used as control patients.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Carlos G\u00f3mez, BSc, MSc",
+          "role": "CONTACT",
+          "phone": "+34 963905310",
+          "email": "carlos.gomez@igenomix.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Carlos Sim\u00f3n, MD, PhD",
+          "affiliation": "Igenomix",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Aymara Mas, PhD",
+          "affiliation": "Igenomix Foundation",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Hospital Universitario de Son LL\u00e0tzer de Mallorca",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Palma de Mallorca",
+          "state": "Balearic Islands",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Albert Reyes, MD",
+              "role": "CONTACT",
+              "phone": "+34 871 20 20 00",
+              "email": "areyes1@hsll.es"
+            },
+            {
+              "name": "Cristina Mart\u00ednez, MD",
+              "role": "CONTACT",
+              "phone": "+34 871 20 20 00",
+              "email": "mcmartinez@hsll.es"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.56939,
+            "lon": 2.65024
+          }
+        },
+        {
+          "facility": "Hospital Universitari de Bellvitge",
+          "status": "NOT_YET_RECRUITING",
+          "city": "L'Hospitalet de Llobregat",
+          "state": "Barcelona",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Jose Manuel Mart\u00ednez, MD",
+              "role": "CONTACT",
+              "phone": "+34 932 60 75 00",
+              "email": "jmartinezgar@bellvitgehospital.cat"
+            },
+            {
+              "name": "Sergi Fern\u00e1ndez, MD",
+              "role": "CONTACT",
+              "phone": "+34 932 60 75 00",
+              "email": "sergi.sfg@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.35967,
+            "lon": 2.10028
+          }
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario Insular de Las Palmas",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Las Palmas de Gran Canaria",
+          "state": "Las Palmas",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Miguel And\u00fajar, MD",
+              "role": "CONTACT",
+              "phone": "+34 928 44 40 00",
+              "email": "mandsan@gobiernodecanarias.org"
+            },
+            {
+              "name": "Octavio Arencibia, MD",
+              "role": "CONTACT",
+              "phone": "+34 928 44 40 00",
+              "email": "octavaren@hotmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 28.10178,
+            "lon": -15.41573
+          }
+        },
+        {
+          "facility": "Hospital Universitario de Getafe",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Getafe",
+          "state": "Madrid",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Bel\u00e9n Mart\u00edn, MD",
+              "role": "CONTACT",
+              "phone": "+34 916 83 93 60",
+              "email": "belenmsalamanca@yahoo.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.30571,
+            "lon": -3.73295
+          }
+        },
+        {
+          "facility": "Hospital Universitario Puerta de Hierro Majadahonda",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Majadahonda",
+          "state": "Madrid",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Tirso P\u00e9rez, MD",
+              "role": "CONTACT",
+              "phone": "+34 911 91 60 00",
+              "email": "tirsoperezmedina@gmail.com"
+            },
+            {
+              "name": "Augusto Pereira, MD",
+              "role": "CONTACT",
+              "phone": "+34 911 91 60 00",
+              "email": "augusto.pereira@salud.madrid.org"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.47353,
+            "lon": -3.87182
+          }
+        },
+        {
+          "facility": "Complejo Hospitalario de Cartagena",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Cartagena",
+          "state": "Murcia",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Sebasti\u00e1n Ortiz, MD",
+              "role": "CONTACT",
+              "phone": "+34 968 12 86 00",
+              "email": "sortizreina@yahoo.es"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.60197,
+            "lon": -0.98397
+          }
+        },
+        {
+          "facility": "Complejo Hospitalario de Navarra",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Pamplona",
+          "state": "Navarre",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Juan Carlos Muruzabal, MD",
+              "role": "CONTACT",
+              "phone": "+34 848 42 22 22",
+              "phoneExt": "59958",
+              "email": "jc.muruzabal.torquemada@navarra.es"
+            }
+          ],
+          "geoPoint": {
+            "lat": 42.81687,
+            "lon": -1.64323
+          }
+        },
+        {
+          "facility": "Hospital General de Alicante",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Alicante",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Maria Jos\u00e9 Rom\u00e1n, MD",
+              "role": "CONTACT",
+              "phone": "+34 965 93 30 00",
+              "email": "mjromangine@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "status": "RECRUITING",
+          "city": "Barcelona",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Berta D\u00edaz, MD",
+              "role": "CONTACT",
+              "phone": "+34 932 27 54 00",
+              "email": "bertadiazfeijoo@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital del Mar Parc Salut",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Barcelona",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Gemma Mancebo, MD",
+              "role": "CONTACT",
+              "phone": "+34 932 48 30 00",
+              "email": "gemmamancebom@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Universitario de Le\u00f3n",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Le\u00f3n",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Tatiana Cuesta, MD",
+              "role": "CONTACT",
+              "phone": "+34 987 23 74 00",
+              "email": "tguardio@hotmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 42.60003,
+            "lon": -5.57032
+          }
+        },
+        {
+          "facility": "Hospital MD Anderson Cancer Center Madrid",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Madrid",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Javier De Santiago, MD",
+              "role": "CONTACT",
+              "phone": "+34 912 77 72 20",
+              "email": "jsantiagog@hotmail.es"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Quir\u00f3n Madrid",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Madrid",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Sara Iacoponi, MD",
+              "role": "CONTACT",
+              "phone": "+34 914 52 19 00",
+              "email": "saraiacoponi@hotmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre de Madrid",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Madrid",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Blanca Gil, MD",
+              "role": "CONTACT",
+              "phone": "+34 913 90 80 00",
+              "email": "blancalabacin@hotmail.com"
+            },
+            {
+              "name": "Alvaro Tejerizo, MD",
+              "role": "CONTACT",
+              "phone": "+34 913 90 80 00",
+              "email": "tejerizo@hotmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Regional Universitario de M\u00e1laga",
+          "status": "NOT_YET_RECRUITING",
+          "city": "M\u00e1laga",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Jes\u00fas Jimenez, MD",
+              "role": "CONTACT",
+              "phone": "+34 951 29 00 00",
+              "email": "jjimenezme35426@hotmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 36.72016,
+            "lon": -4.42034
+          }
+        },
+        {
+          "facility": "Hospital Cl\u00ednico Universitario Virgen de la Arrixaca de Murcia",
+          "status": "RECRUITING",
+          "city": "Murcia",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "An\u00edbal Nieto, MD",
+              "role": "CONTACT",
+              "phone": "+34 968 36 95 00",
+              "email": "anibal.nieto@um.es"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.98704,
+            "lon": -1.13004
+          }
+        },
+        {
+          "facility": "Hospital Virgen de la Macarena",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Seville",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Francisco M\u00e1rquez, MD",
+              "role": "CONTACT",
+              "phone": "+34 955 00 80 00",
+              "email": "fmarquezma@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.38283,
+            "lon": -5.97317
+          }
+        },
+        {
+          "facility": "Hospital Virgen de la Salud de Toledo",
+          "status": "RECRUITING",
+          "city": "Toledo",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Sara Rojas, MD",
+              "role": "CONTACT",
+              "phone": "+34 925 26 61 00",
+              "email": "sararjsrz@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.8581,
+            "lon": -4.02263
+          }
+        },
+        {
+          "facility": "Hospital Cl\u00ednico Universitario de Valencia",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Valencia",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Aymara Mas, PhD",
+              "role": "CONTACT",
+              "phone": "+34 961 97 35 00",
+              "email": "amas@incliva.es"
+            },
+            {
+              "name": "Octavio Burgues, MD",
+              "role": "CONTACT",
+              "phone": "+34 961 97 35 00",
+              "email": "octavioburgues@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Hospital General Universitario de Valencia",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Valencia",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Juan Gilabert, MD",
+              "role": "CONTACT",
+              "phone": "+34 963 13 18 00",
+              "email": "juangilaeste@yahoo.es"
+            },
+            {
+              "name": "Kristina Aghababyan, MD",
+              "role": "CONTACT",
+              "phone": "+34 963 13 18 00",
+              "email": "dra.kristina.agababyan@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Hospital Universitario y Polit\u00e9cnico La Fe de Valencia",
+          "status": "RECRUITING",
+          "city": "Valencia",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Santiago Domingo, MD",
+              "role": "CONTACT",
+              "phone": "+34 961 24 43 50",
+              "email": "santiago.domingo.delpozo@gmail.com"
+            },
+            {
+              "name": "Javier Monle\u00f3n, MD",
+              "role": "CONTACT",
+              "phone": "+34 961 24 43 50",
+              "email": "monlesancho@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007889",
+          "term": "Leiomyoma"
+        },
+        {
+          "id": "D007890",
+          "term": "Leiomyosarcoma"
+        },
+        {
+          "id": "D012509",
+          "term": "Sarcoma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009379",
+          "term": "Neoplasms, Muscle Tissue"
+        },
+        {
+          "id": "D018204",
+          "term": "Neoplasms, Connective and Soft Tissue"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

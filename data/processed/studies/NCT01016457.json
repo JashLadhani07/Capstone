@@ -1,0 +1,230 @@
+{
+  "nct_id": "NCT01016457",
+  "title": "Real-Time Continuous Glucose Monitoring in Pre-School Children With Type-1 Diabetes Mellitus",
+  "sponsor": "Sheba Medical Center",
+  "phase": "PHASE4",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Diabetes Mellitus"
+  ],
+  "interventions": [
+    "Guardian RT"
+  ],
+  "primary_outcome": "HbA1C",
+  "secondary_outcomes": [
+    "Quality of life",
+    "Number of night hypoglycemias",
+    "Mean glucose level"
+  ],
+  "start_date": "2008-12",
+  "completion_date": "2009-08",
+  "results_posted": false,
+  "enrollment": 15,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01016457",
+        "orgStudyIdInfo": {
+          "id": "SHEBA-07-4980-KMA-CTIL"
+        },
+        "organization": {
+          "fullName": "Sheba Medical Center",
+          "class": "OTHER_GOV"
+        },
+        "briefTitle": "Real-Time Continuous Glucose Monitoring in Pre-School Children With Type-1 Diabetes Mellitus",
+        "officialTitle": "Real-Time Continuous Glucose Monitoring in Pre-School Children With Type-1 Diabetes Mellitus"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2009-11",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2008-12"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2009-08",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2009-12",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2009-11-18",
+        "studyFirstSubmitQcDate": "2009-11-18",
+        "studyFirstPostDateStruct": {
+          "date": "2009-11-19",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2009-11-18",
+        "lastUpdatePostDateStruct": {
+          "date": "2009-11-19",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "oldNameTitle": "Dr. Kineret Mazor-Aronovitch",
+          "oldOrganization": "Ped Endocrine & Diabetes Unit, Safra's Children Hospital, Sheba Medical Center"
+        },
+        "leadSponsor": {
+          "name": "Sheba Medical Center",
+          "class": "OTHER_GOV"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to compare glucose control, quality of life and number of hypoglycemias in preschool children before and after using a real-time glucosensor. Nocturnal hypoglycemia can be missed even when the parents check their children's blood glucose several times at night. The investigators hypothesise that nocturnal hypoglycemia can be prevented by using the sensor in this age group. As a consequence, quality of life of the families will improve. The investigators also hypothesise that diabetes control will improve at 3-6 months from the beginning of the study."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus"
+        ],
+        "keywords": [
+          "Diabetes Mellitus"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE4"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "DIAGNOSTIC",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 15,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Guardian RT",
+            "description": "The sensor is inserted similarly to the insulin pump. It measures sub cutaneous glucose every 5 minutes. It alerts of high and low glucose levels, according to set limits.",
+            "otherNames": [
+              "Real-time continuous glucose monitoring"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "HbA1C",
+            "timeFrame": "Start of study, after 3 months, after 6 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Quality of life",
+            "timeFrame": "Before and after connecting to sensor"
+          },
+          {
+            "measure": "Number of night hypoglycemias",
+            "timeFrame": "During 2 weeks before connecting to sensor, during connection and 3 montjs after disconnecting"
+          },
+          {
+            "measure": "Mean glucose level",
+            "timeFrame": "During the first week of connecting to sensor and during the last week of connecting"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Duration of diabetes for more than 6 months\n* Use of insulin pump for more than 3 months",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "1 Year",
+        "maximumAge": "6 Years",
+        "stdAges": [
+          "CHILD"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Kineret Mazor-Aronovitch, MD",
+            "role": "CONTACT",
+            "phone": "972-3-5305022",
+            "email": "kineret@gmail.com"
+          },
+          {
+            "name": "Orit Pinhas-Hamiel, MD",
+            "role": "CONTACT",
+            "phone": "972-3-5305015",
+            "email": "Orit.Hamiel@sheba.health.gov.il"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Kineret Mazor-Aronovitch, MD",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Sheba Medical Center",
+            "status": "RECRUITING",
+            "city": "Ramat Gan",
+            "country": "Israel",
+            "contacts": [
+              {
+                "name": "Kineret Mazor-Aronovitch",
+                "role": "CONTACT",
+                "email": "kineret@gmail.com"
+              }
+            ],
+            "geoPoint": {
+              "lat": 32.08227,
+              "lon": 34.81065
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718436"
+}

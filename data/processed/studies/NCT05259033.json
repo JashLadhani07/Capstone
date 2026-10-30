@@ -1,0 +1,4737 @@
+{
+  "nct_id": "NCT05259033",
+  "title": "A 52 Week Study Comparing the Efficacy and Safety of Once Weekly IcoSema and Once Weekly Semaglutide, Both Treatment Arms With or Without Oral Anti Diabetic Drugs, in Participants With Type 2 Diabetes Inadequately Controlled With a GLP 1 Receptor Agonist. COMBINE 2",
+  "sponsor": "Novo Nordisk A/S",
+  "phase": "PHASE3",
+  "status": "COMPLETED",
+  "conditions": [
+    "Diabetes Mellitus, Type 2"
+  ],
+  "interventions": [
+    "IcoSema",
+    "Semaglutide 1 mg"
+  ],
+  "primary_outcome": "Change From Baseline in Glycosylated Haemoglobin (HbA1c)",
+  "secondary_outcomes": [
+    "Change From Baseline in Fasting Plasma Glucose (FPG)",
+    "Change From Baseline in Body Weight",
+    "Number of Clinically Significant Hypoglycaemic Episodes (Level 2) (<3.0 mmol/L (54 Milligram Per Decilitre [mg/dL]) , Confirmed by Blood Glucose [BG] Meter) or Severe Hypoglycaemic Episodes (Level 3)",
+    "Number of Clinically Significant Hypoglycaemic Episodes (Level 2) (<3.0 mmol/L (54 mg/dL), Confirmed by BG Meter)",
+    "Number of Severe Hypoglycaemic Episodes (Level 3)"
+  ],
+  "start_date": "2022-04-11",
+  "completion_date": "2023-12-13",
+  "results_posted": true,
+  "enrollment": 683,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05259033",
+        "orgStudyIdInfo": {
+          "id": "NN1535-4592"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "U1111 1260 8268",
+            "type": "OTHER",
+            "domain": "World Health Organization (WHO)"
+          },
+          {
+            "id": "2020 005308 21",
+            "type": "EUDRACT_NUMBER"
+          }
+        ],
+        "organization": {
+          "fullName": "Novo Nordisk A/S",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Research Study to See How Well the New Weekly Medicine IcoSema, Which is a Combination of Insulin Icodec and Semaglutide, Controls Blood Sugar Level in People With Type 2 Diabetes Compared to Weekly Semaglutide (COMBINE 2)",
+        "officialTitle": "A 52 Week Study Comparing the Efficacy and Safety of Once Weekly IcoSema and Once Weekly Semaglutide, Both Treatment Arms With or Without Oral Anti Diabetic Drugs, in Participants With Type 2 Diabetes Inadequately Controlled With a GLP 1 Receptor Agonist. COMBINE 2",
+        "acronym": "COMBINE 2"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-05",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2022-04-11",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2023-12-13",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2024-01-16",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2022-02-10",
+        "studyFirstSubmitQcDate": "2022-02-17",
+        "studyFirstPostDateStruct": {
+          "date": "2022-02-28",
+          "type": "ACTUAL"
+        },
+        "resultsFirstSubmitDate": "2024-12-11",
+        "resultsFirstSubmitQcDate": "2025-01-16",
+        "resultsFirstPostDateStruct": {
+          "date": "2025-01-17",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-05-25",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-06-12",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Novo Nordisk A/S",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study will compare the new medicine IcoSema, which is a combination of insulin icodec and semaglutide, taken once a week, to semaglutide taken once a week in people with type 2 diabetes.\n\nThe study will look at how well IcoSema controls blood sugar level in people with type 2 diabetes compared to semaglutide.\n\nParticipants will either get IcoSema or semaglutide. Which treatment participants get is decided by chance. IcoSema is a new medicine that doctors cannot prescribe. Doctors can already prescribe semaglutide in many countries.\n\nParticipants will get IcoSema or semaglutide, which they must inject once a week with a pen, which has a small needle, in a skin fold in the thigh, upper arm, or stomach.\n\nThe study will last for about 1 year and 1 month. Participants will have 18 clinic visits, 34 phone/video calls with the study doctor, and 4 contacts with the site that can either be clinic visits or phone/video calls.\n\nAt 11 clinic visits participants will have blood samples taken. At 7 clinic visits participants cannot eat or drink (except for water) for 8 hours before the visit.\n\nWomen cannot take part if pregnant, breast-feeding or plan to get pregnant during the study period."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus, Type 2"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 683,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "IcoSema",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will get once weekly dose",
+            "interventionNames": [
+              "Drug: IcoSema"
+            ]
+          },
+          {
+            "label": "Semaglutide",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will get once weekly dose",
+            "interventionNames": [
+              "Drug: Semaglutide 1 mg"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "IcoSema",
+            "description": "IcoSema once weekly subcutaneously (s.c., under the skin) using a needle and a pen.\n\nFor about 1 year and 1 month.",
+            "armGroupLabels": [
+              "IcoSema"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Semaglutide 1 mg",
+            "description": "Semaglutide once weekly subcutaneously (s.c., under the skin). Dose titrated to 1mg over 8 weeks (0.25 mg for 4 weeks, 0.5 mg for 4 weeks). For about 1 year and 1 month.",
+            "armGroupLabels": [
+              "Semaglutide"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change From Baseline in Glycosylated Haemoglobin (HbA1c)",
+            "description": "Change from baseline (week 0) to week 52 in HbA1c is presented.The outcome measure was evaluated based on the data from in study period, where all data from randomisation until last date of any of the following: 1) last direct participant-site contact; 2) participants who withdrew their informed consent; 3) last participant-investigator contact as defined by the investigator for participants who lost to follow-up (i.e. possibly an unscheduled phone visit); 4) death of participants who died before any of the above.",
+            "timeFrame": "Baseline (week 0), (week 52)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change From Baseline in Fasting Plasma Glucose (FPG)",
+            "description": "Change from baseline (week 0) to week 52 in FPG is presented.The outcome measure was evaluated based on the data from in study period, where all data from randomisation until last date of any of the following: 1) last direct participant-site contact; 2) participants who withdrew their informed consent; 3) last participant-investigator contact as defined by the investigator for participants who lost to follow-up (i.e. possibly an unscheduled phone visit); 4) death of participants who died before any of the above.",
+            "timeFrame": "Baseline (week 0), (week 52)"
+          },
+          {
+            "measure": "Change From Baseline in Body Weight",
+            "description": "Change from baseline (week 0) to week 52 in body weight is presented. The outcome measure was evaluated based on the data from in study period, where all data from randomisation until last date of any of the following: 1) last direct participant-site contact; 2) participants who withdrew their informed consent; 3) last participant-investigator contact as defined by the investigator for participants who lost to follow-up (i.e. possibly an unscheduled phone visit); 4) death of participants who died before any of the above.",
+            "timeFrame": "Baseline (week 0), (week 52)"
+          },
+          {
+            "measure": "Number of Clinically Significant Hypoglycaemic Episodes (Level 2) (<3.0 mmol/L (54 Milligram Per Decilitre [mg/dL]) , Confirmed by Blood Glucose [BG] Meter) or Severe Hypoglycaemic Episodes (Level 3)",
+            "description": "Hypoglycaemic episodes were classified according to the American Diabetes Association/ International Hypoglycaemia Study Group, where glycemic criteria for level 2 was less than (\\<) 3.0 mmol/L (54 mg/dL) and level 3 had no specific glucose threshold. The outcome measure was evaluated based on data from on treatment period, where all data from date of first dose of randomised treatment as recorded on the electronic case report form (eCRF) until the first date of any of the following: 1)last follow-up visit (V56); 2) last date on randomised treatment +6 weeks (corresponding to 5 weeks after the end of the dosing interval for both treatment arms); 3) end-date for the in-study data points sets.",
+            "timeFrame": "Week 0 to Week 57"
+          },
+          {
+            "measure": "Number of Clinically Significant Hypoglycaemic Episodes (Level 2) (<3.0 mmol/L (54 mg/dL), Confirmed by BG Meter)",
+            "description": "Hypoglycaemic episodes were classified according to the American Diabetes Association/ International Hypoglycaemia Study Group, where glycemic criteria for level 2 was \\< 3.0 mmol/L (54 mg/dL). The outcome measure was evaluated based on data from on treatment period, where all data from date of first dose of randomised treatment as recorded on the electronic case report form (eCRF) until the first date of any of the following: 1)last follow-up visit (V56); 2) last date on randomised treatment +6 weeks (corresponding to 5 weeks after the end of the dosing interval for both treatment arms); 3) end-date for the in-study data points sets.",
+            "timeFrame": "Week 0 to Week 57"
+          },
+          {
+            "measure": "Number of Severe Hypoglycaemic Episodes (Level 3)",
+            "description": "Hypoglycaemic episodes were classified according to the American Diabetes Association/ International Hypoglycaemia Study Group, where glycemic criteria for level 3 had no specific glucose threshold.The outcome measure was evaluated based on data from on treatment period, where all data from date of first dose of randomised treatment as recorded on the electronic case report form (eCRF) until the first date of any of the following: 1)last follow-up visit (V56); 2) last date on randomised treatment +6 weeks (corresponding to 5 weeks after the end of the dosing interval for both treatment arms); 3) end-date for the in-study data points sets.",
+            "timeFrame": "Week 0 to Week 57"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female and age above or equal to 18 years at the time of signing informed consent.\n* Diagnosed with type 2 diabetes mellitus 180 days or more before screening.\n* HbA1c of 7.0 - 10.0% (53.0 - 85.8 mmol/mol) (both inclusive) as assessed by central laboratory on the day of screening.\n* Insulin na\u00efve. The following exceptions are permitted: short term insulin treatment for a maximum of 14 days before screening and/or prior insulin treatment for gestational diabetes.\n* Treated with stable doses of daily or weekly GLP-1 receptor agonist (excluding once weekly semaglutide with doses higher than 1.0 mg) according to local label for the treatment of diabetes for 90 days or more before screening. The treatment can be with or without any of the following anti diabetic drugs with stable doses for 90 days or more before screening: Metformin - Sulfonylureas (Sulfonylureas, meglitinides (glinides) and DPP 4 inhibitors must be discontinued at randomisation) - Meglitinides (glinides)(Sulfonylureas, meglitinides (glinides) and DPP 4 inhibitors must be discontinued at randomisation) - DPP 4 inhibitors (Sulfonylureas, meglitinides (glinides) and DPP 4 inhibitors must be discontinued at randomisation) - Sodium glucose co transporter 2 inhibitors - Alpha-glucosidase inhibitors - Thiazolidinediones - Marketed oral combination products only including the products listed above.\n* Body mass index (BMI) below or equal to 40.0 kg/m\\^2.\n\nExclusion Criteria:\n\n* Female who is pregnant, breast-feeding or intends to become pregnant or is of childbearing potential and not using a highly effective contraceptive method.\n* Anticipated initiation or change in concomitant medication (for more than 14 consecutive days) known to affect weight or glucose metabolism (e.g. treatment with orlistat, thyroid hormones, or systemic corticosteroids).\n* Treatment with any medication for the indication of diabetes or obesity other than stated in the inclusion criteria within 90 days before screening.\n* Any episodes (as declared by the participant or in the medical records) of diabetic ketoacidosis within 90 days before screening.\n* Presence or history of pancreatitis (acute or chronic) within 180 days before screening.\n* Any of the following: Myocardial infarction, stroke, hospitalization for unstable angina pectoris or transient ischaemic attack within 180 days before screening.\n* Chronic heart failure classified as being in New York Heart Association Class IV at screening.\n* Uncontrolled and potentially unstable diabetic retinopathy or maculopathy. Verified by a fundus examination performed within the past 90 days before screening or in the period between screening and randomisation. Pharmacological pupil dilation is a requirement unless using a digital fundus photography camera specified for non dilated examination",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Clinical Transparency (dept. 1452)",
+            "affiliation": "Novo Nordisk A/S",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Univ of AL at Birmingham_BRM",
+            "city": "Birmingham",
+            "state": "Alabama",
+            "zip": "35294",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.52066,
+              "lon": -86.80249
+            }
+          },
+          {
+            "facility": "Pri Med Grp dba/Gil Ctr Fam",
+            "city": "Gilbert",
+            "state": "Arizona",
+            "zip": "85296",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.35283,
+              "lon": -111.78903
+            }
+          },
+          {
+            "facility": "Phoenician Centers for Research & Innovation PCRI",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85021",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.44838,
+              "lon": -112.07404
+            }
+          },
+          {
+            "facility": "Clinical Research Institute of Arizona",
+            "city": "Sun City West",
+            "state": "Arizona",
+            "zip": "85375",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.66198,
+              "lon": -112.34127
+            }
+          },
+          {
+            "facility": "John Muir Physicians Network",
+            "city": "Concord",
+            "state": "California",
+            "zip": "94520",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.97798,
+              "lon": -122.03107
+            }
+          },
+          {
+            "facility": "Scripps Whittier Diabetes Inst",
+            "city": "La Jolla",
+            "state": "California",
+            "zip": "92037",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.84727,
+              "lon": -117.2742
+            }
+          },
+          {
+            "facility": "Clinical Trials Research_Sacramento",
+            "city": "Lincoln",
+            "state": "California",
+            "zip": "95821",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.89156,
+              "lon": -121.29301
+            }
+          },
+          {
+            "facility": "Downtown LA Res Ctr. Inc.",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90017",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.05223,
+              "lon": -118.24368
+            }
+          },
+          {
+            "facility": "Velocity Clin Res Los Angeles",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90017",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.05223,
+              "lon": -118.24368
+            }
+          },
+          {
+            "facility": "Velocity Clin Res Wstlke",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90057",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.05223,
+              "lon": -118.24368
+            }
+          },
+          {
+            "facility": "Valley Clinical Trials, Inc.",
+            "city": "Northridge",
+            "state": "California",
+            "zip": "91325",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.22834,
+              "lon": -118.53675
+            }
+          },
+          {
+            "facility": "San Diego Family Care_San Diego",
+            "city": "San Diego",
+            "state": "California",
+            "zip": "92111",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.71571,
+              "lon": -117.16472
+            }
+          },
+          {
+            "facility": "Premier Medical Center, Inc.",
+            "city": "Toluca Lake",
+            "state": "California",
+            "zip": "91602",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.15206,
+              "lon": -118.35719
+            }
+          },
+          {
+            "facility": "Northeast Research Institute",
+            "city": "Fleming Island",
+            "state": "Florida",
+            "zip": "32003",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.0933,
+              "lon": -81.71898
+            }
+          },
+          {
+            "facility": "Encore Medical Research LLC",
+            "city": "Hollywood",
+            "state": "Florida",
+            "zip": "33024",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 26.0112,
+              "lon": -80.14949
+            }
+          },
+          {
+            "facility": "Northeast Res Inst. Inc.",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "zip": "32204",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.33218,
+              "lon": -81.65565
+            }
+          },
+          {
+            "facility": "Est Cst Inst for Rsrch,Jksnvil",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "zip": "32216",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.33218,
+              "lon": -81.65565
+            }
+          },
+          {
+            "facility": "University Of Miami",
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33136",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.77427,
+              "lon": -80.19366
+            }
+          },
+          {
+            "facility": "South Broward Research LLC",
+            "city": "Miramar",
+            "state": "Florida",
+            "zip": "33027",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.98731,
+              "lon": -80.23227
+            }
+          },
+          {
+            "facility": "Adult Medicine of Lake County, Inc.",
+            "city": "Mt. Dora",
+            "state": "Florida",
+            "zip": "32757",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.80249,
+              "lon": -81.64452
+            }
+          },
+          {
+            "facility": "Clinical Neuroscience Solution",
+            "city": "Orlando",
+            "state": "Florida",
+            "zip": "32801",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.53834,
+              "lon": -81.37924
+            }
+          },
+          {
+            "facility": "Florida Institute For Clinical Research",
+            "city": "Orlando",
+            "state": "Florida",
+            "zip": "32825",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.53834,
+              "lon": -81.37924
+            }
+          },
+          {
+            "facility": "Oviedo Medical Research, LLC",
+            "city": "Oviedo",
+            "state": "Florida",
+            "zip": "32765",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.67,
+              "lon": -81.20812
+            }
+          },
+          {
+            "facility": "Metabolic Research Institute Inc",
+            "city": "West Palm Beach",
+            "state": "Florida",
+            "zip": "33401",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 26.71534,
+              "lon": -80.05337
+            }
+          },
+          {
+            "facility": "Javara/Privia Med Grp GA,LLC",
+            "city": "Albany",
+            "state": "Georgia",
+            "zip": "31707",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 31.57851,
+              "lon": -84.15574
+            }
+          },
+          {
+            "facility": "Endo Res Solutions Inc",
+            "city": "Roswell",
+            "state": "Georgia",
+            "zip": "30076",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.02316,
+              "lon": -84.36159
+            }
+          },
+          {
+            "facility": "East West Med Res Inst",
+            "city": "Honolulu",
+            "state": "Hawaii",
+            "zip": "96814",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 21.30694,
+              "lon": -157.85833
+            }
+          },
+          {
+            "facility": "Saltzer Medical Group Research",
+            "city": "Nampa",
+            "state": "Idaho",
+            "zip": "83686-6011",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.54072,
+              "lon": -116.56346
+            }
+          },
+          {
+            "facility": "Cedar-Crosse Research Center",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60607",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.85003,
+              "lon": -87.65005
+            }
+          },
+          {
+            "facility": "Macoupin Research Group",
+            "city": "Gillespie",
+            "state": "Illinois",
+            "zip": "62033",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.12977,
+              "lon": -89.81954
+            }
+          },
+          {
+            "facility": "Endeavor Health",
+            "city": "Skokie",
+            "state": "Illinois",
+            "zip": "60077",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.03336,
+              "lon": -87.73339
+            }
+          },
+          {
+            "facility": "Central Illinois Diabetes and Clinical Research",
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62711",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.80172,
+              "lon": -89.64371
+            }
+          },
+          {
+            "facility": "Velocity Clin. Res Valparaiso",
+            "city": "Valparaiso",
+            "state": "Indiana",
+            "zip": "46383",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.47309,
+              "lon": -87.06114
+            }
+          },
+          {
+            "facility": "Iowa Diab & Endo Res Center",
+            "city": "West Des Moines",
+            "state": "Iowa",
+            "zip": "50266",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.57721,
+              "lon": -93.71133
+            }
+          },
+          {
+            "facility": "Cotton-O'Neil Diab & Endo Ctr",
+            "city": "Topeka",
+            "state": "Kansas",
+            "zip": "66606",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.04833,
+              "lon": -95.67804
+            }
+          },
+          {
+            "facility": "L-MARC Research Center",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "zip": "40213",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.25424,
+              "lon": -85.75941
+            }
+          },
+          {
+            "facility": "Four Rivers Clinical Research Inc",
+            "city": "Paducah",
+            "state": "Kentucky",
+            "zip": "42001",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.08339,
+              "lon": -88.60005
+            }
+          },
+          {
+            "facility": "Ileana J Tandron APMC",
+            "city": "Slidell",
+            "state": "Louisiana",
+            "zip": "70461-4231",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.27519,
+              "lon": -89.78117
+            }
+          },
+          {
+            "facility": "MedStar Hlth Res Institute",
+            "city": "Hyattsville",
+            "state": "Maryland",
+            "zip": "20782",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.95594,
+              "lon": -76.94553
+            }
+          },
+          {
+            "facility": "ActivMed Practice & Research LLC",
+            "city": "Methuen",
+            "state": "Massachusetts",
+            "zip": "01844",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.7262,
+              "lon": -71.19089
+            }
+          },
+          {
+            "facility": "Northern Pines Hlth Ctr, PC",
+            "city": "Buckley",
+            "state": "Michigan",
+            "zip": "49620",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.50445,
+              "lon": -85.67701
+            }
+          },
+          {
+            "facility": "Univ of Nebraska Medical CTR",
+            "city": "Omaha",
+            "state": "Nebraska",
+            "zip": "68198-3020",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.25626,
+              "lon": -95.94043
+            }
+          },
+          {
+            "facility": "Palm Research Center Inc-Vegas",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip": "89148",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.17497,
+              "lon": -115.13722
+            }
+          },
+          {
+            "facility": "Southern New Hampshire Diabete",
+            "city": "Nashua",
+            "state": "New Hampshire",
+            "zip": "03060",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.76537,
+              "lon": -71.46757
+            }
+          },
+          {
+            "facility": "John J Shelmet, MD",
+            "city": "Lawrenceville",
+            "state": "New Jersey",
+            "zip": "08648",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.29733,
+              "lon": -74.7296
+            }
+          },
+          {
+            "facility": "Albuquerque Clin Trials, Inc.",
+            "city": "Albuquerque",
+            "state": "New Mexico",
+            "zip": "87102",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.08449,
+              "lon": -106.65114
+            }
+          },
+          {
+            "facility": "Endocrine Associates of Long Island, PC",
+            "city": "Smithtown",
+            "state": "New York",
+            "zip": "11787",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.85593,
+              "lon": -73.20067
+            }
+          },
+          {
+            "facility": "Southgate Medical Group, LLP",
+            "city": "West Seneca",
+            "state": "New York",
+            "zip": "14224",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.85006,
+              "lon": -78.79975
+            }
+          },
+          {
+            "facility": "PharmQuest Life Sciences LLC",
+            "city": "Greensboro",
+            "state": "North Carolina",
+            "zip": "27408",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.07264,
+              "lon": -79.79198
+            }
+          },
+          {
+            "facility": "Accellacare",
+            "city": "Wilmington",
+            "state": "North Carolina",
+            "zip": "28401",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.23556,
+              "lon": -77.94604
+            }
+          },
+          {
+            "facility": "Diab & Endo Assoc of Stark Co",
+            "city": "Canton",
+            "state": "Ohio",
+            "zip": "44718",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.79895,
+              "lon": -81.37845
+            }
+          },
+          {
+            "facility": "New Venture Medical Research",
+            "city": "Wadsworth",
+            "state": "Ohio",
+            "zip": "44281",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.02561,
+              "lon": -81.72985
+            }
+          },
+          {
+            "facility": "Thomas Jefferson Univ Di Rsrch Ctr",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip": "19107",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.95238,
+              "lon": -75.16362
+            }
+          },
+          {
+            "facility": "Hillcrest Clinical Research",
+            "city": "Simpsonville",
+            "state": "South Carolina",
+            "zip": "29681-1538",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.73706,
+              "lon": -82.25428
+            }
+          },
+          {
+            "facility": "Palmetto Clinical Research",
+            "city": "Summerville",
+            "state": "South Carolina",
+            "zip": "29485",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.0185,
+              "lon": -80.17565
+            }
+          },
+          {
+            "facility": "AM Diabetes And Endocrinology Center",
+            "city": "Bartlett",
+            "state": "Tennessee",
+            "zip": "38133",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.20453,
+              "lon": -89.87398
+            }
+          },
+          {
+            "facility": "Chattanooga Medical Research, LLC",
+            "city": "Chattanooga",
+            "state": "Tennessee",
+            "zip": "37404",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.04563,
+              "lon": -85.30968
+            }
+          },
+          {
+            "facility": "Amarillo Med Spec LLP",
+            "city": "Amarillo",
+            "state": "Texas",
+            "zip": "79106",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.222,
+              "lon": -101.8313
+            }
+          },
+          {
+            "facility": "Texas Diab & Endo, P.A.",
+            "city": "Austin",
+            "state": "Texas",
+            "zip": "78731",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.26715,
+              "lon": -97.74306
+            }
+          },
+          {
+            "facility": "Texas Diabetes & Endocrinology",
+            "city": "Austin",
+            "state": "Texas",
+            "zip": "78749",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.26715,
+              "lon": -97.74306
+            }
+          },
+          {
+            "facility": "Osvaldo A. Brusco MD",
+            "city": "Corpus Christi",
+            "state": "Texas",
+            "zip": "78414",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 27.80058,
+              "lon": -97.39638
+            }
+          },
+          {
+            "facility": "Cedar Research",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75038",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "North Texas Endocrine Center",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75231",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "UT Southwestern Med Cntr",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75390-9302",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "Diabetes and Thyroid Ctr of FW",
+            "city": "Fort Worth",
+            "state": "Texas",
+            "zip": "76132",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.72541,
+              "lon": -97.32085
+            }
+          },
+          {
+            "facility": "PrimeCare Medical Group",
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77024",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.76328,
+              "lon": -95.36327
+            }
+          },
+          {
+            "facility": "DCOL Ctr for Clin Res",
+            "city": "Longview",
+            "state": "Texas",
+            "zip": "75605",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.5007,
+              "lon": -94.74049
+            }
+          },
+          {
+            "facility": "Texas Diabetes & Endocrinology_Round Rock",
+            "city": "Round Rock",
+            "state": "Texas",
+            "zip": "78681",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.50826,
+              "lon": -97.6789
+            }
+          },
+          {
+            "facility": "NE Clin Res of San Antonio",
+            "city": "San Antonio",
+            "state": "Texas",
+            "zip": "78233",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.42412,
+              "lon": -98.49363
+            }
+          },
+          {
+            "facility": "Sugar Lakes Family Practice PA",
+            "city": "Sugar Land",
+            "state": "Texas",
+            "zip": "77479",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.61968,
+              "lon": -95.63495
+            }
+          },
+          {
+            "facility": "Hillcrest Family Health Center",
+            "city": "Waco",
+            "state": "Texas",
+            "zip": "76710",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 31.54933,
+              "lon": -97.14667
+            }
+          },
+          {
+            "facility": "Wade Family Medicine",
+            "city": "Bountiful",
+            "state": "Utah",
+            "zip": "84010",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.88939,
+              "lon": -111.88077
+            }
+          },
+          {
+            "facility": "Chrysalis Clinical Research",
+            "city": "St. George",
+            "state": "Utah",
+            "zip": "84790",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.10415,
+              "lon": -113.58412
+            }
+          },
+          {
+            "facility": "Javara Inc. / Privia Medical Group LLC_Forest",
+            "city": "Forest",
+            "state": "Virginia",
+            "zip": "24551",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.36375,
+              "lon": -79.28975
+            }
+          },
+          {
+            "facility": "Javara Inc/Privia Md GpLLC Fst",
+            "city": "Forest",
+            "state": "Virginia",
+            "zip": "24551",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.36375,
+              "lon": -79.28975
+            }
+          },
+          {
+            "facility": "TPMG Clinical Research",
+            "city": "Newport News",
+            "state": "Virginia",
+            "zip": "23606",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.98038,
+              "lon": -76.42975
+            }
+          },
+          {
+            "facility": "Centro de Estudos Em Diabetes E Hipertens\u00e3o",
+            "city": "Fortaleza",
+            "state": "Cear\u00e1",
+            "zip": "60115-282",
+            "country": "Brazil",
+            "geoPoint": {
+              "lat": -3.71722,
+              "lon": -38.54306
+            }
+          },
+          {
+            "facility": "Centro de Diabetes Metabolismo e Endocrinologia",
+            "city": "Fortaleza",
+            "state": "Cear\u00e1",
+            "zip": "60150-162",
+            "country": "Brazil",
+            "geoPoint": {
+              "lat": -3.71722,
+              "lon": -38.54306
+            }
+          },
+          {
+            "facility": "Instituto de Ci\u00eancias Farmac\u00eauticas de Estudos e Pesquisas",
+            "city": "Aparecida de Goi\u00e2nia",
+            "state": "Goi\u00e1s",
+            "zip": "74935-530",
+            "country": "Brazil",
+            "geoPoint": {
+              "lat": -16.82333,
+              "lon": -49.24389
+            }
+          },
+          {
+            "facility": "Quanta Diagn\u00f3stico Nuclear / Medicina Nuclear Alto da XV",
+            "city": "Curitiba",
+            "state": "Paran\u00e1",
+            "zip": "80045-110",
+            "country": "Brazil",
+            "geoPoint": {
+              "lat": -25.42778,
+              "lon": -49.27306
+            }
+          },
+          {
+            "facility": "Centro de Diabetes Curitiba",
+            "city": "Curitiba",
+            "state": "Paran\u00e1",
+            "zip": "80810-040",
+            "country": "Brazil",
+            "geoPoint": {
+              "lat": -25.42778,
+              "lon": -49.27306
+            }
+          },
+          {
+            "facility": "Instituto S\u00e3o Jos\u00e9 dos Campos em Pesquisas M\u00e9dicas",
+            "city": "S\u00e3o Jos\u00e9 dos Campos",
+            "state": "S\u00e3o Paulo",
+            "zip": "12243-280",
+            "country": "Brazil",
+            "geoPoint": {
+              "lat": -23.17944,
+              "lon": -45.88694
+            }
+          },
+          {
+            "facility": "BR Trials - Ensaios Cl\u00ednicos e Consultoria Ltda.",
+            "city": "S\u00e3o Paulo",
+            "state": "S\u00e3o Paulo",
+            "zip": "01236-030",
+            "country": "Brazil",
+            "geoPoint": {
+              "lat": -23.5475,
+              "lon": -46.63611
+            }
+          },
+          {
+            "facility": "BC Diabetes Canada",
+            "city": "Vancouver",
+            "state": "British Columbia",
+            "zip": "V5Y 3W2",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 49.24966,
+              "lon": -123.11934
+            }
+          },
+          {
+            "facility": "Rivergrove Medical Clinic",
+            "city": "Winnipeg",
+            "state": "Manitoba",
+            "zip": "R2V 4W3",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 49.8844,
+              "lon": -97.14704
+            }
+          },
+          {
+            "facility": "Winnipeg Clinic",
+            "city": "Winnipeg",
+            "state": "Manitoba",
+            "zip": "R3C 0N2",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 49.8844,
+              "lon": -97.14704
+            }
+          },
+          {
+            "facility": "G.A. Research Associates Ltd.",
+            "city": "Moncton",
+            "state": "New Brunswick",
+            "zip": "E1G 1A7",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 46.09454,
+              "lon": -64.7965
+            }
+          },
+          {
+            "facility": "Commonwealth Medical Clinic",
+            "city": "Mount Pearl",
+            "state": "Newfoundland and Labrador",
+            "zip": "A1N 1W7",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 47.51659,
+              "lon": -52.78135
+            }
+          },
+          {
+            "facility": "Dawson Clinical Research",
+            "city": "Cambridge",
+            "state": "Ontario",
+            "zip": "N1H 1B1",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 43.3601,
+              "lon": -80.31269
+            }
+          },
+          {
+            "facility": "LMC Clinical Res Thornhill",
+            "city": "Concord",
+            "state": "Ontario",
+            "zip": "L4K 4M2",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 43.80011,
+              "lon": -79.48291
+            }
+          },
+          {
+            "facility": "Medical Trust Clinics, Inc.",
+            "city": "Courtice",
+            "state": "Ontario",
+            "zip": "L1E2J5",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 43.91682,
+              "lon": -78.76626
+            }
+          },
+          {
+            "facility": "Wharton Medical Clinic Clinical Trials (Hamilton)",
+            "city": "Hamilton",
+            "state": "Ontario",
+            "zip": "L8L 5G8",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 43.25011,
+              "lon": -79.84963
+            }
+          },
+          {
+            "facility": "Premier Clinical Trial Research Network (PCTRN)",
+            "city": "Hamilton",
+            "state": "Ontario",
+            "zip": "L8M 1K7",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 43.25011,
+              "lon": -79.84963
+            }
+          },
+          {
+            "facility": "Western Univ. Cnt for Studies in Fam Med",
+            "city": "London",
+            "state": "Ontario",
+            "zip": "N6G 2M1",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 42.98339,
+              "lon": -81.23304
+            }
+          },
+          {
+            "facility": "Bluewater Clin Res Group,Inc",
+            "city": "Sarnia",
+            "state": "Ontario",
+            "zip": "N7T 4X3",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 42.97866,
+              "lon": -82.40407
+            }
+          },
+          {
+            "facility": "LMC Endo Centres Ltd.(Bayview)",
+            "city": "Toronto",
+            "state": "Ontario",
+            "zip": "M4G 3E8",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 43.70643,
+              "lon": -79.39864
+            }
+          },
+          {
+            "facility": "ViaCar Recherche Clinique Inc",
+            "city": "Brossard",
+            "state": "Quebec",
+            "zip": "J4Z 2K9",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.45008,
+              "lon": -73.46583
+            }
+          },
+          {
+            "facility": "Recherche GCP Research",
+            "city": "Montreal",
+            "state": "Quebec",
+            "zip": "H1M 1B1",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.50884,
+              "lon": -73.58781
+            }
+          },
+          {
+            "facility": "Recherche GCP Research",
+            "city": "Montreal",
+            "state": "Quebec",
+            "zip": "H1Y 3H5",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.50884,
+              "lon": -73.58781
+            }
+          },
+          {
+            "facility": "Recherche GCP Research_Montreal",
+            "city": "Montreal",
+            "state": "Quebec",
+            "zip": "H2R 1V6",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.50884,
+              "lon": -73.58781
+            }
+          },
+          {
+            "facility": "Centre Medical Acadie",
+            "city": "Montreal",
+            "state": "Quebec",
+            "zip": "H4N 2W2",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.50884,
+              "lon": -73.58781
+            }
+          },
+          {
+            "facility": "LMC Clin Rsrch Inc. (Montreal)",
+            "city": "Montreal",
+            "state": "Quebec",
+            "zip": "H4T 1Z9",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.50884,
+              "lon": -73.58781
+            }
+          },
+          {
+            "facility": "LMC Clin Rsrch Inc. (Montreal)",
+            "city": "Saint-Laurent",
+            "state": "Quebec",
+            "zip": "H4T 1Z9",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.50008,
+              "lon": -73.66585
+            }
+          },
+          {
+            "facility": "Ctr M\u00e9d. et pro d l'Ost d port",
+            "city": "Saint-Marc-des-Carrieres",
+            "state": "Quebec",
+            "zip": "G0A 4B0",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 46.68335,
+              "lon": -72.0491
+            }
+          },
+          {
+            "facility": "Recherche Clinique Sigma inc",
+            "city": "Qu\u00e9bec",
+            "zip": "G1G 5X1",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 46.81228,
+              "lon": -71.21454
+            }
+          },
+          {
+            "facility": "Diex Recherche Quebec",
+            "city": "Qu\u00e9bec",
+            "zip": "G1V 4T3",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 46.81228,
+              "lon": -71.21454
+            }
+          },
+          {
+            "facility": "St Pauls Hospital",
+            "city": "Vancouver",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 49.24966,
+              "lon": -123.11934
+            }
+          },
+          {
+            "facility": "Anhui Provincial Hospital-Endocrinology",
+            "city": "Hefei",
+            "state": "Anhui",
+            "zip": "230001",
+            "country": "China",
+            "geoPoint": {
+              "lat": 31.86389,
+              "lon": 117.28083
+            }
+          },
+          {
+            "facility": "Peking University People's Hospital-Endocrinology",
+            "city": "Beijing",
+            "state": "Beijing Municipality",
+            "zip": "100044",
+            "country": "China",
+            "geoPoint": {
+              "lat": 39.9075,
+              "lon": 116.39723
+            }
+          },
+          {
+            "facility": "Chongqing University Three Gorges Hospital",
+            "city": "Chongqing",
+            "state": "Chongqing Municipality",
+            "zip": "404000",
+            "country": "China",
+            "geoPoint": {
+              "lat": 29.56026,
+              "lon": 106.55771
+            }
+          },
+          {
+            "facility": "Huizhou Central People's Hospital-Endocrinology",
+            "city": "Huizhou",
+            "state": "Guangdong",
+            "zip": "516001",
+            "country": "China",
+            "geoPoint": {
+              "lat": 23.11147,
+              "lon": 114.41523
+            }
+          },
+          {
+            "facility": "Changzhou No.2 People's Hospital, Yanghu Branch",
+            "city": "Changzhou",
+            "state": "Jiangsu",
+            "zip": "213003",
+            "country": "China",
+            "geoPoint": {
+              "lat": 31.77359,
+              "lon": 119.95401
+            }
+          },
+          {
+            "facility": "The Second Affiliated Hospital of Nanjing Medical University-Endocrinology",
+            "city": "Nanjing",
+            "state": "Jiangsu",
+            "zip": "210011",
+            "country": "China",
+            "geoPoint": {
+              "lat": 32.06167,
+              "lon": 118.77778
+            }
+          },
+          {
+            "facility": "Jinan Central Hospital",
+            "city": "Jinan",
+            "state": "Shandong",
+            "zip": "250013",
+            "country": "China",
+            "geoPoint": {
+              "lat": 36.66833,
+              "lon": 116.99722
+            }
+          },
+          {
+            "facility": "Huashan Hospital Fudan University-Endocrinology",
+            "city": "Shanghai",
+            "state": "Shanghai Municipality",
+            "zip": "200040",
+            "country": "China",
+            "geoPoint": {
+              "lat": 31.22222,
+              "lon": 121.45806
+            }
+          },
+          {
+            "facility": "Shanghai Huashan Hospital, Affiliated to Fudan University",
+            "city": "Shanghai",
+            "state": "Shanghai Municipality",
+            "zip": "200040",
+            "country": "China",
+            "geoPoint": {
+              "lat": 31.22222,
+              "lon": 121.45806
+            }
+          },
+          {
+            "facility": "Shanghai Fifth People's Hospital-Endocrinology",
+            "city": "Shanghai",
+            "state": "Shanghai Municipality",
+            "zip": "200240",
+            "country": "China",
+            "geoPoint": {
+              "lat": 31.22222,
+              "lon": 121.45806
+            }
+          },
+          {
+            "facility": "Tianjin Medical University General Hospital-Endocrinology",
+            "city": "Tianjin",
+            "state": "Tianjin Municipality",
+            "zip": "300052",
+            "country": "China",
+            "geoPoint": {
+              "lat": 39.14222,
+              "lon": 117.17667
+            }
+          },
+          {
+            "facility": "Tianjin Medical University Chu Hsien-I Memorial Hospital-Endocrinology",
+            "city": "Tianjin",
+            "state": "Tianjin Municipality",
+            "zip": "300070",
+            "country": "China",
+            "geoPoint": {
+              "lat": 39.14222,
+              "lon": 117.17667
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire de Besancon-Hopital Jean Minjoz",
+            "city": "Besan\u00e7on",
+            "zip": "25030",
+            "country": "France",
+            "geoPoint": {
+              "lat": 47.24878,
+              "lon": 6.01815
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire de Rouen - Hopital de Bois Guillaume",
+            "city": "Bois-Guillaume",
+            "zip": "76230",
+            "country": "France",
+            "geoPoint": {
+              "lat": 49.4602,
+              "lon": 1.12219
+            }
+          },
+          {
+            "facility": "Les Hopitaux de Chartres-Hopital Louis Pasteur",
+            "city": "Le Coudray",
+            "zip": "28630",
+            "country": "France",
+            "geoPoint": {
+              "lat": 48.42115,
+              "lon": 1.50057
+            }
+          },
+          {
+            "facility": "Groupe Sos Sante-Hopital Le Creusot-Hotel Dieu",
+            "city": "Le Creusot",
+            "zip": "71200",
+            "country": "France",
+            "geoPoint": {
+              "lat": 46.80714,
+              "lon": 4.41632
+            }
+          },
+          {
+            "facility": "Centre Medico Chirurgical Ambroise Pare Hartmann",
+            "city": "Neuilly-sur-Seine",
+            "zip": "92200",
+            "country": "France",
+            "geoPoint": {
+              "lat": 48.8846,
+              "lon": 2.26965
+            }
+          },
+          {
+            "facility": "Aphp-Hopital Lariboisiere",
+            "city": "Paris",
+            "zip": "75010",
+            "country": "France",
+            "geoPoint": {
+              "lat": 48.85341,
+              "lon": 2.3488
+            }
+          },
+          {
+            "facility": "Hospices Civils de Lyon-Hopital Lyon Sud-2",
+            "city": "Pierre-B\u00e9nite",
+            "zip": "69495",
+            "country": "France",
+            "geoPoint": {
+              "lat": 45.70359,
+              "lon": 4.82424
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire de Nantes-Hopital Nord Laennec",
+            "city": "Saint-Herblain",
+            "zip": "44800",
+            "country": "France",
+            "geoPoint": {
+              "lat": 47.21154,
+              "lon": -1.651
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire de Toulouse-Hopital Rangueil-2",
+            "city": "Toulouse",
+            "zip": "31054",
+            "country": "France",
+            "geoPoint": {
+              "lat": 43.60426,
+              "lon": 1.44367
+            }
+          },
+          {
+            "facility": "Centre de Recherche Clinique Portes Du Sud",
+            "city": "V\u00e9nissieux",
+            "zip": "69200",
+            "country": "France",
+            "geoPoint": {
+              "lat": 45.69706,
+              "lon": 4.88593
+            }
+          },
+          {
+            "facility": "Evangelismos Hospital",
+            "city": "Athens",
+            "zip": "10676",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 37.98376,
+              "lon": 23.72784
+            }
+          },
+          {
+            "facility": "Iatriko Psychicou Private Clinic",
+            "city": "Athens",
+            "zip": "115 25",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 37.98376,
+              "lon": 23.72784
+            }
+          },
+          {
+            "facility": "'G. Gennimatas' General Hospital of Athens",
+            "city": "Athens",
+            "zip": "115 27",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 37.98376,
+              "lon": 23.72784
+            }
+          },
+          {
+            "facility": "General Hospital Of Athens Korgialenio Benakio H.R.C. - Department of Endocrinology",
+            "city": "Athens",
+            "zip": "GR-11526",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 37.98376,
+              "lon": 23.72784
+            }
+          },
+          {
+            "facility": "Univ Gen Hospital Larisa",
+            "city": "Larissa",
+            "zip": "41110",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 39.62847,
+              "lon": 22.42112
+            }
+          },
+          {
+            "facility": "General Hospital of Thessaloniki 'G. Gennimatas",
+            "city": "Thessaloniki",
+            "zip": "54635",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 40.64072,
+              "lon": 22.93493
+            }
+          },
+          {
+            "facility": "\"Ippokrateio\" G.H. of Thessaloniki",
+            "city": "Thessaloniki",
+            "zip": "54642",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 40.64072,
+              "lon": 22.93493
+            }
+          },
+          {
+            "facility": "\"Thermi\" Private Hosital",
+            "city": "Thessaloniki",
+            "zip": "57001",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 40.64072,
+              "lon": 22.93493
+            }
+          },
+          {
+            "facility": "General Hospital of Thessaloniki \"G.Papanikolaou\"",
+            "city": "Thessaloniki",
+            "zip": "57010",
+            "country": "Greece",
+            "geoPoint": {
+              "lat": 40.64072,
+              "lon": 22.93493
+            }
+          },
+          {
+            "facility": "PTE-AOK II. Belgyogyaszati Klinika es Nephrologiai Centrum",
+            "city": "P\u00e9cs",
+            "state": "Baranya V\u00e1rmegye",
+            "zip": "7623",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.07617,
+              "lon": 18.22814
+            }
+          },
+          {
+            "facility": "Debreceni Egyetem Belgy\u00f3gy\u00e1szati Klinika",
+            "city": "Debrecen",
+            "state": "Hajd\u00fa-Bihar",
+            "zip": "4032",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.53167,
+              "lon": 21.62444
+            }
+          },
+          {
+            "facility": "Debreceni Egyetem Klinikai K\u00f6zpont Belgy\u00f3gy\u00e1szati Klinika D \u00e9p\u00fclet",
+            "city": "Debrecen",
+            "state": "Hajd\u00fa-Bihar",
+            "zip": "H-4043",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.53167,
+              "lon": 21.62444
+            }
+          },
+          {
+            "facility": "B\u00e9k\u00e9s Megyei K\u00f6zponti K\u00f3rh\u00e1z - dr. R\u00e9thy P\u00e1l Tagk\u00f3rh\u00e1z",
+            "city": "B\u00e9k\u00e9scsaba",
+            "zip": "5600",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.68333,
+              "lon": 21.1
+            }
+          },
+          {
+            "facility": "MED-TIMA Kft.",
+            "city": "Budapest",
+            "zip": "1132",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Clalit sick fund Herzeliya",
+            "city": "Herzeliya",
+            "state": "Israel",
+            "zip": "4630945",
+            "country": "Israel"
+          },
+          {
+            "facility": "Linn clinic - Diabetes Unit",
+            "city": "Haifa",
+            "zip": "35152",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 32.81303,
+              "lon": 34.99928
+            }
+          },
+          {
+            "facility": "Wolfson MC - Diabetes Clinic",
+            "city": "Holon",
+            "zip": "58100",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 32.0122,
+              "lon": 34.77826
+            }
+          },
+          {
+            "facility": "Hadassah Ein Karam MC - Diabetes Unit",
+            "city": "Jerusalem",
+            "zip": "91120",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 31.76904,
+              "lon": 35.21633
+            }
+          },
+          {
+            "facility": "Diabetes Clinic Meir MC",
+            "city": "Kfar Saba",
+            "zip": "44281",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 32.175,
+              "lon": 34.90694
+            }
+          },
+          {
+            "facility": "Sheba MC - Endocrinology Clinic",
+            "city": "Tel HaShomer",
+            "zip": "52621",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 32.04829,
+              "lon": 34.84489
+            }
+          },
+          {
+            "facility": "Heiwadai Hospital_Internal Medicine",
+            "city": "Miyazaki",
+            "state": "Miyazaki",
+            "zip": "880-0034",
+            "country": "Japan",
+            "geoPoint": {
+              "lat": 31.91667,
+              "lon": 131.41667
+            }
+          },
+          {
+            "facility": "The Institute of Medical Science, Asahi Life Foundation_Internal Medicine",
+            "city": "Chuo-ku, Tokyo",
+            "zip": "103-0002",
+            "country": "Japan"
+          },
+          {
+            "facility": "Futata Tetsuhiro Clinic Meinohama_Internal medicine",
+            "city": "Fukuoka-shi, Fukuoka",
+            "zip": "819-0006",
+            "country": "Japan"
+          },
+          {
+            "facility": "Futata Tetsuhiro Clinic Meinohama",
+            "city": "Fukuoka-shi, Fukuoka",
+            "zip": "819-0006",
+            "country": "Japan"
+          },
+          {
+            "facility": "Gifu University Hospital_The Third Dept. of Internal Medicine",
+            "city": "Gifu",
+            "zip": "501-1194",
+            "country": "Japan",
+            "geoPoint": {
+              "lat": 35.42291,
+              "lon": 136.76039
+            }
+          },
+          {
+            "facility": "Naka Kinen Clinic_Internal medicine",
+            "city": "Ibaraki",
+            "zip": "311-0113",
+            "country": "Japan",
+            "geoPoint": {
+              "lat": 34.81641,
+              "lon": 135.56828
+            }
+          },
+          {
+            "facility": "Takatsuki Red Cross Hospital_Diabetes and Endocrine Div.",
+            "city": "Osaka",
+            "zip": "569-1045",
+            "country": "Japan",
+            "geoPoint": {
+              "lat": 34.69379,
+              "lon": 135.50107
+            }
+          },
+          {
+            "facility": "Shimizu Clinic Fusa",
+            "city": "Saitama",
+            "zip": "336-0967",
+            "country": "Japan",
+            "geoPoint": {
+              "lat": 35.90807,
+              "lon": 139.65657
+            }
+          },
+          {
+            "facility": "Soka Sugiura Internal Medicine Clinic_Internal Medicine",
+            "city": "Saitama",
+            "zip": "340-0015",
+            "country": "Japan",
+            "geoPoint": {
+              "lat": 35.90807,
+              "lon": 139.65657
+            }
+          },
+          {
+            "facility": "Yuri Ono Clinic",
+            "city": "Sapporo-shi, Hokkaido",
+            "zip": "060-0001",
+            "country": "Japan",
+            "geoPoint": {
+              "lat": 43.06667,
+              "lon": 141.35
+            }
+          },
+          {
+            "facility": "Shinden Higashi Clinic_Internal medicine",
+            "city": "Sendai-shi, Miyagi",
+            "zip": "983-0039",
+            "country": "Japan"
+          },
+          {
+            "facility": "Irkutsk State Medical Academy of Postgraduate Education",
+            "city": "Irkutsk",
+            "zip": "664049",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 52.29566,
+              "lon": 104.29076
+            }
+          },
+          {
+            "facility": "FSBI 'I.I. Dedov National Medical Research Center of Endocrinology' of the MH of Russia",
+            "city": "Moscow",
+            "zip": "117292",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.75204,
+              "lon": 37.61781
+            }
+          },
+          {
+            "facility": "Limited Law Company \"Healthy Family\" Medicine Center\"",
+            "city": "Novosibirsk",
+            "zip": "630099",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.02259,
+              "lon": 82.93175
+            }
+          },
+          {
+            "facility": "BHI of Omsk Region \"City Hospital \u2116 3\"",
+            "city": "Omsk",
+            "zip": "644029",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 54.99244,
+              "lon": 73.36859
+            }
+          },
+          {
+            "facility": "Penza Regional Clinical Hospital named after N.N. Burdenko",
+            "city": "Penza",
+            "zip": "440052",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 53.19568,
+              "lon": 45.01075
+            }
+          },
+          {
+            "facility": "Rostov State Medical University_Rostov-on-Don",
+            "city": "Rostov-on-Don",
+            "zip": "344022",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 47.21997,
+              "lon": 39.70769
+            }
+          },
+          {
+            "facility": "Polyclinic #2 in Yoshkar-Ola",
+            "city": "Yoshkar-Ola",
+            "zip": "424004",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 56.63877,
+              "lon": 47.89078
+            }
+          },
+          {
+            "facility": "DIOLI s.r.o.",
+            "city": "Ko\u0161ice",
+            "zip": "040 01",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.71441,
+              "lon": 21.25802
+            }
+          },
+          {
+            "facility": "HUMAN-CARE, s.r.o.",
+            "city": "Ko\u0161ice",
+            "zip": "040 01",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.71441,
+              "lon": 21.25802
+            }
+          },
+          {
+            "facility": "DIADAN, s.r.o. Kosice",
+            "city": "Ko\u0161ice",
+            "zip": "04011",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.71441,
+              "lon": 21.25802
+            }
+          },
+          {
+            "facility": "FNsP L. Pasteura",
+            "city": "Ko\u0161ice",
+            "zip": "04190",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.71441,
+              "lon": 21.25802
+            }
+          },
+          {
+            "facility": "DIA - KONTROL s.r.o.",
+            "city": "Levice",
+            "zip": "93401",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.21563,
+              "lon": 18.60705
+            }
+          },
+          {
+            "facility": "Diabetologicka ambulancia SchronerMED, s.r.o.",
+            "city": "Moldava nad Bodvou",
+            "zip": "045 01",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.61428,
+              "lon": 20.99957
+            }
+          },
+          {
+            "facility": "DIABETOL, s.r.o.",
+            "city": "Pre\u0161ov",
+            "zip": "080 01",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.99923,
+              "lon": 21.2355
+            }
+          },
+          {
+            "facility": "MUDr. Alena Lomencikova, s.r.o",
+            "city": "Tur\u010dianske Teplice",
+            "zip": "039 01",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.86225,
+              "lon": 18.86048
+            }
+          },
+          {
+            "facility": "Primary Care Trial Center, PTC ,Gothia Forum",
+            "city": "Gothenburg",
+            "zip": "413 46",
+            "country": "Sweden",
+            "geoPoint": {
+              "lat": 57.70716,
+              "lon": 11.96679
+            }
+          },
+          {
+            "facility": "Enheten f\u00f6r Kliniska Studier (EKS), \u00d6rebro",
+            "city": "\u00d6rebro",
+            "zip": "701 85",
+            "country": "Sweden",
+            "geoPoint": {
+              "lat": 59.27412,
+              "lon": 15.2066
+            }
+          },
+          {
+            "facility": "Enheten f\u00f6r Kliniska Studier (EKS), \u00d6rebro",
+            "city": "\u00d6rebro",
+            "zip": "703 62",
+            "country": "Sweden",
+            "geoPoint": {
+              "lat": 59.27412,
+              "lon": 15.2066
+            }
+          },
+          {
+            "facility": "Centrum for Diabetes, Academical Specialist Centrum",
+            "city": "Stockholm",
+            "zip": "113 65",
+            "country": "Sweden",
+            "geoPoint": {
+              "lat": 59.32938,
+              "lon": 18.06871
+            }
+          },
+          {
+            "facility": "Luzerner Kantonsspital",
+            "city": "Lucerne",
+            "zip": "6004",
+            "country": "Switzerland",
+            "geoPoint": {
+              "lat": 47.05048,
+              "lon": 8.30635
+            }
+          },
+          {
+            "facility": "Kantonsspital Olten",
+            "city": "Olten",
+            "zip": "4600",
+            "country": "Switzerland",
+            "geoPoint": {
+              "lat": 47.34999,
+              "lon": 7.90329
+            }
+          },
+          {
+            "facility": "Kantonsspital St. Gallen",
+            "city": "Sankt Gallen",
+            "zip": "9007",
+            "country": "Switzerland",
+            "geoPoint": {
+              "lat": 47.42391,
+              "lon": 9.37477
+            }
+          },
+          {
+            "facility": "Diabetes Adipositas Zentrum Z\u00fcrich",
+            "city": "Zollikerberg",
+            "zip": "8125",
+            "country": "Switzerland",
+            "geoPoint": {
+              "lat": 47.3451,
+              "lon": 8.60088
+            }
+          },
+          {
+            "facility": "Kinderspital Endokrinologie, Z\u00fcrich",
+            "city": "Zurich",
+            "country": "Switzerland",
+            "geoPoint": {
+              "lat": 47.36667,
+              "lon": 8.55
+            }
+          },
+          {
+            "facility": "Chung Shan Medical University Hospital",
+            "city": "Taichung",
+            "zip": "402",
+            "country": "Taiwan",
+            "geoPoint": {
+              "lat": 24.1469,
+              "lon": 120.6839
+            }
+          },
+          {
+            "facility": "National Cheng Kung University Hospital",
+            "city": "Tainan",
+            "zip": "704",
+            "country": "Taiwan",
+            "geoPoint": {
+              "lat": 22.99259,
+              "lon": 120.20507
+            }
+          },
+          {
+            "facility": "Chi Mei Medical Center",
+            "city": "Tainan",
+            "zip": "710",
+            "country": "Taiwan",
+            "geoPoint": {
+              "lat": 22.99259,
+              "lon": 120.20507
+            }
+          },
+          {
+            "facility": "Taipei Veterans General Hospital",
+            "city": "Taipei",
+            "zip": "112",
+            "country": "Taiwan",
+            "geoPoint": {
+              "lat": 25.05306,
+              "lon": 121.52639
+            }
+          },
+          {
+            "facility": "Chang Gung Medical Foundation - Linkou Branch",
+            "city": "Taoyuan",
+            "zip": "333",
+            "country": "Taiwan",
+            "geoPoint": {
+              "lat": 24.99368,
+              "lon": 121.29696
+            }
+          },
+          {
+            "facility": "\"University Clinic\" of Dnipro State Medical University - Endocrinology department",
+            "city": "Dnipro",
+            "zip": "49038",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 48.46664,
+              "lon": 35.04066
+            }
+          },
+          {
+            "facility": "Centre of Innovative Medical Technologies of NASU - Therapeutic and Endocrinology Department",
+            "city": "Kyiv",
+            "zip": "04053",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.45466,
+              "lon": 30.5238
+            }
+          },
+          {
+            "facility": "Komisarenko Institute of Endocrinology and Metabolism of NAMSU - Department of paediatric endocrine pathology",
+            "city": "Kyiv",
+            "zip": "04114",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.45466,
+              "lon": 30.5238
+            }
+          },
+          {
+            "facility": "Vinnytsia Regional Clinical Endocrinological Centre - Therapeutic department #2",
+            "city": "Vinnytsia",
+            "zip": "21010",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.2322,
+              "lon": 28.46871
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "42557064",
+            "type": "DERIVED",
+            "citation": "Ji L, Andersen JD, Benamar M, Ponzani P, Unnikrishnan AG, Vinther S, Rea R. Efficacy and Hypoglycaemia Outcomes With Once-Weekly IcoSema Versus Comparators in Individuals With Type 2 Diabetes by Kidney and Liver Function: A Post Hoc Analysis of the COMBINE 1-3 Trials. Diabetes Obes Metab. 2026 Aug 5. doi: 10.1111/dom.70895. Online ahead of print."
+          },
+          {
+            "pmid": "39820580",
+            "type": "DERIVED",
+            "citation": "Lingvay I, Benamar M, Chen L, Fu A, Jodar E, Nishida T, Riveline JP, Yabe D, Zueger T, Rea R. Once-weekly IcoSema versus once-weekly semaglutide in adults with type 2 diabetes: the COMBINE 2 randomised clinical trial. Diabetologia. 2025 Apr;68(4):739-751. doi: 10.1007/s00125-024-06348-5. Epub 2025 Jan 17."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "\"According to the Novo Nordisk disclosure commitment on novonordisk-trials.com\"",
+        "url": "http://novonordisk-trials.com"
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "preAssignmentDetails": "Participants were randomised in 1:1 ratio to receive subcutaneous (s.c.) injection of either IcoSema or semaglutide once weekly. The trial had a 52-week treatment period followed by a 5-week follow-up period.",
+        "recruitmentDetails": "The trial was conducted at 124 sites in 13 countries.",
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "IcoSema",
+            "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly."
+          },
+          {
+            "id": "FG001",
+            "title": "Semaglutide",
+            "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period."
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "342"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "341"
+                  }
+                ]
+              },
+              {
+                "type": "Full Analysis Set",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "342"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "341"
+                  }
+                ]
+              },
+              {
+                "type": "Safety Analysis Set",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "341"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "340"
+                  }
+                ]
+              },
+              {
+                "type": "Treated",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "341"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "340"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "329"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "336"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "13"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "5"
+                  }
+                ]
+              }
+            ],
+            "dropWithdraws": [
+              {
+                "type": "Withdrawal by Subject",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "10"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "5"
+                  }
+                ]
+              },
+              {
+                "type": "Lost to Follow-up",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              },
+              {
+                "type": "Death",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "2"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "populationDescription": "Full analysis set (FAS) included all randomised participants.",
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "IcoSema",
+            "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly."
+          },
+          {
+            "id": "BG001",
+            "title": "Semaglutide",
+            "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period."
+          },
+          {
+            "id": "BG002",
+            "title": "Total",
+            "description": "Total of all reporting groups"
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "342"
+              },
+              {
+                "groupId": "BG001",
+                "value": "341"
+              },
+              {
+                "groupId": "BG002",
+                "value": "683"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Continuous",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "Years",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "59.9",
+                        "spread": "10.5"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "58.3",
+                        "spread": "9.8"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "59.1",
+                        "spread": "10.2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "141"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "145"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "286"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "201"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "196"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "397"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Ethnicity (NIH/OMB)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Hispanic or Latino",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "37"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "37"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "74"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Not Hispanic or Latino",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "285"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "289"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "574"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "20"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "15"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "35"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Race (NIH/OMB)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "American Indian or Alaska Native",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Asian",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "99"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "90"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "189"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Native Hawaiian or Other Pacific Islander",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "1"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Black or African American",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "12"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "9"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "21"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "White",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "210"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "224"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "434"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "More than one race",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "2"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "20"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "15"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "35"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Change From Baseline in Glycosylated Haemoglobin (HbA1c)",
+            "description": "Change from baseline (week 0) to week 52 in HbA1c is presented.The outcome measure was evaluated based on the data from in study period, where all data from randomisation until last date of any of the following: 1) last direct participant-site contact; 2) participants who withdrew their informed consent; 3) last participant-investigator contact as defined by the investigator for participants who lost to follow-up (i.e. possibly an unscheduled phone visit); 4) death of participants who died before any of the above.",
+            "populationDescription": "Full Analysis Set (FAS) which comprised all randomised participants. Overall number of participants analyzed = participants with available data for this outcome measure.",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "Standard Deviation",
+            "unitOfMeasure": "Percentage point of HbA1c",
+            "timeFrame": "Baseline (week 0), (week 52)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "IcoSema",
+                "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly."
+              },
+              {
+                "id": "OG001",
+                "title": "Semaglutide",
+                "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "325"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "335"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "-1.40",
+                        "spread": "0.91"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "-0.86",
+                        "spread": "0.96"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "analyses": [
+              {
+                "groupIds": [
+                  "OG000",
+                  "OG001"
+                ],
+                "groupDescription": "Treatment policy strategy",
+                "nonInferiorityType": "SUPERIORITY",
+                "nonInferiorityComment": "Responses were analysed using an analysis of covariance (ANCOVA) model with region and randomised treatment as fixed factors and baseline HbA1c as covariate. Each imputed dataset is analysed separately and estimates are combined using Rubin's rules.",
+                "pValue": "<0.0001",
+                "statisticalMethod": "ANCOVA",
+                "paramType": "Estimated treatment difference",
+                "paramValue": "-0.44",
+                "ciPctValue": "95",
+                "ciNumSides": "TWO_SIDED",
+                "ciLowerLimit": "-0.56",
+                "ciUpperLimit": "-0.33"
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Change From Baseline in Fasting Plasma Glucose (FPG)",
+            "description": "Change from baseline (week 0) to week 52 in FPG is presented.The outcome measure was evaluated based on the data from in study period, where all data from randomisation until last date of any of the following: 1) last direct participant-site contact; 2) participants who withdrew their informed consent; 3) last participant-investigator contact as defined by the investigator for participants who lost to follow-up (i.e. possibly an unscheduled phone visit); 4) death of participants who died before any of the above.",
+            "populationDescription": "FAS which comprised all randomised participants. Overall number of participants analyzed = participants with available data for this outcome measure.",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "Standard Deviation",
+            "unitOfMeasure": "Millimoles per litre (mmol/L)",
+            "timeFrame": "Baseline (week 0), (week 52)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "IcoSema",
+                "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly."
+              },
+              {
+                "id": "OG001",
+                "title": "Semaglutide",
+                "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "313"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "317"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "-2.74",
+                        "spread": "2.85"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "-1.41",
+                        "spread": "2.89"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Change From Baseline in Body Weight",
+            "description": "Change from baseline (week 0) to week 52 in body weight is presented. The outcome measure was evaluated based on the data from in study period, where all data from randomisation until last date of any of the following: 1) last direct participant-site contact; 2) participants who withdrew their informed consent; 3) last participant-investigator contact as defined by the investigator for participants who lost to follow-up (i.e. possibly an unscheduled phone visit); 4) death of participants who died before any of the above.",
+            "populationDescription": "FAS which comprised all randomised participants. Overall number of participants analyzed = participants with available data for this outcome measure.",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "Standard Deviation",
+            "unitOfMeasure": "Kilogram (kg)",
+            "timeFrame": "Baseline (week 0), (week 52)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "IcoSema",
+                "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly."
+              },
+              {
+                "id": "OG001",
+                "title": "Semaglutide",
+                "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "325"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "336"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "0.89",
+                        "spread": "4.36"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "-3.77",
+                        "spread": "4.60"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Number of Clinically Significant Hypoglycaemic Episodes (Level 2) (<3.0 mmol/L (54 Milligram Per Decilitre [mg/dL]) , Confirmed by Blood Glucose [BG] Meter) or Severe Hypoglycaemic Episodes (Level 3)",
+            "description": "Hypoglycaemic episodes were classified according to the American Diabetes Association/ International Hypoglycaemia Study Group, where glycemic criteria for level 2 was less than (\\<) 3.0 mmol/L (54 mg/dL) and level 3 had no specific glucose threshold. The outcome measure was evaluated based on data from on treatment period, where all data from date of first dose of randomised treatment as recorded on the electronic case report form (eCRF) until the first date of any of the following: 1)last follow-up visit (V56); 2) last date on randomised treatment +6 weeks (corresponding to 5 weeks after the end of the dosing interval for both treatment arms); 3) end-date for the in-study data points sets.",
+            "populationDescription": "Safety Analysis Set (SAS) included all participants exposed to randomised treatment.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "Episodes",
+            "timeFrame": "Week 0 to Week 57",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "IcoSema",
+                "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly."
+              },
+              {
+                "id": "OG001",
+                "title": "Semaglutide",
+                "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "341"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "340"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "15"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "13"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Number of Clinically Significant Hypoglycaemic Episodes (Level 2) (<3.0 mmol/L (54 mg/dL), Confirmed by BG Meter)",
+            "description": "Hypoglycaemic episodes were classified according to the American Diabetes Association/ International Hypoglycaemia Study Group, where glycemic criteria for level 2 was \\< 3.0 mmol/L (54 mg/dL). The outcome measure was evaluated based on data from on treatment period, where all data from date of first dose of randomised treatment as recorded on the electronic case report form (eCRF) until the first date of any of the following: 1)last follow-up visit (V56); 2) last date on randomised treatment +6 weeks (corresponding to 5 weeks after the end of the dosing interval for both treatment arms); 3) end-date for the in-study data points sets.",
+            "populationDescription": "SAS included all participants exposed to randomised treatment.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "Episodes",
+            "timeFrame": "Week 0 to Week 57",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "IcoSema",
+                "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly."
+              },
+              {
+                "id": "OG001",
+                "title": "Semaglutide",
+                "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "341"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "340"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "15"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "13"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Number of Severe Hypoglycaemic Episodes (Level 3)",
+            "description": "Hypoglycaemic episodes were classified according to the American Diabetes Association/ International Hypoglycaemia Study Group, where glycemic criteria for level 3 had no specific glucose threshold.The outcome measure was evaluated based on data from on treatment period, where all data from date of first dose of randomised treatment as recorded on the electronic case report form (eCRF) until the first date of any of the following: 1)last follow-up visit (V56); 2) last date on randomised treatment +6 weeks (corresponding to 5 weeks after the end of the dosing interval for both treatment arms); 3) end-date for the in-study data points sets.",
+            "populationDescription": "SAS included all participants exposed to randomised treatment.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "Episodes",
+            "timeFrame": "Week 0 to Week 57",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "IcoSema",
+                "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly."
+              },
+              {
+                "id": "OG001",
+                "title": "Semaglutide",
+                "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "341"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "340"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "5",
+        "timeFrame": "Week 0 to week 57",
+        "description": "Presented AEs are TEAEs, defined as event with onset during on treatment period where all data from date of first dose of randomised treatment as recorded on electronic case report form (eCRF) until first date of any of the below:1) last follow up visit;2) last date on randomised treatment +6 weeks (corresponding to 5 weeks after end of dosing interval for both arms);3) end-date for in-study data points. AEs were assessed in SAS and All-Cause Mortality was assessed for all enrolled participants.",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "IcoSema",
+            "description": "Participants received once weekly 700 units per millilitre (U/mL) of insulin icodec and 2 milligram per millilitre (mg/mL) of semaglutide subcutaneously for 52 weeks. Participants were to perform once daily pre-breakfast self-monitoring plasma glucose (SMPG). The dose was adjusted based on 3 pre-breakfast SMPG values measured on the 2 previous days and the day of the contact. If at least one pre-breakfast SMPG value was: \\< 4.4 mmol/L: dose re-duced by 10 U; 4.4-7.2 mmol/L: no adjustment; \\> 7.2 mmol/L: dose increased by 10 U. Dose titration of IcoSema was based on the respective premeal(s) and bedtime self-measured plasma glucose (SMPG) measured weekly.",
+            "deathsNumAffected": 2,
+            "deathsNumAtRisk": 342,
+            "seriousNumAffected": 38,
+            "seriousNumAtRisk": 341,
+            "otherNumAffected": 163,
+            "otherNumAtRisk": 341
+          },
+          {
+            "id": "EG001",
+            "title": "Semaglutide",
+            "description": "Participants received once weekly semaglutide subcutaneously in a dose escalation manner, with dose increases every 4 weeks for up to week 8 (0.25 milligrams \\[mg\\], 0.5 mg) followed by dose of 1.0 mg once weekly up to the end of treatment period.",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 341,
+            "seriousNumAffected": 21,
+            "seriousNumAtRisk": 340,
+            "otherNumAffected": 159,
+            "otherNumAtRisk": 340
+          }
+        ],
+        "seriousEvents": [
+          {
+            "term": "Abdominal sepsis",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Acoustic neuroma",
+            "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Acute kidney injury",
+            "organSystem": "Renal and urinary disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Acute myocardial infarction",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Adenocarcinoma of colon",
+            "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Angina pectoris",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Angina unstable",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Appendicitis",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Arteriosclerosis coronary artery",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Cardiac failure chronic",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Cardioversion",
+            "organSystem": "Surgical and medical procedures",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Cataract",
+            "organSystem": "Eye disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 2,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Cerebral infarction",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Cerebrovascular accident",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Chest pain",
+            "organSystem": "General disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Cholecystitis acute",
+            "organSystem": "Hepatobiliary disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Colon dysplasia",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Colorectal adenoma",
+            "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Coronary artery disease",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Coronary artery stenosis",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Decreased appetite",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Deep vein thrombosis",
+            "organSystem": "Vascular disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Depression",
+            "organSystem": "Psychiatric disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Diabetic ketoacidosis",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Diarrhoea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Dyspnoea",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Erysipelas",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Femoral neck fracture",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Femur fracture",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Food poisoning",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Gastrointestinal haemorrhage",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Hydronephrosis",
+            "organSystem": "Renal and urinary disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Hypertension",
+            "organSystem": "Vascular disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Hypovolaemic shock",
+            "organSystem": "Vascular disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Intervertebral disc protrusion",
+            "organSystem": "Musculoskeletal and connective tissue disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Ischaemic stroke",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Ketoacidosis",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Lactic acidosis",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Left ventricular failure",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Lumbar spinal stenosis",
+            "organSystem": "Musculoskeletal and connective tissue disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Meniscus injury",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Migraine without aura",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Myocardial infarction",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Nausea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Optic ischaemic neuropathy",
+            "organSystem": "Eye disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Osteoarthritis",
+            "organSystem": "Musculoskeletal and connective tissue disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Otitis media",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Otitis media chronic",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Ovarian adenoma",
+            "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Pancreatitis acute",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Patella fracture",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Peripheral arterial occlusive disease",
+            "organSystem": "Vascular disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Pneumonia",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Prostatitis",
+            "organSystem": "Reproductive system and breast disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Pulmonary embolism",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Spinal column injury",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Spinal fracture",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Squamous cell carcinoma of head and neck",
+            "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Squamous cell carcinoma of the tongue",
+            "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Sudden death",
+            "organSystem": "General disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Tibia fracture",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Type 2 diabetes mellitus",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Ulna fracture",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "VIth nerve paralysis",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Ventricular extrasystoles",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Ventricular tachycardia",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Vomiting",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 340
+              }
+            ]
+          }
+        ],
+        "otherEvents": [
+          {
+            "term": "COVID-19",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 52,
+                "numAffected": 51,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 53,
+                "numAffected": 49,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Constipation",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 14,
+                "numAffected": 11,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 26,
+                "numAffected": 17,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Diabetic retinopathy",
+            "organSystem": "Eye disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 20,
+                "numAffected": 19,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 10,
+                "numAffected": 10,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Diarrhoea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 53,
+                "numAffected": 38,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 82,
+                "numAffected": 41,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Headache",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 25,
+                "numAffected": 20,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 6,
+                "numAffected": 6,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Nasopharyngitis",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 45,
+                "numAffected": 33,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 45,
+                "numAffected": 33,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Nausea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 65,
+                "numAffected": 40,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 73,
+                "numAffected": 39,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Upper respiratory tract infection",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 34,
+                "numAffected": 22,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 34,
+                "numAffected": 29,
+                "numAtRisk": 340
+              }
+            ]
+          },
+          {
+            "term": "Vomiting",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "MedDRA 26",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 24,
+                "numAffected": 17,
+                "numAtRisk": 341
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 48,
+                "numAffected": 22,
+                "numAtRisk": 340
+              }
+            ]
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": false,
+          "restrictionType": "OTHER",
+          "restrictiveAgreement": true,
+          "otherDetails": "At the end of the trial, one or more scientific publications may be prepared collaboratively by the investigator(s) and Novo Nordisk. Novo Nordisk reserves the right to postpone publication and/or communication for up to 60 days to protect intellectual property."
+        },
+        "pointOfContact": {
+          "title": "Clinical Reporting Office (2834)",
+          "organization": "Novo Nordisk A/S",
+          "email": "clinicaltrials@novonordisk.com",
+          "phone": "(+1) 866-867-7178"
+        }
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot",
+            "hasProtocol": true,
+            "hasSap": false,
+            "hasIcf": false,
+            "label": "Study Protocol",
+            "date": "2023-03-23",
+            "uploadDate": "2024-12-11T05:05",
+            "filename": "Prot_000.pdf",
+            "size": 1119813
+          },
+          {
+            "typeAbbrev": "SAP",
+            "hasProtocol": false,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Statistical Analysis Plan",
+            "date": "2022-06-23",
+            "uploadDate": "2024-12-11T05:05",
+            "filename": "SAP_001.pdf",
+            "size": 420245
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30",
+        "submissionTracking": {
+          "firstMcpInfo": {
+            "postDateStruct": {
+              "date": "2025-01-01",
+              "type": "ACTUAL"
+            }
+          }
+        }
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C000591245",
+            "term": "semaglutide"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T13:37:30.604545"
+}

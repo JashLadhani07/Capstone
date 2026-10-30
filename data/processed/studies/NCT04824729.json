@@ -1,0 +1,252 @@
+{
+  "nct_id": "NCT04824729",
+  "title": "Definition of the Target Population for Xarelto's New Indications in Connection With the VOYAGER PAD Study",
+  "sponsor": "Bayer",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Peripheral Artery Disease"
+  ],
+  "interventions": [
+    "Lower limb revascularization",
+    "Lower limb revascularization"
+  ],
+  "primary_outcome": "Number of patients with lower-extremity peripheral artery disease who have undergone lower limb revascularization",
+  "secondary_outcomes": [
+    "Number of patients with lower-extremity peripheral artery disease matching the VOYAGER PAD inclusion and exclusion criteria",
+    "Characteristics of patients with lower-extremity peripheral artery disease who have undergone lower limb revascularization",
+    "Characteristics of patients with lower-extremity peripheral artery disease matching the VOYAGER PAD inclusion and exclusion criteria",
+    "Risk of major thrombotic vascular events in patients with lower-extremity peripheral artery disease who have undergone lower limb revascularization",
+    "Risk of major thrombotic vascular events in patients matching the VOYAGER PAD inclusion and exclusion criteria"
+  ],
+  "start_date": "2021-03-24",
+  "completion_date": "2022-01-07",
+  "results_posted": false,
+  "enrollment": 227613,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04824729",
+        "orgStudyIdInfo": {
+          "id": "21849"
+        },
+        "organization": {
+          "fullName": "Bayer",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Study Related to the VOYAGER PAD Trial to Learn More About the Target Population for Xarelto in French Patients",
+        "officialTitle": "Definition of the Target Population for Xarelto's New Indications in Connection With the VOYAGER PAD Study",
+        "acronym": "PADELTO"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2022-04",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-03-24",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2022-01-07",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2022-01-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2021-03-15",
+        "studyFirstSubmitQcDate": "2021-03-30",
+        "studyFirstPostDateStruct": {
+          "date": "2021-04-01",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2022-04-22",
+        "lastUpdatePostDateStruct": {
+          "date": "2022-04-25",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Bayer",
+          "class": "INDUSTRY"
+        },
+        "collaborators": [
+          {
+            "name": "External supplier: HEVA",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is a study to learn more about French patients who have peripheral artery disease (PAD) and who have had a revascularization procedure. With this procedure, doctors use surgery or a thin tube (called a catheter) to open a narrow or blocked blood vessel in the lower limbs.\n\nIn a previous Bayer trial called VOYAGER PAD, researchers studied Xarelto in participants with PAD who had recently had a revascularization procedure in their lower leg. The researchers studied how well Xarelto worked and how safe it was in these participants.\n\nBased on the results of the VOYAGER PAD trial, the researchers in this study want to learn the number of patients with PAD who had a revascularization procedure in France from January 1st, 2016 to December 31st, 2019. This can help the researchers learn more about the target population (a specific group of people) who could potentially receive treatment with Xarelto.\n\nXarelto is available for doctors in France to prescribe to patients who have the following conditions:\n\n* to reduce the risk of another heart attack or of dying from a disease related to the heart or the blood vessels in adults with acute coronary syndrome (a group of conditions that includes heart attack and unstable angina, a severe type of chest pain) who have had an increase in certain cardiac blood tests\n* to reduce the risk of getting blot clots (atherothrombotic events) in adults at a high risk of getting a blood clot due to a coronary artery disease or peripheral artery disease which causes symptoms\n* to prevent blood clots in the veins after a hip or knee replacement operation in adults\n* to prevent blood clots in brain (stroke) and other blood vessels in the body in adults who have a form of irregular heart rhythm called non-valvular atrial fibrillation\n* to treat blood clots in the veins of the legs (deep vein thrombosis) and in the blood vessels of the lungs (pulmonary embolism), and to prevent blood clots from re-occurring in the blood vessels of the legs and/or lungs in adults\n* to treat blood clots and prevent re-occurrence of blood clots in the veins or in the blood vessels of the lungs in full-term newborn babies, infants and toddlers, children and adolescents below 18 years following an initial treatment of at least 5 days with injectable medicines used to treat blood clots\n\nAll the patients in this study will have PAD in their lower leg. They will all have had a revascularization procedure during a hospital stay in France between January 1st, 2016 and December 31st, 2019. The researchers will collect the patients' health data from the French National Health Insurance (NHI) hospital discharge database (PMSI). The researchers will look at the health data from all patients with PAD who had a revascularization procedure and also patients who could have joined the VOYAGER PAD trial. This group will not include any patients who have health conditions other than PAD.\n\nThe researchers will review each patient's medical records until December 31st, 2019 or earlier if the patient has died. The researchers will also look at any previous medical records from the date of each patient's revascularization procedure back to January 1st, 2014. The researchers will use these medical records to look for any health conditions other than PAD that the patients may have had before their revascularization procedure after January 1st 2016.\n\nThe main question the researchers want to answer in this study is: how many patients with PAD had a revascularization procedure between January 1st, 2016 and December 31st, 2019?"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Peripheral Artery Disease"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "RETROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 227613,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "French PAD revascularized population",
+            "description": "Patients with lower-extremity peripheral artery disease (PAD) who have undergone lower limb revascularization (PAD revascularized population) in France from 2016 to 2019.",
+            "interventionNames": [
+              "Procedure: Lower limb revascularization"
+            ]
+          },
+          {
+            "label": "French VOYAGER PAD-like population",
+            "description": "VOYAGER PAD-like patients in France from 2016 to 2019.\n\nThis population will be constituted to fit the VOYAGER PAD clinical trial population. It will be created using the VOYAGER PAD exclusion criteria and resembles a subgroup of the PAD revascularized population.",
+            "interventionNames": [
+              "Procedure: Lower limb revascularization"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Lower limb revascularization",
+            "description": "French population of patients with lower-extremity peripheral artery disease who have undergone lower limb revascularization.",
+            "armGroupLabels": [
+              "French PAD revascularized population"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Lower limb revascularization",
+            "description": "French population of patients matching the VOYAGER PAD exclusion criteria resembling a subgroup of the PAD revascularized population.",
+            "armGroupLabels": [
+              "French VOYAGER PAD-like population"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Number of patients with lower-extremity peripheral artery disease who have undergone lower limb revascularization",
+            "description": "Retrospective data analysis carried out on the French National Health Insurance's (NHI) hospital discharge database (PMSI) on PAD revascularized population in France from 2016 to 2019.",
+            "timeFrame": "3 years"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Number of patients with lower-extremity peripheral artery disease matching the VOYAGER PAD inclusion and exclusion criteria",
+            "description": "Retrospective data analysis carried out on the French National Health Insurance's (NHI) hospital discharge database (PMSI) on VOYAGER PAD-like population in France from 2016 to 2019.",
+            "timeFrame": "3 years"
+          },
+          {
+            "measure": "Characteristics of patients with lower-extremity peripheral artery disease who have undergone lower limb revascularization",
+            "description": "Retrospective data analysis carried out on the French National Health Insurance's (NHI) hospital discharge database (PMSI) on PAD revascularized population in France from 2016 to 2019.",
+            "timeFrame": "3 years"
+          },
+          {
+            "measure": "Characteristics of patients with lower-extremity peripheral artery disease matching the VOYAGER PAD inclusion and exclusion criteria",
+            "description": "Retrospective data analysis carried out on the French National Health Insurance's (NHI) hospital discharge database (PMSI) on VOYAGER PAD-like population in France from 2016 to 2019.",
+            "timeFrame": "3 years"
+          },
+          {
+            "measure": "Risk of major thrombotic vascular events in patients with lower-extremity peripheral artery disease who have undergone lower limb revascularization",
+            "description": "Retrospective data analysis carried out on the French National Health Insurance's (NHI) hospital discharge database (PMSI) to evaluate the risk of major thrombotic vascular events (defined as Myocardial Infarction (MI), ischemic stroke, Acute Limb Ischemia (ALI), and major amputation of a vascular etiology) in patients with lower-extremity peripheral artery disease who have undergone lower limb revascularization in France from 2016 to 2018.",
+            "timeFrame": "2 years"
+          },
+          {
+            "measure": "Risk of major thrombotic vascular events in patients matching the VOYAGER PAD inclusion and exclusion criteria",
+            "description": "Retrospective data analysis carried out on the French National Health Insurance's (NHI) hospital discharge database (PMSI) to evaluate the risk of major thrombotic vascular events (defined as Myocardial Infarction (MI), ischemic stroke, Acute Limb Ischemia (ALI), and major amputation of a vascular etiology) on the VOYAGER PAD-like population in France from 2016 to 2018.",
+            "timeFrame": "2 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria: PAD revascularized population\n\n* Patients with hospital stays identified through ICD-10 and surgical procedure (CCAM) codes:\n* Patient with a lower-extremity PAD.\n* Patient with a lower limb revascularization procedure.\n\nExclusion Criteria: PAD revascularized population\n\n* None\n\nExclusion Criteria: VOYAGER PAD-like population\n\n* Patients presenting the following medical history at index date will be excluded from the VOYAGER PAD-like population.:\n* Prior revascularization within 10 days of the qualifying lower limb revascularization\n* ALI within 2 weeks prior to the qualifying lower limb revascularization\n* Patients with major tissue loss (defined as significant ulceration/gangrene proximal to the metatarsal heads, i.e. heel or midfoot)\n* Atrial fibrillation and flutter\n* Mechanical valve history\n* History of hemorrhage\n* Chronic hepatic failure (Any known hepatic disease associated with coagulopathy or bleeding risk)\n* Gastrointestinal ulcer\n* Oesophageal varices\n* Dialysis\n* Confirmed Acute Coronary Syndrome (ACS) within 30 days prior to lower limb revascularization\n* Any history of intracranial hemorrhage, stroke, or transient ischemic attack (TIA)\n* Known active malignancy, excluding local skin cancer (basal or squamous cell carcinoma)",
+        "sex": "ALL",
+        "genderBased": true,
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "PAD revascularized population; Patients with lower-extremity PAD having undergone a lower limb revascularization during a hospital stay in France occurring between January 1, 2016 and ending by December 31, 2019 will be included into the study at the time of a lower limb revascularization hospital stay.\n\nVOYAGER PAD-like population:\n\nThis population will be constituted to fit the VOYAGER PAD clinical trial population. It will be created using the VOYAGER PAD exclusion criteria.",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "PMSI",
+            "city": "Multiple Locations",
+            "country": "France"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO",
+        "description": "Availability of this study's data will later be determined according to Bayer's commitment to the EFPIA/PhRMA \"Principles for responsible clinical trial data sharing\". This pertains to scope, timepoint and process of data access.\n\nAs such, Bayer commits to sharing upon request from qualified researchers patient-level clinical trial data, study-level clinical trial data, and protocols from clinical trials in patients for medicines and indications approved in the US and EU as necessary for conducting legitimate research. This applies to data on new medicines and indications that have been approved by the EU and US regulatory agencies on or after January 01, 2014.\n\nInterested researchers can use www.clinicalstudydatarequest.com to request access to anonymized patient-level data and supporting documents from clinical studies to conduct research. Information on the Bayer criteria for listing studies and other relevant information is provided in the Study sponsors section of the portal."
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D058729",
+            "term": "Peripheral Arterial Disease"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D050197",
+            "term": "Atherosclerosis"
+          },
+          {
+            "id": "D001161",
+            "term": "Arteriosclerosis"
+          },
+          {
+            "id": "D001157",
+            "term": "Arterial Occlusive Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D016491",
+            "term": "Peripheral Vascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.791975"
+}

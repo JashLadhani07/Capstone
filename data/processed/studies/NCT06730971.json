@@ -1,0 +1,220 @@
+{
+  "nct_id": "NCT06730971",
+  "title": "Incidence, Types and Risk Factors for Thyroid Cancer in Patients with Multinodular Goitre , Prospective Study.",
+  "sponsor": "Asmaa Mohamed Emam",
+  "phase": "NA",
+  "status": "NOT_YET_RECRUITING",
+  "conditions": [
+    "Thyroid Cancer"
+  ],
+  "interventions": [
+    "Total thyroidectomy",
+    "Total thyroidectomy"
+  ],
+  "primary_outcome": "Evaluate the prevalence of Incidental thyroid cancer (ITC) in patients who had thyroidectomy for MNG, and analyze patient-related parameters to identify type and risk factors associated with incidental thyroid malignancy.",
+  "secondary_outcomes": [],
+  "start_date": "2024-12",
+  "completion_date": "2026-06",
+  "results_posted": false,
+  "enrollment": 300,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06730971",
+        "orgStudyIdInfo": {
+          "id": "Thyroid cancer in MNG"
+        },
+        "organization": {
+          "fullName": "Assiut University",
+          "class": "OTHER"
+        },
+        "briefTitle": "This Study is Mainly About Finding Incidence Among Other Factors of Thyroid Cancer in Patient with Benign Disease As MNG to Early Discover of the Malignancy to Save the Patient from Aggressive Procedure",
+        "officialTitle": "Incidence, Types and Risk Factors for Thyroid Cancer in Patients with Multinodular Goitre , Prospective Study."
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-12",
+        "overallStatus": "NOT_YET_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2024-12",
+          "type": "ESTIMATED"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-06",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2026-10",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2024-12-09",
+        "studyFirstSubmitQcDate": "2024-12-09",
+        "studyFirstPostDateStruct": {
+          "date": "2024-12-12",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-12-09",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-12-12",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Asmaa Mohamed Emam",
+          "investigatorTitle": "Assistant Lecturer",
+          "investigatorAffiliation": "Assiut University"
+        },
+        "leadSponsor": {
+          "name": "Asmaa Mohamed Emam",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Assiut University",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of the present study was to evaluate the prevalence of thyroid cancer in patients who had thyroidectomy for MNG, and analyze patient-related parameters to identify type and risk factors associated with incidental thyroid malignancy.",
+        "detailedDescription": "Multinodular goiter (MNG) is a common thyroid disorder characterized by the presence of multiple nodules in the thyroid gland. It is a benign condition, but a proportion of patients with MNG have risk of developing thyroid cancer .\n\nThyroid carcinoma is one of the most frequent types of endocrinological cancers, and its occurrence has been on the rise globally. Total thyroidectomy is regarded as the most effective surgical treatment for MNG and is also advised for patients with diagnosed thyroid cancer.\n\nSeveral studies have revealed a greater incidence of thyroid cancer in MNG. Published data regarding the prevalence of thyroid cancer within a multinodular goitre (MNG) have demonstrated a wide distribution of cancer rates, ranging from 3 to 35 percent.\n\nAlthough fine-needle aspiration (FNA) is the most accurate and cost effective method of thyroid nodule evaluation, benign cytological -diagnosis is associated with false-negative. Further complicating this topic, FNA cytology may be non-diagnostic in up to 25 per cent of patients with nodular thyroid disease, and its performance in the setting of MNG presents other difficulties, including deeply located thyroid nodules that may be more challenging to aspirate as well as reliably evaluating all suspicious nodules.\n\nIncidental thyroid cancer (ITC) is sometimes detected in the final pathological examination, the incidence of ITC after surgery varies widely in literature, ranging from 2% to 30%.\n\nCertain risk factors, such as sex, age, history of neck irradiation, family history, calcifications observed during imaging studies, size of the thyroid tumor and thyroid-stimulating hormone (TSH) levels, may be related to ITC; however, this remains controversial. Although previous studies have focused on clinical factors related to cancer, the knowledge on pathologic characteristics of ITC is limited."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Thyroid Cancer"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 300,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Total thyroidectomy",
+            "description": "Post operative specimen after total thyroidectomy"
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Total thyroidectomy",
+            "description": "Remove of both thyroid lobes and isthmus"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Evaluate the prevalence of Incidental thyroid cancer (ITC) in patients who had thyroidectomy for MNG, and analyze patient-related parameters to identify type and risk factors associated with incidental thyroid malignancy.",
+            "timeFrame": "1 month"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or Female patients with multinodular goiter Patients with normal thyroid function tests Patients with FNAC negative for malignancy Patients who are fit for general anesthesia\n\nExclusion Criteria:\n\n* patient suspicious nodule on ultrasound imaging patients in whom distant metastases occurred preoperatively but FNAC was negative for malignancy patients with a history of thyroidectomy Patients with severe comorbid conditions with high risk for general anesthesia",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "stdAges": [
+          "CHILD",
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Patient with inclusion criteria of various ages ,sex and BMI",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Asmaa Emam",
+            "role": "CONTACT",
+            "phone": "asmaaemam141@gmail.com",
+            "phoneExt": "2001002073861",
+            "email": "asmaaemam141@gmail.com"
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "26462967",
+            "type": "BACKGROUND",
+            "citation": "Haugen BR, Alexander EK, Bible KC, Doherty GM, Mandel SJ, Nikiforov YE, Pacini F, Randolph GW, Sawka AM, Schlumberger M, Schuff KG, Sherman SI, Sosa JA, Steward DL, Tuttle RM, Wartofsky L. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016 Jan;26(1):1-133. doi: 10.1089/thy.2015.0020."
+          },
+          {
+            "pmid": "31912902",
+            "type": "BACKGROUND",
+            "citation": "Siegel RL, Miller KD, Jemal A. Cancer statistics, 2020. CA Cancer J Clin. 2020 Jan;70(1):7-30. doi: 10.3322/caac.21590. Epub 2020 Jan 8."
+          },
+          {
+            "pmid": "37220458",
+            "type": "BACKGROUND",
+            "citation": "Amin A, Amjad A, Farman G, Khaliq SU, Amin L, Khan M. Frequency and Type of Thyroid Carcinoma in Patients With Multinodular Goiter. Cureus. 2023 Apr 21;15(4):e37921. doi: 10.7759/cureus.37921. eCollection 2023 Apr."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D013964",
+            "term": "Thyroid Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D004701",
+            "term": "Endocrine Gland Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D006258",
+            "term": "Head and Neck Neoplasms"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D013959",
+            "term": "Thyroid Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628854"
+}

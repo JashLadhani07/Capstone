@@ -1,0 +1,285 @@
+{
+  "nct_id": "NCT02076555",
+  "title": "A Prospective Multi-center Evaluation of a Diabetes Education Module Specifically Addressing the Topic \"Diabetes and Social Issues\" in a Randomized Controlled Trial",
+  "sponsor": "Forschungsinstitut der Diabetes Akademie Mergentheim",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Diabetes Mellitus"
+  ],
+  "interventions": [
+    "Education - Diabetes and Social Issues"
+  ],
+  "primary_outcome": "Change from baseline in diabetes-specific empowerment on the adapted Diabetes Empowerment Scale at the 2-week and 6-month follow-up",
+  "secondary_outcomes": [
+    "Change from baseline in problem-specific distress on the adapted Problem Areas in Diabetes (PAID) Scale at the 2-week and 6-month follow-up",
+    "Change from baseline in glycemic control (HbA1c) at the 2-week and 6-month follow-up",
+    "Change from baseline in health-related quality of life on the EQ-5D at the 2-week and 6-month follow-up",
+    "Change from baseline in quality of life on the WHO-5 at the 2-week and 6-month follow-up",
+    "Change from baseline in self-efficacy on the General Self-Efficacy Scale (GSE) the 2-week and 6-month follow-up",
+    "Change from baseline in general diabetes-distress at the 2-week and 6-month follow-up",
+    "Change from baseline in depressive symptoms on the CES-D at the 2-week and 6-month follow-up"
+  ],
+  "start_date": "2014-02",
+  "completion_date": "2019-01",
+  "results_posted": false,
+  "enrollment": 256,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02076555",
+        "orgStudyIdInfo": {
+          "id": "NH022014_3"
+        },
+        "organization": {
+          "fullName": "Forschungsinstitut der Diabetes Akademie Mergentheim",
+          "class": "OTHER"
+        },
+        "briefTitle": "Diabetes and Social Issues: Evaluation of a Diabetes Education Module",
+        "officialTitle": "A Prospective Multi-center Evaluation of a Diabetes Education Module Specifically Addressing the Topic \"Diabetes and Social Issues\" in a Randomized Controlled Trial",
+        "acronym": "PRIMO_Social"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2019-08",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2014-02"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2019-01",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2019-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2014-02-28",
+        "studyFirstSubmitQcDate": "2014-02-28",
+        "studyFirstPostDateStruct": {
+          "date": "2014-03-03",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2019-08-07",
+        "lastUpdatePostDateStruct": {
+          "date": "2019-08-09",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Norbert Hermanns",
+          "investigatorTitle": "Head of the Research Institut Diabetes Academy Mergentheim",
+          "investigatorAffiliation": "Forschungsinstitut der Diabetes Akademie Mergentheim"
+        },
+        "leadSponsor": {
+          "name": "Forschungsinstitut der Diabetes Akademie Mergentheim",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study is a multi-center, randomized prospective trial with a 6-month follow up. A newly developed treatment and education module will be tested compared to a waiting-list control group. The module covers the topic \"diabetes and social issues\". Primary outcome variable is diabetes-specific empowerment regarding diabetes and social issues. Secondary outcome variables are: diabetes-related distress, health-related quality of life, depressive symptoms, self-care behavior, and glycemic control.",
+        "detailedDescription": "The module consists of one lesson (duration: 90 minutes). The module is derived from the empowerment approach and is based on the previously evaluated education and treatment program for type 1 diabetes: PRIMAS (NCT01220557). The module is designed as a group session held by a trained diabetes educator. Patients are randomized either to the immediate participation in the module or to the control group. Control group is a waiting-list control group. Patients in this waiting-list control group get the education after the completion of the 6-month follow-up."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus"
+        ],
+        "keywords": [
+          "diabetes",
+          "education",
+          "randomized",
+          "prospective"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 256,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Education - Diabetes and Social Issues",
+            "type": "EXPERIMENTAL",
+            "description": "Patients randomized to this arm, will participate immediately in the education module \"Diabetes and Social Issues\"",
+            "interventionNames": [
+              "Behavioral: Education - Diabetes and Social Issues"
+            ]
+          },
+          {
+            "label": "Waiting-list control group",
+            "type": "NO_INTERVENTION",
+            "description": "Patients in the control group will get the education with the education module after completion of the 6-month follow-up"
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Education - Diabetes and Social Issues",
+            "description": "Based on the treatment and education programme PRIMAS a problem-specific education module regarding \"Diabetes and Social Issues\" was created. The module covers specific and detailed aspects of the topic \"social issues\" such as driver licence, hypoglycemia when driving, and the pass for severly handicapped persons. With this module, a more comprehensive education of patients with specific interest is possible.",
+            "armGroupLabels": [
+              "Education - Diabetes and Social Issues"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change from baseline in diabetes-specific empowerment on the adapted Diabetes Empowerment Scale at the 2-week and 6-month follow-up",
+            "description": "The Diabetes Empowerment Scale was specifically adjusted to cover the topic \"social issues\". Psychometric criteria for these adjusted scale were evaluated in an independent study",
+            "timeFrame": "Baseline, 2-week follow-up , 6-month follow-up"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change from baseline in problem-specific distress on the adapted Problem Areas in Diabetes (PAID) Scale at the 2-week and 6-month follow-up",
+            "description": "The PAID scale was specifically adapted to cover the topic \"social issues\". Psychometric quality was assessed in an independent study",
+            "timeFrame": "baseline, 2-week follow-up, 6-month follow-up"
+          },
+          {
+            "measure": "Change from baseline in glycemic control (HbA1c) at the 2-week and 6-month follow-up",
+            "description": "HbA1c will be analyzed in a central laboratory.",
+            "timeFrame": "baseline, 2-week follow-up, 6-month follow-up"
+          },
+          {
+            "measure": "Change from baseline in health-related quality of life on the EQ-5D at the 2-week and 6-month follow-up",
+            "timeFrame": "baseline, 2-week follow-up, 6-month follow-up"
+          },
+          {
+            "measure": "Change from baseline in quality of life on the WHO-5 at the 2-week and 6-month follow-up",
+            "timeFrame": "baseline, 2-week follow-up, 6-month follow-up"
+          },
+          {
+            "measure": "Change from baseline in self-efficacy on the General Self-Efficacy Scale (GSE) the 2-week and 6-month follow-up",
+            "timeFrame": "baseline, 2-week follow-up, 6-month follow-up"
+          },
+          {
+            "measure": "Change from baseline in general diabetes-distress at the 2-week and 6-month follow-up",
+            "timeFrame": "baseline, 2-week follow-up, 6-month follow-up"
+          },
+          {
+            "measure": "Change from baseline in depressive symptoms on the CES-D at the 2-week and 6-month follow-up",
+            "timeFrame": "baseline, 2-week follow-up, 6-month follow-up"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Intensive insulin treatment\n* specific interest in \"Diabetes and Social Issues\"\n* wish to participate in group education\n* informed consent\n* fluent in reading and speaking German language\n\nExclusion Criteria:\n\n* diabetes duration \\< 4 week\n* severe organic disease (e.g. terminal renal disease, cancer with poor prognosis)\n* current treatment of a mental disease\n* cognitive impairment\n* dementia\n* pregnancy",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "80 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Norbert Hermanns, PhD",
+            "affiliation": "Forschungsinstitut der Diabetes Akademie Mergentheim",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Research Institute of the Diabetes Academy Mergentheim (FIDAM)",
+            "city": "Bad Mergentheim",
+            "zip": "97980",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 49.4925,
+              "lon": 9.77361
+            }
+          },
+          {
+            "facility": "Zentrum f\u00fcr Diabetologie Bergedorf",
+            "city": "Hamburg",
+            "zip": "21029",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 53.55073,
+              "lon": 9.99302
+            }
+          },
+          {
+            "facility": "Diabeteszentrum Ludwigsburg",
+            "city": "Ludwigsburg",
+            "zip": "71634",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.89731,
+              "lon": 9.19161
+            }
+          },
+          {
+            "facility": "Diabetologische Schwerpunktpraxis Neuss",
+            "city": "Neuss",
+            "zip": "41462",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 51.19807,
+              "lon": 6.68504
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604219"
+}

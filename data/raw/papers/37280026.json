@@ -1,0 +1,28 @@
+{
+  "pmid": "37280026",
+  "title": "Rationale and design of a prospective, clinical study of kidney biopsies in people with type 2 diabetes and severely increased albuminuria (the PRIMETIME 2 study).",
+  "abstract": "Diabetic kidney disease is a severe complication of diabetes. The diagnosis is based on clinical characteristics such as persistently elevated albuminuria, hypertension and decline in kidney function, although this definition is not specific to kidney disease caused by diabetes. The only way to establish an accurate diagnosis-diabetic nephropathy-is by performing a kidney biopsy. The histological presentation of diabetic nephropathy can be associated with a heterogeneous range of histological features with many pathophysiological factors involved demonstrating the complexity of the condition. Current treatment strategies aim to slow disease progression and are not specific to the underlying pathological processes.This study will investigate the prevalence of diabetic nephropathy in individuals with type 2 diabetes (T2D) and severely elevated albuminuria. The deep molecular characterisation of the kidney biopsy and biological specimens may pave the way for improved diagnostic accuracy and a better understanding of the pathological processes involved and may also reveal new targets for individualised treatment. In the PRecIsion MEdicine based on kidney TIssue Molecular interrogation in diabetic nEphropathy 2 study, research kidney biopsies will be performed in 300 participants with T2D, urine albumin/creatinine ratio \u2265700\u2009mg/g and estimated glomerular filtration ratio >30\u2009mL/min/1.73 m The Danish Regional Committee on Health Research Ethics and the Knowledge Center on Data Protection (in the Capital Region of Denmark) have granted approval for the study. The results will be published in peer-reviewed journals. NCT04916132.",
+  "journal": "BMJ open",
+  "pub_date": "2023-Jun",
+  "authors": [
+    "M\u00f8ller, Marie",
+    "Borg, Rikke",
+    "Bressendorff, Iain",
+    "Fink, Lisbeth N",
+    "Gravesen, Eva",
+    "Jensen, Karina Haar",
+    "Hansen, Torben",
+    "Krustrup, Dorrit",
+    "Persson, Frederik",
+    "Rossing, Peter",
+    "Sembach, Frederikke E",
+    "Thuesen, Anne C B",
+    "Hansen, Ditte"
+  ],
+  "nct_ids_referenced": [
+    "NCT04916132"
+  ],
+  "source": "pubmed",
+  "word_count": 228,
+  "parsed_at": "2026-10-30T13:38:28.658592"
+}

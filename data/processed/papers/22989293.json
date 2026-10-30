@@ -1,0 +1,26 @@
+{
+  "pmid": "22989293",
+  "title": "Atherosclerotic renal artery stenosis is prevalent in cardiorenal patients but not associated with left ventricular function and myocardial fibrosis as assessed by cardiac magnetic resonance imaging.",
+  "abstract": "Atherosclerotic renal artery stenosis (ARAS) is common in cardiovascular diseases and associated with hypertension, renal dysfunction and/or heart failure. There is a paucity of data about the prevalence and the role of ARAS in the pathophysiology of combined chronic heart failure (CHF) and chronic kidney disease (CKD). We investigated the prevalence in patients with combined CHF/CKD and its association with renal function, cardiac dysfunction and the presence and extent of myocardial fibrosis. The EPOCARES study (ClinTrialsNCT00356733) investigates the role of erythropoietin in anaemic patients with combined CHF/CKD. Eligible subjects underwent combined cardiac magnetic resonance imaging (cMRI), including late gadolinium enhancement, with magnetic resonance angiography of the renal arteries (MRA). MR study was performed in 37 patients (median age 74 years, eGFR 37.4 \u00b1 15.6 ml/min, left ventricular ejection fraction (LVEF) 43.3 \u00b1 11.2%), of which 21 (56.8%) had ARAS (defined as stenosis >50%). Of these 21 subjects, 8 (21.6%) had more severe ARAS >70% and 8 (21.6%) had a bilateral ARAS >50% (or previous bilateral PTA). There were no differences in age, NT-proBNP levels and medication profile between patients with ARAS versus those without. Renal function declined with the severity of ARAS (p = 0.03), although this was not significantly different between patients with ARAS versus those without. Diabetes mellitus was more prevalent in patients without ARAS (56.3%) against those with ARAS (23.8%) (p = 0.04). The presence and extent of late gadolinium enhancement, depicting myocardial fibrosis, did not differ (p = 0.80), nor did end diastolic volume (p = 0.60), left ventricular mass index (p = 0.11) or LVEF (p = 0.15). Neither was there a difference in the presence of an ischemic pattern of late enhancement in patients with ARAS versus those without. ARAS is prevalent in combined CHF/CKD and its severity is associated with a decline in renal function. However, its presence does not correlate with a worse LVEF, a higher left ventricular mass or with the presence and extent of myocardial fibrosis. Further research is required for the role of ARAS in the pathophysiology of combined chronic heart and renal failure.",
+  "journal": "BMC cardiovascular disorders",
+  "pub_date": "2012-Sep",
+  "authors": [
+    "Emans, Mireille E",
+    "van der Putten, Karien",
+    "Velthuis, Birgitta K",
+    "de Vries, Jan J J",
+    "Cramer, Maarten J",
+    "America, Yves G C J",
+    "Hillege, Hans L",
+    "Meiss, Louis",
+    "Doevendans, Pieter A F M",
+    "Braam, Branko",
+    "Gaillard, Carlo A J M"
+  ],
+  "nct_ids_referenced": [
+    "NCT00356733"
+  ],
+  "source": "pubmed",
+  "word_count": 345,
+  "parsed_at": "2026-10-30T13:31:48.792515"
+}

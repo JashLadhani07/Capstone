@@ -1,0 +1,2682 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02397447",
+      "orgStudyIdInfo": {
+        "id": "MCHDM2"
+      },
+      "organization": {
+        "fullName": "University of Guadalajara",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of Momordica Charantia Administration on Type 2 Diabetes Mellitus, Insulin Sensitivity and Insulin Secretion",
+      "officialTitle": "Effect of Momordica Charantia Administration on Insulin Sensitivity and Insulin Secretion in Patients With Type 2 Diabetes Mellitus, Without Pharmacological Treatment"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2013-03"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2015-11",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2015-11",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2015-03-10",
+      "studyFirstSubmitQcDate": "2015-03-24",
+      "studyFirstPostDateStruct": {
+        "date": "2015-03-25",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2020-09-06",
+      "resultsFirstSubmitQcDate": "2020-09-29",
+      "resultsFirstPostDateStruct": {
+        "date": "2020-10-22",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-09-29",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-10-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Esperanza Mart\u00ednez-Abundis",
+        "investigatorTitle": "PhD. Esperanza Mart\u00ednez-Abundis",
+        "investigatorAffiliation": "University of Guadalajara"
+      },
+      "leadSponsor": {
+        "name": "University of Guadalajara",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The hypoglycemic effect of Momordica Charantia has been evaluated in clinical trials in patients with type 2 diabetes mellitus. Important reductions in fasting plasma glucose, glycated hemoglobin (A1C), and fructosamine were observed. It is unknown whether this improvement is due to an improvement in insulin sensitivity and insulin secretion. The purpose of this study is to evaluate the effect of the administration of Momordica Charantia on insulin sensitivity and insulin secretion in patients with type 2 diabetes mellitus.",
+      "detailedDescription": "A randomized, double-blind, placebo controlled clinical trial is carried out in 24 patients with diagnosis of diabetes mellitus type 2 according to the criteria of the American Diabetes Association. Patients are assigned to two different arms: one group receives Momordica Charantia, 2 capsules with 500 mg twice daily before breakfast and dinner for 90 days or placebo, under the same scheme of treatment.\n\nAn oral glucose tolerance test is performed before and after the intervention. Matsuda index, Stumvoll index and Insulinogenic index are calculated to assess insulin sensitivity and insulin secretion.\n\nOther clinical and laboratory parameters that are evaluated include: Body weight, body mass index, waist circumference, blood pressure, body fat percentage, fasting plasma glucose, A1C, creatinine, lipid profile and liver transaminases."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus Type 2"
+      ],
+      "keywords": [
+        "Momordica Charantia",
+        "Insulin secretion",
+        "Insulin sensitivity"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 24,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Momordica charantia",
+          "type": "EXPERIMENTAL",
+          "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days",
+          "interventionNames": [
+            "Drug: Momordica charantia"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Momordica charantia",
+          "description": "Momordica Charantia: 2000 mg per day for three months",
+          "armGroupLabels": [
+            "Momordica charantia"
+          ],
+          "otherNames": [
+            "Bitter gourd, karela, balsam-pear"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Placebo: 2000 mg per day for three months",
+          "armGroupLabels": [
+            "Placebo"
+          ],
+          "otherNames": [
+            "Calcined magnesia"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Total and First Phase of Insulin Secretion (Insulinogenic Index and Stumvoll Index) After 90 Days",
+          "description": "Total insulin secretion and first phase of insulin secretion were estimated at baseline and after 90 days using the insulinogenic index (\u0394ABC insulin / \u0394ABC glucose) and the Stumvoll index (1283+ 1.829 x insulin 30' - 138.7 x glucose 30' + 3.772 x insulin 0'), respectively",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Insulin Sensitivity (Matsuda Index) After 90 Days",
+          "description": "Insulin sensitivity was calculated at baseline and after 90 days with Matsuda index \\[10,000 / \u221aglucose 0' x insulin 0') (mean glucose oral glucose tolerance test (OGTT) x mean insulin OGTT)\\]",
+          "timeFrame": "90 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Fasting Serum Glucose (FSG) After 90 Days",
+          "description": "The glucose oxidase technique (Beckman Instruments, Inc., Brea, CA, USA) was used to determine fasting serum glucose at baseline and after 90 days with an intra- and interassay coefficient of variation of\\<1",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "A1C After 90 Days",
+          "description": "A liquid chromatography method was used to evaluate A1C at baseline and after 90 days (Bio-Rad Laboratories, Hercules, CA, USA) with an intra and inter assay coefficient of variation of 0.4% and 1.6%, respectively",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Total Cholesterol After 90 Days",
+          "description": "The blood sample for the determination of total cholesterol was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Triglycerides After 90 Days",
+          "description": "The blood sample for the determination of triglycerides was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "High Density Lipoprotein Cholesterol (HDL-c) After 90 Days",
+          "description": "The blood sample for the determination of high density lipoprotein cholesterol was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Low Density Lipoprotein Cholesterol (LDL-c) After 90 Days",
+          "description": "The blood sample for the determination of low density lipoprotein cholesterol was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Very Low Density Lipoprotein After 90 Days",
+          "description": "The blood sample for the determination of VLDL was taken after an overnight fast and was calculated at baseline and after 90 days as triglycerides/5",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Alanine Aminotransferase (ALT) After 90 Days",
+          "description": "The blood sample for the determination of ALT was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Aspartate Aminotransferase (AST) After 90 Days",
+          "description": "The blood sample for the determination of AST was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Creatinine After 90 Days",
+          "description": "The blood sample for the determination of creatinine was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Systolic Blood Pressure After 90 Days",
+          "description": "The systolic blood pressure was evaluated at baseline and after 90 days with a digital sphygmomanometer with the subject sited down on a chair after a resting period of 5 minutes on three occasions. The mean of the three measures was considered as the value of SBP. The value was expressed on mmHg",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Diastolic Blood Pressure After 90 Days",
+          "description": "The diastolic blood pressure was evaluated at baseline and after 90 days with a digital sphygmomanometer with the subject sited down on a chair after a resting period of 5 minutes on three occasions. The mean of the three measures was considered as the value of DBP. The value was expressed on mmHg",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Body Weight (BW) After 90 Days",
+          "description": "The body weight was evaluated at baseline and after 90 days after an overnight fast, through a bioimpedance digital scale results are reported in kilograms with a decimal.",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Body Mass Index (BMI) After 90 Days",
+          "description": "The BMI was calculated at baseline and after 90 days by the square of the body height, and is universally expressed in units of kg/m\\^2, resulting from mass in kilograms and height in metres",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Fat Mass After 90 Days",
+          "description": "Fat mass was measured at baseline and after 90 days with an electric bioimpedance scale (Model TBF-300 A; Tanita Corporation of America Inc., Arlington Heights, IL)",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Waist Circumference (WC) After 90 Days",
+          "description": "The waist circumference was evaluated at baseline and after 90 days after an overnight fast with a flexible tape in the midpoint between the lowest rib and the iliac crest and is expressed in centimeters",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "2-h Serum Glucose After 90 Days",
+          "description": "The glucose oxidase technique (Beckman Instruments, Inc., Brea, CA, USA) was used to determine serum glucose at baseline and after 90 days with an intra- and interassay coefficient of variation of\\<1%",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "AUC-glucose After 90 Days",
+          "description": "The polygonal formula was used to calculate area under the curve (AUC) of glucose at baseline and after 90 days",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "AUC-insulin After 90 Days",
+          "description": "The polygonal formula was used to calculate area under the curve (AUC) of insulin at baseline and after 90 days",
+          "timeFrame": "90 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of diabetes mellitus type 2 according to the criteria of the American Diabetes Association (\\<5 years), without pharmacological treatment (oral antidiabetic drugs or insulin) at least for three months before entering the study\n* Fasting glucose: \\<210 mg/dl\n* A1C: 7-9%\n* Body mass index: 25-34.9 kg/m2\n* Body weight without variations above or under 5% in the last three months before entering the study\n* Women in childbearing years must have a contraceptive method\n* Letter of consent and release signed by each patient\n\nExclusion Criteria:\n\n* Pregnant or suspected pregnant women\n* Woman breastfeeding\n* Medications known to affect metabolism of glucose and insulin\n* Personal history of liver or renal disease\n* Hypertension, thyroid or cardiovascular disease decompensated\n* Total cholesterol \\>= 240mg/dl, triglycerides \\>=400mg/dl, glomerular filtration rate \\<=60ml/min or liver transaminases \\>=2.5 the upper normal limit",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "35 Years",
+      "maximumAge": "60 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Esperanza Mart\u00ednez Abundis, PhD Science",
+          "affiliation": "Institute of Experimental and Clinical Therapeutics (INTEC), CUCS, University of Guadalajara",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Institute of Experimental and Clinical Therapeutics (INTEC), CUCS, University of Guadalajara",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "zip": "44340",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 20.67738,
+            "lon": -103.34749
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Momordica Charantia",
+          "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "12"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Momordica Charantia",
+          "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "12"
+            },
+            {
+              "groupId": "BG001",
+              "value": "12"
+            },
+            {
+              "groupId": "BG002",
+              "value": "24"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "50.1",
+                      "spread": "7.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "47",
+                      "spread": "7.4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "48.6",
+                      "spread": "7.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "Mexico",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body weight (BW)",
+          "description": "The BW was evaluated after an overnight fast, through a bioimpedance digital scale results are reported in kilograms with a decimal.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "79.4",
+                      "spread": "9.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "73.6",
+                      "spread": "11.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "76.5",
+                      "spread": "10.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body mass index (BMI)",
+          "description": "The BMI was calculated by the square of the body height, and is universally expressed in units of kg/m2, resulting from mass in kilograms and height in metres.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29.1",
+                      "spread": "2.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28.8",
+                      "spread": "3.9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28.9",
+                      "spread": "3.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fat mass",
+          "description": "Fat mass was measured with an electric bioimpedance scale (Model TBF-300 A; Tanita Corporation of America Inc., Arlington Heights, IL)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "body fat percentage",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36.7",
+                      "spread": "7.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35.2",
+                      "spread": "8.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "36.0",
+                      "spread": "7.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Waist circumference (WC)",
+          "description": "The WC was evaluated after an overnight fast with a flexible tape in the midpoint between the lowest rib and the iliac crest and is expressed in centimeters",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "cm",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "106",
+                      "spread": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "97",
+                      "spread": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "101.9",
+                      "spread": "12.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Systolic blood pressure (SBP)",
+          "description": "The SBP was evaluated with a digital sphygmomanometer with the subject sited down on a chair after a resting period of 5 minutes on three occasions. The mean of the three measures was considered as the value of SBP. The value was expressed on mmHg.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmHg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "119.5",
+                      "spread": "8.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "116.5",
+                      "spread": "10.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "118.0",
+                      "spread": "9.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Diastolic blood pressure (DBP)",
+          "description": "The DBP was evaluated with a digital sphygmomanometer with the subject sited down on a chair after a resting period of 5 minutes on three occasions. The mean of the three measures was considered as the value of DBP. The value was expressed on mmHg",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmHg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75",
+                      "spread": "4.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "74.2",
+                      "spread": "5.5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "74.6",
+                      "spread": "5.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "A1C",
+          "description": "A liquid chromatography method was used (Bio-Rad Laboratories, Hercules, CA, USA) with an intra and inter assay coefficient of variation of 0.4% and 1.6%, respectively",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "percentage",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7.8",
+                      "spread": "0.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7.6",
+                      "spread": "0.6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7.7",
+                      "spread": "0.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fasting serum glucose (FSG)",
+          "description": "The glucose oxidase technique (Beckman Instruments, Inc., Brea, CA, USA) was used to determine serum glucose with an intra- and interassay coefficient of variation of\\<1%",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8.2",
+                      "spread": "1.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7.1",
+                      "spread": "1.9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7.6",
+                      "spread": "1.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2-h serum glucose",
+          "description": "The glucose oxidase technique (Beckman Instruments, Inc., Brea, CA, USA) was used to determine serum glucose with an intra- and interassay coefficient of variation of\\<1%",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17.1",
+                      "spread": "3.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14.9",
+                      "spread": "4.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16.0",
+                      "spread": "4.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "AUC-glucose",
+          "description": "The polygonal formula was used to calculate area under the curve (AUC) of glucose and insulin",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L/min",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1840",
+                      "spread": "295"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1670",
+                      "spread": "380"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1754.1",
+                      "spread": "344.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "AUC-insulin",
+          "description": "The polygonal formula was used to calculate area under the curve (AUC) of glucose and insulin",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "pmol/L/min",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "56562",
+                      "spread": "36078"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41334",
+                      "spread": "22356"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "48951",
+                      "spread": "30369"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Insulinogenic index (total insulin secretion)",
+          "description": "Total insulin secretion was calculated with the insulinogenic index (\u0394ABC insulin / \u0394ABC glucose)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "index",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0.29",
+                      "spread": "0.18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0.23",
+                      "spread": "0.14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0.26",
+                      "spread": "0.16"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stumvoll index (first phase of insulin secretion)",
+          "description": "First phase of insulin secretion was estimated using the Stumvoll index (1283+ 1.829 x insulin 30' - 138.7 x glucose 30' + 3.772 x insulin 0')",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "index",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "557.8",
+                      "spread": "645.6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "419.3",
+                      "spread": "769.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "488.6",
+                      "spread": "698.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matsuda index (insulin sensitivity)",
+          "description": "Insulin sensitivity was calculated with Matsuda index \\[10,000 / \u221aglucose 0' x insulin 0') (mean glucose oral glucose tolerance test (OGTT) x mean insulin OGTT)\\]",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "index",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2.4",
+                      "spread": "1.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3.8",
+                      "spread": "4.6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.1",
+                      "spread": "3.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Total cholesterol",
+          "description": "The blood sample for the determination of total cholesterol was taken after an overnight fast and was evaluated by spectrophotometry method",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4.89",
+                      "spread": "0.73"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4.41",
+                      "spread": "0.75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4.65",
+                      "spread": "0.76"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Triglycerides",
+          "description": "The blood sample for the determination of triglycerides was taken after an overnight fast and was evaluated by spectrophotometry method",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2.31",
+                      "spread": "1.25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.19",
+                      "spread": "0.76"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.25",
+                      "spread": "1.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "High-density lipoprotein cholesterol (HDL-c)",
+          "description": "The blood sample for the determination of HDL-c was taken after an overnight fast and was evaluated by spectrophotometry method",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1.13",
+                      "spread": "0.18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1.04",
+                      "spread": "0.23"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1.09",
+                      "spread": "0.21"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Low-density lipoprotein cholesterol (LDL-c)",
+          "description": "The blood sample for the determination of LDL-C was taken after an overnight fast and was calculated by Friedewald formula",
+          "paramType": "MEDIAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2.69",
+                      "spread": "0.80"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.35",
+                      "spread": "0.64"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.52",
+                      "spread": "0.73"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Very low-density lipoprotein (VLDL)",
+          "description": "The blood sample for the determination of VLDL was taken after an overnight fast and was calculated as triglycerides/5",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8.26",
+                      "spread": "4.48"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7.86",
+                      "spread": "2.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8.07",
+                      "spread": "3.63"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Creatinine",
+          "description": "The blood sample for the determination of creatinine was taken after an overnight fast and was evaluated by spectrophotometry method",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmol/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "70.72",
+                      "spread": "8.84"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61.88",
+                      "spread": "8.84"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "70.36",
+                      "spread": "8.84"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Alanine aminotransferase (ALT)",
+          "description": "The blood sample for the determination of ALT was taken after an overnight fast and was evaluated by spectrophotometry method",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "U/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35.4",
+                      "spread": "24.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36.0",
+                      "spread": "19.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "35.71",
+                      "spread": "21.70"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Aspartate aminotransferase (AST)",
+          "description": "The blood sample for the determination of AST was taken after an overnight fast and was evaluated by spectrophotometry method",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "U/L",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29.0",
+                      "spread": "22.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23.1",
+                      "spread": "11.3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26.08",
+                      "spread": "17.68"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Total and First Phase of Insulin Secretion (Insulinogenic Index and Stumvoll Index) After 90 Days",
+          "description": "Total insulin secretion and first phase of insulin secretion were estimated at baseline and after 90 days using the insulinogenic index (\u0394ABC insulin / \u0394ABC glucose) and the Stumvoll index (1283+ 1.829 x insulin 30' - 138.7 x glucose 30' + 3.772 x insulin 0'), respectively",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "index",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Total insulin secretion (Insulinogenic index)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.41",
+                      "spread": "0.29"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.23",
+                      "spread": "0.12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "First Phase of Insulin Secretion (Stumvoll index)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1135.7",
+                      "spread": "725.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "309.0",
+                      "spread": "776.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Insulin Sensitivity (Matsuda Index) After 90 Days",
+          "description": "Insulin sensitivity was calculated at baseline and after 90 days with Matsuda index \\[10,000 / \u221aglucose 0' x insulin 0') (mean glucose oral glucose tolerance test (OGTT) x mean insulin OGTT)\\]",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "index",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.1",
+                      "spread": "1.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.3",
+                      "spread": "1.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Fasting Serum Glucose (FSG) After 90 Days",
+          "description": "The glucose oxidase technique (Beckman Instruments, Inc., Brea, CA, USA) was used to determine fasting serum glucose at baseline and after 90 days with an intra- and interassay coefficient of variation of\\<1",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.4",
+                      "spread": "2.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.2",
+                      "spread": "2.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "A1C After 90 Days",
+          "description": "A liquid chromatography method was used to evaluate A1C at baseline and after 90 days (Bio-Rad Laboratories, Hercules, CA, USA) with an intra and inter assay coefficient of variation of 0.4% and 1.6%, respectively",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.1",
+                      "spread": "1.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.1",
+                      "spread": "1.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Cholesterol After 90 Days",
+          "description": "The blood sample for the determination of total cholesterol was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.68",
+                      "spread": "1.02"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.39",
+                      "spread": "0.52"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Triglycerides After 90 Days",
+          "description": "The blood sample for the determination of triglycerides was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.93",
+                      "spread": "0.92"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.02",
+                      "spread": "0.56"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "High Density Lipoprotein Cholesterol (HDL-c) After 90 Days",
+          "description": "The blood sample for the determination of high density lipoprotein cholesterol was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.05",
+                      "spread": "0.31"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.09",
+                      "spread": "0.27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Low Density Lipoprotein Cholesterol (LDL-c) After 90 Days",
+          "description": "The blood sample for the determination of low density lipoprotein cholesterol was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.75",
+                      "spread": "0.96"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.41",
+                      "spread": "0.48"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Very Low Density Lipoprotein After 90 Days",
+          "description": "The blood sample for the determination of VLDL was taken after an overnight fast and was calculated at baseline and after 90 days as triglycerides/5",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.92",
+                      "spread": "3.32"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.22",
+                      "spread": "1.98"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Alanine Aminotransferase (ALT) After 90 Days",
+          "description": "The blood sample for the determination of ALT was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "U/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28.1",
+                      "spread": "19.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "38.2",
+                      "spread": "18.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Aspartate Aminotransferase (AST) After 90 Days",
+          "description": "The blood sample for the determination of AST was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "U/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23.9",
+                      "spread": "16.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "24.4",
+                      "spread": "6.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Creatinine After 90 Days",
+          "description": "The blood sample for the determination of creatinine was taken after an overnight fast and was evaluated at baseline and after 90 days by spectrophotometry method",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "70.72",
+                      "spread": "35.36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "79.56",
+                      "spread": "0.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Systolic Blood Pressure After 90 Days",
+          "description": "The systolic blood pressure was evaluated at baseline and after 90 days with a digital sphygmomanometer with the subject sited down on a chair after a resting period of 5 minutes on three occasions. The mean of the three measures was considered as the value of SBP. The value was expressed on mmHg",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmHg",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "119.6",
+                      "spread": "9.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "115.4",
+                      "spread": "9.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Diastolic Blood Pressure After 90 Days",
+          "description": "The diastolic blood pressure was evaluated at baseline and after 90 days with a digital sphygmomanometer with the subject sited down on a chair after a resting period of 5 minutes on three occasions. The mean of the three measures was considered as the value of DBP. The value was expressed on mmHg",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmHg",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "75.1",
+                      "spread": "6.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "72.6",
+                      "spread": "4.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Body Weight (BW) After 90 Days",
+          "description": "The body weight was evaluated at baseline and after 90 days after an overnight fast, through a bioimpedance digital scale results are reported in kilograms with a decimal.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "kg",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "78.0",
+                      "spread": "9.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "73.4",
+                      "spread": "10.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Body Mass Index (BMI) After 90 Days",
+          "description": "The BMI was calculated at baseline and after 90 days by the square of the body height, and is universally expressed in units of kg/m\\^2, resulting from mass in kilograms and height in metres",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "kg/m^2",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28.3",
+                      "spread": "1.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "28.9",
+                      "spread": "3.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Fat Mass After 90 Days",
+          "description": "Fat mass was measured at baseline and after 90 days with an electric bioimpedance scale (Model TBF-300 A; Tanita Corporation of America Inc., Arlington Heights, IL)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36.3",
+                      "spread": "7.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "35.8",
+                      "spread": "6.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Waist Circumference (WC) After 90 Days",
+          "description": "The waist circumference was evaluated at baseline and after 90 days after an overnight fast with a flexible tape in the midpoint between the lowest rib and the iliac crest and is expressed in centimeters",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "cm",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "104",
+                      "spread": "11"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "98",
+                      "spread": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "2-h Serum Glucose After 90 Days",
+          "description": "The glucose oxidase technique (Beckman Instruments, Inc., Brea, CA, USA) was used to determine serum glucose at baseline and after 90 days with an intra- and interassay coefficient of variation of\\<1%",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13.2",
+                      "spread": "4.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "14.3",
+                      "spread": "4.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "AUC-glucose After 90 Days",
+          "description": "The polygonal formula was used to calculate area under the curve (AUC) of glucose at baseline and after 90 days",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L/min",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1576",
+                      "spread": "391"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1663",
+                      "spread": "363"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "AUC-insulin After 90 Days",
+          "description": "The polygonal formula was used to calculate area under the curve (AUC) of insulin at baseline and after 90 days",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "pmol/L/min",
+          "timeFrame": "90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Momordica Charantia",
+              "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65256",
+                      "spread": "42720"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "41310",
+                      "spread": "20292"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Adverse events were collected throughout the 90 days of the study",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Momordica Charantia",
+          "description": "Two 500 mg capsules of Momordica Charantia twice daily before breakfast and dinner for 90 days\n\nMomordica charantia: Momordica Charantia: 2000 mg per day for three months",
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 12,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 12
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Two 500 mg capsules of calcined magnesia twice daily before breakfast and dinner for 90 days\n\nPlacebo: Placebo: 2000 mg per day for three months",
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 12,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 12
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 12
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 12
+            }
+          ]
+        },
+        {
+          "term": "Abdominal distension",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 12
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 12
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 12
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 12
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dra. Esperanza Mart\u00ednez Abundis",
+        "organization": "Institute of Experimental and Clinical Therapeutics",
+        "email": "esperanzamartnezabundi@yahoo.com",
+        "phone": "+52-33-10-58-52-00",
+        "phoneExt": "34211"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D007333",
+          "term": "Insulin Resistance"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D006946",
+          "term": "Hyperinsulinism"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

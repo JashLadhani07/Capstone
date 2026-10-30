@@ -1,0 +1,352 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05801575",
+      "orgStudyIdInfo": {
+        "id": "REC/22-23/0290"
+      },
+      "organization": {
+        "fullName": "Hong Kong Baptist University",
+        "class": "OTHER"
+      },
+      "briefTitle": "CHM Teabag Decrease Stroke Risk Among Hong Kong Elderly",
+      "officialTitle": "Efficacy of the CHM Teabag in Decreasing Stroke Risk Among Elderly People in Hong Kong: A Stepped Wedge Cluster Randomized Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-03",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-02-02",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-08-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2023-10-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-02-05",
+      "studyFirstSubmitQcDate": "2023-03-30",
+      "studyFirstPostDateStruct": {
+        "date": "2023-04-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-03-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-04-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "ZhaoXiang Bian",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "Hong Kong Baptist University"
+      },
+      "leadSponsor": {
+        "name": "Hong Kong Baptist University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This stepped wedge cluster randomized controlled trial aims to examine the efficacy and safety of CHM teabag in decreasing stroke risk by machine-learning-based retinal image analysis in elderly population.",
+      "detailedDescription": "This is a stepped wedge cluster randomized controlled trial design. This study aims to examine the efficacy and safety of CHM teabag in decreasing stroke risk by machine-learning-based retinal image analysis in elderly population.\n\nA total of 912 participants will be recruited from 9 clinics. 2\\~3 clinics will represent a cluster unit. The stepped wedge design will consist of four groups each containing four randomly allocated cluster units, allocated to either 4, 8, 12, or 16 weeks of the intervention. The intervention is Chinese herbal teabag treatment, which will consist of five Chinese herbs (a total of 10g). The first group will receive 16 weeks of the intervention, the second group will receive 12 weeks, the third group will receive 8 weeks, and the forth group will receive 4 weeks.\n\nThe primary outcome measure is the stroke risk estimated with Automatic Retinal Image Analysis (ARIA). Secondary outcome measures include Framingham Stroke Risk Score (FSRS), cognitive impairment risk estimated with ARIA, Hong Kong version of the Montreal Cognitive Assessment (MoCA), Constitution in Chinese Medicine Questionnaire (CCMQ), World Health Organization Quality-of-Life Scale (WHOQOL-BREF), Health-promoting lifestyle profile II (HPLP-II), and adverse events."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Stroke",
+        "Risk Reduction",
+        "Elderly"
+      ],
+      "keywords": [
+        "Stroke",
+        "Risk Reduction",
+        "Chinese Herbal Medicine",
+        "Automatic Retinal Image Analysis",
+        "Teabag"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "This is a stepped wedge cluster randomized controlled trial design.",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "maskingDescription": "In this stepped wedge design trial, the participants will be aware of the transition from no intervention period to intervention period, therefore it is unlikely to blind participants. Outcome assessors will be blinded to reduce the introduction of bias into the assessments.",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 912,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Chinese Herbal Medicine (CHM) teabag, Cluster 1",
+          "type": "EXPERIMENTAL",
+          "description": "Intervention Cluster 1 is the first intervention arm designed to examine the efficacy and safety of CHM teabag in decreasing stroke risk by machine-learning-based retinal image analysis in elderly population. It will receive 16 weeks of the intervention.",
+          "interventionNames": [
+            "Drug: Chinese Herbal Medicine (CHM) teabag"
+          ]
+        },
+        {
+          "label": "CHM teabag, Cluster 2",
+          "type": "EXPERIMENTAL",
+          "description": "Intervention Cluster 2 is the second intervention arm designed to examine the efficacy and safety of CHM teabag in decreasing stroke risk by machine-learning-based retinal image analysis in elderly population. It will receive 12 weeks of the intervention.",
+          "interventionNames": [
+            "Drug: Chinese Herbal Medicine (CHM) teabag"
+          ]
+        },
+        {
+          "label": "CHM teabag, Cluster 3",
+          "type": "EXPERIMENTAL",
+          "description": "Intervention Cluster 3 is the third intervention arm designed to examine the efficacy and safety of CHM teabag in decreasing stroke risk by machine-learning-based retinal image analysis in elderly population. It will receive 8 weeks of the intervention.",
+          "interventionNames": [
+            "Drug: Chinese Herbal Medicine (CHM) teabag"
+          ]
+        },
+        {
+          "label": "CHM teabag, Cluster 4",
+          "type": "EXPERIMENTAL",
+          "description": "Intervention Cluster 4 is the fourth intervention arm designed to examine the efficacy and safety of CHM teabag in decreasing stroke risk by machine-learning-based retinal image analysis in elderly population. It will receive 4 weeks of the intervention.",
+          "interventionNames": [
+            "Drug: Chinese Herbal Medicine (CHM) teabag"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Chinese Herbal Medicine (CHM) teabag",
+          "description": "Each teabag contains five herbs: Radix et Rhizoma (\u4e09\u4e03, Sanqi), Moutan Cortex (\u7261\u4e39\u76ae, Mudanpi), Puerariae Lobatae Radix (\u845b\u6839, Gegen), Rosae Rugosae Flos (\u73ab\u7470\u82b1, Meiguihua), and Citri Grandis Exocarpium (\u5316\u6a58\u7d05, Huajuhong). These herbs are benefit to promoting blood circulation, dredging meridians and collaterals, strengthening spleen, regulating qi and decreasing phlegm in Chinese Medicine theories.",
+          "armGroupLabels": [
+            "CHM teabag, Cluster 2",
+            "CHM teabag, Cluster 3",
+            "CHM teabag, Cluster 4",
+            "Chinese Herbal Medicine (CHM) teabag, Cluster 1"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Automatic Retinal Image Analysis (ARIA).",
+          "description": "The primary outcome will be the score change of stroke risk estimated with Automatic Retinal Image Analysis (ARIA). The ARIA stroke risk score is represented by a probability score which is from 0 to 1. Low risk score is less than 0.5. Moderate score is 0.5 - 0.7. High risk score is more than 0.7.",
+          "timeFrame": "16 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Framingham Stroke Risk Score (FSRS)",
+          "description": "The Framingham Stroke Risk Score (FSRS) combines stroke risk factors to predict 10-year probability of stroke. Factors included in the FSRS are age, sex, systolic blood pressure, use of antihypertensive medications, diabetes, smoking, atrial fibrillation, left ventricular hypertrophy and prevalent coronary heart disease. Higher score is associated with higher stroke risk.",
+          "timeFrame": "16 weeks"
+        },
+        {
+          "measure": "Cognitive impairment risk",
+          "description": "The severity of WMH changes can be estimated by taking the fundus retinal image and put to the ARIA algorithm, increasing score means increasing severity.",
+          "timeFrame": "16 weeks"
+        },
+        {
+          "measure": "Montreal Cognitive Assessment (MoCA)",
+          "description": "The Montreal Cognitive Assessment (MoCA) was designed as a rapid screening instrument for mild cognitive dysfunction. Scoring of HK MoCA ranges from 0 to 30 points. A score of 26 or above is considered normal.",
+          "timeFrame": "16 weeks"
+        },
+        {
+          "measure": "Constitution in Chinese Medicine Questionnaire (CCMQ)",
+          "description": "The CCMQ is applied to evaluate body constitution of each patient by score (Balanced Constitution, Qi-deficient Constitution, Yang-deficient Constitution, Yin-deficient Constitution, Phlegm-dampness Constitution, Damp-heat Constitution, Stagnant Blood Constitution, Stagnant Qi Constitution, and Inherited Special Constitution). Each constitution scale contains 6 to 8 items, with 1-5 numerical rating scale. The transformed score of each constitution scale is calculated.",
+          "timeFrame": "16 weeks"
+        },
+        {
+          "measure": "World Health Organization Quality-of-Life Scale (WHOQOL-BREF)",
+          "description": "The WHOQOL-BREF is to measure the quality of life. The WHOQOL-BREF is a self-administered questionnaire comprising 26 questions on the individual's perceptions of their health and well-being over the previous two weeks. Each item is rated on a 5-point (1-5) scale. Higher scores denote higher quality of life.",
+          "timeFrame": "16 weeks"
+        },
+        {
+          "measure": "Health-promoting lifestyle profile II (HPLP-II)",
+          "description": "The Health-Promoting Lifestyle Profile II continues to measure health promoting behavior, conceptualized as a multidimensional pattern of self-initiated actions and perceptions that serve to maintain or enhance the level of wellness, self-actualization and fulfillment of the individual. The total score of the HPLP II ranges from 52 to 208 and is measured by the mean score of the responses to all 52 HPLP items. The total HPLP II score is further classified into four levels: poor for the range 52-90, moderate for the range 91-129, good for the range 130-168, and excellent for the range 169-208. High scores in every subscale mean more frequent health-promoting behaviors.",
+          "timeFrame": "16 weeks"
+        },
+        {
+          "measure": "Adverse events",
+          "description": "All adverse events (AEs) will be recorded.",
+          "timeFrame": "16 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age between 54-84y.\n* With phlegm dampness constitution and blood stasis constitution on the TCM constitution test table.\n* Stable vital signs without previous history of stroke.\n* Sufficient sensorimotor and language competency for completing assessments.\n\nExclusion Criteria:\n\n* Allergic history to Chinese herbal drugs or a known allergy to the ingredients of the teabag.\n* Taking any anticoagulants, such as warfarin.\n* With unconsciousness, aphasia, and cognitive dysfunction.\n* With a past history of brain diseases (e.g., mental illness, consciousness disorder due to head trauma, previous brain surgery, or spastic disease).\n* With severe heart, liver, or kidney disease or bleeding disorders.\n* With other serious diseases.\n* Cataracts or other eye diseases that affected retinal image taking.\n* Distressed with a flashlight or have experience with photosensitive seizures.\n* Pregnancy or lactation female.\n* Any physical examination findings, or history of any illness, or concomitant medications that, in the opinion of the study investigator, might not be suitable to participate in the study.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "54 Years",
+      "maximumAge": "84 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Hong Kong Baptist University Mr. & Mrs. Chan Hon Yin Chinese Medicine Specialty Clinic and Good Clinical Practice Centre",
+          "status": "RECRUITING",
+          "city": "Hong Kong",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Zhao-xiang Bian, PhD",
+              "role": "CONTACT",
+              "phone": "(852) 3411 2905",
+              "email": "bzxiang@hkbu.edu.hk"
+            },
+            {
+              "name": "Jialing Zhang, Mphil, BCM",
+              "role": "CONTACT",
+              "phone": "(852) 3411 5024",
+              "email": "zhangjialing@hkbu.edu.hk"
+            },
+            {
+              "name": "Zhao-xiang Bian, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Chun Hoi CHEUNG",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 22.27832,
+            "lon": 114.17469
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "9142060",
+          "type": "BACKGROUND",
+          "citation": "Murray CJ, Lopez AD. Mortality by cause for eight regions of the world: Global Burden of Disease Study. Lancet. 1997 May 3;349(9061):1269-76. doi: 10.1016/S0140-6736(96)07493-4."
+        },
+        {
+          "pmid": "22052510",
+          "type": "BACKGROUND",
+          "citation": "Liu L, Wang D, Wong KS, Wang Y. Stroke and stroke care in China: huge burden, significant workload, and a national priority. Stroke. 2011 Dec;42(12):3651-4. doi: 10.1161/STROKEAHA.111.635755. Epub 2011 Nov 3."
+        },
+        {
+          "pmid": "28154098",
+          "type": "BACKGROUND",
+          "citation": "Boehme AK, Esenwa C, Elkind MS. Stroke Risk Factors, Genetics, and Prevention. Circ Res. 2017 Feb 3;120(3):472-495. doi: 10.1161/CIRCRESAHA.116.308398."
+        },
+        {
+          "pmid": "18117474",
+          "type": "BACKGROUND",
+          "citation": "ALPERS BJ, FORSTER FM, HERBUT PA. Retinal, cerebral and systemic arteriosclerosis; a histopathologic study. Arch Neurol Psychiatry. 1948 Nov;60(5):440-56. doi: 10.1001/archneurpsyc.1948.02310050017002. No abstract available."
+        },
+        {
+          "pmid": "50653",
+          "type": "BACKGROUND",
+          "citation": "Goto I, Katsuki S, Ikui H, Kimoto K, Mimatsu T. Pathological studies on the intracerebral and retinal arteries in cerebrovascular and noncerebrovascular diseases. Stroke. 1975 May-Jun;6(3):263-9. doi: 10.1161/01.str.6.3.263."
+        },
+        {
+          "pmid": "28057562",
+          "type": "BACKGROUND",
+          "citation": "Cheung CY, Ikram MK, Chen C, Wong TY. Imaging retina to study dementia and stroke. Prog Retin Eye Res. 2017 Mar;57:89-107. doi: 10.1016/j.preteyeres.2017.01.001. Epub 2017 Jan 3."
+        },
+        {
+          "pmid": "27068777",
+          "type": "BACKGROUND",
+          "citation": "Guo VY, Cao B, Wu X, Lee JJW, Zee BC. Prospective Association between Diabetic Retinopathy and Cardiovascular Disease-A Systematic Review and Meta-analysis of Cohort Studies. J Stroke Cerebrovasc Dis. 2016 Jul;25(7):1688-1695. doi: 10.1016/j.jstrokecerebrovasdis.2016.03.009. Epub 2016 Apr 8."
+        },
+        {
+          "pmid": "26754623",
+          "type": "BACKGROUND",
+          "citation": "Guo VY, Chan JC, Chung H, Ozaki R, So W, Luk A, Lam A, Lee J, Zee BC. Retinal Information is Independently Associated with Cardiovascular Disease in Patients with Type 2 diabetes. Sci Rep. 2016 Jan 12;6:19053. doi: 10.1038/srep19053."
+        },
+        {
+          "pmid": "35628812",
+          "type": "BACKGROUND",
+          "citation": "Qu Y, Lee JJ, Zhuo Y, Liu S, Thomas RL, Owens DR, Zee BC. Risk Assessment of CHD Using Retinal Images with Machine Learning Approaches for People with Cardiometabolic Disorders. J Clin Med. 2022 May 10;11(10):2687. doi: 10.3390/jcm11102687."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D040242",
+          "term": "Risk Reduction Behavior"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C075607",
+          "term": "Rab geranylgeranyltransferase"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

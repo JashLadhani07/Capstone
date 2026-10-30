@@ -1,0 +1,257 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02089672",
+      "orgStudyIdInfo": {
+        "id": "IRB00069674"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "ISRCRM90003",
+          "type": "OTHER",
+          "domain": "Other"
+        }
+      ],
+      "organization": {
+        "fullName": "Emory University",
+        "class": "OTHER"
+      },
+      "briefTitle": "RF Lesion Monitoring With 8mm IntellaTip MiFi XP",
+      "officialTitle": "Radiofrequency Ablation Lesion Monitoring Using Imbedded Micro-Electrodes Versus Standard Bipolar Electrograms"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2014-04"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2015-11",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2015-11",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-02-08",
+      "studyFirstSubmitQcDate": "2014-03-15",
+      "studyFirstPostDateStruct": {
+        "date": "2014-03-18",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-11-14",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-11-17",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Michael S. Lloyd",
+        "investigatorTitle": "Principal investigator",
+        "investigatorAffiliation": "Emory University"
+      },
+      "leadSponsor": {
+        "name": "Emory University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Boston Scientific Corporation",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Abnormal heart rhythms or arrhythmias are often managed by a procedure in which a catheter is introduced into the heart. These catheters can then cauterize abnormally functioning portions of the heart muscle with the hope of returning the heart to a more effective rhythm. In the process of performing such a procedure, called a catheter ablation, an operator must be able to accurately sense electrical activity displayed on computer screens in different parts of the heart, provide sufficient localized energy to the abnormally behaving tissue (ideally without damaging uninvolved heart structures), and accurately reassess the electrical activity of the heart to ensure the spot in the heart has been cauterized.\n\nWhen sensing electrical activity of the heart, specialized catheters produce recordings on a computer screen known as electrograms (EGM). To produce this recording conventional catheters commonly use a positive and negative electrode, from which the difference between the two provides the EGM. The distance between the two electrodes varies from device to device. The greater the distance between them, the less accurate the measurement of local electrical activity becomes. This may result in poorly localized or excessive use of energy that could be damaging to normal heart structures or put the patient at risk for the return or development of additional arrhythmias. The IntellaTip MiFi catheter has been constructed with a specialized sensing tip that uses \"microelectrodes\" that are relatively close in proximity (\\<1 mm apart) with the hope of improving the sensing capability of the device.\n\nThis study will analyze the signals obtained from this FDA-approved catheter in people undergoing a catheter ablation procedure. The study will examine signals after the procedure is finished and will not prolong or differ the process from a standard ablation procedure. The goal of this study is to determine the ability of the microelectrodes to distinguish ablated, or cauterized versus non-cauterized tissue.",
+      "detailedDescription": "This trial is an operator-blinded, acute, single-visit observational trial in humans. Enrollment will include 25 patients undergoing a radiofrequency ablation procedure in which ablation of the cavotricuspid isthmus is planned. Electrogram characteristics of the small, imbedded pin electrodes will be compared to standard bipolar EGMs utilizing the ablation tip electrode and ring. Absolute voltage, voltage reduction, and frequency spectra will be examined before, during, and after ablation. EGM characteristics of standard and \"ultra-local\" recordings will be compared in their ability to accurately identify an effective RF lesion as defined below."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atrial Flutter",
+        "Arrhythmia"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "CASE_ONLY",
+        "timePerspective": "RETROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 30,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Atrial flutter patients",
+          "description": "Atrial flutter patients undergoing catheter ablation",
+          "interventionNames": [
+            "Device: Catheter ablation"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Catheter ablation",
+          "description": "This is observational trial studying the effects of a standard intervention of a catheter ablation procedure.",
+          "armGroupLabels": [
+            "Atrial flutter patients"
+          ],
+          "otherNames": [
+            "8mm IntellaTip MiFi XP ablation catheter"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Total bipolar electrogram amplitude using tip to ring and pin to pin configurations",
+          "timeFrame": "Acute, averaged one hour during ablation. Measured postoperatively."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Total number of seconds per isthmus ablation spent in excess of the post-hoc identified complete lesion time.",
+          "timeFrame": "Acute, averaged one hour during ablation. Measured postoperatively"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Any adult undergoing an atrial flutter ablation\n\nExclusion Criteria:\n\n\\-",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Enrollment will include 25 patients undergoing a radiofrequency ablation procedure in which ablation of the cavotricuspid isthmus is planned.",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Michael Lloyd, MD FHRS FACC",
+          "affiliation": "Emory University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Emory University Hospital",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "9892601",
+          "type": "BACKGROUND",
+          "citation": "Hogh Petersen H, Chen X, Pietersen A, Svendsen JH, Haunso S. Lesion dimensions during temperature-controlled radiofrequency catheter ablation of left ventricular porcine myocardium: impact of ablation site, electrode size, and convective cooling. Circulation. 1999 Jan 19;99(2):319-25. doi: 10.1161/01.cir.99.2.319."
+        },
+        {
+          "pmid": "12652172",
+          "type": "BACKGROUND",
+          "citation": "Sanchez JE, Kay GN, Benser ME, Hall JA, Walcott GP, Smith WM, Ideker RE. Identification of transmural necrosis along a linear catheter ablation lesion during atrial fibrillation and sinus rhythm. J Interv Card Electrophysiol. 2003 Feb;8(1):9-17. doi: 10.1023/a:1022315308803."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Ablation tips with embedded microelectrodes provide enhanced spatial resolution in a canine model.",
+          "url": "http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=2448&sKey=8673bb97-626d-4ee1-8a70-e1bb6e07c008&cKey=c8295c74-65cd-4ccf-bfec-a700e8b3fb2a&mKey=11a396d9-0c49-4809-a099-b5e5c705d19c"
+        },
+        {
+          "label": "Novel Ablation Catheter Technology that Improves Mapping Resolution, and Monitoring of Lesion Maturation",
+          "url": "http://www.innovationsincrm.com/cardiac-rhythm-management/2012/january/205-novel-ablation-mapping-resolution-lesion-maturation"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001282",
+          "term": "Atrial Flutter"
+        },
+        {
+          "id": "D001145",
+          "term": "Arrhythmias, Cardiac"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017115",
+          "term": "Catheter Ablation"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000078703",
+          "term": "Radiofrequency Ablation"
+        },
+        {
+          "id": "D000078702",
+          "term": "Radiofrequency Therapy"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D055011",
+          "term": "Ablation Techniques"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

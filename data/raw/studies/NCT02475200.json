@@ -1,0 +1,333 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02475200",
+      "orgStudyIdInfo": {
+        "id": "150201"
+      },
+      "organization": {
+        "fullName": "Volcano Corporation",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Phoenix Post-Approval Registry - Using the Phoenix Atherectomy Systems",
+      "officialTitle": "Phoenix Post-Approval Registry - Using the Phoenix Atherectomy Systems"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-09-14",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-04-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-05-29",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2015-04-08",
+      "studyFirstSubmitQcDate": "2015-06-15",
+      "studyFirstPostDateStruct": {
+        "date": "2015-06-18",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2020-06-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-06-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Volcano Corporation",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The Phoenix Post-Approval Registry is a prospective, multi-center, single arm registry sponsored by Volcano Corporation to evaluate the short and long term performance and clinical outcomes of the Phoenix Atherectomy System.",
+      "detailedDescription": "The Phoenix Post-Approval Registry is an prospective, multi-center, single arm registry, sponsored by Volcano Corporation, to evaluate the short and long term performance and clinical outcomes of the Phoenix Atherectomy System. The study includes consecutive patients treated with the Phoenix Atherectomy System in a post-market (commercial device use) setting. Patients will be followed under real-world conditions for up to 12 months after the index procedure.\n\nAll patients with a planned endovascular revascularization procedure receiving treatment with the Phoenix Atherectomy System as all or part of their PAD treatment strategy may be included. Written informed consent must be obtained from each patient prior to enrollment in the study. Enrolled patients will undergo PAD treatment that includes Phoenix atherectomy, according to institutional or local standard of care. Data collection will include medical record review of procedures performed according to standard of care."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Peripheral Arterial Disease",
+        "Claudication",
+        "Critical Limb Ischemia"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "12 Months",
+      "designInfo": {
+        "observationalModel": "CASE_ONLY",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 500,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Atherectomy",
+          "description": "Selectively cut and remove atheromatous plaque in the lower extremities. Debulking and removal of atherosclerotic burden plaque with Phoenix Atherectomy System."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Phoenix device performance",
+          "description": "Rates of TECHNICAL SUCCESS (ratio of Phoenix treated lesions with \\<=50% residual diameter stenosis to all Phoenix treated lesions); and PROCEDURAL SUCCESS (ratio of target lesion residual stenosis of \\<=30% after treatment with Phoenix and adjunctive treatments to all treated lesions)",
+          "timeFrame": "30 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Ankle brachial index (ABI)",
+          "description": "Change in ABI between baseline and 12-month follow-up visits in patients with CLI at baseline",
+          "timeFrame": "12 months"
+        },
+        {
+          "measure": "Society for Vascular Surgery's Wound, Ischemia, and foot Infection (WIfI) category",
+          "description": "Change in WIfI category between baseline and 12-month follow-up visits in patients with CLI at baseline",
+          "timeFrame": "12 months"
+        },
+        {
+          "measure": "Rutherford Clinical Category",
+          "description": "Change in Rutherford Clinical Category between baseline and 12-month follow-up visits in patients with CLI at baseline",
+          "timeFrame": "12 months"
+        },
+        {
+          "measure": "Clinically-driven target vessel revascularization (TVR) in patients with CLI at baseline",
+          "description": "Rate of repeat percutaneous (endovascular) or surgical intervention to treat objectively documented signs/symptoms of recurrent ischemia attributable to the target vessel at a site other than the index lesion(s)",
+          "timeFrame": "12 months"
+        },
+        {
+          "measure": "Clinically-driven target lesion revascularization (TLR) in patients with CLI at baseline",
+          "description": "Rate of repeat percutaneous (endovascular) or surgical intervention to treat objectively documented signs/symptoms of recurrent ischemia attributable to the index lesion(s)",
+          "timeFrame": "12 months"
+        },
+        {
+          "measure": "Unplanned target limb amputation in patients with CLI at baseline",
+          "description": "Rate of amputation associated with the target limb that occurs between the index procedure and 30 days that was not previously planned as part of the overall treatment strategy",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "Unplanned target limb amputation in patients with CLI at baseline",
+          "description": "Rate of amputation associated with the target limb that occurs between the index procedure and 12 months that was not previously planned as part of the overall treatment strategy",
+          "timeFrame": "12 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. The patient is \u226518 years of age.\n2. Patient understands the research nature of the study and is willing and capable of providing written informed consent.\n3. Scheduled for and receives treatment with the Phoenix Atherectomy System as all or part of their PAD treatment.\n4. Meets Phoenix Atherectomy System catheter Instruction for Use (IFU) criteria.\n\nExclusion Criteria:\n\n* Patients who have ANY of the following exclusion criteria are NOT eligible for the study:\n\n  1. Patients unwilling or unable to comply with the protocol including 12-month follow-up for patients with CLI at baseline.\n  2. Patient is participating in another device or drug clinical trial that interferes with this protocol follow up schedule.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "This study will include patients who are scheduled to receive atherectomy with the Phoenix Atherectomy System used according to local standards.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Bradley S Matsubara, MD",
+          "affiliation": "Volcano Corporation",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Pima Vascular",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85718",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.22174,
+            "lon": -110.92648
+          }
+        },
+        {
+          "facility": "St. John Hospital",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48236",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33143,
+            "lon": -83.04575
+          }
+        },
+        {
+          "facility": "Mid-Michigan Heart & Vascular Center",
+          "city": "Saginaw",
+          "state": "Michigan",
+          "zip": "48604",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.41947,
+            "lon": -83.95081
+          }
+        },
+        {
+          "facility": "Jackson Heart Clinic",
+          "city": "Jackson",
+          "state": "Mississippi",
+          "zip": "39216",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.29876,
+            "lon": -90.18481
+          }
+        },
+        {
+          "facility": "Cardiovascular Specialists of Texas",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78758",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.26715,
+            "lon": -97.74306
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D058729",
+          "term": "Peripheral Arterial Disease"
+        },
+        {
+          "id": "D007383",
+          "term": "Intermittent Claudication"
+        },
+        {
+          "id": "D000089802",
+          "term": "Chronic Limb-Threatening Ischemia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D050197",
+          "term": "Atherosclerosis"
+        },
+        {
+          "id": "D001161",
+          "term": "Arteriosclerosis"
+        },
+        {
+          "id": "D001157",
+          "term": "Arterial Occlusive Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D016491",
+          "term": "Peripheral Vascular Diseases"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D007511",
+          "term": "Ischemia"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017073",
+          "term": "Atherectomy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017130",
+          "term": "Angioplasty"
+        },
+        {
+          "id": "D002404",
+          "term": "Catheterization"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D057510",
+          "term": "Endovascular Procedures"
+        },
+        {
+          "id": "D014656",
+          "term": "Vascular Surgical Procedures"
+        },
+        {
+          "id": "D013504",
+          "term": "Cardiovascular Surgical Procedures"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        },
+        {
+          "id": "D019060",
+          "term": "Minimally Invasive Surgical Procedures"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

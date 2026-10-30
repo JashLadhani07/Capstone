@@ -1,0 +1,272 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00132145",
+      "orgStudyIdInfo": {
+        "id": "G03-02820"
+      },
+      "organization": {
+        "fullName": "St. Joseph's Healthcare Hamilton",
+        "class": "OTHER"
+      },
+      "briefTitle": "Computerization of Medical Practices for the Enhancement of Therapeutic Effectiveness (COMPETE III)",
+      "officialTitle": "A Randomized Trial of Electronic Integration of Care for Better Vascular Outcomes: The Compete III Study Computerization of Medical Practices for the Enhancement of Therapeutic Effectiveness (COMPETE III)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2003-04"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2006-06",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2006-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2005-08-17",
+      "studyFirstSubmitQcDate": "2005-08-17",
+      "studyFirstPostDateStruct": {
+        "date": "2005-08-19",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-10-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-10-19",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Dr. Anne Holbrook",
+        "investigatorTitle": "Director, Division of Pharmacology & Toxicology",
+        "investigatorAffiliation": "St. Joseph's Healthcare Hamilton"
+      },
+      "leadSponsor": {
+        "name": "St. Joseph's Healthcare Hamilton",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Ontario Ministry of Health and Long Term Care",
+          "class": "OTHER_GOV"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Vascular diseases (cardiac events, strokes, peripheral vascular disease) remain the number one killer in Canadian society as well as the leading cause of hospitalization and days spent in the hospital. A 1996 estimate placed Ontario's vascular disease financial burden at $5.5 billion in total. Any intervention which lowers vascular risk, will have a direct impact on the quantity and quality of life and costs of health care. Further integration of health professionals in teams focused on chronic disease management in individuals and populations is also ripe for further evaluation. Increased collaboration between family physicians, physician specialists, nurse practitioners, and pharmacists are generally thought to be beneficial for patient outcomes, but the literature is inconclusive and their cost-effectiveness is unproven. In addition, combining centralized electronic up-to-date information on the patient's status with evidence-based recommendations and the ability to communicate either electronically or by phone is expected to result in improved access to care, quality of care, continuity of care and increase cost-effectiveness of chronic disease management.\n\nCOMPETE III builds on the researchers' previous work to study an electronic vascular tracking and decision support system shared by patients and their physicians, combined with a clinical care coordinator and automated telephone support system. The researchers are evaluating its impact on vascular risk processes and outcomes, perceived usefulness, ease of use, need for improvement, medication adherence, quality of life and patient goals and motivation.\n\nStudy hypothesis: Patients at increased risk of vascular events, if connected with their family physicians, medical specialists and care coordinator via an electronic network (Web, fax and telephone) sharing an intensive tracking, advice and support program, will lower their vascular risk more than those in usual care.",
+      "detailedDescription": "COMPETE is Canada's original electronic medical record research network and specializes in the rigorous development, implementation and evaluation of electronic technologies in health care. COMPETE III will build on COMPETE II to incorporate the latest evidence on:\n\n1. the management of diabetes, hypertension, dyslipidemia and previous vascular events,\n2. improving patient-clinician interactions,\n3. the use of technology to enhance the quality, safety and efficiency of care and\n4. motivational strategies to change both patient and clinician behaviour.\n\nSpecifically, the researchers will:\n\n1. Expand the disease focus to a vascular risk population (diabetes, hypertension, dyslipidemia or previous vascular event);\n2. Expand the electronic care network beyond patients and primary care providers to also include specialists (physician specialists, specialty nurse clinicians, etc);\n3. Expand the geographical network from Hamilton area, and Ottawa to include other primary care reform (PCR), Ontario Family Health Networks (OFHN) or EHR using sites;\n4. Tighten the integration with the leading Ontario EHR products and concentrate on those meeting the new Ontario Smart Systems for Health Clinical Management System specifications,\n5. Strengthen the clinical decision support by offering evidence-based algorithms specific to the patient, provide specific formulary advice - drug listing, Limited Use prescriptions and codes, Section 8 criteria and form letters;\n6. Improve the researchers pharmacosurveillance network which pursues reasons for starting and stopping medications by seeking adherence information directly from patients;\n7. Provide direct links via Internet for patients and clinicians to best evidence about vascular disease,\n8. Improve the automated telephone support (ATS);\n9. Support physicians in managing this advanced care network by providing clinical care coordinators, either nurse clinicians or clinical pharmacists;\n10. Use HL-7 messaging standards as per Canada Health Infoway guidelines;\n11. Rigorously evaluate the cost-effectiveness of our package intervention in order to provide specific advice to health planners and payers on costs and benefits."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Vascular Diseases"
+      ],
+      "keywords": [
+        "Vascular diseases",
+        "Computerized decision support systems",
+        "Shared care",
+        "Patient motivation",
+        "Quality of care"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1000,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intervention",
+          "type": "OTHER",
+          "description": "Behavioural",
+          "interventionNames": [
+            "Behavioral: Vascular Management Program",
+            "Behavioral: Clinical Care Coordinators",
+            "Behavioral: Web-based Vascular Tracker for Patient and Physician",
+            "Behavioral: Automated Telephone Reminder System"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Vascular Management Program",
+          "armGroupLabels": [
+            "Intervention"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Clinical Care Coordinators",
+          "armGroupLabels": [
+            "Intervention"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Web-based Vascular Tracker for Patient and Physician",
+          "armGroupLabels": [
+            "Intervention"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Automated Telephone Reminder System",
+          "armGroupLabels": [
+            "Intervention"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The comparison of change in vascular monitoring process total score (proportion of process targets met in group) between intervention and control groups.",
+          "timeFrame": "6 months to 1 year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Vascular outcome targets",
+          "timeFrame": "6 months to 1 year"
+        },
+        {
+          "measure": "Provider satisfaction, perceived value",
+          "timeFrame": "6 months to 1 year"
+        },
+        {
+          "measure": "Patient satisfaction, self-efficacy, access to care",
+          "timeFrame": "6 months to 1 year"
+        },
+        {
+          "measure": "Health data privacy and security",
+          "timeFrame": "6 months to 1 year"
+        },
+        {
+          "measure": "Patient Quality of Life",
+          "timeFrame": "6 months to 1 year"
+        },
+        {
+          "measure": "Health care utilization",
+          "timeFrame": "6 months to 1 year"
+        },
+        {
+          "measure": "Cost effectiveness",
+          "timeFrame": "6 months to 1 year"
+        },
+        {
+          "measure": "Facilitators, predictors and barriers to the success of project",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Scalability and sustainability",
+          "timeFrame": "1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 55 years of age and over\n* Regular patients of a family physician's office (at least one visit in the last 12 months)\n* Vascular disease (previous myocardial infarction, stroke, peripheral vascular disease, coronary artery disease) or at least one of the following vascular risk factors (hypertension, hypercholesterolemia, diabetes)\n\nExclusion Criteria:\n\n* Non-English speaking\n* Cognitive impairment",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "55 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Anne M Holbrook, PharmD MD MSc",
+          "affiliation": "Centre for Evaluation of Medicines",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Centre for Evaluation of Medicines",
+          "city": "Hamilton",
+          "state": "Ontario",
+          "zip": "L8N 1G6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.25011,
+            "lon": -79.84963
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "22025430",
+          "type": "RESULT",
+          "citation": "Holbrook A, Pullenayegum E, Thabane L, Troyan S, Foster G, Keshavjee K, Chan D, Dolovich L, Gerstein H, Demers C, Curnew G. Shared electronic vascular risk decision support in primary care: Computerization of Medical Practices for the Enhancement of Therapeutic Effectiveness (COMPETE III) randomized trial. Arch Intern Med. 2011 Oct 24;171(19):1736-44. doi: 10.1001/archinternmed.2011.471."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D010820",
+          "term": "Physicians"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006282",
+          "term": "Health Personnel"
+        },
+        {
+          "id": "D005159",
+          "term": "Health Care Facilities Workforce and Services"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

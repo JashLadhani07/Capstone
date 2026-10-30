@@ -1,0 +1,20 @@
+{
+  "pmid": "28545514",
+  "title": "A coordinated PCP-Cardiologist Telemedicine Model (PCTM) in China's community hypertension care: study protocol for a randomized controlled trial.",
+  "abstract": "Hypertension is a major risk factor for cardiovascular disease, and its control rate has remained low worldwide. Studies have found that telemonitoring blood pressure (BP) helped control hypertension in randomized controlled trials. However, little is known about its effect in a structured primary care model in which primary care physicians (PCPs) are partnering with cardiology specialists in electronic healthcare data sharing and medical interventions. This study aims to identify the effects of a coordinated PCP-cardiologist model that applies telemedicine tools to facilitate community hypertension control in China. Patients with hypertension receiving care at four community healthcare centers that are academically affiliated to Shanghai Chest Hospital, Shanghai JiaoTong University are eligible if they have had uncontrolled BP in the previous 3\u00a0months and access to mobile Internet. Study subjects are randomly assigned to three interventional groups: (1) usual care; (2) home-based BP telemonitor with embedded Global System for Mobile Communications (GSM) module and unlimited data plan, an app to access personal healthcare record and receive personalized lifestyle coaching contents, and proficiency training of their use; or (3) this plus coordinated PCP-cardiologist care in which PCPs and cardiologists share data via a secure CareLinker website to determine interventional approaches. The primary outcome is mean change in systolic blood pressure over a 12-month period. Secondary outcomes are changes of diastolic blood pressure, HbA1C, blood lipids, and medication adherence measured by the eight-item Morisky Medication Adherence Scale. This study will determine whether a coordinated PCP-Cardiologist Telemedicine Model that incorporates the latest telemedicine technologies will improve hypertension care. Success of the model would help streamline the present community healthcare processes and impact a greater number of patients with uncontrolled hypertension. ClinicalTrials.gov, NCT02919033 . Registered on 23 September 2016.",
+  "journal": "Trials",
+  "pub_date": "2017-May",
+  "authors": [
+    "Xu, Lei",
+    "Fang, Wei-Yi",
+    "Zhu, Fu",
+    "Zhang, Hong-Guang",
+    "Liu, Kai"
+  ],
+  "nct_ids_referenced": [
+    "NCT02919033"
+  ],
+  "source": "pubmed",
+  "word_count": 283,
+  "parsed_at": "2026-10-30T13:31:46.221642"
+}

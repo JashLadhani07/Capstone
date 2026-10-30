@@ -1,0 +1,264 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04720092",
+      "orgStudyIdInfo": {
+        "id": "19365"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2017-000648-16",
+          "type": "EUDRACT_NUMBER"
+        },
+        {
+          "id": "2017",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/2017"
+        }
+      ],
+      "organization": {
+        "fullName": "Bayer",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Trial to Learn How a New Liquid Form of Rivaroxaban Behaves and How Safe it is Compared to the Current Tablet Form of Rivaroxaban in Healthy Male Participants",
+      "officialTitle": "Single-dose, Open-label, Randomized, 2-way Crossover Bioequivalence Study of 10 mg Granules for Oral Suspension Rivaroxaban Versus 10 mg Tablets Rivaroxaban Under Fasted Condition in Healthy Subjects"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-07-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2017-08-28",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2017-10-27",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-01-20",
+      "studyFirstSubmitQcDate": "2021-01-20",
+      "studyFirstPostDateStruct": {
+        "date": "2021-01-22",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-01-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-01-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Bayer",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Janssen Research & Development, LLC",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Researchers were looking for another way to treat people with a blood clot in their veins. Before a treatment can be approved for people to take, researchers do clinical trials to better understand its safety and how it behaves.\n\nIn this trial, the researchers learned how a new liquid form of rivaroxaban behaved compared to the tablet form in a small number of healthy participants. They also wanted to find out how safe it was. The trial included about 30 white men who were between the ages of 18 and 55. The participants also had a body mass index (BMI) between 18 and 29.9 kilograms per square meter (kg/m\\^2). BMI is a measurement that uses a person's height and weight to learn how much body fat they have.\n\nAll the participants in this trial took 10 milliliter of the new form of rivaroxaban (containing 1 milligram \\[mg\\] of rivaroxaban per milliliter). Later they also took 10 mg of the current tablet form of rivaroxaban. They took each form 1 time by mouth.\n\nThis trial was a \"crossover\" trial. In a crossover trial, all the participants take all of the treatments, but in a different order. In between the 2 treatments, there was a \"washout period\" of at least 7 days. This was done so that the first treatment could leave each participant's body before they took their next treatment.\n\nWhile taking each treatment, the participants stayed at the trial site for 5 days. During this time, they did not eat food for at least 10 hours before and at least 4 hours after taking each treatment. After taking the last treatment, the participants had a final visit about 7 to 14 days later.\n\nDuring the trial, the doctors took blood and urine samples. They also did physical examinations and checked the participants' heart health using an electrocardiogram (ECG). They asked the participants questions about how they were feeling and if they had any medical problems."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Thromboembolic Disorders"
+      ],
+      "keywords": [
+        "Thromboembolism"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 30,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment A-B",
+          "type": "EXPERIMENTAL",
+          "description": "Subjects received a single oral dose of 10 mg rivaroxaban tablet in the fasted state on Day 1 (Treatment A) during intervention period 1; and then a single oral dose of 10 mg rivaroxaban oral suspension in the fasted state on Day 1 (Treatment B) during intervention period 2. A wash-out of at least 7 days was maintained between the treatments.",
+          "interventionNames": [
+            "Drug: Rivaroxaban (Xarelto, BAY59-7939)"
+          ]
+        },
+        {
+          "label": "Treatment B-A",
+          "type": "EXPERIMENTAL",
+          "description": "Subjects received a single oral dose of 10 mg rivaroxaban oral suspension in the fasted state on Day 1 (Treatment B) during intervention period 1; and then a single oral dose of 10 mg rivaroxaban tablet in the fasted state on Day 1 (Treatment A) during intervention period 2. A wash-out of at least 7 days was maintained between the treatments.",
+          "interventionNames": [
+            "Drug: Rivaroxaban (Xarelto, BAY59-7939)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rivaroxaban (Xarelto, BAY59-7939)",
+          "description": "Granules for oral suspension, 10 mg, oral, single dose",
+          "armGroupLabels": [
+            "Treatment A-B",
+            "Treatment B-A"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Rivaroxaban (Xarelto, BAY59-7939)",
+          "description": "Tablet, 10 mg, oral, single dose",
+          "armGroupLabels": [
+            "Treatment A-B",
+            "Treatment B-A"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Area under the concentration versus time curve from zero to infinity (AUC) of rivaroxaban in plasma after single dose",
+          "timeFrame": "Pre-dose up to 72 hours post-dose"
+        },
+        {
+          "measure": "AUC from time zero to the last data point greater than (>) lower limit of quantification (LLOQ) (AUC[0-tlast]) of rivaroxaban in plasma after single dose",
+          "description": "Area under the concentration versus time curve from zero to infinity (AUC)",
+          "timeFrame": "Pre-dose up to 72 hours post-dose"
+        },
+        {
+          "measure": "Maximum observed drug concentration (Cmax) of rivaroxaban in plasma after single dose",
+          "timeFrame": "Pre-dose up to 72 hours post-dose"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of subjects with treatment-emergent adverse events (TEAEs)",
+          "timeFrame": "From start of study drug administration up to 30 days after last study drug administration"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* The informed consent had to be signed before any study specific tests or procedures were done\n* Healthy male subjects\n* Age: 18 to 55 years (inclusive) at the screening examination/visit\n* Race: White\n* Body mass index (BMI): above/equal 18 and below/equal 29.9 kg/m\\^2\n* Ability to understand and follow instructions\n\nExclusion Criteria:\n\n* Pre-existing diseases for which it can be assumed that the absorption, distribution, metabolism, elimination and effects of the study drugs will not be normal\n* Known or suspected liver disorders and bile secretion/flow\n* Subjects with thyroid disorders as evidenced by assessment of thyroid stimulating hormone (TSH) levels outside the normal reference range at screening\n* Personal or familial history of genetically muscular diseases\n* Known hypersensitivity to the study drugs (active substances or excipients of the preparations)\n* Known severe allergies e.g. allergies to more than 3 allergens, allergies affecting the lower respiratory tract- allergic asthma, allergies requiring therapy with corticosteroids, urticaria) or significant non-allergic drug reactions\n* Known disorders with increased bleeding risk (e.g., periodontosis, hemorrhoids, acute gastritis, peptic ulcer)\n* Known sensitivity to common causes of bleeding (e.g. nasal)\n* Clinically relevant findings in the electrocardiogram (ECG) such as a second- or third-degree atrioventricular (AV) block, prolongation of the QRS (QRS interval in ECG) complex over 120 msec or of the QTc-interval over 450 msec at the first screening visit\n* Presence or history of arrhythmic disturbances; or known congenital QT (QT interval in ECG) prolongation\n* Systolic blood pressure below 100 or above 140 mmHg\n* Diastolic blood pressure below 50 or above 90 mmHg\n* Heart rate below 50 or above 90 beats/ min",
+      "healthyVolunteers": true,
+      "sex": "MALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "55 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "CRS Clinical-Research-Services M\u00f6nchengladbach GmbH",
+          "city": "M\u00f6nchengladbach",
+          "state": "North Rhine-Westphalia",
+          "zip": "41061",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.18539,
+            "lon": 6.44172
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED",
+      "description": "Availability of this study's data will be determined according to Bayer's commitment to the EFPIA/PhRMA \"Principles for responsible clinical trial data sharing\". This pertains to scope, timepoint and process of data access.\n\nAs such, Bayer commits to sharing upon request from qualified researchers patient-level clinical trial data, study-level clinical trial data, and protocols from clinical trials in patients for medicines and indications approved in the US and EU as necessary for conducting legitimate research. This applies to data on new medicines and indications that have been approved by the EU and US regulatory agencies on or after January 01, 2014.\n\nInterested researchers can use www.clinicalstudydatarequest.com to request access to anonymized patient-level data and supporting documents from clinical studies to conduct research. Information on the Bayer criteria for listing studies and other relevant information is provided in the Study sponsors section of the portal."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D013923",
+          "term": "Thromboembolism"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D016769",
+          "term": "Embolism and Thrombosis"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069552",
+          "term": "Rivaroxaban"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013876",
+          "term": "Thiophenes"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D009025",
+          "term": "Morpholines"
+        },
+        {
+          "id": "D010078",
+          "term": "Oxazines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

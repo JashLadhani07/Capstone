@@ -1,0 +1,227 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02239198",
+      "orgStudyIdInfo": {
+        "id": "Nutrition Bar Trials"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "CHORIbar",
+          "type": "OTHER_GRANT",
+          "domain": "Ames Foundation"
+        }
+      ],
+      "organization": {
+        "fullName": "UCSF Benioff Children's Hospital Oakland",
+        "class": "OTHER"
+      },
+      "briefTitle": "Impact of a Nutritional Supplement on Metabolic Health",
+      "officialTitle": "Attenuating the Micronutrient Malnutrition of Overnutrition (AMMO)",
+      "acronym": "CHORIBar"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2017-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-04-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2017-04-05",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2017-04-13",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-09-10",
+      "studyFirstSubmitQcDate": "2014-09-11",
+      "studyFirstPostDateStruct": {
+        "date": "2014-09-12",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2017-04-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2017-04-18",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "UCSF Benioff Children's Hospital Oakland",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "USDA Beltsville Human Nutrition Research Center",
+          "class": "FED"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "There are prevalent micronutrient and fiber deficiencies in a significant proportion of US population, particularly among the overweight or obese. Intensive lifestyle counseling results in modest, measurable dietary improvements and weight stabilization, yet falls short of restoring optimal nutritional status and metabolism. A carefully formulated nutritional supplement bar (referred to as the CHORIBAR) delivered in a whole food matrix may correct micronutrient deficiencies in overweight or obese adults and children. This may have a beneficial impact on traditional indices of insulin dysregulation and the metabolic syndrome, gut inflammation, redox status, immune function and DNA integrity, and may favorably influence weight change and fat distribution.\n\nThe investigators believe that the improvements seen with CHORIBAR trials will be mediated at the level of generalized enhancement in cellular metabolism that are not readily achieved with lifestyle counseling alone. The investigators suspect this is due to many nutritional barriers, some of which are disproportionately borne by inner city populations, such as cost and access to healthy food. The investigators hypothesize that a nutritional supplement like the CHORIBAR will facilitate restoration of optimal nutritional status and improve metabolic and weight outcomes.",
+      "detailedDescription": "With our USDA partners, we have developed a whole-food, multi-component nutrient bars. Previous pilot studies demonstrated that short-term bar consumption results in favorable increases in HDL-cholesterol (HDL-c), particularly large-HDL (HDL-L) in most lean but only in some overweight/obese individuals. Obesity is associated with poor gastrointestinal health and systemic inflammation, which are also associated with low HDL. Our hypothesis is that a carefully formulated nutritional supplement bar delivered in a whole food matrix can correct micronutrient deficiencies in obese adults and have a beneficial impact on indices of insulin dysregulation and the metabolic syndrome. The aims of this project are 1) to characterize the effect size on indices of lipid profile, homocysteine, inflammation, insulin resistance, micronutrient levels, DNA integrity, hunger and satiety, BMI, waist circumference, and blood pressure with different formulations of CHORI bar taken twice daily for periods ranging from 2-8 weeks. We will also evaluate gut inflammation, redox status, tissue metals, and DNA integrity with novel exploratory assays that may serve as markers for micronutrient malnutrition and chronic disease risk. 2) Where significant improvement in the outcome variables is observed, we will attempt to \"deconstruct\" the bars and attempt to determine the active ingredients responsible for these changes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiovascular Disease Prevention"
+      ],
+      "keywords": [
+        "HDL",
+        "nutrition bar"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 16,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "C",
+          "type": "EXPERIMENTAL",
+          "description": "Nutrition bar without omega-3 fatty acids",
+          "interventionNames": [
+            "Other: Nutrition bar"
+          ]
+        },
+        {
+          "label": "B",
+          "type": "EXPERIMENTAL",
+          "description": "Nutrition bar without added minerals and vitamins",
+          "interventionNames": [
+            "Other: Nutrition bar"
+          ]
+        },
+        {
+          "label": "A",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Complete nutrition bar",
+          "interventionNames": [
+            "Other: Nutrition bar"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Nutrition bar",
+          "description": "The nutrition bar has been formulated to help achieve balanced nutrition with a polyphenolic-rich whole food matrix with vitamins, minerals, omega-3 fatty acids, and fiber at generally physiologic doses intended not to replace but to supplement a typical diet.",
+          "armGroupLabels": [
+            "A",
+            "B",
+            "C"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "High density lipoprotein",
+          "timeFrame": "1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Either taking no dietary supplements or willing to discontinue any dietary supplements for two weeks preceding the trial.\n* Age \\>18 years\n* BMI \\<40\n* Blood pressure \\<140/90 mmHg, or stable blood pressure on medicines for past 3 months\n\nExclusion Criteria:\n\n* Known diabetes mellitus according to the 2010 ADA criteria, but pre-diabetic subjects with known impaired glucose tolerance (fasting glucose 101-125, and 2-hour post-prandial glucose level 141-200 mg/dL) can remain eligible.\n* Weight loss pharmacotherapy.\n* Lipid-lowering medication as this will alter the lipid profile being measured.\n* Renal disease as this may affect blood pressure and dietary requirements.\n* Smoking\n* Pregnancy- a negative urine pregnancy test will be documented for any women participants of childbearing age prior to enrollment.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Bruce Ames",
+          "affiliation": "Children's Hospital & Research Center at Oakland",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Ashutosh Lal, MD",
+          "affiliation": "Children's Hospital & Research Center at Oakland",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Joyce McCann, PhD",
+          "affiliation": "Children's Hospital & Research Center at Oakland",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Michele Mietus-Snyder, MD",
+          "affiliation": "Children's Hospital & Research Center at Oakland",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Children's Hospital & Research Center Oakland",
+          "city": "Oakland",
+          "state": "California",
+          "zip": "94609",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.80437,
+            "lon": -122.2708
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "22549511",
+          "type": "BACKGROUND",
+          "citation": "Mietus-Snyder ML, Shigenaga MK, Suh JH, Shenvi SV, Lal A, McHugh T, Olson D, Lilienstein J, Krauss RM, Gildengoren G, McCann JC, Ames BN. A nutrient-dense, high-fiber, fruit-based supplement bar increases HDL cholesterol, particularly large HDL, lowers homocysteine, and raises glutathione in a 2-wk trial. FASEB J. 2012 Aug;26(8):3515-27. doi: 10.1096/fj.11-201558. Epub 2012 May 1."
+        },
+        {
+          "pmid": "33079935",
+          "type": "DERIVED",
+          "citation": "Mietus-Snyder M, Narayanan N, Krauss RM, Laine-Graves K, McCann JC, Shigenaga MK, McHugh TH, Ames BN, Suh JH. Randomized nutrient bar supplementation improves exercise-associated changes in plasma metabolome in adolescents and adult family members at cardiometabolic risk. PLoS One. 2020 Oct 20;15(10):e0240437. doi: 10.1371/journal.pone.0240437. eCollection 2020."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    }
+  },
+  "hasResults": false
+}

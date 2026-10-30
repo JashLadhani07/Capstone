@@ -1,0 +1,23 @@
+
+{% extends "base.html" %}
+{% block title %}Signal Details | MOSAIC{% endblock %}
+{% block breadcrumb %}Signal Details{% endblock %}
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">SIGNAL INVESTIGATION</p>
+        <h1>Signal <span>Details</span></h1>
+        <p class="page-description">Detailed intelligence and evidence for this finding.</p>
+    </div>
+    <a href="/signals" class="secondary-button">← Back to Signals</a>
+</section>
+
+<section class="content-card detail-card">
+    <div class="detail-body" id="signal-detail">
+        <p class="loading-cell">Loading signal details...</p>
+    </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', path='js/signals.js') }}"></script>
+{% endblock %}

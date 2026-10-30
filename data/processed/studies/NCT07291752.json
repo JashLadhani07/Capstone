@@ -1,0 +1,194 @@
+{
+  "nct_id": "NCT07291752",
+  "title": "The Risk of Second Primary Gastrointestinal Malignancies Following Primary Gastrointestinal Carcinoid Tumors: a SEER Based Study 2000-2022",
+  "sponsor": "Suez Canal University",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Carcinoid Tumor",
+    "Second Primary Malignant Neoplasm"
+  ],
+  "interventions": [],
+  "primary_outcome": "The standardized incidence ratio and excess risk of second primary gastrointestinal malignancies following primary gastrointestinal carcinoid tumors",
+  "secondary_outcomes": [],
+  "start_date": "2000-12-01",
+  "completion_date": "2022-12-30",
+  "results_posted": false,
+  "enrollment": 93481,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07291752",
+        "orgStudyIdInfo": {
+          "id": "A276"
+        },
+        "organization": {
+          "fullName": "Suez Canal University",
+          "class": "OTHER"
+        },
+        "briefTitle": "The Risk of Second Primary Gastrointestinal Malignancies Following Primary Gastrointestinal Carcinoid Tumors: a SEER Based Study 2000-2022",
+        "officialTitle": "The Risk of Second Primary Gastrointestinal Malignancies Following Primary Gastrointestinal Carcinoid Tumors: a SEER Based Study 2000-2022"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-12",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2000-12-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2022-12-30",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2022-12-30",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2025-12-05",
+        "studyFirstSubmitQcDate": "2025-12-05",
+        "studyFirstPostDateStruct": {
+          "date": "2025-12-18",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-12-05",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-12-18",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "asmaa salama ibrahim",
+          "investigatorTitle": "Resident physician of gastroenterology",
+          "investigatorAffiliation": "Suez Canal University"
+        },
+        "leadSponsor": {
+          "name": "Suez Canal University",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Carcinoid tumors are rare neuroendocrine tumors with slowly progressive course. Carcinoid tumors are the most common gastrointestinal (GI) neuroendocrine tumors. The most common sites of GI carcinoids are small intestine accounting for 45%, rectum (20%), appendix (17%), colon (11%), and stomach (7%). Some studies reported an association between neuroendocrine tumors and multiple malignancies. However, the presence of neuroendocrine tumors combined with multiple primary GI tumors is considered an exotic event in the literature with only few case studies and case series. So the aim of this study is to assess the risk of GI malignancies following primary GI carcinoids.",
+        "detailedDescription": "Carcinoid tumors are rare neuroendocrine tumors with slowly progressive course. Carcinoid tumors are the most common gastrointestinal (GI) neuroendocrine tumors. The most common sites of GI carcinoids are small intestine accounting for 45%, rectum (20%), appendix (17%), colon (11%), and stomach (7%). Some studies reported an association between neuroendocrine tumors and multiple malignancies. However, the presence of neuroendocrine tumors combined with multiple primary GI tumors is considered an exotic event in the literature with only few case studies and case series. So the aim of this study is to assess the risk of GI malignancies following primary GI carcinoids."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Carcinoid Tumor",
+          "Second Primary Malignant Neoplasm"
+        ],
+        "keywords": [
+          "SEER",
+          "Carcinoid",
+          "malignancy"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "RETROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 93481,
+          "type": "ACTUAL"
+        }
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "The standardized incidence ratio and excess risk of second primary gastrointestinal malignancies following primary gastrointestinal carcinoid tumors",
+            "description": "The surveillance, epidemiology and End Results (SEER) database was used to calculate the standardized incidence ratio (SIR) as Observed/Expected (O/E) and calculated the excess risk for second primary gastrointestinal malignancies following primary gastrointestinal carcinoid tumors",
+            "timeFrame": "Jan, 2000 till Dec, 2022"
+          },
+          {
+            "measure": "The standardized incidence ratio and excess risk of gastrointestinal second primary malignancies stratified according to the primary gastrointestinal carcinoids site.",
+            "timeFrame": "from Jan, 2000 till Dec, 2022"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* patients diagnosed with gastrointestinal carcinoid tumor.\n* patients diagnosed from 2000 till 2022\n\nExclusion Criteria:\n\n* patients diagnosed with autopsy only or death certificate only.\n* patients lacking age documentation.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "stdAges": [
+          "CHILD",
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "patients diagnosed with gastrointestinal carcinoid tumor",
+        "samplingMethod": "PROBABILITY_SAMPLE"
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002276",
+            "term": "Carcinoid Tumor"
+          },
+          {
+            "id": "D016609",
+            "term": "Neoplasms, Second Primary"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D018358",
+            "term": "Neuroendocrine Tumors"
+          },
+          {
+            "id": "D017599",
+            "term": "Neuroectodermal Tumors"
+          },
+          {
+            "id": "D009373",
+            "term": "Neoplasms, Germ Cell and Embryonal"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D000230",
+            "term": "Adenocarcinoma"
+          },
+          {
+            "id": "D002277",
+            "term": "Carcinoma"
+          },
+          {
+            "id": "D009375",
+            "term": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "id": "D009380",
+            "term": "Neoplasms, Nerve Tissue"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256960"
+}

@@ -1,0 +1,309 @@
+{
+  "nct_id": "NCT05391126",
+  "title": "GENOCARE: A Prospective, Randomized Clinical Trial of Genotype-Guided Dosing Versus Usual Care",
+  "sponsor": "Reema A. Patel",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "Colorectal Cancer",
+    "Pancreatic Cancer"
+  ],
+  "interventions": [
+    "Irinotecan"
+  ],
+  "primary_outcome": "Adverse Events Frequency",
+  "secondary_outcomes": [
+    "Overall Survival"
+  ],
+  "start_date": "2022-09-28",
+  "completion_date": "2027-05",
+  "results_posted": false,
+  "enrollment": 178,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05391126",
+        "orgStudyIdInfo": {
+          "id": "MCC-22-GI-125-PMC"
+        },
+        "organization": {
+          "fullName": "University of Kentucky",
+          "class": "OTHER"
+        },
+        "briefTitle": "GENOCARE: A Prospective, Randomized Clinical Trial of Genotype-Guided Dosing Versus Usual Care",
+        "officialTitle": "GENOCARE: A Prospective, Randomized Clinical Trial of Genotype-Guided Dosing Versus Usual Care"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-12",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2022-09-28",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-05",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-05",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2022-05-20",
+        "studyFirstSubmitQcDate": "2022-05-20",
+        "studyFirstPostDateStruct": {
+          "date": "2022-05-25",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-12-08",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-12-16",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Reema A. Patel",
+          "investigatorTitle": "Assistant Professor",
+          "investigatorAffiliation": "University of Kentucky"
+        },
+        "leadSponsor": {
+          "name": "Reema A. Patel",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is a prospective, randomized study designed to compare genotype-guided dosing to usual care in patients with pancreas cancer and colorectal cancer who are UGT1A1 intermediate metabolizers (\\*1/\\*28) (heterozygotes) and usual UGT metabolizers (\\*1/\\*1). All patients will be assessed for UGT1A1 genotype at screening and those with intermediate or usual UGT1A1 genotypes (\\*1/\\*28, \\*1/\\*1) will be randomized to genotype-guided dosing versus usual care."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Colorectal Cancer",
+          "Pancreatic Cancer"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "whoMasked": [
+              "PARTICIPANT"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 178,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Genocare Guided",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Drug: Irinotecan"
+            ]
+          },
+          {
+            "label": "Usual Care",
+            "type": "NO_INTERVENTION"
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Irinotecan",
+            "description": "Usual dosing per package insert.",
+            "armGroupLabels": [
+              "Genocare Guided"
+            ],
+            "otherNames": [
+              "Nano-liposomal Irinotecan",
+              "Onyvide"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Adverse Events Frequency",
+            "description": "To compare the frequency of cycle 1 grade 3-5 adverse effects in individuals with a \\*1/\\*28 or \\*1/\\*1 genotype who receive genotype-guided dosing and to those who are randomized to receive usual care.",
+            "timeFrame": "6 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Overall Survival",
+            "description": "To evaluate overall survival between individuals randomized to receive genotype-guided dosing and those who are randomized to receive usual care.",
+            "timeFrame": "5 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed stage I-IV pancreas or stage III-IV colorectal cancer who are planning to undergo treatment.\n* Prior treatment is allowed, specifically surgery and/or radiation and non-irinotecan containing regimens are allowed.\n* Age \u2265 18 years.\n* ECOG performance status \u2264 1.\n* Patients must have adequate organ and marrow function as defined below:\n* Measurable or non-measurable disease.\n\nExclusion Criteria:\n\n* Patients who received prior treatment with irinotecan are excluded.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with targeted therapy, in the opinion of the treating physician.\n* Pregnant women are excluded from this study.\n* Patients who are not planned for treatment of their cancer.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Reema A Patel, MD",
+            "role": "CONTACT",
+            "phone": "8592186650",
+            "email": "reema.patel@uky.edu"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Reema A Patel, MD",
+            "affiliation": "University of Kentucky",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of Kentucky",
+            "status": "RECRUITING",
+            "city": "Lexington",
+            "state": "Kentucky",
+            "zip": "40506",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Yvonne Taul",
+                "role": "CONTACT",
+                "phone": "859-323-2354",
+                "email": "Yvonne.Taul@uky.edu"
+              }
+            ],
+            "geoPoint": {
+              "lat": 37.98869,
+              "lon": -84.47772
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D015179",
+            "term": "Colorectal Neoplasms"
+          },
+          {
+            "id": "D010190",
+            "term": "Pancreatic Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D007414",
+            "term": "Intestinal Neoplasms"
+          },
+          {
+            "id": "D005770",
+            "term": "Gastrointestinal Neoplasms"
+          },
+          {
+            "id": "D004067",
+            "term": "Digestive System Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D004066",
+            "term": "Digestive System Diseases"
+          },
+          {
+            "id": "D005767",
+            "term": "Gastrointestinal Diseases"
+          },
+          {
+            "id": "D003108",
+            "term": "Colonic Diseases"
+          },
+          {
+            "id": "D007410",
+            "term": "Intestinal Diseases"
+          },
+          {
+            "id": "D012002",
+            "term": "Rectal Diseases"
+          },
+          {
+            "id": "D004701",
+            "term": "Endocrine Gland Neoplasms"
+          },
+          {
+            "id": "D010182",
+            "term": "Pancreatic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000077146",
+            "term": "Irinotecan"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002166",
+            "term": "Camptothecin"
+          },
+          {
+            "id": "D000470",
+            "term": "Alkaloids"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.257056"
+}

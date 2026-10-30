@@ -1,0 +1,476 @@
+{
+  "nct_id": "NCT03248271",
+  "title": "Effects of Insulin on Hypotension and Sarcopenia",
+  "sponsor": "Kenneth Madden",
+  "phase": "NA",
+  "status": "WITHDRAWN",
+  "conditions": [
+    "Diabetes",
+    "Sarcopenia",
+    "Hypotension, Orthostatic"
+  ],
+  "interventions": [
+    "Insulin Lispro"
+  ],
+  "primary_outcome": "Body composition",
+  "secondary_outcomes": [
+    "Nadir of middle cerebral artery velocity as measured by transcranial doppler",
+    "Presence or absence of a positive Tilt Table Test (vasovagal syncope)"
+  ],
+  "start_date": "2017-10-01",
+  "completion_date": "2023-01-10",
+  "results_posted": false,
+  "enrollment": 0,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03248271",
+        "orgStudyIdInfo": {
+          "id": "H17-01663"
+        },
+        "organization": {
+          "fullName": "University of British Columbia",
+          "class": "OTHER"
+        },
+        "briefTitle": "Effects of Insulin on Hypotension and Sarcopenia",
+        "officialTitle": "Effects of Insulin on Hypotension and Sarcopenia"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2023-01",
+        "overallStatus": "WITHDRAWN",
+        "whyStopped": "Study design was changed to the study was changed to Insulin, hypotension and sarcopenia.",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2017-10-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2023-01-10",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2023-01-10",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2017-08-07",
+        "studyFirstSubmitQcDate": "2017-08-09",
+        "studyFirstPostDateStruct": {
+          "date": "2017-08-14",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2023-01-10",
+        "lastUpdatePostDateStruct": {
+          "date": "2023-01-12",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Kenneth Madden",
+          "investigatorTitle": "Associate Professor, UBC Department of Medicine",
+          "investigatorAffiliation": "University of British Columbia"
+        },
+        "leadSponsor": {
+          "name": "Kenneth Madden",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "In this study investigator's aim to determine the impact of insulin therapy on hypotension and sarcopenia",
+        "detailedDescription": "Diabetes is common in the elderly. By the age of 70, approximately 25% of the population has diabetes and another 25% is at risk for diabetes. Elderly patients with diabetes are at increased risk for disability and reduction in their instrumental and basic activities of daily living. The prevalence of frailty is higher in people with diabetes that with age matched controls without diabetes. One of the major contributing factors to frailty is sarcopenia.\n\nInsulin is an important anabolic hormone that prevents protein breakdown and to a lesser extent stimulates protein synthesis. There is some evidence that the ability of insulin to stimulate anabolic processes may be reduced in diabetes.\n\nInsulin has cardiovascular properties, resulting in simultaneous adrenergic and vasodilatory responses that have opposing influences on blood pressure. Epidemiological studies have demonstrated that the use of insulin is a risk factor for syncope.\n\nThe investigators will study 30 older adults age 65 and older with type 2 diabetes who have never taken insulin to manage their diabetes but now need insulin to manage their diabetes. Data will be compared pre insulin start and 3 and 6 months after starting insulin."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes",
+          "Sarcopenia",
+          "Hypotension, Orthostatic"
+        ],
+        "keywords": [
+          "Diabetes",
+          "Sarcopenia",
+          "Hypotension",
+          "Tilt Table Test"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 0,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Type 2 Diabetes, Insulin Naive",
+            "description": "Study participants will be tested prior to and 3 and 6 months after starting insulin to manage their diabetes",
+            "interventionNames": [
+              "Drug: Insulin Lispro"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Insulin Lispro",
+            "description": "Insulin",
+            "armGroupLabels": [
+              "Type 2 Diabetes, Insulin Naive"
+            ],
+            "otherNames": [
+              "Humalog"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Body composition",
+            "description": "Measured by DEXA Scan",
+            "timeFrame": "Change from months 0, 3 and 6 months post insulin start"
+          },
+          {
+            "measure": "Grip strength",
+            "description": "measured by Hand Dynamometer",
+            "timeFrame": "Change from months 0, 3 and 6 months post insulin start"
+          },
+          {
+            "measure": "Physical functioning Survey",
+            "description": "measured by the Physical Component Summary from the SF-12 Health",
+            "timeFrame": "Change from months 0, 3 and 6 months post insulin start"
+          },
+          {
+            "measure": "Presence or absence of orthostatic hypotension",
+            "description": "Drop in systolic blood pressure of greater than 20 mmHg after 3 minutes of standing",
+            "timeFrame": "Change from months 0, 3 and 6 months post insulin start"
+          },
+          {
+            "measure": "Nadir of systolic blood pressure during the Tilt Table Test",
+            "description": "Lowest systolic blood pressure obtained during the Tilt Table Test",
+            "timeFrame": "Change from months 0, 3 and 6 months post insulin start"
+          },
+          {
+            "measure": "Nadir of diastolic blood pressure during the Tilt Table Test",
+            "description": "Lowest diastolic blood pressure obtained during the Tilt Table Test",
+            "timeFrame": "Change from months 0, 3 and 6 months post insulin start"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Nadir of middle cerebral artery velocity as measured by transcranial doppler",
+            "description": "Lowest middle cerebral artery velocity obtained during the Tilt Table Test",
+            "timeFrame": "Change from months 0, 3 and 6 months post insulin start"
+          },
+          {
+            "measure": "Presence or absence of a positive Tilt Table Test (vasovagal syncope)",
+            "description": "Sudden drop in blood pressure and heart rate that leads to fainting",
+            "timeFrame": "Change from months 0, 3 and 6 months post insulin start"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* 65 years of age or older\n* Type 2 diabetes for at least 5 years\n* Insulin naive\n* now needs insulin to manage diabetes\n\nExclusion Criteria:\n\n* anemia as defined by serum hematocrit\n* abnormal liver function tests\n* elevated serum creatinine\n* smoked within last 5 years\n* musculoskeletal or neurological condition that would preclude tilt table testing or orthostatic vitals\n* aortic stenosis",
+        "sex": "ALL",
+        "minimumAge": "65 Years",
+        "stdAges": [
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Older adults age 65 and older with type 2 diabetes who do not use insulin to manage their diabetes.",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Madden M Kenneth, MD",
+            "affiliation": "University of British Columbia/Gerontology Research Lab",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of British Columbia - Gerontology Research Lab",
+            "city": "Vancouver",
+            "state": "British Columbia",
+            "zip": "V5Z 1M9",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 49.24966,
+              "lon": -123.11934
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "25455530",
+            "type": "BACKGROUND",
+            "citation": "Morley JE, Malmstrom TK, Rodriguez-Manas L, Sinclair AJ. Frailty, sarcopenia and diabetes. J Am Med Dir Assoc. 2014 Dec;15(12):853-9. doi: 10.1016/j.jamda.2014.10.001. Epub 2014 Nov 20. No abstract available."
+          },
+          {
+            "pmid": "27262494",
+            "type": "BACKGROUND",
+            "citation": "Rizzo MR, Barbieri M, Fava I, Desiderio M, Coppola C, Marfella R, Paolisso G. Sarcopenia in Elderly Diabetic Patients: Role of Dipeptidyl Peptidase 4 Inhibitors. J Am Med Dir Assoc. 2016 Oct 1;17(10):896-901. doi: 10.1016/j.jamda.2016.04.016. Epub 2016 Jun 2."
+          },
+          {
+            "pmid": "24070944",
+            "type": "BACKGROUND",
+            "citation": "Canadian Diabetes Association Clinical Practice Guidelines Expert Committee; Meneilly GS, Knip A, Tessier D. Diabetes in the elderly. Can J Diabetes. 2013 Apr;37 Suppl 1:S184-90. doi: 10.1016/j.jcjd.2013.01.045. Epub 2013 Mar 26. No abstract available."
+          },
+          {
+            "pmid": "23537893",
+            "type": "BACKGROUND",
+            "citation": "Leenders M, Verdijk LB, van der Hoeven L, Adam JJ, van Kranenburg J, Nilwik R, van Loon LJ. Patients with type 2 diabetes show a greater decline in muscle mass, muscle strength, and functional capacity with aging. J Am Med Dir Assoc. 2013 Aug;14(8):585-92. doi: 10.1016/j.jamda.2013.02.006. Epub 2013 Mar 26."
+          },
+          {
+            "pmid": "23196814",
+            "type": "BACKGROUND",
+            "citation": "Bassil MS, Gougeon R. Muscle protein anabolism in type 2 diabetes. Curr Opin Clin Nutr Metab Care. 2013 Jan;16(1):83-8. doi: 10.1097/MCO.0b013e32835a88ee."
+          },
+          {
+            "pmid": "15569132",
+            "type": "BACKGROUND",
+            "citation": "Salle A, Guilloteau G, Ryan M, Bouhanick B, Ritz P. Effect of insulin treatment on the body composition of Type 2 diabetic patients. Diabet Med. 2004 Dec;21(12):1298-303. doi: 10.1111/j.1464-5491.2004.01335.x."
+          },
+          {
+            "pmid": "20721344",
+            "type": "BACKGROUND",
+            "citation": "Gin H, Rigalleau V, Perlemoine C. Insulin therapy and body weight, body composition and muscular strength in patients with type 2 diabetes mellitus. J Nutr Metab. 2010;2010:340570. doi: 10.1155/2010/340570. Epub 2009 Oct 21."
+          },
+          {
+            "pmid": "9791738",
+            "type": "BACKGROUND",
+            "citation": "de Kanter M, Lilja B, Elmstahl S, Eriksson KF, Sundkvist G. A prospective study of orthostatic blood pressure in diabetic patients. Clin Auton Res. 1998 Aug;8(4):189-93. doi: 10.1007/BF02267780."
+          },
+          {
+            "pmid": "17904451",
+            "type": "BACKGROUND",
+            "citation": "Gupta V, Lipsitz LA. Orthostatic hypotension in the elderly: diagnosis and treatment. Am J Med. 2007 Oct;120(10):841-7. doi: 10.1016/j.amjmed.2007.02.023."
+          },
+          {
+            "pmid": "17118224",
+            "type": "BACKGROUND",
+            "citation": "Vinik AI, Erbas T. Cardiovascular autonomic neuropathy: diagnosis and management. Curr Diab Rep. 2006 Dec;6(6):424-30. doi: 10.1007/s11892-006-0074-z."
+          },
+          {
+            "pmid": "9500557",
+            "type": "BACKGROUND",
+            "citation": "Tack CJ, Lenders JW, Willemsen JJ, van Druten JA, Thien T, Lutterman JA, Smits P. Insulin stimulates epinephrine release under euglycemic conditions in humans. Metabolism. 1998 Mar;47(3):243-9. doi: 10.1016/s0026-0495(98)90251-7."
+          },
+          {
+            "pmid": "8522054",
+            "type": "BACKGROUND",
+            "citation": "Tack CJ, Smits P, Willemsen JJ, Lenders JW, Thien T, Lutterman JA. Effects of insulin on vascular tone and sympathetic nervous system in NIDDM. Diabetes. 1996 Jan;45(1):15-22. doi: 10.2337/diab.45.1.15."
+          },
+          {
+            "pmid": "11230783",
+            "type": "BACKGROUND",
+            "citation": "Meneilly GS, Elliott T, Battistini B, Floras JS. N(G)-monomethyl-L-arginine alters insulin-mediated calf blood flow but not glucose disposal in the elderly. Metabolism. 2001 Mar;50(3):306-10. doi: 10.1053/meta.2001.19493."
+          },
+          {
+            "pmid": "3090090",
+            "type": "BACKGROUND",
+            "citation": "Lipsitz LA, Pluchino FC, Wei JY, Rowe JW. Syncope in institutionalized elderly: the impact of multiple pathological conditions and situational stress. J Chronic Dis. 1986;39(8):619-30. doi: 10.1016/0021-9681(86)90187-6."
+          },
+          {
+            "pmid": "12766740",
+            "type": "BACKGROUND",
+            "citation": "Ruiz GA, Calvar C, Hermes R, Rivadeneira D, Bengolea V, Chirife R, Tentori MC, Gelpi RJ. Insulin sensitivity in young women with vasovagal syncope. Am Heart J. 2003 May;145(5):834-40. doi: 10.1016/S0002-8703(02)94707-1."
+          },
+          {
+            "pmid": "1638718",
+            "type": "BACKGROUND",
+            "citation": "Stratton JR, Cerqueira MD, Schwartz RS, Levy WC, Veith RC, Kahn SE, Abrass IB. Differences in cardiovascular responses to isoproterenol in relation to age and exercise training in healthy men. Circulation. 1992 Aug;86(2):504-12. doi: 10.1161/01.cir.86.2.504."
+          },
+          {
+            "pmid": "18716048",
+            "type": "BACKGROUND",
+            "citation": "Madden KM, Tedder G, Lockhart C, Meneilly GS. Euglycemic hyperinsulinemia alters the response to orthostatic stress in older adults with type 2 diabetes. Diabetes Care. 2008 Nov;31(11):2203-8. doi: 10.2337/dc08-1058. Epub 2008 Aug 20."
+          },
+          {
+            "pmid": "27568020",
+            "type": "BACKGROUND",
+            "citation": "Sergi G, De Rui M, Stubbs B, Veronese N, Manzato E. Measurement of lean body mass using bioelectrical impedance analysis: a consideration of the pros and cons. Aging Clin Exp Res. 2017 Aug;29(4):591-597. doi: 10.1007/s40520-016-0622-6. Epub 2016 Aug 27."
+          },
+          {
+            "pmid": "1563252",
+            "type": "BACKGROUND",
+            "citation": "Ziegler D, Laux G, Dannehl K, Spuler M, Muhlen H, Mayer P, Gries FA. Assessment of cardiovascular autonomic function: age-related normal ranges and reproducibility of spectral analysis, vector analysis, and standard tests of heart rate variation and blood pressure responses. Diabet Med. 1992 Mar;9(2):166-75. doi: 10.1111/j.1464-5491.1992.tb01754.x."
+          },
+          {
+            "pmid": "16129869",
+            "type": "BACKGROUND",
+            "citation": "Rockwood K, Song X, MacKnight C, Bergman H, Hogan DB, McDowell I, Mitnitski A. A global clinical measure of fitness and frailty in elderly people. CMAJ. 2005 Aug 30;173(5):489-95. doi: 10.1503/cmaj.050051."
+          },
+          {
+            "pmid": "12164986",
+            "type": "BACKGROUND",
+            "citation": "Del Rosso A, Ungar A, Bartoli P, Cellai T, Mussi C, Marchionni N, Masotti G; Gruppo Italiano di Studio Della Sincope Dell'anziano. Usefulness and safety of shortened head-up tilt testing potentiated with sublingual glyceryl trinitrate in older patients with recurrent unexplained syncope. J Am Geriatr Soc. 2002 Aug;50(8):1324-8. doi: 10.1046/j.1532-5415.2002.50351.x."
+          },
+          {
+            "pmid": "10926954",
+            "type": "BACKGROUND",
+            "citation": "Lipsitz LA, Mukai S, Hamner J, Gagnon M, Babikian V. Dynamic regulation of middle cerebral artery blood flow velocity in aging and hypertension. Stroke. 2000 Aug;31(8):1897-903. doi: 10.1161/01.str.31.8.1897."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D055948",
+            "term": "Sarcopenia"
+          },
+          {
+            "id": "D007024",
+            "term": "Hypotension, Orthostatic"
+          },
+          {
+            "id": "D007022",
+            "term": "Hypotension"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D009133",
+            "term": "Muscular Atrophy"
+          },
+          {
+            "id": "D020879",
+            "term": "Neuromuscular Manifestations"
+          },
+          {
+            "id": "D009461",
+            "term": "Neurologic Manifestations"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D001284",
+            "term": "Atrophy"
+          },
+          {
+            "id": "D020763",
+            "term": "Pathological Conditions, Anatomical"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D054971",
+            "term": "Orthostatic Intolerance"
+          },
+          {
+            "id": "D054969",
+            "term": "Primary Dysautonomias"
+          },
+          {
+            "id": "D001342",
+            "term": "Autonomic Nervous System Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D061268",
+            "term": "Insulin Lispro"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D061266",
+            "term": "Insulin, Short-Acting"
+          },
+          {
+            "id": "D061385",
+            "term": "Insulins"
+          },
+          {
+            "id": "D010187",
+            "term": "Pancreatic Hormones"
+          },
+          {
+            "id": "D036361",
+            "term": "Peptide Hormones"
+          },
+          {
+            "id": "D006728",
+            "term": "Hormones"
+          },
+          {
+            "id": "D006730",
+            "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          },
+          {
+            "id": "D010455",
+            "term": "Peptides"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604478"
+}

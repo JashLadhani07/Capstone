@@ -1,0 +1,23 @@
+{
+  "pmid": "27113199",
+  "title": "Reporting on the Strategies Needed to Implement Proven Interventions: An Example From a \"Real-World\" Cross-Setting Implementation Study.",
+  "abstract": "The objective of this study was to empirically demonstrate the use of a new framework for describing the strategies used to implement quality improvement interventions and provide an example that others may follow. Implementation strategies are the specific approaches, methods, structures, and resources used to introduce and encourage uptake of a given intervention's components. Such strategies have not been regularly reported in descriptions of interventions' effectiveness, or in assessments of how proven interventions are implemented in new settings. This lack of reporting may hinder efforts to successfully translate effective interventions into \"real-world\" practice. A recently published framework was designed to standardize reporting on implementation strategies in the implementation science literature. We applied this framework to describe the strategies used to implement a single intervention in its original commercial care setting, and when implemented in community health centers from September 2010 through May 2015. Per this framework, the target (clinic staff) and outcome (prescribing rates) remained the same across settings; the actor, action, temporality, and dose were adapted to fit local context. The framework proved helpful in articulating which of the implementation strategies were kept constant and which were tailored to fit diverse settings, and simplified our reporting of their effects. Researchers should consider consistently reporting this information, which could be crucial to the success or failure of implementing proven interventions effectively across diverse care settings. clinicaltrials.gov Identifier: NCT02299791.",
+  "journal": "Mayo Clinic proceedings",
+  "pub_date": "2016-Aug",
+  "authors": [
+    "Gold, Rachel",
+    "Bunce, Arwen E",
+    "Cohen, Deborah J",
+    "Hollombe, Celine",
+    "Nelson, Christine A",
+    "Proctor, Enola K",
+    "Pope, Jill A",
+    "DeVoe, Jennifer E"
+  ],
+  "nct_ids_referenced": [
+    "NCT02299791"
+  ],
+  "source": "pubmed",
+  "word_count": 228,
+  "parsed_at": "2026-10-30T10:29:23.844114"
+}

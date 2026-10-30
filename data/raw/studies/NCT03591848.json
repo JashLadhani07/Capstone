@@ -1,0 +1,249 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03591848",
+      "orgStudyIdInfo": {
+        "id": "K171005J"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2017-A03008-45",
+          "type": "REGISTRY",
+          "domain": "ID-RCB"
+        }
+      ],
+      "organization": {
+        "fullName": "Assistance Publique - H\u00f4pitaux de Paris",
+        "class": "OTHER"
+      },
+      "briefTitle": "Pilot Study of a Web-based Decision Aid for Young Women With Breast Cancer, During the Proposal for Preservation of Fertility",
+      "officialTitle": "Evaluation of an Online Decision Support Tool for Young Women With Breast Cancer During the Proposal for Preservation of Fertility",
+      "acronym": "DECISIF"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-09-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-03-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-03-17",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2018-07-09",
+      "studyFirstSubmitQcDate": "2018-07-18",
+      "studyFirstPostDateStruct": {
+        "date": "2018-07-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Assistance Publique - H\u00f4pitaux de Paris",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "URC-CIC Paris Descartes Necker Cochin",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Comparative study of two information modalities during the care course, aiming to propose the preservation of fertility to young women with breast cancer (but not yet under treatment): standard oral information during the PF consultation vs. an online decision support tool, consulted prior to the PF consultation, during which the standard oral information is provided.",
+      "detailedDescription": "In recent decades, the incidence of breast cancer has increased significantly among young women. Between 1980 and 2012, there was an increase of 59% and 53% in the 30-39 age group and the 40-49 age group, respectively. However, both diagnostic and therapeutic advances made it possible to significantly reduce mortality, at the cost of potentially deleterious chemotherapeutic treatments for reproductive function. These treatments may therefore be the cause of a chronic pathology \"infertility\" that may negatively impact the quality of life of young breast cancer survivors.\n\nSince 2004, in France, the preservation of fertility (PF) is part of the different laws of bioethics. The latest cancer plans have highlighted the importance of quality of life in patients cured of cancer. For young women, this often involves the possibility of accessing maternity, using their own gametes. Thus, access to an onco fertility consultation should be systematically proposed, ideally before the initiation of any cancer treatment.\n\nWhile the importance of oncofertility consultations is now recognized, they raise a certain number of ethical questions, particularly as to the nature of the information to be transmitted, whether it is generalizable or not, and how it is delivered and supported.\n\nVery little data on the value of decision support tools in PF for women with breast cancer are available, while the concept of \"shared medical decision\" is becoming increasingly important in the doctor-patient relationship.\n\nThe only available studies have shown that these tools can reduce the level of decisional conflict and regret over fertility-related treatment options, and improve knowledge about fertility and satisfaction among young women.\n\nThis study aims to compare two modalities of delivery of information to breast cancer patients (not yet under treatment): standard oral information during the prevention of fertility (PF) consultation vs. an online decision support tool, consulted prior to the PF consultation, during which the standard oral information is provided."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "keywords": [
+        "Breast cancer",
+        "Preservation of fertility",
+        "Online support decision tool"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 186,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "DECISIF",
+          "type": "EXPERIMENTAL",
+          "description": "Exposed to an online support decision tool, in addition of the standard oral information",
+          "interventionNames": [
+            "Behavioral: Online support decision tool",
+            "Behavioral: standard oral information"
+          ]
+        },
+        {
+          "label": "IRIS",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Exposed to a standard oral information",
+          "interventionNames": [
+            "Behavioral: standard oral information"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Online support decision tool",
+          "description": "Online support decision tool, in addition of the standard oral information",
+          "armGroupLabels": [
+            "DECISIF"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "standard oral information",
+          "description": "standard oral information",
+          "armGroupLabels": [
+            "DECISIF",
+            "IRIS"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Multidimensional Measure of Informed Choice (MMIC)",
+          "description": "Measure of patient autonomy for making decision, according to the Multidimensional Measure of Informed Choice (MMIC).\n\nA series of closed questions (based on the Osgoog's scale) on their feelings about this fertility preservation approach, describing attitudes in regards to \"good / bad\", \"important / unimportant\", \"unhelpful\" good thing / bad thing, \"\" pleasant / unpleasant \"and\" useful / useless \". Responses go from \"very positive\" (1) to \"very negative\" (7).",
+          "timeFrame": "1 day (During the PF consultation)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Decisional Conflict Scale Measure on",
+          "description": "patient's decision-making discomfort, specific support needs for decision-making, the quality of decision making, the impact of supportive interventions on health decision-making.",
+          "timeFrame": "1 day (at the end of the PF consultation)"
+        },
+        {
+          "measure": "Anxiety",
+          "description": ": the 6 items of State and Trait Anxiety Inventory \\[55\\] \\[56\\], a reliable and sensitive measure of anxiety will be used to assess emotional disturbance. It consists of 6 items, indicating the lowest level of anxiety (1 = not at all) and 4 the highest (4 = very much), with a reverse rating items. The items are summated multiplied by 20 and divided by 6. Patients with scores\\> 50 are considered to have a high level of anxiety.",
+          "timeFrame": "1 day ( at the end of the PF consultation)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 18-40 years women\n* with breast cancer\n* cancer treatment not started, no antecedent of chemotherapy\n* speaking French\n* affiliated in Social Insurance\n\nExclusion Criteria:\n\n* recurrence of breast cancer\n* metastatic breast cancer\n* pregnancy in progress\n* Adults protected (wardship, guardianship, protection of justice)",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "40 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Micha\u00ebl GRYNBERG, PhD",
+          "affiliation": "Assistance Publique - H\u00f4pitaux de Paris",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Reproduction medicine and fertility preservation ANTOINE BECLERE Hospital",
+          "city": "Clamart",
+          "zip": "92140",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.80299,
+            "lon": 2.26692
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "32047010",
+          "type": "RESULT",
+          "citation": "Benoit A, Grynberg M, Morello R, Sermondade N, Grandazzi G, Moutel G. Does a web-based decision aid improve informed choice for fertility preservation in women with breast cancer (DECISIF)? Study protocol for a randomised controlled trial. BMJ Open. 2020 Feb 10;10(2):e031739. doi: 10.1136/bmjopen-2019-031739."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001943",
+          "term": "Breast Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001941",
+          "term": "Breast Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

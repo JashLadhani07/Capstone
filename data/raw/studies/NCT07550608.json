@@ -1,0 +1,263 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07550608",
+      "orgStudyIdInfo": {
+        "id": "SZMC - 0272-23"
+      },
+      "organization": {
+        "fullName": "Shaare Zedek Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effects of Pre-Exercise Basal Insulin Manipulation on Glucose Dynamics in Females vs. Males With Type 1 Diabetes",
+      "officialTitle": "Effects of Pre-Exercise Basal Insulin Manipulation on Glucose Dynamics in Females vs. Males With Type 1 Diabetes: A Cross-Over Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-10-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-07-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-07-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2026-04-19",
+      "studyFirstSubmitQcDate": "2026-04-19",
+      "studyFirstPostDateStruct": {
+        "date": "2026-04-24",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-04-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-04-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Naama Constantini",
+        "investigatorTitle": "Prof.",
+        "investigatorAffiliation": "Shaare Zedek Medical Center"
+      },
+      "leadSponsor": {
+        "name": "Naama Constantini",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The Purpose of the Study The purpose of this study is to compare how blood sugar levels change during exercise in men and women with type 1 diabetes (T1D). Researchers want to understand if biological sex affects the risk of low blood sugar (hypoglycemia) during physical activity. Additionally, the study examines whether reducing the background (basal) insulin dose before exercise is effective at keeping blood sugar stable.\n\nStudy Population The study includes active adults (men and women) aged 18-45 who have lived with type 1 diabetes for at least 18 months and use an insulin pump.\n\nWhat Happens During the Study\n\nParticipants complete three laboratory visits:\n\nVisit 1: A fitness test on a treadmill to measure the participant's aerobic capacity.\n\nVisits 2 \\& 3: Two 60-minute moderate-intensity exercise sessions on a treadmill.\n\nIn one session, participants reduce their basal insulin by 50% starting 90-120 minutes before exercising.\n\nIn the other session, they maintain their usual insulin dose.\n\nResearchers measure blood sugar every 10 minutes during exercise and collect blood samples before and after the sessions to monitor hormone levels.\n\nStudy Design This is a randomized crossover study, meaning every participant performs both exercise strategies in a random order to serve as their own control.",
+      "detailedDescription": "Background and Rationale:\n\nPhysical activity is highly recommended for individuals with type 1 diabetes (T1D), but managing blood glucose during exercise remains a significant challenge. A common strategy to prevent exercise-induced hypoglycemia (low blood sugar) is the reduction of the basal insulin infusion rate (BIRR) before starting physical activity. However, most guidelines are based on research conducted primarily in male cohorts. This study aims to address this knowledge gap by characterizing sex differences in glucose dynamics during prolonged moderate-intensity exercise and evaluating the effectiveness of a 50% BIRR strategy in both men and women.\n\nStudy Design:\n\nThis study follows a prospective, randomized, crossover design. Each participant serves as their own control, completing two distinct experimental exercise sessions in a randomized order to compare different insulin management strategies.\n\nStudy Procedures:\n\nParticipants complete three separate visits to the laboratory:\n\nVisit 1 (Screening and Preliminary Assessment):\n\nParticipants undergo medical screening and a graded exercise test on a motorized treadmill. This test determines maximal aerobic capacity (VO2 peak) and the first ventilatory threshold (VT1). These results are used to set a personalized, moderate exercise intensity for the subsequent sessions.\n\nVisits 2 and 3 (Experimental Exercise Sessions):\n\nParticipants perform a 60-minute exercise bout on a treadmill at a moderate intensity (90% of the heart rate at VT1). These sessions are scheduled at least 48 hours apart.\n\nThe two experimental conditions are:\n\nINS\\_RED: Participants reduce their basal insulin infusion rate by 50% starting 90 to 120 minutes before the exercise bout.\n\nINS\\_FULL: Participants maintain their habitual basal insulin infusion rate without any adjustment.\n\nStandardization and Safety Protocols:\n\nPre-exercise State: All participants arrive at the lab after a 4-hour fast to minimize the impact of recent meals on blood sugar.\n\nMenstrual Cycle Control: To control for the impact of sex hormones on metabolism, female participants are tested exclusively during the early follicular phase (days 1-7 of the menstrual cycle).\n\nGlucose Monitoring: Capillary blood glucose (CBG) is measured every 10 minutes during the 60-minute exercise period.\n\nHypoglycemia Management: If blood glucose falls below 70 mg/dL, exercise is paused, and participants are given 16-23 grams of standardized glucose. Exercise is resumed only after blood glucose levels rise above 70 mg/dL.\n\nData Truncation: For the analysis of glucose dynamics, data is analyzed up to the point of the first hypoglycemic event to accurately reflect the rate of decline.\n\nScientific Measurements:\n\nPrimary Outcome: The mean rate of glucose decline, the incidence of hypoglycemia, and the time taken to reach hypoglycemic thresholds.\n\nBlood Markers: Venous blood samples are collected before and immediately after exercise to measure circulating insulin, glucagon, cortisol, adrenaline, and sex hormones.\n\nMetabolic Assessment: Respiratory gas exchange is measured during exercise to determine the participant's use of carbohydrates and fats for energy (substrate oxidation)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 1 Diabetes"
+      ],
+      "keywords": [
+        "type 1 diabetes",
+        "basal insulin rate reduction",
+        "physical activity",
+        "aerobic activity"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "interventionModelDescription": "This randomized, two-period, two-sequence crossover study stratifies participants by biological sex. Participants are randomly assigned to one of two sequences:\n\nSequence A: 60-minute moderate-intensity exercise with a 50% basal insulin reduction (INS\\_RED) 90-120 mins pre-exercise, followed by a minimum 48-hour washout, then the same exercise session with the full habitual basal dose (INS\\_FULL).\n\nSequence B: 60-minute exercise with the full habitual dose (INS\\_FULL), followed by a minimum 48-hour washout, then exercise with a 50% basal reduction (INS\\_RED).\n\nRandomization:\n\nBlock randomization within each sex strata ensures an equal distribution of starting conditions. To minimize hormonal influence on glucose metabolism, sessions for female participants are scheduled during the early follicular phase of the menstrual cycle.",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 18,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "50% Basal Insulin Reduction (INS_RED)",
+          "type": "OTHER",
+          "description": "Participants perform a 60-minute moderate-intensity treadmill session after reducing their habitual basal insulin infusion rate by 50%. This reduction is initiated 90-120 minutes before the start of exercise.",
+          "interventionNames": [
+            "Other: 50% Pre-Exercise Basal Insulin Rate Reduction (BIRR)",
+            "Other: Habitual Basal Insulin Rate Maintenance"
+          ]
+        },
+        {
+          "label": "Full Habitual Basal Insulin (INS_FULL)",
+          "type": "OTHER",
+          "description": "Participants perform a 60-minute moderate-intensity treadmill session while maintaining their full habitual basal insulin infusion rate (no adjustment made prior to or during exercise).",
+          "interventionNames": [
+            "Other: 50% Pre-Exercise Basal Insulin Rate Reduction (BIRR)",
+            "Other: Habitual Basal Insulin Rate Maintenance"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "50% Pre-Exercise Basal Insulin Rate Reduction (BIRR)",
+          "description": "Participants are instructed to reduce their habitual basal insulin infusion rate by 50% using their continuous subcutaneous insulin infusion (CSII) pump. This reduction is initiated 90 to 120 minutes prior to the start of the 60-minute moderate-intensity treadmill exercise bout. The intervention is designed to evaluate if this proactive reduction mitigates the risk of exercise-induced hypoglycemia in both male and female recreational athletes with type 1 diabetes.",
+          "armGroupLabels": [
+            "50% Basal Insulin Reduction (INS_RED)",
+            "Full Habitual Basal Insulin (INS_FULL)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Habitual Basal Insulin Rate Maintenance",
+          "description": "Participants perform a 60-minute moderate-intensity treadmill exercise bout while maintaining their full habitual basal insulin infusion rate as programmed in their CSII pump. No adjustments, reductions, or suspensions of the basal rate are made prior to or during the exercise session. This condition serves as the active comparator to evaluate standard glucose dynamics without anticipatory insulin manipulation.",
+          "armGroupLabels": [
+            "50% Basal Insulin Reduction (INS_RED)",
+            "Full Habitual Basal Insulin (INS_FULL)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Mean Rate of Capillary Blood Glucose (CBG) Decline",
+          "description": "The average rate at which blood glucose levels decrease during the 60-minute moderate-intensity exercise session, measured in mg/dL per 10 minutes. This metric is used to characterize glucose dynamics and compare the impact of insulin reduction versus full dose across biological sexes.",
+          "timeFrame": "During the 60-minute exercise session."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Incidence of Exercise-Induced Hypoglycemia",
+          "description": "The number of participants who reach a capillary blood glucose threshold of \\<70 mg/dL (3.9 mmol/L) during the exercise bout.",
+          "timeFrame": "During the 60-minute exercise session."
+        },
+        {
+          "measure": "Time to Onset of Hypoglycemia",
+          "description": "The duration (in minutes) from the start of exercise until the first recorded blood glucose measurement below 70 mg/dL.",
+          "timeFrame": "During the 60-minute exercise session."
+        },
+        {
+          "measure": "Changes in Plasma Counter-Regulatory Hormone Levels",
+          "description": "Changes in concentrations of glucagon, cortisol, and adrenaline from pre-exercise to immediate post-exercise. This assesses the physiological stress and metabolic response to the combined challenge of exercise and insulin manipulation.",
+          "timeFrame": "Baseline (pre-exercise) and 60 minutes (immediately post-exercise)."
+        },
+        {
+          "measure": "Substrate Utilization (Respiratory Exchange Ratio)",
+          "description": "The ratio between carbon dioxide production (VCO2) and oxygen consumption (VO2) measured via breath-by-breath gas exchange. This is used to estimate the relative contribution of carbohydrate and lipid oxidation during exercise.",
+          "timeFrame": "Throughout the 60-minute exercise session."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults aged 18 to 45 years.\n* Diagnosis of Type 1 Diabetes (T1D) for at least 18 months.\n* Current use of an insulin pump (Continuous Subcutaneous Insulin Infusion - CSII) for diabetes management.\n* Regular physical activity level, defined as at least 150 minutes of aerobic exercise per week across three or more sessions for at least 4 weeks prior to the study.\n* Ability to perform 60 minutes of continuous treadmill running.\n* Aerobic fitness level (VO2peak) of \u2265 30 mL\u00b7kg-\u00b9\u00b7min-\u00b9 for females or \u2265 32 mL\u00b7kg-\u00b9\u00b7min-\u00b9 for males.\n\nExclusion Criteria:\n\n* Most recent HbA1c \\> 9.9% (85 mmol/mol).\n* C-peptide levels \u2265 0.7 nmol/L.\n* Presence of significant diabetes complications (e.g., proliferative retinopathy, nephropathy, or symptomatic neuropathy).\n* Use of concomitant medications affecting glucose metabolism other than insulin (e.g., steroids, SGLT2 inhibitors, GLP-1 receptor agonists, or non-selective beta-blockers).\n* History of hypoglycemia unawareness.\n* Occurrence of severe hypoglycemia resulting in seizure, coma, or hospitalization within the 6 months prior to recruitment.\n* Adherence to a low-carbohydrate or ketogenic diet (\\<30 g of carbohydrates per day).\n* Current engagement in shift work.\n* For female participants: presence of primary or secondary amenorrhea (cessation of menstruation for \\>12 months).\n* Uncontrolled hypertension (Systolic BP \\> 200 mmHg or Diastolic BP \\> 110 mmHg).\n* Known cardiovascular disease or significant cardiovascular risk factors (e.g., ischemic heart disease).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "45 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Sylvan Adams Sport Institute, Tel Aviv University",
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.08088,
+            "lon": 34.78057
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "33047481",
+          "type": "BACKGROUND",
+          "citation": "Moser O, Riddell MC, Eckstein ML, Adolfsson P, Rabasa-Lhoret R, van den Boom L, Gillard P, Norgaard K, Oliver NS, Zaharieva DP, Battelino T, de Beaufort C, Bergenstal RM, Buckingham B, Cengiz E, Deeb A, Heise T, Heller S, Kowalski AJ, Leelarathna L, Mathieu C, Stettler C, Tauschmann M, Thabit H, Wilmot EG, Sourij H, Smart CE, Jacobs PG, Bracken RM, Mader JK. Glucose management for exercise using continuous glucose monitoring (CGM) and intermittently scanned CGM (isCGM) systems in type 1 diabetes: position statement of the European Association for the Study of Diabetes (EASD) and of the International Society for Pediatric and Adolescent Diabetes (ISPAD) endorsed by JDRF and supported by the American Diabetes Association (ADA). Pediatr Diabetes. 2020 Dec;21(8):1375-1393. doi: 10.1111/pedi.13105. Epub 2020 Oct 13."
+        },
+        {
+          "pmid": "28126459",
+          "type": "BACKGROUND",
+          "citation": "Riddell MC, Gallen IW, Smart CE, Taplin CE, Adolfsson P, Lumb AN, Kowalski A, Rabasa-Lhoret R, McCrimmon RJ, Hume C, Annan F, Fournier PA, Graham C, Bode B, Galassetti P, Jones TW, Millan IS, Heise T, Peters AL, Petz A, Laffel LM. Exercise management in type 1 diabetes: a consensus statement. Lancet Diabetes Endocrinol. 2017 May;5(5):377-390. doi: 10.1016/S2213-8587(17)30014-1. Epub 2017 Jan 24."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Individual participant data will not be shared to protect participant privacy and confidentiality. Given the small sample size and the detailed nature of the metabolic and clinical data collected, there is a risk of potential re-identification."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        },
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,1848 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03898206",
+      "orgStudyIdInfo": {
+        "id": "2019ISPAR003"
+      },
+      "organization": {
+        "fullName": "University of Bedfordshire",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effects of Breaking up Prolonged Sitting on Postprandial Cardiometabolic Disease Risk Markers in South Asian Adults",
+      "officialTitle": "Effects of Breaking up Prolonged Sitting on Postprandial Cardiometabolic Disease Risk Markers in Normal Weight Versus Overweight and Obese South Asian Adults"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-04-26",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-03-20",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-03-20",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-03-28",
+      "studyFirstSubmitQcDate": "2019-03-28",
+      "studyFirstPostDateStruct": {
+        "date": "2019-04-01",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-09-03",
+      "resultsFirstSubmitQcDate": "2026-04-19",
+      "resultsFirstPostDateStruct": {
+        "date": "2026-04-21",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-04-19",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-04-21",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Dr Daniel Bailey",
+        "investigatorTitle": "Reader in Sedentary Behaviour and Health",
+        "investigatorAffiliation": "University of Bedfordshire"
+      },
+      "leadSponsor": {
+        "name": "University of Bedfordshire",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Brunel University",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to examine whether breaking up prolonged sitting with short regular bouts of walking can reduce blood sugar and cholesterol levels after eating, which are risk markers for Type 2 diabetes and heart disease. This study will compare these responses in normal-weight versus overweight/obese South Asian adults.",
+      "detailedDescription": "Participants will attend a preliminary testing session where height, weight, body fat and waist circumference will be measured. They will be familiarised with a motorised treadmill that will be used during the experimental visit below and will take part in an exercise test to determine a light-intensity walking speed for the experimental visit.\n\nParticipants will then attend two experimental visits in a random order:\n\n1. Prolonged sitting (SIT): Participants will remain seated for 5 hours and instructed to reduce excessive movement.\n2. Breaking up sitting with walking breaks (INT-SIT): Participants will rise from the seated position every 30 minutes throughout the experimental period to walk on a motorised treadmill at a light intensity for 5 minutes. After performing walking activity, they will return to the seated position. In addition, blood sample will be taken at the resting position just before each physical activity bout. The activity breaks will be undertaken on 9 occasions, providing a total of 45 min of light-intensity activity.\n\nDuring each visit, blood pressure will be taken 11 times and blood samples will be taken 10 times. Participants will be given a breakfast and lunch meal to consume."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiovascular Risk Factor",
+        "Cardiovascular Diseases",
+        "Diabetes",
+        "Physical Activity",
+        "Sedentary Lifestyle"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 54,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Prolonged sitting (SIT), then breaking up sitting with walking breaks (INT-SIT)",
+          "type": "EXPERIMENTAL",
+          "description": "Firstly, participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void. After a washout period of at least 3 days, they then performed the INT-SIT condition.\n\nProlonged sitting (SIT): See SIT arm description Breaking up sitting with walking breaks (INT-SIT): See INT-SIT arm description",
+          "interventionNames": [
+            "Other: Prolonged sitting (SIT)"
+          ]
+        },
+        {
+          "label": "Breaking up sitting with walking breaks (INT-SIT), then prolonged sitting (SIT)",
+          "type": "EXPERIMENTAL",
+          "description": "Firstly, participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing a walking activity, they will return to the seated position. After a washout period of at least 3 days, they then performed the SIT condition.\n\nSIT : See SIT arm description",
+          "interventionNames": [
+            "Other: Breaking up sitting with walking breaks (INT-SIT)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Breaking up sitting with walking breaks (INT-SIT)",
+          "description": "See Breaking up sitting with walking breaks arm description",
+          "armGroupLabels": [
+            "Breaking up sitting with walking breaks (INT-SIT), then prolonged sitting (SIT)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Prolonged sitting (SIT)",
+          "description": "See Prolonged sitting arm description",
+          "armGroupLabels": [
+            "Prolonged sitting (SIT), then breaking up sitting with walking breaks (INT-SIT)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Postprandial Glucose",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for glucose",
+          "timeFrame": "Measured over the 5 hour condition period"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Postprandial Triglycerides",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for triglycerides",
+          "timeFrame": "Measured over the 5 hour condition period"
+        },
+        {
+          "measure": "Postprandial Insulin",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for insulin",
+          "timeFrame": "Measured over the 5 hour condition period"
+        },
+        {
+          "measure": "Metabolic Load Index",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for the Metabolic Load Index (MLI).\n\nThe MLI will be calculated using the following equation:\n\nMLI (mmol.L-1) = blood glucose (mmol.L-1) + TAG (mmol.L-1). Lower values of MLI are considered better for cardiometabolic health!",
+          "timeFrame": "Measured over the 5 hour condition period"
+        },
+        {
+          "measure": "Resting Energy Expenditure",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for resting energy expenditure",
+          "timeFrame": "Measured for the 5 hour condition period"
+        },
+        {
+          "measure": "Resting Fat Oxidation",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for resting fat oxidation",
+          "timeFrame": "Measured for the 5 hour condition period"
+        },
+        {
+          "measure": "Resting Carbohydrate Oxidation",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for resting carbohydrate oxidation",
+          "timeFrame": "Measured for the 5 hour condition period"
+        },
+        {
+          "measure": "Mean Arterial Pressure",
+          "description": "Mean Arterial Pressure (MAP) over the 5 h conditions.\n\nThe following formula will be used to calculate MAP, where P is blood pressure (systolic or diastolic):\n\nMAP = PDiastolic + 1/3 (PSystolic - PDiastolic).",
+          "timeFrame": "Measured over the 5 hour condition period"
+        },
+        {
+          "measure": "Heart Rate",
+          "description": "Mean heart rate over the 5 h conditions",
+          "timeFrame": "Measured over the 5 hour condition period"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identified South Asian ethnicity.\n* Self-report sitting at least 7 hours per day.\n* Normal weight, overweight or obese.\n\nExclusion Criteria:\n\n* Unable to speak and read English.\n* Contraindications to performing light-intensity walking.\n* Diagnosed cardiovascular disease or diabetes.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "University of Bedfordshire",
+          "city": "Bedford",
+          "state": "Bedfordshire",
+          "zip": "MK41 9EA",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.13459,
+            "lon": -0.46632
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Due to an acute bout of physical activity enhancing insulin sensitivity for up to 72 h, each condition was separated by a minimum of three days to eliminate potential carryover effects of the activity conditions. Female participants were asked to indicate the expected date of their menstruation. Based on the information, they were tested between 1 and 10 days in their follicular phase only to minimise the influence of hormonal fluctuations on blood glucose concentrations.",
+      "recruitmentDetails": "A total of 54 South Asians (BMI\\>18.0 kg.m\\^2) aged between 18 and 75 years who were able to walk and perform LPA were recruited; data collection was performed between April 2019 and March 2020.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Prolonged Sitting (SIT), Then Breaking up Sitting With Walking Breaks (INT-SIT) in Normal-weight",
+          "description": "Firstly, participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void. After a washout period of at least 3 days, they then performed the INT-SIT condition.\n\nBreaking up sitting with walking breaks (INT-SIT): See INT-SIT arm description"
+        },
+        {
+          "id": "FG001",
+          "title": "Breaking up Sitting With Walking Breaks (INT-SIT), Then Prolonged Sitting (SIT) in Normal-weight",
+          "description": "Firstly, participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing a walking activity, they will return to the seated position. After a washout period of at least 3 days, they then performed the SIT condition.\n\nProlonged sitting (SIT): See SIT arm description"
+        },
+        {
+          "id": "FG002",
+          "title": "Prolonged Sitting (SIT), Then Breaking up Sitting With Walking Breaks (INT-SIT) in Overweight/Obese",
+          "description": "Firstly, participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void. After a washout period of at least 3 days, they then performed the INT-SIT condition.\n\nBreaking up sitting with walking breaks (INT-SIT): See INT-SIT arm description"
+        },
+        {
+          "id": "FG003",
+          "title": "Breaking up Sitting With Walking Breaks (INT-SIT), Then Prolonged Sitting (SIT) in Overweight/Obese",
+          "description": "Firstly, participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing a walking activity, they will return to the seated position. After a washout period of at least 3 days, they then performed the SIT condition.\n\nProlonged sitting (SIT): See SIT arm description"
+        }
+      ],
+      "periods": [
+        {
+          "title": "First Intervention (1 day)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Washout (3 days)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Second Intervention (1 day)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "9"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "11"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Participants were unable to attend the laboratory due to COVID-19 first national lockdown.",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "11"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Normal-weight South Asians (BMI between 18.0 to 22.90 kg/m\\^2) were defined as anyone identifying themselves as South Asian or Asian British or South Asian British (i.e., Bangladeshi, Indian, Nepali, Pakistani, and Sri-Lankan).\n\nOverweight/obese South Asians (BMI between \\>23.0 kg/m\\^2) were defined as anyone identifying themselves as South Asian or Asian British or South Asian British (i.e., Bangladeshi, Indian, Nepali, Pakistani, and Sri-Lankan).",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "All Study Participants With Normal Weight",
+          "description": "All participants with normal weight were randomised to receive all interventions, including the SIT and INT-SIT.\n\nProlonged sitting (SIT): See SIT arm description\n\nBreaking up sitting with walking breaks (INT-SIT): See INT-SIT arm description"
+        },
+        {
+          "id": "BG001",
+          "title": "All Study Participants With Overweight/Obese",
+          "description": "All participants with overweight/obese were randomised to receive all interventions, including the SIT and INT-SIT.\n\nProlonged sitting (SIT): See SIT arm description\n\nBreaking up sitting with walking breaks (INT-SIT): See INT-SIT arm description"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "14"
+            },
+            {
+              "groupId": "BG001",
+              "value": "40"
+            },
+            {
+              "groupId": "BG002",
+              "value": "54"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "46.4",
+                      "spread": "19.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "44.1",
+                      "spread": "14.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "44.7",
+                      "spread": "15.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "title": "Sub-Ethnic origin",
+              "categories": [
+                {
+                  "title": "Bangladeshi",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Indian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "27"
+                    }
+                  ]
+                },
+                {
+                  "title": "Paskistani",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "Nepali",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United Kingdom",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "108"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body mass index (BMI)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21.3",
+                      "spread": "7.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "27.1",
+                      "spread": "4.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26.1",
+                      "spread": "4.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "% of Body fat",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "%",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23.6",
+                      "spread": "5.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32.6",
+                      "spread": "7.5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30.2",
+                      "spread": "8.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Waist circumference",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "cm",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "74.3",
+                      "spread": "8.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "91.8",
+                      "spread": "14.3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "87.2",
+                      "spread": "15.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Walking speed",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "km.h-1",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2.5",
+                      "spread": "0.6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.7",
+                      "spread": "0.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.6",
+                      "spread": "0.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Systolic Blood Pressure",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmHg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "117.3",
+                      "spread": "12.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "123.3",
+                      "spread": "15.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121.8",
+                      "spread": "14.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Diastolic Blood Pressure",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mmHg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "80.3",
+                      "spread": "11.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "79.3",
+                      "spread": "8.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "79.8",
+                      "spread": "8.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Heart rate",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "beats.min-1",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "71.7",
+                      "spread": "11.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "76.2",
+                      "spread": "8.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "75.0",
+                      "spread": "94"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Postprandial Glucose",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for glucose",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mmol.L-1.5 h-1",
+          "timeFrame": "Measured over the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.46",
+                      "lowerLimit": "1.09",
+                      "upperLimit": "1.84"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.43",
+                      "lowerLimit": "1.05",
+                      "upperLimit": "1.71"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1.74",
+                      "lowerLimit": "1.41",
+                      "upperLimit": "2.06"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "1.53",
+                      "lowerLimit": "1.20",
+                      "upperLimit": "1.85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Postprandial Triglycerides",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for triglycerides",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mmol.L-1. 5 h-1",
+          "timeFrame": "Measured over the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.35",
+                      "lowerLimit": "0.07",
+                      "upperLimit": "0.64"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.23",
+                      "lowerLimit": "-0.05",
+                      "upperLimit": "0.52"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0.67",
+                      "lowerLimit": "0.45",
+                      "upperLimit": "0.89"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "0.63",
+                      "lowerLimit": "0.41",
+                      "upperLimit": "0.85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Postprandial Insulin",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for insulin",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mU.L-1.5 h-1",
+          "timeFrame": "Measured over the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "24.69",
+                      "lowerLimit": "16.89",
+                      "upperLimit": "32.50"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "26.95",
+                      "lowerLimit": "19.14",
+                      "upperLimit": "34.75"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "44.19",
+                      "lowerLimit": "35.50",
+                      "upperLimit": "51.87"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "41.12",
+                      "lowerLimit": "32.44",
+                      "upperLimit": "49.80"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Metabolic Load Index",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for the Metabolic Load Index (MLI).\n\nThe MLI will be calculated using the following equation:\n\nMLI (mmol.L-1) = blood glucose (mmol.L-1) + TAG (mmol.L-1). Lower values of MLI are considered better for cardiometabolic health!",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mmol.L-1.5 h-1",
+          "timeFrame": "Measured over the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.76",
+                      "lowerLimit": "1.07",
+                      "upperLimit": "2.44"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.60",
+                      "lowerLimit": "0.91",
+                      "upperLimit": "2.29"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2.39",
+                      "lowerLimit": "1.98",
+                      "upperLimit": "2.79"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "2.17",
+                      "lowerLimit": "1.76",
+                      "upperLimit": "2.57"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Resting Energy Expenditure",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for resting energy expenditure",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "kcal.min-1",
+          "timeFrame": "Measured for the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.22",
+                      "lowerLimit": "0.02",
+                      "upperLimit": "0.42"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.21",
+                      "lowerLimit": "0.01",
+                      "upperLimit": "0.41"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0.18",
+                      "lowerLimit": "0.13",
+                      "upperLimit": "0.22"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "0.23",
+                      "lowerLimit": "0.18",
+                      "upperLimit": "0.27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Resting Fat Oxidation",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for resting fat oxidation",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mg.min-1",
+          "timeFrame": "Measured for the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.21",
+                      "lowerLimit": "-6.35",
+                      "upperLimit": "12.76"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.67",
+                      "lowerLimit": "-8.89",
+                      "upperLimit": "10.23"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2.42",
+                      "lowerLimit": "-3.33",
+                      "upperLimit": "8.18"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "2.12",
+                      "lowerLimit": "-3.62",
+                      "upperLimit": "7.85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Resting Carbohydrate Oxidation",
+          "description": "Incremental area under the curve for each 5 h condition will be calculated for resting carbohydrate oxidation",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mg.min-1",
+          "timeFrame": "Measured for the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44.28",
+                      "lowerLimit": "-7.05",
+                      "upperLimit": "95.61"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "54.75",
+                      "lowerLimit": "3.43",
+                      "upperLimit": "106.08"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "43.57",
+                      "lowerLimit": "26.53",
+                      "upperLimit": "60.61"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "52.38",
+                      "lowerLimit": "35.20",
+                      "upperLimit": "69.57"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Arterial Pressure",
+          "description": "Mean Arterial Pressure (MAP) over the 5 h conditions.\n\nThe following formula will be used to calculate MAP, where P is blood pressure (systolic or diastolic):\n\nMAP = PDiastolic + 1/3 (PSystolic - PDiastolic).",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mmHg",
+          "timeFrame": "Measured over the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "89.17",
+                      "lowerLimit": "85.96",
+                      "upperLimit": "92.38"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "87.24",
+                      "lowerLimit": "84.03",
+                      "upperLimit": "90.45"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "94.22",
+                      "lowerLimit": "92.05",
+                      "upperLimit": "96.38"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "93.33",
+                      "lowerLimit": "91.16",
+                      "upperLimit": "95.51"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Heart Rate",
+          "description": "Mean heart rate over the 5 h conditions",
+          "populationDescription": "South Asians",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "beats.min-1",
+          "timeFrame": "Measured over the 5 hour condition period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Prolonged Sitting (SIT) for Normal-weight South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG001",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Normal-weight South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            },
+            {
+              "id": "OG002",
+              "title": "Prolonged Sitting (SIT) for Overweight/Obese South Asians",
+              "description": "Participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void.\n\nProlonged sitting: See Prolonged sitting arm description"
+            },
+            {
+              "id": "OG003",
+              "title": "Breaking up Sitting With Walking Breaks (INT-SIT) for Overweight/Obese South Asians",
+              "description": "Participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing walking activity, they will return to the seated position.\n\nBreaking up sitting with walking breaks: See Breaking up sitting with walking breaks arm description"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "67.50",
+                      "lowerLimit": "64.37",
+                      "upperLimit": "70.62"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "67.62",
+                      "lowerLimit": "64.49",
+                      "upperLimit": "70.74"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "69.24",
+                      "lowerLimit": "66.92",
+                      "upperLimit": "71.56"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "69.76",
+                      "lowerLimit": "67.44",
+                      "upperLimit": "72.08"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse event data were collected from the commencement of experimental procedures through study completion for each participant, an average of 2 weeks.",
+      "description": "No adverse events were reported during the study",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Prolonged Sitting (SIT)",
+          "description": "Firstly, participants will remain seated for 5 h and instructed to reduce excessive movement, only rising from the chair to void. After a washout period of at least 3 days, they then performed the INT-SIT condition.\n\nBreaking up sitting with walking breaks (INT-SIT): See INT-SIT arm description",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 54,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 54,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 54
+        },
+        {
+          "id": "EG001",
+          "title": "Breaking up Sitting With Walking Breaks (INT-SIT)",
+          "description": "Firstly, participants will rise from the seated position every 30 min throughout the experimental period to walk on a motorised treadmill at a light intensity walking (as determined during the preliminary test) for 5 min. Participants will start walk on a treadmill at 30 min (so physical activity would be at 30-35 min), 60 min (physical activity will be at 60-65 min), 90 min (physical activity will be at 90-95 min), 120 min (physical activity will be 120-125 min), 150 min (physical activity will be at 150-155 min ), and 180 min (physical activity will be at 180-185 min) in the breakfast postprandial period and 30 min (physical activity will be 30-35 min), 60 min (physical activity will be at 60-65 min), and 90 min (physical activity will be at 90-95 min) in the lunch postprandial period. After performing a walking activity, they will return to the seated position. After a washout period of at least 3 days, they then performed the SIT condition.\n\nSIT: See SIT arm description",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 54,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 54,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 54
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr Kamalesh Dey",
+        "organization": "University of Bedfordshire",
+        "email": "k.dey@qmul.ac.uk",
+        "phone": "07305192256"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP_ICF",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": true,
+          "label": "Study Protocol, Statistical Analysis Plan, and Informed Consent Form",
+          "date": "2019-02-26",
+          "uploadDate": "2025-12-30T08:02",
+          "filename": "Prot_SAP_ICF_000.pdf",
+          "size": 574964
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        },
+        {
+          "id": "D057185",
+          "term": "Sedentary Behavior"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

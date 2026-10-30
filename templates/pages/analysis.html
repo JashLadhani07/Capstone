@@ -1,0 +1,52 @@
+
+{% extends "base.html" %}
+{% block title %}New Analysis | MOSAIC{% endblock %}
+{% block breadcrumb %}New Analysis{% endblock %}
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">INVESTIGATION WORKSPACE</p>
+        <h1>New <span>Analysis</span></h1>
+        <p class="page-description">Configure and launch a clinical trial investigation.</p>
+    </div>
+</section>
+
+<section class="content-card form-card">
+    <div class="card-header">
+        <div><h3>Analysis Configuration</h3><p>Provide the investigation details</p></div>
+    </div>
+
+    <form id="analysis-form" class="app-form">
+        <label for="task">Investigation objective</label>
+        <textarea id="task" name="task" rows="5" required
+            placeholder="Example: Investigate potential integrity concerns in clinical trials related to a specific treatment..."></textarea>
+
+        <label for="nct-ids">ClinicalTrials.gov IDs</label>
+        <input id="nct-ids" name="nct_ids" placeholder="NCT06330519, NCT01234567">
+        <small>Optional. Separate multiple NCT IDs with commas.</small>
+
+        <label for="max-studies">Maximum studies</label>
+        <input id="max-studies" name="max_studies" type="number" min="1" max="100" value="10" required>
+
+        <button class="primary-button" type="submit" id="run-analysis">✳ Run Analysis</button>
+        <p id="analysis-message" class="form-message"></p>
+    </form>
+</section>
+
+<section class="content-card result-card" id="analysis-result" hidden>
+    <div class="card-header"><div><h3>Analysis Result</h3><p>Completed investigation summary</p></div></div>
+    <div class="result-body">
+        <div class="result-stats">
+            <div><span>Run ID</span><strong id="result-run-id">—</strong></div>
+            <div><span>Total Signals</span><strong id="result-signals">—</strong></div>
+            <div><span>Review Required</span><strong id="result-reviews">—</strong></div>
+            <div><span>Duration</span><strong id="result-duration">—</strong></div>
+        </div>
+        <h4>Final Intelligence Brief</h4>
+        <div id="result-brief" class="brief-content"></div>
+    </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', path='js/analysis.js') }}"></script>
+{% endblock %}

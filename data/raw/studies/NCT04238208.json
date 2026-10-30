@@ -1,0 +1,348 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04238208",
+      "orgStudyIdInfo": {
+        "id": "LIDCAI38920"
+      },
+      "organization": {
+        "fullName": "Corporacion Parc Tauli",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Efficacy and Safety Profile of Capsaicin 8% Patch Versus 5% Lidocaine Patch in Males With Diabetic Neuropathy",
+      "officialTitle": "The Efficacy and Safety Profile of Capsaicin 8% Patch Versus 5% Lidocaine Patch in Patients With Diabetic Peripheral Neuropathic Pain: a Randomized, Placebo-controlled Study of South Asian Male Patients"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-01-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-12-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-01-02",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-01-19",
+      "studyFirstSubmitQcDate": "2020-01-19",
+      "studyFirstPostDateStruct": {
+        "date": "2020-01-23",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-01-28",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-01-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Dr Zainab Khan",
+        "investigatorTitle": "Consultant, Endocrinology Unit, Department of Internal Medicine.",
+        "investigatorAffiliation": "Corporacion Parc Tauli"
+      },
+      "leadSponsor": {
+        "name": "Corporacion Parc Tauli",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The study aims to compare the effectiveness and tolerability of using lidocaine 5% patch to 8% capsaicin patch in patients with diabetic neuropathy. Assessment of analgesic effectiveness was assessed by observing any change in the Numeric Pain Rating Scale (NPRS) score, average daily pain Brief Pain Inventory (BPI) for painful diabetic peripheral neuropathy (BPI-DPN Q4) and Patient Global Impression of Change (PGIC). Assessment of capsaicin and lidocaine safety and identifying treatment adverse effects were secondary endpoints in this study",
+      "detailedDescription": "The aim of the present study was to compare the efficacy and tolerability of using lidocaine 5% patch to 8% capsaicin patch in south Asian male patients with diabetic neuropathy. Assessment of analgesic effectiveness was assessed by observing any change in the Numeric Pain Rating Scale (NPRS) score, average daily pain Brief Pain Inventory (BPI) for painful diabetic peripheral neuropathy (BPI-DPN Q4) and Patient Global Impression of Change (PGIC). Assessment of capsaicin and lidocaine safety and identifying treatment adverse effects were secondary endpoints in this study"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetic Nerve Problems",
+        "Diabetic Neuropathy",
+        "Diabetic Complications Neurological"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "This present study was a double blinded, placebo controlled, parallel group study",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "Double blinded study, the investigators, patients and care providers were not aware of the identity of the administered patch. The codes 11 were used for the capsaicin patch, 12 for the control patch and 33 for the lidocaine patch. These codes were retained by a hospital staff member who was not involved in the study and were revealed to the researchers after all the data was collected and analyses.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 290,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group LL",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Group LL patients received the 5% lidocaine patch (Lidoderm\u00ae, Endo Pharmaceuticals Inc, Malvern, USA) 10 x 14 cm containing 700 mg of Lidocaine for 60 minutes",
+          "interventionNames": [
+            "Drug: Lidocaine 5% patch"
+          ]
+        },
+        {
+          "label": "Group LP",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Group LP received an identical placebo patch",
+          "interventionNames": [
+            "Drug: Lidocaine 5% patch"
+          ]
+        },
+        {
+          "label": "Group LC",
+          "type": "EXPERIMENTAL",
+          "description": "Group LC received the 8% Capsaicin patch \\[8% w/w\\] 640 \u00b5g/cm\u00b2 of adhesive, patch area 280 cm2 (20 cm x 14 cm), (Qutenza\u00ae; capsaicin 179 mg patch, Astella Pharma Europe Ltd. Chertsey, UK).",
+          "interventionNames": [
+            "Drug: Capsaicin 8% Patch, Per 10 Square Centimeters"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lidocaine 5% patch",
+          "description": "5% lidocaine patch (Lidoderm\u00ae, Endo Pharmaceuticals Inc, Malvern, USA) 10 x 14 cm",
+          "armGroupLabels": [
+            "Group LL",
+            "Group LP"
+          ],
+          "otherNames": [
+            "Lidocaine patch"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Capsaicin 8% Patch, Per 10 Square Centimeters",
+          "description": "8% Capsaicin patch \\[8% w/w\\] 640 \u00b5g/cm\u00b2 of adhesive, patch area 280 cm2 (20 cm x 14 cm), (Qutenza\u00ae; capsaicin 179 mg patch, Astella Pharma Europe Ltd. Chertsey, UK)",
+          "armGroupLabels": [
+            "Group LC"
+          ],
+          "otherNames": [
+            "Capsaicin patch"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Outcome 1 Brief Pain Inventory (BPI) for painful diabetic peripheral neuropathy (BPI-DPN Q4) scores",
+          "description": "Brief Pain Inventory (BPI) for painful diabetic peripheral neuropathy (BPI-DPN Q4) scores. diabetes at its worst over the past 24 hours\").\n\nEach BPI item uses a 0-10 numeric rating scale anchored at zero for \"no pain\" and 10 for \"pain as bad as you can imagine\" for Severity, and \"does not interfere\" to \"completely interferes\" for Interference.",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Outcome 2 Patient Global Impression of Change score",
+          "description": "Patient Global Impression of Change score. PGIC is a 7 point scale depicting a patient's rating of overall improvement. The PGIC was patient-reported, and asked the subject to \"indicate how you feel now, compared to how you felt before receiving treatment in this study\" on a 7-point scale of -3 (very much worse), 0 (no change), to +3 (very much improved).",
+          "timeFrame": "24 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Males aged 40 - 60\n* Type 2 diabetes of \\>10 years duration\n* Symptoms of peripheral neuropathic painpresent by scoring on Diabetic neuropathic score (minimum score 1)\n\nExclusion Criteria:\n\n* Diabetic foot ulcer\n* Deformed or contracted foot\n* Neurological complications\n* Presence of neurological disease\n* Presence of cardiovascular or peripheral vascular disease,\n* Usage of topical analgesics or implanted medical device six weeks prior to the study",
+      "healthyVolunteers": false,
+      "sex": "MALE",
+      "genderBased": true,
+      "genderDescription": "Male only",
+      "minimumAge": "40 Years",
+      "maximumAge": "60 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Zainab Khan",
+          "city": "Lahore",
+          "state": "Punjab Province",
+          "country": "Pakistan",
+          "geoPoint": {
+            "lat": 31.558,
+            "lon": 74.35071
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Individual participant data (IPD) can be provided by the author upon reasonable request"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003929",
+          "term": "Diabetic Neuropathies"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010523",
+          "term": "Peripheral Nervous System Diseases"
+        },
+        {
+          "id": "D009468",
+          "term": "Neuromuscular Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008012",
+          "term": "Lidocaine"
+        },
+        {
+          "id": "D057968",
+          "term": "Transdermal Patch"
+        },
+        {
+          "id": "D002211",
+          "term": "Capsaicin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000083",
+          "term": "Acetanilides"
+        },
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D004864",
+          "term": "Equipment and Supplies"
+        },
+        {
+          "id": "D053284",
+          "term": "Polyunsaturated Alkamides"
+        },
+        {
+          "id": "D000475",
+          "term": "Alkenes"
+        },
+        {
+          "id": "D006839",
+          "term": "Hydrocarbons, Acyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D002396",
+          "term": "Catechols"
+        },
+        {
+          "id": "D010636",
+          "term": "Phenols"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D012991",
+          "term": "Solanaceous Alkaloids"
+        },
+        {
+          "id": "D000470",
+          "term": "Alkaloids"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D005229",
+          "term": "Fatty Acids, Monounsaturated"
+        },
+        {
+          "id": "D005231",
+          "term": "Fatty Acids, Unsaturated"
+        },
+        {
+          "id": "D005227",
+          "term": "Fatty Acids"
+        },
+        {
+          "id": "D008055",
+          "term": "Lipids"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

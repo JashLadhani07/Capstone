@@ -1,0 +1,610 @@
+{
+  "nct_id": "NCT00003567",
+  "title": "Mutant MGMT Gene Transfer Into Human Hematopoietic Progenitors to Protect Hematopoiesis During O6-Benzylguanine (BG, NSC 637037) and Carmustine Followed by Temozolomide Therapy of Advanced Solid Tumors",
+  "sponsor": "Case Comprehensive Cancer Center",
+  "phase": "PHASE1",
+  "status": "TERMINATED",
+  "conditions": [
+    "Brain and Central Nervous System Tumors",
+    "Lymphoma",
+    "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "interventions": [
+    "filgrastim",
+    "sargramostim",
+    "therapeutic autologous lymphocytes",
+    "O6-benzylguanine",
+    "carmustine",
+    "temozolomide",
+    "in vitro-treated peripheral blood stem cell transplantation"
+  ],
+  "primary_outcome": "Gene transfer expression",
+  "secondary_outcomes": [],
+  "start_date": "1999-05",
+  "completion_date": "2007-01",
+  "results_posted": false,
+  "enrollment": 8,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00003567",
+        "orgStudyIdInfo": {
+          "id": "CWRU2Y97"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "R21CA076192",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/R21CA076192"
+          },
+          {
+            "id": "P30CA043703",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/P30CA043703"
+          },
+          {
+            "id": "CASE-CWRU-2Y97",
+            "type": "OTHER",
+            "domain": "Case Comprehensive Cancer Center"
+          },
+          {
+            "id": "NCI-T97-0060"
+          },
+          {
+            "id": "CASE-2Y97",
+            "type": "OTHER",
+            "domain": "Case Comprehensive Cancer Center"
+          }
+        ],
+        "organization": {
+          "fullName": "Case Comprehensive Cancer Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "Gene Therapy and Chemotherapy in Treating Patients With Advanced Solid Tumors or Non-Hodgkin's Lymphoma",
+        "officialTitle": "Mutant MGMT Gene Transfer Into Human Hematopoietic Progenitors to Protect Hematopoiesis During O6-Benzylguanine (BG, NSC 637037) and Carmustine Followed by Temozolomide Therapy of Advanced Solid Tumors"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2010-06",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "slow accrual",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "1999-05"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2007-01",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2007-02",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "1999-11-01",
+        "studyFirstSubmitQcDate": "2003-01-26",
+        "studyFirstPostDateStruct": {
+          "date": "2003-01-27",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2010-06-09",
+        "lastUpdatePostDateStruct": {
+          "date": "2010-06-11",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "oldNameTitle": "Stanton L. Gerson, MD",
+          "oldOrganization": "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center"
+        },
+        "leadSponsor": {
+          "name": "Case Comprehensive Cancer Center",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "National Cancer Institute (NCI)",
+            "class": "NIH"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "RATIONALE: Gene therapy may improve the body's ability to fight cancer or make the cancer more sensitive to chemotherapy. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.\n\nPURPOSE: This phase I trial is studying the side effects and best dose of gene therapy together with chemotherapy in treating patients with advanced solid tumors or non-Hodgkin's lymphoma.",
+        "detailedDescription": "OBJECTIVES:\n\n* Evaluate the feasibility of introducing and expressing mutant MGMT-G156A cDNA in hematopoietic progenitors taken from patients with advanced solid tumors (including gliomas) or non-Hodgkin's lymphoma using a safety modified retroviral vector MFG.\n* Determine the toxicity associated with reinfusion of ex vivo-transduced hematopoietic stem cells into these patients, including the detection of replication competent retrovirus.\n* Evaluate the feasibility of identifying mutant MGMT-G156A-transduced and O6-benzylguanine (BG)- and temzolomide-resistant hematopoietic and stromal progenitors from the bone marrow of these patients.\n* Evaluate the feasibility of in vivo enrichment of the transduced hematopoietic progenitors in patients treated with BG and temzolomide.\n* Evaluate the toxicity of this regimen in these patients.\n* Determine the antitumor effect of this regimen in these patients.\n\nOUTLINE: This is a dose-escalation study of CD34 stem cells and carmustine.\n\nAfter a negative bone marrow sampling, patients receive sargramostim (GM-CSF) and filgrastim (G-CSF) subcutaneously (SC) once daily on days 1-5 (or G-CSF twice daily alone for 4-5 days). Peripheral blood progenitor cells are collected 24 hours after the last dose of growth factor injection on day 5 and also on day 6, if necessary. The CD34 positive stem cells are then infected by the retroviral mutant MGMT-G156A ex vivo.\n\nPatients receive O6-benzylguanine (BG) IV over 1 hour followed by carmustine IV over 1 hour every 6 weeks for 5 courses, assuming recovery of peripheral blood counts. Approximately 72 hours after the end of the first course of chemotherapy, patients receive reinfusion of retrovirally-transduced hematopoietic stem cells over 5-10 minutes. Four weeks after the completion of BG and carmustine, patients receive BG IV over 1 hour followed by temozolomide IV over 1 hour every 4 weeks for up to 5 courses, in the absence of hematologic toxicity. Patients with responding disease may continue to receive BG and temzolomide in the absence of disease progression or unacceptable toxicity provided other phase II studies indicate the safety of more than 5 courses.\n\nCohorts of 3-6 patients receive escalating numbers of CD34 stem cells targeted for retroviral infection and escalating doses of carmustine.\n\nPatients are followed monthly for 2 months, every 4 months for 8 months, and then every 6 months thereafter.\n\nPROJECTED ACCRUAL: A total of 12-18 patients will be accrued for this study."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Brain and Central Nervous System Tumors",
+          "Lymphoma",
+          "Unspecified Adult Solid Tumor, Protocol Specific"
+        ],
+        "keywords": [
+          "recurrent adult brain tumor",
+          "adult brain stem glioma",
+          "stage IV grade 1 follicular lymphoma",
+          "stage IV grade 2 follicular lymphoma",
+          "stage IV grade 3 follicular lymphoma",
+          "stage IV adult diffuse small cleaved cell lymphoma",
+          "stage IV adult diffuse mixed cell lymphoma",
+          "stage IV adult diffuse large cell lymphoma",
+          "stage IV adult immunoblastic large cell lymphoma",
+          "stage IV adult lymphoblastic lymphoma",
+          "stage IV adult Burkitt lymphoma",
+          "recurrent grade 1 follicular lymphoma",
+          "recurrent grade 2 follicular lymphoma",
+          "recurrent grade 3 follicular lymphoma",
+          "recurrent adult diffuse small cleaved cell lymphoma",
+          "recurrent adult diffuse mixed cell lymphoma",
+          "recurrent adult diffuse large cell lymphoma",
+          "recurrent adult immunoblastic large cell lymphoma",
+          "recurrent adult lymphoblastic lymphoma",
+          "recurrent adult Burkitt lymphoma",
+          "adult mixed glioma",
+          "stage IV mantle cell lymphoma",
+          "recurrent mantle cell lymphoma",
+          "unspecified adult solid tumor, protocol specific",
+          "adult anaplastic astrocytoma",
+          "adult anaplastic oligodendroglioma",
+          "adult glioblastoma",
+          "adult pilocytic astrocytoma",
+          "adult subependymoma",
+          "adult anaplastic ependymoma",
+          "adult myxopapillary ependymoma",
+          "adult ependymoblastoma",
+          "recurrent marginal zone lymphoma",
+          "recurrent small lymphocytic lymphoma",
+          "stage IV small lymphocytic lymphoma",
+          "stage IV marginal zone lymphoma",
+          "extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue",
+          "nodal marginal zone B-cell lymphoma",
+          "splenic marginal zone lymphoma",
+          "adult oligodendroglioma",
+          "adult giant cell glioblastoma",
+          "adult gliosarcoma",
+          "adult diffuse astrocytoma"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 8,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "BIOLOGICAL",
+            "name": "filgrastim",
+            "description": "Patients receive filgrastim (G-CSF) subcutaneously (SC) once daily on days 1-5 (or G-CSF twice daily alone for 4-5 days)."
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "sargramostim",
+            "description": "Patients receive sargramostim (GM-CSF) subcutaneously (SC) once daily on days 1-5 (or G-CSF twice daily alone for 4-5 days)."
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "therapeutic autologous lymphocytes"
+          },
+          {
+            "type": "DRUG",
+            "name": "O6-benzylguanine",
+            "description": "Patients receive O6-benzylguanine (BG) IV over 1 hour every 6 weeks for 5 courses. Four weeks after the completion of BG and carmustine, patients receive BG IV over 1 hour every 4 weeks for up to 5 courses, in the absence of hematologic toxicity. Patients with responding disease may continue to receive BG and temzolomide in the absence of disease progression or unacceptable toxicity."
+          },
+          {
+            "type": "DRUG",
+            "name": "carmustine",
+            "description": "Patients receive carmustine IV over 1 hour every 6 weeks for 5 courses.Cohorts of 3-6 patients receive escalating numbers of CD34 stem cells targeted for retroviral infection and escalating doses of carmustine."
+          },
+          {
+            "type": "DRUG",
+            "name": "temozolomide",
+            "description": "Four weeks after the completion of BG and carmustine, patients receive temozolomide IV over 1 hour every 4 weeks for up to 5 courses, in the absence of hematologic toxicity. Patients with responding disease may continue to receive BG and temzolomide in the absence of disease progression or unacceptable toxicity."
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "in vitro-treated peripheral blood stem cell transplantation",
+            "description": "Approximately 72 hours after the end of the first course of chemotherapy, patients receive reinfusion of retrovirally-transduced hematopoietic stem cells over 5-10 minutes. Cohorts of 3-6 patients receive escalating numbers of CD34 stem cells targeted for retroviral infection and escalating doses of carmustine."
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Gene transfer expression",
+            "timeFrame": "measured at days 28, 56, 84, and 112, and then every 3 months for 1 year"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* One of the following histologically confirmed diseases for which no curative surgical, radiotherapy, or chemotherapy programs are available and standard therapy offers, at best, a modest clinical benefit\n\n  * Solid tumors\n  * Gliomas\n  * Non-Hodgkin's lymphoma\n* Primary and metastatic CNS malignancies are eligible\n* Evaluable or measurable disease\n* CD34 count at least 2.0 cells/\u03bcL\n* No bone marrow involvement\n\n  * Histologically negative bone marrow biopsy\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 to 70\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* At least 12 weeks\n\nHematopoietic:\n\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Hemoglobin at least 8.5 g/dL\n\nHepatic:\n\n* Bilirubin no greater than 1.5 mg/dL\n* AST and ALT less than 2.5 times normal\n* Prothrombin time less than 1.2 times normal\n\nRenal:\n\n* Creatinine no greater than 2.0 mg/dL\n\nCardiovascular:\n\n* No acute cardiac disease by EKG\n\nPulmonary:\n\n* No symptomatic pulmonary disease\n\nOther:\n\n* HIV negative\n* No other severe comorbid conditions\n* Not pregnant or nursing\n* Fertile patients must use effective contraception during and for 2 months after study completion\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* See Chemotherapy\n* No prior hematopoietic stem cell transplantation\n\nChemotherapy:\n\n* No prior high-dose chemotherapy\n* Prior adjuvant chemotherapy allowed\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior radiotherapy to 25% or more of bone marrow\n\nSurgery:\n\n* Not specified\n\nOther:\n\n* At least 4 weeks since prior myelosuppressive therapy",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Stanton L. Gerson, MD",
+            "affiliation": "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44106-5065",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.4995,
+              "lon": -81.69541
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D016543",
+            "term": "Central Nervous System Neoplasms"
+          },
+          {
+            "id": "D008223",
+            "term": "Lymphoma"
+          },
+          {
+            "id": "D001932",
+            "term": "Brain Neoplasms"
+          },
+          {
+            "id": "D008224",
+            "term": "Lymphoma, Follicular"
+          },
+          {
+            "id": "D008228",
+            "term": "Lymphoma, Non-Hodgkin"
+          },
+          {
+            "id": "D016403",
+            "term": "Lymphoma, Large B-Cell, Diffuse"
+          },
+          {
+            "id": "D016400",
+            "term": "Lymphoma, Large-Cell, Immunoblastic"
+          },
+          {
+            "id": "D054198",
+            "term": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+          },
+          {
+            "id": "D002051",
+            "term": "Burkitt Lymphoma"
+          },
+          {
+            "id": "D005910",
+            "term": "Glioma"
+          },
+          {
+            "id": "D020522",
+            "term": "Lymphoma, Mantle-Cell"
+          },
+          {
+            "id": "D001254",
+            "term": "Astrocytoma"
+          },
+          {
+            "id": "D009837",
+            "term": "Oligodendroglioma"
+          },
+          {
+            "id": "D005909",
+            "term": "Glioblastoma"
+          },
+          {
+            "id": "D018315",
+            "term": "Glioma, Subependymal"
+          },
+          {
+            "id": "D004806",
+            "term": "Ependymoma"
+          },
+          {
+            "id": "D018242",
+            "term": "Neuroectodermal Tumors, Primitive"
+          },
+          {
+            "id": "D018442",
+            "term": "Lymphoma, B-Cell, Marginal Zone"
+          },
+          {
+            "id": "D015451",
+            "term": "Leukemia, Lymphocytic, Chronic, B-Cell"
+          },
+          {
+            "id": "D018316",
+            "term": "Gliosarcoma"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D009423",
+            "term": "Nervous System Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D008232",
+            "term": "Lymphoproliferative Disorders"
+          },
+          {
+            "id": "D008206",
+            "term": "Lymphatic Diseases"
+          },
+          {
+            "id": "D006425",
+            "term": "Hemic and Lymphatic Diseases"
+          },
+          {
+            "id": "D007160",
+            "term": "Immunoproliferative Disorders"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          },
+          {
+            "id": "D001927",
+            "term": "Brain Diseases"
+          },
+          {
+            "id": "D002493",
+            "term": "Central Nervous System Diseases"
+          },
+          {
+            "id": "D016393",
+            "term": "Lymphoma, B-Cell"
+          },
+          {
+            "id": "D007945",
+            "term": "Leukemia, Lymphoid"
+          },
+          {
+            "id": "D007938",
+            "term": "Leukemia"
+          },
+          {
+            "id": "D006402",
+            "term": "Hematologic Diseases"
+          },
+          {
+            "id": "D020031",
+            "term": "Epstein-Barr Virus Infections"
+          },
+          {
+            "id": "D006566",
+            "term": "Herpesviridae Infections"
+          },
+          {
+            "id": "D004266",
+            "term": "DNA Virus Infections"
+          },
+          {
+            "id": "D014777",
+            "term": "Virus Diseases"
+          },
+          {
+            "id": "D007239",
+            "term": "Infections"
+          },
+          {
+            "id": "D014412",
+            "term": "Tumor Virus Infections"
+          },
+          {
+            "id": "D018302",
+            "term": "Neoplasms, Neuroepithelial"
+          },
+          {
+            "id": "D017599",
+            "term": "Neuroectodermal Tumors"
+          },
+          {
+            "id": "D009373",
+            "term": "Neoplasms, Germ Cell and Embryonal"
+          },
+          {
+            "id": "D009375",
+            "term": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "id": "D009380",
+            "term": "Neoplasms, Nerve Tissue"
+          },
+          {
+            "id": "D015448",
+            "term": "Leukemia, B-Cell"
+          },
+          {
+            "id": "D002908",
+            "term": "Chronic Disease"
+          },
+          {
+            "id": "D020969",
+            "term": "Disease Attributes"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000069585",
+            "term": "Filgrastim"
+          },
+          {
+            "id": "C081222",
+            "term": "sargramostim"
+          },
+          {
+            "id": "C064976",
+            "term": "O(6)-benzylguanine"
+          },
+          {
+            "id": "D002330",
+            "term": "Carmustine"
+          },
+          {
+            "id": "D000077204",
+            "term": "Temozolomide"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D016179",
+            "term": "Granulocyte Colony-Stimulating Factor"
+          },
+          {
+            "id": "D003115",
+            "term": "Colony-Stimulating Factors"
+          },
+          {
+            "id": "D006023",
+            "term": "Glycoproteins"
+          },
+          {
+            "id": "D006001",
+            "term": "Glycoconjugates"
+          },
+          {
+            "id": "D002241",
+            "term": "Carbohydrates"
+          },
+          {
+            "id": "D016298",
+            "term": "Hematopoietic Cell Growth Factors"
+          },
+          {
+            "id": "D016207",
+            "term": "Cytokines"
+          },
+          {
+            "id": "D036341",
+            "term": "Intercellular Signaling Peptides and Proteins"
+          },
+          {
+            "id": "D010455",
+            "term": "Peptides"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D011506",
+            "term": "Proteins"
+          },
+          {
+            "id": "D001685",
+            "term": "Biological Factors"
+          },
+          {
+            "id": "D009607",
+            "term": "Nitrosourea Compounds"
+          },
+          {
+            "id": "D014508",
+            "term": "Urea"
+          },
+          {
+            "id": "D000577",
+            "term": "Amides"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D009603",
+            "term": "Nitroso Compounds"
+          },
+          {
+            "id": "D003606",
+            "term": "Dacarbazine"
+          },
+          {
+            "id": "D014226",
+            "term": "Triazenes"
+          },
+          {
+            "id": "D007093",
+            "term": "Imidazoles"
+          },
+          {
+            "id": "D001393",
+            "term": "Azoles"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628755"
+}

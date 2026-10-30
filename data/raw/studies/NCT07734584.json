@@ -1,0 +1,390 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07734584",
+      "orgStudyIdInfo": {
+        "id": "FlushTEVAR"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "Funding for a non-profit trial",
+          "type": "OTHER_GRANT",
+          "domain": "Angiodroid S.P.A."
+        }
+      ],
+      "organization": {
+        "fullName": "University of Bologna",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Standard Carbon Dioxide Flushing Protocol to Reduce Air Embolization During Thoracic Endovascular Aortic Repair",
+      "officialTitle": "A Standard Carbon Dioxide Flushing Protocol to Reduce Air Embolization During Thoracic Endovascular Aortic Repair",
+      "acronym": "FlushTEVAR"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-07",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-07-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2028-07-15",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2028-07-15",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-07-09",
+      "studyFirstSubmitQcDate": "2026-07-23",
+      "studyFirstPostDateStruct": {
+        "date": "2026-07-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-07-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-07-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Mauro Gargiulo",
+        "investigatorTitle": "Director, Professor",
+        "investigatorAffiliation": "University of Bologna"
+      },
+      "leadSponsor": {
+        "name": "University of Bologna",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "AngioDroid s.r.l., Bologna (Italy)",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "FlushTEVAR is a non-profit, interventional, randomized, controlled, single-blind, national multicenter study promoted by the University of Bologna and coordinated by the Vascular Surgery Unit of IRCCS Azienda Ospedaliero-Universitaria di Bologna, Policlinico di Sant'Orsola, under the direction of Prof. Mauro Gargiulo, who also serves as Principal Investigator. The study aims to develop and evaluate a pre-implant thoracic endograft flushing technique using carbon dioxide (CO\u2082) to reduce periprocedural embolic events and cerebral infarctions in patients undergoing Thoracic Endovascular Aortic Repair (TEVAR).\n\nTEVAR is currently the treatment of choice for acute aortic syndromes and aneurysms involving the descending thoracic aorta. Despite its widespread use, TEVAR remains associated with significant neurological complications, with an incidence ranging from 3% to 8% in standard procedures and reaching up to 16% in more complex endovascular interventions. Cerebral embolization caused by solid and gaseous particles is considered the main cause of perioperative stroke and silent brain infarction (SBI), the latter being defined as ischemic brain injury detected by neuroradiological imaging in the absence of immediate clinical symptoms. During TEVAR, approximately 90% of microembolic signals detected in the middle cerebral artery are caused by gaseous emboli, with the highest number occurring during endograft deployment. This phenomenon is associated with the manufacturing and sterilization processes of endografts, during which gas microparticles become trapped between the endograft and its delivery system and are subsequently released into the bloodstream when the device is deployed at the intended aortic site.\n\nThe primary objective of the study is to assess the difference in the incidence of major neurological events, including stroke and transient ischemic attack (TIA), as well as silent brain infarctions, between patients whose endografts undergo a standardized pre-implant flushing protocol with CO\u2082 followed by conventional saline flushing, and patients receiving standard saline flushing alone. Major neurological events will be assessed clinically, while silent brain infarctions will be evaluated using study-specific diffusion-weighted magnetic resonance imaging (DW-MRI) of the brain performed within 72 hours after the procedure.\n\nA total of 90 patients will be enrolled across four participating centers and randomized in a 1:1 ratio after providing informed consent. Forty-five patients will be allocated to the experimental arm and treated with CO\u2082 flushing before the standard saline flushing procedure during TEVAR, while forty-five patients will be allocated to the control arm and will receive standard saline flushing only.\n\nEligible patients must be at least 18 years of age and present with type B acute aortic syndrome in the acute, subacute, or chronic phase, or thoracic and thoracoabdominal aneurysms with Crawford extent I, II, III, or IV. Written informed consent is required for participation. Patients will be excluded if the procedure is performed using CO\u2082 angiography, if endografts without a sheath are used, if emergency endovascular treatment is required, if they have experienced a stroke or TIA within the previous six months, if the proximal sealing zone is 0 or 1, if any contraindication to DW-MRI is present, or in cases of pregnancy or breastfeeding.\n\nAt study completion, the two treatment groups will be compared on the basis of diffusion-weighted brain MRI findings. The primary endpoint is the number of silent brain infarctions and the determination of whether a statistically significant difference exists between the CO\u2082 flushing group and the saline flushing group. The safety of the procedure will be evaluated through both technical and clinical success. The planned study duration is three years, and postoperative rates of SBI and TIA/stroke will be compared between groups using Fisher's and Pearson's chi-square tests."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type B Acute Aortic Syndrome",
+        "Thoracic and Thoracoabdominal Aneurysms With Crawford Extent I, II, III, or IV"
+      ],
+      "keywords": [
+        "TEVAR",
+        "CO2",
+        "aneurysm",
+        "flushing",
+        "silent brain infarctions",
+        "transient ischemic attack (TIA)",
+        "stroke",
+        "endograft",
+        "aorta"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 90,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "CO\u2082 flushing before the standard saline flushing procedure during TEVAR",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Procedure: Carbon dioxide pre-implant endograft flushing followed by saline flushing",
+            "Procedure: Saline endograft flushing"
+          ]
+        },
+        {
+          "label": "only standard saline flushing procedure during TEVAR",
+          "type": "ACTIVE_COMPARATOR",
+          "interventionNames": [
+            "Procedure: Saline endograft flushing"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Carbon dioxide pre-implant endograft flushing followed by saline flushing",
+          "description": "The CO2 flushing technique is conducted using an automated injector with the application of standard injection volume and pressure. Specifically, the endoprosthesis will be flushed from the side port of the delivery system with 3 CO2 injections at 750 mmHg of pressure and 100 cc of volume.",
+          "armGroupLabels": [
+            "CO\u2082 flushing before the standard saline flushing procedure during TEVAR"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Saline endograft flushing",
+          "description": "Following the IFU, the endograft delivery system will be flushed with 60 ml of saline solution at 0.9%.",
+          "armGroupLabels": [
+            "CO\u2082 flushing before the standard saline flushing procedure during TEVAR",
+            "only standard saline flushing procedure during TEVAR"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Assess the number and location of SBI using study-specific diffusion-weighted magnetic resonance imaging (DW-MRI) and determine if there is a statistically significant difference of SBI number in the \"CO2 arm\", compared to the \"saline solution arm\".",
+          "description": "The primary objective of the study is to assess the difference in terms of incidence (number) of ischaemic cerebral lesions, detected by DW-MRI after TEVAR, between patients whose endografts undergo a standardized pre-implant flushing protocol with CO\u2082 followed by conventional saline flushing, and patients receiving standard saline flushing alone,",
+          "timeFrame": "Up to 72 hours after endovascular repair"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Technical and clinical success",
+          "description": "Technical success: successfull endograft deployment, patency, absence of type I-III endoleak, retrograde dissections.\n\nClinical success: absence of major stroke, death, paraplegia, major bleeding, acute kidney injury.",
+          "timeFrame": "Peri-operatively"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age is at least 18 years\n* Present with type B acute aortic syndrome in the acute, subacute, or chronic phase\n* Thoracic and thoracoabdominal aneurysms with Crawford extent I, II, III, or IV\n* Written informed consent\n\nExclusion Criteria:\n\n* Procedure performed using CO\u2082 angiography\n* Endografts without a sheath is used\n* Emergency endovascular treatment required\n* Patient has experienced a stroke or TIA within the previous six months\n* Proximal sealing zone is 0 or 1\n* Any contraindication to DW-MRI\n* Pregnancy or breastfeeding",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Mauro Gargiulo, MD",
+          "role": "CONTACT",
+          "phone": "0512144252",
+          "phoneExt": "+39",
+          "email": "mauro.gargiulo2@unibo.it"
+        },
+        {
+          "name": "Chiara Mascoli, MD",
+          "role": "CONTACT",
+          "phone": "0512144278",
+          "phoneExt": "+39",
+          "email": "chiara.mascoli@aosp.bo.it"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Mauro Gargiulo, MD",
+          "affiliation": "University of Bologna",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+          "status": "RECRUITING",
+          "city": "Bologna",
+          "state": "Italy",
+          "zip": "40138",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Mauro Gargiulo, MD",
+              "role": "CONTACT",
+              "phone": "0512144252",
+              "phoneExt": "+39",
+              "email": "mauro.gargiulo2@unibo.it"
+            },
+            {
+              "name": "Mascoli Chiara, MD",
+              "role": "CONTACT",
+              "phone": "0512144278",
+              "phoneExt": "+39",
+              "email": "chiara.mascoli@aosp.bo.it"
+            },
+            {
+              "name": "Mauro Gargiulo, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Chiara Mascoli, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Stefania Caputo, MD",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 44.49381,
+            "lon": 11.33875
+          }
+        },
+        {
+          "facility": "A.S.S.T. Spedali Civili di Brescia",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Brescia",
+          "state": "Italy",
+          "zip": "25123",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Stefano Bonardelli, MD",
+              "role": "CONTACT",
+              "phone": "3332929425",
+              "phoneExt": "+39",
+              "email": "stefano.bonardelli@unibs.it"
+            },
+            {
+              "name": "Stefano Bonardelli, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.53558,
+            "lon": 10.21472
+          }
+        },
+        {
+          "facility": "IRCCS Policlinico San Martino di Genova",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Genova",
+          "state": "Italy",
+          "zip": "16132",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Giovanni Pratesi, MD",
+              "role": "CONTACT",
+              "email": "Giovanni.Pratesi@unige.it"
+            },
+            {
+              "name": "Giovanni Pratesi, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.21604,
+            "lon": 11.87211
+          }
+        },
+        {
+          "facility": "Azienda Ospedaliero-Universitaria di Padova",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Padova",
+          "state": "Italy",
+          "zip": "35128",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Franco Grego, MD",
+              "role": "CONTACT",
+              "phone": "0498212638",
+              "phoneExt": "+39",
+              "email": "franco.grego@unipd.it"
+            },
+            {
+              "name": "Franco Grego, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 44.38225,
+            "lon": 11.14261
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000783",
+          "term": "Aneurysm"
+        },
+        {
+          "id": "D005483",
+          "term": "Flushing"
+        },
+        {
+          "id": "D002546",
+          "term": "Ischemic Attack, Transient"
+        },
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D012877",
+          "term": "Skin Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D002545",
+          "term": "Brain Ischemia"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

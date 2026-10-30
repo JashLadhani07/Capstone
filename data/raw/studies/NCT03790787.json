@@ -1,0 +1,263 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03790787",
+      "orgStudyIdInfo": {
+        "id": "HMM0112"
+      },
+      "organization": {
+        "fullName": "Hua Medicine Limited",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Drug Interaction Study Between Dorzagliatin and Empagliflozin",
+      "officialTitle": "A Phase 1, Open-Label, Sequential, Multiple-Dose, Drug-Drug Interaction Study of Dorzagliatin and Empagliflozin in Subjects with Type 2 Diabetes Mellitus"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2018-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-04-18",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-03-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-03-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2018-12-27",
+      "studyFirstSubmitQcDate": "2018-12-28",
+      "studyFirstPostDateStruct": {
+        "date": "2019-01-02",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Hua Medicine Limited",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a Phase 1, open-label, sequential, multiple-dose, drug interaction study of glucokinase activator dorzagliatin and empagliflozin in subjects with T2DM. Pharmacokinetics and pharmacodynamics when dorzagliatin and empagliflozin given alone and in combination will be studied."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Patients"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SEQUENTIAL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 16,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Sequential arm ABC",
+          "type": "EXPERIMENTAL",
+          "description": "A: Empagliflozin 25 mg QD in the morning on Days 1-5; B: Empagliflozin 25 mg in the morning and Dorzagliatin 75 mg BID (morning and evening) on Days 6-10, with only the morning dose on Day 10; C: Dorzagliatin 75 mg BID (morning and evening) on Days 11-15, with only the morning dose on Day 15.",
+          "interventionNames": [
+            "Drug: Empagliflozin",
+            "Drug: Dorzagliatin"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Empagliflozin",
+          "description": "Empagliflozin as Jardiance\u00ae 25 mg film-coated tablets for oral administration",
+          "armGroupLabels": [
+            "Sequential arm ABC"
+          ],
+          "otherNames": [
+            "Jardiance"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Dorzagliatin",
+          "description": "Glucokinase activator currently under development",
+          "armGroupLabels": [
+            "Sequential arm ABC"
+          ],
+          "otherNames": [
+            "HMS5552"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "GMR for Cmax of empagliflozin",
+          "description": "Geometric mean ratio (GMR) between combination and empagliflozin monotherapy for Cmax of empagliflozin",
+          "timeFrame": "up to 10 days"
+        },
+        {
+          "measure": "GMR for AUC0-24h of empagliflozin",
+          "description": "GMR between combination and empagliflozin in monotherapy for AUC0-24h of empagliflozin",
+          "timeFrame": "up to 10 days"
+        },
+        {
+          "measure": "GMR for Cmax of dorzagliatin",
+          "description": "GMR between combination and dorzagliatin monotherapy for Cmax of dorzagliatin",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "GMR for AUC0-24h of dorzagliatin",
+          "description": "GMR between combination and dorzagliatin in monotherapy for AUC0-24h of dorzagliatin",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "Adverse events",
+          "description": "Number of participants with AEs",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "Abnormal vital signs",
+          "description": "Number of participants with abnormal vital signs (blood pressure, pulse rate, respiratory rate and oral temperature)",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "Abnormal clinical laboratory findings",
+          "description": "Number of participants with abnormal clinical laboratory findings",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "12-lead ECG",
+          "description": "Number of participants with abnormal ECG VR,, PR, QRS and QT",
+          "timeFrame": "up to 15 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "iCmax of glucose",
+          "description": "The incremental peak plasma concentration of glucose post OGTT",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "iAUC0-4h of glucose",
+          "description": "The incremental area under the concentration-time curve of glucose in 4 hours post OGTT",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "iCmax of insulin",
+          "description": "The incremental peak plasma concentration of insulin post OGTT",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "iAUC0-4h of insulin",
+          "description": "The incremental area under the concentration-time curve of insulin in 4 hours post OGTT",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "iCmax of C-peptide",
+          "description": "The incremental peak plasma concentration of C-peptide post OGTT",
+          "timeFrame": "up to 15 days"
+        },
+        {
+          "measure": "iAUC0-4h of C-peptide",
+          "description": "The incremental area under the concentration-time curve of C-peptide in 4 hours post OGTT",
+          "timeFrame": "up to 15 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subjects diagnosed with T2DM within at least 3 months prior to screening\n2. Male and/or female subjects between the ages of 30 and 65 years, inclusive;\n3. Body Mass Index (BMI) of 19 to 38 kg/m2, inclusive, at screening;\n4. Fasting C-peptide test result \\>0.3 nmol/L (\\>0.90 ng/mL);\n5. HbA1c \u22657% and \u226410.5%;\n\nExclusion Criteria:\n\n1. Fasting blood glucose at screening or Day -1 \u2264110 or \u2265270 mg/dL ;\n2. Type 1 diabetes mellitus;\n3. Reported incidence of severe hypoglycemia within 3 months prior to screening;\n4. Known contraindications to empagliflozin;\n5. Clinically significant gastrointestinal disorder;\n6. History or symptoms of clinically significant cardiovascular disease;\n7. History of more than three urinary tract infections and/or more than three genital fungal infections in the last 12 months;\n8. Reported history of clinically significant central nervous system disease including within one year prior to screening;\n9. Reported history of liver disease;\n10. Reported history of clinically significant renal disease;\n11. Estimated glomerular filtration rate (eGFR) \u226460 mL/min/1.73m2;\n12. Acute or chronic metabolic acidosis, including diabetic ketoacidosis;\n13. Known or suspected malignancy;\n14. Any reported hypersensitivity or intolerance to empagliflozin;\n15. Antidiabetic treatment with insulin, sulfonylureas, thiazolidinediones or GLP-1 agonist within 3 months prior to screening;\n16. Systolic blood pressure \\<90 or \\>160 mmHg or diastolic blood pressure \\<60 or \\>100 mmHg at screening;\n17. A hospital admission or major surgery within 90 days prior to screening;\n18. Uncontrolled hypertriglyceridemia \\>500 mg/dL;\n19. Positive blood screen for HIV, HBsAg, or hepatitis C antibody;\n20. Positive pregnancy test result;\n21. Treated with any investigational drugs within 6 weeks prior to screening;\n22. Reported history of prescription drug abuse;\n23. Reported history of alcohol abuse\n24. Reported history of donation or acute loss of blood during the 90 days prior to screening;",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "30 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Gregory J Tracey, MD",
+          "affiliation": "Frontage Clinical Services, Inc.",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Frontage Clinical Services Inc.",
+          "city": "Hackensack",
+          "state": "New Jersey",
+          "zip": "07601",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.88593,
+            "lon": -74.04347
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "42014686",
+          "type": "DERIVED",
+          "citation": "Liu H, Zhang Y, Feng L, Zhang J, Sun Y, Zhao Y, Jiang M, Liu X, Tracey GJ, Chen L, Liu D. A pharmacokinetic and pharmacodynamic drug-drug interaction study of dorzagliatin and empagliflozin in patients with type 2 diabetes and obesity: an open-label phase I trial. Nat Commun. 2026 Apr 21;17(1):5520. doi: 10.1038/s41467-026-71798-x."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C570240",
+          "term": "empagliflozin"
+        },
+        {
+          "id": "C000629807",
+          "term": "Dorzagliatin"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

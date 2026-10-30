@@ -1,0 +1,300 @@
+{
+  "nct_id": "NCT02343198",
+  "title": "The Use of NMES as a Home-based Therapy Following Total Knee Arthroplasty",
+  "sponsor": "National University of Ireland, Galway, Ireland",
+  "phase": "NA",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Venous Thrombosis"
+  ],
+  "interventions": [
+    "Custom-built research muscle stimulator"
+  ],
+  "primary_outcome": "Lower limb venous hemodynamics using Doppler ultrasound",
+  "secondary_outcomes": [
+    "Joint range of motion Knee and ankle range of motion using a goniometer",
+    "Lower limb swelling Circumference measures and volume calculations",
+    "Pain (associated with stimulation) on a visual analogue scale",
+    "Activity levels ActivPAL activity monitor",
+    "Activities of daily living Lawton, Katz, Barthel scales",
+    "Quality of life QoL scales- Knee injury and Osteoarthritis Outcome Score (KOOS)",
+    "Compliance with use of the custom-built research muscle stimulator",
+    "Device usability System Usability Scale (SUS), Quebec User Evaluation of Satisfaction with Assistive Technology (QUEST) scales",
+    "Walking speed 10 metre walk test"
+  ],
+  "start_date": "2014-08",
+  "completion_date": "2015-12",
+  "results_posted": false,
+  "enrollment": 50,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02343198",
+        "orgStudyIdInfo": {
+          "id": "HB_NMES_PC"
+        },
+        "organization": {
+          "fullName": "National University of Ireland, Galway, Ireland",
+          "class": "OTHER"
+        },
+        "briefTitle": "The Use of NMES as a Home-based Therapy Following Total Knee Arthroplasty",
+        "officialTitle": "The Use of NMES as a Home-based Therapy Following Total Knee Arthroplasty"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2015-08",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2014-08"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2015-12",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2015-12",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2015-01-12",
+        "studyFirstSubmitQcDate": "2015-01-20",
+        "studyFirstPostDateStruct": {
+          "date": "2015-01-21",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2015-08-21",
+        "lastUpdatePostDateStruct": {
+          "date": "2015-08-24",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Gearoid O Laighin",
+          "investigatorTitle": "Professor",
+          "investigatorAffiliation": "National University of Ireland, Galway, Ireland"
+        },
+        "leadSponsor": {
+          "name": "National University of Ireland, Galway, Ireland",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Galway Clinic",
+            "class": "NETWORK"
+          },
+          {
+            "name": "Irish Research Council",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The use of neuromuscular electrical stimulation (NMES) as a home-based therapy following total knee arthroplasty. Measures of interest: lower limb venous hemodynamics, joint range of motion, lower limb swelling, walking speed, quality of life, activities of daily living, device usability, device compliance, activity levels, and pain (VAS).",
+        "detailedDescription": "The use of neuromuscular electrical stimulation (NMES) as a home-based therapy following total knee arthroplasty. All participants receive and use a research stimulator for approximately 5 weeks following total knee arthroplasty. Participants randomised to either a stimulation group or placebo-controlled group. Stimulation of the soleus muscle to investigate the effects on lower limb venous hemodynamics, joint range of motion, lower limb swelling, walking speed, quality of life, activities of daily living, device usability, device compliance, activity levels, and pain (VAS) in both groups."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Venous Thrombosis"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "whoMasked": [
+              "PARTICIPANT"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 50,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Stimulation",
+            "type": "EXPERIMENTAL",
+            "description": "Custom-built research muscle stimulator. Muscle stimulator is set to provide a comfortable stimulation when applied to the soleus muscle using two 5x5cm electrodes.",
+            "interventionNames": [
+              "Device: Custom-built research muscle stimulator"
+            ]
+          },
+          {
+            "label": "Placebo-control",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "Custom-built research muscle stimulator. Muscle stimulator is set to provide sensory stimulation but will not cause an active muscle contraction. Stimulation is also delivered to the soleus muscle through two 5x5cm electrodes.",
+            "interventionNames": [
+              "Device: Custom-built research muscle stimulator"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Custom-built research muscle stimulator",
+            "description": "Muscle stimulator",
+            "armGroupLabels": [
+              "Placebo-control",
+              "Stimulation"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Lower limb venous hemodynamics using Doppler ultrasound",
+            "description": "Venous hemodynamics using Doppler ultrasound",
+            "timeFrame": "Participants will be followed from baseline (on average one week pre-operation) up to 6 weeks post-operation"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Joint range of motion Knee and ankle range of motion using a goniometer",
+            "description": "Knee and ankle range of motion using a goniometer",
+            "timeFrame": "Participants will be followed from baseline (on average one week pre-operation) up to 6 weeks post-operation"
+          },
+          {
+            "measure": "Lower limb swelling Circumference measures and volume calculations",
+            "description": "Circumference measures and volume calculations",
+            "timeFrame": "Participants will be followed from baseline (on average one week pre-operation) up to 6 weeks post-operation"
+          },
+          {
+            "measure": "Pain (associated with stimulation) on a visual analogue scale",
+            "description": "Visual analogue scale",
+            "timeFrame": "Participants will be followed from baseline (on average one week pre-operation) up to 6 weeks post-operation"
+          },
+          {
+            "measure": "Activity levels ActivPAL activity monitor",
+            "description": "ActivPAL activity monitor",
+            "timeFrame": "Participants will be followed from baseline (on average one week pre-operation) up to 6 weeks post-operation"
+          },
+          {
+            "measure": "Activities of daily living Lawton, Katz, Barthel scales",
+            "description": "Lawton, Katz, Barthel scales",
+            "timeFrame": "One week (on average) pre-operation, 3 weeks post-operation and 6 weeks post-operation"
+          },
+          {
+            "measure": "Quality of life QoL scales- Knee injury and Osteoarthritis Outcome Score (KOOS)",
+            "description": "QoL scales- Knee injury and Osteoarthritis Outcome Score (KOOS)",
+            "timeFrame": "One week (on average) pre-operation, 3 weeks post-operation and 6 weeks post-operation"
+          },
+          {
+            "measure": "Compliance with use of the custom-built research muscle stimulator",
+            "description": "Compliance with the use of the research stimulator, i.e. adherence to the stimulation protocol for both the number of sessions and the duration of stimulation for each session over the 5 weeks the stimulator is used for",
+            "timeFrame": "Participants will be followed from baseline (on average one week pre-operation) up to 6 weeks post-operation"
+          },
+          {
+            "measure": "Device usability System Usability Scale (SUS), Quebec User Evaluation of Satisfaction with Assistive Technology (QUEST) scales",
+            "description": "System Usability Scale (SUS), Quebec User Evaluation of Satisfaction with Assistive Technology (QUEST) scales",
+            "timeFrame": "6 weeks post-operation"
+          },
+          {
+            "measure": "Walking speed 10 metre walk test",
+            "description": "10 metre walk test",
+            "timeFrame": "Participants will be followed from baseline (on average one week pre-operation) up to 6 weeks post-operation"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Any patient undergoing knee arthroplasty in the Galway Clinic with an ability to understand the nature of the study\n* Ability to give informed consent\n* Not excluded based on exclusion criteria\n\nExclusion Criteria:\n\n* history of symptomatic heart disease or severe arterial disease\n* pregnancy\n* presence of a pacemaker\n* history of neurological disorder\n* presence of cognitive difficulties which may prevent the patient or his/her carer from using the stimulator properly",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "55 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Gearoid \u00d3Laighin, Ph.D",
+            "role": "CONTACT",
+            "phone": "91492685",
+            "phoneExt": "+353",
+            "email": "gearoid.olaighin@nuigalway.ie"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Sandra O'Connell, B.Sc",
+            "affiliation": "NUI Galway, Ireland",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Galway Clinic",
+            "status": "RECRUITING",
+            "city": "Galway",
+            "country": "Ireland",
+            "contacts": [
+              {
+                "name": "Sandra O'Connell, B.Sc",
+                "role": "CONTACT",
+                "phone": "860756430",
+                "phoneExt": "353",
+                "email": "s.oconnell10@nuigalway.ie"
+              }
+            ],
+            "geoPoint": {
+              "lat": 53.27245,
+              "lon": -9.05095
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D020246",
+            "term": "Venous Thrombosis"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D013927",
+            "term": "Thrombosis"
+          },
+          {
+            "id": "D016769",
+            "term": "Embolism and Thrombosis"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378463"
+}

@@ -1,0 +1,223 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02721121",
+      "orgStudyIdInfo": {
+        "id": "4-2016-0029"
+      },
+      "organization": {
+        "fullName": "Yonsei University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Comparison of Circumferential Pulmonary Vein Isolation Alone Versus Linear Ablation in Addition to Circumferential Pulmonary Vein Isolation for Catheter Ablation in Persistent Atrial Fibrillation: Prospective Randomized Controlled Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-01",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-03"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-03",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2021-03",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2016-03-22",
+      "studyFirstSubmitQcDate": "2016-03-25",
+      "studyFirstPostDateStruct": {
+        "date": "2016-03-28",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2019-01-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-01-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Yonsei University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to compare the clinical outcomes depending on catheter ablation strategy for persistent atrial fibrillation. After randomization, investigators will conduct circumferential pulmonary vein isolation alone in a group, and additional posterior box isolation and anterior linear ablation in the other group. Investigators will compare clinical recurrence rate, complication rate, and procedure time, etc."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atrial Fibrillation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 220,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "circumferential pulmonary vein isolation",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "circumferential pulmonary vein isolation",
+          "interventionNames": [
+            "Procedure: circumferential pulmonary vein isolation"
+          ]
+        },
+        {
+          "label": "Linear ablation in addiction to pulmonary vein isolation",
+          "type": "EXPERIMENTAL",
+          "description": "Linear ablation in addiction to pulmonary vein isolation",
+          "interventionNames": [
+            "Procedure: Linear ablation in addiction to circumferential pulmonary vein isolation"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "circumferential pulmonary vein isolation",
+          "armGroupLabels": [
+            "circumferential pulmonary vein isolation"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Linear ablation in addiction to circumferential pulmonary vein isolation",
+          "armGroupLabels": [
+            "Linear ablation in addiction to pulmonary vein isolation"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Recurrence of atrial fibrillation after catheter ablation",
+          "timeFrame": "12 month"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "procedure time",
+          "timeFrame": "1 day"
+        },
+        {
+          "measure": "procedure related complication rate",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "rate of hospitalization",
+          "timeFrame": "12 month"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with persistent Atrial fibrillation (20\\~80 years)\n* LA diameter \\<55mm\n* patients possible to anticoagulation and anti arrhythmic drug\n\nExclusion Criteria:\n\n* Structural cardiac disease\n* Contraindication to brain perfusion CT\n* Catheter ablation history for AF,\n* Cardiac surgery for AF\n* active internal bleeding\n* Impossible to anticoagulation or antiarrhythmic drug\n* valvular AF (MA\\> GII, Mechanical valve, Mitral valve replacement)\n* Patients with severe medical disease\n* Expected survival \\< 1year\n* Severe alcoholics, drug addiction",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "20 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Severance Cardiovascular Hospital, Yonsei University Health System",
+          "status": "RECRUITING",
+          "city": "Seoul",
+          "zip": "120-752",
+          "country": "South Korea",
+          "contacts": [
+            {
+              "name": "Hui-Nam Pak, M.D., Ph.D.",
+              "role": "CONTACT",
+              "phone": "82-2-2228-8459",
+              "email": "hnpak@yuhs.ac"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "31753429",
+          "type": "DERIVED",
+          "citation": "Lee JM, Shim J, Park J, Yu HT, Kim TH, Park JK, Uhm JS, Kim JB, Joung B, Lee MH, Kim YH, Pak HN; POBI-AF Investigators. The Electrical Isolation of the Left Atrial Posterior Wall in Catheter Ablation of Persistent Atrial Fibrillation. JACC Clin Electrophysiol. 2019 Nov;5(11):1253-1261. doi: 10.1016/j.jacep.2019.08.021. Epub 2019 Oct 30."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001281",
+          "term": "Atrial Fibrillation"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001145",
+          "term": "Arrhythmias, Cardiac"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

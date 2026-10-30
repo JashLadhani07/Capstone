@@ -1,0 +1,287 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02310438",
+      "orgStudyIdInfo": {
+        "id": "13/EE/0400"
+      },
+      "organization": {
+        "fullName": "Anglia Ruskin University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Music Therapy for The Rehabilitation of Upper Limb With Stroke Patients",
+      "officialTitle": "An Investigation Into Music Therapy for Upper Limb Rehabilitation in Stroke Patients",
+      "acronym": "TIMPStro"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2014-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2015-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2015-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-12-04",
+      "studyFirstSubmitQcDate": "2014-12-05",
+      "studyFirstPostDateStruct": {
+        "date": "2014-12-08",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-01-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-01-05",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Anglia Ruskin University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Impairment of arm function is more common than lower limb impairment in stroke patients and is also more resistant to treatment. Several clinical trials with stroke patients have produced statistically significant gains in upper limb function when using instrumental playing and treatments where rhythm supports the priming and timing of movements. Based on the positive results from controlled and non-controlled trials, the Cochrane review of music therapy for acquired brain injury (Bradt, et al., 2010) recommends further investigation into rhythm based techniques to treat hemiparesis in stroke patients, and that future studies need to examine the relationship between the frequency and duration of interventions and treatment effects.\n\nThe aim of this study is to examine whether or not a thirty minute, twice weekly, six week, home music therapy treatment, playing set musical patterns on instruments to music is feasible to deliver, and will lead to improved coordination, dexterity and activities of daily living in hemiparetic stroke patients.\n\nTwelve patients will be recruited from Cambridgeshire Community Services NHS trust (CCS) who are between one month and two years post stroke with hemiparesis. Participants will have completed and been discharged from community rehabilitation for their upper limb and not be receiving any other treatment for arm function. They will be randomised into two groups: treatment (for immediate treatment following discharge from community rehab) and waiting list (beginning 9 weeks after baseline measure). Participants will be assessed at the beginning and end of treatment (just before starting and just after completing 6 weeks of treatment) by one of two experienced community occupational therapists under contract with CCS, who are also experienced in working with stroke patients and who will be blind to the experiment. The other three measures will be conducted by the chief investigator. The assessment tools will be the Action Research Arm Test (ARAT) and nine hole peg test (9HPT). There will also be a pre and post treatment semi-structured interview for each participant, which will be conducted by the chief investigator. ARAT and 9HPT assessments will be administered to all participants at the same time points: baseline and then at week 6, 9, 15 and 18. Data will be analysed to determine if the treatment is effective compared to no treatment (wait list) following community discharge, and whether earlier intervention (treatment group) yields better results for participants, all of whom will eventually receive treatment.",
+      "detailedDescription": "CROSSOVER DESIGN After the stroke patients have finished their upper limb rehabilitation with CCS and are no longer receiving any physiotherapy or occupational therapy to improve it, this study aims to establish if their upper limb function is maintained, deteriorates, or improves. In order to do this the investigators will have a waiting list group who wait 9 weeks after the end of their CCS rehabilitation but are assessed at the same time points after their baseline measure as the treatment group. This enables us to compare the results of the treatment group with the waiting list group, in other words 'treatment compared to no treatment after CCS rehab has ended', and establish if the music therapy has been effective. The investigators can also compare the results of both groups and determine if the participants who received music therapy earlier performed any differently than the waiting list group.\n\nThe five repeated measures using the ARAT and 9HPT also allow each participant to be measured against themselves, comparing treatment with no treatment and establishing how the exercises using the musical instruments (TIMP treatment) have influenced their paretic arm use during activities of daily living.\n\nSTUDY GOALS AND OBJECTIVES\n\nThe study goal is to investigate the feasibility of delivering this music therapy treatment in stroke patients' homes twice a week for six weeks with the objective of answering the primary research question, which is:\n\n1. Does TIMP improve upper limb function after statutory rehabilitation has ceased to be effective and consequently ended?\n\n   The Secondary objectives are to try and determine:\n2. Is TIMP more effective when delivered immediately after statutory rehabilitation has ended compared to 9 weeks later ?\n3. How do participants experience TIMP?\n\nSTUDY DESIGN\n\nIn order to answer the research questions a wait list, crossover design will be used, with twelve participants randomly assigned to two groups:\n\nA = treatment B = wait list Randomisation will be achieved using an envelope system, with twelve sealed envelopes containing folded pieces of paper, six with the word 'treatment' and six with the word 'wait list' written on them. Each time a patient consents to participation, the chief investigator will contact the statistician and ask him to open an envelope and read the piece of paper inside.\n\nThere can be enormous variability between patients in terms of speed of recovery following stroke and so the inclusion criteria for 'time since stroke' is quite broad. There is no clear data that fully confirms differences in degrees of upper limb paresis based on type or site of stroke and so all types and sites are included.\n\nInclusion criteria for the study is as follows:\n\n1. Can consent to treatment\n2. aged 18-70\n3. has completed community rehabilitation for upper limb paresis\n4. any type and site of stroke\n5. between 1 month and 2 years post stroke\n6. can lift paretic hand onto a table whilst seated, without assistance from unaffected hand\n7. some finger movement, which could be extension of one or more fingers\n8. not receiving any other treatment for upper limb paresis during the course of this study (18 weeks from baseline measure)\n\nOnce treatment begins, each participant will receive two, thirty minute music therapy sessions per week for six weeks. All participants will eventually receive treatment. Group A will begin music therapy immediately after completing their baseline assessment using ARAT and 9HPT and completing the semi-structured interview. This means that the first session will require approximately two hours in order to allow for setting up equipment and breaks for the participant. In the event that the participant is too tired following the assessment to continue with the treatment, then the music therapy session will be rescheduled for another day in the same week. The end measure will also take place on the same day as the twelfth and final session and if the participant is too tired to complete the end assessment then it will be rescheduled for another day in the same week.\n\nMETHODOLOGY\n\nRECRUITMENT Patients who have completed their CCS community occupational and physiotherapy rehabilitation will be sent a letter of invitation to participate in this study and an information sheet (see attached 'Letter of Invitation' and 'participant information sheet'). In the letter they will be asked to contact the chief investigator if they are interested in participating, explaining that he will answer any questions that they have about participation and arrange to visit them in their home in order to demonstrate some of the exercises. Then, if they are interested the chief investigator will leave a consent form for them to sign and return within a week.\n\nRANDOMISATION Once a participant has given informed consent, the chief investigator will contact the statistician (Mike Parker, medical statistician, Anglia University, Chelmsford) and ask him to open one of 12 envelopes, which will have either 'treatment' or 'waiting list' written on a piece of paper inside and indicate which group the participant will go into.\n\nASSESSMENTS The primary outcome measure will be the Action Research Arm Test (Lyle 1981. See diagram 12 under 'Appendix'), which has been used in similar studies (Schneider; 2007, Altenmueller; 2009, Grau-Sanchez; 2013) thus enabling some comparison of data with this study. It is a 19 item measure that is divided into four categories: grasp, grip, pinch and gross movement. Each item, or action, is performed by the participant while seated a measured distance from a table (15cm), where all of the assessment items are placed (blocks of wood of various sizes, smaller items, etc). The test recreates the movements or sequences of movements common to activities of daily living, such as reaching up onto a shelf to pick up a can of soup. A table map for the ARAT is laid out flat on the table top and this has markers on it to indicate the start and end position for each object used in the test, thus optimising consistency between patients and setting.\n\nThe performance of each task is timed using a stopwatch, and scored according to a standardised scale.\n\nThe assessment can take up to 30 minutes if the patient needs to complete all items in every subcategory, but this is rare. The test usually takes approximately 10 minutes.\n\nThe secondary outcome measure is the 9 hole peg test (Kellor et al, 1971). This is a test that the Cambridgeshire Community Services team (host to this study) use. It is a timed test measuring finger dexterity using standardised equipment comprising a rectangular plastic tray with a rounded, concave tray at one end containing nine small white pegs and at the other end nine holes into which the participant must (one at a time) place the nine pegs from the tray and then remove them, placing them back into the tray as quickly as possible. The patient practices with the unaffected hand first, then the paretic side. The patient is seated while performing the test. A non-slip mat is placed between the base of the peg test and the table surface. The participant may stabilise the test base if necessary using their unaffected hand. The test takes no more than 2 minutes to administer, depending on the age of the patient and their existing degree of finger dexterity.\n\nSEMI-STRUCTURED INTERVIEW Before beginning the music therapy treatment each participant will be asked set questions about it and to score how much they think it will improve their paretic arm use in activities of daily living. At the end of treatment participants will be asked the same questions. The chief investigator will write down responses during the interview for later thematic analysis. Interviews will not be recorded. Questions have been used that are as open as possible so as to give participants the opportunity to express their preconceptions and thoughts. Each question may lead to further questions, for example question 1 may prompt a response 'I think it will help me\" to which the chief investigator may respond \"how might it help you?\" The purpose of the semi-structured interview is to gather qualitative data specifically regarding how participants experienced the treatment. The pre and post questions are set out below."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hemiparesis"
+      ],
+      "keywords": [
+        "Music therapy",
+        "stroke",
+        "hemiparesis",
+        "neurologic music therapy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 10,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Early intervention music therapy",
+          "type": "EXPERIMENTAL",
+          "description": "music therapy:\n\n6 stroke patients with hemiparesis begin music therapy treatment in their home as soon as they have completed statutory NHS community rehabilitation.",
+          "interventionNames": [
+            "Other: Therapeutic Instrumental Music Performance"
+          ]
+        },
+        {
+          "label": "Delayed intervention music therapy",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "music therapy:\n\n6 stroke patients with hemiparesis begin music therapy treatment in their home 9 weeks after they have been randomised into the wait list group.",
+          "interventionNames": [
+            "Other: Therapeutic Instrumental Music Performance"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Therapeutic Instrumental Music Performance",
+          "description": "The same instruments are selected and used with each participant. They are spatially arranged for them to play in their home in a way that addresses the target movement, for example elbow flexion and extension. The music therapist plays specific musical patterns live on a guitar for each exercise whilst the participant plays specific patterns on the instruments.",
+          "armGroupLabels": [
+            "Delayed intervention music therapy",
+            "Early intervention music therapy"
+          ],
+          "otherNames": [
+            "Music Therapy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Action Research Arm Test (ARAT)",
+          "description": "The Action Research Arm Test. This includes 19 tasks using the affected and unaffected upper limb, for example picking up a block and placing it on a shelf or pouring water from one cup into another. Each task is timed and scored on a standardised scale (0 to 3). Maximum score of 57.",
+          "timeFrame": "10 to 30 minutes"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "The nine hole peg test",
+          "description": "The secondary outcome measure is the 9 hole peg test (Kellor et al, 1971). This is a test that the Cambridgeshire Community Services team (host to this study) use. It is a timed test measuring finger dexterity using standardised equipment comprising a rectangular plastic tray with a rounded, concave tray at one end containing nine small white pegs and at the other end nine holes into which the participant must (one at a time) place the nine pegs from the tray and then remove them, placing them back into the tray as quickly as possible. The patient practices with the unaffected hand first, then the paretic side. The patient is seated while performing the test. A non-slip mat is placed between the base of the peg test and the table surface. The participant may stabilise the test base if necessary using their unaffected hand. The test takes no more than 2 minutes to administer, depending on the age of the patient and their existing degree of finger dexterity.",
+          "timeFrame": "2 minutes"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Semi-structured interview",
+          "description": "Before beginning the music therapy treatment each participant will be asked set questions about it and to score how much they think it will improve their paretic arm use in activities of daily living. At the end of treatment participants will be asked the same questions. The chief investigator will write down responses during the interview for later thematic analysis. Interviews will not be recorded. Questions have been used that are as open as possible so as to give participants the opportunity to express their preconceptions and thoughts. Each question may lead to further questions, for example question 1 may prompt a response 'I think it will help me\" to which the chief investigator may respond \"how might it help you?\" The purpose of the semi-structured interview is to gather qualitative data specifically regarding how participants experienced the treatment.",
+          "timeFrame": "10 minutes"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. can consent to treatment\n2. aged 18+\n3. has completed community rehabilitation for upper limb paresis\n4. any type and site of stroke\n5. between 3 months and 5 years post stroke\n6. can lift paretic hand onto a table whilst seated, without assistance from unaffected hand\n7. some finger movement, which could be extension of one or more fingers\n8. not receiving any other treatment for upper limb paresis during the course of this study (18 weeks from baseline measure)\n\nExclusion Criteria:\n\n1. unable to consent to participate\n2. unable to lift hand up onto a table without assistance\n3. no finger movement\n4. is receiving another treatment for upper limb hemiparesis",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Anglia Ruskin University",
+          "city": "Cambridge",
+          "state": "Cambridgeshire",
+          "zip": "CB1 1PT",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.2,
+            "lon": 0.11667
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "28643570",
+          "type": "DERIVED",
+          "citation": "Street AJ, Magee WL, Bateman A, Parker M, Odell-Miller H, Fachner J. Home-based neurologic music therapy for arm hemiparesis following stroke: results from a pilot, feasibility randomized controlled trial. Clin Rehabil. 2018 Jan;32(1):18-28. doi: 10.1177/0269215517717060. Epub 2017 Jun 23."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D010291",
+          "term": "Paresis"
+        },
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009147",
+          "term": "Music Therapy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D026421",
+          "term": "Sensory Art Therapies"
+        },
+        {
+          "id": "D000529",
+          "term": "Complementary Therapies"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D012046",
+          "term": "Rehabilitation"
+        },
+        {
+          "id": "D000359",
+          "term": "Aftercare"
+        },
+        {
+          "id": "D003266",
+          "term": "Continuity of Patient Care"
+        },
+        {
+          "id": "D005791",
+          "term": "Patient Care"
+        },
+        {
+          "id": "D011613",
+          "term": "Psychotherapy"
+        },
+        {
+          "id": "D004191",
+          "term": "Behavioral Disciplines and Activities"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

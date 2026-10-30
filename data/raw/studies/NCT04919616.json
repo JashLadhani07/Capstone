@@ -1,0 +1,213 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04919616",
+      "orgStudyIdInfo": {
+        "id": "Origincell-TIL-003"
+      },
+      "organization": {
+        "fullName": "Shanghai OriginCell Therapeutics Co., Ltd.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "An Exploratory Clinical Study of TILs in the Treatment of Recurrent / Refractory Non-small Cell Lung Cancer (NSCLC)",
+      "officialTitle": "An Exploratory Clinical Study of Autologous Tumor Infiltrating Lymphocytes (TILs) in the Treatment of Recurrent and Refractory Non-small Cell Lung Cancer (NSCLC)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-06",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-06-15",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-06-15",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2025-06-15",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-05-11",
+      "studyFirstSubmitQcDate": "2021-06-02",
+      "studyFirstPostDateStruct": {
+        "date": "2021-06-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-06-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-06-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Shanghai OriginCell Therapeutics Co., Ltd.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is an open, single-arm, dose-escalating phase I exploratory clinical trial to observe the safety, tolerability and preliminary efficacy of different doses of TILs in the treatment of relapsed and refractory NSCLC\uff08Non-small cell lung cancer\uff09.\n\nThe study includes 7 stages: \u2460 screening period; \u2461 tissue collection; \u2462 TILs cell production and preparation; \u2463 lymphocyte depletion pretreatment; \u2464 TILs cell infusion; \u2465 safety and efficacy evaluation; \u2466 follow-up."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Carcinoma, Non-Small-Cell Lung"
+      ],
+      "keywords": [
+        "Lymphocytes, Tumor-Infiltrating; TILs",
+        "NSCLC"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 15,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Single-arm",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: TILs\uff08Tumor Infiltrating Lymphocytes\uff09"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "TILs\uff08Tumor Infiltrating Lymphocytes\uff09",
+          "description": "10e9, 10e10, 10e11 dose range of TILs, 3+3 dose escalation",
+          "armGroupLabels": [
+            "Single-arm"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "DLT\uff08Dose limiting toxicity\uff09",
+          "description": "The severity of adverse events is graded according to NCT-CTCAE version 5.0, and the investigator will determine whether the subject has DLT. DLT is defined as: Grade 3 or above (CTCAE version 5.0) possible or confirmed related symptoms, laboratory toxicity and clinical events caused by the study treatment within 28 days after transfusion of TILs cells.",
+          "timeFrame": "28 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Objective Response Rate, ORR",
+          "description": "To evaluate the efficacy of TILs in patients with NSCLC based on the objective response rate (ORR) as assessed by the Independent Review Committee (IRC) per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1",
+          "timeFrame": "3 Months"
+        },
+        {
+          "measure": "Duration of Response, DOR",
+          "description": "To evaluate the efficacy parameters of TILs in patients with NSCLC by assessing duration of response (DOR) as assessed by the IRC per RECIST v1.1",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Progression-Free Survival, PFS",
+          "description": "To evaluate the efficacy parameters of TILs in patients with NSCLC by assessing progression-free survival (PFS) as assessed by the IRC per RECIST v1.1",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "overall survival, OS",
+          "description": "To evaluate overall survival (OS) in patients with NSCLC",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Disease Control Rate, DCR",
+          "description": "To evaluate the efficacy of TILs in patients with NSCLC by assessing disease control rate (DCR) as assessed by the Investigator per RECIST v1.1",
+          "timeFrame": "2 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. To participate in clinical trials and sign an informed consent form voluntarily;\n2. 18-70 years old;\n3. ECOG (Eastern Cooperative Oncology Group) score is 0 or 1;\n4. The patient's pre-survival period exceeds 3 months;\n5. Patients with advanced stage IIIB or above (according to AJCC 8th Edition lung cancer staging criteria), and patients with stage IIIA or above who received targeted drugs or PD-1 treatment then failed;\n6. Patients who have received systemic therapy of anti-tumor therapy (including chemotherapy, radiotherapy, immunotherapy, biotherapy or targeted therapy), and whose progress has been confirmed after treatment;\n7. At least one measurable target lesion defined by RECIST v1.1 (Response Evaluation Criteria in Solid Tumours);\n8. At least one tumor with a diameter of more than 10 mm and a volume of 1.5 cm3 can be resected or biopsied, and TILs can be separated after resection, or TILs can be separated from malignant effusion;\n9. Blood routine test reached the following indicators: lymphocyte count \u2265 0.4 \u00d7 109 / L, neutrophils \u2265 1.0 \u00d7 109 / L, platelet \u2265 60 \u00d7 109 / L, hemoglobin \u2265 60g / L;\n10. Liver and kidney function: ALT (alanine aminotransferase) or AST (aspartate aminotransferase) index \\< 2.5 times of normal value; Creatinine clearance rate \\> 50 ml / min; Total bilirubin \\< 1.5 times of normal value; Prothrombin time prolongation \u2264 4 s;\n11. No heart disease or coronary heart disease, echocardiogram shows normal diastolic function, left ventricular ejection fraction (LVEF) \u226550%, and no serious arrhythmia;\n12. Treatment methods for malignant tumors, including radiotherapy, chemotherapy and biological agents (including granulocyte colony-stimulating factor G-CSF, targeted drug therapy, etc.), must be stopped 14 days before obtaining tumor tissue;\n13. Female patients with fertility must have a negative pregnancy test;\n14. The fertile person or fertile partner must be willing to use an approved and effective contraceptive method during the treatment period and within 12 months after receiving all treatments related to the treatment regimen.\n\nExclusion Criteria:\n\n1. Patients with a history of allergy to any component of the study drug;\n2. Patients with symptomatic and/or untreated brain metastases;\n3. Patients receiving systemic steroid therapy with prednisone or other steroid equivalent \u2265 10 mg / day. Patients with adrenocortical insufficiency receiving prednisone or other steroid equivalent \u2264 10 mg / day may be eligible;\n4. Patients who received live or attenuated vaccines within 28 days before the start of treatment;\n5. Patients who have received anti-cancer chemotherapy, radiotherapy or other medications within 2 weeks before screening;\n6. Patients who participated in another interventional clinical study within 3 weeks before screening;\n7. Patients with other primary malignant tumors in the past 3 years;\n8. Patients who underwent organ transplantation or cell transplantation in the past 20 years;\n9. Active infections requiring systemic treatment;\n10. The subjects with positive HBsAg or HBcAb and more than 100 copies / L of HBV DNA in peripheral blood; HCV antibody and HCV RNA in peripheral blood were positive; HIV antibody positive patients; Syphilis antibody was positive in the first screening;\n11. Active or previously recorded autoimmune or inflammatory diseases;\n12. Patients with any form of primary or acquired immunodeficiency;\n13. Patients with inherited or acquired coagulation disorders;\n14. Patients with uncontrollable brain metastasis, spinal cord compression, cancerous meningitis within 8 weeks before the first medication, or brain or leptomeningeal disease detected by CT or MRI during screening;\n15. Serious mental illness can hinder the full informed consent;\n16. Breast feeding female patients;\n17. Any investigator decides that it is not appropriate to participate in this trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002289",
+          "term": "Carcinoma, Non-Small-Cell Lung"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002283",
+          "term": "Carcinoma, Bronchogenic"
+        },
+        {
+          "id": "D001984",
+          "term": "Bronchial Neoplasms"
+        },
+        {
+          "id": "D008175",
+          "term": "Lung Neoplasms"
+        },
+        {
+          "id": "D012142",
+          "term": "Respiratory Tract Neoplasms"
+        },
+        {
+          "id": "D013899",
+          "term": "Thoracic Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

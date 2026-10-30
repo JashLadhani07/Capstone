@@ -1,0 +1,220 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05961865",
+      "orgStudyIdInfo": {
+        "id": "6672"
+      },
+      "organization": {
+        "fullName": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+        "class": "OTHER"
+      },
+      "briefTitle": "Change in Inflammatory State in Patients Undergoing Transcatheter Ablation of Atrial Fibrillation",
+      "officialTitle": "Change in Inflammatory State in Patients Undergoing Transcatheter Ablation of Atrial Fibrillation",
+      "acronym": "POLICARDIOFA"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-09",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-07-11",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-07",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-08",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-07-09",
+      "studyFirstSubmitQcDate": "2023-07-18",
+      "studyFirstPostDateStruct": {
+        "date": "2023-07-27",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-09-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-09-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Stefano Carugo",
+        "investigatorTitle": "Director of the Department of Cardio-Thoracic-Vascular Diseases",
+        "investigatorAffiliation": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico"
+      },
+      "leadSponsor": {
+        "name": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Milan",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "It is a non-pharmacological (biological), spontaneous observational study. The main objective is to evaluate the correlation between inflammation markers and local adiposity, clinical risk factors and their possible variation following an AF ablation procedure",
+      "detailedDescription": "The study includes the execution of a sample for each time point for the evaluation of inflammation and fibrosis markers identified so far in the literature, such as Interleukin 6, N-terminal propeptide of procollagen type 1 (P1NP), chitinase-3-like protein 1 (YKL-40), tumor necrosis factor (TNF-alpha), GlycA, proprotein convertase subtilisin/kexin type 9 and omega-3 fatty acids."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atrial Fibrillation",
+        "Marker of Inflammation",
+        "Inflammation",
+        "Arrhythmia"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITHOUT_DNA",
+        "description": "Blood aliquot will be analyzed for the evaluation of markers of atrial inflammation and fibrosis identified so far in the literature, such as Interleukin 6, N-terminal propeptide of procollagen type 1 (P1NP), chitinase-3-like protein 1 (YKL-40), tumor necrosis factor (TNF-alpha) , GlycA, proprotein convertase subtilisin/kexin type 9 and omega-3 fatty acids."
+      },
+      "enrollmentInfo": {
+        "count": 180,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Markers of inflammation and fibrosis",
+          "description": "Will be analyzed the following inflammation markers:\n\nInterleukin 6, N-terminal propeptide of type 1 procollagen (P1NP), chitinase-3-like protein 1 (YKL-40), tumor necrosis factor (TNF-alpha), GlycA, proprotein convertase subtilisin/kexin type 9 and omega-3 fatty acids."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Prevalence of subjects with AF undergoing ablation who have a reduction of inflammatory burden following treatment.",
+          "description": "Outcome measured through biochemical analyzes conducted on the patient: interleukin 6 (pg/ml), procollagen type 1 N-terminal propeptide (\u00b5g/l), chitinase-3-like protein 1(ng/ml), tumor necrosis factor -TNF-alpha - (pg/ml), GlycA (mmol/mol).",
+          "timeFrame": "One year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Prevalence of subjects with AF undergoing ablation who show improvement in clinical terms and in the arrhythmia recurrence rate.",
+          "description": "Identify how many AF patients undergoing ablation have a reduction in related symptoms such as shortness of breath, feeling tired and weakness. The patient will answer an EQ-5D-5L questionnaire for symptom assessment",
+          "timeFrame": "One year"
+        },
+        {
+          "measure": "Relationship between the degree of inflammation and atrial fibrosis and the degree of atrial fibrosis detected by electroanatomical mapping.",
+          "description": "Relationship between the degree of inflammation and atrial fibrosis detected through biochemical analyzes conducted on the patient: interleukin 6 (pg/ml), procollagen type 1 N-terminal propeptide (\u00b5g/l), chitinase-3-like protein 1(ng/ml), tumor necrosis factor -TNF-alpha - (pg/ml), GlycA (mmol/mol) and the degree of atrial fibrosis detected on mapping electroanatomical (voltage map)",
+          "timeFrame": "One year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Paroxysmal or persistent AF;\n* Patients undergoing ESC/ERAH(European Society of Cardiology/European Heart Rhythm Association) approved catheter ablation procedures;\n* Aged between 18 and 85 years;\n* Ability to provide informed consent for study participation.\n\nExclusion Criteria:\n\n* Age \\> 85 years or \\< 18 years;\n* Presence of left auricular thrombosis on pre-procedural transesophageal echocardiogram;\n* NYHA functional class IV;\n* Left ventricular ejection fraction \\<30%;\n* Myocardial infarction or unstable angina or recent coronary artery bypass graft (\\<6 months);\n* Significant co-morbidity, such as cancer, severe renal failure requiring dialysis, severe obstructive pulmonary disease, cirrhosis, with a life expectancy of less than 12 months;\n* Presence of contraindications to the procedure;\n* Inability to provide informed consent for study participation.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "85 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients with Paroxysmal or Persistent Atrial Fibrillation",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Stefano Carugo, MD",
+          "role": "CONTACT",
+          "phone": "+390255033532",
+          "email": "stefano.carugo@policlinico.mi.it"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Stefano Carugo, MD",
+          "affiliation": "IRCCS Fondazione C\u00e0 Granda Ospedale Maggiore Policlinico",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+          "status": "RECRUITING",
+          "city": "Milan",
+          "zip": "20122",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Stefano Carugo, MD",
+              "role": "CONTACT",
+              "phone": "+39 0255033579"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.46427,
+            "lon": 9.18951
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001281",
+          "term": "Atrial Fibrillation"
+        },
+        {
+          "id": "D007249",
+          "term": "Inflammation"
+        },
+        {
+          "id": "D001145",
+          "term": "Arrhythmias, Cardiac"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

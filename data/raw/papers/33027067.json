@@ -1,0 +1,23 @@
+{
+  "pmid": "33027067",
+  "title": "Firibastat: An Oral First-in-Class Brain Aminopeptidase A Inhibitor for Systemic Hypertension.",
+  "abstract": "Systemic hypertension is the leading cause of death and disability worldwide. The management of hypertension is challenging in the high-risk patient population with high salt-sensitivity and low serum renin levels. The renin-angiotensin system (RAS) plays a central role in blood pressure (BP) regulation. While we have effective medications to act on peripheral RAS, our understanding of brain RAS and its effect on BP regulation is still in an evolving stage. Brain RAS hyperactivity is associated with the development and maintenance of hypertension. In comparison to peripheral RAS, where angiotensin II is the most crucial component responsible for BP regulation, angiotensin III is likely the main active peptide in the brain RAS. Angiotensin II is metabolized by aminopeptidase A into angiotensin III in the brain. EC33 is a potent inhibitor of brain aminopeptidase A tested in animal models. The use of EC33 in conscious spontaneously hypertensive rats, hypertensive deoxycorticosterone acetate-salt rats, and conscious normotensive rat models leads to a reduction in BP. In order to facilitate the passage of EC33 through the blood-brain barrier, the 2 molecules of EC33 were linked by a disulfide bridge to form a prodrug called RB150. RB150, later renamed as QGC001 or firibastat, was found to be effective in animal models and well-tolerated when used in healthy participants. Firibastat was found to be safe and effective in phase 2 trials, and is now planned to undergo a phase 3 trial. Firibastat has the potential to be groundbreaking in the management of resistant hypertension.",
+  "journal": "Cardiology in review",
+  "pub_date": "",
+  "authors": [
+    "Khosla, Jagjit",
+    "Aronow, Wilbert S",
+    "Frishman, William H"
+  ],
+  "nct_ids_referenced": [
+    "NCT01900171",
+    "NCT01900184",
+    "NCT02322450",
+    "NCT03198793",
+    "NCT04277884",
+    "NCT03715998"
+  ],
+  "source": "pubmed",
+  "word_count": 247,
+  "parsed_at": "2026-10-30T13:31:43.870172"
+}

@@ -1,0 +1,1037 @@
+{
+  "nct_id": "NCT00668109",
+  "title": "A Randomized, Open-label, Multi-center, Parallel Group Study to Investigate the Efficacy and Safety of Vardenafil in Comparison to Tadalafil in Males With Erectile Dysfunction and a Diagnosis of Diabetes, Hypertension or Hyperlipidemia",
+  "sponsor": "Bayer",
+  "phase": "PHASE3",
+  "status": "COMPLETED",
+  "conditions": [
+    "Erectile Dysfunction"
+  ],
+  "interventions": [
+    "Levitra (Vardenafil, BAY38-9456)",
+    "Tadalafil"
+  ],
+  "primary_outcome": "Sexual encounter profile question 3 observed within 15 minutes to 4 hours for vardenafil and 22 to 26 hours for the tadalafil group",
+  "secondary_outcomes": [
+    "Sexual encounter profile question 2",
+    "Hardness of erection",
+    "Other diary based variables",
+    "Safety and tolerability"
+  ],
+  "start_date": "2003-12",
+  "completion_date": "2004-06",
+  "results_posted": false,
+  "enrollment": 614,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00668109",
+        "orgStudyIdInfo": {
+          "id": "10893"
+        },
+        "organization": {
+          "fullName": "Bayer",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Assessment of Efficacy of Vardenafil in Subjects With Erectile Dysfunction and Diabetes, Hypertension or Hyperlipidemia",
+        "officialTitle": "A Randomized, Open-label, Multi-center, Parallel Group Study to Investigate the Efficacy and Safety of Vardenafil in Comparison to Tadalafil in Males With Erectile Dysfunction and a Diagnosis of Diabetes, Hypertension or Hyperlipidemia",
+        "acronym": "LUTECIA"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2014-12",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2003-12"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2004-06",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2004-06",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2008-04-24",
+        "studyFirstSubmitQcDate": "2008-04-27",
+        "studyFirstPostDateStruct": {
+          "date": "2008-04-28",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2014-12-18",
+        "lastUpdatePostDateStruct": {
+          "date": "2014-12-23",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Bayer",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Assessment of efficacy of vardenafil in subjects with erectile dysfunction and diabetes, hypertension or hyperlipidemia"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Erectile Dysfunction"
+        ],
+        "keywords": [
+          "Erectile Dysfunction",
+          "Diabetes mellitus",
+          "Hypertension",
+          "Hyperlipidemia",
+          "Vardenafil"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 614,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Arm 1",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Drug: Levitra (Vardenafil, BAY38-9456)"
+            ]
+          },
+          {
+            "label": "Arm 2",
+            "type": "ACTIVE_COMPARATOR",
+            "interventionNames": [
+              "Drug: Tadalafil"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Levitra (Vardenafil, BAY38-9456)",
+            "description": "10 mg one hour prior to sexual intercourse",
+            "armGroupLabels": [
+              "Arm 1"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Tadalafil",
+            "description": "10 mg taken approximately 24 hours prior to sexual intercourse",
+            "armGroupLabels": [
+              "Arm 2"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Sexual encounter profile question 3 observed within 15 minutes to 4 hours for vardenafil and 22 to 26 hours for the tadalafil group",
+            "timeFrame": "4 weeks"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Sexual encounter profile question 2",
+            "timeFrame": "4 weeks"
+          },
+          {
+            "measure": "Hardness of erection",
+            "timeFrame": "4 weeks"
+          },
+          {
+            "measure": "Other diary based variables",
+            "timeFrame": "4 weeks"
+          },
+          {
+            "measure": "Safety and tolerability",
+            "timeFrame": "4 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:- Age: 18 years and older- Males with erectile dysfunction- Stable heterosexual relationship- Medical history / diagnosis of diabetes mellitus and/or hypertension and/or hyperlipidemia Exclusion Criteria:- Primary hypoactive sexual desire- History of myocardial infarction, stroke or life-threatening arrhythmia within the prior 6 months- Nitrate use- Other exclusion criteria apply according to Summary of Product Characteristics",
+        "healthyVolunteers": false,
+        "sex": "MALE",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Bayer Study Director",
+            "affiliation": "Bayer",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "city": "Bruxelles - Brussel",
+            "zip": "1070",
+            "country": "Belgium"
+          },
+          {
+            "city": "Bruxelles - Brussel",
+            "zip": "1200",
+            "country": "Belgium"
+          },
+          {
+            "city": "Edegem",
+            "zip": "2650",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.15662,
+              "lon": 4.44504
+            }
+          },
+          {
+            "city": "Roeselare",
+            "zip": "8800",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 50.94653,
+              "lon": 3.12269
+            }
+          },
+          {
+            "city": "Barranquilla",
+            "country": "Colombia",
+            "geoPoint": {
+              "lat": 10.96854,
+              "lon": -74.78132
+            }
+          },
+          {
+            "city": "Bogot\u00e1",
+            "country": "Colombia",
+            "geoPoint": {
+              "lat": 4.60971,
+              "lon": -74.08175
+            }
+          },
+          {
+            "city": "Medell\u00edn",
+            "country": "Colombia",
+            "geoPoint": {
+              "lat": 6.245,
+              "lon": -75.57151
+            }
+          },
+          {
+            "city": "Santa F\u00e9 de Bogot\u00e1",
+            "country": "Colombia"
+          },
+          {
+            "city": "Helsinki",
+            "zip": "00100",
+            "country": "Finland",
+            "geoPoint": {
+              "lat": 60.16952,
+              "lon": 24.93545
+            }
+          },
+          {
+            "city": "Helsinki",
+            "zip": "00180",
+            "country": "Finland",
+            "geoPoint": {
+              "lat": 60.16952,
+              "lon": 24.93545
+            }
+          },
+          {
+            "city": "Oulu",
+            "zip": "90100",
+            "country": "Finland",
+            "geoPoint": {
+              "lat": 65.01236,
+              "lon": 25.46816
+            }
+          },
+          {
+            "city": "Freiburg im Breisgau",
+            "state": "Baden-Wurttemberg",
+            "zip": "79106",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 47.9959,
+              "lon": 7.85222
+            }
+          },
+          {
+            "city": "Stuttgart",
+            "state": "Baden-Wurttemberg",
+            "zip": "70372",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.78232,
+              "lon": 9.17702
+            }
+          },
+          {
+            "city": "K\u00f6nigsbrunn",
+            "state": "Bavaria",
+            "zip": "86343",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.27506,
+              "lon": 10.89178
+            }
+          },
+          {
+            "city": "M\u00fcnchen",
+            "state": "Bavaria",
+            "zip": "80333",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.69668,
+              "lon": 13.46314
+            }
+          },
+          {
+            "city": "M\u00fcnchen",
+            "state": "Bavaria",
+            "zip": "81925",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.69668,
+              "lon": 13.46314
+            }
+          },
+          {
+            "city": "Weiden",
+            "state": "Bavaria",
+            "zip": "92637",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 49.67682,
+              "lon": 12.15613
+            }
+          },
+          {
+            "city": "Hamburg",
+            "state": "Free and Hanseatic City of Hamburg",
+            "zip": "20354",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 53.55073,
+              "lon": 9.99302
+            }
+          },
+          {
+            "city": "Marburg",
+            "state": "Hesse",
+            "zip": "35039",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 50.80904,
+              "lon": 8.77069
+            }
+          },
+          {
+            "city": "Hanover",
+            "state": "Lower Saxony",
+            "zip": "30625",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 52.37052,
+              "lon": 9.73322
+            }
+          },
+          {
+            "city": "Osnabr\u00fcck",
+            "state": "Lower Saxony",
+            "zip": "49076",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 52.27411,
+              "lon": 8.05056
+            }
+          },
+          {
+            "city": "Westerstede",
+            "state": "Lower Saxony",
+            "zip": "26655",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 53.25682,
+              "lon": 7.92737
+            }
+          },
+          {
+            "city": "M\u00f6nchengladbach",
+            "state": "North Rhine-Westphalia",
+            "zip": "41061",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 51.18539,
+              "lon": 6.44172
+            }
+          },
+          {
+            "city": "Berlin",
+            "state": "State of Berlin",
+            "zip": "13125",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 52.52437,
+              "lon": 13.41053
+            }
+          },
+          {
+            "city": "Berlin",
+            "state": "State of Berlin",
+            "zip": "13347",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 52.52437,
+              "lon": 13.41053
+            }
+          },
+          {
+            "city": "Berlin",
+            "state": "State of Berlin",
+            "zip": "13465",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 52.52437,
+              "lon": 13.41053
+            }
+          },
+          {
+            "city": "Haifa",
+            "state": "Israel",
+            "zip": "31096",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 32.81303,
+              "lon": 34.99928
+            }
+          },
+          {
+            "city": "Jerusalem",
+            "state": "Israel",
+            "zip": "91120",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 31.76904,
+              "lon": 35.21633
+            }
+          },
+          {
+            "city": "Tel Aviv",
+            "state": "Israel",
+            "zip": "64239",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 32.08088,
+              "lon": 34.78057
+            }
+          },
+          {
+            "city": "Tel HaShomer",
+            "zip": "52621",
+            "country": "Israel",
+            "geoPoint": {
+              "lat": 32.04829,
+              "lon": 34.84489
+            }
+          },
+          {
+            "city": "Catania",
+            "zip": "95124",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 37.49223,
+              "lon": 15.07041
+            }
+          },
+          {
+            "city": "Milan",
+            "zip": "20123",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 42.78235,
+              "lon": 12.59836
+            }
+          },
+          {
+            "city": "Milan",
+            "zip": "20132",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 42.78235,
+              "lon": 12.59836
+            }
+          },
+          {
+            "city": "Milan",
+            "zip": "20142",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 42.78235,
+              "lon": 12.59836
+            }
+          },
+          {
+            "city": "Padova",
+            "zip": "35128",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 44.38225,
+              "lon": 11.14261
+            }
+          },
+          {
+            "city": "Pavia",
+            "zip": "27100",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.19205,
+              "lon": 9.15917
+            }
+          },
+          {
+            "city": "Perugia",
+            "zip": "06126",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 43.1122,
+              "lon": 12.38878
+            }
+          },
+          {
+            "city": "Pisa",
+            "zip": "56126",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 43.70853,
+              "lon": 10.4036
+            }
+          },
+          {
+            "city": "Durango",
+            "state": "Durango",
+            "zip": "34000",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 24.02032,
+              "lon": -104.65756
+            }
+          },
+          {
+            "city": "Iguala de la Independencia",
+            "state": "Guerrero",
+            "zip": "40000",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 18.34479,
+              "lon": -99.53768
+            }
+          },
+          {
+            "city": "M\u00e9xico, D. F.",
+            "state": "M\u00e9xico, D. F.",
+            "zip": "06700",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 31.00435,
+              "lon": -108.15213
+            }
+          },
+          {
+            "city": "Monterrey",
+            "state": "Nuevo Le\u00f3n",
+            "zip": "66260",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 25.68435,
+              "lon": -100.31721
+            }
+          },
+          {
+            "city": "M\u00e9xico, D.F.",
+            "zip": "14050",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 31.00435,
+              "lon": -108.15213
+            }
+          },
+          {
+            "city": "M\u00e9xico, D.F.",
+            "zip": "14080",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 31.00435,
+              "lon": -108.15213
+            }
+          },
+          {
+            "city": "Nijverdal",
+            "zip": "7442 LS",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.36,
+              "lon": 6.46806
+            }
+          },
+          {
+            "city": "Utrecht",
+            "zip": "3514 AB",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.09083,
+              "lon": 5.12222
+            }
+          },
+          {
+            "city": "Moelv",
+            "zip": "2390",
+            "country": "Norway",
+            "geoPoint": {
+              "lat": 60.93333,
+              "lon": 10.7
+            }
+          },
+          {
+            "city": "Oslo",
+            "zip": "0272",
+            "country": "Norway",
+            "geoPoint": {
+              "lat": 59.91273,
+              "lon": 10.74609
+            }
+          },
+          {
+            "city": "Sarpsborg",
+            "zip": "1700",
+            "country": "Norway",
+            "geoPoint": {
+              "lat": 59.28391,
+              "lon": 11.10962
+            }
+          },
+          {
+            "city": "Trondheim",
+            "zip": "7006",
+            "country": "Norway",
+            "geoPoint": {
+              "lat": 63.43049,
+              "lon": 10.39506
+            }
+          },
+          {
+            "city": "Callao",
+            "zip": "CALLAO 2",
+            "country": "Peru",
+            "geoPoint": {
+              "lat": -12.05162,
+              "lon": -77.13452
+            }
+          },
+          {
+            "city": "Lima",
+            "zip": "33",
+            "country": "Peru",
+            "geoPoint": {
+              "lat": -12.04318,
+              "lon": -77.02824
+            }
+          },
+          {
+            "city": "Lima",
+            "zip": "LIMA 27",
+            "country": "Peru",
+            "geoPoint": {
+              "lat": -12.04318,
+              "lon": -77.02824
+            }
+          },
+          {
+            "city": "George",
+            "state": "Eastern Cape",
+            "zip": "6530",
+            "country": "South Africa"
+          },
+          {
+            "city": "Johannesburg",
+            "state": "Gauteng",
+            "zip": "2193",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -26.20227,
+              "lon": 28.04363
+            }
+          },
+          {
+            "city": "Pretoria",
+            "state": "Gauteng",
+            "zip": "0083",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -25.74486,
+              "lon": 28.18783
+            }
+          },
+          {
+            "city": "Durban",
+            "state": "KwaZulu-Natal",
+            "zip": "3630",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -29.8579,
+              "lon": 31.0292
+            }
+          },
+          {
+            "city": "Durban",
+            "state": "KwaZulu-Natal",
+            "zip": "4000",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -29.8579,
+              "lon": 31.0292
+            }
+          },
+          {
+            "city": "Durban",
+            "state": "KwaZulu-Natal",
+            "zip": "4091",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -29.8579,
+              "lon": 31.0292
+            }
+          },
+          {
+            "city": "Newcastle",
+            "state": "KwaZulu-Natal",
+            "zip": "2940",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -27.75796,
+              "lon": 29.9318
+            }
+          },
+          {
+            "city": "Pietermaritzburg",
+            "state": "KwaZulu-Natal",
+            "zip": "3200",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -29.61679,
+              "lon": 30.39278
+            }
+          },
+          {
+            "city": "Cape Town",
+            "state": "Western Cape",
+            "zip": "7505",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -33.92584,
+              "lon": 18.42322
+            }
+          },
+          {
+            "city": "Cape Town",
+            "state": "Western Cape",
+            "zip": "7800",
+            "country": "South Africa",
+            "geoPoint": {
+              "lat": -33.92584,
+              "lon": 18.42322
+            }
+          },
+          {
+            "city": "A Coru\u00f1a",
+            "state": "A Coru\u00f1a",
+            "zip": "15006",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 43.37135,
+              "lon": -8.396
+            }
+          },
+          {
+            "city": "Sant Joan d'Alacant",
+            "state": "Alicante",
+            "zip": "03550",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 38.40148,
+              "lon": -0.43623
+            }
+          },
+          {
+            "city": "L'Hospitalet de Llobregat",
+            "state": "Barcelona",
+            "zip": "08907",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 41.35967,
+              "lon": 2.10028
+            }
+          },
+          {
+            "city": "Castellon",
+            "state": "Castell\u00f3n de La Plana",
+            "zip": "12004",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 39.98567,
+              "lon": -0.04935
+            }
+          },
+          {
+            "city": "M\u00e1laga",
+            "state": "M\u00e1laga",
+            "zip": "29010",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 36.72016,
+              "lon": -4.42034
+            }
+          },
+          {
+            "city": "Palma de Mallorca",
+            "state": "Palma de Mallorca",
+            "zip": "07014",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 39.56939,
+              "lon": 2.65024
+            }
+          },
+          {
+            "city": "Vigo",
+            "state": "Pontevedra",
+            "zip": "36211",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 42.23282,
+              "lon": -8.72264
+            }
+          },
+          {
+            "city": "Zaragoza",
+            "state": "Zaragoza",
+            "zip": "50009",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 41.65606,
+              "lon": -0.87734
+            }
+          },
+          {
+            "city": "Bor\u00e5s",
+            "zip": "503 32",
+            "country": "Sweden",
+            "geoPoint": {
+              "lat": 57.72101,
+              "lon": 12.9401
+            }
+          },
+          {
+            "city": "Sk\u00f6vde",
+            "zip": "541 30",
+            "country": "Sweden",
+            "geoPoint": {
+              "lat": 58.39118,
+              "lon": 13.84506
+            }
+          },
+          {
+            "city": "Stockholm",
+            "zip": "171 76",
+            "country": "Sweden",
+            "geoPoint": {
+              "lat": 59.32938,
+              "lon": 18.06871
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007172",
+            "term": "Erectile Dysfunction"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D006973",
+            "term": "Hypertension"
+          },
+          {
+            "id": "D006949",
+            "term": "Hyperlipidemias"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D005832",
+            "term": "Genital Diseases, Male"
+          },
+          {
+            "id": "D000091662",
+            "term": "Genital Diseases"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D012735",
+            "term": "Sexual Dysfunction, Physiological"
+          },
+          {
+            "id": "D052801",
+            "term": "Male Urogenital Diseases"
+          },
+          {
+            "id": "D020018",
+            "term": "Sexual Dysfunctions, Psychological"
+          },
+          {
+            "id": "D001523",
+            "term": "Mental Disorders"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D050171",
+            "term": "Dyslipidemias"
+          },
+          {
+            "id": "D052439",
+            "term": "Lipid Metabolism Disorders"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000069058",
+            "term": "Vardenafil Dihydrochloride"
+          },
+          {
+            "id": "D000068581",
+            "term": "Tadalafil"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D007093",
+            "term": "Imidazoles"
+          },
+          {
+            "id": "D001393",
+            "term": "Azoles"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          },
+          {
+            "id": "D010879",
+            "term": "Piperazines"
+          },
+          {
+            "id": "D002243",
+            "term": "Carbolines"
+          },
+          {
+            "id": "D011725",
+            "term": "Pyridines"
+          },
+          {
+            "id": "D026121",
+            "term": "Indole Alkaloids"
+          },
+          {
+            "id": "D007211",
+            "term": "Indoles"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006575",
+            "term": "Heterocyclic Compounds, 3-Ring"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:38:55.572243"
+}

@@ -1,0 +1,290 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00781547",
+      "orgStudyIdInfo": {
+        "id": "GHNIDDM"
+      },
+      "organization": {
+        "fullName": "G\u00f6teborg University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Growth Hormone Treatment in Men With High Risk of Developing Type 2 Diabetes Mellitus",
+      "acronym": "GHDM"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2008-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "1999-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2003-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2005-05",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2008-10-28",
+      "studyFirstSubmitQcDate": "2008-10-28",
+      "studyFirstPostDateStruct": {
+        "date": "2008-10-29",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2008-10-28",
+      "lastUpdatePostDateStruct": {
+        "date": "2008-10-29",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Gudmundur Johannsson",
+        "oldOrganization": "Department of Endocrinology, Sahlgrenska University Hospital, 413 45 Gothenburg, Sweden"
+      },
+      "leadSponsor": {
+        "name": "G\u00f6teborg University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Pfizer",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The overall aim of this study is to investigate the effects of GH treatment in men with the Metabolic Syndrome and a high risk of developing type 2 DM.\n\nForty men with abdominal obesity and impaired glucose tolerance will be randomized to two parallel treatment groups with GH and placebo for 12 months.\n\nThe subjects will receive treatment with recombinant human GH (Genotropin\u00ae) or placebo administered by a daily s.c. injection before bedtime. The initial dose of GH will be 0.4 IU per day increased to 0.8 IU after 2 weeks and to 1.2 IU after 4 weeks of treatment. Thus, the target dose is 1.2 IU per day which resembles approximately 0.015 IU/kg/day. The GH dose will be reduced by half in the event of side-effects. Oral and written instructions in terms of administration and dosage will be given.\n\nThe treatment can be discontinued by the patient. The treatment should be discontinued if malignancy is discovered, DM developes, if the subject experience a cerebrovascular disease and in the event of any other side-effects that is considered as serious.\n\nThe treatment code for each subject included in the trial will be kept at the Sahlgrenska University Hospital Pharmacy. This code can be broken on the request of the investigator.\n\nCompliance will be assessed by collecting empty vials from the study subjects. The treatment is discontinued at the end of the study."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Abdominal Obesity",
+        "Metabolic Syndrome",
+        "Obesity"
+      ],
+      "keywords": [
+        "growth hormone",
+        "obesity",
+        "abdominal obesity"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 40,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Recombinant human growth hormone",
+          "type": "EXPERIMENTAL",
+          "description": "The subjects will receive treatment with recombinant human GH (Genotropin\u00ae) or placebo administered by a daily s.c. injection before bedtime. The initial dose of GH will be 0.4 IU per day increased to 0.8 IU after 2 weeks and to 1.2 IU after 4 weeks of treatment. Thus, the target dose is 1.2 IU per day which resembles approximately 0.015 IU/kg/day. The GH dose will be reduced by half in the event of side-effects",
+          "interventionNames": [
+            "Drug: recombinant human growth hormone"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "interventionNames": [
+            "Drug: recombinant human growth hormone"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "recombinant human growth hormone",
+          "description": "The subjects will receive treatment with recombinant human GH (Genotropin\u00ae) or placebo administered by a daily s.c. injection before bedtime. The initial dose of GH will be 0.4 IU per day increased to 0.8 IU after 2 weeks and to 1.2 IU after 4 weeks of treatment. Thus, the target dose is 1.2 IU per day which resembles approximately 0.015 IU/kg/day. The GH dose will be reduced by half in the event of side-effects",
+          "armGroupLabels": [
+            "Placebo",
+            "Recombinant human growth hormone"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Glucose tolerance",
+          "timeFrame": "Baseline, 3, 6 and 12 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Fasting plasma glucose, serum insulin, HbA1c",
+          "timeFrame": "Basline, 1,2,3,6,9 and 12 months"
+        },
+        {
+          "measure": "Sleep architecture",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Visceral adipose tissue",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Progress of atherosclerosis (IMT)",
+          "timeFrame": "Baseline and 12 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Fasting plasma glucose level \u2265 6.1 and \u2264 7.8 mmol/L (IFG) and/or a plasma glucose 2 hours after a 75g oral glucose load between 6.9-11.0 mmol/L (IGT).\n* BMI \\> 25 kg/m2.\n* Waist/hip ratio \\> 0.95\n\nExclusion Criteria:\n\n* Proliferative diabetic retinopathy.\n* Macro-albuminuri and/or serum creatinine \\>150mmol/L\n* Known ischemic heart disease, previous stroke or claudicatio intermittence.\n* Known malignancy.\n* Other hormonal therapy.",
+      "healthyVolunteers": false,
+      "sex": "MALE",
+      "minimumAge": "40 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Centrum for Endocrinology and Metabolism, Sahlgenska University Hospital",
+          "city": "Gothenburg",
+          "zip": "413 45",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 57.70716,
+            "lon": 11.96679
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D056128",
+          "term": "Obesity, Abdominal"
+        },
+        {
+          "id": "D024821",
+          "term": "Metabolic Syndrome"
+        },
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D007333",
+          "term": "Insulin Resistance"
+        },
+        {
+          "id": "D006946",
+          "term": "Hyperinsulinism"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D013006",
+          "term": "Growth Hormone"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010908",
+          "term": "Pituitary Hormones, Anterior"
+        },
+        {
+          "id": "D010907",
+          "term": "Pituitary Hormones"
+        },
+        {
+          "id": "D036361",
+          "term": "Peptide Hormones"
+        },
+        {
+          "id": "D006728",
+          "term": "Hormones"
+        },
+        {
+          "id": "D006730",
+          "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

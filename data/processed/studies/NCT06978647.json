@@ -1,0 +1,349 @@
+{
+  "nct_id": "NCT06978647",
+  "title": "An Exploratory Clinical Study of YTS109 Cell in Subjects With Relapsed/Refractory Autoimmune Diseases",
+  "sponsor": "China Immunotech (Beijing) Biotechnology Co., Ltd.",
+  "phase": "PHASE1",
+  "status": "RECRUITING",
+  "conditions": [
+    "Systemic Lupus Erythematosus (SLE)",
+    "Systemic Sclerosis (SSc)",
+    "Inflammatory Myopathy",
+    "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+    "Antiphospholipid Syndrome (APS)",
+    "Rheumatoid Arthritis (RA)",
+    "IgG4-Related Diseases",
+    "Sjogren&#39;s Syndrome"
+  ],
+  "interventions": [
+    "YTS109 cell"
+  ],
+  "primary_outcome": "Incidence of Treatment-Emergent Adverse Events",
+  "secondary_outcomes": [
+    "Efficacy Evaluation in relapsed/refractory autoimmune diseases",
+    "Maximum Plasma Concentration of YTS109 (Cmax)",
+    "Area Under the Plasma Concentration-Time Curve (AUC) of YTS109",
+    "Time to Reach Maximum Plasma Concentration (Tmax) of YTS109",
+    "PD Biomarker Level Change (Cytokines Concentration)",
+    "PD Biomarker Level Change (B cells Quantification and Phenotypic)"
+  ],
+  "start_date": "2025-05-19",
+  "completion_date": "2027-05-19",
+  "results_posted": false,
+  "enrollment": 12,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06978647",
+        "orgStudyIdInfo": {
+          "id": "YTS109-006"
+        },
+        "organization": {
+          "fullName": "China Immunotech (Beijing) Biotechnology Co., Ltd.",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Clinical Study of YTS109 Cell in R/R Autoimmune Diseases",
+        "officialTitle": "An Exploratory Clinical Study of YTS109 Cell in Subjects With Relapsed/Refractory Autoimmune Diseases"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-10",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2025-05-19",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-05-19",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-05-19",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2025-05-09",
+        "studyFirstSubmitQcDate": "2025-05-16",
+        "studyFirstPostDateStruct": {
+          "date": "2025-05-18",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-10-20",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-10-21",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "China Immunotech (Beijing) Biotechnology Co., Ltd.",
+          "class": "INDUSTRY"
+        },
+        "collaborators": [
+          {
+            "name": "The First Medical Center of Chinese PLA General Hospital",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study evaluates the safety and efficacy of YTS109 cells in adults with relapsed/refractory autoimmune diseases, such as Systemic Lupus Erythematosus (SLE), Systemic Sclerosis (SSc), etc. Aproximately 6-12 patients aged 18-65 will receive a single infusion of YTS109 cells (1.5\u00d710\u2076 cells/kg). The main purpose of exploratory clinical research is to explore the efficacy and safety of YTS109 cell and the lymphodepletion regimen. The primary endpoint is observations of types, severity, and frequency of adverse events (AEs) and efficacy assessment. This single-arm, open-label trial will enroll patients across Chinese People's Liberation Army (PLA) General Hospital.",
+        "detailedDescription": "Background: Autoimmune diseases (AIDs) are a group of disorders in which the immune system mistakenly targets and attacks the body's own tissues, leading to tissue damage. Based on the sites of involvement, autoimmune diseases can be broadly classified into two categories: organ-specific autoimmune diseases, such as myasthenia gravis affecting the nervous system, type 1 diabetes mellitus involving the destruction of pancreatic islet cells, and autoimmune hepatitis targeting the liver; and systemic autoimmune diseases that affect multiple tissues and organs, reflecting an imbalance in the immune system, such as systemic lupus erythematosus\uff08SLE\uff09, Sj\u00f6gren's syndrome\uff08SS\uff09, and systemic sclerosis\uff08SSc\uff09. Recently, the therapeutic advancements have been made in the management of AIDs. However, particularly the patients with relapsed/refractory, continue to face significant unmet clinical needs. CAR-T cell therapy has emerged as one of the innovative therapeutic modalities for autoimmune diseases, characterized by its controllable safety profile and durable therapeutic efficacy, warranting further clinical exploration and investigation in the future. YTS109 cell is a universal allogeneic STAR-T cell therapy targeting CD19, designed to efficiently eliminate B cells in patients with AIDs and mitigate autoimmune responses. Design: This is a Single-Center, Single-Arm, prospective exploratory clinical trial designed to evaluate the safety profile, preliminary therapeutic efficacy, and pharmacokinetic/pharmacodynamic (PK/PD) characteristics of YTS109 cell therapy in patients with relapsed/refractory autoimmune diseases. Approximately 6-12 patients aged 18-65 will receive a single infusion of YTS109 cells (1.5\u00d710\u2076 cells/kg). The primary endpoint is observations of types, severity, and frequency of adverse events (AEs) and efficacy assessment. This study was approved by the IRB of Chinese People's Liberation Army (PLA) General Hospital. (Approval Number: S2025-233-01), All participants provided written informed consent."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Systemic Lupus Erythematosus (SLE)",
+          "Systemic Sclerosis (SSc)",
+          "Inflammatory Myopathy",
+          "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+          "Antiphospholipid Syndrome (APS)",
+          "Rheumatoid Arthritis (RA)",
+          "IgG4-Related Diseases",
+          "Sjogren&#39;s Syndrome"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 12,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "YTS109 cell",
+            "type": "EXPERIMENTAL",
+            "description": "Subjects will receive YTS109 cell (1.5 E6 STAR +T cells/kg) once in this study.",
+            "interventionNames": [
+              "Drug: YTS109 cell"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "YTS109 cell",
+            "description": "Subjects will receive YTS109 cell (1.5 E6 STAR +T cells/kg) once in this study.",
+            "armGroupLabels": [
+              "YTS109 cell"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Incidence of Treatment-Emergent Adverse Events",
+            "description": "1. Efficacy Endpoint\uff1b\n2. Types, severity, and frequency of adverse events (AEs).",
+            "timeFrame": "The efficacy endpoint evaluation for 2, 4, 8, 12 weeks, AEs observation will be follow-up for 24 weeks. The observation period is extended to 52 weeks."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Efficacy Evaluation in relapsed/refractory autoimmune diseases",
+            "description": "The proportion of subjects achieving complete response (CR), partial response (PR), or other responses.",
+            "timeFrame": "2, 4, 8, 12 weeks, and the observation will continue until 24 to 52 weeks post-treatment."
+          },
+          {
+            "measure": "Maximum Plasma Concentration of YTS109 (Cmax)",
+            "description": "To evaluate the metabolic characteristics of YTS109",
+            "timeFrame": "The detections will be conducted on day0, 4, 7, 10, and weeks 2, 3, 4. Then, observation will continue until 12 to 24 weeks post-treatment."
+          },
+          {
+            "measure": "Area Under the Plasma Concentration-Time Curve (AUC) of YTS109",
+            "description": "To evaluate the metabolic characteristics of YTS109",
+            "timeFrame": "The detections will be conducted on day0, 4, 7, 10, and weeks 2, 3, 4. Then, observation will continue until 12 to 24 weeks post-treatment."
+          },
+          {
+            "measure": "Time to Reach Maximum Plasma Concentration (Tmax) of YTS109",
+            "description": "To evaluate the metabolic characteristics of YTS109",
+            "timeFrame": "The detections will be conducted on day0, 4, 7, 10, and weeks 2, 3, 4. Then, observation will continue until 12 to 24 weeks post-treatment."
+          },
+          {
+            "measure": "PD Biomarker Level Change (Cytokines Concentration)",
+            "description": "Evaluate the Pharmacodynamic (PD) effects of YTS109 cells",
+            "timeFrame": "The detections will be conducted on day0, 4, 7, 10, and weeks 2, 3, 4. Then, observation will continue until 24 to 52 weeks post-treatment."
+          },
+          {
+            "measure": "PD Biomarker Level Change (B cells Quantification and Phenotypic)",
+            "description": "Evaluate the Pharmacodynamic (PD) effects of YTS109 cells",
+            "timeFrame": "The detections will be conducted on day0, 4, 7, 10, and weeks 2, 3, 4. Then, observation will continue until 24 to 52 weeks post-treatment."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects must meet both the following common inclusion criteria and disease-specific inclusion criteria simultaneously to be eligible for participation in this study:\n\nCommon inclusion criteria:\n\n1. Age ranges from 18 to 65 years old (including threshold), regardless of gender.\n2. Detection of positive CD19 expression on peripheral blood B cells by flow cytometry.\n3. Essential Organ Function Criteria:\n\n<!-- -->\n\n1. Bone marrow: Neutrophils \u22651\u00d710\\^9/L (within 2 weeks, excluding granulocyte colony-stimulating factor use).\n\n   Hemoglobin \u226560 g/L.\n2. Liver: ALT/AST \u22643\u00d7ULN (disease-related elevations permitted). TBIL \u22641.5\u00d7ULN (disease-related elevations permitted).\n3. Renal: CrCl\u226530mL/min (Cockcroft-Gault formula, excluding acute declines).\n4. Coagulation: INR/PT \u22641.5\u00d7ULN.\n5. Cardiovascular: Hemodynamic stability. 4. Fertile females or males with partners of childbearing age must use medically approved contraception or abstain during and \u226512 months post- treatment. Negative serum HCG test (within 7 days pre-enrollment) for fertile females; non-lactating.\n\n5\\. Voluntary participation with signed informed consent and compliance.\n\nSpecific inclusion criteria:\n\nRelapsing and refractory systemic lupus erythematosus:\n\n1\\. Meeting the EULAR/ACR 2019 SLE Classification Criteria; 2. SELENA SLEDAI\u22656, or the presence of significant organ involvement, such as lupus nephritis (LN), etc; 3. Definition of relapsing and refractory condition: Persistence of disease activity or recurrence of disease activity after remission, despite undergoing treatment with a regimen containing at least two immunosuppressive agents (including glucocorticoids, cyclophosphamide, tacrolimus, mycophenolate mofetil (MMF), and cyclosporine) and/or biological agents for a minimum duration of two months.\n\nRelapsing and refractory Sj\u00f6gren's syndrome:\n\n1. Meeting the 2002 American-European Consensus Group (AECG) criteria or the 2016 American College of Rheumatology/European League Against Rheumatism (ACR/EULAR) classification criteria for primary Sj\u00f6gren's syndrome;\n2. Having a disease activity score of EULAR Sj\u00f6gren's Syndrome Disease Activity Index (ESSDAI) \u2265 6;\n3. Testing positive for anti-SSA/Ro antibodies;\n4. Definition of relapsing and refractory condition: Persistence of disease activity or recurrence of disease activity after remission, despite undergoing conventional treatment for more than six months. Definition of conventional treatment: Administration of glucocorticoids in combination with any of the following immunosuppressive agents or biological agents: cyclophosphamide, azathioprine, mycophenolate mofetil, methotrexate, leflunomide, tacrolimus, cyclosporine, as well as biological agents including rituximab, belimumab, telitacicept, etc.\n\nRelapsing and refractory Sjogren's Syndrome:\n\n1. Meeting the 2013 American College of Rheumatology (ACR) classification criteria for systemic sclerosis;\n2. Testing positive for systemic sclerosis-related antibodies;\n3. Presenting with diffuse cutaneous sclerosis or active interstitial lung disease (as indicated by ground-glass opacities on high-resolution computed tomography, HRCT);\n4. Definition of relapsing and refractory condition: Persistence of disease activity or recurrence of disease activity after remission, despite undergoing conventional treatment for more than six months. Definition of conventional treatment: Administration of glucocorticoids and cyclophosphamide, in combination with any one or more of the following immunomodulatory agents: antimalarial drugs, azathioprine, mycophenolate mofetil, methotrexate, leflunomide, tacrolimus, cyclosporine, as well as biological agents including rituximab, belimumab, telitacicept, etc.;\n5. Definition of progressive condition: Demonstrating rapid skin progression (an increase in modified Rodnan skin score, mRSS, of \\>25%) or pulmonary disease progression (a 10% decrease in forced vital capacity, FVC, or a \\>5% decrease in FVC accompanied by a 15% decrease in diffusion capacity for carbon monoxide, DLCO).\n\nNote: Meeting either criterion 4 or 5 is sufficient.\n\nRelapsing and refractory Inflammatory Myopathy:\n\n1. Meeting the 2017 European League Against Rheumatism/American College of Rheumatology (EULAR/ACR) classification criteria for inflammatory myopathies (including dermatomyositis, DM; polymyositis, PM; antisynthetase syndrome, ASS; and necrotizing myopathy, NM);\n2. Testing positive for myositis-specific antibodies;\n3. For patients with muscle involvement, having a Manual Muscle Testing-8 (MMT-8) score below 142 and at least two abnormal findings among the following five core measures (Physician's Global Assessment, PhGA; Patient's Global Assessment, PtGA, or extra-muscular disease activity score \u2265 2 points; Health Assessment Questionnaire, HAQ, total score \u2265 0.25; muscle enzyme levels 1.5 times the upper limit of normal range); or having an MMT-8 score \u2265 142 but presenting with active interstitial lung disease (as indicated by ground-glass opacities on high-resolution computed tomography, HRCT);\n4. Definition of relapsing and refractory condition: Persistence of disease activity or recurrence of disease activity after remission, despite undergoing conventional treatment for more than six months. Definition of conventional treatment: Administration of glucocorticoids and cyclophosphamide, in combination with any one or more of the following immunomodulatory agents: antimalarial drugs, azathioprine, mycophenolate mofetil, methotrexate, leflunomide, tacrolimus, cyclosporine, as well as biological agents including rituximab, belimumab, telitacicept, etc.;\n5. Definition of progressive condition: Demonstrating worsening myositis or rapidly progressive interstitial pneumonia.\n\nNote: Meeting either criterion 4 or 5 is sufficient.\n\nRelapsing and refractory Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis:\n\n1. Meeting the 2022 American College of Rheumatology/European League Against Rheumatism (ACR/EULAR) diagnostic criteria for ANCA-associated vasculitis, including microscopic polyangiitis, granulomatosis with polyangiitis, and eosinophilic granulomatosis with polyangiitis.\n2. Testing positive for ANCA-related antibodies (either MPO-ANCA or PR3-ANCA positive).\n3. A Birmingham Vasculitis Activity Score (BVAS) of \u226515 points (out of a total of 63 points), indicating active vasculitis.\n4. Definition of relapsing/refractory condition: Persistence of disease activity or recurrence of disease activity after remission, despite undergoing conventional treatment for more than six months. Definition of conventional treatment: Administration of glucocorticoids and cyclophosphamide, in combination with any one or more of the following immunomodulatory agents: antimalarial drugs, azathioprine, mycophenolate mofetil, methotrexate, leflunomide, tacrolimus, cyclosporine, as well as biological agents including rituximab, belimumab, telitacicept, etc.\n\nRelapsing and refractory Antiphospholipid Syndrome:\n\n1\\. Meeting the 2006 Sydney-revised diagnostic criteria for primary antiphospholipid syndrome; 2. Testing positive for antiphospholipid antibodies at moderate to high titers (IgG/IgM antibodies against lupus anticoagulant, LA; beta-2 glycoprotein I, B2GP1; or anticardiolipin, acL, detected positive on more than two occasions within a 12-week period); 3. Definition of relapsing/refractory condition: Recurrence of thrombosis despite standard treatment with warfarin anticoagulation or alternative vitamin K antagonist (i.e., maintaining the required international normalized ratio, INR, for therapeutic management) or standard therapeutic doses of low molecular weight heparin (LMWH), in addition to previous treatment with corticosteroids and cyclophosphamide; 4. For catastrophic antiphospholipid syndrome, the following four criteria must be met: (1) involvement of three or more organs, systems, and/or tissues; (2) onset of symptoms within one week; (3) histological confirmation of small vessel occlusion in at least one organ or tissue; (4) presence of aPL (antiphospholipid antibodies).\n\nNote: Meeting either criterion 3 or 4 is sufficient.\n\nRelapsing and refractory Rheumatoid arthritis:\n\n1\\. Diagnosed with rheumatoid arthritis (RA) according to the 2010 American College of Rheumatology (ACR)/European League Against Rheumatism (EULAR) classification criteria, with a history of RA \u2265 3 months; 2. Inadequate response to at least two conventional synthetic disease-modifying antirheumatic drugs (csDMARDs) and at least one biological agent targeting cytokines/signal transduction pathways (such as TNF\u03b1 inhibitors, IL-6R antagonists, anti-CD20 monoclonal antibodies, etc.). (Note: Inadequate response to methotrexate or leflunomide, with stable treatment for \u2265 3 months prior to screening); 3. Moderate to severe active RA: swollen joint count (SJC) \u2265 6, tender joint count (TJC) \u2265 6; 4. Elevation of at least one inflammatory marker: erythrocyte sedimentation rate (ESR) \u2265 28 mm/h or C-reactive protein (CRP) \u2265 upper limit of normal (ULN).\n\nRelapsing and refractory IgG4-Related Disease:\n\n1. Meeting the 2019 American College of Rheumatology (ACR)/European League Against Rheumatism (EULAR) diagnostic criteria for IgG4-related disease (IgG4-RD);\n2. Having an IgG4-RD responder index (RI) \u2265 2 during the screening period, indicating active disease;\n3. Meeting the criteria for refractory or relapsing IgG4-RD:\n\n1\\) Refractory: Defined as a lack of response to steroid therapy or steroid plus immunosuppressive therapy (no clinical or radiological improvement, with a decrease in RI \\< 2); 2) Relapse: Defined as new progression or recurrence of clinical symptoms or radiological manifestations in patients who have previously achieved remission, with or without an elevation in serum IgG4 levels (an increase in RI \u2265 2).\n\nExclusion Criteria:\n\n* Subjects who meet any of the following exclusion criteria will not be admitted to the study:\n\n  1. Individuals with a severe history of drug allergies or those with an allergic constitution;\n  2. Individuals with existing or suspected uncontrolled or treatable fungal, bacterial, viral, or other infections;\n  3. Subjects with central nervous system diseases (excluding those with a history of epilepsy, psychiatric disorders, organic brain disease syndromes, cerebrovascular accidents, encephalitis, or central nervous system vasculitis resulting from the underlying disease);\n  4. Subjects whose cardiac function cannot tolerate the study interventions;\n  5. Subjects with congenital immunoglobulin deficiencies;\n  6. Subjects with a history of malignant tumors within the past five years;\n  7. Subjects with end-stage renal failure;\n  8. Subjects who are positive for hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (HBcAb) with peripheral blood HBV DNA titers exceeding the upper limit of detection; subjects who are positive for hepatitis C virus (HCV) antibody and peripheral blood HCV RNA; subjects who are positive for human immunodeficiency virus (HIV) antibody; and subjects who are positive for syphilis testing;\n  9. Subjects with psychiatric disorders or severe cognitive dysfunction;\n  10. Subjects who have participated in other clinical trials within the past three months prior to enrollment;\n  11. Subjects who have received immunosuppressive agents with therapeutic effects on the disease within five half-lives prior to enrollment or biological agents within four weeks prior to enrollment;\n  12. Pregnant women or women planning to become pregnant;\n  13. Subjects whom the investigator believes have other reasons that preclude their inclusion in this study.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "65 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Jian Zhu",
+            "role": "CONTACT",
+            "phone": "8610-66937166",
+            "email": "jian_jzhu@126.com"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "The First Medical Center of Chinese PLA General Hospital",
+            "status": "RECRUITING",
+            "city": "Beijing",
+            "state": "Beijing Municipality",
+            "zip": "100853",
+            "country": "China",
+            "contacts": [
+              {
+                "name": "Fei Sun",
+                "role": "CONTACT",
+                "phone": "8610-66937166",
+                "email": "sunfeighy8911@163.com"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.9075,
+              "lon": 116.39723
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D008180",
+            "term": "Lupus Erythematosus, Systemic"
+          },
+          {
+            "id": "D012595",
+            "term": "Scleroderma, Systemic"
+          },
+          {
+            "id": "D009220",
+            "term": "Myositis"
+          },
+          {
+            "id": "D056648",
+            "term": "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis"
+          },
+          {
+            "id": "D016736",
+            "term": "Antiphospholipid Syndrome"
+          },
+          {
+            "id": "D001172",
+            "term": "Arthritis, Rheumatoid"
+          },
+          {
+            "id": "D000077733",
+            "term": "Immunoglobulin G4-Related Disease"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003240",
+            "term": "Connective Tissue Diseases"
+          },
+          {
+            "id": "D017437",
+            "term": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "id": "D001327",
+            "term": "Autoimmune Diseases"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          },
+          {
+            "id": "D012871",
+            "term": "Skin Diseases"
+          },
+          {
+            "id": "D009135",
+            "term": "Muscular Diseases"
+          },
+          {
+            "id": "D009140",
+            "term": "Musculoskeletal Diseases"
+          },
+          {
+            "id": "D009468",
+            "term": "Neuromuscular Diseases"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D056647",
+            "term": "Systemic Vasculitis"
+          },
+          {
+            "id": "D014657",
+            "term": "Vasculitis"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D017445",
+            "term": "Skin Diseases, Vascular"
+          },
+          {
+            "id": "D001168",
+            "term": "Arthritis"
+          },
+          {
+            "id": "D007592",
+            "term": "Joint Diseases"
+          },
+          {
+            "id": "D012216",
+            "term": "Rheumatic Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378655"
+}

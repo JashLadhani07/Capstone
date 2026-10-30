@@ -1,0 +1,506 @@
+{
+  "nct_id": "NCT03803787",
+  "title": "Prophylactic Inhaled Steroids to Reduce Radiation Pneumonitis Frequency and Severity in Non-small Cell Lung Cancer Patients",
+  "sponsor": "Instituto Nacional de Cancerologia de Mexico",
+  "phase": "PHASE2",
+  "status": "RECRUITING",
+  "conditions": [
+    "Radiation Pneumonitis"
+  ],
+  "interventions": [
+    "Inhaled budesonide"
+  ],
+  "primary_outcome": "Pneumonitis graded by the Common terminology criteria for adverse event v4.0. (CTCAE v4.0).",
+  "secondary_outcomes": [
+    "Lung cancer-associated symptoms assessment",
+    "Treatment-related side effects in lung cancer",
+    "Cognitive functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+    "Emotional Functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+    "Physical functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+    "Role Functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+    "Social Functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+    "Respiratory symptoms evaluation using St. George respiratory questionnaire",
+    "Dyspnea assessment by the Borg Scale Dyspnea Index (BSDI)",
+    "Pulmonary function evaluation using spirometry test",
+    "Pulmonary function evaluation using diffusion lung capacity of carbon monoxide measurement (DLCO).",
+    "Airway inflammatory response evaluation using the fraction of exhaled nitric oxide measurement (FeNO)",
+    "Pulmonary function evaluation using Impulse oscillometry test (IOS)"
+  ],
+  "start_date": "2018-09-01",
+  "completion_date": "2026-12-01",
+  "results_posted": false,
+  "enrollment": 72,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03803787",
+        "orgStudyIdInfo": {
+          "id": "CI/910/17"
+        },
+        "organization": {
+          "fullName": "Instituto Nacional de Cancerologia de Mexico",
+          "class": "OTHER"
+        },
+        "briefTitle": "Prophylactic Inhaled Steroids to Reduce Radiation Pneumonitis Frequency and Severity in Lung Cancer Patients",
+        "officialTitle": "Prophylactic Inhaled Steroids to Reduce Radiation Pneumonitis Frequency and Severity in Non-small Cell Lung Cancer Patients"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-04",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2018-09-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-12-01",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-12-01",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2019-01-03",
+        "studyFirstSubmitQcDate": "2019-01-11",
+        "studyFirstPostDateStruct": {
+          "date": "2019-01-15",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-04-06",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-04-08",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Oscar Gerardo Arrieta Rodr\u00edguez",
+          "investigatorTitle": "Head of the Thoracic Oncology unit",
+          "investigatorAffiliation": "Instituto Nacional de Cancerologia de Mexico"
+        },
+        "leadSponsor": {
+          "name": "Instituto Nacional de Cancerologia de Mexico",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Instituto Nacional de Enfermedades Respiratorias",
+            "class": "OTHER_GOV"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This randomized clinical study aims to assess whether prophylactic treatment with inhaled steroids in patients with locally advanced or concomitantly treated non-small cell lung carcinoma who are candidates for combination treatment with QT/RT or IMT + QT/RT.\n\nThe main questions it aims to answer are:\n\nWhether prophylactic treatment decreases the severity of NPR on CTCAE v4.0 and RTOG scales.\n\nWhether inhaled steroid use modifies the response to radiation therapy treatment compared to patients who do not receive prophylactic inhaled steroids.",
+        "detailedDescription": "Clinical evaluation\n\nThe following BASELINE data shall be taken prior to radiation therapy:\n\nDemographic, clinical, laboratory, and imaging data will be obtained from medical history and electronic records.\n\nThe patient will be instructed to perform the PFRs and tests of lung function.\n\nTwo EORTC, QLQ-C30, and QLQ LC13 quality of life questionnaires and three respiratory symptom questionnaires (St. George, dyspnea scale, and modified BORG) will be performed on the same day of lung function tests.\n\nAdditionally; blood samples will be taken for the evaluation of inflammatory mediators at the following times: BASAL (before RT), and every six weeks up to 48 weeks post-RT.\n\nINTERVENTION GROUP\n\n1. Prior to the onset of RT, the patient will be sorted to receive the control rather than experimental intervention (QT/RT or IMT + QT/RT) and a logbook to record adherence to treatment.\n2. An IDM device shall be granted per month, containing the number of doses corresponding to 30 days. The record in the database of the day of the first session of RT will be taken to quantify the number of days of use of the drug and grant the next device per 30 days until the end of the study.\n3. The patient will be instructed on the use of the device inhaled with the spacer chamber in the clinic Pulmonology consultation, alarm data and indications of the use of the drug will be given in writing, and knowledge will be reinforced at each visit.\n4. The patient will be granted the drug use log where the patient will place the date and time of use of the drug to assess adherence to treatment"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Radiation Pneumonitis"
+        ],
+        "keywords": [
+          "Non-Small Cell Lung Cancer",
+          "Radiation Pneumonia",
+          "Lung cancer treatment",
+          "Respiratory Tract Neoplasms",
+          "Radiation fibrosis",
+          "Thoracic Neoplasms",
+          "Lung Diseases",
+          "Radiation Injury with Fibrosis",
+          "Radiation Fibrosis of Lung",
+          "Lung Injury"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 72,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "QT/RT + Budesonide",
+            "type": "EXPERIMENTAL",
+            "description": "Patients are receiving chemotherapy (QT) and radiotherapy (RT) plus inhaled Budesonide with space chamber at 400 mcg given twice daily initiating after the first dose of RT and continuing until pneumonitis development or 12 months completed.",
+            "interventionNames": [
+              "Drug: Inhaled budesonide"
+            ]
+          },
+          {
+            "label": "QT/RT + No medication",
+            "type": "NO_INTERVENTION",
+            "description": "Patients are receiving chemotherapy (QT) and radiotherapy (RT) without intervention therapy and followed during 12 months."
+          },
+          {
+            "label": "Target drug/RT + Budesonide",
+            "type": "EXPERIMENTAL",
+            "description": "Patients are receiving target therapy and radiotherapy (RT) plus inhaled Budesonide with space chamber at 400 mcg given twice daily initiating after the first dose of RT and continuing until pneumonitis development or 12 months completed.",
+            "interventionNames": [
+              "Drug: Inhaled budesonide"
+            ]
+          },
+          {
+            "label": "Target drug/RT + No medication",
+            "type": "NO_INTERVENTION",
+            "description": "Patients are receiving target treatment and radiotherapy (RT) without intervention therapy and followed during 12 months."
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Inhaled budesonide",
+            "description": "Patients will use inhaled budesonide (Numark) with space chamber at 400 mcg given twice daily initiating after the first dose of RT and continuing until pneumonitis development or 12 months completed.",
+            "armGroupLabels": [
+              "QT/RT + Budesonide",
+              "Target drug/RT + Budesonide"
+            ],
+            "otherNames": [
+              "Numark"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Pneumonitis graded by the Common terminology criteria for adverse event v4.0. (CTCAE v4.0).",
+            "description": "Current score for radiation pneumonitis according to symptoms and radiographic changes. Grade 0: No changes, Grade 1: Asymptomatic or mild respiratory symptoms, Grade 2: Moderate respiratory symptoms of pneumonitis (a severe cough) and radiographic changes (radiographic patches), Grade 3: Severe respiratory symptoms of pneumonitis, dense radiographic changes. Grade 4: Symptoms of acute respiratory failure requiring assisted ventilation or continuous oxygen. Grade 5: Death directly related to late effects of radiotherapy.",
+            "timeFrame": "from the beginning of radiotherapy up to 1 year after the 1st session."
+          },
+          {
+            "measure": "Pneumonitis graded by the Radiation Therapy Oncology Group score (RTOG)",
+            "description": "Current score for radiation pneumonitis according to symptoms and radiographic changes. Grade 0: No changes, Grade 1: Asymptomatic, only radiological or tomographic findings, Grade 2: Symptomatic, does not interfere with daily activities, Grade 3: Symptomatic, interferes with daily activities, requires supplemental oxygen. Grade 4: Threatens life, needing ventilator support. Grade 5: Severe pneumonitis with fatal outcome.",
+            "timeFrame": "from the beginning of radiotherapy up to 1 year after the 1st session."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Lung cancer-associated symptoms assessment",
+            "description": "Symptoms are evaluated with the supplementary lung cancer-specific questionnaire of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (validated Mexican-Spanish version).\n\nIt comprises 13 questions related to the assessment of dyspnoea, pain, coughing, sore mouth, dysphagia, peripheral neuropathy, alopecia, and hemoptysis. The items scale ranges from 1 (Not at all) to 4 (Very much). The average of the items that contribute to the scale (raw score) is estimated and transformed so that scores range from 0 to 100. A higher scale score represents a higher level of symptoms.",
+            "timeFrame": "before the start of Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Treatment-related side effects in lung cancer",
+            "description": "Symptoms are evaluated with the supplementary lung cancer-specific questionnaire of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (validated Mexican-Spanish version).\n\nIt comprises 13 questions related to the assessment of dyspnoea, pain, coughing, sore mouth, dysphagia, peripheral neuropathy, alopecia, and hemoptysis. The items scale ranges from 1 (Not at all) to 4 (Very much). The average of the items that contribute to the scale (raw score) is estimated and transformed so that scores range from 0 to 100. A higher scale score represents a higher level of side-effects.",
+            "timeFrame": "before the start of Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Cognitive functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+            "description": "The cognitive functioning is evaluated using the validated Mexican-Spanish version of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaires.\n\nIt comprises two questions related to the assessment of short and long-term memory. The items scale ranges from 1 (Not at all) to 4 (Very much). The average of the items that contribute to the scale (raw score) is estimated and transformed so that scores range from 0 to 100. A higher scale score represents a healthy level of functioning.",
+            "timeFrame": "before the start of Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Emotional Functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+            "description": "The Emotional Functioning is evaluated using the validated Mexican-Spanish version of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaires.\n\nIt comprises four questions related to the assessment of depression, anxiety, irritability, and stress. The items scale ranges from 1 (Not at all) to 4 (Very much). The average of the items that contribute to the scale (raw score) is estimated and transformed so that the scores range from 0 to 100. A higher scale score represents a represents a healthy level of functioning.",
+            "timeFrame": "before the start Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment"
+          },
+          {
+            "measure": "Physical functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+            "description": "The Physical functioning is evaluated using the validated Mexican-Spanish version of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaires.\n\nIt comprises five questions related to self-sufficiency activities (eating, walking, laying in bed or completing simple chores). The items scale ranges from 1 (Not at all) to 4 (Very much). The average of the items that contribute to the scale (raw score) is estimated and transformed so that the scores range from 0 to 100. A higher scale score represents a represents a healthy level of functioning.",
+            "timeFrame": "before the start Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Role Functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+            "description": "The Role functioning is evaluated using the validated Mexican-Spanish version of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaires.\n\nIt comprises two questions related to daily activities (work and hobbies limitation). The items scale ranges from 1 (Not at all) to 4 (Very much). The average of the items that contribute to the scale (raw score) is estimated and transformed so that the scores range from 0 to 100. A higher scale score represents a represents a healthy level of functioning.",
+            "timeFrame": "before the start Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Social Functioning evaluated by the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire",
+            "description": "The Social Functioning is evaluated using the validated Mexican-Spanish version of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaires.\n\nIt comprises two questions related to family life and social activities. The items scale ranges from 1 (Not at all) to 4 (Very much). The average of the items that contribute to the scale (raw score) is estimated and transformed so that the scores range from 0 to 100. A higher scale score represents a represents a healthy level of functioning.",
+            "timeFrame": "before the start Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Respiratory symptoms evaluation using St. George respiratory questionnaire",
+            "description": "Respiratory symptoms are evaluated using the St. George respiratory questionnaire validated to Mexican-Spanish version. It is a disease-specific instrument designed to measure the impact on overall health, daily life, and perceived well-being in patients with airways disease. Scores range from 0 to 100, with higher scores indicating more limitations.",
+            "timeFrame": "before the start Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Dyspnea assessment by the Borg Scale Dyspnea Index (BSDI)",
+            "description": "A system used to document the severity of the patient's shortness of breath using numbers anchored with verbal descriptions. This scale asks the patient to rate the dyspnea. It starts at number 0 where the breathing is causing no difficulty at all and progresses through to number 10 where the breathing difficulty is maximal.",
+            "timeFrame": "before the start Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Pulmonary function evaluation using spirometry test",
+            "description": "Spirometry measures the inhaled and exhaled air volume as a function of time using a forced expiratory maneuver.",
+            "timeFrame": "before the start of Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment"
+          },
+          {
+            "measure": "Pulmonary function evaluation using diffusion lung capacity of carbon monoxide measurement (DLCO).",
+            "description": "Diffusion lung capacity of carbon monoxide (DLCO) test measures the conductance of gas transfer from inspired gas to the red blood cells.",
+            "timeFrame": "before the start of Radiotherapy and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Airway inflammatory response evaluation using the fraction of exhaled nitric oxide measurement (FeNO)",
+            "description": "Nitric oxide concentration detected in the exhaled gas by chemiluminescence reported as particles per million.",
+            "timeFrame": "before the start of Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          },
+          {
+            "measure": "Pulmonary function evaluation using Impulse oscillometry test (IOS)",
+            "description": "Impulse oscillometry provides a rapid, noninvasive measure of airway impedance during normal tidal breathing.",
+            "timeFrame": "before the start of Radiotherapy, and at 6, 12, 24 and 48-weeks post-treatment."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with non-small cell lung cancer (NSCLC) with unresectable locally advanced or metastatic disease (IIIA, IIIB or IV) of the classification tumor node, metastasis (TNM) of malignant lung tumors, 7th edition.\n* NSCLC patients candidates for concomitant treatment (chemotherapy plus radiotherapy or target therapy plus radiotherapy).\n* Evidence of measurable disease\n* Eastern Cooperative Oncology Group (ECOG) performance status \u2264 2, Karnofsky 70-100.\n* Life expectancy of \\> 4 months at the time of screening\n* Patients with the ability to comply with the study and follow-up procedures.\n* Patients with previous surgery less than four weeks.\n* Must be willing and able to give signed informed consent and, in the opinion of the Investigator, to comply with the protocol tests and procedures.\n\nExclusion Criteria:\n\n* Unstable systemic disease: active infection, heart, liver, kidney or metabolic disease; including uncontrolled chronic lung disease.\n* Patients treated with systemic or inhaled corticosteroids.\n* Patients of reproductive age without a family planning method, pregnant or lactating.\n* Previous diagnosis of Pneumonitis with toxicity grade \u2265 2 by CTCAE v4.0 or RTOG scale.\n* Patients with disease progression.\n* Inspiratory flow \\< 90 liters / min.\n* Discontinue of Treatment",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Oscar Arrieta, MD MSc",
+            "role": "CONTACT",
+            "phone": "015556280400",
+            "phoneExt": "71100",
+            "email": "ogarrieta@gmail.com"
+          },
+          {
+            "name": "Diana Flores",
+            "role": "CONTACT",
+            "phone": "015556280400",
+            "phoneExt": "71101",
+            "email": "clinicacancerpulmonincan@gmail.com"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Oscar Arrieta, MD MSc",
+            "affiliation": "Instituto Nacional de Cancerologia, Mexico",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Instituto Nacional de Cancerologia",
+            "status": "RECRUITING",
+            "city": "Mexico City",
+            "zip": "14080",
+            "country": "Mexico",
+            "contacts": [
+              {
+                "name": "Oscar Arrieta, MD MSc",
+                "role": "CONTACT",
+                "phone": "015556280400",
+                "phoneExt": "71100",
+                "email": "ogarrieta@gmail.com"
+              },
+              {
+                "name": "Diana Flores",
+                "role": "CONTACT",
+                "phone": "015556280400",
+                "phoneExt": "71101",
+                "email": "clinicacancerpulmonincan@gmail.com"
+              }
+            ],
+            "geoPoint": {
+              "lat": 19.42847,
+              "lon": -99.12766
+            }
+          },
+          {
+            "facility": "Instituto Nacional de Enfermedades Respiratorias",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "city": "Mexico City",
+            "zip": "14080",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 19.42847,
+              "lon": -99.12766
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "24459776",
+            "type": "RESULT",
+            "citation": "Arrieta O, Guzman-de Alba E, Alba-Lopez LF, Acosta-Espinoza A, Alatorre-Alexander J, Alexander-Meza JF, Allende-Perez SR, Alvarado-Aguilar S, Araujo-Navarrete ME, Argote-Greene LM, Aquino-Mendoza CA, Astorga-Ramos AM, Austudillo-de la Vega H, Aviles-Salas A, Barajas-Figueroa LJ, Barroso-Quiroga N, Blake-Cerda M, Cabrera-Galeana PA, Calderillo-Ruiz G, Campos-Parra AD, Cano-Valdez AM, Capdeville-Garcia D, Castillo-Ortega G, Casillas-Suarez C, Castillo-Gonzalez P, Corona-Cruz JF, Correa-Acevedo ME, Cortez-Ramirez SS, de la Cruz-Vargas JA, de la Garza-Salazar JG, de la Mata-Moya MD, Dominguez-Flores ME, Dominguez-Malagon HR, Dominguez-Parra LM, Dominguez-Peregrina A, Duran-Alcocer J, Enriquez-Aceves MI, Elizondo-Rios A, Escobedo-Sanchez MD, de Villafranca PE, Flores-Cantisani A, Flores-Gutierrez JP, Franco-Marina F, Franco-Gonzalez EE, Franco-Topete RA, Fuentes-de la Pena H, Galicia-Amor S, Gallardo-Rincon D, Gamboa-Dominguez A, Garcia-Andreu J, Garcia-Cuellar CM, Garcia-Sancho-Figueroa MC, Garcia-Torrentera R, Gerson-Cwilich R, Gomez-Gonzalez A, Green-Schneeweiss L, Guillen-Nunez Mdel R, Gutierrez-Velazquez H, Ibarra-Perez C, Jimenez-Fuentes E, Juarez-Sanchez P, Juarez-Ramiro A, Kelly-Garcia J, Kuri-Exsome R, Lazaro-Leon JM, Leon-Rodriguez E, Llanos-Osuna S, Llanos-Osuna S, Loyola-Garcia U, Lopez-Gonzalez JS, Lopez y de Antunano FJ, Loustaunau-Andrade MA, Macedo-Perez EO, Machado-Villarroel L, Magallanes-Maciel M, Martinez-Barrera L, Martinez-Cedillo J, Martinez-Martinez G, Medina-Esparza A, Meneses-Garcia A, Mohar-Betancourt A, Morales Blanhir J, Morales-Gomez J, Motola-Kuba D, Najera-Cruz MP, Nunez-Valencia Cdel C, Ocampo-Ocampo MA, Ochoa-Vazquez MD, Olivares-Torres CA, Palomar-Lever A, Patino-Zarco M, Perez-Padilla R, Pena-Alonso YR, Perez-Romo AR, Aquilino Perez M, Pinaya-Ruiz PM, Pointevin-Chacon MA, Poot-Braga JJ, Posadas-Valay R, Ramirez-Marquez M, Reyes-Martinez I, Robledo-Pascual J, Rodriguez-Cid J, Rojas-Marin CE, Romero-Bielma E, Rubio-Gutierrez JE, Saenz-Frias JA, Salazar-Lezama MA, Sanchez-Lara K, Sansores Martinez R, Santillan-Doherty P, Alejandro-Silva J, Tellez-Becerra JL, Toledo-Buenrostro V, Torre-Bouscoulet L, Torecillas-Torres L, Torres M, Tovar-Guzman V, Turcott-Chaparro JG, Vazquez-Cortes JJ, Vazquez-Manriquez ME, Vilches-Cisneros N, Villegas-Elizondo JF, Zamboni MM, Zamora-Moreno J, Zinser-Sierra JW. [National consensus of diagnosis and treatment of non-small cell lung cancer]. Rev Invest Clin. 2013 Mar;65 Suppl 1:S5-84. Spanish."
+          },
+          {
+            "pmid": "17050868",
+            "type": "RESULT",
+            "citation": "Timmerman R, McGarry R, Yiannoutsos C, Papiez L, Tudor K, DeLuca J, Ewing M, Abdulrahman R, DesRosiers C, Williams M, Fletcher J. Excessive toxicity when treating central tumors in a phase II study of stereotactic body radiation therapy for medically inoperable early-stage lung cancer. J Clin Oncol. 2006 Oct 20;24(30):4833-9. doi: 10.1200/JCO.2006.07.5937."
+          },
+          {
+            "pmid": "26830686",
+            "type": "RESULT",
+            "citation": "Henkenberens C, Janssen S, Lavae-Mokhtari M, Leni K, Meyer A, Christiansen H, Bremer M, Dickgreber N. Inhalative steroids as an individual treatment in symptomatic lung cancer patients with radiation pneumonitis grade II after radiotherapy - a single-centre experience. Radiat Oncol. 2016 Feb 2;11:12. doi: 10.1186/s13014-016-0580-3."
+          },
+          {
+            "pmid": "25276362",
+            "type": "RESULT",
+            "citation": "Kim S, Oh IJ, Park SY, Song JH, Seon HJ, Kim YH, Yoon SH, Yu JY, Lee BR, Kim KS, Kim YC. Corticosteroid therapy against treatment-related pulmonary toxicities in patients with lung cancer. J Thorac Dis. 2014 Sep;6(9):1209-17. doi: 10.3978/j.issn.2072-1439.2014.07.16."
+          },
+          {
+            "pmid": "23909719",
+            "type": "RESULT",
+            "citation": "Ding NH, Li JJ, Sun LQ. Molecular mechanisms and treatment of radiation-induced lung fibrosis. Curr Drug Targets. 2013 Oct;14(11):1347-56. doi: 10.2174/13894501113149990198."
+          },
+          {
+            "pmid": "20583979",
+            "type": "RESULT",
+            "citation": "Williams JP, Johnston CJ, Finkelstein JN. Treatment for radiation-induced pulmonary late effects: spoiled for choice or looking in the wrong direction? Curr Drug Targets. 2010 Nov;11(11):1386-94. doi: 10.2174/1389450111009011386."
+          },
+          {
+            "pmid": "25808113",
+            "type": "RESULT",
+            "citation": "Daley-Yates PT. Inhaled corticosteroids: potency, dose equivalence and therapeutic index. Br J Clin Pharmacol. 2015 Sep;80(3):372-80. doi: 10.1111/bcp.12637. Epub 2015 May 28."
+          },
+          {
+            "pmid": "19962042",
+            "type": "RESULT",
+            "citation": "Leach C, Colice GL, Luskin A. Particle size of inhaled corticosteroids: does it matter? J Allergy Clin Immunol. 2009 Dec;124(6 Suppl):S88-93. doi: 10.1016/j.jaci.2009.09.050."
+          },
+          {
+            "pmid": "28477633",
+            "type": "RESULT",
+            "citation": "Bledsoe TJ, Nath SK, Decker RH. Radiation Pneumonitis. Clin Chest Med. 2017 Jun;38(2):201-208. doi: 10.1016/j.ccm.2016.12.004. Epub 2017 Mar 1."
+          },
+          {
+            "pmid": "28865520",
+            "type": "RESULT",
+            "citation": "Simone CB 2nd. Thoracic Radiation Normal Tissue Injury. Semin Radiat Oncol. 2017 Oct;27(4):370-377. doi: 10.1016/j.semradonc.2017.04.009."
+          },
+          {
+            "pmid": "28596060",
+            "type": "RESULT",
+            "citation": "Vallard A, Rancoule C, Le Floch H, Guy JB, Espenel S, Le Pechoux C, Deutsch E, Magne N, Chargari C. [Medical prevention and treatment of radiation-induced pulmonary complications]. Cancer Radiother. 2017 Aug;21(5):411-423. doi: 10.1016/j.canrad.2017.03.004. Epub 2017 Jun 5. French."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "The data of the participants will be reported in the publication results.",
+        "infoTypes": [
+          "STUDY_PROTOCOL",
+          "SAP",
+          "CSR"
+        ],
+        "timeFrame": "october 2021",
+        "accessCriteria": "the information will be available after being published in an indexed journal, any information or data related to this study must be requested via e-mail with the researchers."
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D017564",
+            "term": "Radiation Pneumonitis"
+          },
+          {
+            "id": "D002289",
+            "term": "Carcinoma, Non-Small-Cell Lung"
+          },
+          {
+            "id": "D012142",
+            "term": "Respiratory Tract Neoplasms"
+          },
+          {
+            "id": "D000087525",
+            "term": "Radiation Fibrosis Syndrome"
+          },
+          {
+            "id": "D013899",
+            "term": "Thoracic Neoplasms"
+          },
+          {
+            "id": "D008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D055370",
+            "term": "Lung Injury"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D017563",
+            "term": "Lung Diseases, Interstitial"
+          },
+          {
+            "id": "D012140",
+            "term": "Respiratory Tract Diseases"
+          },
+          {
+            "id": "D011832",
+            "term": "Radiation Injuries"
+          },
+          {
+            "id": "D014947",
+            "term": "Wounds and Injuries"
+          },
+          {
+            "id": "D002283",
+            "term": "Carcinoma, Bronchogenic"
+          },
+          {
+            "id": "D001984",
+            "term": "Bronchial Neoplasms"
+          },
+          {
+            "id": "D008175",
+            "term": "Lung Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D005355",
+            "term": "Fibrosis"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D013898",
+            "term": "Thoracic Injuries"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256759"
+}

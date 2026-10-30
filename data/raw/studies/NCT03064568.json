@@ -1,0 +1,938 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03064568",
+      "orgStudyIdInfo": {
+        "id": "HSC20150554H"
+      },
+      "organization": {
+        "fullName": "The University of Texas Health Science Center at San Antonio",
+        "class": "OTHER"
+      },
+      "briefTitle": "Rectal Misoprostol as a Hemostatic Agent During Abdominal Myomectomy",
+      "officialTitle": "Rectal Misoprostol as a Hemostatic Agent During Abdominal Myomectomy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-10-14",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-06-18",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-06-18",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-02-22",
+      "studyFirstSubmitQcDate": "2017-02-24",
+      "studyFirstPostDateStruct": {
+        "date": "2017-02-27",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-06-25",
+      "resultsFirstSubmitQcDate": "2025-07-11",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-07-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-07-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "The University of Texas Health Science Center at San Antonio",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Purpose is to identify if misoprostol in addition to local vasopressin decreases blood loss when compared to vasopressin alone, which is our current practice at this time. The study will be double-blinded with neither the patient nor the researcher knowing whether the placebo or the misoprostol was given. We will monitor patients for decrease in hemoglobin and hematocrit, need for transfusion, and operative time among other measures of perioperative morbidity to see if the addition of misoprostol makes a significant difference. We will also observe patients to see if there are any side effects of misoprostol that make its use undesirable.",
+      "detailedDescription": "All women with planned myomectomy receive Depo Leupron prior to surgery per standard care and undergo routine pre-operative laboratory testing including hemoglobin and hematocrit. If enrolled in the study, patients will be consented at their pre-op appointment for the study and be asked to complete a visual analog scale to assess pre-operative pain. Patients will be randomized to receive misoprostol 800mcg per rectum or an identical inert tablet(s) per rectum 30 minutes preoperatively. Randomization will be performed by a third party so that neither the surgeon nor patient will know which intervention was performed, and interventions will be placed in sealed, sequentially numbered, opaque envelopes. Researcher team will have all needed data corresponding with randomized code which will be broken at conclusion of study and will be able to match code with patient's initials and medical record number after study completion to analyze data. Myomectomy will then be performed per standard care with the use of local vasopressin to aid in decreasing blood loss per our normal standard of care."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Myomectomy; Surgical Blood Loss"
+      ],
+      "keywords": [
+        "Myomectomy, Misoprostol, Vasopressin, Blood loss"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "Prospective double-blinded study completed at a tertiary care center",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "Randomization to treatment arm done by 3rd party. Randomization will be performed by a third party so that neither the surgeon nor patient will know which intervention was performed, and interventions will be placed in sealed, sequentially numbered, opaque envelopes. The code will only be broken at time of data analysis once all patients have been enrolled.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 18,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Misoprostol 200Mcg Tab",
+          "type": "EXPERIMENTAL",
+          "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.",
+          "interventionNames": [
+            "Drug: Misoprostol 200Mcg Tab"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Misoprostol 200Mcg Tab",
+          "description": "4 tablets will be inserted rectally",
+          "armGroupLabels": [
+            "Misoprostol 200Mcg Tab"
+          ],
+          "otherNames": [
+            "Cytotec"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "armGroupLabels": [
+            "Placebo"
+          ],
+          "otherNames": [
+            "Placebo tablet"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Surgical Blood Loss",
+          "description": "Estimated blood loss during surgery",
+          "timeFrame": "Intraoperative"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Febrile Morbiditiy",
+          "description": "Number of participants that have evidence of fever or infection postoperatively",
+          "timeFrame": "24 hours postop"
+        },
+        {
+          "measure": "Need for Blood Transfusion",
+          "description": "Number of participants that had a requirement of blood transfusion",
+          "timeFrame": "intraoperative to 24 hours postoperative"
+        },
+        {
+          "measure": "Pain Score",
+          "description": "Assessment of patient subjective pain with the visual analog scale prior to discharge from hospital. The scale used is a a likert pain scale where the participant selects their pain level between 0- 10, where 10 is the highest level of pain experienced.",
+          "timeFrame": "24 hours postop"
+        },
+        {
+          "measure": "Number of Participants With Medication Side-effects",
+          "description": "Surveillance for any adverse side effects from misoprostol",
+          "timeFrame": "24 hours postop"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Female age 20-50 y/o who plan to undergo abdominal myomectomy for symptomatic myomatous uterus\n\nExclusion Criteria:\n\n* Patient with contraindication to misoprostol or vasopressin, personal history or cardiac or pulmonary disease, history of prior myomectomy",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "genderBased": true,
+      "genderDescription": "Patient must have a uterus to participate",
+      "minimumAge": "20 Years",
+      "maximumAge": "50 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Randal M Robinson, MD",
+          "affiliation": "The University of Texas Health Science Center at San Antonio",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "St. Lukes Baptist Hospital",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "University Hospital",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "University of Texas Health Science Center",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "There are no significant pre-assignment procedures beyond standard preoperative care and consent. Before randomization, patients undergo a physical exam, transvaginal ultrasound, receive Depo Leupron, have preoperative hemoglobin and hematocrit testing, and complete a preoperative pain assessment after providing consent.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Misoprostol 200Mcg Tab",
+          "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.\n\nMisoprostol 200Mcg Tab x4"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.\n\nPlacebo"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Participants who receive an abdominal myomectomy",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Misoprostol 200Mcg Tab",
+          "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.\n\nFour Misoprostol 200Mcg Tab"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.\n\nPlacebo"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "8"
+            },
+            {
+              "groupId": "BG001",
+              "value": "10"
+            },
+            {
+              "groupId": "BG002",
+              "value": "18"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "title": "20-50 years of age",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex/Gender, Customized",
+          "description": "All participants were female",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "title": "Female",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Surgical Blood Loss",
+          "description": "Estimated blood loss during surgery",
+          "populationDescription": "Participants who receive an abdominal myomectomy",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "ml",
+          "timeFrame": "Intraoperative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Misoprostol 200Mcg Tab",
+              "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.\n\nMisoprostol 200Mcg Tab x4"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.\n\nPlacebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "761",
+                      "spread": "504"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "691",
+                      "spread": "532"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Febrile Morbiditiy",
+          "description": "Number of participants that have evidence of fever or infection postoperatively",
+          "populationDescription": "Participants who receive an abdominal myomectomy",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "24 hours postop",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Misoprostol 200Mcg Tab",
+              "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.\n\nMisoprostol 200Mcg Tab x4"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.\n\nPlacebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Need for Blood Transfusion",
+          "description": "Number of participants that had a requirement of blood transfusion",
+          "populationDescription": "Participants who receive an abdominal myomectomy",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "intraoperative to 24 hours postoperative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Misoprostol 200Mcg Tab",
+              "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.\n\nMisoprostol 200Mcg Tab x4"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.\n\nPlacebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pain Score",
+          "description": "Assessment of patient subjective pain with the visual analog scale prior to discharge from hospital. The scale used is a a likert pain scale where the participant selects their pain level between 0- 10, where 10 is the highest level of pain experienced.",
+          "populationDescription": "Participants who receive an abdominal myomectomy",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "24 hours postop",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Misoprostol 200Mcg Tab",
+              "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.\n\nMisoprostol 200Mcg Tab x4"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.\n\nPlacebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.63",
+                      "spread": "2.39"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.65",
+                      "spread": "1.38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Medication Side-effects",
+          "description": "Surveillance for any adverse side effects from misoprostol",
+          "populationDescription": "Participants who receive an abdominal myomectomy",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours postop",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Misoprostol 200Mcg Tab",
+              "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.\n\nMisoprostol 200Mcg Tab x4"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.\n\nPlacebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse event data were collected during the immediate postoperative period, specifically within 24 hours after surgery and prior to hospital discharge.",
+      "description": "Postoperatively prior to discharge, patients were monitored in the hospital for 24 hours after surgery occured, up to 2 days total. During this period, hemoglobin and hematocrit were remeasured, pain was assessed, and patients were evaluated for side effects of misoprostol, including fever, chills, and diarrhea, prior to discharge.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Misoprostol 200Mcg Tab",
+          "description": "Patients will receive misoprostol 800mcg per rectum 30 minutes preoperatively.\n\nMisoprostol 200Mcg Tab x4",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 8,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 8,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 8
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Patients will receive identical inert tablets per rectum 30 minutes preoperatively.\n\nPlacebo",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 10
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Sally Kabro",
+        "organization": "UTHSCSA",
+        "email": "kabro@uthscsa.edu",
+        "phone": "210-567-4950"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2021-09-13",
+          "uploadDate": "2025-05-16T15:36",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 891032
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016063",
+          "term": "Blood Loss, Surgical"
+        },
+        {
+          "id": "D003919",
+          "term": "Diabetes Insipidus"
+        },
+        {
+          "id": "D006470",
+          "term": "Hemorrhage"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D007431",
+          "term": "Intraoperative Complications"
+        },
+        {
+          "id": "D007674",
+          "term": "Kidney Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        },
+        {
+          "id": "D010900",
+          "term": "Pituitary Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016595",
+          "term": "Misoprostol"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011459",
+          "term": "Prostaglandins E, Synthetic"
+        },
+        {
+          "id": "D011465",
+          "term": "Prostaglandins, Synthetic"
+        },
+        {
+          "id": "D011453",
+          "term": "Prostaglandins"
+        },
+        {
+          "id": "D015777",
+          "term": "Eicosanoids"
+        },
+        {
+          "id": "D005231",
+          "term": "Fatty Acids, Unsaturated"
+        },
+        {
+          "id": "D005227",
+          "term": "Fatty Acids"
+        },
+        {
+          "id": "D008055",
+          "term": "Lipids"
+        },
+        {
+          "id": "D012898",
+          "term": "Autacoids"
+        },
+        {
+          "id": "D018836",
+          "term": "Inflammation Mediators"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,192 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07367893",
+      "orgStudyIdInfo": {
+        "id": "Exercise-Echo Registry"
+      },
+      "organization": {
+        "fullName": "Yonsei University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Exercise Echocardiography Registry for Ischemic and Non-Ischemic Heart Disease",
+      "officialTitle": "Exercise Echocardiography Registry for Ischemic and Non-Ischemic Heart Disease",
+      "acronym": "Exercise-Echo"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-05",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2026-04-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2030-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2035-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-12-30",
+      "studyFirstSubmitQcDate": "2026-01-19",
+      "studyFirstPostDateStruct": {
+        "date": "2026-01-26",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-05-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-05-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "In Hyun Jung",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "Yonsei University"
+      },
+      "leadSponsor": {
+        "name": "Yonsei University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Exercise echocardiography is a widely used non-invasive test that evaluates cardiac structure and function during physical stress. It provides important information on myocardial ischemia, cardiac performance, hemodynamic responses, and exercise capacity in patients with a broad range of heart diseases. However, real-world prospective data integrating exercise echocardiographic findings across both ischemic and non-ischemic heart disease remain limited.\n\nThis prospective observational registry aims to systematically collect clinical, exercise, and echocardiographic data from patients undergoing clinically indicated exercise echocardiography. The registry includes patients with suspected or established ischemic heart disease as well as those with non-ischemic cardiac conditions, such as cardiomyopathies, heart failure, valvular heart disease, and exercise-related symptoms.\n\nThe collected data will be used to evaluate exercise-induced changes in cardiac structure and function, identify phenotypes associated with adverse clinical outcomes, and improve risk stratification in routine clinical practice. The registry is observational in nature and does not alter standard clinical care.",
+      "detailedDescription": "Exercise echocardiography is an established diagnostic and prognostic tool in cardiovascular medicine, providing dynamic assessment of myocardial function, hemodynamics, and functional capacity under physiological stress. While its role in ischemic heart disease is well recognized, exercise echocardiography is increasingly used in patients with non-ischemic heart disease, including heart failure, cardiomyopathies, valvular disorders, and unexplained exercise intolerance. Despite its broad clinical application, contemporary prospective real-world registries that comprehensively evaluate exercise echocardiographic findings across both ischemic and non-ischemic heart disease are scarce.\n\nThe Exercise Echocardiography Registry for Ischemic and Non-Ischemic Heart Disease is a prospective, observational registry designed to collect standardized clinical, exercise testing, and echocardiographic data from patients undergoing clinically indicated exercise echocardiography at a tertiary care center. Participation in the registry does not require any additional diagnostic procedures beyond routine clinical practice.\n\n\\<Study Population\\>\n\nEligible participants include adult patients referred for exercise echocardiography for evaluation of:\n\n* Suspected or known ischemic heart disease\n* Non-ischemic heart disease, including cardiomyopathy, heart failure, valvular heart disease, or structural heart disease\n* Exercise-related symptoms such as dyspnea, chest discomfort, or reduced exercise tolerance\n\n\\<Data Collection\\>\n\nThe registry prospectively collects:\n\n* Baseline clinical characteristics, including cardiovascular risk factors and comorbidities\n* Indications for exercise echocardiography\n* Exercise test parameters, such as exercise modality, workload, blood pressure response, heart rate response, and symptoms during exercise\n* Resting and post-exercise echocardiographic measurements, including left ventricular systolic and diastolic function, wall motion, valvular hemodynamics, and pulmonary pressure estimates when available\n* Clinically relevant follow-up outcomes obtained through medical record review\n\n\\<Study Objectives\\>\n\nThe primary objectives of this registry are:\n\n* To characterize exercise-induced echocardiographic responses in patients with ischemic and non-ischemic heart disease\n* To assess the association between exercise echocardiographic findings and subsequent clinical outcomes\n* To evaluate the prognostic value of exercise echocardiography in real-world clinical practice\n\n\\<Study Design\\> This is a non-interventional, observational registry. All clinical evaluations and management decisions are determined by the treating physicians according to standard care. No experimental interventions are introduced as part of this study.\n\n\\<Significance\\> By integrating exercise performance, hemodynamic responses, and echocardiographic findings, this registry aims to enhance understanding of the clinical utility of exercise echocardiography across a broad spectrum of heart disease. The results are expected to support improved risk stratification, inform future hypothesis-driven studies, and contribute to evidence-based use of exercise echocardiography in routine cardiovascular care."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Ischemic Heart Diease",
+        "Non-ischemic Heart Disease"
+      ],
+      "keywords": [
+        "Exercise echocardiography",
+        "Ischemic heart disease",
+        "non-ischemic heart disease",
+        "clinical outcome"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 10000,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Eligible participants include adult patients referred for exercise echocardiography",
+          "description": "Eligible participants include adult patients referred for exercise echocardiography for evaluation of:\n\n* Suspected or known ischemic heart disease\n* Non-ischemic heart disease, including cardiomyopathy, heart failure, valvular heart disease, or structural heart disease\n* Exercise-related symptoms such as dyspnea, chest discomfort, or reduced exercise tolerance"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in left ventricular ejection fraction (LVEF) measured by transthoracic echocardiography (TTE)",
+          "description": "Left ventricular ejection fraction (LVEF) will be assessed by transthoracic echocardiography (TTE) using the biplane method of disks (modified Simpson's method), and the change from baseline to 1 year will be analyzed.",
+          "timeFrame": "Baseline and 1 year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Composite of cardiovascular death and hospitalization for worsening heart failure (HF) assessed by clinical event adjudication",
+          "description": "The composite endpoint includes cardiovascular death and hospitalization for worsening heart failure (HF). Events will be identified from medical records and adjudicated according to prespecified criteria (e.g., admission \u226524 hours with primary diagnosis of HF requiring intravenous diuretics/inotropes/vasodilators or mechanical circulatory/ventilatory support).",
+          "timeFrame": "Up to 1 year"
+        },
+        {
+          "measure": "Change in exercise capacity (metabolic equivalents, METs) measured by symptom-limited exercise test",
+          "description": "Exercise capacity will be assessed as metabolic equivalents (METs) obtained during a symptom-limited exercise test (e.g., treadmill or cycle ergometer using a standardized protocol). The change in achieved METs from baseline to 1 year will be analyzed.",
+          "timeFrame": "Baseline and 1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults aged 18 years or older\n* Patients referred for clinically indicated exercise echocardiography as part of routine clinical care\n* Patients evaluated for suspected or known ischemic heart disease, or non-ischemic heart disease, including but not limited to: Cardiomyopathy, Heart failure, Valvular heart disease, Structural heart disease\n* Ability to perform exercise-based stress testing using treadmill or bicycle protocols\n* Availability of baseline clinical data and interpretable echocardiographic images obtained during rest and exercise\n* Provision of informed consent, or eligibility for consent waiver in accordance with institutional review board approval\n\nExclusion Criteria:\n\n* Inability to perform exercise testing due to non-cardiac limitations, such as severe orthopedic, neurologic, or pulmonary conditions\n* Poor echocardiographic image quality that does not allow meaningful interpretation of exercise-induced changes\n* Any condition deemed by the treating physician to make participation inappropriate or unsafe, even within an observational framework",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "The study population includes adult patients who undergo clinically indicated exercise echocardiography as part of routine cardiovascular care. Participants are referred for evaluation of suspected or established ischemic heart disease as well as a broad range of non-ischemic heart diseases, including cardiomyopathy, heart failure, valvular heart disease, and structural heart disease. Patients are required to be able to perform exercise-based stress testing using standard treadmill or bicycle protocols and to have interpretable echocardiographic images obtained at rest and during exercise. This registry reflects a real-world clinical population in which exercise echocardiography is used for diagnostic and prognostic assessment across diverse cardiovascular conditions.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "SungA Bae, MD., PhD.",
+          "role": "CONTACT",
+          "phone": "+821023273578",
+          "email": "cardiobsa@yuhs.ac"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Yonsei University Yongin Severance Hospital",
+          "status": "RECRUITING",
+          "city": "Yongin",
+          "state": "Gyeonggi-do",
+          "zip": "16995",
+          "country": "South Korea",
+          "contacts": [
+            {
+              "name": "SungA Bae",
+              "role": "CONTACT",
+              "phone": "01023273578",
+              "email": "cardiobsa@yuhs.ac"
+            }
+          ]
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017202",
+          "term": "Myocardial Ischemia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

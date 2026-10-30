@@ -1,0 +1,1559 @@
+{
+  "nct_id": "NCT02364609",
+  "title": "A Phase I/Ib Trial of MK-3475 (Pembrolizumab) and Afatinib in EGFR-Mutant Non-small Cell Lung Cancer With Resistance to Erlotinib",
+  "sponsor": "Jonathan Riess",
+  "phase": "PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Recurrent Non-Small Cell Lung Carcinoma",
+    "Stage IIIA Non-Small Cell Lung Cancer",
+    "Stage IIIB Non-Small Cell Lung Cancer",
+    "Stage IV Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    "Afatinib Dimaleate",
+    "Pembrolizumab"
+  ],
+  "primary_outcome": "Maximum Tolerated Dose (MTD) Recommended Dose of Pembrolizumab in Combination With Lead in Pembrolizumab and Afatinib Dimaleate",
+  "secondary_outcomes": [
+    "Overall Response Rate Per RECIST 1.1",
+    "Progression Free Survival"
+  ],
+  "start_date": "2015-09-30",
+  "completion_date": "2018-04-26",
+  "results_posted": true,
+  "enrollment": 11,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02364609",
+        "orgStudyIdInfo": {
+          "id": "704874"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "UCDCC#250",
+            "type": "OTHER",
+            "domain": "UC Davis"
+          },
+          {
+            "id": "1200.237",
+            "type": "OTHER_GRANT",
+            "domain": "BIPI"
+          },
+          {
+            "id": "UCDCC#250",
+            "type": "OTHER",
+            "domain": "University of California Davis Comprehensive Cancer Center"
+          },
+          {
+            "id": "P30CA093373",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/P30CA093373"
+          },
+          {
+            "id": "51657",
+            "type": "OTHER_GRANT",
+            "domain": "Merck"
+          },
+          {
+            "id": "NCI-2015-00126",
+            "type": "REGISTRY",
+            "domain": "CTRP (Clinical Trial Reporting Program)"
+          }
+        ],
+        "organization": {
+          "fullName": "University of California, Davis",
+          "class": "OTHER"
+        },
+        "briefTitle": "Pembrolizumab and Afatinib in Patients With Non-small Cell Lung Cancer With Resistance to Erlotinib",
+        "officialTitle": "A Phase I/Ib Trial of MK-3475 (Pembrolizumab) and Afatinib in EGFR-Mutant Non-small Cell Lung Cancer With Resistance to Erlotinib"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-10",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2015-09-30",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2018-04-26",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2020-05-01",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2015-02-10",
+        "studyFirstSubmitQcDate": "2015-02-10",
+        "studyFirstPostDateStruct": {
+          "date": "2015-02-18",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2024-06-24",
+        "resultsFirstSubmitQcDate": "2024-10-11",
+        "resultsFirstPostDateStruct": {
+          "date": "2024-10-16",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-10-11",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-10-16",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Jonathan Riess",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "University of California, Davis"
+        },
+        "leadSponsor": {
+          "name": "Jonathan Riess",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "National Cancer Institute (NCI)",
+            "class": "NIH"
+          },
+          {
+            "name": "Merck Sharp & Dohme LLC",
+            "class": "INDUSTRY"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This phase I/Ib trial studies the side effects and best dose of pembrolizumab when given together with afatinib dimaleate in treating patients with non-small cell lung cancer that has spread to other places in the body and usually cannot be cured or controlled with treatment, or has come back and does not respond to erlotinib hydrochloride. Monoclonal antibodies, such as pembrolizumab, may interfere with the ability of tumor cells to grow and spread. Afatinib dimaleate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving pembrolizumab and afatinib dimaleate together may be an effective treatment for non-small cell lung cancer.",
+        "detailedDescription": "PRIMARY OBJECTIVES:\n\nI. To evaluate the safety and tolerability of MK-3475 (pembrolizumab) when given in combination with afatinib (afatinib dimaleate) in patients with advanced or metastatic non-small cell lung cancer with epidermal growth factor receptor (EGFR) activating mutations who have progressive disease on erlotinib (erlotinib hydrochloride).\n\nSECONDARY OBJECTIVES:\n\nI. To assess in a preliminary manner the efficacy of this combination (response rate, disease control rate and progression free survival).\n\nOUTLINE: This is a dose de-escalation study of pembrolizumab. Patients assigned to 1 of 2 treatment arms.\n\nARM I (DOSE DE-ESCALATION COHORT): Patients receive afatinib dimaleate orally (PO) once daily (QD) on days 1-21 and pembrolizumab intravenously (IV) over 30 minutes on day 1.\n\n6 patients were enrolled into Dose Level 0 at 40 mg QD of afatinib, no de-escalation was needed prior to expansion.\n\nARM II (EXPANSION COHORT): Patients receive pembrolizumab IV over 30 minutes on day 1 for 2 courses. Beginning course 3, patients receive afatinib dimaleate PO and pembrolizumab IV as in Arm I.\n\nAll 5 expansion patients were enrolled at the dose of 40 mg QD of afatinib.\n\nIn both Arms, courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 30 days and then every 12 weeks thereafter."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Recurrent Non-Small Cell Lung Carcinoma",
+          "Stage IIIA Non-Small Cell Lung Cancer",
+          "Stage IIIB Non-Small Cell Lung Cancer",
+          "Stage IV Non-Small Cell Lung Cancer"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 11,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Arm I (afatinib dimaleate, pembrolizumab)",
+            "type": "EXPERIMENTAL",
+            "description": "DOSE DE-ESCALATION COHORT: Patients receive afatinib dimaleate PO QD on days 1-21 and pembrolizumab IV over 30 minutes on day 1. Courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\n6 patients were enrolled into Dose Level 0 at 40 mg QD of afatinib, no de-escalation was needed prior to expansion.",
+            "interventionNames": [
+              "Drug: Afatinib Dimaleate",
+              "Biological: Pembrolizumab"
+            ]
+          },
+          {
+            "label": "Arm II (pembrolizumab, afatinib dimaleate)",
+            "type": "EXPERIMENTAL",
+            "description": "EXPANSION COHORT: Patients receive pembrolizumab IV over 30 minutes on day 1 for 2 courses. Beginning course 3, patients receive afatinib dimaleate PO and pembrolizumab IV as in Arm I. Courses repeat every 21 days (up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAll five expansion patients were enrolled at the dose of 40 mg QD of Afatinib.",
+            "interventionNames": [
+              "Drug: Afatinib Dimaleate",
+              "Biological: Pembrolizumab"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Afatinib Dimaleate",
+            "description": "Given PO",
+            "armGroupLabels": [
+              "Arm I (afatinib dimaleate, pembrolizumab)",
+              "Arm II (pembrolizumab, afatinib dimaleate)"
+            ],
+            "otherNames": [
+              "BIBW 2992MA2",
+              "BIBW2992 MA2",
+              "Gilotrif"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "Pembrolizumab",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Arm I (afatinib dimaleate, pembrolizumab)",
+              "Arm II (pembrolizumab, afatinib dimaleate)"
+            ],
+            "otherNames": [
+              "Keytruda",
+              "Lambrolizumab",
+              "MK-3475",
+              "SCH 900475"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Maximum Tolerated Dose (MTD) Recommended Dose of Pembrolizumab in Combination With Lead in Pembrolizumab and Afatinib Dimaleate",
+            "description": "MTD is defined as the dose were less than two patients experienced a dose limiting toxicity. Dose limiting toxicities are defined in the protocol and graded per CTCAE 4.0.",
+            "timeFrame": "Day 21"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Overall Response Rate Per RECIST 1.1",
+            "description": "Response classified per RECIST version 1.1 and assessed by CT or MRI: Complete Response (CR): Disappearance of all target lesions; Partial Response (PR): At least a 30% decrease in the sum of the diameters of target lesions; Overall Response (OR) is the best response recorded from the start of the treatment until disease progression/recurrence.",
+            "timeFrame": "Up to 3 years"
+          },
+          {
+            "measure": "Progression Free Survival",
+            "description": "Response classified per RECIST version 1.1 and assessed by CT or MRI: Complete Response (CR): Disappearance of all target lesions; Partial Response (PR): At least a 30% decrease in the sum of the diameters of target lesions; Overall Response (OR) is the best response recorded from the start of the treatment until disease progression/recurrence. Kaplan-Meier plot and life-table summary will be used.",
+            "timeFrame": "Time from start of treatment to time of progression or death, whichever occurs first, assessed up to 3 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Incurable, advanced or metastatic/recurrent non-small cell lung cancer with EGFR activating mutations (exon 19 del, exon 21 L858R, L861Q, G718X); who have radiologic and/or clinically progressive disease on erlotinib at any point during the patient's cancer treatment as determined by the Investigator\n* Be willing and able to provide written informed consent for the trial\n* Have a life expectancy of at least 3 months\n* Have measurable disease based on Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n* Adequate archival tissue for determination of EGFR-mutation status and PD-L1 status with a leftover cell block (or equivalent) for additional immune correlates from a tumor lesion biopsied in the last 60 days that has not been previously irradiated occurring: 1) after progression on erlotinib and no intervening systemic treatment between biopsy and initiation of MK-3475 and afatinib or amenable to repeat biopsy\n* Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) (Zubrod) performance scale\n* Be willing to consent for biopsy at baseline (if inadequate archival tissue per inclusion criteria above) and an on treatment biopsy; have a tumor in a location that in the opinion of the investigator that is amenable to biopsy or have provided tissue for PD-L1 and other biomarker analysis from a newly obtained (within 60 days) formalin fixed tumor tissue from a recent biopsy of a tumor lesion not previously irradiated; no systemic antineoplastic therapy may be administered between the PD- L1 biopsy and initiating study medication; fine needle aspirates are not acceptable; needle or excisional biopsies, or resected tissue is required; the tissue sample must be received by the central vendor (Labcorp) and evaluated for adequacy prior to starting therapy\n* There is no limit to the number of prior treatments for this phase I trial\n* Absolute neutrophil count (ANC) \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Hemoglobin \\>= 9 g/dL or \\>= 5.6 mmol/L\n* Serum creatinine OR measured or calculated creatinine clearance (glomerular filtration rate \\[GFR\\] can also be used in place of creatinine or creatinine clearance \\[CrCl\\]) =\\< 1.5 x upper limit of normal (ULN) OR \\>= 60 mL/min for subject with creatinine levels \\> 1.5 x institutional ULN\n\n  * Creatinine clearance should be calculated per institutional standard\n* Serum total bilirubin =\\< 1.5 x ULN\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 x ULN OR \\< 5 x ULN for subjects with liver metastases\n* International normalized ratio (INR) or prothrombin time (PT) =\\< 1.5 x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants; activated partial thromboplastin time (aPTT) =\\< 1.5 x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants\n* Female subject of childbearing potential should have a negative urine or serum pregnancy within 72 hours prior to receiving the first dose of study medication; if the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required\n* Female subjects of childbearing potential should be willing to use 2 methods of birth control or be surgically sterile, or abstain from heterosexual activity for the course of the study through 120 days after the last dose of study medication; subjects of childbearing potential are those who have not been surgically sterilized or have not been free from menses for \\> 1 year\n* Male subjects should agree to use an adequate method of contraception starting with the first dose of study therapy through 120 days after the last dose of study therapy\n\nExclusion Criteria:\n\n* Is currently participating in or has participated in a study of an investigational agent or using an investigational device within 4 weeks of the first dose of treatment\n* Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of trial treatment\n* Has had a prior monoclonal antibody within 4 weeks prior to study day 1 or who has not recovered (i.e., =\\< grade 1 or at baseline) from adverse events due to agents administered more than 4 weeks earlier; denosumab is allowed as long as not \\< 1 week prior to study day 1 and not administered on day of MK-3475 infusion\n* Has had prior chemotherapy or targeted small molecule therapy within 2 weeks prior to study day 1 or who has not recovered (i.e., =\\< grade 1 or at baseline) from adverse events due to a previously administered agent\n\n  * Note: subjects with =\\< grade 2 neuropathy are an exception to this criterion and may qualify for the study\n  * Note: if subject received major surgery, they must have recovered adequately from the toxicity and/or complications from the intervention prior to starting therapy\n* Has a known additional malignancy that is progressing or requires active treatment; exceptions include basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or in situ cervical cancer that has undergone potentially curative therapy\n* Has known active central nervous system (CNS) metastases and/or carcinomatous meningitis; subjects with previously treated brain metastases may participate provided they are stable (without evidence of progression by imaging for at least four weeks prior to the first dose of trial treatment and any neurologic symptoms have returned to baseline), have no evidence of new or enlarging brain metastases, and are not using steroids for at least 7 days prior to trial treatment\n* Has an active autoimmune disease requiring systemic treatment within the past 3 months or a documented history of clinically severe autoimmune disease, or a syndrome that requires systemic steroids or immunosuppressive agents; subjects with vitiligo or resolved childhood asthma/atopy would be an exception to this rule; subjects that require intermittent use of bronchodilators or local steroid injections would not be excluded from the study; subjects with hypothyroidism stable on hormone replacement or Sjorgen's syndrome will not be excluded from the study\n* Has evidence of interstitial lung disease or active, non-infectious pneumonitis that required oral or intravenous glucocorticoids to assist with management; lymphangitic spread of the non-small cell lung cancer (NSCLC) is not exclusionary\n* Has an active infection requiring intravenous systemic therapy\n* Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject's participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the treating investigator\n* Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial\n* History or presence of clinically relevant cardiovascular abnormalities such as uncontrolled hypertension, congestive heart failure New York Heart Association (NYHA) classification of 3, unstable angina or poorly controlled arrhythmia as determined by the investigator; myocardial infarction within 6 months prior to enrollment\n* Is pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial, starting with the pre-screening or screening visit through 120 days after the last dose of trial treatment\n* Has received prior therapy with an anti-programmed cell death (PD)-1, anti-PD-L1, anti-PD-L2, anti-cluster of differentiation (CD)137, or anti-cytotoxic T-lymphocyte-associated antigen-4 (CTLA-4) antibody (including ipilimumab or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways)\n* Known hypersensitivity to afatinib or the excipients of any of the trial drugs\n* Prior participation in an afatinib clinical study, even if not assigned to afatinib treatment\n* Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)\n* Has known active hepatitis B (e.g., hepatitis B surface antigen \\[HBsAg\\] reactive) or hepatitis C (e.g., hepatitis C virus \\[HCV\\] ribonucleic acid \\[RNA\\] \\[qualitative\\] is detected)\n* Has received a live vaccine within 30 days prior to the first dose of trial treatment\n* The presence of poorly controlled gastrointestinal disorders that could affect the absorption of the afatinib (e.g. Crohn's disease, ulcerative colitis, chronic diarrhea, malabsorption)\n* Subjects that require treatment with a strong inhibitor of cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) will be excluded; they may be included if there is an alternate treatment available (not a strong CYP3A4 inhibitor) and they are willing to switch prior to enrollment; if a subject opts to change from a strong CYP 3A4 inhibitor to a weaker CYP 3A4 inhibitor, the subject must stop the strong CYP 3A4 inhibitor 7 days before study drug administration\n* Receiving drugs known to be strong inducers or inhibitors of permeability (P)-glycoprotein that are known to interact with afatinib including, but not limited to: ritonavir, cyclosporine A, ketoconazole, itraconazole, erythromycin, verapamil, quinidine, tacrolimus, nelfinavir, saquinavir, and amiodarone; as part of the enrollment/informed consent procedures, the patient will be counseled on the risk of interactions with other agents, and what to do if new medications need to be prescribed or if the patient is considering a new over-the-counter medicine or herbal product; the subject must stop the strong inducer or inhibitor of P-glycoprotein 7 days before or 5 half lives before study drug administration (whichever timepoint is longer)\n* Major surgery within 4 weeks before starting study treatment or scheduled for surgery during the projected course of the study\n* Hormonal treatment within 2 weeks prior to start of study treatment\n* Radiotherapy within 4 weeks prior to enrollment, except as follows:\n\n  * Palliative radiation to target organs other than chest may be allowed up to 2 weeks prior to enrollment, and\n  * Single dose palliative treatment for symptomatic metastasis outside above allowance to be discussed with sponsor-investigator prior to enrolling\n* Major surgery within 4 weeks before starting study treatment or scheduled for surgery during the projected course of study",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Jonathan Riess",
+            "affiliation": "University of California, Davis",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of California Davis Comprehensive Cancer Center",
+            "city": "Sacramento",
+            "state": "California",
+            "zip": "95817",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.58157,
+              "lon": -121.4944
+            }
+          }
+        ]
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Arm I (Afatinib Dimaleate, Pembrolizumab)",
+            "description": "DOSE DE-ESCALATION COHORT: Patients receive afatinib dimaleate PO QD on days 1-21 and pembrolizumab IV over 30 minutes on day 1. Courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\n6 patients were enrolled into Dose Level 0 at:\n\nAfatinib Dimaleate: 40 mg Given PO\n\nPembrolizumab: Given IV\n\nNo de-escalation was needed prior to expansion."
+          },
+          {
+            "id": "FG001",
+            "title": "Arm II (Pembrolizumab, Afatinib Dimaleate)",
+            "description": "EXPANSION COHORT: Patients receive pembrolizumab IV over 30 minutes on day 1 for 2 courses. Beginning course 3, patients receive afatinib dimaleate PO and pembrolizumab IV as in Arm I. Courses repeat every 21 days (up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAll 5 expansion patients were enrolled at\n\nAfatinib Dimaleate: 40 mg Given PO\n\nPembrolizumab: Given IV"
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "6"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "5"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "6"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "5"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Arm I (Afatinib Dimaleate, Pembrolizumab)",
+            "description": "DOSE DE-ESCALATION COHORT: Patients receive afatinib dimaleate PO QD on days 1-21 and pembrolizumab IV over 30 minutes on day 1. Courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV"
+          },
+          {
+            "id": "BG001",
+            "title": "Arm II (Pembrolizumab, Afatinib Dimaleate)",
+            "description": "EXPANSION COHORT: Patients receive pembrolizumab IV over 30 minutes on day 1 for 2 courses. Beginning course 3, patients receive afatinib dimaleate PO and pembrolizumab IV as in Arm I. Courses repeat every 21 days (up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV"
+          },
+          {
+            "id": "BG002",
+            "title": "Total",
+            "description": "Total of all reporting groups"
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "6"
+              },
+              {
+                "groupId": "BG001",
+                "value": "5"
+              },
+              {
+                "groupId": "BG002",
+                "value": "11"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Categorical",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "<=18 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Between 18 and 65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "2"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "2"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "title": ">=65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "4"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "3"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "7"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "2"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "5"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "7"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "4"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "4"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Ethnicity (NIH/OMB)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Hispanic or Latino",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Not Hispanic or Latino",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "6"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "5"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "11"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Race (NIH/OMB)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "American Indian or Alaska Native",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Asian",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "2"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "1"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Native Hawaiian or Other Pacific Islander",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Black or African American",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "White",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "4"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "4"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "More than one race",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "United States",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "6"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "5"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "11"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Maximum Tolerated Dose (MTD) Recommended Dose of Pembrolizumab in Combination With Lead in Pembrolizumab and Afatinib Dimaleate",
+            "description": "MTD is defined as the dose were less than two patients experienced a dose limiting toxicity. Dose limiting toxicities are defined in the protocol and graded per CTCAE 4.0.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "mg",
+            "timeFrame": "Day 21",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Arm I (Afatinib Dimaleate, Pembrolizumab)",
+                "description": "DOSE DE-ESCALATION COHORT: Patients receive afatinib dimaleate PO QD on days 1-21 and pembrolizumab IV over 30 minutes on day 1. Courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "6"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "40"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Overall Response Rate Per RECIST 1.1",
+            "description": "Response classified per RECIST version 1.1 and assessed by CT or MRI: Complete Response (CR): Disappearance of all target lesions; Partial Response (PR): At least a 30% decrease in the sum of the diameters of target lesions; Overall Response (OR) is the best response recorded from the start of the treatment until disease progression/recurrence.",
+            "populationDescription": "One patient came off treatment prior to response scan and was not evaluated.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "percentage of participants",
+            "timeFrame": "Up to 3 years",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Arm I (Afatinib Dimaleate, Pembrolizumab)",
+                "description": "DOSE DE-ESCALATION COHORT: Patients receive afatinib dimaleate PO QD on days 1-21 and pembrolizumab IV over 30 minutes on day 1. Courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV"
+              },
+              {
+                "id": "OG001",
+                "title": "Arm II (Pembrolizumab, Afatinib Dimaleate)",
+                "description": "EXPANSION COHORT: Patients receive pembrolizumab IV over 30 minutes on day 1 for 2 courses. Beginning course 3, patients receive afatinib dimaleate PO and pembrolizumab IV as in Arm I. Courses repeat every 21 days (up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "6"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "4"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "17"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "25"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Progression Free Survival",
+            "description": "Response classified per RECIST version 1.1 and assessed by CT or MRI: Complete Response (CR): Disappearance of all target lesions; Partial Response (PR): At least a 30% decrease in the sum of the diameters of target lesions; Overall Response (OR) is the best response recorded from the start of the treatment until disease progression/recurrence. Kaplan-Meier plot and life-table summary will be used.",
+            "populationDescription": "All ten patients were analyzed together and not broken out by Arm. Numbers by arms reported above, however, overall PFS was: 81 days; 95% CI (8,186)",
+            "reportingStatus": "POSTED",
+            "paramType": "MEDIAN",
+            "dispersionType": "Full Range",
+            "unitOfMeasure": "days",
+            "timeFrame": "Time from start of treatment to time of progression or death, whichever occurs first, assessed up to 3 years",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Arm I (Afatinib Dimaleate, Pembrolizumab)",
+                "description": "DOSE DE-ESCALATION COHORT: Patients receive afatinib dimaleate PO QD on days 1-21 and pembrolizumab IV over 30 minutes on day 1. Courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV"
+              },
+              {
+                "id": "OG001",
+                "title": "Arm II (Pemborlizumab, Afatinib Dimaleate)",
+                "description": "EXPANSION COHORT: Patients receive pembrolizumab IV over 30 minutes on day 1 for 2 courses. Beginning course 3, patients receive afatinib dimaleate PO and pembrolizumab IV as in Arm I. Courses repeat every 21 days (up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV"
+              },
+              {
+                "id": "OG002",
+                "title": "ALL Participants",
+                "description": "All participants who received protocol treatment of pembrolizumab and afitinib dimaleate."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "6"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "4"
+                  },
+                  {
+                    "groupId": "OG002",
+                    "value": "10"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "179",
+                        "lowerLimit": "27",
+                        "upperLimit": "510"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "42",
+                        "lowerLimit": "7",
+                        "upperLimit": "186"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "81",
+                        "lowerLimit": "8",
+                        "upperLimit": "186"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "5",
+        "timeFrame": "Adverse event data was captured over a period of approximately 2.5 years.",
+        "description": "CTCAE 4.0",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Arm I (Afatinib Dimaleate, Pembrolizumab)",
+            "description": "DOSE DE-ESCALATION COHORT: Patients receive afatinib dimaleate PO QD on days 1-21 and pembrolizumab IV over 30 minutes on day 1. Courses repeat every 21 days (for up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 6,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 6,
+            "otherNumAffected": 6,
+            "otherNumAtRisk": 6
+          },
+          {
+            "id": "EG001",
+            "title": "Arm II (Pembrolizumab, Afatinib Dimaleate)",
+            "description": "EXPANSION COHORT: Patients receive pembrolizumab IV over 30 minutes on day 1 for 2 courses. Beginning course 3, patients receive afatinib dimaleate PO and pembrolizumab IV as in Arm I. Courses repeat every 21 days (up to 2 years for pembrolizumab) in the absence of disease progression or unacceptable toxicity.\n\nAfatinib Dimaleate: Given PO\n\nPembrolizumab: Given IV",
+            "deathsNumAffected": 1,
+            "deathsNumAtRisk": 5,
+            "seriousNumAffected": 2,
+            "seriousNumAtRisk": 5,
+            "otherNumAffected": 5,
+            "otherNumAtRisk": 5
+          }
+        ],
+        "seriousEvents": [
+          {
+            "term": "Colitis",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Grade 3",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Sepsis",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Grade4",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          }
+        ],
+        "otherEvents": [
+          {
+            "term": "Diarrhea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "includes grade 3-4 adverse events possibly, probably or definitely related to study drugs graded by CTCAEv4",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Lymphocyte count decreased",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "includes grade 3-4 adverse events possibly, probably or definitely related to study drugs graded by CTCAEv4",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Anorexia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "includes grade 3-4 adverse events possibly, probably or definitely related to study drugs graded by CTCAEv4",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Hypokalemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "includes grade 3-4 adverse events possibly, probably or definitely related to study drugs graded by CTCAEv4",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Diarrhea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of patients.",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 17,
+                "numAffected": 5,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 6,
+                "numAffected": 4,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Rash Acneiform",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of patients.",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 7,
+                "numAffected": 3,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Lymphocyte count decreased",
+            "organSystem": "Investigations",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 6,
+                "numAffected": 4,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Anorexia",
+            "organSystem": "General disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 4,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 5,
+                "numAffected": 3,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Fatigue",
+            "organSystem": "General disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 6,
+                "numAffected": 4,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 3,
+                "numAffected": 2,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Creatinine increased",
+            "organSystem": "Investigations",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 3,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Anemia",
+            "organSystem": "Investigations",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 8,
+                "numAffected": 5,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Nausea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 6,
+                "numAffected": 4,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 6,
+                "numAffected": 5,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Hypoalbuminemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 3,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Weight loss",
+            "organSystem": "General disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Dry skin",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Hypokalemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 2,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Colitis",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 3,
+                "numAffected": 2,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Paronychia",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Headache",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Mucositis oral",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 1,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Pruritis",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 1,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Elevated Liver Function tests",
+            "organSystem": "Investigations",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 1,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 4,
+                "numAffected": 2,
+                "numAtRisk": 5
+              }
+            ]
+          },
+          {
+            "term": "Vomiting",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE (4.0)",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "notes": "Adverse events occurring \\>10% of the patients",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 6,
+                "numAffected": 2,
+                "numAtRisk": 6
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 3,
+                "numAffected": 2,
+                "numAtRisk": 5
+              }
+            ]
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "limitationsAndCaveats": {
+          "description": "No limitations"
+        },
+        "certainAgreement": {
+          "piSponsorEmployee": false,
+          "restrictiveAgreement": false
+        },
+        "pointOfContact": {
+          "title": "Leslie Garcia, Data Research Supervisor",
+          "organization": "UC Davis Comprehensive Cancer Center",
+          "email": "lesgarcia@ucdavis.edu",
+          "phone": "916-734-0156"
+        }
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot_SAP",
+            "hasProtocol": true,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Study Protocol and Statistical Analysis Plan",
+            "date": "2018-09-10",
+            "uploadDate": "2024-06-24T17:24",
+            "filename": "Prot_SAP_000.pdf",
+            "size": 2230253
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002289",
+            "term": "Carcinoma, Non-Small-Cell Lung"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002283",
+            "term": "Carcinoma, Bronchogenic"
+          },
+          {
+            "id": "D001984",
+            "term": "Bronchial Neoplasms"
+          },
+          {
+            "id": "D008175",
+            "term": "Lung Neoplasms"
+          },
+          {
+            "id": "D012142",
+            "term": "Respiratory Tract Neoplasms"
+          },
+          {
+            "id": "D013899",
+            "term": "Thoracic Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D012140",
+            "term": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000077716",
+            "term": "Afatinib"
+          },
+          {
+            "id": "C582435",
+            "term": "pembrolizumab"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D000577",
+            "term": "Amides"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D011799",
+            "term": "Quinazolines"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T13:30:10.256679"
+}

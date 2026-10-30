@@ -1,0 +1,225 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06282471",
+      "orgStudyIdInfo": {
+        "id": "MCC-23-20794"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "HM20028614",
+          "type": "OTHER",
+          "domain": "Virginia Commonwealth University"
+        }
+      ],
+      "organization": {
+        "fullName": "Virginia Commonwealth University",
+        "class": "OTHER"
+      },
+      "briefTitle": "EW and Self-Guided PST in Cancer Survivors and Caregivers",
+      "officialTitle": "Expressive Writing (EW) and Self-Guided Problem-Solving Therapy (PST) in Cancer Survivors and Caregivers"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "WITHDRAWN",
+      "whyStopped": "Not feasible",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-02-21",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-05-14",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-05-14",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-02-21",
+      "studyFirstSubmitQcDate": "2024-02-21",
+      "studyFirstPostDateStruct": {
+        "date": "2024-02-28",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Virginia Commonwealth University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To assess the feasibility and acceptability of expressive writing + problem solving therapy (EW+PST) among cancer survivors and informal caregivers",
+      "detailedDescription": "This is a single-arm proof-of-concept behavioral clinical trial of a self-guided expressive writing and problem-solving therapy intervention for adult cancer survivors and adult informal caregivers thereof"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cancer Survivors",
+        "Informal Caregivers"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 0,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Expressive Writing and Problem-Solving Therapy",
+          "type": "EXPERIMENTAL",
+          "description": "Self-guided expressive writing and problem-solving therapy intervention for adult cancer survivors and adult informal caregivers thereof",
+          "interventionNames": [
+            "Behavioral: Expressive Writing and Problem-Solving Therapy (EW+PST)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Expressive Writing and Problem-Solving Therapy (EW+PST)",
+          "description": "Participants will undergo a 6-week self-guided EW+PST. Participants will be provided with 6 printed journals (one for each week of the study) and instructed to write at least 2 entries per week.",
+          "armGroupLabels": [
+            "Expressive Writing and Problem-Solving Therapy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Consent Rate",
+          "description": "Number of eligible individuals who choose to enroll in the study over the total number of eligible individuals.",
+          "timeFrame": "Day 1"
+        },
+        {
+          "measure": "Study Retention",
+          "description": "Study retention will be analyzed as the number of participants completing the 6-week questionnaires",
+          "timeFrame": "Week 6"
+        },
+        {
+          "measure": "Completed Journal Entries",
+          "description": "Number of completed journal entries will be tabulated from returned participant journals.",
+          "timeFrame": "Week 6"
+        },
+        {
+          "measure": "Patient Satisfaction Questionnaire",
+          "description": "The number of participants that are satisfied with the intervention. Participants will be asked about their satisfaction with the program including perceived efficacy and suggestions for improvement",
+          "timeFrame": "Baseline, Week 6"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Post Traumatic Growth Inventory (PTGI) Score from 0 to 6 weeks",
+          "description": "The PTGI is a 21-item scale designed to assess individual growth following the experience of a traumatic experience, e.g. cancer. The items load onto 5 factors: personal strength, new possibilities, improved relationships, spiritual growth, and appreciation for life.Items are rated 0-5 and a total score is calculated by summing the responses to all items. Higher scores represent greater post-traumatic growth. There are also 5 factors which are scored by summing the items associated with each factor: Relating to Others; New Possibilities; Personal Strength; Spiritual Change; Appreciation of Life. Higher factor scores represent higher levels of each factor.",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in European Organization for the Research and Treatment of Life Questionnaire (EORTC QLQ-30) Score from 0 to 6 weeks",
+          "description": "This measure consists of both multi-item and single-item scales. Raw scores are calculated for each scale, then transformed using linear transformation to standardize the raw score so that scores range from 0-100. Higher scores on functioning and quality of life scales represent better functioning/quality of life; higher scores on symptom scales represent worse functioning/quality of life.",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in Patient Health Questionnaire-8 (PHQ-8) Score from 0 to 6 Weeks",
+          "description": "The Patient Health Questionnaire-8 (PHQ-8) is an 8-item measure developed for use in clinical and research settings to assess symptoms of depression. Scores can be categorized into mild, moderate, and severe symptom severity. Items are rated 0-3 and a total score is calculated by summing the responses to all items. Higher scores represent greater symptoms of depression.",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in Perceived Stress Scale-10 item (PSS-10) Score from 0 to 6 Weeks",
+          "description": "The PSS-10 is a 10-item scale used to assess self-reported stress. Items are scored 0-4 and a total score is calculated by summing the responses to all items. Higher scores represent greater perceived stress.",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in New General Self-Efficacy Scale (GSES-N) Score from 0 to 6 Weeks",
+          "description": "The New General Self-Efficacy Scale (GSES-N) is an 8-item measure that assesses how much people believe that they can achieve their goals despite encountering barriers, challenges, or difficulties. Items are scored 1-5 and a total score is calculated by averaging the responses to all items. Higher scores represent greater perceived self-efficacy.",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in Multidimensional Scale of Perceived Social Support (MSPSS) Score from 0 to 6 Weeks",
+          "description": "The MSPSS is a 12-item questionnaire of perceived social support from three sources: family, friends, and significant other. Items are scored 1-7 and a total score is calculated by averaging the responses to all items. There are also 3 subscales whose scores are calculated by averaging the responses to the associated items: Significant Other; Family; Friends. Higher scores represent greater perceived social support in total and for each subscale.",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in Family Environment Scale-Revised (FES-R) Score from 0 to 6 Weeks",
+          "description": "The FES-R is a 27-item true/false measure designed to characterize social and environmental characteristics of families: Cohesion, expressiveness, and conflict, The FES items are arranged so that each column of responses on the answer sheet constitutes one subscale. The number of responses given in the keyed direction as identified on the scoring key in each column, and enter the total in the raw score (RS) box at the bottom. (it's added, some are reverse coded). To determine the family's mean RS for each subscale, average the subscale raw scores for all members of that family. Relationship-Oriented Families. These families cannot be categorized as personal growth-oriented and have at least one elevated subscale within the relationship domain. Relationship-oriented families include: \u00d8 Support-oriented families (15.3 percent; cohesion or expressiveness or both \u2265 60 and either cohesion or expressiveness \u2265 conflict) \u00d8 Conflict-oriented families (5.2 percent; conflict \u2265 60)",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in Cancer Communication Assessment Tool for Patients and Families (CCAT-PF) Score from 0 to 6 Weeks",
+          "description": "The CCAT-PF is an 18-item questionnaire that assesses congruence in patient-family caregiver communication; there are parallel versions of the instrument for patients and family members. Items are scored 1-6 and a total score is calculated by summing the responses to all items. Higher scores indicate greater perceived conflict.",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in Caregiver Burden Scale (CBS) Score from 0 to 6 Weeks",
+          "description": "The CBS is a 22-item self-report measure that assesses perceptions of burden related to providing care to someone with a chronic illness. The CBS has 5 factors: general strain, isolation, disappointment, emotional involvement, and environment. Items are scored 0-4 and a total score is calculated by summing the responses to all items. Higher scores indicate greater perceived burden.",
+          "timeFrame": "Baseline, Week 6"
+        },
+        {
+          "measure": "Change in EORTC Quality of Life Core Scale (EORTC QLQ-30) Score from 0 to 6 Weeks",
+          "description": "The EORTC QLQ-30 is a 30-item self-report measure designed to assess health-related quality of life of cancer patients enrolled in clinical trials. It consists of both multi-item and single-item scales with higher scores reflecting higher scale value: for example, a high score on a symptom scale reflects higher symptom burden; a high score on a functional scale represents a higher level of functioning. The average raw score for each scale is transformed so that it falls within a range from 0 to 100.",
+          "timeFrame": "Baseline, Week 6"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Cancer diagnosis of any type OR informal caregiver (family member, friend, and/or spouse who provides the majority of caregiving) of someone with cancer\n* Patient of Virginia Commonwealth University (VCU) Massey Cancer Center OR informal caregiver (family member, friend, and/or spouse) of a VCU Massey Cancer Center patient\n\nExclusion Criteria:\n\n* Physical inability to write\n* Non-English speaker/writer\n* Inability to consent to study participation",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Susan Hong, MD",
+          "affiliation": "Virginia Commonwealth University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29",
+      "removedCountries": [
+        "United States"
+      ]
+    }
+  },
+  "hasResults": false
+}

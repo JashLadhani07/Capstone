@@ -1,0 +1,29 @@
+{
+  "pmid": "40717496",
+  "title": "Molecular testing, treatment patterns, and outcomes in EGFR-mutated non-small cell lung cancer: the PISCES study.",
+  "abstract": "This study investigated molecular testing, treatment patterns, and prognosis in Chinese patients who progressed from first-line (1\u2009L), epidermal growth factor receptor -tyrosine kinase inhibitors (EGFR-TKIs) therapy, highlighting limited real-world data on clinical practice. Consecutive eligible patients were prospectively enrolled in 16-centers in China. The primary endpoints were second-line (2\u2009L) treatment patterns and clinical outcomes, including median progression-free survival (mPFS) and median overall survival (mOS) from 2\u2009L treatment. Overall, 300 patients were enrolled in the study, and among them, 291 patients were included in the Full Analysis Set, and 213(73.2%) underwent molecular testing, after progression from 1\u2009L therapy. 30.5% (65/213) had tissue samples, while 66.7% (142/213) had plasma samples. In tissue and plasma samples, T790M positive rates were 53.8% and 43.7%, respectively. mPFS and mOS for patients with T790M positive who received third generation (3\u2009G) EGFR-TKIs as 2\u2009L therapy were 14.7\u2009months and 32.0\u2009months, respectively. The mPFS for patients with T790M negative who received 3\u2009G EGFR-TKIs, prior EGFR-TKIs plus local therapy, and chemotherapy as 2\u2009L therapy were 7.6\u2009months, 10.2\u2009months, and 4.9\u2009months, respectively. The corresponding mOS for these patients were 21.2\u2009months, 16.6\u2009months, and 15.0\u2009months, respectively. No new safety signal emerged. Patients with acquired resistance to first generation (1\u2009G)/second generation (2\u2009G) EGFR-TKIs receiving 3\u2009G EGFR-TKIs, especially T790M positive, showed better clinical outcomes after molecular testing. The study has been registered at ClinicalTrials.gov (NCT04207775). This study looked at how Chinese patients with lung cancer were treated after their cancer stopped responding to first-line (1\u2009L) epidermal growth factor receptor -tyrosine kinase inhibitors (EGFR-TKIs), a type of targeted therapy. Researchers focused on what second-line (2\u2009L) treatments patients received, how long the treatments worked, and how long the patients lived afterward. The study involved 300 patients from 16 hospitals across China. Out of 291 patients analyzed, 213 (73.2%) had molecular testing to look for specific genetic changes after their first treatment stopped working. The T790M mutation, which can influence treatment decisions, was found in 53.8% of tissue samples and 43.7% of blood (plasma) samples. Patients with the T790M mutation who received third generation (3\u2009G) EGFR-TKIs had the best outcomes, living a median of 14.7\u2009months without disease progression and 32.0\u2009months overall. Those without the mutation had shorter survival, depending on the 2\u2009L treatment used. For example, those who received chemotherapy had the shortest survival. Overall, the study shows that molecular testing after 1\u2009L treatment is very important. Patients who tested positive for the T790M mutation and were treated with 3\u2009G EGFR-TKIs had significantly better outcomes, and no new safety issues were found during the study.",
+  "journal": "Future oncology (London, England)",
+  "pub_date": "2025-Aug",
+  "authors": [
+    "Tian, Panwen",
+    "Wu, Lin",
+    "Zhou, Chengzhi",
+    "Tan, Jie",
+    "Wang, Ke",
+    "Luo, Feng",
+    "Liu, Yongmei",
+    "Guo, Yubiao",
+    "Li, Yinyin",
+    "Liu, Zhe",
+    "Gong, Youling",
+    "Wang, Yongsheng",
+    "Xian, Jinghong",
+    "Li, Weimin"
+  ],
+  "nct_ids_referenced": [
+    "NCT04207775"
+  ],
+  "source": "pubmed",
+  "word_count": 443,
+  "parsed_at": "2026-10-30T10:30:21.076146"
+}

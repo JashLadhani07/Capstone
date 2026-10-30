@@ -1,0 +1,689 @@
+{
+  "nct_id": "NCT04880044",
+  "title": "Detection of Barrett s Esophagus in Patients Without Gastroesophageal Reflux Disease (GERD) Symptoms",
+  "sponsor": "Case Comprehensive Cancer Center",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Barrett's Esophagus"
+  ],
+  "interventions": [
+    "EsoCheck/EsoGuard (EC/EG)",
+    "Esophago-gastro-duodenoscopy (EGD)"
+  ],
+  "primary_outcome": "Positive Predictive Value (PPV) of EC/EG in a Non-GERD Population That Has Three or More Non-GERD Risk Factors for BE.",
+  "secondary_outcomes": [],
+  "start_date": "2022-01-05",
+  "completion_date": "2025-02-25",
+  "results_posted": true,
+  "enrollment": 132,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04880044",
+        "orgStudyIdInfo": {
+          "id": "CASE1221"
+        },
+        "organization": {
+          "fullName": "Case Comprehensive Cancer Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "Detection of Barrett s Esophagus in Patients Without GERD Symptoms",
+        "officialTitle": "Detection of Barrett s Esophagus in Patients Without Gastroesophageal Reflux Disease (GERD) Symptoms"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-02",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2022-01-05",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2025-02-25",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2025-02-25",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2021-05-05",
+        "studyFirstSubmitQcDate": "2021-05-05",
+        "studyFirstPostDateStruct": {
+          "date": "2021-05-10",
+          "type": "ACTUAL"
+        },
+        "resultsFirstSubmitDate": "2026-02-18",
+        "resultsFirstSubmitQcDate": "2026-02-18",
+        "resultsFirstPostDateStruct": {
+          "date": "2026-03-10",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-02-18",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-03-10",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Case Comprehensive Cancer Center",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": true,
+        "isUsExport": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to develop a method to detect Barrett's esophagus (BE) in individuals with a new office-based diagnostic test.",
+        "detailedDescription": "This study will investigate whether using EsoCheck/EsoGuard(EC/EG) can detect BE in individuals at risk for BE who are currently not being detected and are not undergoing routine esophago-gastro-duodenoscopy (EGD)\n\nBE can only be diagnosed by performing upper endoscopy. Up to 500 adults who have risk factors for BE but do not have chronic heartburn or regurgitation will be enrolled in this study. This will include the EsoCheck/EsoGuard determination along with the upper endoscopy for qualifying EsoGuard negative subjects"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Barrett's Esophagus"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "SCREENING",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 132,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "EC/EG & EGD",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will complete a study questionnaire about reflux symptoms. Performance of an EsoCheck (EC) procedure; the EC sample will subsequently be tested with the EsoGuard (EG) assay\n\nIf EG assay results come back positive, participant is requested to complete standard of care (SOC) upper endoscopy (tissue samples collected)\n\nIf EG assay results come back negative, selected participants (100 volunteers) will also undergo a research EGD if they consent",
+            "interventionNames": [
+              "Diagnostic Test: EsoCheck/EsoGuard (EC/EG)",
+              "Diagnostic Test: Esophago-gastro-duodenoscopy (EGD)"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "EsoCheck/EsoGuard (EC/EG)",
+            "description": "EC is a swallowed capsule on a tethered catheter that obtains a touch sample of the distal esophagus. The obtained sample is placed in a buffer and sent to a diagnostics lab for testing of methylated markers from extracted DNA. EG is a methylated DNA test . A positive EG is associated with Barrett's esophagus at all its stages.",
+            "armGroupLabels": [
+              "EC/EG & EGD"
+            ]
+          },
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "Esophago-gastro-duodenoscopy (EGD)",
+            "description": "SOC diagnostic endoscopic procedure that visualizes the upper part of the gastrointestinal tract down to the duodenum. Tissue samples collected.",
+            "armGroupLabels": [
+              "EC/EG & EGD"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Positive Predictive Value (PPV) of EC/EG in a Non-GERD Population That Has Three or More Non-GERD Risk Factors for BE.",
+            "description": "PPV of EC/EG in a non-GERD population that has three or more non-GERD risk factors for BE. Participants who are at risk will be offered EC/EG. Those who are positive will undergo subsequent EGD\n\nPPV = (EC/EG positive \\& EGD positive) / ((EC/EG positive \\& EGD positive) + (EC/EG positive \\& EGD negative))",
+            "timeFrame": "Up to 2 months"
+          },
+          {
+            "measure": "Proportion of Participants Negative Via EC/EG Who Subsequently Are Proven Negative Via EGD",
+            "description": "Negative Predictive Value (NPV):\n\nProportion of participants negative via EC/EG who subsequently are proven negative via EGD. This will be measured by offering EGD to a proportion of patients who are EC/EG negative.",
+            "timeFrame": "Up to 2 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* No known coagulopathy, no known esophageal varices.\n* No significant dysphagia or odynophagia\n* Absence of chronic GERD, defined as five or more years of heartburn or regurgitation with symptoms at least once a week when not on medications for GERD symptoms.\n* Subjects to qualify must meet criterion 3, be over age 50, and have two additional risk factors for BE (white race, central obesity defined as waist size \\>35 inches for women and \\>40 inches for men, male gender, current smoker or smoking history \\>10 pack years, confirmed family history in at least two members with one being a first degree relative).\n\nExclusion Criteria:\n\n* History of prior EGD procedure\n* Inability to provide written informed consent\n* History of weekly of more frequent heartburn or regurgitation for five or more years\n* On anti-coagulant drug(s)that cannot be temporarily discontinued or coagulopathy with international normalized ratio (INR) \\> 1.5\n* Known history of esophageal varices or esophageal stricture\n* Any contraindication, as deemed inInvestigator's medical judgment, to undergoing the EsoCheck procedure, undergoing the EGDprocedure,and/or having biopsies taken, including but not limited to due to comorbidities such as coagulopathy or a known history of esophageal diverticula, esophageal fistula and/or esophageal ulceration\n* History of difficulty swallowing (dysphagia) or painful swallowing (odynophagia), including swallowing pills\n* Oropharyngeal tumor\n* History of esophageal or gastric surgery, with exception on uncomplicated surgical fundoplication procedure\n* History of myocardial infarction or cerebrovascular accident within past 6 months",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "50 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Amitabh Chak, MD",
+            "affiliation": "University Hospitals Cleveland Medical Center, Case Comprehensive Cancer Center",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University Hospitals Cleveland Medical Center, Seidman Cancer Center, Case Comprehensive Cancer Center",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44106-5065",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.4995,
+              "lon": -81.69541
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "40748349",
+            "type": "DERIVED",
+            "citation": "Chak A, Keerthy K, Wang GM, Brock W, Bednarchik B, Guptha R, Verma S, Moinova H, Tatsuoka C, Dumot J, Thomas S, Willis JE, Markowitz S. Nonendoscopic Detection of Barrett's Esophagus on Patients Without Gastroesophageal Reflux Disease Symptoms. Am J Gastroenterol. 2026 Jan 1;121(1):258-261. doi: 10.14309/ajg.0000000000003669. Epub 2025 Aug 1."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "All individual participant data (IPD) that result in publication",
+        "infoTypes": [
+          "STUDY_PROTOCOL",
+          "SAP",
+          "CSR",
+          "ANALYTIC_CODE"
+        ]
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "EC/EG & EGD",
+            "description": "Participants will complete a study questionnaire about reflux symptoms. Performance of an EsoCheck (EC) procedure; the EC sample will subsequently be tested with the EsoGuard (EG) assay\n\nIf EG assay results come back positive, participant is requested to complete standard of care (SOC) upper endoscopy (tissue samples collected)\n\nIf EG assay results come back negative, selected participants (100 volunteers) will also undergo a research EGD if they consent\n\nEsoCheck/EsoGuard (EC/EG): EC is a swallowed capsule on a tethered catheter that obtains a touch sample of the distal esophagus. The obtained sample is placed in a buffer and sent to a diagnostics lab for testing of methylated markers from extracted DNA. EG is a methylated DNA test . A positive EG is associated with Barrett's esophagus at all its stages.\n\nEsophago-gastro-duodenoscopy (EGD): SOC diagnostic endoscopic procedure that visualizes the upper part of the gastrointestinal tract down to the duodenum. Tissue samples collected."
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "132"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "124"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "8"
+                  }
+                ]
+              }
+            ],
+            "dropWithdraws": [
+              {
+                "type": "Physician Decision",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "8"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "EC/EG & EGD",
+            "description": "Participants will complete a study questionnaire about reflux symptoms. Performance of an EsoCheck (EC) procedure; the EC sample will subsequently be tested with the EsoGuard (EG) assay\n\nIf EG assay results come back positive, participant is requested to complete standard of care (SOC) upper endoscopy (tissue samples collected)\n\nIf EG assay results come back negative, selected participants (100 volunteers) will also undergo a research EGD if they consent\n\nEsoCheck/EsoGuard (EC/EG): EC is a swallowed capsule on a tethered catheter that obtains a touch sample of the distal esophagus. The obtained sample is placed in a buffer and sent to a diagnostics lab for testing of methylated markers from extracted DNA. EG is a methylated DNA test . A positive EG is associated with Barrett's esophagus at all its stages.\n\nEsophago-gastro-duodenoscopy (EGD): SOC diagnostic endoscopic procedure that visualizes the upper part of the gastrointestinal tract down to the duodenum. Tissue samples collected."
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "132"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Customized",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "title": "40-49",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "50-59",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "62"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "60-69",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "52"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "70-79",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "16"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "80-89",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "9"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "123"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Ethnicity (NIH/OMB)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Hispanic or Latino",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Not Hispanic or Latino",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "121"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "9"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Race (NIH/OMB)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "American Indian or Alaska Native",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Asian",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Native Hawaiian or Other Pacific Islander",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Black or African American",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "White",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "125"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "More than one race",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "3"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Positive Predictive Value (PPV) of EC/EG in a Non-GERD Population That Has Three or More Non-GERD Risk Factors for BE.",
+            "description": "PPV of EC/EG in a non-GERD population that has three or more non-GERD risk factors for BE. Participants who are at risk will be offered EC/EG. Those who are positive will undergo subsequent EGD\n\nPPV = (EC/EG positive \\& EGD positive) / ((EC/EG positive \\& EGD positive) + (EC/EG positive \\& EGD negative))",
+            "populationDescription": "Only participants who underwent EGD and meet criteria for PPV calculation were included. 83 participants were not included, as they did not meet these criteria.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "Percentage of screened participants",
+            "timeFrame": "Up to 2 months",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "EC/EG & EGD",
+                "description": "Participants will complete a study questionnaire about reflux symptoms. Performance of an EsoCheck (EC) procedure; the EC sample will subsequently be tested with the EsoGuard (EG) assay\n\nIf EG assay results come back positive, participant is requested to complete standard of care (SOC) upper endoscopy (tissue samples collected)\n\nIf EG assay results come back negative, selected participants (100 volunteers) will also undergo a research EGD if they consent\n\nEsoCheck/EsoGuard (EC/EG): EC is a swallowed capsule on a tethered catheter that obtains a touch sample of the distal esophagus. The obtained sample is placed in a buffer and sent to a diagnostics lab for testing of methylated markers from extracted DNA. EG is a methylated DNA test . A positive EG is associated with Barrett's esophagus at all its stages.\n\nEsophago-gastro-duodenoscopy (EGD): SOC diagnostic endoscopic procedure that visualizes the upper part of the gastrointestinal tract down to the duodenum. Tissue samples collected."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "49"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "33",
+                        "lowerLimit": "17",
+                        "upperLimit": "54"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PRIMARY",
+            "title": "Proportion of Participants Negative Via EC/EG Who Subsequently Are Proven Negative Via EGD",
+            "description": "Negative Predictive Value (NPV):\n\nProportion of participants negative via EC/EG who subsequently are proven negative via EGD. This will be measured by offering EGD to a proportion of patients who are EC/EG negative.",
+            "populationDescription": "Only participants who underwent EGD and meet criteria for NPV calculation were included. 92 participants were not included, as they did not meet these criteria.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "Percentage of screened participants",
+            "timeFrame": "Up to 2 months",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "EC/EG & EGD",
+                "description": "Participants will complete a study questionnaire about reflux symptoms. Performance of an EsoCheck (EC) procedure; the EC sample will subsequently be tested with the EsoGuard (EG) assay\n\nIf EG assay results come back positive, participant is requested to complete standard of care (SOC) upper endoscopy (tissue samples collected)\n\nIf EG assay results come back negative, selected participants (100 volunteers) will also undergo a research EGD if they consent\n\nEsoCheck/EsoGuard (EC/EG): EC is a swallowed capsule on a tethered catheter that obtains a touch sample of the distal esophagus. The obtained sample is placed in a buffer and sent to a diagnostics lab for testing of methylated markers from extracted DNA. EG is a methylated DNA test . A positive EG is associated with Barrett's esophagus at all its stages.\n\nEsophago-gastro-duodenoscopy (EGD): SOC diagnostic endoscopic procedure that visualizes the upper part of the gastrointestinal tract down to the duodenum. Tissue samples collected."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "40"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "100",
+                        "lowerLimit": "85",
+                        "upperLimit": "100"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "0",
+        "timeFrame": "Up to 2 months",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "EC/EG & EGD",
+            "description": "Participants will complete a study questionnaire about reflux symptoms. Performance of an EsoCheck (EC) procedure; the EC sample will subsequently be tested with the EsoGuard (EG) assay\n\nIf EG assay results come back positive, participant is requested to complete standard of care (SOC) upper endoscopy (tissue samples collected)\n\nIf EG assay results come back negative, selected participants (100 volunteers) will also undergo a research EGD if they consent\n\nEsoCheck/EsoGuard (EC/EG): EC is a swallowed capsule on a tethered catheter that obtains a touch sample of the distal esophagus. The obtained sample is placed in a buffer and sent to a diagnostics lab for testing of methylated markers from extracted DNA. EG is a methylated DNA test . A positive EG is associated with Barrett's esophagus at all its stages.\n\nEsophago-gastro-duodenoscopy (EGD): SOC diagnostic endoscopic procedure that visualizes the upper part of the gastrointestinal tract down to the duodenum. Tissue samples collected.",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 132,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 132,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 132
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": true
+        },
+        "pointOfContact": {
+          "title": "Amitabh Chak, M.D., Principal Investigator",
+          "organization": "University Hospitals, Case Comprehensive Cancer Center",
+          "email": "amitabh.chak@uhhospitals.org",
+          "phone": "(216) 844-3217"
+        }
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot_SAP",
+            "hasProtocol": true,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Study Protocol and Statistical Analysis Plan",
+            "date": "2023-08-14",
+            "uploadDate": "2026-02-18T15:08",
+            "filename": "Prot_SAP_000.pdf",
+            "size": 348024
+          },
+          {
+            "typeAbbrev": "ICF",
+            "hasProtocol": false,
+            "hasSap": false,
+            "hasIcf": true,
+            "label": "Informed Consent Form",
+            "date": "2025-06-16",
+            "uploadDate": "2026-02-18T17:14",
+            "filename": "ICF_001.pdf",
+            "size": 535391
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001471",
+            "term": "Barrett Esophagus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D011230",
+            "term": "Precancerous Conditions"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D004935",
+            "term": "Esophageal Diseases"
+          },
+          {
+            "id": "D005767",
+            "term": "Gastrointestinal Diseases"
+          },
+          {
+            "id": "D004066",
+            "term": "Digestive System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T10:30:03.628889"
+}

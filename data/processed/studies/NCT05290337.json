@@ -1,0 +1,281 @@
+{
+  "nct_id": "NCT05290337",
+  "title": "Phase 2 Study of Zanubrutinib Plus RCHOP (ZR-CHOP) in Newly Diagnosed Diffuse Large B-cell Lymphoma With Specific Gene Abnormality",
+  "sponsor": "Fudan University",
+  "phase": "PHASE2",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Diffuse Large B Cell Lymphoma"
+  ],
+  "interventions": [
+    "zanubrutinib"
+  ],
+  "primary_outcome": "3-year progression free survival",
+  "secondary_outcomes": [
+    "Objective response rate",
+    "3-year event free survival",
+    "3-year overall survival"
+  ],
+  "start_date": "2022-01-04",
+  "completion_date": "2024-01-04",
+  "results_posted": false,
+  "enrollment": 62,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05290337",
+        "orgStudyIdInfo": {
+          "id": "ZIDEA"
+        },
+        "organization": {
+          "fullName": "Fudan University",
+          "class": "OTHER"
+        },
+        "briefTitle": "ZR-CHOP in DLBCL With Specific Gene Abnormality",
+        "officialTitle": "Phase 2 Study of Zanubrutinib Plus RCHOP (ZR-CHOP) in Newly Diagnosed Diffuse Large B-cell Lymphoma With Specific Gene Abnormality"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2022-03",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2022-01-04",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2024-01-04",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2026-01-04",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2022-02-10",
+        "studyFirstSubmitQcDate": "2022-03-13",
+        "studyFirstPostDateStruct": {
+          "date": "2022-03-22",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2022-03-13",
+        "lastUpdatePostDateStruct": {
+          "date": "2022-03-22",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Junning Cao, MD",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "Fudan University"
+        },
+        "leadSponsor": {
+          "name": "Fudan University",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is a phase 2, single center clinical trial. to evaluating the efficacy and safety of Zanubrutinib in combination with R-CHOP in newly diagnosed diffuse large B-cell lymphoma with specific gene abnormality.",
+        "detailedDescription": "This is a phase 2, single center clinical trial. to evaluating the efficacy and safety of Zanubrutinib in combination with R-CHOP in newly diagnosed diffuse large B-cell lymphoma with specific gene abnormality, including MYC translocation, MYD88 mutation, CD79B mutation, NOTCH1 mutation and TP53 mutation. all patients received 6 cycle therapy."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diffuse Large B Cell Lymphoma"
+        ],
+        "keywords": [
+          "Zanubrutinib",
+          "gene mutation",
+          "MYC translocation"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 62,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "ZR-CHOP",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Drug: zanubrutinib"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "zanubrutinib",
+            "description": "BTK inhibitor",
+            "armGroupLabels": [
+              "ZR-CHOP"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "3-year progression free survival",
+            "description": "From date of enrollment until the date of first documented progression or date of death from any cause, whichever came first",
+            "timeFrame": "assessed up to 36 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Objective response rate",
+            "description": "complete remission and partial remission",
+            "timeFrame": "assessed up to 36 months"
+          },
+          {
+            "measure": "3-year event free survival",
+            "description": "From date of enrollment until the date of an event, including progression, death from any cause, new treatment.",
+            "timeFrame": "assessed up to 36 months"
+          },
+          {
+            "measure": "3-year overall survival",
+            "description": "From date of enrollment until the date of death from any cause",
+            "timeFrame": "assessed up to 36 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18-75 years old;\n2. histological confirmed, newly-diagnosed diffuse large B-cell lymphoma with one of the following gene abnormality including MYC translocation, MYD88 mutation, CD79B mutation, NOTCH1 mutation and TP53 mutation;\n3. Eastern Cooperative Oncology Group (ECOG) status of 0-1; 4) hospitalized patients and received the whole cycle treatment in Fudan University Shanghai Cancer Center-\n4. normal hematological, hepatic and renal function.\n5. Life expectancy of more than 3 months;\n6. Patients had at least one measurable target lesion;\n7. LVEF \u2265 50%\n8. signed informed consent forms\n\nExclusion Criteria:\n\n1. hypersensitivity to immunoglobulin;\n2. primary central nerves lymphoma\n3. History of other malignancies except cured basal cell carcinoma of skin and carcinoma in-situ of uterine cervix;\n4. With contraindication of steroid including uncontrolled diabetes;\n5. Serious uncontrolled diseases and intercurrent infection;\n6. Pregnant or lactating women;\n7. hepatitis B infection with HBV-DNA \u2265 104",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Fudan University Shanghai Cancer Center",
+            "status": "RECRUITING",
+            "city": "Shanghai",
+            "state": "Shanghai Municipality",
+            "zip": "200032",
+            "country": "China",
+            "contacts": [
+              {
+                "name": "Qunling Zhang, doctor",
+                "role": "CONTACT",
+                "phone": "64175590",
+                "phoneExt": "88900",
+                "email": "zqldoc@163.com"
+              }
+            ],
+            "geoPoint": {
+              "lat": 31.22222,
+              "lon": 121.45806
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "42386710",
+            "type": "DERIVED",
+            "citation": "Zhang Q, Jiang S, Wei R, Zhang W, Bao L, Liu Y, Jin J, Lv F, Liu C, Liu X, Sun H, Wang J, Tao R, Zhou X, Cao J. Zanubrutinib combined with R-CHOP in previously untreated diffuse large B-cell lymphoma with specific gene alteration: a phase II study. Blood Cancer J. 2026 Jul 1. doi: 10.1038/s41408-026-01553-4. Online ahead of print."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D016403",
+            "term": "Lymphoma, Large B-Cell, Diffuse"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D016393",
+            "term": "Lymphoma, B-Cell"
+          },
+          {
+            "id": "D008228",
+            "term": "Lymphoma, Non-Hodgkin"
+          },
+          {
+            "id": "D008223",
+            "term": "Lymphoma"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008232",
+            "term": "Lymphoproliferative Disorders"
+          },
+          {
+            "id": "D008206",
+            "term": "Lymphatic Diseases"
+          },
+          {
+            "id": "D006425",
+            "term": "Hemic and Lymphatic Diseases"
+          },
+          {
+            "id": "D007160",
+            "term": "Immunoproliferative Disorders"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C000629551",
+            "term": "zanubrutinib"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628500"
+}

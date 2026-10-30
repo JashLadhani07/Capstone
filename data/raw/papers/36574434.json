@@ -1,0 +1,28 @@
+{
+  "pmid": "36574434",
+  "title": "Effect of repeated bolus and continuous glucose infusion on a panel of circulating biomarkers in healthy volunteers.",
+  "abstract": "Glycaemic variability (GV) refers to fluctuations in the blood glucose level and may contribute to complications in patients suffering from Diabetes. Several studies show negative effects of GV on the cardiovascular system, however there is still a lack of conclusive evidence. Using an explorative cardiovascular panel, it is possible to simultaneously measure the effects on proteins relevant for cardiovascular processes. The aim of this study was to investigate the effects of rapid glucose excursions on cardiovascular and metabolic parameters in healthy individuals. An explorative single-blinded cross-over study was performed in ten healthy men. Subjects received 3 times 20 grams of glucose i.v. over 5 minutes or 60 grams of glucose continuously over 3 hours. Blood was taken for repeated measurements of the cardiovascular panel over the following 6 hours and again after 24 and 48 hours. We observed a significant elevation of 7 cardiovascular biomarkers (BMP6, SLAMF7, LOX-1, ADAMTS13, IL-1RA, IL-4RA, PTX3) at t = 360min after rapid glucose infusion compared to a continuous glucose infusion. Intraday GV seems to have acute effects on cardiovascular proteins in healthy test persons. Rapid glucose administration compared to continuous administration showed significant changes in BMP6, SLAMF7, ADAMTS13, IL1RA, PTX3, IL-4RA and LOX-1. NCT04488848.",
+  "journal": "PloS one",
+  "pub_date": "2022-01",
+  "authors": [
+    "Feldbauer, Roland",
+    "Heinzl, Matthias Wolfgang",
+    "Klammer, Carmen",
+    "Resl, Michael",
+    "Pohlhammer, Johannes",
+    "Rosenberger, Klemens",
+    "Almesberger, Verena",
+    "Obendorf, Florian",
+    "Schinagl, Lukas",
+    "Wagner, Thomas",
+    "Egger, Margot",
+    "Dieplinger, Benjamin",
+    "Clodi, Martin"
+  ],
+  "nct_ids_referenced": [
+    "NCT04488848"
+  ],
+  "source": "pubmed",
+  "word_count": 200,
+  "parsed_at": "2026-10-30T10:29:40.089308"
+}

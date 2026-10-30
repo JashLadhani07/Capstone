@@ -1,0 +1,330 @@
+{
+  "nct_id": "NCT05001828",
+  "title": "Phase IA/B Combination Study of ADI-PEG 20, Venetoclax and Azacitidine in Patients With Acute Myeloid Leukemia (AML)",
+  "sponsor": "Polaris Group",
+  "phase": "PHASE1",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "conditions": [
+    "Acute Myeloid Leukemia, Adult"
+  ],
+  "interventions": [
+    "ADI-PEG 20"
+  ],
+  "primary_outcome": "Determine the RP2D of ADI-PEG 20 in combination with venetoclax and azacitidine, per the number of subjects with treatment-related adverse events by current CTCAE",
+  "secondary_outcomes": [
+    "Determine preliminary evidence of tumor activity, per the revised 2017 European LeukemiaNet criteria",
+    "Determine the peripheral blood arginine levels of ADI-PEG 20 in combination with venetoclax and azacitidine",
+    "Determine the peripheral blood citrulline levels of ADI-PEG 20 in combination with venetoclax and azacitidine",
+    "Determine the anti-drug antibodies of ADI-PEG 20 in combination with venetoclax and azacitidine"
+  ],
+  "start_date": "2022-04-05",
+  "completion_date": "2027-01",
+  "results_posted": false,
+  "enrollment": 38,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05001828",
+        "orgStudyIdInfo": {
+          "id": "POLARIS2020-002"
+        },
+        "organization": {
+          "fullName": "Polaris Group",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Study of ADI-PEG 20, Venetoclax and Azacitidine in Acute Myeloid Leukemia",
+        "officialTitle": "Phase IA/B Combination Study of ADI-PEG 20, Venetoclax and Azacitidine in Patients With Acute Myeloid Leukemia (AML)"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-10",
+        "overallStatus": "ACTIVE_NOT_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2022-04-05",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-01",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-01",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2021-07-26",
+        "studyFirstSubmitQcDate": "2021-08-03",
+        "studyFirstPostDateStruct": {
+          "date": "2021-08-12",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-10-09",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-10-15",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Polaris Group",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Pegylated arginine deiminase (ADI-PEG 20) will be combined with venetoclax and azacitidine for treatment of subjects with previously treated or untreated with high risk factor acute myeloid leukemia (AML). Venetoclax and azacitidine are front-line therapy for such patients, and ADI-PEG 20 will be added to this regimen in a phase IA/B study.",
+        "detailedDescription": "This is an open label, single arm, phase 1 trial with recommended phase 2 dose (RP2D) cohorts based on subject inclusion criteria.\n\nLead In: 6 patients will be enrolled to be treated with standard dose of azacitidine and venetoclax and the expected RP2D of ADI-PEG 20 (dose level 0). In case of DLT occurring in \\>1 patient in cycle 1, 6 additional patients will be accrued at dose level -1 of ADI-PEG 20 while keeping the doses of azacitidine and venetoclax unchanged (Dose level -1). Enrollment to cohort 1 and 2 will start after \u22641 patient out of 6 encounters DLT in cycle 1 at one of these dose levels. The 6 patients enrolled at that dose level will be counted for efficacy analysis. Cohort 1: Relapsed or refractory AML: target response 25%. Historical expectation for venetoclax and azacitidine is 15%.\n\nCohort 2: Newly diagnosed high risk AML: Target response 55%. Historical expectation for venetoclax and azacitidine is 40%.\n\nTreatment may be continued for a maximum of 24 cycles or 104 doses of ADI-PEG 20 (study Week 103), whichever is reached first."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Acute Myeloid Leukemia, Adult"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 38,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Previously Treated AML",
+            "type": "EXPERIMENTAL",
+            "description": "Previously treated AML based on the revised revised 2022 WHO criteria with age at least 18 years.",
+            "interventionNames": [
+              "Drug: ADI-PEG 20"
+            ]
+          },
+          {
+            "label": "Untreated AML With High Risk Features",
+            "type": "EXPERIMENTAL",
+            "description": "Untreated AML per 2022 WHO criteria with high-risk features and not a candidate for intensive chemotherapy because of age 60 years or older, age-related comorbidities, cardiac disease, prior anthracycline use, high probability of treatment-related mortality, or otherwise would not benefit from intensive chemotherapy treatment.",
+            "interventionNames": [
+              "Drug: ADI-PEG 20"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "ADI-PEG 20",
+            "description": "ADI-PEG 20 in combination with venetoclax and azacitidine",
+            "armGroupLabels": [
+              "Previously Treated AML",
+              "Untreated AML With High Risk Features"
+            ],
+            "otherNames": [
+              "Venetoclax",
+              "Azacitidine"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Determine the RP2D of ADI-PEG 20 in combination with venetoclax and azacitidine, per the number of subjects with treatment-related adverse events by current CTCAE",
+            "timeFrame": "6 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Determine preliminary evidence of tumor activity, per the revised 2017 European LeukemiaNet criteria",
+            "timeFrame": "2 years"
+          },
+          {
+            "measure": "Determine the peripheral blood arginine levels of ADI-PEG 20 in combination with venetoclax and azacitidine",
+            "timeFrame": "2 years"
+          },
+          {
+            "measure": "Determine the peripheral blood citrulline levels of ADI-PEG 20 in combination with venetoclax and azacitidine",
+            "timeFrame": "2 years"
+          },
+          {
+            "measure": "Determine the anti-drug antibodies of ADI-PEG 20 in combination with venetoclax and azacitidine",
+            "timeFrame": "2 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Cohort 1: Previously treated (relapsed/recurrent) or refractory AML based on the 2022 revision to the World Health Organization (WHO) criteria (Arber 2022)\n* Cohort 2: Untreated AML per 2022 WHO (Arber 2022) criteria with high-risk features and not a candidate for intensive chemotherapy because of age 60 years or older, age-related comorbidities, cardiac disease, prior anthracycline use, high probability of treatment-related mortality, or otherwise would not benefit from intensive chemotherapy treatment.\n* Age \u2265 18 years\n* Life expectancy reasonably adequate for evaluating the treatment\n* White blood cell (WBC) count of 10 \u00d7 109/L or less. (Use of hydroxyurea to control WBC is allowed till 48 hours prior to protocol treatment)\n* Adequate renal function: Creatinine \u2264 1.5 x upper limit of normal (ULN) or creatinine clearance \\> 40 mL/minute (measured or calculated according to the Cockcroft-Gault formula)\n* Adequate liver function\n\n  * Total bilirubin \u2264 1.5 x ULN\n  * ALT and AST both \u2264 2.5 x institutional ULN or \u2264 5 times the ULN for patients with leukemic involvement of liver\n\nExclusion Criteria:\n\n* Prior treatments as follows:\n\n  1. Cohort 1: \\>2 cycles of prior combination treatment with venetoclax+hypomethelating agent (i.e. azacitidine, decitabine) is exclusionary. All other prior treatment for antecedent hematological disorders and/or for AML is permitted.\n  2. Cohort 2: Prior treatment for antecedent hematological disorders with venetoclax or chemotherapy or any prior treatment for their AML is exclusionary. However, treatment with other agents, including hydroxyurea or \u22642 cycles of hypomethylating agent (i.e. azacitidine, decitabine), for MDS or myeloproliferative neoplasm is permitted.\n* Cohort 2: Favorable risk AML per European LeukemiaNet (ELN) 2022 criteria (D\u00f6hner 2022)\n* Known active CNS involvement by leukemia",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "99 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "John S Bomalaski, MD",
+            "affiliation": "Polaris Group",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Sylvester Comprehensive Cancer Center",
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33136",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.77427,
+              "lon": -80.19366
+            }
+          },
+          {
+            "facility": "Levine Cancer Institute",
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "zip": "28204",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.22709,
+              "lon": -80.84313
+            }
+          },
+          {
+            "facility": "MD Anderson Cancer Center",
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.76328,
+              "lon": -95.36327
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D015470",
+            "term": "Leukemia, Myeloid, Acute"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D007951",
+            "term": "Leukemia, Myeloid"
+          },
+          {
+            "id": "D007938",
+            "term": "Leukemia"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D006402",
+            "term": "Hematologic Diseases"
+          },
+          {
+            "id": "D006425",
+            "term": "Hemic and Lymphatic Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C512527",
+            "term": "ADI PEG20"
+          },
+          {
+            "id": "C579720",
+            "term": "venetoclax"
+          },
+          {
+            "id": "D001374",
+            "term": "Azacitidine"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001372",
+            "term": "Aza Compounds"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D003562",
+            "term": "Cytidine"
+          },
+          {
+            "id": "D011741",
+            "term": "Pyrimidine Nucleosides"
+          },
+          {
+            "id": "D011743",
+            "term": "Pyrimidines"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          },
+          {
+            "id": "D009705",
+            "term": "Nucleosides"
+          },
+          {
+            "id": "D009706",
+            "term": "Nucleic Acids, Nucleotides, and Nucleosides"
+          },
+          {
+            "id": "D012263",
+            "term": "Ribonucleosides"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628718"
+}

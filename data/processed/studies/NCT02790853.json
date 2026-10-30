@@ -1,0 +1,377 @@
+{
+  "nct_id": "NCT02790853",
+  "title": "Multimodal Imaging for Surveillance of Patients With Oral Potentially Malignant Disorders",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "phase": "EARLY_PHASE1",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "conditions": [
+    "Dysplasia",
+    "Lip and Oral Cavity Carcinoma",
+    "Oral Disorder",
+    "Premalignant Lesion"
+  ],
+  "interventions": [
+    "Biopsy",
+    "Fluorescence Imaging",
+    "High-Resolution Microendoscopy",
+    "Proflavine Hemisulfate"
+  ],
+  "primary_outcome": "Detection of high grade dysplasia and carcinoma",
+  "secondary_outcomes": [
+    "Diagnostic assessment",
+    "Biomarker analysis",
+    "Cytologic results"
+  ],
+  "start_date": "2016-05-25",
+  "completion_date": "2028-05-31",
+  "results_posted": false,
+  "enrollment": 63,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02790853",
+        "orgStudyIdInfo": {
+          "id": "2014-0831"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "NCI-2018-02554",
+            "type": "REGISTRY",
+            "domain": "CTRP (Clinical Trial Reporting Program)"
+          },
+          {
+            "id": "2014-0831",
+            "type": "OTHER",
+            "domain": "M D Anderson Cancer Center"
+          },
+          {
+            "id": "P30CA016672",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/P30CA016672"
+          }
+        ],
+        "organization": {
+          "fullName": "M.D. Anderson Cancer Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "Multimodal Imaging for Surveillance in Patients With Oral Potentially Malignant Disorders",
+        "officialTitle": "Multimodal Imaging for Surveillance of Patients With Oral Potentially Malignant Disorders"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-10",
+        "overallStatus": "ACTIVE_NOT_RECRUITING",
+        "startDateStruct": {
+          "date": "2016-05-25",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2028-05-31",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2028-05-31",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2016-05-26",
+        "studyFirstSubmitQcDate": "2016-05-31",
+        "studyFirstPostDateStruct": {
+          "date": "2016-06-06",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2026-10-14",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-10-15",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "M.D. Anderson Cancer Center",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "National Cancer Institute (NCI)",
+            "class": "NIH"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": true,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This early phase I trial studies how well multimodal imaging works for surveillance in patients with oral potentially malignant disorders. New types of imaging devices may help doctors decide if a lesion in the mouth is pre-cancerous or cancerous.",
+        "detailedDescription": "PRIMARY OBJECTIVES:\n\nI. To compare standard white light examination to multimodal imaging for detection of high grade dysplasia and carcinoma during follow-up examinations of patients with oral potentially malignant disorders (OPMD).\n\nSECONDARY OBJECTIVES:\n\nI. To determine qualitative and quantitative diagnostic assessment of patients who agree to undergo imaging and have images of sufficient quality.\n\nII. To compare expression of molecular biomarkers to results from white light examination, multimodal imaging and pathologic assessment in a subset of patients who have invasive biopsies or resection.\n\nIII. To compare cytologic results from brush biopsy specimens to white light examination and multimodal imaging results.\n\nOUTLINE:\n\nParticipants undergo PS2.1/PS3 imaging and high-resolution microendoscope imaging with proflavine hemisulfate applied to the mucosa. Patients also undergo brush biopsy and incisional biopsy. Procedures are repeated every 3-4 months for 2 years.\n\nAfter completion of study treatment, patients are followed up at 30 days."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Dysplasia",
+          "Lip and Oral Cavity Carcinoma",
+          "Oral Disorder",
+          "Premalignant Lesion"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "EARLY_PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "DIAGNOSTIC",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 63,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Diagnostic (multimodal imaging, biopsy)",
+            "type": "EXPERIMENTAL",
+            "description": "Participants undergo PS2.1/PS3 imaging and high-resolution microendoscope imaging with proflavine hemisulfate applied to the mucosa. Patients also undergo brush biopsy and incisional biopsy. Procedures are repeated every 3-4 months for 2 years.",
+            "interventionNames": [
+              "Procedure: Biopsy",
+              "Procedure: Fluorescence Imaging",
+              "Procedure: High-Resolution Microendoscopy",
+              "Drug: Proflavine Hemisulfate"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Biopsy",
+            "description": "Undergo brush biopsy and incisional biopsy",
+            "armGroupLabels": [
+              "Diagnostic (multimodal imaging, biopsy)"
+            ],
+            "otherNames": [
+              "Bx"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Fluorescence Imaging",
+            "description": "Undergo PS2.1/PS3 imaging",
+            "armGroupLabels": [
+              "Diagnostic (multimodal imaging, biopsy)"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "High-Resolution Microendoscopy",
+            "description": "Undergo HRME imaging",
+            "armGroupLabels": [
+              "Diagnostic (multimodal imaging, biopsy)"
+            ],
+            "otherNames": [
+              "HRME"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Proflavine Hemisulfate",
+            "description": "Applied on mucosa",
+            "armGroupLabels": [
+              "Diagnostic (multimodal imaging, biopsy)"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Detection of high grade dysplasia and carcinoma",
+            "description": "Will compare standard white light examination to multimodal imaging for detection of high grade dysplasia and carcinoma during follow-up examinations of patients with oral potentially malignant disorders (OPMD).",
+            "timeFrame": "Up to 2 years"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Diagnostic assessment",
+            "description": "Will determine qualitative and quantitative diagnostic assessment of patients who agree to undergo imaging and have images of sufficient quality.",
+            "timeFrame": "Up to 2 years"
+          },
+          {
+            "measure": "Biomarker analysis",
+            "description": "Will compare expression of molecular biomarkers to results from white light examination, multimodal imaging and pathologic assessment in a subset of patients who have invasive biopsies or resection.",
+            "timeFrame": "Up to 2 years"
+          },
+          {
+            "measure": "Cytologic results",
+            "description": "Will compare cytologic results from brush biopsy specimens to white light examination and multimodal imaging results.",
+            "timeFrame": "Up to 2 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects who are willing to participate.\n* Adult subjects with: a. clinically evident oral premalignant lesion (OPL) or suspicious oral mucosal lesion. or b. pathologic diagnosis of dysplasia or c. history of resected oral cancer or d. oral potentially malignant disorder (OPMD) or e. history of tobacco and/or alcohol exposure.\n* Ability to understand and willingness to sign a written informed consent document (ICD).\n\nExclusion Criteria:\n\n* Known allergy to proflavine or acriflavine.\n* Pregnant females.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Ann Gillenwater",
+            "affiliation": "M.D. Anderson Cancer Center",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "M D Anderson Cancer Center",
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.76328,
+              "lon": -95.36327
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "MD Anderson Cancer Center Website",
+            "url": "http://www.mdanderson.org"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009062",
+            "term": "Mouth Neoplasms"
+          },
+          {
+            "id": "D009059",
+            "term": "Mouth Diseases"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006258",
+            "term": "Head and Neck Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D009057",
+            "term": "Stomatognathic Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001706",
+            "term": "Biopsy"
+          },
+          {
+            "id": "D061848",
+            "term": "Optical Imaging"
+          },
+          {
+            "id": "D011370",
+            "term": "Proflavine"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003581",
+            "term": "Cytodiagnosis"
+          },
+          {
+            "id": "D003584",
+            "term": "Cytological Techniques"
+          },
+          {
+            "id": "D019411",
+            "term": "Clinical Laboratory Techniques"
+          },
+          {
+            "id": "D019937",
+            "term": "Diagnostic Techniques and Procedures"
+          },
+          {
+            "id": "D003933",
+            "term": "Diagnosis"
+          },
+          {
+            "id": "D013048",
+            "term": "Specimen Handling"
+          },
+          {
+            "id": "D003949",
+            "term": "Diagnostic Techniques, Surgical"
+          },
+          {
+            "id": "D013514",
+            "term": "Surgical Procedures, Operative"
+          },
+          {
+            "id": "D008919",
+            "term": "Investigative Techniques"
+          },
+          {
+            "id": "D003952",
+            "term": "Diagnostic Imaging"
+          },
+          {
+            "id": "D000609",
+            "term": "Aminoacridines"
+          },
+          {
+            "id": "D000166",
+            "term": "Acridines"
+          },
+          {
+            "id": "D006575",
+            "term": "Heterocyclic Compounds, 3-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628434"
+}

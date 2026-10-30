@@ -1,0 +1,347 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06257758",
+      "orgStudyIdInfo": {
+        "id": "VIO-01-101"
+      },
+      "organization": {
+        "fullName": "Valerio Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Phase 1/2 Study of VIO-01 in Participants With Recurrent Solid Tumors",
+      "officialTitle": "A Phase 1/2 Study of VIO-01 in Participants With Recurrent Solid Tumors"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-06",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Business decision",
+      "startDateStruct": {
+        "date": "2024-01-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-01-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-01-22",
+      "studyFirstSubmitQcDate": "2024-02-05",
+      "studyFirstPostDateStruct": {
+        "date": "2024-02-14",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Valerio Therapeutics",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this phase 1/2 clinical trial is to investigate the safety of an investigational drug called VIO-01 when taken by people who have different types of solid tumor cancers. There are two parts to this trial, part 1 and part 2.\n\nPart 1 of the trial aims to answer these questions:\n\n* The safety and tolerability of VIO-01 when it is given alone or in combination with other anti-cancer therapies.\n* The highest dose that people can take without having unacceptable side effects\n* How well your body tolerates the drug alone or in combination, how they are absorbed, and the effects they have on your disease.\n\nPart 2 of the trial will further test VIO-01's effect in participants with advanced HRRm or HRD+ solid tumors and HRRm/HRD+ recurrent ovarian cancer.\n\nParticipants will follow a schedule of visits to the study site to have assessments done related to their health condition and to receive the trial treatment.",
+      "detailedDescription": "This is a phase 1/2 open-label, multicenter, basket study to determine the safety, anti-tumor activity, tolerability, and PK/PD of VIO-01 alone or in combination with other anti-cancer therapies in select participants with advanced HRRm or HRD+ solid tumors (i.e. BRCA1/2 mutated breast cancer, HRR mutated prostate cancer) or HRRm/HRD+/HRP (phase 1 only) recurrent ovarian cancer."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Advanced or Metastatic Solid Tumors",
+        "Breast Cancer",
+        "Recurrent Ovarian Cancer",
+        "Prostate Cancer"
+      ],
+      "keywords": [
+        "Solid tumors",
+        "Breast cancer",
+        "Ovarian cancer",
+        "Prostate cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "interventionModelDescription": "The study will be a modular design conducted in two phases. Each module will consist of a dose escalation and dose expansion portion. The study will initially begin with Module A evaluating VIO-01 as a monotherapy. Based on emerging PK and PD data, a protocol amendment implementing additional modules evaluating combination therapies with VIO-01 may be added. After the completion the Module A dose escalation, additional enrollment into expansion cohorts or other modules may proceed in parallel.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 6,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Dose Escalation",
+          "type": "EXPERIMENTAL",
+          "description": "Dose escalation: Multiple dose levels of VIO-01 will be administered via intravenous infusion over a 60-minute period once weekly.",
+          "interventionNames": [
+            "Drug: VIO-01"
+          ]
+        },
+        {
+          "label": "Dose Expansion HRRm or HRD+ Solid Tumors",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with advanced HRRm or HRD+ solid tumors will be administered recommended Phase 2 dose of VIO-01 via intravenous infusion over a 60-minute period once weekly.",
+          "interventionNames": [
+            "Drug: VIO-01"
+          ]
+        },
+        {
+          "label": "Dose Expansion HRRm or HRD+ Ovarian Cancer",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with advanced HRRm or HRD+ ovarian cancer will be administered recommended Phase 2 dose of VIO-01via intravenous infusion over a 60-minute period once weekly.",
+          "interventionNames": [
+            "Drug: VIO-01"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "VIO-01",
+          "description": "VIO-01 will be administered via intravenous infusion over a 60-minute period once weekly. Dosing will be according to body surface area. Based on emerging PK and PD data, alternative dosing schedules may be investigated during the Phase 1 part of the trial. If an alternative schedule is evaluated, the dose and schedule may not exceed the total dose already tested and cleared during the dose escalation.\n\nIn Phase 2, participants will receive VIO-01 by intravenous infusion at RP2D and schedule determined during the phase 1 part of the study.",
+          "armGroupLabels": [
+            "Dose Escalation",
+            "Dose Expansion HRRm or HRD+ Ovarian Cancer",
+            "Dose Expansion HRRm or HRD+ Solid Tumors"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Phase 1: Dose Limiting Toxicities",
+          "description": "As measured by adverse events observed",
+          "timeFrame": "Baseline to 12 months"
+        },
+        {
+          "measure": "Phase 2: Objective Response Rate (ORR)",
+          "description": "Percentage of participants achieving a confirmed complete response (CR) or partial response (PR) based on Investigator assessment per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 criteria guidelines.",
+          "timeFrame": "Baseline to 12 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Phase 1: Assess the pharmacokinetics (PK) of VIO-01",
+          "description": "Safety PK parameters: total exposure including area under the concentration-time curve from dosing (time 0) to 24hrs post dosing (AUC)0-24.",
+          "timeFrame": "Baseline to 12 months"
+        },
+        {
+          "measure": "Phase 1: Assess the pharmacokinetics (PK) of VIO-01",
+          "description": "Safety PK parameters: total exposure including area under the concentration-time curve from dosing (time 0) to the time of the last measured concentration (AUC0-last)",
+          "timeFrame": "Baseline to 12 months"
+        },
+        {
+          "measure": "Phase 1: Assess the pharmacokinetics (PK) of VIO-01",
+          "description": "Safety PK parameters: total exposure including Peak Plasma Concentration (Cmax).",
+          "timeFrame": "Baseline to 12 months"
+        },
+        {
+          "measure": "Phase 2: Duration of response (DOR)",
+          "description": "The time from earliest date of disease response (CR or PR) until earliest date of disease progression, or death, whichever occurs first, as assessed by Investigator using RECIST v1.1 criteria.",
+          "timeFrame": "Baseline to 12 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Participants must have measurable disease per RECIST 1.1\n2. Participants with advanced and/or metastatic solid tumors showing select HRRM tumor alterations, or and HRD+ tumor score (as documented by local testing) as well as participants with advanced and/or metastatic HRP (phase 1 only) ovarian cancer that have had disease progression after treatment with available therapies known to confer clinical benefit or who are intolerant, refractory to or ineligible for standard treatment such as:\n\n   1. BRCA1/2 mutated breast cancer.\n   2. HRP (phase 1 only) or HRRm/HRD+ recurrent ovarian cancer.\n   3. HRR mutated prostate cancer.\n   4. Select HRRm or HRD+ solid tumors with Medical Monitor approval.\n3. For Participants with metastatic breast cancer:\n\n   1. Histologically or cytologically confirmed recurrent or relapsed breast cancer.\n   2. Advanced stage metastatic disease as documented by imaging.\n   3. Participants must have documented status of ER, PR, and HER2 according to American Society of Clinical Oncology, College of American Pathologists (ASCO-CAP) criteria prior to study entry. Participants must have had a biopsy to confirm hormone receptor status in the metastatic setting prior to study entry. Participants with HER2 positive disease are not eligible for enrollment.\n   4. Participants with hormone receptor-positive (estrogen and/or progesterone receptor-positive) disease must have received and progressed on at least one endocrine therapy (adjuvant or metastatic) or have disease that the treating physician believes to be inappropriate for endocrine therapy. Endocrine therapy must have been completed at least 7 days before study treatment.\n   5. Participants with ER+ tumors should have progressed on prior CDK4/6 inhibitors (in addition to hormonal therapy) to be eligible.\n   6. Participants with triple negative breast cancer (TNBC) should have received sacituzumab prior to study enrollment.\n4. Willingness to provide pre-treatment and on-treatment biopsies.\n\nParticipant Exclusion Criteria\n\nThe following criteria must be checked at the time of screening and at baseline. If ANY exclusion criterion applies, the participant must not be included in the study:\n\n1. Phase 2 Only: Have received more than one prior line of therapy in metastatic setting.\n\n   Note: Phase 1 has no limits for prior lines of therapy.\n2. Participants with neurologic disorders such as Guillain-Barr\u00e9 syndrome (GBS), myasthenia gravis (MG), Parkinson's disease, amyotrophic lateral sclerosis (ALS), seizure disorder, multiple sclerosis (MS), or other chronic neurologic condition.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Alexander Philipovskiy, M.D., PhD",
+          "affiliation": "Florida Cancer Specialists & Research Institute",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Florida Cancer Specialists & Research Institute",
+          "city": "Lake Mary",
+          "state": "Florida",
+          "zip": "32746",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.75888,
+            "lon": -81.31784
+          }
+        },
+        {
+          "facility": "Stephenson Cancer Center - University of Oklahoma",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Next Oncology",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30",
+      "submissionTracking": {
+        "estimatedResultsFirstSubmitDate": "2025-06-08",
+        "submissionInfos": [
+          {
+            "releaseDate": "2025-06-08",
+            "resetDate": "2025-06-23",
+            "mcpReleaseN": 3
+          }
+        ]
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001943",
+          "term": "Breast Neoplasms"
+        },
+        {
+          "id": "D010051",
+          "term": "Ovarian Neoplasms"
+        },
+        {
+          "id": "D011471",
+          "term": "Prostatic Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001941",
+          "term": "Breast Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D004701",
+          "term": "Endocrine Gland Neoplasms"
+        },
+        {
+          "id": "D010049",
+          "term": "Ovarian Diseases"
+        },
+        {
+          "id": "D000291",
+          "term": "Adnexal Diseases"
+        },
+        {
+          "id": "D005831",
+          "term": "Genital Diseases, Female"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D005833",
+          "term": "Genital Neoplasms, Female"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D006058",
+          "term": "Gonadal Disorders"
+        },
+        {
+          "id": "D005834",
+          "term": "Genital Neoplasms, Male"
+        },
+        {
+          "id": "D005832",
+          "term": "Genital Diseases, Male"
+        },
+        {
+          "id": "D011469",
+          "term": "Prostatic Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

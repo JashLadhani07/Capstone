@@ -1,0 +1,193 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06209892",
+      "orgStudyIdInfo": {
+        "id": "BJHPA-2023-017-014"
+      },
+      "organization": {
+        "fullName": "Chinese Academy of Medical Sciences, Fuwai Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Prolonged Anticoagulation Therapy on the Prognosis of Patients With Left Ventricular Thrombosis",
+      "officialTitle": "Prolonged Anticoagulation Therapy on the Prognosis of Patients With Left Ventricular"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-01",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-01",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-12",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-12",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-01-06",
+      "studyFirstSubmitQcDate": "2024-01-06",
+      "studyFirstPostDateStruct": {
+        "date": "2024-01-18",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-01-06",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-01-18",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Weihua Song",
+        "investigatorTitle": "MD",
+        "investigatorAffiliation": "Chinese Academy of Medical Sciences, Fuwai Hospital"
+      },
+      "leadSponsor": {
+        "name": "Chinese Academy of Medical Sciences, Fuwai Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "A single-center, open-label, exploratory randomized controlled study is proposed with the following objectives: whether prolonging the duration of anticoagulation to 12 months, compared with 6 months of routine anticoagulation, helps to reduce major adverse cardiovascular and cerebrovascular events in patients with left ventricular thrombosis and to reduce recurrence of thrombosis, as well as to assess their bleeding risk.\n\nPatients with a definite diagnosis of left ventricular thrombus and age \u226518 years were included in cardiac ultrasound (including general ultrasound and sonography) and other examinations during hospitalization and outpatient visits. Exclusion criteria were detailed in the study protocol.\n\nGROUPING: According to the duration of anticoagulation, they were divided into extended anticoagulation group (12 months) and conventional anticoagulation group (6 months).\n\nINTERVENTION: This study is planned to extend the administration of rivaroxaban (Pulsatilla) 20 mg to 12 months in the experimental group. The conventional anticoagulation group will take the drug for 6 months Study Endpoints: The primary efficacy endpoint is a major cardiovascular-vascular adverse event at 1 year; the primary safety endpoint is bleeding of grade 3 or higher as defined by the BARC classification at 1 year.\n\nPatient Follow-up Program: Subjects will require a total of 12 on-site follow-up visits (one per month) for safety evaluation, efficacy evaluation, medication adherence evaluation, and imaging follow-up at months 3, 6, and 12."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Embolism and Thrombosis",
+        "Anticoagulation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 220,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Conventional anticoagulation group",
+          "type": "NO_INTERVENTION"
+        },
+        {
+          "label": "Extended anticoagulation group",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Procedure: Extended anticoagulation"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Extended anticoagulation",
+          "description": "This study plan will extend the duration of rivaroxaban 20mg in the experimental group to 12 months. The regular anticoagulation group will take the drug for 6 months",
+          "armGroupLabels": [
+            "Extended anticoagulation group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Primary efficacy endpoint",
+          "description": "for major cardiovascular and cerebrovascular adverse events at 1 year, including: all-cause mortality, nonfatal heart attack, ischemic stroke, and acute peripheral artery embolism. fatal heart attack, ischemic stroke, and acute peripheral artery embolism",
+          "timeFrame": "Patient completes one year of follow-up"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "secondary endpoint",
+          "description": "Dissolution of left ventricular thrombus confirmed by cardiac ultrasound and no recurrence detected and/or recurrence of left ventricular thrombus detected by cardiac ultrasound after dissolution of left ventricular thrombus",
+          "timeFrame": "Patient during one year of follow-up"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Primary safety endpoint",
+          "description": "Bleeding of grade 3 or higher as defined by the BARC classification at 1 year",
+          "timeFrame": "Patient during one year of follow-up"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n\u2460Patients who have been clearly diagnosed with left ventricular thrombus by inpatient or outpatient cardiac ultrasound (including general ultrasound and acoustic imaging).\n\n\u2461Age \\>= 18 years old\n\nExclusion Criteria:\n\n* Patients do not agree to participate in the study or have poor compliance in the past\n\n  * Contraindication to anticoagulation or allergy to anticoagulants \u2462Have received oral anticoagulation after diagnosis of left ventricular thrombus.\n\n    * Have undergone or are planning to undergo surgical procedures including left ventricular appendage thrombectomy, heart transplantation, ventricular wall tumor collapse, or valve replacement.\n\n      * Presence of other long-term indications for anticoagulation, such as mechanical valve implantation, atrial fibrillation, etc.\n\n        * Requirement for treatment with Tegretol and inability to change to clopidogrel bisulfate \u2466Presence of known malignant tumors, severe hepatic dysfunction (Child-Pugh classification B or less), severe renal dysfunction (creatinine clearance \\<30ml/min), anemia (Hb \\<100g/L), coagulation disorders and other underlying diseases, or life expectancy \\<3 years \u2467 Female patients are pregnant or breastfeeding \u2468 Patients with antiphospholipid syndrome",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "30285032",
+          "type": "RESULT",
+          "citation": "Bulluck H, Vincent M, Hausenloy DJ. Optimizing the Detection of Left Ventricular Thrombus Following Acute Myocardial Infarction in the Current Era. JAMA Cardiol. 2018 Nov 1;3(11):1128-1129. doi: 10.1001/jamacardio.2018.3136. No abstract available."
+        },
+        {
+          "pmid": "29029233",
+          "type": "RESULT",
+          "citation": "Maniwa N, Fujino M, Nakai M, Nishimura K, Miyamoto Y, Kataoka Y, Asaumi Y, Tahara Y, Nakanishi M, Anzai T, Kusano K, Akasaka T, Goto Y, Noguchi T, Yasuda S. Anticoagulation combined with antiplatelet therapy in patients with left ventricular thrombus after first acute myocardial infarction. Eur Heart J. 2018 Jan 14;39(3):201-208. doi: 10.1093/eurheartj/ehx551."
+        },
+        {
+          "pmid": "32273033",
+          "type": "RESULT",
+          "citation": "Lattuca B, Bouziri N, Kerneis M, Portal JJ, Zhou J, Hauguel-Moreau M, Mameri A, Zeitouni M, Guedeney P, Hammoudi N, Isnard R, Pousset F, Collet JP, Vicaut E, Montalescot G, Silvain J; ACTION Study Group. Antithrombotic Therapy for Patients With Left Ventricular Mural Thrombus. J Am Coll Cardiol. 2020 Apr 14;75(14):1676-1685. doi: 10.1016/j.jacc.2020.01.057."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016769",
+          "term": "Embolism and Thrombosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

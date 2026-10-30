@@ -1,0 +1,304 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06644963",
+      "orgStudyIdInfo": {
+        "id": "2024-08-120"
+      },
+      "organization": {
+        "fullName": "University Hospital, Montpellier",
+        "class": "OTHER"
+      },
+      "briefTitle": "IMPELLA, Complications and Tolerance",
+      "officialTitle": "IMPELLA, Complications and Tolerance",
+      "acronym": "IMPACT"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-10",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2010-01-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-01-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-10-09",
+      "studyFirstSubmitQcDate": "2024-10-15",
+      "studyFirstPostDateStruct": {
+        "date": "2024-10-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-10-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-10-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University Hospital, Montpellier",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Myocardial infarction complicated by cardiogenic shock (AMICS) is associated with high morbidity and mortality, and devices like Impella\u00ae CP and Impella 5.0-5.5 are often used for hemodynamic support, either alone or combined with veno-arterial ECMO (ECMELLA). While recent studies suggest improved survival with Impella\u00ae in cardiogenic shock, complications remain common, particularly due to deep arterial access and the need for anticoagulation. Hemocompatibility-related adverse events (HRAEs) such as ischemia, bleeding (44%), hemolysis (32%), and stroke (13%) frequently occur. Achieving hemocompatibility between the patient's blood and the device is challenging, as pump flow, anticoagulation, and patient factors contribute to both thrombotic and hemorrhagic complications. Despite advances, further research is required to better understand and reduce these risks in clinical practice.",
+      "detailedDescription": "Myocardial infarction complicated by cardiogenic shock (AMICS) is associated with high rates of morbidity and mortality. To provide hemodynamic support in these cases, intravascular microaxial left ventricular assist devices, such as Impella\u00ae CP and Impella 5.0-5.5, are frequently used, either alone in cardiogenic shock (CS) or in combination with veno-arterial ECMO (known as ECMELLA) for left ventricular unloading. Recent observational studies and randomized controlled trials have suggested improved survival rates with the use of Impella\u00ae in cardiogenic shock patients.\n\nDespite the growing use of these devices, complications in clinical practice remain frequent. Due to the need for deep arterial access (14F for Impella CP and 21F for Impella 5.0) via femoral or axillary routes, as well as the necessity of anticoagulation, hemocompatibility-related adverse events (HRAEs) such as ischemic complications and bleeding are common, occurring in 18% and 44% of patients, respectively. Hemolysis has been reported in up to 32% of cases, while stroke affects up to 13%. Other less frequent complications include device deployment issues, pump thrombosis, implant site infections, and sepsis, all contributing to increased healthcare costs.\n\nAchieving hemocompatibility between the patient's blood and the device remains a significant challenge despite advances in Impella technology. Balancing prothrombotic and prohemorrhagic forces at the blood/device interface is complex. This interface activates the coagulation cascade, generating a prothrombotic state, damaging von Willebrand multimers, and leading to hemolysis. The interplay of pump flow, pump speed, patient risk factors, and clinical management (anticoagulation) further complicates hemocompatibility, often resulting in thrombotic or bleeding events such as hemorrhagic stroke, circuit clots, or ischemic stroke.\n\nAlthough the occurrence of HRAEs is well documented, particularly in the case of severe events like stroke, there is still an incomplete understanding of the factors driving these complications in modern clinical practice. Further research is needed to better delineate the risk factors and improve outcomes for patients receiving Impella support."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiogenic Shock"
+      ],
+      "keywords": [
+        "Impella",
+        "pVAD",
+        "Bleeding",
+        "Thrombosis",
+        "hemocompatibily related adverse events"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "RETROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 800,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Impella (5, 5.5 or CP)",
+          "description": "Impella (5, 5.5 or CP) as an isolated circulatory support or combined with others Temporary Mechanical Circulatory Support"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Hemocompatibility related adverse events (HRAEs)",
+          "description": "Incidence of HRAEs with Impella (CP and/or 5 - 5.5) : Bleeding events (BARC \\>3b) and Thrombosis events ( ischemic stroke + pump thrombosis)",
+          "timeFrame": "From start of hospitalization until hospital discharge, assessed up to 3 month"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Early mortality",
+          "description": "In-hospital all-cause mortality",
+          "timeFrame": "From start of hospitalization until hospital discharge, assessed up to 3 month"
+        },
+        {
+          "measure": "Adverse events related to Impella devices",
+          "description": "Hemolysis; Bacteremia; Infection of the device insertion site or the device itself",
+          "timeFrame": "From start of hospitalization until hospital discharge assessed up to 3 month"
+        },
+        {
+          "measure": "Duration of mechanical ventilation",
+          "description": "Total duration of invasive mechanical ventilation",
+          "timeFrame": "From start of hospitalization until hospital discharge, assessed up to 3 month"
+        },
+        {
+          "measure": "Lengh of stay",
+          "description": "Total and in intensive care unit lenght of stay",
+          "timeFrame": "From start of hospitalization until hospital discharge, assessed up to 3 month"
+        },
+        {
+          "measure": "Cardiac long-term project",
+          "description": "Rate and % of patients with myocardial recovery, ventricular assist device or/and heart transplantation",
+          "timeFrame": "From start of hospitalization until hospital discharge assessed up to 3 month"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients admitted for cardiogenic shock supported by Impella (5, 5.5 or CP) between January 1, 2010, and December 31, 2022 (as an isolated circulatory support or combined with others Temporary Mechanical Circulatory Support)\n\nExclusion Criteria:\n\n* Absence of Impella\n* Impella 2.5\n* Impella RP (right)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "All adult patients admitted for cardiogenic shock supported by Impella (5, 5.5 or CP) between January 1, 2010, and December 31, 2022 (as an isolated circulatory support or combined with others Temporary Mechanical Circulatory Support)",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Aurore UGHETTO, MD",
+          "role": "CONTACT",
+          "phone": "+33622054893",
+          "email": "a-ughetto@chu-montpellier.fr"
+        },
+        {
+          "name": "Cl\u00e9ment DELMAS, MD, PhD",
+          "role": "CONTACT",
+          "phone": "+330673147951",
+          "email": "clement23185@hotmail.fr"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Aurore UGHETTO, MD",
+          "affiliation": "University Hospital, Montpellier",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Montpellier university hospital",
+          "status": "RECRUITING",
+          "city": "Montpellier",
+          "zip": "34295",
+          "country": "France",
+          "contacts": [
+            {
+              "name": "Aurore UGHETTO, MD",
+              "role": "CONTACT",
+              "phone": "0033622054893",
+              "email": "a-ughetto@chu-montpellier.fr"
+            },
+            {
+              "name": "Cl\u00e9ment DELMAS, MD, PhD",
+              "role": "CONTACT",
+              "email": "clement23185@hotmail.fr"
+            }
+          ],
+          "geoPoint": {
+            "lat": 43.61093,
+            "lon": 3.87635
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "37495347",
+          "type": "RESULT",
+          "citation": "Van Edom CJ, Gramegna M, Baldetti L, Beneduce A, Castelein T, Dauwe D, Frederiks P, Giustino G, Jacquemin M, Janssens SP, Panoulas VF, Poss J, Rosenberg A, Schaubroeck HAI, Schrage B, Tavazzi G, Vanassche T, Vercaemst L, Vlasselaers D, Vranckx P, Belohlavek J, Gorog DA, Huber K, Mebazaa A, Meyns B, Pappalardo F, Scandroglio AM, Stone GW, Westermann D, Chieffo A, Price S, Vandenbriele C. Management of Bleeding and Hemolysis During Percutaneous Microaxial Flow Pump Support: A Practical Approach. JACC Cardiovasc Interv. 2023 Jul 24;16(14):1707-1720. doi: 10.1016/j.jcin.2023.05.043."
+        },
+        {
+          "pmid": "35550692",
+          "type": "RESULT",
+          "citation": "Vandenbriele C, Arachchillage DJ, Frederiks P, Giustino G, Gorog DA, Gramegna M, Janssens S, Meyns B, Polzin A, Scandroglio M, Schrage B, Stone GW, Tavazzi G, Vanassche T, Vranckx P, Westermann D, Price S, Chieffo A. Anticoagulation for Percutaneous Ventricular Assist Device-Supported Cardiogenic Shock: JACC Review Topic of the Week. J Am Coll Cardiol. 2022 May 17;79(19):1949-1962. doi: 10.1016/j.jacc.2022.02.052."
+        },
+        {
+          "pmid": "33147430",
+          "type": "RESULT",
+          "citation": "Philipson DJ, Cohen DJ, Fonarow GC, Ziaeian B. Analysis of Adverse Events Related to Impella Usage (from the Manufacturer and User Facility Device Experience and National Inpatient Sample Databases). Am J Cardiol. 2021 Feb 1;140:91-94. doi: 10.1016/j.amjcard.2020.10.056. Epub 2020 Nov 2."
+        },
+        {
+          "pmid": "31735078",
+          "type": "RESULT",
+          "citation": "Amin AP, Spertus JA, Curtis JP, Desai N, Masoudi FA, Bach RG, McNeely C, Al-Badarin F, House JA, Kulkarni H, Rao SV. The Evolving Landscape of Impella Use in the United States Among Patients Undergoing Percutaneous Coronary Intervention With Mechanical Circulatory Support. Circulation. 2020 Jan 28;141(4):273-284. doi: 10.1161/CIRCULATIONAHA.119.044007. Epub 2019 Nov 17."
+        },
+        {
+          "pmid": "32040163",
+          "type": "RESULT",
+          "citation": "Dhruva SS, Ross JS, Mortazavi BJ, Hurley NC, Krumholz HM, Curtis JP, Berkowitz A, Masoudi FA, Messenger JC, Parzynski CS, Ngufor C, Girotra S, Amin AP, Shah ND, Desai NR. Association of Use of an Intravascular Microaxial Left Ventricular Assist Device vs Intra-aortic Balloon Pump With In-Hospital Mortality and Major Bleeding Among Patients With Acute Myocardial Infarction Complicated by Cardiogenic Shock. JAMA. 2020 Feb 25;323(8):734-745. doi: 10.1001/jama.2020.0254."
+        },
+        {
+          "pmid": "38587239",
+          "type": "RESULT",
+          "citation": "Moller JE, Engstrom T, Jensen LO, Eiskjaer H, Mangner N, Polzin A, Schulze PC, Skurk C, Nordbeck P, Clemmensen P, Panoulas V, Zimmer S, Schafer A, Werner N, Frydland M, Holmvang L, Kjaergaard J, Sorensen R, Lonborg J, Lindholm MG, Udesen NLJ, Junker A, Schmidt H, Terkelsen CJ, Christensen S, Christiansen EH, Linke A, Woitek FJ, Westenfeld R, Mobius-Winkler S, Wachtell K, Ravn HB, Lassen JF, Boesgaard S, Gerke O, Hassager C; DanGer Shock Investigators. Microaxial Flow Pump or Standard Care in Infarct-Related Cardiogenic Shock. N Engl J Med. 2024 Apr 18;390(15):1382-1393. doi: 10.1056/NEJMoa2312572. Epub 2024 Apr 7."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D012770",
+          "term": "Shock, Cardiogenic"
+        },
+        {
+          "id": "D006470",
+          "term": "Hemorrhage"
+        },
+        {
+          "id": "D013927",
+          "term": "Thrombosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009203",
+          "term": "Myocardial Infarction"
+        },
+        {
+          "id": "D017202",
+          "term": "Myocardial Ischemia"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D007238",
+          "term": "Infarction"
+        },
+        {
+          "id": "D007511",
+          "term": "Ischemia"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D009336",
+          "term": "Necrosis"
+        },
+        {
+          "id": "D012769",
+          "term": "Shock"
+        },
+        {
+          "id": "D016769",
+          "term": "Embolism and Thrombosis"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

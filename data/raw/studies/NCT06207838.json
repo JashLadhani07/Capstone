@@ -1,0 +1,329 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06207838",
+      "orgStudyIdInfo": {
+        "id": "1072.61201.5.2023"
+      },
+      "organization": {
+        "fullName": "Jagiellonian University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Transition of T1DM Patients Aged Over 65 Years Into AHCL (780G) Insulin Pump",
+      "officialTitle": "Transition of T1DM Patients Aged Over 65 Years Into AHCL (780G) Insulin Pump: the Impact on Glucose Patterns, Quality of Life Physical & Cognitive Measures, as Well as Vascular Status",
+      "acronym": "780G65+"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-01",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "ENROLLING_BY_INVITATION",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-09-14",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-09-07",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-05-16",
+      "studyFirstSubmitQcDate": "2024-01-12",
+      "studyFirstPostDateStruct": {
+        "date": "2024-01-17",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-01-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-01-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Tomasz Klupa",
+        "investigatorTitle": "Prof. Tomasz Klupa",
+        "investigatorAffiliation": "Jagiellonian University"
+      },
+      "leadSponsor": {
+        "name": "Jagiellonian University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Medtronic",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Older people with diabetes have a higher risk for cognitive impairment and for physical disability whether this may be effected by an improvement in glucose indices is unknown. Thus, the aim of this study is to assess the efficacy of AHCL in people with type 1 diabetes in improving glucose indices, quality of life and physical capacity indices",
+      "detailedDescription": "Recent advances in insulin pumps, continuous glucose monitoring (CGM) devices, and control algorithms have resulted in an acceleration of progress in the development of the automated systems of insulin delivery including advanced hybrid closed loop (HCL) insulin pumps. The results of the AHCL insulin pump based studies published so far are very encouraging, including that Medtronic-sponsored study performed at our center \"Transition of CSII/CGM na\u00efve patients directly into AHCL (780G) insulin pump: the impact on glucose patterns and quality of life measures\" (1-6). Unfortunately there is little data concerning the usage of AHCL systems in older patients. The management of these individuals is particularly challenging as older adults with type 1 diabetes are especially vulnerable to hypoglycaemia. The recent ADA/EASD consensus underlines that the use of advanced technologies in older individuals is useful and should not be discontinued or a priori excluded because of the older age (7). Since the AHCL systems are very effective in hypoglycemia prevention they could be considered the treatment of choice in older patients with T1DM. The open question is how effectively would older individuals adopt this advanced technology, how would they accept it, and if the simplicity in terms of everyday usage of AHCL versus less advanced technologies would be appreciated by older individuals with T1DM. Older people with diabetes have a higher risk for cognitive impairment and for physical disability whether this may be effected by an improvement in glucose indices is unknown. Thus, the aim of this study is to assess the efficacy of AHCL in people with type 1 diabetes in improving glucose indices, quality of life and physical capacity indices"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Type 1"
+      ],
+      "keywords": [
+        "AHCL",
+        "Insulin pump therapy",
+        "Multiple daily injection",
+        "QoL"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "The trial is a two-centers, randomized controlled, parallel group study",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 30,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Actual therapy",
+          "type": "NO_INTERVENTION",
+          "description": "The patient continues Multiple Daily Injection/Insulin Pump Therapy with or without CGM use as per routine procedures"
+        },
+        {
+          "label": "Advanced Hybrid Cloosed Loop System",
+          "type": "EXPERIMENTAL",
+          "description": "The patients will be switched to MiniMed 780G advanced hybrid cloosed loop system/ AHCL system",
+          "interventionNames": [
+            "Device: MiniMed 780G system"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "MiniMed 780G system",
+          "description": "The MiniMed\u2122 780G system automatically adjust insulin delivery to patient needs for an easier way to stabilise glucose levels. It features an advance level of automation for diabetes management, known as SmartGuard\u2122 technology. If patient glucose levels are trending high, it gives patient more insulin. Technology is CE marked.",
+          "armGroupLabels": [
+            "Advanced Hybrid Cloosed Loop System"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Between group difference in the percentage of time spent within range with sensor glucose (SG) between 70-180 mg/dL (TIR) (3.9-10.0 mmol/L).",
+          "description": "Between group difference in the percentage of time spent within range with sensor glucose (SG) between 70-180 mg/dL (TIR) (3.9-10.0 mmol/L).",
+          "timeFrame": "Month 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Between groups difference in the percentage of participants achieving TIR >70%",
+          "description": "Between groups difference in the percentage of participants achieving TIR \\>70%",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Between group difference in the percentage of time spent in hyperglycemic range with SG > 250 mg/dL (13.9 mmol/L)",
+          "description": "Between group difference in the percentage of time spent with SG \\> 250 mg/dL (13.9 mmol/L)",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Between group difference in the percentage of time spent in hyperglycemic range with SG > 180 mg/dL (10.0 mmol/L)",
+          "description": "Between group difference in the percentage of time spent with SG \\> 180 mg/dL (10.0 mmol/L)",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Between group difference in the percentage of time spent in hypoglycemic range with SG < 54 mg/dL (3.0 mmol/L)",
+          "description": "Between group difference in the percentage of time spent in hypoglycemic range with SG \\< 54 mg/dL (3.0 mmol/L)",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Between group difference in the percentage of time spent in hyperglycemic range in hypoglycemic range with SG < 70 mg/dL (3.9 mmol/L)",
+          "description": "Between group difference in the percentage of time spent in hyperglycemic range in hypoglycemic range with SG \\< 70 mg/dL (3.9 mmol/L)",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "QoL group difference using: The World Health Organisation- Five Well-Being Index (WHO-5)",
+          "description": "QoL group difference (WHO-5): Final score: 0 representing the worst imaginable well-being and 100 representing the best imaginable well-being.",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Differences in baseline vs end of the study in vascular status as measured with LDF: Laser Doppler Flowmetry",
+          "description": "Differences in baseline vs end of the study in vascular status as measured with LDF: Laser Doppler Flowmetry",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Differences in baseline vs end of the study in vascular status as measured with FMD: Flow-Mediated Dilatation",
+          "description": "Differences in baseline vs end of the study in vascular status as measured with FMD: Flow-Mediated Dilatation",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Differences in baseline vs end of the study in vascular status as measured with IMT-Intima-media thickness",
+          "description": "Differences in baseline vs end of the study in vascular status as measured with IMT-Intima-media thickness,",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Difference in physical capacity indices listed in screening visit: 6 Minute Walk Test",
+          "description": "Difference in physical capacity indices listed in screening visit: 6 Minute Walk Test (units distance in meters, higher value mean a better outcome)",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Difference in physical capacity indices listed in screening visit: Fried Scale",
+          "description": "Difference in physical capacity indices listed in screening visit: Fried Scale (higher scores mean a worse outcome, score \\>3 frail present)",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Difference in physical capacity indices listed in screening visit: Berg Balance Scale",
+          "description": "Difference in physical capacity indices listed in screening visit: Berg Balance Scale (higher score mean a better outcome)",
+          "timeFrame": "Month 12"
+        },
+        {
+          "measure": "Difference in physical capacity indices listed in screening visit: Four Square Step",
+          "description": "Difference in physical capacity indices listed in screening visit:Four Square Step (units time, shorter time means better outcome)",
+          "timeFrame": "Month 12"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age over 65 years\n2. T1DM\n3. Willing to participate in a study for the specified duration\n4. Willing to perform \u2265 4 finger stick blood glucose measurements daily\n5. Willing to wear the system continuously throughout the study\n6. Glycosylated hemoglobin (A1C) value less than 10.0% at time of screening visit\n7. Treated with MDI/CSII (with exclusion of 780G)\n8. Willing to perform at least 4 BGM/day, when on MDI/CSII\n9. Lack of advanced complications of diabetes, eGFR\\>30\n\nExclusion Criteria:\n\n1. Severe concurrent illness\n2. Laboratory abnormalities, or medications that might affect study participation,\n3. Severe renal impairment (eGFR\\<30)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "65 Years",
+      "stdAges": [
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Tomasz Klupa, Prof.",
+          "affiliation": "Jagiellonian University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Hospital University; Jagiellonian University Medical College",
+          "city": "Krakow",
+          "zip": "30688",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "42347980",
+          "type": "DERIVED",
+          "citation": "Matejko B, Cyranka K, Sudul P, Susul K, Krezel J, Chernovol J, Maga P, Malecki MT, Klupa T. Metabolic and vascular outcomes after transition to the MiniMed 780G system in adults >/=65 years with type 1 diabetes: a randomised, single-centre study. Diabetologia. 2026 Sep;69(9):2421-2431. doi: 10.1007/s00125-026-06780-9. Epub 2026 Jun 25."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-06-08",
+          "uploadDate": "2023-05-16T04:51",
+          "filename": "Prot_000.pdf",
+          "size": 1461117
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016503",
+          "term": "Drug Delivery Systems"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D004358",
+          "term": "Drug Therapy"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

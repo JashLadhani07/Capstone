@@ -1,0 +1,39 @@
+{
+  "pmid": "33929522",
+  "title": "Effects of a Technology-Assisted Integrated Diabetes Care Program on Cardiometabolic Risk Factors Among Patients With Type 2 Diabetes in the Asia-Pacific Region: The JADE Program Randomized Clinical Trial.",
+  "abstract": "Many health care systems lack the efficiency, preparedness, or resources needed to address the increasing number of patients with type 2 diabetes, especially in low- and middle-income countries. To examine the effects of a quality improvement intervention comprising information and communications technology and contact with nonphysician personnel on the care and cardiometabolic risk factors of patients with type 2 diabetes in 8 Asia-Pacific countries. This 12-month multinational open-label randomized clinical trial was conducted from June 28, 2012, to April 28, 2016, at 50 primary care or hospital-based diabetes centers in 8 Asia-Pacific countries (India, Indonesia, Malaysia, the Philippines, Singapore, Taiwan, Thailand, and Vietnam). Six countries were low and middle income, and 2 countries were high income. The study was conducted in 2 phases; phase 1 enrolled 7537 participants, and phase 2 enrolled 13 297 participants. Participants in both phases were randomized on a 1:1 ratio to intervention or control groups. Data were analyzed by intention to treat and per protocol from July 3, 2019, to July 21, 2020. In both phases, the intervention group received 3 care components: a nurse-led Joint Asia Diabetes Evaluation (JADE) technology-guided structured evaluation, automated personalized reports to encourage patient empowerment, and 2 or more telephone or face-to-face contacts by nurses to increase patient engagement. In phase 1, the control group received the JADE technology-guided structured evaluation and automated personalized reports. In phase 2, the control group received the JADE technology-guided structured evaluation only. The primary outcome was the incidence of a composite of diabetes-associated end points, including cardiovascular disease, chronic kidney disease, visual impairment or eye surgery, lower extremity amputation or foot ulcers requiring hospitalization, all-site cancers, and death. The secondary outcomes were the attainment of 2 or more primary diabetes-associated targets (glycated hemoglobin A1c <7.0%, blood pressure <130/80 mm Hg, and low-density lipoprotein cholesterol <100 mg/dL) and/or 2 or more key performance indices (reduction in glycated hemoglobin A1c\u22650.5%, reduction in systolic blood pressure \u22655 mm Hg, reduction in low-density lipoprotein cholesterol \u226519 mg/dL, and reduction in body weight \u22653.0%). A total of 20\u202f834 patients with type 2 diabetes were randomized in phases 1 and 2. In phase 1, 7537 participants (mean [SD] age, 60.0 [11.3] years; 3914 men [51.9%]; 4855 patients [64.4%] from low- and middle-income countries) were randomized, with 3732 patients allocated to the intervention group and 3805 patients allocated to the control group. In phase 2, 13 297 participants (mean [SD] age, 54.0 [11.1] years; 7754 men [58.3%]; 13 297 patients [100%] from low- and middle-income countries) were randomized, with 6645 patients allocated to the intervention group and 6652 patients allocated to the control group. In phase 1, compared with the control group, the intervention group had a similar risk of experiencing any of the primary outcomes (odds ratio [OR], 0.94; 95% CI, 0.74-1.21) but had an increased likelihood of attaining 2 or more primary targets (OR, 1.34; 95% CI, 1.21-1.49) and 2 or more key performance indices (OR, 1.18; 95% CI, 1.04-1.34). In phase 2, the intervention group also had a similar risk of experiencing any of the primary outcomes (OR, 1.02; 95% CI, 0.83-1.25) and had a greater likelihood of attaining 2 or more primary targets (OR, 1.25; 95% CI, 1.14-1.37) and 2 or more key performance indices (OR, 1.50; 95% CI, 1.33-1.68) compared with the control group. For attainment of 2 or more primary targets, larger effects were observed among patients in low- and middle-income countries (OR, 1.50; 95% CI, 1.29-1.74) compared with high-income countries (OR, 1.20; 95% CI, 1.03-1.39) (P\u2009=\u2009.04). In this 12-month clinical trial, the use of information and communications technology and nurses to empower and engage patients did not change the number of clinical events but did reduce cardiometabolic risk factors among patients with type 2 diabetes, especially those in low- and middle-income countries in the Asia-Pacific region. ClinicalTrials.gov Identifier: NCT01631084.",
+  "journal": "JAMA network open",
+  "pub_date": "2021-Apr",
+  "authors": [
+    "Lim, Lee-Ling",
+    "Lau, Eric S H",
+    "Fu, Amy W C",
+    "Ray, Subir",
+    "Hung, Yi-Jen",
+    "Tan, Alexander T B",
+    "Chamnan, Parinya",
+    "Sheu, Wayne H H",
+    "Chawla, Manoj S",
+    "Chia, Yook-Chin",
+    "Chuang, Lee-Ming",
+    "Nguyen, Duc-Cong",
+    "Sosale, Aravind",
+    "Saboo, Banshi D",
+    "Phadke, Uday",
+    "Kesavadev, Jothydev",
+    "Goh, Su-Yen",
+    "Gera, Neeru",
+    "Huyen Vu, Thi Thanh",
+    "Ma, Ronald C W",
+    "Lau, Vanessa",
+    "Luk, Andrea O Y",
+    "Kong, Alice P S",
+    "Chan, Juliana C N"
+  ],
+  "nct_ids_referenced": [
+    "NCT01631084"
+  ],
+  "source": "pubmed",
+  "word_count": 638,
+  "parsed_at": "2026-10-30T13:37:58.771772"
+}

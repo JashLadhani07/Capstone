@@ -1,0 +1,151 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05440071",
+      "orgStudyIdInfo": {
+        "id": "LXFP01 - SHAPE"
+      },
+      "organization": {
+        "fullName": "MicroPort CRM",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "PoSt-market Assessment on Safety and Performance of J-sHAPed xFINE Lead",
+      "officialTitle": "PoSt-market Assessment on Safety and Performance of J-sHAPed xFINE Lead",
+      "acronym": "SHAPE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2022-06",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-09",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-10",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2024-09",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-06-27",
+      "studyFirstSubmitQcDate": "2022-06-27",
+      "studyFirstPostDateStruct": {
+        "date": "2022-06-30",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2022-06-27",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-06-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "MicroPort CRM",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The primary objective of this study is to evaluate the safety and the electrical performances of the right atrial J-shape (JX model) XFINE endovascular passive lead at 3 months post implant."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Bradycardia"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "12 Months",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 129,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "JX- XFINE lead",
+          "description": "Pacemaker subjects implanted with one JX - XFINE passive pacing lead"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Safety of the right atrial J-shape (JX model) XFINE endovascular passive lead at 3 months post implant.",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Electrical performances of the right atrial J-shape (JX model) XFINE endovascular at 3 months",
+          "timeFrame": "3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subject has reviewed, signed and dated the informed consent form\n2. Subject newly implanted (de novo) with a JX XFINE within 10 days, connected to a dual chamber (DR) pacemaker from MicroPort CRM S.r.l and any commercially available IS-1 right ventricular lead\n3. Subject is willing and capable of participating in all testing/ visits associated with this clinical study at an approved clinical study center and at the intervals defined by this protocol.\n\nExclusion Criteria:\n\n1. Subjects with documented permanent or persistent AF\n2. Included in another clinical study that could confound the results of this study such as studies involving intra-cardiac device\n3. Subject has had any pacing or ICD system implants\n4. Patient implanted despite a contraindication for cardiac pacing system implantation (i.e. patient implanted with a defibrillator, patient contraindicated for a single dose of 310 \u03bcg of dexamethasone sodium phosphate, patient implanted with a tricuspid replacement heart valve or with a significant tricuspid valve disease that may lead to future replacement heart valve surgery)\n5. Age less than 18 years old, incapacitated or under guardianship or kept in detention\n6. Life expectancy less than 1 year",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Subject indicated for a de novo implantation of a dual chamber (DR) pacemaker as per Guidelines on cardiac pacing and cardiac resynchronization therapy.",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001919",
+          "term": "Bradycardia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001145",
+          "term": "Arrhythmias, Cardiac"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

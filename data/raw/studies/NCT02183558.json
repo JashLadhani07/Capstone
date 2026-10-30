@@ -1,0 +1,299 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02183558",
+      "orgStudyIdInfo": {
+        "id": "GDM OBK"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "Glucose OBK",
+          "type": "OTHER",
+          "domain": "Odense University Hospital"
+        }
+      ],
+      "organization": {
+        "fullName": "Odense University Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Screening for GDM in Women With PCOS and Controls",
+      "officialTitle": "Glucose Metabolism and Screening for Gestational Diabetes Mellitus According to Different Sets of Criteria in Women With Polycystic Ovary Syndrome and Controls"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2010-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2012-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2014-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-06-20",
+      "studyFirstSubmitQcDate": "2014-07-02",
+      "studyFirstPostDateStruct": {
+        "date": "2014-07-08",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2021-12-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-01-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Marianne Andersen",
+        "investigatorTitle": "DMSci",
+        "investigatorAffiliation": "Odense University Hospital"
+      },
+      "leadSponsor": {
+        "name": "Odense University Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Region of Southern Denmark",
+          "class": "OTHER"
+        },
+        {
+          "name": "Municipality of Odense",
+          "class": "OTHER_GOV"
+        },
+        {
+          "name": "University of Southern Denmark",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Women with polycystic ovary syndrome (PCOS) are often insulin resistant. During pregnancy, insulin sensitivity decreases. The investigators examine glucose metabolism during oral glucose tolerance test and the incidense of gestational diabetes mellitus in a prospective cohort of pregnant women with PCOS and controls."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Polycystic Ovary Syndrome",
+        "Gestational Diabetes Mellitus"
+      ],
+      "keywords": [
+        "PCOS",
+        "GDM",
+        "OGTT",
+        "Glucose metabolism"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "DIAGNOSTIC",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 2500,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "OGTT by randomization",
+          "type": "EXPERIMENTAL",
+          "description": "Women without risk factors for GDM are offered OGTT in gestational week 28",
+          "interventionNames": [
+            "Other: OGTT by randomization"
+          ]
+        },
+        {
+          "label": "OGTT by indication",
+          "type": "EXPERIMENTAL",
+          "description": "Women with risk factors for OGTT are offered diagnostic 2 hour OGTT in pregnancy week 28",
+          "interventionNames": [
+            "Other: OGTT by indication"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "OGTT by randomization",
+          "armGroupLabels": [
+            "OGTT by randomization"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "OGTT by indication",
+          "armGroupLabels": [
+            "OGTT by indication"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Gestational diabetes mellitus",
+          "description": "Gestational diabetes mellitus diagnosed by oral glucose tolerance test in gestational week 28 in women with and without risk factors for gestational diabetes mellitus.",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Gestational Diabetes Mellitus",
+          "description": "Gestational diabetes mellitus is diagnosed by 2 hour 75 gram oral glucose tolerance test in gestational week 28",
+          "timeFrame": "Gestational week 28"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Anthropometric measures in offspring",
+          "description": "The association between blood glucose values and anthropometric measures (birth length, weight and abdominal circumference) at birth in the offspring is investigated",
+          "timeFrame": "At birth"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Pregnancy achieved during 2010-2012\n* Residents of the municipality of Odense\n\nExclusion Criteria:\n\n* Moving from Odense during pregnancy",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Marianne Andersen, DMSci",
+          "affiliation": "Odense University Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "OdenseUH",
+          "city": "Odense",
+          "zip": "5230",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 55.39594,
+            "lon": 10.38831
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40611483",
+          "type": "DERIVED",
+          "citation": "Al-Jorani H, Jensen RC, Jensen TK, Christesen HT, Jorgensen JS, Bacmeister L, Dechend R, Glintborg D, Jensen BL, Andersen MS. Diurnal Urinary Aldosterone Excretion and Potassium Intake During Pregnancy Are Associated With High Normal Blood Pressure in Early Childhood. J Am Heart Assoc. 2025 Jul 15;14(14):eJAHA2025042165T. doi: 10.1161/JAHA.124.042165. Epub 2025 Jul 3."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011085",
+          "term": "Polycystic Ovary Syndrome"
+        },
+        {
+          "id": "D016640",
+          "term": "Diabetes, Gestational"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010048",
+          "term": "Ovarian Cysts"
+        },
+        {
+          "id": "D003560",
+          "term": "Cysts"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D010049",
+          "term": "Ovarian Diseases"
+        },
+        {
+          "id": "D000291",
+          "term": "Adnexal Diseases"
+        },
+        {
+          "id": "D005831",
+          "term": "Genital Diseases, Female"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D006058",
+          "term": "Gonadal Disorders"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D011248",
+          "term": "Pregnancy Complications"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

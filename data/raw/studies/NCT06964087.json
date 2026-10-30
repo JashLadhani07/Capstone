@@ -1,0 +1,345 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06964087",
+      "orgStudyIdInfo": {
+        "id": "OPT101-200-10"
+      },
+      "organization": {
+        "fullName": "Op-T LLC",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Pharmacokinetic and Early Efficacy of OPT101 in Patients With Type 1 Diabetes Mellitus",
+      "officialTitle": "A 48-week Phase 2 Multicenter Controlled Pharmacokinetic and Pilot Efficacy Trial of Subcutaneous OPT101 in Patients With Recent Onset Type 1 Diabetes Mellitus"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-02",
+      "overallStatus": "RECRUITING",
+      "startDateStruct": {
+        "date": "2026-04-10",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-05-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2028-08-19",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-04-14",
+      "studyFirstSubmitQcDate": "2025-04-30",
+      "studyFirstPostDateStruct": {
+        "date": "2025-05-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-04-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-04-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Op-T LLC",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will examine the safety of three times weekly SC injections of OPT101 at each of three dose levels over two weeks as well as one year of treatment with SC OPT101 or placebo to match at a single dose level.",
+      "detailedDescription": "This multipart study begins with an open label exploration of tolerance and pharmacokinetics of subcutaneously (SC) administered OPT101, given at increasing doses of 1.0, 1.5, or 2.0 mg/kg three times per week for two weeks to separate sequential cohorts of six adult patients (n=18 total) diagnosed with type 1 diabetes mellitus within 20 years of screening. In this Part A, serum C-peptide levels will not be a consideration.\n\nIn Part B, the highest tolerated dose will then be tested over one year in a total of n=27 subjects having C-peptide 0.2 ng/ml, with 12 diagnosed within 1 to 5 years of screening, and 15 diagnosed within \\>5 to 10 years. Randomization to treatment or control will be in a 2:1 ratio.\n\nAn optional Part C will enroll an additional n=27 subjects having C-peptide 0.2 ng/ml who are 1 year from diagnosis with type 1 diabetes. Subjects will be randomized to treatment or control in a 2:1 ratio and will be treated for one year."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type I Diabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 72,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "OPT101, 1.0mg/kg, 1.5 mg/kg and 2.0 mg/kg",
+          "type": "EXPERIMENTAL",
+          "description": "Part A. 6 subjects will receive 1.0mg/kg OPT101 6 subjects will receive 1.5mg/kg OPT101 6 subjects will receive 2.0mg/kg OPT101",
+          "interventionNames": [
+            "Drug: OPT101"
+          ]
+        },
+        {
+          "label": "Part B - OPT101 and Placebo to Match",
+          "type": "EXPERIMENTAL",
+          "description": "The highest tolerated dose from Part A will be tested over 48 weeks. 27 subjects (18 investigational product: 9 placebo)",
+          "interventionNames": [
+            "Drug: OPT101",
+            "Other: OPT101 Placebo to Match (PTM)"
+          ]
+        },
+        {
+          "label": "Part C - OPT101 and Placebo to Match",
+          "type": "EXPERIMENTAL",
+          "description": "The highest tolerated dose in Part A will be dosed. 27 subjects (18 investigational product, 9 placebo)",
+          "interventionNames": [
+            "Drug: OPT101",
+            "Other: OPT101 Placebo to Match (PTM)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "OPT101",
+          "description": "Subcutaneous injection.",
+          "armGroupLabels": [
+            "OPT101, 1.0mg/kg, 1.5 mg/kg and 2.0 mg/kg",
+            "Part B - OPT101 and Placebo to Match",
+            "Part C - OPT101 and Placebo to Match"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "OPT101 Placebo to Match (PTM)",
+          "description": "5% Dextrose (w/v)",
+          "armGroupLabels": [
+            "Part B - OPT101 and Placebo to Match",
+            "Part C - OPT101 and Placebo to Match"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in C-peptide (ng/mL)",
+          "description": "Change from baseline to End of Study in mixed-meal stimulated C-peptide (ng/mL). The area under the time-C-Peptide curve (AUC) is calculated, and the weighted mean C-peptide is used to convert the measurement back to nanomoles per liter.",
+          "timeFrame": "48-week"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "PK Parameter - Maximum Concentration (Cmax)",
+          "description": "Maximum Concentration (Cmax)",
+          "timeFrame": "48-week"
+        },
+        {
+          "measure": "PK Parameter - Time to reach maximum concentration (Tmax)",
+          "description": "Time to reach maximum concentration (Tmax)",
+          "timeFrame": "48-week"
+        },
+        {
+          "measure": "PK Parameter - terminal half-life t1/2",
+          "description": "Terminal half-life t1/2",
+          "timeFrame": "48-week"
+        },
+        {
+          "measure": "PK Parameter - Area under the curve",
+          "description": "Area under the curve (AUC)",
+          "timeFrame": "48-week"
+        },
+        {
+          "measure": "Propotion of subjects with change in C-peptide greater than or equal to 0.2 ng/mL",
+          "description": "Proportion of subjects with mixed-meal stimulated C-peptide peak levels greater than or equal to 0.2 ng/mL at End of Study.",
+          "timeFrame": "48-week"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 1\\. Able and willing and able to give informed consent for the trial (separate consent must be obtained for Parts B or C).\n\n  2\\. Willing to wear a continuous glucose monitor for the duration of the trial (e.g., Freestyle Libre 3).\n\n  3\\. Male or female aged \u226518 to 50 years on the day of signing informed consent. 4. Diagnosis of T1DM within the last 20 years for Part A, within 1 to 10 years \\[N=15 at \\>5 to 10, N=12 at 1 to 5 yrs\\] for Part B, within less than or equal to 1 year for Part C.\n\n  5\\. For Parts B and C only, T-cell phenotype Th40 level greater than or equal to 35% of CD3+ leukocytes (performed at the OPT lab).\n\n  6\\. Is medically stable based on physical examination, medical history, laboratory results, and vital signs performed at screening.\n\n  7\\. Women of childbearing potential (WOCBP) must have a negative highly sensitive serum test (beta- human chorionic gonadotropin) at screening and a negative urine pregnancy test at the Visit 1 Day 1 prior to receiving the investigational product.\n\n  8\\. WOCBP must agree to use one of the following methods of birth control for the duration of the clinical trial: Systemic hormonal contraceptive (oral, injected, transdermal), intrauterine device, double barrier (e.g., cervical cap or diaphragm with condom or spermicide). Men with female partners must agree to use double barrier contraception, unless their partner is using systemic hormonal contraceptives or has an intrauterine device.\n\nExclusion Criteria:\n\n* 1\\. Current malignancy or history of malignancy other than basal cell carcinoma or squamous cell carcinoma in situ.\n\n  2\\. Has an immune deficiency syndrome (for example, severe combined immunodeficiency syndrome, T-cell deficiency syndromes, B-cell deficiency syndromes, or chronic granulomatous disease), or bone marrow or organ transplantation, or a disease associated with lymphopenia.\n\n  3\\. Has chronic kidney disease of Stage 2 or higher with eGFR of \\<90 mL/min/1.73m2.\n\n  4\\. Is currently receiving an immuno-modulatory treatment. 5. Patients with a history of venous and arterial thromboembolic events including, but not limited to, the following:\n  1. Deep venous thrombosis, pulmonary embolism, myocardial infarction, stroke, transient ischemic attack, or arterial insufficiency causing digital gangrene.\n  2. Patients with recent immobilization or recent surgery.\n  3. Patients with a history of abnormal prothrombotic laboratories such as congenital or inherited deficiency of antithrombin III, protein C, protein S, or confirmed diagnosis of antiphospholipid syndrome.\n\n     6\\. Has an active infections, is prone to infections or has chronic, recurrent or opportunistic infectious disease, including but not limited to, Epstein-Barr virus, cytomegalovirus, chronic renal infection, chronic chest infection, sinusitis, recurrent urinary tract infection, Pneumocystis carinii pneumonia, aspergillosis, latent or active granulomatous infection, histoplasmosis, or coccidioidomycosis or an open, draining, or infected non-healing skin wound or ulcer.\n\n     7\\. Has recent or active hepatitis A infection, current/chronic hepatitis B and hepatitis C infection, or HIV infection. Participants with immunity to hepatitis B from previous infection, defined as negative HBsAg, positive anti-HBc, and positive hepatitis B surface antibody \\[anti-HBs\\] or vaccination \\[defined as negative HBsAg, negative anti-HBc, and positive anti-HBs\\] are eligible to participate.\n\n     8\\. Has a history of latent or active tuberculosis. 9. Has received a live attenuated vaccine within the last 60 days including patients who plan to receive live attenuated vaccines during the study or within 60 days after the final dose of study treatment.\n\n     10\\. Patients with the following should be excluded:\n\n  <!-- -->\n\n  1. Abnormal coagulation test at screening: prothrombin time (PT; \\>14 sec), activated partial thromboplastin time (aPTT; \\>32 sec) or fibrinogen level (\\<190 or \\>450 mg/dL).\n  2. Abnormal liver function tests (except in the case of known Gilbert's syndrome):\n\n  i. AST or ALT \u22653x ULN and total bilirubin \u22652x ULN ii. AST or ALT \u22655x ULN iii. Abnormal platelet counts (\\<150 or \\> 450 x10 to the third/uL) iv. Abnormal white blood cell counts (\\< 3.0 or \\>11.0 x10 to the third/uL ) v. Abnormal eGFR (\\< 90 mL/min) vi. Abnormal Factor VIII (\\<50% or \\>150% of normal) vii. Abnormal D-Dimer (\\> 500 ng/mL of fibrinogen equivalent units (FEU)) 11. Patients planning to undergo elective procedures or surgeries at any time after signing the ICF through the follow-up visit.\n\n  12\\. Is pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the trial, starting with the screening visit through 120 days after the last dose of trial treatment.\n\n  13\\. Recent history of bleeding or bleeding disorders or any condition whereby in the opinion of the treating investigator giving anti-coagulation during treatment would be contraindicated.\n\n  14\\. History of hypersensitivity to antihistamines. 15. Body mass index \\<20 or \\>35 kg/M2 16. Patients with active drug or alcohol abuse within one year prior to screening or patients who test positive for required drug testing during screening (refer to \u00a78.4).\n\n  17\\. Patient is participating in a clinical trial of another investigational drug or device, including patients who have participated in another study for duration of 5 half-lives of the investigational agent.\n\n  18\\. Patient is a prisoner. 19. Patients with any medical condition, including, but not limited to, cardiac, endocrinologic, hematologic, hepatic, immunologic, metabolic, urologic, pulmonary, neurologic, dermatologic, renal, or a psychiatric condition that, in the opinion of the Investigator, could compromise their ability to participate in this study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "50 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Lisa Boswell",
+          "role": "CONTACT",
+          "phone": "303-503-9954",
+          "email": "lb@op-t.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama at Birmingham - Department of Medicina",
+          "status": "RECRUITING",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35294",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lisa Boswell",
+              "role": "CONTACT",
+              "phone": "(303) 503-9954",
+              "email": "lb@op-t.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Diablo Clinical Research Center",
+          "status": "RECRUITING",
+          "city": "Walnut Creek",
+          "state": "California",
+          "zip": "94598",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lisa Boswell",
+              "role": "CONTACT",
+              "phone": "(303) 503-9954",
+              "email": "lb@op-t.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.90631,
+            "lon": -122.06496
+          }
+        },
+        {
+          "facility": "Barbara Davis Center - University of Colorado Anschuttz Medical Campus",
+          "status": "RECRUITING",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lisa Boswell",
+              "role": "CONTACT",
+              "phone": "(303) 503-9954",
+              "email": "lb@op-t.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        },
+        {
+          "facility": "University of Chicago Medical Center",
+          "status": "RECRUITING",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60637",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lisa Boswell",
+              "role": "CONTACT",
+              "phone": "(303) 503-9954",
+              "email": "lb@op-t.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Rainier Clinical Research Center",
+          "status": "RECRUITING",
+          "city": "Renton",
+          "state": "Washington",
+          "zip": "98057",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lisa Boswell",
+              "role": "CONTACT",
+              "phone": "(303) 503-9954",
+              "email": "lb@op-t.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 47.48288,
+            "lon": -122.21707
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

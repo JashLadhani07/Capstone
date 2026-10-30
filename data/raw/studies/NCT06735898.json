@@ -1,0 +1,225 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06735898",
+      "orgStudyIdInfo": {
+        "id": "PR-C_2"
+      },
+      "organization": {
+        "fullName": "POLYSAN Scientific & Technological Pharmaceutical Company",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Evaluation of the Efficacy of Permanent Course Combined Therapy With CYTOFLAVIN\u00ae Intravenous Solution and CYTOFLAVIN Tablets, at 2-3 Stages of Rehabilitation of Patients With Post Intensive Care Syndrome",
+      "officialTitle": "Evaluation of the Efficacy of Permanent Course Combined Therapy With CYTOFLAVIN\u00ae Intravenous Solution and CYTOFLAVIN\u00ae Tablets, at 2-3 Stages of Rehabilitation of Patients With Post Intensive Care Syndrome"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-03-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-12-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-05-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-12-11",
+      "studyFirstSubmitQcDate": "2024-12-11",
+      "studyFirstPostDateStruct": {
+        "date": "2024-12-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "POLYSAN Scientific & Technological Pharmaceutical Company",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Post intensive care syndrome (PIC syndrome) is an important problem in modern intensive care strategy. Understanding the mechanisms of PIC syndrome helps prevent it in patients with respiratory, neuromuscular transmission, and cognitive impairments that require prolonged support of vital functions. Significant role in the formation and severity of PIC syndrome is played by the severity of the systemic inflammatory response, which is an individual reaction of the body, and this determines the degree of neurological and psychological deficits. Chronic diseases such as diabetes mellitus, especially in the context of metabolic syndrome, worsen the course of PIC syndrome and delays recovery. Early initiation of rehabilitation measures in the intensive care unit and subsequent expansion of the individual rehabilitation program contributes to the rapid and successful recovery of not only vital functions, but also cognitive, motor and emotional disorders. This shortens the hospital stay of patient and improves their quality of life after discharge."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Ischemic Stroke"
+      ],
+      "keywords": [
+        "Post Intensive Care Unit Syndrome",
+        "Ischemic stroke"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "CASE_CONTROL",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 90,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group 1",
+          "description": "Basic therapy + Cytoflavin\u00ae intravenous solution in the volume of 20 ml per day IV drip in dilution on 100-200 ml of 5-10% dextrose solution or 0.9% sodium chloride solution during 10 days, transition to Cytoflavin\u00ae tablets from the next day after the end of intravenous administration during the next 75 days according to the instructions for medical use"
+        },
+        {
+          "label": "Group 2",
+          "description": "Basic therapy, according to clinical guidelines (clinical practice established within the center) for the treatment of patients in stages 2-3 of rehabilitation."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Dynamics of rehabilitation routing status score",
+          "description": "Dynamics of rehabilitation routing status score from the start of the study (Visit 1) to Visit 3, Visit 4, Visit 5 and Visit 6 measured in both groups",
+          "timeFrame": "day 12, day 30, day 60, day 90"
+        },
+        {
+          "measure": "Dynamics of Barthel status score",
+          "description": "Dynamics of Barthel status score from the start of the study (Visit 1) to Visit 3, Visit 4, Visit 5 and Visit 6 measured in both groups",
+          "timeFrame": "day 12, day 30, day 60, day 90"
+        },
+        {
+          "measure": "Dynamics of EQ5 status score",
+          "description": "Dynamics of EQ5 status score from the start of the study (Visit 1) to Visit 3, Visit 4, Visit 5 and Visit 6 measured in both groups",
+          "timeFrame": "day 12, day 30, day 60, day 90"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Dynamics of somatic status",
+          "description": "Dynamics of somatic status from the start of the study (Visit 1) to Visit 3, Visit 4, Visit 5 and Visit 6 measured in both groups",
+          "timeFrame": "day 12, day 30, day 60, day 90"
+        },
+        {
+          "measure": "Dynamics of rehabilitation status",
+          "description": "Dynamics of rehabilitation status from the start of the study (Visit 1) to Visit 3, Visit 4, Visit 5 and Visit 6 measured in both groups",
+          "timeFrame": "day 12, day 30, day 60, day 90"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Identification during the event related monitoring of responders and non-responders",
+          "description": "Identification during the event related monitoring of responders and non-responders for the use of cytoflavin for adjunctive drug modulation in PIT syndrome rehabilitation",
+          "timeFrame": "day 12, day 30, day 60, day 90"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Men and women over 18 years of age and older;\n* Stay in the ITU and (or) intensive care unit for at least 3 days;\n* Diagnosed \"post intensive care\" syndrome (PIC syndrome) with moderate-to-severe severity \\>3\\<6 points\n* Diagnosed modalities \"critical illness polyneuropathy, respiratory neuropathy, dysphagia\" of the domain \"Neuromuscular complications\" of PIC syndrome at 2-3 stages of the rehabilitation route at any value of PICS severity index\n* Diagnosed modalities \"decreased gravitational gradient, decreased exercise tolerance\" in the domain \"Vegetative-metabolic complications\" at 2-3 stages of the rehabilitation route at any value of PICS severity index\n\nExclusion Criteria:\n\n* Premorbid level of vital activity when assessed on the rehabilitation routing scale 4-5 points;\n* Hematocrit \u226430%;\n* Hemoglobin level \u226480 g/L;\n* Acute cardiac failure;\n* Acute respiratory failure;\n* Acute renal failure;\n* Acute liver cell failure;\n* Use of drugs from \"metabolic agents\" pharmacotherapeutic group at the time of inclusion in the study\n* Life expectancy of 6 months or less or presence of incurable diseases in decompensation stage",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "The observational program will include adult patients of both sexes with signs of PIC syndrome after a stay in Anesthesiology, reanimation and intensive treatment department due to acute cerebral insufficiency for at least 72 hours, hospitalized for stage 2-3 rehabilitation in a rehabilitation center between 14 and 60 days after the onset of the disease.\n\nThe group of patients who received Cytoflavin at stage 1 during the RehabIT program will be \"automatically\" allocated to the Basic Therapy + Cytoflavin group",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Andrey Belkin, MD",
+          "role": "CONTACT",
+          "email": "belkin@neuro-ural.ru"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Brain Institute Clinic",
+          "status": "RECRUITING",
+          "city": "Yekaterinburg",
+          "state": "Sverdlovsk Oblast",
+          "zip": "623702",
+          "country": "Russia",
+          "contacts": [
+            {
+              "name": "Andrey Belkin, MD",
+              "role": "CONTACT",
+              "phone": "+7 (343) 311-3-380",
+              "email": "belkin@neuro-clinic.ru"
+            }
+          ],
+          "geoPoint": {
+            "lat": 56.85733,
+            "lon": 60.61529
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000083242",
+          "term": "Ischemic Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

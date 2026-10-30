@@ -1,0 +1,323 @@
+{
+  "nct_id": "NCT01396564",
+  "title": "Comparison of the Effects of Pioglitazone and Metformin on Resistin Plasma Levels in Children With Type 2 Diabetes",
+  "sponsor": "Coordinaci\u00f3n de Investigaci\u00f3n en Salud, Mexico",
+  "phase": "PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Type 2 Diabetes"
+  ],
+  "interventions": [
+    "Metformin",
+    "Pioglitazone"
+  ],
+  "primary_outcome": "Short-term comparison of metformin and pioglitazone in pediatric patients with T2D",
+  "secondary_outcomes": [
+    "Comparison of long-term effects of metformin vs pioglitazone"
+  ],
+  "start_date": "2005-10",
+  "completion_date": "2006-10",
+  "results_posted": false,
+  "enrollment": 56,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01396564",
+        "orgStudyIdInfo": {
+          "id": "2005-3606-0003"
+        },
+        "organization": {
+          "fullName": "Coordinaci\u00f3n de Investigaci\u00f3n en Salud, Mexico",
+          "class": "OTHER_GOV"
+        },
+        "briefTitle": "Pioglitazone and Metformin in Diabetic Children",
+        "officialTitle": "Comparison of the Effects of Pioglitazone and Metformin on Resistin Plasma Levels in Children With Type 2 Diabetes"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2005-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2005-10"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2006-10",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2011-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2011-07-15",
+        "studyFirstSubmitQcDate": "2011-07-18",
+        "studyFirstPostDateStruct": {
+          "date": "2011-07-19",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2011-07-18",
+        "lastUpdatePostDateStruct": {
+          "date": "2011-07-19",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "oldNameTitle": "Niels Wacher",
+          "oldOrganization": "Head of Research Unit for Clinical Epidemiology"
+        },
+        "leadSponsor": {
+          "name": "Coordinaci\u00f3n de Investigaci\u00f3n en Salud, Mexico",
+          "class": "OTHER_GOV"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "HYPOTHESIS: Treatment with pioglitazone is more effective in reducing resistin concentrations and insulin resistance than metformin in children with Type 2 Diabetes (T2D).\n\nMATERIAL AND METHODS: Pediatric patients aged 8-17 with T2D as defined by the American Diabetes Association (ADA) were included, not under treatment or who had been treated exclusively with diet and exercise or who only received an anti-diabetic agent, as well as those with a history of insulin use who had not applied insulin within 1 month before the initial visit. History of T2D, hypertension, exercise, diet, age, gender and somatometry are recorded. A Blood sample is taken to determine HbA1c, glucose, insulin and resistin.\n\nSTATISTICAL ANALYSIS: The percentual change over 4 weeks is analyzed for concentrations of resistin, insulin resistance. Changes are noted for weeks 12, 24, 36 and 48 for resistin concentrations, HbA1c and HOMA values. Baseline and final values are compared with a paired t test. Lineal or logarithmic regression analysis is used to evaluate the relationship between homeostasis model assessment of insulin resistance (HOMA-IR) and resistin concentrations. The statistical significance between variables is determined using ANOVA. The effect of confounding variables is analyzed with a test of co-variance analysis. Statistical significance is considered as p \\<0.05.",
+        "detailedDescription": "At 2 weeks prior to study all subjects meet with a dietician and are instructed to consume a weight-maintaining diet containing 50% carbohydrate, 30% fat, and 20% protein. During the week prior to the start of pioglitazone or metformin treatment, all subjects come to the clinic after a 12 hr overnight fast for a clinical examination (body weight, height, waist and hip circumferences) and biochemical tests. All tests are done between 8 and 10 am. A general structured interview is conducted. A questionnaire is used to obtain information on demographic and socioeconomic aspects. Anthropometric measurements are obtained. Body weight is measured on a 140-kg capacity floor scale, with the child standing in the center of the scale. Height is obtained by use of the floor scale's stadiometer, with the child standing in the center of the scale. Height is measured to the nearest 0.5 cm. Body weight is measured recorded to the nearest 0.1 Kg. Body Mass Index (BMI) is calculated as weight (Kg) divided by height (m2). Abdominal circumference is measured to the nearest 0.1 cm at the level of the greatest frontal extension of the abdomen between the bottom of the rib cage and the top of the iliac crest. The equipment is regularly calibrated using reference samples provided by the manufacturer. Baseline measurement of resistin (method) and insulin concentration (method). At the same time, blood samples are taken for liver function tests, fasting plasma glucose, lipids, and HbA1c.\n\nAll studies are performed at 08:00 h following a 10-12 h overnight fast. Following completion of these studies, subjects are randomized to start on pioglitazone or metformin, 15 mg/day and 850 mg respectively, for 4 weeks period, subjects return to the Clinical of Pediatric Endocrinology at 08:00 h, following an overnight fast, for measurement of fasting plasma glucose concentration, body weight, and blood pressure. Fasting plasma lipids (total cholesterol, triglyceride, HDL cholesterol, and LDL cholesterol) are measured . Fructosamine, HbA1c is measured during the initial and final week of pioglitazone or metformin treatment. Dietary adherence is reinforced. After 4 weeks of treatment, all subjects undergo a measurement of fasting plasma glucose, resistin, and insulin concentration."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes"
+        ],
+        "keywords": [
+          "Type 2 diabetes",
+          "Resistin",
+          "Inflammation",
+          "Insulin Resistance"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "TRIPLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 56,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Metformin",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Randomized patients are given 850 mg of metformin daily, increased to 1700 mg after 12 weeks. Adherence is evaluated and after the first phase, the arm is opened. Fasting plasma glucose concentration, body weight, and blood pressure, fasting plasma lipids (total cholesterol, triglyceride, HDL cholesterol, and LDL cholesterol), HbA1c are measured during the initial and final week of treatment. Dietary adherence is reinforced.",
+            "interventionNames": [
+              "Drug: Metformin"
+            ]
+          },
+          {
+            "label": "Pioglitazone",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Randomized patients are given 15 mg of pioglitazone daily, increased to 60 mg after 12 weeks. Adherence is evaluated and after the first phase, the arm is opened. Fasting plasma glucose concentration, body weight, and blood pressure, fasting plasma lipids (total cholesterol, triglyceride, HDL cholesterol, and LDL cholesterol), HbA1c are measured during the initial and final week of treatment. Dietary adherence is reinforced.",
+            "interventionNames": [
+              "Drug: Pioglitazone"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Metformin",
+            "description": "850 mg of Metformin daily, increased to 1700 mg after 12 weeks, for the duration of the trial.",
+            "armGroupLabels": [
+              "Metformin"
+            ],
+            "otherNames": [
+              "Recommended diet and 30 minutes of exercise daily"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Pioglitazone",
+            "description": "15 mg of pioglitazone daily, increased to 60 mg after 12 weeks.",
+            "armGroupLabels": [
+              "Pioglitazone"
+            ],
+            "otherNames": [
+              "Recommended diet and 30 minutes of exercise daily"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Short-term comparison of metformin and pioglitazone in pediatric patients with T2D",
+            "description": "To compare the effectiveness of metformin vs pioglitazone in children with T2D, in terms of resistin levels and insulin resistance. Compare various markers such as HbA1c,fasting plasma glucose, lipids, and hepatic function.",
+            "timeFrame": "48 weeks"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Comparison of long-term effects of metformin vs pioglitazone",
+            "description": "To compare the effectiveness of metformin vs pioglitazone in children with T2D, in terms of resistin levels and insulin resistance. Compare various markers such as HbA1c,fasting plasma glucose, lipids, and hepatic function over the long-term, as well as any secondary effects.",
+            "timeFrame": "10 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Pediatric patients with type 2 diabetes according to ADA.\n* Patients who have not previously received anti-diabetic treatment or have been treated solely with diet and exercise or have received only one anti-diabetic agent, and who have not applied insulin within 1 month of study start.\n* HbA1c between \\>6.5% and \\<10%.\n* Stable body weight at least 3 months before study start.\n* No intense exercise.\n* Free of other infectious, chronic, or acute inflammatory processes in the 3 months prior to study.\n* Previous informed consent signed (both children and parents or guardians).\n* Either sex\n* 8-17 years old.\n\nExclusion Criteria:\n\n* Personal history of type 1 diabetes\n* Chronic renal failure or serum creatinine over 1.0 mg/dl.\n* Active hepatic disease (ALT and AST 3 times normal)\n* Heart conditions\n* Acute or chronic metabolic acidosis\n* Receiving steroids or insulin",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "8 Years",
+        "maximumAge": "17 Years",
+        "stdAges": [
+          "CHILD"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Niels H Wachter, DMSC",
+            "affiliation": "Supervisor Clinical Research",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Endocrine Outpatient Clinic of the Hospital de Pediatria del CMN \"Siglo XXI\"",
+            "city": "Mexico City",
+            "state": "Mexico City",
+            "zip": "06720",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 19.42847,
+              "lon": -99.12766
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "id": "D007249",
+            "term": "Inflammation"
+          },
+          {
+            "id": "D007333",
+            "term": "Insulin Resistance"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D006946",
+            "term": "Hyperinsulinism"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D008687",
+            "term": "Metformin"
+          },
+          {
+            "id": "D000077205",
+            "term": "Pioglitazone"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001645",
+            "term": "Biguanides"
+          },
+          {
+            "id": "D006146",
+            "term": "Guanidines"
+          },
+          {
+            "id": "D000578",
+            "term": "Amidines"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D045162",
+            "term": "Thiazolidinediones"
+          },
+          {
+            "id": "D013844",
+            "term": "Thiazoles"
+          },
+          {
+            "id": "D013457",
+            "term": "Sulfur Compounds"
+          },
+          {
+            "id": "D001393",
+            "term": "Azoles"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718500"
+}

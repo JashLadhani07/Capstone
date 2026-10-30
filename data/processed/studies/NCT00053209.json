@@ -1,0 +1,1697 @@
+{
+  "nct_id": "NCT00053209",
+  "title": "Phase II Trial Of Pemetrexed Disodium And Gemcitabine In Advanced Urothelial Cancer",
+  "sponsor": "Eastern Cooperative Oncology Group",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Bladder Cancer",
+    "Transitional Cell Cancer of the Renal Pelvis and Ureter",
+    "Urethral Cancer"
+  ],
+  "interventions": [
+    "gemcitabine hydrochloride",
+    "pemetrexed disodium"
+  ],
+  "primary_outcome": "Response as measured by RECIST criteria",
+  "secondary_outcomes": [
+    "Time to disease progression",
+    "Overall survival"
+  ],
+  "start_date": "2004-08-10",
+  "completion_date": "2007-09",
+  "results_posted": false,
+  "enrollment": 46,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00053209",
+        "orgStudyIdInfo": {
+          "id": "CDR0000269302"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "ECOG-E4802"
+          }
+        ],
+        "organization": {
+          "fullName": "Eastern Cooperative Oncology Group",
+          "class": "NETWORK"
+        },
+        "briefTitle": "Pemetrexed Disodium and Gemcitabine in Treating Patients With Advanced Cancer of the Urothelium",
+        "officialTitle": "Phase II Trial Of Pemetrexed Disodium And Gemcitabine In Advanced Urothelial Cancer"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2023-06",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2004-08-10",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2007-09",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2009-05",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2003-01-27",
+        "studyFirstSubmitQcDate": "2003-01-27",
+        "studyFirstPostDateStruct": {
+          "date": "2003-01-28",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2023-06-20",
+        "lastUpdatePostDateStruct": {
+          "date": "2023-06-22",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Eastern Cooperative Oncology Group",
+          "class": "NETWORK"
+        },
+        "collaborators": [
+          {
+            "name": "National Cancer Institute (NCI)",
+            "class": "NIH"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "RATIONALE: Pemetrexed disodium may stop the growth of tumor cells by blocking the enzymes necessary for their growth. Drugs used in chemotherapy, such as gemcitabine, work in different ways to stop tumor cells from dividing so they stop growing or die. Combining pemetrexed disodium with gemcitabine may kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combining pemetrexed disodium with gemcitabine in treating patients who have advanced cancer of the urothelium.",
+        "detailedDescription": "OBJECTIVES:\n\nPrimary\n\n* Determine the response rate in patients with previously untreated advanced cancer of the urothelium treated with pemetrexed disodium and gemcitabine.\n* Determine the toxicity of this regimen in these patients.\n\nSecondary\n\n* Determine the overall survival and time to progression in patients treated with this regimen.\n\nOUTLINE: This is a multicenter study.\n\nPatients receive pemetrexed disodium IV over 10 minutes on day 1 and gemcitabine IV over 30 minutes on days 1 and 8. Patients also receive cyanocobalamin intramuscularly once every 9 weeks and folic acid orally once daily beginning on day -6 and continuing until 3 weeks after the completion of study therapy. Treatment repeats every 3 weeks for up to 6 courses in the absence of disease progression or unacceptable toxicity.\n\nPatients are followed every 3 months for 2 years and then every 6 months for 3 years.\n\nPROJECTED ACCRUAL: A total of 24-46 patients will be accrued for this study within 15 -18 months."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Bladder Cancer",
+          "Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "Urethral Cancer"
+        ],
+        "keywords": [
+          "metastatic transitional cell cancer of the renal pelvis and ureter",
+          "recurrent transitional cell cancer of the renal pelvis and ureter",
+          "regional transitional cell cancer of the renal pelvis and ureter",
+          "transitional cell carcinoma of the bladder",
+          "recurrent bladder cancer",
+          "stage III bladder cancer",
+          "stage IV bladder cancer",
+          "anterior urethral cancer",
+          "posterior urethral cancer",
+          "recurrent urethral cancer",
+          "urethral cancer associated with invasive bladder cancer"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 46,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Pemetrexed Disodium and Gemcitabine",
+            "type": "EXPERIMENTAL",
+            "description": "Pemetrexed disodium 500 mg/m2 followed by gemcitabine 1000 mg/m2 on day 1 and gemcitabine 1000 mg/m2 on day 8 of a 21-day cycle for a maximum of 6 cycles",
+            "interventionNames": [
+              "Drug: gemcitabine hydrochloride",
+              "Drug: pemetrexed disodium"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "gemcitabine hydrochloride",
+            "armGroupLabels": [
+              "Pemetrexed Disodium and Gemcitabine"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "pemetrexed disodium",
+            "armGroupLabels": [
+              "Pemetrexed Disodium and Gemcitabine"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Response as measured by RECIST criteria",
+            "timeFrame": "Assessed every 6 weeks"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Time to disease progression",
+            "timeFrame": "Assessed every 6 weeks"
+          },
+          {
+            "measure": "Overall survival",
+            "timeFrame": "Assessed every 3 months for 2 years, then every 6 months for 3 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed cancer of the urothelium (renal pelvis, ureter, bladder, or urethra)\n\n  * Any of the following types:\n\n    * Transitional cell carcinoma (TCC)\n    * Mixed histologies containing a component of TCC\n    * Non-TCC of the urothelium (renal pelvis, ureter, bladder, or urethra)\n* Progressing regional or metastatic disease\n* Measurable disease\n* No clinical evidence of CNS metastases\n* No evidence of clinically significant (by physical exam or plain film) third-space fluid collections (pleural effusions or ascites)\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nPerformance status\n\n* ECOG 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Granulocyte count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Hemoglobin at least 9 g/dL\n\nHepatic\n\n* AST no greater than 3 times upper limit of normal (ULN)\n* Bilirubin no greater than 1.5 times ULN\n\nRenal\n\n* Creatinine clearance at least 45 mL/min\n\nCardiovascular\n\n* No history of severe cardiovascular disease (i.e., American Heart Association class III or IV heart disease)\n* No uncontrolled congestive heart failure\n* No ventricular dysrhythmias\n\nOther\n\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No active unresolved infection\n* No other prior malignancy unless curatively treated and disease free for an appropriate (disease-specific) period of time\n* Able and willing to receive folic acid and cyanocobalamin supplementation\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No prior systemic biologic response modifier therapy\n\nChemotherapy\n\n* No prior systemic chemotherapy for metastatic disease\n* More than 1 year since prior neoadjuvant or adjuvant chemotherapy\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* At least 4 weeks since prior radiotherapy and recovered\n* No prior pelvic radiotherapy\n* No concurrent radiotherapy\n\nSurgery\n\n* At least 4 weeks since prior major surgery and recovered\n\nOther\n\n* More than 7 days since prior parenteral antibiotics\n* No salicylates for 2 days before, during, and for 2 days after administration of pemetrexed disodium\n* No nonsteroidal anti-inflammatory drugs for at least 5 days before, during, and for 2 days after administration of pemetrexed disodium",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "120 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Robert Dreicer, MD, FACP",
+            "affiliation": "The Cleveland Clinic",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Aurora Presbyterian Hospital",
+            "city": "Aurora",
+            "state": "Colorado",
+            "zip": "80012",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.72943,
+              "lon": -104.83192
+            }
+          },
+          {
+            "facility": "Boulder Community Hospital",
+            "city": "Boulder",
+            "state": "Colorado",
+            "zip": "80301",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.01499,
+              "lon": -105.27055
+            }
+          },
+          {
+            "facility": "Penrose Cancer Center at Penrose Hospital",
+            "city": "Colorado Springs",
+            "state": "Colorado",
+            "zip": "80933",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.83388,
+              "lon": -104.82136
+            }
+          },
+          {
+            "facility": "Porter Adventist Hospital",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip": "80210",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.73915,
+              "lon": -104.9847
+            }
+          },
+          {
+            "facility": "Presbyterian - St. Luke's Medical Center",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip": "80218",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.73915,
+              "lon": -104.9847
+            }
+          },
+          {
+            "facility": "St. Joseph Hospital",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip": "80218",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.73915,
+              "lon": -104.9847
+            }
+          },
+          {
+            "facility": "Rose Medical Center",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip": "80220",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.73915,
+              "lon": -104.9847
+            }
+          },
+          {
+            "facility": "CCOP - Colorado Cancer Research Program, Incorporated",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip": "80224-2522",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.73915,
+              "lon": -104.9847
+            }
+          },
+          {
+            "facility": "Swedish Medical Center",
+            "city": "Englewood",
+            "state": "Colorado",
+            "zip": "80110",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.64777,
+              "lon": -104.98776
+            }
+          },
+          {
+            "facility": "Sky Ridge Medical Center",
+            "city": "Lone Tree",
+            "state": "Colorado",
+            "zip": "80124",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.55171,
+              "lon": -104.8863
+            }
+          },
+          {
+            "facility": "Hope Cancer Care Center at Longmont United Hospital",
+            "city": "Longmont",
+            "state": "Colorado",
+            "zip": "80502",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.16721,
+              "lon": -105.10193
+            }
+          },
+          {
+            "facility": "St. Mary-Corwin Regional Medical Center",
+            "city": "Pueblo",
+            "state": "Colorado",
+            "zip": "81004",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.25445,
+              "lon": -104.60914
+            }
+          },
+          {
+            "facility": "North Suburban Medical Center",
+            "city": "Thornton",
+            "state": "Colorado",
+            "zip": "80229",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.86804,
+              "lon": -104.97192
+            }
+          },
+          {
+            "facility": "Yale Comprehensive Cancer Center at Yale University School of Medicine",
+            "city": "New Haven",
+            "state": "Connecticut",
+            "zip": "06520-8032",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.30815,
+              "lon": -72.92816
+            }
+          },
+          {
+            "facility": "Beebe Medical Center",
+            "city": "Lewes",
+            "state": "Delaware",
+            "zip": "19958",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.77456,
+              "lon": -75.13935
+            }
+          },
+          {
+            "facility": "CCOP - Christiana Care Health Services",
+            "city": "Newark",
+            "state": "Delaware",
+            "zip": "19718",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.68372,
+              "lon": -75.74966
+            }
+          },
+          {
+            "facility": "St. Francis Hospital",
+            "city": "Wilmington",
+            "state": "Delaware",
+            "zip": "19805",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.74595,
+              "lon": -75.54659
+            }
+          },
+          {
+            "facility": "Baptist Cancer Institute - Jacksonville",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "zip": "32207",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.33218,
+              "lon": -81.65565
+            }
+          },
+          {
+            "facility": "Watson Clinic, LLC",
+            "city": "Lakeland",
+            "state": "Florida",
+            "zip": "33805",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.03947,
+              "lon": -81.9498
+            }
+          },
+          {
+            "facility": "Hematology and Oncology of Northeast Georgia",
+            "city": "Athens",
+            "state": "Georgia",
+            "zip": "30607",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.96095,
+              "lon": -83.37794
+            }
+          },
+          {
+            "facility": "MBCCOP-Medical College of Georgia Cancer Center",
+            "city": "Augusta",
+            "state": "Georgia",
+            "zip": "30912",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.47097,
+              "lon": -81.97484
+            }
+          },
+          {
+            "facility": "Rush-Copley Cancer Care Center",
+            "city": "Aurora",
+            "state": "Illinois",
+            "zip": "60507",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.76058,
+              "lon": -88.32007
+            }
+          },
+          {
+            "facility": "Hinsdale Hematology Oncology Associates",
+            "city": "Hinsdale",
+            "state": "Illinois",
+            "zip": "60521",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.80086,
+              "lon": -87.93701
+            }
+          },
+          {
+            "facility": "Joliet Oncology Hematology Associates, Limited - West",
+            "city": "Joliet",
+            "state": "Illinois",
+            "zip": "60435",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.52519,
+              "lon": -88.0834
+            }
+          },
+          {
+            "facility": "Regional Cancer Center at Memorial Medical Center",
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62781-0001",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.80172,
+              "lon": -89.64371
+            }
+          },
+          {
+            "facility": "Carle Cancer Center at Carle Foundation Hospital",
+            "city": "Urbana",
+            "state": "Illinois",
+            "zip": "61801",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.11059,
+              "lon": -88.20727
+            }
+          },
+          {
+            "facility": "CCOP - Carle Cancer Center",
+            "city": "Urbana",
+            "state": "Illinois",
+            "zip": "61801",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.11059,
+              "lon": -88.20727
+            }
+          },
+          {
+            "facility": "Elkhart General Hospital",
+            "city": "Elkhart",
+            "state": "Indiana",
+            "zip": "46515",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.68199,
+              "lon": -85.97667
+            }
+          },
+          {
+            "facility": "Center for Cancer Therapy at LaPorte Hospital and Health Services",
+            "city": "La Porte",
+            "state": "Indiana",
+            "zip": "46350",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.60774,
+              "lon": -86.71389
+            }
+          },
+          {
+            "facility": "Saint Anthony Memorial Health Centers",
+            "city": "Michigan City",
+            "state": "Indiana",
+            "zip": "46360",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.70754,
+              "lon": -86.89503
+            }
+          },
+          {
+            "facility": "Saint Joseph Regional Medical Center - Plymouth Campus",
+            "city": "Plymouth",
+            "state": "Indiana",
+            "zip": "46544",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.34366,
+              "lon": -86.30973
+            }
+          },
+          {
+            "facility": "CCOP - Northern Indiana CR Consortium",
+            "city": "South Bend",
+            "state": "Indiana",
+            "zip": "46601",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.68338,
+              "lon": -86.25001
+            }
+          },
+          {
+            "facility": "Memorial Hospital of South Bend",
+            "city": "South Bend",
+            "state": "Indiana",
+            "zip": "46601",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.68338,
+              "lon": -86.25001
+            }
+          },
+          {
+            "facility": "McFarland Clinic, P.C.",
+            "city": "Ames",
+            "state": "Iowa",
+            "zip": "50010",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.03471,
+              "lon": -93.61994
+            }
+          },
+          {
+            "facility": "Siouxland Regional Cancer Center",
+            "city": "Sioux City",
+            "state": "Iowa",
+            "zip": "51101-1733",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.49999,
+              "lon": -96.40031
+            }
+          },
+          {
+            "facility": "Siouxland Hematology-Oncology Associates",
+            "city": "Sioux City",
+            "state": "Iowa",
+            "zip": "51101",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.49999,
+              "lon": -96.40031
+            }
+          },
+          {
+            "facility": "Mercy Medical Center - Sioux City",
+            "city": "Sioux City",
+            "state": "Iowa",
+            "zip": "51104",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.49999,
+              "lon": -96.40031
+            }
+          },
+          {
+            "facility": "St. Luke's Regional Medical Center",
+            "city": "Sioux City",
+            "state": "Iowa",
+            "zip": "51104",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.49999,
+              "lon": -96.40031
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas - Chanute",
+            "city": "Chanute",
+            "state": "Kansas",
+            "zip": "66720",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.67921,
+              "lon": -95.4572
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas - Dodge City",
+            "city": "Dodge City",
+            "state": "Kansas",
+            "zip": "67801",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.7528,
+              "lon": -100.01708
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas, P.A. - El Dorado",
+            "city": "El Dorado",
+            "state": "Kansas",
+            "zip": "67042",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.81724,
+              "lon": -96.86225
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas - Kingman",
+            "city": "Kingman",
+            "state": "Kansas",
+            "zip": "67068",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.64585,
+              "lon": -98.11367
+            }
+          },
+          {
+            "facility": "Southwest Medical Center",
+            "city": "Liberal",
+            "state": "Kansas",
+            "zip": "67901",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.04308,
+              "lon": -100.921
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas - Newton",
+            "city": "Newton",
+            "state": "Kansas",
+            "zip": "67114",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.04668,
+              "lon": -97.34504
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas, P.A. - Parsons",
+            "city": "Parsons",
+            "state": "Kansas",
+            "zip": "67357",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.34034,
+              "lon": -95.26108
+            }
+          },
+          {
+            "facility": "Pratt Cancer Center of Kansas",
+            "city": "Pratt",
+            "state": "Kansas",
+            "zip": "67124",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.64391,
+              "lon": -98.73759
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas - Salina",
+            "city": "Salina",
+            "state": "Kansas",
+            "zip": "67042",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.84028,
+              "lon": -97.61142
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas - Wellington",
+            "city": "Wellington",
+            "state": "Kansas",
+            "zip": "67152",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.2653,
+              "lon": -97.37171
+            }
+          },
+          {
+            "facility": "Associates in Womens Health",
+            "city": "Wichita",
+            "state": "Kansas",
+            "zip": "67203",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.69224,
+              "lon": -97.33754
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas, P.A.",
+            "city": "Wichita",
+            "state": "Kansas",
+            "zip": "67208",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.69224,
+              "lon": -97.33754
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas, P.A. - Wichita",
+            "city": "Wichita",
+            "state": "Kansas",
+            "zip": "67214",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.69224,
+              "lon": -97.33754
+            }
+          },
+          {
+            "facility": "CCOP - Wichita",
+            "city": "Wichita",
+            "state": "Kansas",
+            "zip": "67214",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.69224,
+              "lon": -97.33754
+            }
+          },
+          {
+            "facility": "Via Christi Cancer Center at Via Christi Regional Medical Center",
+            "city": "Wichita",
+            "state": "Kansas",
+            "zip": "67214",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.69224,
+              "lon": -97.33754
+            }
+          },
+          {
+            "facility": "Cancer Center of Kansas - Winfield",
+            "city": "Winfield",
+            "state": "Kansas",
+            "zip": "67156",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.23975,
+              "lon": -96.99559
+            }
+          },
+          {
+            "facility": "Union Hospital Cancer Center at Union Hospital",
+            "city": "Elkton",
+            "state": "Maryland",
+            "zip": "21921",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.60678,
+              "lon": -75.83327
+            }
+          },
+          {
+            "facility": "Green Bay Oncology, Limited - Escanaba",
+            "city": "Escanaba",
+            "state": "Michigan",
+            "zip": "49431",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 45.74525,
+              "lon": -87.06458
+            }
+          },
+          {
+            "facility": "Green Bay Oncology, Limited - Iron Mountain",
+            "city": "Iron Mountain",
+            "state": "Michigan",
+            "zip": "49801",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 45.82023,
+              "lon": -88.06596
+            }
+          },
+          {
+            "facility": "Borgess Medical Center",
+            "city": "Kalamazoo",
+            "state": "Michigan",
+            "zip": "49001",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.29171,
+              "lon": -85.58723
+            }
+          },
+          {
+            "facility": "Bronson Methodist Hospital",
+            "city": "Kalamazoo",
+            "state": "Michigan",
+            "zip": "49007",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.29171,
+              "lon": -85.58723
+            }
+          },
+          {
+            "facility": "West Michigan Cancer Center",
+            "city": "Kalamazoo",
+            "state": "Michigan",
+            "zip": "49007",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.29171,
+              "lon": -85.58723
+            }
+          },
+          {
+            "facility": "MeritCare Clinic - Bemidji",
+            "city": "Bemidji",
+            "state": "Minnesota",
+            "zip": "56601",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 47.47356,
+              "lon": -94.88028
+            }
+          },
+          {
+            "facility": "Fairview Ridges Hospital",
+            "city": "Burnsville",
+            "state": "Minnesota",
+            "zip": "55337",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.76774,
+              "lon": -93.27772
+            }
+          },
+          {
+            "facility": "Mercy and Unity Cancer Center at Mercy Hospital",
+            "city": "Coon Rapids",
+            "state": "Minnesota",
+            "zip": "55433",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 45.11997,
+              "lon": -93.28773
+            }
+          },
+          {
+            "facility": "CCOP - Duluth",
+            "city": "Duluth",
+            "state": "Minnesota",
+            "zip": "55805",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 46.78327,
+              "lon": -92.10658
+            }
+          },
+          {
+            "facility": "Miller-Dwan Medical Center",
+            "city": "Duluth",
+            "state": "Minnesota",
+            "zip": "55805",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 46.78327,
+              "lon": -92.10658
+            }
+          },
+          {
+            "facility": "St. Mary's - Duluth Clinic Cancer Center",
+            "city": "Duluth",
+            "state": "Minnesota",
+            "zip": "55805",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 46.78327,
+              "lon": -92.10658
+            }
+          },
+          {
+            "facility": "Fairview Southdale Hospital",
+            "city": "Edina",
+            "state": "Minnesota",
+            "zip": "55435",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.88969,
+              "lon": -93.34995
+            }
+          },
+          {
+            "facility": "Mercy and Unity Cancer Center at Unity Hospital",
+            "city": "Fridley",
+            "state": "Minnesota",
+            "zip": "55432",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 45.08608,
+              "lon": -93.26328
+            }
+          },
+          {
+            "facility": "Hutchinson Area Health Care",
+            "city": "Hutchinson",
+            "state": "Minnesota",
+            "zip": "55350",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.88774,
+              "lon": -94.36971
+            }
+          },
+          {
+            "facility": "Meeker County Memorial Hospital",
+            "city": "Litchfield",
+            "state": "Minnesota",
+            "zip": "55355",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 45.12718,
+              "lon": -94.52805
+            }
+          },
+          {
+            "facility": "St. John's Hospital",
+            "city": "Maplewood",
+            "state": "Minnesota",
+            "zip": "55109",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.95302,
+              "lon": -92.99522
+            }
+          },
+          {
+            "facility": "Virginia Piper Cancer Institute at Abbott-Northwestern Hospital",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "zip": "55407",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.97997,
+              "lon": -93.26384
+            }
+          },
+          {
+            "facility": "Hennepin County Medical Center - Minneapolis",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "zip": "55415",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.97997,
+              "lon": -93.26384
+            }
+          },
+          {
+            "facility": "Hubert H. Humphrey Cancer Center at North Memorial Medical Center",
+            "city": "Robbinsdale",
+            "state": "Minnesota",
+            "zip": "55422",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 45.03219,
+              "lon": -93.33856
+            }
+          },
+          {
+            "facility": "CCOP - Metro-Minnesota",
+            "city": "Saint Louis Park",
+            "state": "Minnesota",
+            "zip": "55416",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.9483,
+              "lon": -93.34801
+            }
+          },
+          {
+            "facility": "Park Nicollet Health Services",
+            "city": "Saint Louis Park",
+            "state": "Minnesota",
+            "zip": "55416",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.9483,
+              "lon": -93.34801
+            }
+          },
+          {
+            "facility": "Regions Hospital Cancer Care Center",
+            "city": "Saint Paul",
+            "state": "Minnesota",
+            "zip": "55101",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.94441,
+              "lon": -93.09327
+            }
+          },
+          {
+            "facility": "St. Joseph's Hospital",
+            "city": "Saint Paul",
+            "state": "Minnesota",
+            "zip": "55102",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.94441,
+              "lon": -93.09327
+            }
+          },
+          {
+            "facility": "United Hospital",
+            "city": "Saint Paul",
+            "state": "Minnesota",
+            "zip": "55102",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.94441,
+              "lon": -93.09327
+            }
+          },
+          {
+            "facility": "Saint Francis Cancer Center",
+            "city": "Shakopee",
+            "state": "Minnesota",
+            "zip": "55379",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.79802,
+              "lon": -93.5269
+            }
+          },
+          {
+            "facility": "Ridgeview Medical Center",
+            "city": "Waconia",
+            "state": "Minnesota",
+            "zip": "55387",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.8508,
+              "lon": -93.78691
+            }
+          },
+          {
+            "facility": "Woodwinds Hospital",
+            "city": "Woodbury",
+            "state": "Minnesota",
+            "zip": "55125",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.92386,
+              "lon": -92.95938
+            }
+          },
+          {
+            "facility": "Cancer Institute of New Jersey at the Cooper University Hospital - Voorhees",
+            "city": "Camden",
+            "state": "New Jersey",
+            "zip": "08103",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.92595,
+              "lon": -75.11962
+            }
+          },
+          {
+            "facility": "Veterans Affairs Medical Center - East Orange",
+            "city": "East Orange",
+            "state": "New Jersey",
+            "zip": "07018-1095",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.76732,
+              "lon": -74.20487
+            }
+          },
+          {
+            "facility": "CCOP - Northern New Jersey",
+            "city": "Hackensack",
+            "state": "New Jersey",
+            "zip": "07601",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.88593,
+              "lon": -74.04347
+            }
+          },
+          {
+            "facility": "Cancer Institute of New Jersey at Hamilton",
+            "city": "Hamilton",
+            "state": "New Jersey",
+            "zip": "08690",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.20706,
+              "lon": -74.08125
+            }
+          },
+          {
+            "facility": "Fox Chase Virtua Health Cancer Program - Marlton",
+            "city": "Marlton",
+            "state": "New Jersey",
+            "zip": "08053",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.89122,
+              "lon": -74.92183
+            }
+          },
+          {
+            "facility": "Mountainside Hospital Cancer Center",
+            "city": "Montclair",
+            "state": "New Jersey",
+            "zip": "07042",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.82593,
+              "lon": -74.20903
+            }
+          },
+          {
+            "facility": "Carol G. Simon Cancer Center at Morristown Memorial Hospital",
+            "city": "Morristown",
+            "state": "New Jersey",
+            "zip": "07962",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.79677,
+              "lon": -74.48154
+            }
+          },
+          {
+            "facility": "Cancer Institute of New Jersey at UMDNJ - Robert Wood Johnson Medical School",
+            "city": "New Brunswick",
+            "state": "New Jersey",
+            "zip": "08903",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.48622,
+              "lon": -74.45182
+            }
+          },
+          {
+            "facility": "Overlook Hospital",
+            "city": "Summit",
+            "state": "New Jersey",
+            "zip": "07902",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.71562,
+              "lon": -74.36468
+            }
+          },
+          {
+            "facility": "Our Lady of Mercy Medical Center Comprehensive Cancer Center",
+            "city": "The Bronx",
+            "state": "New York",
+            "zip": "10466",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.84985,
+              "lon": -73.86641
+            }
+          },
+          {
+            "facility": "CCOP - MeritCare Hospital",
+            "city": "Fargo",
+            "state": "North Dakota",
+            "zip": "58122",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 46.87719,
+              "lon": -96.7898
+            }
+          },
+          {
+            "facility": "MeritCare Medical Group",
+            "city": "Fargo",
+            "state": "North Dakota",
+            "zip": "58122",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 46.87719,
+              "lon": -96.7898
+            }
+          },
+          {
+            "facility": "Aultman Hospital Cancer Center at Aultman Health Foundation",
+            "city": "Canton",
+            "state": "Ohio",
+            "zip": "44710",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.79895,
+              "lon": -81.37845
+            }
+          },
+          {
+            "facility": "Ireland Cancer Center at University Hospitals of Cleveland and Case Western Reserve University",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44106",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.4995,
+              "lon": -81.69541
+            }
+          },
+          {
+            "facility": "MetroHealth's Cancer Care Center at MetroHealth Medical Center",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44109",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.4995,
+              "lon": -81.69541
+            }
+          },
+          {
+            "facility": "Cleveland Clinic Taussig Cancer Center",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.4995,
+              "lon": -81.69541
+            }
+          },
+          {
+            "facility": "Natalie Warren Bryant Cancer Center at St. Francis Hospital",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "zip": "74136",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.15398,
+              "lon": -95.99277
+            }
+          },
+          {
+            "facility": "St. Luke's Hospital Cancer Center",
+            "city": "Bethlehem",
+            "state": "Pennsylvania",
+            "zip": "18015",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.62593,
+              "lon": -75.37046
+            }
+          },
+          {
+            "facility": "Central Pennsylvania Hematology and Medical Oncology Associates, P. C.",
+            "city": "Lemoyne",
+            "state": "Pennsylvania",
+            "zip": "17043",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.2412,
+              "lon": -76.89414
+            }
+          },
+          {
+            "facility": "Abramson Cancer Center of the University of Pennsylvania",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip": "19104",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.95238,
+              "lon": -75.16362
+            }
+          },
+          {
+            "facility": "Fox Chase-Temple Cancer Center",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip": "19111-2497",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.95238,
+              "lon": -75.16362
+            }
+          },
+          {
+            "facility": "Chester County Hospital",
+            "city": "West Chester",
+            "state": "Pennsylvania",
+            "zip": "19380",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.96097,
+              "lon": -75.60804
+            }
+          },
+          {
+            "facility": "Reading Hospital and Medical Center",
+            "city": "West Reading",
+            "state": "Pennsylvania",
+            "zip": "19612",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.3337,
+              "lon": -75.94743
+            }
+          },
+          {
+            "facility": "Cancer Care Institute of Carolina at Aiken Regional Medical Centers",
+            "city": "Aiken",
+            "state": "South Carolina",
+            "zip": "29802",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.56042,
+              "lon": -81.71955
+            }
+          },
+          {
+            "facility": "Sioux Valley Hospital and University of South Dakota Medical Center",
+            "city": "Sioux Falls",
+            "state": "South Dakota",
+            "zip": "57104",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.54369,
+              "lon": -96.72796
+            }
+          },
+          {
+            "facility": "Avera McKennan Hospital and University Health Center",
+            "city": "Sioux Falls",
+            "state": "South Dakota",
+            "zip": "57105",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.54369,
+              "lon": -96.72796
+            }
+          },
+          {
+            "facility": "Medical X-Ray Center",
+            "city": "Sioux Falls",
+            "state": "South Dakota",
+            "zip": "57105",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.54369,
+              "lon": -96.72796
+            }
+          },
+          {
+            "facility": "Erlanger Cancer Center",
+            "city": "Chattanooga",
+            "state": "Tennessee",
+            "zip": "37403",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.04563,
+              "lon": -85.30968
+            }
+          },
+          {
+            "facility": "Vanderbilt-Ingram Cancer Center",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip": "37232",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.16589,
+              "lon": -86.78444
+            }
+          },
+          {
+            "facility": "CCOP - Scott and White Hospital",
+            "city": "Temple",
+            "state": "Texas",
+            "zip": "76508",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 31.09823,
+              "lon": -97.34278
+            }
+          },
+          {
+            "facility": "Green Bay Oncology, Limited at St. Vincent Hospital",
+            "city": "Green Bay",
+            "state": "Wisconsin",
+            "zip": "54301-3526",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.51916,
+              "lon": -88.01983
+            }
+          },
+          {
+            "facility": "St. Vincent Hospital",
+            "city": "Green Bay",
+            "state": "Wisconsin",
+            "zip": "54301",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.51916,
+              "lon": -88.01983
+            }
+          },
+          {
+            "facility": "Green Bay Oncology, Limited at St. Mary's Hospital",
+            "city": "Green Bay",
+            "state": "Wisconsin",
+            "zip": "54303",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.51916,
+              "lon": -88.01983
+            }
+          },
+          {
+            "facility": "St. Mary's Hospital Medical Center",
+            "city": "Green Bay",
+            "state": "Wisconsin",
+            "zip": "54303",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.51916,
+              "lon": -88.01983
+            }
+          },
+          {
+            "facility": "Gundersen Lutheran Cancer Center at Gundersen Lutheran Medical Center",
+            "city": "La Crosse",
+            "state": "Wisconsin",
+            "zip": "54601",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.80136,
+              "lon": -91.23958
+            }
+          },
+          {
+            "facility": "University of Wisconsin Comprehensive Cancer Center",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "zip": "53792",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.07305,
+              "lon": -89.40123
+            }
+          },
+          {
+            "facility": "Cancer Care Center at Holy Family Memorial Medical Center",
+            "city": "Manitowoc",
+            "state": "Wisconsin",
+            "zip": "54221",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.08861,
+              "lon": -87.65758
+            }
+          },
+          {
+            "facility": "Green Bay Oncology, Limited - Oconto Falls",
+            "city": "Oconto Falls",
+            "state": "Wisconsin",
+            "zip": "54154",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.87388,
+              "lon": -88.14288
+            }
+          },
+          {
+            "facility": "Green Bay Oncology, Limited - Sturgeon Bay",
+            "city": "Sturgeon Bay",
+            "state": "Wisconsin",
+            "zip": "54235",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.83416,
+              "lon": -87.37704
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "18459175",
+            "type": "RESULT",
+            "citation": "Dreicer R, Li H, Cooney MM, Wilding G, Roth BJ; Eastern Cooperative Oncology Group. Phase 2 trial of pemetrexed disodium and gemcitabine in advanced urothelial cancer (E4802): a trial of the Eastern Cooperative Oncology Group. Cancer. 2008 Jun 15;112(12):2671-5. doi: 10.1002/cncr.23503."
+          },
+          {
+            "type": "RESULT",
+            "citation": "Li S, Dreicer R, Roth B, et al.: Phase II trial of pemetrexed disodium and gemcitabine in advanced carcinoma of the urothelium (E4802): a trial of the Eastern Cooperative Oncology Group. [Abstract] J Clin Oncol 25 (Suppl 18): A-5079, 254s, 2007."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001749",
+            "term": "Urinary Bladder Neoplasms"
+          },
+          {
+            "id": "D014523",
+            "term": "Urethral Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D014571",
+            "term": "Urologic Neoplasms"
+          },
+          {
+            "id": "D014565",
+            "term": "Urogenital Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D052776",
+            "term": "Female Urogenital Diseases"
+          },
+          {
+            "id": "D005261",
+            "term": "Female Urogenital Diseases and Pregnancy Complications"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D001745",
+            "term": "Urinary Bladder Diseases"
+          },
+          {
+            "id": "D014570",
+            "term": "Urologic Diseases"
+          },
+          {
+            "id": "D052801",
+            "term": "Male Urogenital Diseases"
+          },
+          {
+            "id": "D014522",
+            "term": "Urethral Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000093542",
+            "term": "Gemcitabine"
+          },
+          {
+            "id": "D000068437",
+            "term": "Pemetrexed"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          },
+          {
+            "id": "D003841",
+            "term": "Deoxycytidine"
+          },
+          {
+            "id": "D003562",
+            "term": "Cytidine"
+          },
+          {
+            "id": "D011741",
+            "term": "Pyrimidine Nucleosides"
+          },
+          {
+            "id": "D011743",
+            "term": "Pyrimidines"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D006147",
+            "term": "Guanine"
+          },
+          {
+            "id": "D007042",
+            "term": "Hypoxanthines"
+          },
+          {
+            "id": "D011688",
+            "term": "Purinones"
+          },
+          {
+            "id": "D011687",
+            "term": "Purines"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D005971",
+            "term": "Glutamates"
+          },
+          {
+            "id": "D024342",
+            "term": "Amino Acids, Acidic"
+          },
+          {
+            "id": "D000596",
+            "term": "Amino Acids"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D000600",
+            "term": "Amino Acids, Dicarboxylic"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256660"
+}

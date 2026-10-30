@@ -1,0 +1,285 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05019365",
+      "orgStudyIdInfo": {
+        "id": "GN19ON381"
+      },
+      "organization": {
+        "fullName": "University of Glasgow",
+        "class": "OTHER"
+      },
+      "briefTitle": "Investigating the Long-term Cardiac Sequelae of Trastuzumab Therapy",
+      "officialTitle": "Investigating the Long-term Cardiac Sequelae of Trastuzumab Therapy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-08",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-03-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-05-25",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2022-11-25",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2020-11-24",
+      "studyFirstSubmitQcDate": "2021-08-18",
+      "studyFirstPostDateStruct": {
+        "date": "2021-08-24",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-08-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-08-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Kenneth Mangion",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "University of Glasgow"
+      },
+      "leadSponsor": {
+        "name": "University of Glasgow",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "NHS Greater Glasgow and Clyde",
+          "class": "OTHER"
+        },
+        {
+          "name": "Tenovus Scotland",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The introduction of trastuzumab for the treatment of patients with human epidermal growth factor receptor 2 (HER2) positive breast cancer has had a major impact upon cancer outcomes. However, cardiac toxicity remains a substantial concern. Conventionally, this toxicity has been considered as a transient and reversible phenomenon occurring in the immediate peri-treatment period in around 20% of patients. Current guidelines recommend monitoring heart function during treatment and at completion. Recent registry data suggest that trastuzumab-related cardiotoxicity may also manifest in the longer-term. The nature and longer-term prevalence of left ventricular dysfunction with HER2 positive breast cancer treated with trastuzumab is unclear. The aim of this project is to define the prevalence of left ventricular dysfunction late after completion of trastuzumab therapy.",
+      "detailedDescription": "In 2014, there were 45,535 cases of breast cancer diagnosed in England and Wales(1). Predicted 10-year survival in 2015, from data by the National Statistics office was estimated at 81%(2). Breast cancer is the most common malignancy in Scotland and the second most common cause of death(3). Around 1 in 4 of these cancers overexpress human epidermal growth factor receptor 2 (HER2). For these patients, trastuzumab is a recommended and highly effective component of a chemotherapy regime that usually includes an anthracycline(4).\n\nUp to a quarter of patients treated with trastuzumab will develop cardiac dysfunction(5-7), conventionally defined as an asymptomatic \\>10% fall in left ventricular ejection fraction (LVEF) to an absolute LVEF \\<50%, or symptomatic heart failure(8). The risk is greater in patients who have received prior anthracyclines(9). Trastuzumab-related cardiotoxicity has, typically been considered to be a reversible phenomenon which recovers with interruption or cessation of treatment(10-14). The long-term benefit of cardioprotective treatment with angiotensin converting enzyme inhibitors or beta blockers when cardiotoxicity is detected is unclear(8) and these agents are often either not continued or not be prescribed at all.\n\nThe incidence of cardiac dysfunction or heart failure in the longer-term is not well-defined (12,14-20) . Clinical trials, which have excluded patients with baseline cardiovascular comorbidity, report no excess of cardiovascular events after the first two years(21-23) but observational studies report a much higher incidence of up to 23.8%(9,24). A landmark analysis of patients with a history of breast cancer (median follow-up 9 years) reported that patients treated with anthracycline chemotherapy and trastuzumab were three-fold more likely to develop heart failure than those treated with anthracycline alone. Importantly, these data were derived from a population censored at one year and reflect 'late' manifestations of cardiotoxicity rather than ongoing symptoms from an early diagnosis(25). This important study reported the incidence of symptomatic heart failure and not LV dysfunction which would be expected to be substantially more prevalent(26). Furthermore, the long-term implications of an apparently transient drop in LVEF during treatment are unclear.\n\nCardiovascular magnetic resonance (CMR) is the gold standard for the assessment of LV function(27). Previous work has demonstrated that CMR may be better able to identify small changes in LVEF related to chemotherapeutic agents(18,28,29). CMR has superior accuracy and precision when compared with echocardiography and allows myocardial tissue characterisation(30,31). My proposed CMR protocol will generate important insights into the long-term cardiac effects of trastuzumab and further novelty will be provided by the incorporation of tissue mapping methods(32) and LV strain assessment(33,34). Via collaboration with mathematicians I will also derive computational models."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Breast Cancer",
+        "HER2-positive Breast Cancer",
+        "Cardiotoxicity"
+      ],
+      "keywords": [
+        "Cardiotoxicity",
+        "HER2-positive Breast Cancer",
+        "Cardiac MRI"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "CASE_CONTROL",
+        "timePerspective": "RETROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 60,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Participants with previous HER2 breast cancer"
+        },
+        {
+          "label": "Healthy Volunteers"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Left Ventricular Systolic Dysfunction",
+          "description": "To define the prevalence of left ventricular dysfunction in patients who received trastuzumab chemotherapy at least 5 years previously",
+          "timeFrame": "Through study completion, on average <2years."
+        },
+        {
+          "measure": "Reduced Global Longitudinal Strain (global and segmental)",
+          "description": "GLS less than 2 standard deviations from normal reference range, using Displacement Encoding with Stimulated Echoes (DENSE) MRI.",
+          "timeFrame": "Through study completion, on average <2years."
+        },
+        {
+          "measure": "Reduced Circumferential Strain (global and segmental)",
+          "description": "GCS less than 2 standard deviations from normal reference range, using Displacement Encoding with Stimulated Echoes (DENSE) MRI.",
+          "timeFrame": "Through study completion, on average <2years."
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "T1 relaxation times (global and segmental)",
+          "description": "Left ventricular (LV) Parametric maps (T1, T2, Extracellular volume) will be assessed using a 16 segment model with bespoke MRI analysis software.",
+          "timeFrame": "Through study completion, on average <2years."
+        },
+        {
+          "measure": "T2 decay time (global and segmental)",
+          "description": "Left ventricular (LV) Parametric maps (T1, T2, Extracellular volume) will be assessed using a 16 segment model with bespoke MRI analysis software.",
+          "timeFrame": "Through study completion, on average <2years."
+        },
+        {
+          "measure": "Extracellular volume fraction (ECV) (global and segmental)",
+          "description": "Left ventricular (LV) Parametric maps (T1, T2, Extracellular volume) will be assessed using a 16 segment model with bespoke MRI analysis software.",
+          "timeFrame": "Through study completion, on average <2years."
+        },
+        {
+          "measure": "Presence of scar by late gadolinium enhancement (LGE)",
+          "description": "Late gadolinium enhancement will be assessed using a 16 segment model with bespoke MRI analysis software.",
+          "timeFrame": "Through study completion, on average <2years."
+        },
+        {
+          "measure": "Aortic Stiffness",
+          "description": "Aortic stiffness will be assessed using MRI sequences.",
+          "timeFrame": "Through study completion, on average <2years."
+        },
+        {
+          "measure": "ECG abnormalities",
+          "description": "Rhythm and heart rate will be recorded. Evidence of LVH, ST segment deviations and T wave flattening/inversion, and conduction abnormalities including QRS and QT interval will be recorded.",
+          "timeFrame": "Through study completion, on average <2years."
+        },
+        {
+          "measure": "Computational Modelling",
+          "description": "To identify novel biomarkers of heart pump function through the generation of computational models in patients who received trastuzumab and age matched healthy volunteers.",
+          "timeFrame": "Through study completion, on average <2years."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with HER2 positive breast cancer who received anthracycline-containing chemotherapy followed by trastuzumab at least 5 years prior to enrolment;\n* age \\>18 years.\n\nExclusion Criteria:\n\n* standard contraindication to CMR (ex: pacemaker, metallic implant);\n* pregnancy;\n* eGFR \\<30 ml/min/1.73 m2) past medical history of heart failure or left ventricular systolic dysfunction.\n\nHealthy Volunteers:\n\nTwenty age and sex matched healthy volunteers will undergo a similar CMR protocol.\n\nInclusion Criteria:\n\n* least 18 years (they will be matched to the study participants)\n* no prior medical history (including cardiovascular health problems, medication or systemic illness)\n\nExclusion Criteria:\n\n* standard contraindication to CMR;\n* suspected pregnancy",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients who were treated with anthracycline and adjuvant trastuzumab chemotherapy at least 5 years previously.\n\nAge matched healthy volunteers.",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Kenneth Mangion, MD PhD",
+          "role": "CONTACT",
+          "phone": "0141 232 7600",
+          "email": "kenneth.mangion@ggc.scot.nhs.uk"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Beatson West of Scotland Cancer Centre",
+          "status": "RECRUITING",
+          "city": "Glasgow",
+          "country": "United Kingdom",
+          "contacts": [
+            {
+              "name": "Kenneth Mangion, MD PhD",
+              "role": "CONTACT",
+              "email": "kenneth.mangion@ggc.scot.nhs.uk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.86515,
+            "lon": -4.25763
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED",
+      "description": "Data sharing will be on reasonable request to CI."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001943",
+          "term": "Breast Neoplasms"
+        },
+        {
+          "id": "D066126",
+          "term": "Cardiotoxicity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001941",
+          "term": "Breast Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D064420",
+          "term": "Drug-Related Side Effects and Adverse Reactions"
+        },
+        {
+          "id": "D064419",
+          "term": "Chemically-Induced Disorders"
+        },
+        {
+          "id": "D011832",
+          "term": "Radiation Injuries"
+        },
+        {
+          "id": "D014947",
+          "term": "Wounds and Injuries"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

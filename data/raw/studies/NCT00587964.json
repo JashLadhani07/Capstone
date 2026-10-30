@@ -1,0 +1,1069 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00587964",
+      "orgStudyIdInfo": {
+        "id": "04-061"
+      },
+      "organization": {
+        "fullName": "Memorial Sloan Kettering Cancer Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Phase II Trial of Stereotactic Radiosurgery Boost Following Surgical Resection for Brain Metastases",
+      "officialTitle": "Phase II Trial of Stereotactic Radiosurgery Boost Following Surgical Resection for Brain Metastases"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2004-06"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2009-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2009-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2007-12-26",
+      "studyFirstSubmitQcDate": "2008-01-07",
+      "studyFirstPostDateStruct": {
+        "date": "2008-01-08",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2015-12-14",
+      "resultsFirstSubmitQcDate": "2016-01-22",
+      "resultsFirstPostDateStruct": {
+        "date": "2016-02-22",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-01-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-02-22",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Memorial Sloan Kettering Cancer Center",
+        "class": "OTHER"
+      }
+    },
+    "descriptionModule": {
+      "briefSummary": "For patients who have one or two metastases in the brain, the tumor(s) can often be removed with surgery to relieve symptoms from the tumor(s) and to improve survival. However, about half of all patients who have the tumor(s) removed with surgery will develop regrowth (recurrence) of the tumor. To prevent this regrowth of tumor, some patients receive radiation to the entire brain (whole brain radiation) after surgery. This involves daily treatment for about two to three weeks, and may cause long-term neurological problems, such as memory loss.\n\nStereotactic radiosurgery (SRS) is sometimes used instead of surgery to treat brain metastasis. This involves the use of a special head frame and sophisticated computer programs that enable us to deliver a high dose of radiation to a small focused area of the brain in only one treatment.\n\nResearch has shown that the results of treatment with SRS are as good as surgical removal of the tumor. SRS and surgical resection are considered the standard options for the treatment of brain metastases. This Phase II clinical trial is studying the combination of these two techniques. The purpose of this study is to evaluate the use of SRS following surgical removal of brain metastases. The outcomes we will be looking at are tumor regrowth after treatment and side effects of treatment.",
+      "detailedDescription": "This is a phase II trial in patients with 1-2 brain metastases treated with surgical resection followed by stereotactic radiosurgery boost. Following surgical resection, patients would receive a stereotactic radiosurgery boost to the surgical bed, 2-8 weeks after surgery. A dose of 15 to 22 Gy would be delivered in a single fraction. Patient would be subsequently followed clinically and radiologically to watch for local control as well as toxicity. If a recurrence or new metastasis(es) is detected, further treatment may be given, consisting of chemotherapy, surgery, whole brain radiation therapy or stereotactic radiotherapy."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Brain Metastasis",
+        "Bladder Cancer",
+        "Breast Cancer",
+        "Cervical Cancer",
+        "Colon Cancer",
+        "HEENT Cancer",
+        "Lung Cancer",
+        "Melanoma",
+        "Pancreatic Cancer",
+        "Prostate Cancer",
+        "Rectal Cancer",
+        "Sarcoma",
+        "Testicular Cancer"
+      ],
+      "keywords": [
+        "Cancer",
+        "Brain Metastasis",
+        "Radiosurgery",
+        "Bladder cancer",
+        "Breast cancer",
+        "Cervical cancer",
+        "Colon cancer",
+        "HEENT cancer",
+        "Lung cancer",
+        "Melanoma",
+        "Pancreatic cancer",
+        "Prostate cancer",
+        "Rectal cancer",
+        "Sarcoma",
+        "Testicular cancer",
+        "Radiation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 51,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Radiation: Stereotactic Radiosurgery"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "Stereotactic Radiosurgery",
+          "description": "All patients would undergo craniotomy and the goal of surgery in all cases would be total removal of the metastases. The patient will initially receive premedication with 0.5- 1mg of Ativan orally prior to SRS procedure. Subsequently, the patient will have the stereotactic head ring placement under local anesthesia. A peripheral IV will be placed for administration of the intravenous contrast. Thin-section CT images will be obtained with intravenous contrast with head ring in place for the purpose of treatment planning.\n\nA fusion program will be used to combine the recently obtained MRI images along with the CT scans. The target volume as well as the critical structures will be contoured. SRS would be delivered using either the Brain Lab or Radionics Radiosurgery planning and delivery system. Patients would receive a single treatment ranging from 15-22 GY.",
+          "armGroupLabels": [
+            "Treatment"
+          ],
+          "otherNames": [
+            "SRS"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Local Control",
+          "description": "following a combination of stereotactic radiosurgery and surgical resection for brain metastases; to determine the incidence of the brain injury following the combination therapy. Local control: Absence of radiographic evidence of tumor at the site of therapy constitutes local control of the treated disease.Recurrence in the treated region: The reappearance of tumor on any MRI or CT scan at the site of treatment constitutes recurrent disease at the treated region. Recurrence outside the treated region: The development of new intracranial metastatic foci or leptomeningeal disease constitutes recurrence outside the treated region. Leptomeningeal disease will be documented by a positive CSF cytology, abnormal myelogram or spinal MRI.\n\nNo evidence of disease: Absence of clinical or radiographic evidence of tumor both at the site of therapy and elsewhere in the brain constitutes no evidence of disease.",
+          "timeFrame": "1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed malignancy with the presence of one or two intraparenchymal brain metastases (newly diagnosed patients may be registered based on radiologic confirmation if pathology is unavailable)\n* Age \u2265 18 years\n* Karnofsky performance status \u2265 70\n* Neurologic Function Status 0-2\n* Patients may have extracranial sites of metastatic disease\n* Adequate bone marrow reserve (hemoglobin \u2265 8 grams, absolute neutrophil count \u2265 1000/mm3, platelets \u2265 50,000/mm3)\n* Patient must sign a study specific informed consent form.\n\nExclusion Criteria:\n\n* Major medical illness including poor cardiac, pulmonary or renal status which would result in patient being a high risk candidate for neurosurgical procedure\n* Inability to obtain histologic proof of malignancy\n* Patients with leptomeningeal metastases documented by MRI or CSF evaluation Patients with metastases within 10 mm of the optic apparatus so that some portion of the optic nerve or chiasm would be included in the high dose SRS boost field\n* Patients with metastases in the brainstem, midbrain, pons, or medulla\n* Patients with small cell lung cancer, germ-cell tumors, lymphoma, leukemia and multiple myeloma are not eligible\n* Younger than 18 years of age\n* Karnofsky performance status of \u2264 60\n* Prior history of whole brain radiation therapy\n* Concomitant use of chemotherapy or targeted biological therapy (within a week of the SRS treatment)\n* \u2265 3 metastases in the brain\n* Allergy to both CT and MR contrast dyes\n* Platelet count of \\< 100,000 or coagulation disorders that cannot be corrected or would render the surgery a high-risk procedure",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Kathryn Beal, MD",
+          "affiliation": "Memorial Sloan Kettering Cancer Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Memorial Sloan-Kettering Cancer Center",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "Memorial Sloan-Kettering web site",
+          "url": "http://www.mskcc.org"
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Treatment - Stereotactic Radiosurgery",
+          "description": "Stereotactic Radiosurgery: All patients would undergo craniotomy and the goal of surgery in all cases would be total removal of the metastases."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "51"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "39"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Patient found to be ineligible",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Patient did not receive intervention",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "Progression of Disease",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Treatment - Stereotactic Radiosurgery",
+          "description": "Stereotactic Radiosurgery: All patients would undergo craniotomy and the goal of surgery in all cases would be total removal of the metastases."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "51"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Local Control",
+          "description": "following a combination of stereotactic radiosurgery and surgical resection for brain metastases; to determine the incidence of the brain injury following the combination therapy. Local control: Absence of radiographic evidence of tumor at the site of therapy constitutes local control of the treated disease.Recurrence in the treated region: The reappearance of tumor on any MRI or CT scan at the site of treatment constitutes recurrent disease at the treated region. Recurrence outside the treated region: The development of new intracranial metastatic foci or leptomeningeal disease constitutes recurrence outside the treated region. Leptomeningeal disease will be documented by a positive CSF cytology, abnormal myelogram or spinal MRI.\n\nNo evidence of disease: Absence of clinical or radiographic evidence of tumor both at the site of therapy and elsewhere in the brain constitutes no evidence of disease.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment - Stereotactic Radiosurgery",
+              "description": "Stereotactic Radiosurgery: All patients would undergo craniotomy and the goal of surgery in all cases would be total removal of the metastases."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Local Control",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "No Evidence of Disease (NED)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Progression of Disease (POD)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Relapse/Recurrence",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Treatment - Stereotactic Radiosurgery",
+          "description": "Stereotactic Radiosurgery: All patients would undergo craniotomy and the goal of surgery in all cases would be total removal of the metastases.",
+          "seriousNumAffected": 16,
+          "seriousNumAtRisk": 51,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 51
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Blood disorder",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Bone pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Ischemia cerebrovascular",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Confusion",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "General symptom",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Radiation oesophagitis",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Hypomagnesemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Neurological disorder",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Peripheral motor neuropathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Platelets count decrease",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Pleural effusion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Respiratory disorder",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Seizure",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Syncope",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Thrombosis",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Vision-blurred vision",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 51
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTC-2.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 51
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Kathryn Beal",
+        "organization": "Memorial Sloan Kettering Cancer Center",
+        "email": "bealk@mskcc.org",
+        "phone": "212-639-5159"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001932",
+          "term": "Brain Neoplasms"
+        },
+        {
+          "id": "D001749",
+          "term": "Urinary Bladder Neoplasms"
+        },
+        {
+          "id": "D001943",
+          "term": "Breast Neoplasms"
+        },
+        {
+          "id": "D002583",
+          "term": "Uterine Cervical Neoplasms"
+        },
+        {
+          "id": "D003110",
+          "term": "Colonic Neoplasms"
+        },
+        {
+          "id": "D008175",
+          "term": "Lung Neoplasms"
+        },
+        {
+          "id": "D008545",
+          "term": "Melanoma"
+        },
+        {
+          "id": "D010190",
+          "term": "Pancreatic Neoplasms"
+        },
+        {
+          "id": "D011471",
+          "term": "Prostatic Neoplasms"
+        },
+        {
+          "id": "D012004",
+          "term": "Rectal Neoplasms"
+        },
+        {
+          "id": "D012509",
+          "term": "Sarcoma"
+        },
+        {
+          "id": "D013736",
+          "term": "Testicular Neoplasms"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D016543",
+          "term": "Central Nervous System Neoplasms"
+        },
+        {
+          "id": "D009423",
+          "term": "Nervous System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014571",
+          "term": "Urologic Neoplasms"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D001745",
+          "term": "Urinary Bladder Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        },
+        {
+          "id": "D001941",
+          "term": "Breast Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D014594",
+          "term": "Uterine Neoplasms"
+        },
+        {
+          "id": "D005833",
+          "term": "Genital Neoplasms, Female"
+        },
+        {
+          "id": "D002577",
+          "term": "Uterine Cervical Diseases"
+        },
+        {
+          "id": "D014591",
+          "term": "Uterine Diseases"
+        },
+        {
+          "id": "D005831",
+          "term": "Genital Diseases, Female"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D015179",
+          "term": "Colorectal Neoplasms"
+        },
+        {
+          "id": "D007414",
+          "term": "Intestinal Neoplasms"
+        },
+        {
+          "id": "D005770",
+          "term": "Gastrointestinal Neoplasms"
+        },
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D003108",
+          "term": "Colonic Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        },
+        {
+          "id": "D012142",
+          "term": "Respiratory Tract Neoplasms"
+        },
+        {
+          "id": "D013899",
+          "term": "Thoracic Neoplasms"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D018358",
+          "term": "Neuroendocrine Tumors"
+        },
+        {
+          "id": "D017599",
+          "term": "Neuroectodermal Tumors"
+        },
+        {
+          "id": "D009373",
+          "term": "Neoplasms, Germ Cell and Embryonal"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009380",
+          "term": "Neoplasms, Nerve Tissue"
+        },
+        {
+          "id": "D018326",
+          "term": "Nevi and Melanomas"
+        },
+        {
+          "id": "D012878",
+          "term": "Skin Neoplasms"
+        },
+        {
+          "id": "D004701",
+          "term": "Endocrine Gland Neoplasms"
+        },
+        {
+          "id": "D010182",
+          "term": "Pancreatic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D005834",
+          "term": "Genital Neoplasms, Male"
+        },
+        {
+          "id": "D005832",
+          "term": "Genital Diseases, Male"
+        },
+        {
+          "id": "D011469",
+          "term": "Prostatic Diseases"
+        },
+        {
+          "id": "D012002",
+          "term": "Rectal Diseases"
+        },
+        {
+          "id": "D018204",
+          "term": "Neoplasms, Connective and Soft Tissue"
+        },
+        {
+          "id": "D013733",
+          "term": "Testicular Diseases"
+        },
+        {
+          "id": "D006058",
+          "term": "Gonadal Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016634",
+          "term": "Radiosurgery"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011878",
+          "term": "Radiotherapy"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D013238",
+          "term": "Stereotaxic Techniques"
+        },
+        {
+          "id": "D019635",
+          "term": "Neurosurgical Procedures"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,278 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07883577",
+      "orgStudyIdInfo": {
+        "id": "BP46447"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2026-526150-14-00",
+          "type": "CTIS"
+        }
+      ],
+      "organization": {
+        "fullName": "Hoffmann-La Roche",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of RO7821657 in Participants With Solid Tumors",
+      "officialTitle": "A First In-Human, Multicenter, Phase I Clinical Study of RO7821657, a Protease Activated TCB Antibody That Targets CEACAM5, in Participants With Locally Advanced and/or Metastatic Solid Tumors"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-10",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2026-10-26",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2030-05-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2030-05-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-10-14",
+      "studyFirstSubmitQcDate": "2026-10-14",
+      "studyFirstPostDateStruct": {
+        "date": "2026-10-20",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-10-14",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-10-20",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Hoffmann-La Roche",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The aim of this study is to characterize the safety and tolerability of RO7821657, describe its pharmacokinetics (PK), and evaluate pharmacodynamic and biomarker effects to support selection of the recommended Phase 2 dose(s) (RP2D\\[s\\])\n\nThe study consists of two parts, namely Part 1 and Part 2:\n\nPart 1: Evaluation of RO7821657 as monotherapy in participants with microsatellite-stable (MSS) colorectal cancer (CRC).\n\nPart 2: Evaluation of RO7821657 as monotherapy in participants with non-squamous non-small cell lung cancer (NSCLC)"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Locally Advanced or Metastatic Solid Tumors"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 405,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Part 1A: Dose Escalation",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with MSS CRC will receive multiple doses of RO7821657 in single and multiple participant cohorts.",
+          "interventionNames": [
+            "Drug: RO7821657"
+          ]
+        },
+        {
+          "label": "Part 1B: Backfill Cohorts",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with MSS CRC will receive RO7821657 at dosing regimen selected based on data from Part 1A.",
+          "interventionNames": [
+            "Drug: RO7821657"
+          ]
+        },
+        {
+          "label": "Part 1C: Dose Expansion/Optimization",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with MSS CRC will receive RO7821657 at dosing regimens selected based on data from Parts 1A and 1B.",
+          "interventionNames": [
+            "Drug: RO7821657"
+          ]
+        },
+        {
+          "label": "Part 2A: Abbreviated Dose Escalation",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with non-squamous NSCLC will receive multiple doses of RO7821657 in multiple participant cohorts.",
+          "interventionNames": [
+            "Drug: RO7821657"
+          ]
+        },
+        {
+          "label": "Part 2B: Dose Expansion/Optimization",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with non-squamous NSCLC will receive RO7821657 at dosing regimen selected based on data from Part 2A.",
+          "interventionNames": [
+            "Drug: RO7821657"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "RO7821657",
+          "description": "Participants will receive RO7821657 as per the schedule described in the protocol.",
+          "armGroupLabels": [
+            "Part 1A: Dose Escalation",
+            "Part 1B: Backfill Cohorts",
+            "Part 1C: Dose Expansion/Optimization",
+            "Part 2A: Abbreviated Dose Escalation",
+            "Part 2B: Dose Expansion/Optimization"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Part 1: Incidence and Severity of Adverse Events (AEs)",
+          "description": "AEs will be graded according to National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Any events of cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) will be graded based on the American Society for Transplantation and Cellular Therapy (ASTCT) criteria",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Part 2: Incidence and Severity of Adverse Events (AEs)",
+          "description": "AEs will be graded according to NCI CTCAE v5.0. Any events of CRS and ICANS will be graded based on the ASTCT criteria",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Part 1A: Nature and Frequency of Dose-limiting Toxicities (DLTs)",
+          "timeFrame": "From Cycle 1 (C1) Day 1 to the last day in C1 (Cycle 1 = 14-35 days)"
+        },
+        {
+          "measure": "Part 2A: Nature and Frequency of DLTs",
+          "timeFrame": "From C1 Day 1 to the last day in C1 (Cycle 1 = 14-35 days)"
+        },
+        {
+          "measure": "Parts 1A and 1B: Recommended Phase 2 Dose (RP2D) Range of RO7821657",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Part 2A: RP2D Range of RO7821657",
+          "timeFrame": "Up to approximately 27 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Parts 1 and 2: Serum Concentration of RO7821657",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Parts 1 and 2: Objective Response Rate (ORR)",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Parts 1 and 2: Disease Control Rate (DCR)",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Parts 1 and 2: Duration of Response (DoR)",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Parts 1 and 2: Progression-free Survival (PFS)",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Parts 1 and 2: PFS Rate",
+          "timeFrame": "At 6 months"
+        },
+        {
+          "measure": "Parts 1 and 2: Overall Survival (OS) Rate",
+          "timeFrame": "At 6 months"
+        },
+        {
+          "measure": "Parts 1 and 2: Correlation of Baseline Carcinoembryonic Antigen-related Cell Adhesion Molecule 5 (CEACAM5) Tumor Expression With Clinical Activity",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Part 1B: Cluster of Differentiation 8 (CD8) Expression in Tumor Tissue",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Parts 1C and 2B: Percentage of Participants With Presence, Frequency, Severity and Interference of Symptomatic Treatment Toxicities as Assessed by NCI Patient-reported Outcomes (PRO)-CTCAE",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Parts 1C and 2B: Change From Baseline in Symptomatic Treatment Toxicities as Assessed by NCI PRO-CTCAE",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Parts 1C and 2B: Percentage of Participants Troubled by Treatment Symptoms, as Assessed by Single Item European Organisation for Research and Treatment of Cancer Item Library 46 (EORTC IL46)",
+          "timeFrame": "Up to approximately 27 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Life expectancy estimated by the Investigator to be \u226512 weeks.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0-1.\n* Presence of measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) v1.1; previously irradiated lesions are considered measurable if progression has been demonstrated in such lesions after the irradiation.\n* Availability of archival tumor tissue or tissue obtained from a fresh biopsy at screening if formalin-fixed paraffin-embedded \\[FFPE\\]-preserved archival tissue is not available. The archival tumor tissue should come from a core biopsy, a punch biopsy, an excisional biopsy, or a surgical specimen. Lymph node biopsy, bone biopsy (unless from soft tissue), or fine needle aspiration are unacceptable for submission. Lesions that are intended to be biopsied should not be counted as target lesions.\n* Adequate cardiovascular function:\n\nNew York Heart Association (NYHA) Heart Failure Class \u2264 1.\n\n* Agreement to adhere to the contraception requirements.\n\nExclusion Criteria:\n\n* Participants with active Central Nervous System (CNS) metastases.\n* Any unresolved toxicities from prior therapy, i.e., radiotherapy, chemotherapy, targeted or checkpoint inhibitor therapy or surgical procedure, greater than CTCAE Grade 1 at the time of starting study treatment, except for alopecia and Grade 2 neuropathy.\n\n  a) Stable endocrine AEs managed with hormone replacement are permitted, including hypothyroidism on stable thyroid hormone replacement.\n* History of interstitial pulmonary disease, drug-induced pneumonitis, or evidence of active pneumonitis on screening computed tomography (CT) scan.\n* Participants with pulmonary miliary metastatic pattern (innumerable small lesions) or pulmonary lymphangitic carcinomatosis.\n* Active autoimmune disease that has required systemic treatment (except replacement treatment) within the last 2 years or any disease requiring immunosuppressive therapy while on study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Reference Study ID Number: BP46447 https://forpatients.roche.com/",
+          "role": "CONTACT",
+          "phone": "888-662-6728",
+          "email": "global-roche-genentech-trials@gene.com"
+        },
+        {
+          "name": "Fastest response: use the inquiry form. No email attachments. https://www.gene.com/contact-us/submit-medical-inquiry",
+          "role": "CONTACT"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Clinical Trials",
+          "affiliation": "Hoffmann-La Roche",
+          "role": "STUDY_DIRECTOR"
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "Please use this form to submit your questions for a faster response: https://www.gene.com/contact-us/submit-medical-inquiry. Do not include or attach any medical records when emailing or completing the form. A nurse will respond within 24 business hours.",
+          "url": "https://www.gene.com/contact-us/submit-medical-inquiry"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    }
+  },
+  "hasResults": false
+}

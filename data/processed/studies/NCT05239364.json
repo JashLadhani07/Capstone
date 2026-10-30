@@ -1,0 +1,472 @@
+{
+  "nct_id": "NCT05239364",
+  "title": "Ablation of CONseCutive atriaL Tachycardia gUided by Ultra-high-DEnsity Mapping",
+  "sponsor": "Evangelical Hospital D\u00fcsseldorf",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "Heart Arrhythmia",
+    "Heart Diseases",
+    "Arrhythmias, Cardiac",
+    "Atrial Tachycardia"
+  ],
+  "interventions": [
+    "Catheter ablation"
+  ],
+  "primary_outcome": "Recurrence of any sustained arrhythmia (>30 sec.)",
+  "secondary_outcomes": [
+    "Inducibility of atrial tachycardia (AT) after ablation of clinical/primary AT (partial success)",
+    "Predictability of secondary AT by analysis of clinical AT map and voltage map",
+    "Procedure duration time",
+    "Fluoroscopy time",
+    "Total radiofrequency application time",
+    "Ablated area (cm2)",
+    "Number of blocked lines",
+    "Area of low voltage in sinus map (cm2)"
+  ],
+  "start_date": "2020-12-22",
+  "completion_date": "2027-06",
+  "results_posted": false,
+  "enrollment": 100,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05239364",
+        "orgStudyIdInfo": {
+          "id": "CONCLUDE"
+        },
+        "organization": {
+          "fullName": "Evangelical Hospital D\u00fcsseldorf",
+          "class": "OTHER"
+        },
+        "briefTitle": "Ablation of Consecutive Atrial Tachycardia",
+        "officialTitle": "Ablation of CONseCutive atriaL Tachycardia gUided by Ultra-high-DEnsity Mapping",
+        "acronym": "CONCLUDE"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-04",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2020-12-22",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-06",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-06",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2022-01-10",
+        "studyFirstSubmitQcDate": "2022-02-03",
+        "studyFirstPostDateStruct": {
+          "date": "2022-02-14",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-04-27",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-04-30",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Christian Meyer",
+          "investigatorTitle": "Prof. Dr. Christian Meyer",
+          "investigatorAffiliation": "Evangelical Hospital D\u00fcsseldorf"
+        },
+        "leadSponsor": {
+          "name": "Evangelical Hospital D\u00fcsseldorf",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Ablation of consecutive atrial tachycardia (AT) after ablation of atrial fibrillation (AF) or cardiac surgery can be challenging due to complex substrate and AT mechanisms. A substantial portion of patients is known to show various tachycardias and recurrences occur in a noticeable number of cases. With the availability of novel ultra-high-density mapping techniques characterization and understanding of AT mechanisms and underlying substrate can be improved. Aim of this prospective, multi-center, randomized study is to compare a standard AT ablation approach versus minimalized ablation of the clinical AT in regards to arrhythmia free survival."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Heart Arrhythmia",
+          "Heart Diseases",
+          "Arrhythmias, Cardiac",
+          "Atrial Tachycardia"
+        ],
+        "keywords": [
+          "Atrial fibrillation",
+          "Atrial tachycardia",
+          "Pulmonary vein isolation",
+          "Electroanatomical mapping",
+          "High density mapping"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 100,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Standard approach",
+            "type": "EXPERIMENTAL",
+            "description": "Patients will receive a standard approach for ablation of atrial tachycardia.",
+            "interventionNames": [
+              "Procedure: Catheter ablation"
+            ]
+          },
+          {
+            "label": "Minimalized approach",
+            "type": "EXPERIMENTAL",
+            "description": "Patients will receive a minimalized approach for ablation of atrial tachycardia.",
+            "interventionNames": [
+              "Procedure: Catheter ablation"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Catheter ablation",
+            "description": "Catheter-based ablation of arrhythmias using radiofrequency.",
+            "armGroupLabels": [
+              "Minimalized approach",
+              "Standard approach"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Recurrence of any sustained arrhythmia (>30 sec.)",
+            "timeFrame": "1 year"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Inducibility of atrial tachycardia (AT) after ablation of clinical/primary AT (partial success)",
+            "description": "Categorical variable (yes/no)",
+            "timeFrame": "Intraprocedural"
+          },
+          {
+            "measure": "Predictability of secondary AT by analysis of clinical AT map and voltage map",
+            "timeFrame": "Intraprocedural"
+          },
+          {
+            "measure": "Procedure duration time",
+            "timeFrame": "Intraprocedural"
+          },
+          {
+            "measure": "Fluoroscopy time",
+            "timeFrame": "intraprocedural"
+          },
+          {
+            "measure": "Total radiofrequency application time",
+            "timeFrame": "intraprocedural"
+          },
+          {
+            "measure": "Ablated area (cm2)",
+            "timeFrame": "intraprocedural"
+          },
+          {
+            "measure": "Number of blocked lines",
+            "timeFrame": "intraprocedural"
+          },
+          {
+            "measure": "Area of low voltage in sinus map (cm2)",
+            "timeFrame": "Intraprocedural"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Consecutive AT subsequent to prior AF ablation procedure or cardiac surgery\n* Surface ECG-documentation of AT as primary clinical arrhythmia\n* ECG indicating stable, map-able AT (stable activation sequence, and CL stability) with cycle length \u2265 200ms\n\nExclusion Criteria:\n\n* \\< 18 years\n* No previous atrial fibrillation ablation procedure or cardiac surgery\n* Pregnant women or women of childbearing potential without a negative pregnancy test within 48 hours prior to treatment\n* History of hemorrhagic diathesis or other coagulopathies\n* Contraindications for oral anticoagulation\n* Hyper- or hypothyroidism\n* Has any condition that would make participation not be in the best interest of the subject",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Christian Meyer, MD",
+            "role": "CONTACT",
+            "phone": "00492119191855",
+            "email": "christian.meyer@evk-duesseldorf.de"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Christian Meyer, MD",
+            "affiliation": "Evangelic Hospital D\u00fcsseldorf",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Asklepios St. Georg",
+            "status": "RECRUITING",
+            "city": "Hamburg",
+            "state": "Free and Hanseatic City of Hamburg",
+            "country": "Germany",
+            "contacts": [
+              {
+                "name": "Stephan Willems, MD",
+                "role": "CONTACT"
+              }
+            ],
+            "geoPoint": {
+              "lat": 53.55073,
+              "lon": 9.99302
+            }
+          },
+          {
+            "facility": "Evangelic Hospital D\u00fcsseldorf",
+            "status": "RECRUITING",
+            "city": "D\u00fcsseldorf",
+            "state": "North Rhine-Westfalia",
+            "zip": "40217",
+            "country": "Germany",
+            "contacts": [
+              {
+                "name": "Christian Meyer, MD",
+                "role": "CONTACT",
+                "phone": "00492119191855",
+                "email": "christian.meyer@evk-duesseldorf.de"
+              },
+              {
+                "name": "Katharina Scherschel, PhD",
+                "role": "CONTACT",
+                "email": "katharina.scherschel@evk-duesseldorf.de"
+              },
+              {
+                "name": "Christian Meyer, MD",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Ernan Zhu, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Fares A Alken, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Bahram Wafaisade, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Kristin Risse, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Ioana Reismann, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Lars Kutsch, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Ann-Kathrin Kahle, MD",
+                "role": "SUB_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 51.22319,
+              "lon": 6.77927
+            }
+          },
+          {
+            "facility": "Vivantes Klinikum Am Urban Berlin",
+            "status": "RECRUITING",
+            "city": "Berlin",
+            "country": "Germany",
+            "contacts": [
+              {
+                "name": "Niels C Ewertsen, MD",
+                "role": "CONTACT"
+              }
+            ],
+            "geoPoint": {
+              "lat": 52.52437,
+              "lon": 13.41053
+            }
+          },
+          {
+            "facility": "Evangelic Hospital Hagen-Haspe",
+            "status": "RECRUITING",
+            "city": "Hagen",
+            "country": "Germany",
+            "contacts": [
+              {
+                "name": "Harilaos Bogossian, MD",
+                "role": "CONTACT"
+              }
+            ],
+            "geoPoint": {
+              "lat": 51.36081,
+              "lon": 7.47168
+            }
+          },
+          {
+            "facility": "St\u00e4dtisches Klinikum Karlsruhe",
+            "status": "RECRUITING",
+            "city": "Karlsruhe",
+            "country": "Germany",
+            "contacts": [
+              {
+                "name": "Armin Luik, MD",
+                "role": "CONTACT"
+              }
+            ],
+            "geoPoint": {
+              "lat": 49.00937,
+              "lon": 8.40444
+            }
+          },
+          {
+            "facility": "Universit\u00e4tsklinikum Schleswig Holstein",
+            "status": "RECRUITING",
+            "city": "Kiel",
+            "country": "Germany",
+            "contacts": [
+              {
+                "name": "Evgeny Lyan, MD",
+                "role": "CONTACT"
+              }
+            ],
+            "geoPoint": {
+              "lat": 54.32133,
+              "lon": 10.13489
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "41435855",
+            "type": "BACKGROUND",
+            "citation": "Meyer C, Kahle AK, Dagres N, Derval N, Dewland TA, Drago F, Eckardt L, Frontera A, Gerstenfeld EP, Hardy C, Jais P, Kalman J, Kistler PM, Martin C, Purerfellner H, Takigawa M, Wong T, Zeppenfeld K. Management of patients with atrial tachycardia: a clinical consensus statement of the European Heart Rhythm Association (EHRA) of the ESC, endorsed by the Heart Rhythm Society (HRS), the Asia Pacific Heart Rhythm Society (APHRS), the Latin American Heart Rhythm Society (LAHRS), and the Association for European Paediatric and Congenital Cardiology (AEPC). Europace. 2025 Dec 1;27(12):euaf324. doi: 10.1093/europace/euaf324."
+          },
+          {
+            "pmid": "32748442",
+            "type": "BACKGROUND",
+            "citation": "Jungen C, Akbulak R, Kahle AK, Eickholt C, Schaeffer B, Scherschel K, Dinshaw L, Muenkler P, Schleberger R, Nies M, Gunawardene MA, Klatt N, Hartmann J, Merbold L, Jularic M, Willems S, Meyer C. Outcome after tailored catheter ablation of atrial tachycardia using ultra-high-density mapping. J Cardiovasc Electrophysiol. 2020 Oct;31(10):2645-2652. doi: 10.1111/jce.14703. Epub 2020 Aug 11."
+          },
+          {
+            "pmid": "32703564",
+            "type": "BACKGROUND",
+            "citation": "Derval N, Takigawa M, Frontera A, Mahida S, Konstantinos V, Denis A, Duchateau J, Pillois X, Yamashita S, Berte B, Thompson N, Hooks D, Pambrun T, Sacher F, Hocini M, Bordachar P, Jais P, Haissaguerre M. Characterization of Complex Atrial Tachycardia in Patients With Previous Atrial Interventions Using High-Resolution Mapping. JACC Clin Electrophysiol. 2020 Jul;6(7):815-826. doi: 10.1016/j.jacep.2020.03.004. Epub 2020 May 27."
+          },
+          {
+            "pmid": "31400216",
+            "type": "BACKGROUND",
+            "citation": "Meyer C. High-density mapping-based ablation strategies of cardiac rhythm disorders: the RHYTHMIA experience at new horizons. Europace. 2019 Aug 1;21(Supplement_3):iii7-iii10. doi: 10.1093/europace/euz154. No abstract available."
+          },
+          {
+            "pmid": "31004777",
+            "type": "BACKGROUND",
+            "citation": "Takigawa M, Martin CA, Derval N, Denis A, Vlachos K, Kitamura T, Frontera A, Martin R, Cheniti G, Lam A, Bourier F, Thompson N, Wolf M, Massoulie G, Escande W, Andre C, Zeng LJ, Nakatani Y, Roux JR, Duchateau J, Pambrun T, Sacher F, Cochet H, Hocini M, Haissaguerre M, Jais P. Insights from atrial surface activation throughout atrial tachycardia cycle length: A new mapping tool. Heart Rhythm. 2019 Nov;16(11):1652-1660. doi: 10.1016/j.hrthm.2019.04.029. Epub 2019 Apr 18."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001145",
+            "term": "Arrhythmias, Cardiac"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D001281",
+            "term": "Atrial Fibrillation"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D017115",
+            "term": "Catheter Ablation"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D000078703",
+            "term": "Radiofrequency Ablation"
+          },
+          {
+            "id": "D000078702",
+            "term": "Radiofrequency Therapy"
+          },
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          },
+          {
+            "id": "D055011",
+            "term": "Ablation Techniques"
+          },
+          {
+            "id": "D013514",
+            "term": "Surgical Procedures, Operative"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:39:11.509591"
+}

@@ -1,0 +1,379 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05036109",
+      "orgStudyIdInfo": {
+        "id": "2021-0320"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2021-09193",
+          "type": "OTHER",
+          "domain": "NCI-CTRP Clinical Trials Registry"
+        }
+      ],
+      "organization": {
+        "fullName": "M.D. Anderson Cancer Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "DAILY: Vitamin D, Aspirin, ExercIse, Low Saturated Fat Foods StudY in Colorectal Cancer Patients With Minimal Residual Disease",
+      "officialTitle": "DAILY: Vitamin D, Aspirin, ExercIse, Low Saturated Fat Foods StudY in Colorectal Cancer Patients With Minimal Residual Disease"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-10-12",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-02-04",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2026-02-04",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-08-25",
+      "studyFirstSubmitQcDate": "2021-08-30",
+      "studyFirstPostDateStruct": {
+        "date": "2021-09-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-02-06",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-02-10",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "M.D. Anderson Cancer Center",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To learn if lifestyle changes (such as diet and exercise) combined with daily aspirin and vitamin D can affect the likelihood of advanced colorectal cancer coming back (recurring)",
+      "detailedDescription": "Primary Objective:\n\nTo estimate the ctDNA clearance rate of colorectal cancer participants with minimal residual disease after 3 months of optimal lifestyle interventions\n\nSecondary Objectives:\n\n* To evaluate the dynamics of ctDNA allele fractions after 3 months of optimal lifestyle interventions and every 3 months thereafter up to 12 months\n* To estimate the recurrence rate at 1 year in subjects who complete 3 months of optimal lifestyle interventions"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Colorectal Cancer",
+        "Colon Cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 16,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Aspirin, Vitamin D",
+          "type": "OTHER",
+          "description": "by mouth every day for up to 90 days",
+          "interventionNames": [
+            "Drug: Aspirin",
+            "Drug: Vitamin D",
+            "Dietary Supplement: Diet",
+            "Other: Physical Activity",
+            "Behavioral: Behavioral Support Counseling Sessions"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Aspirin",
+          "description": "by mouth every day for up to 90 days",
+          "armGroupLabels": [
+            "Aspirin, Vitamin D"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Vitamin D",
+          "description": "by mouth every day for up to 90 days",
+          "armGroupLabels": [
+            "Aspirin, Vitamin D"
+          ]
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Diet",
+          "description": "Patients will receive counseling promoting a plant-based diet and avoidance of Western dietary patterns in a one on one session with a licensed dietitian prior to day 1.",
+          "armGroupLabels": [
+            "Aspirin, Vitamin D"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Physical Activity",
+          "description": "The exercise goal is to increase recreational physical activity from baseline by at least 10 MET hours per week, which is equivalent to 150 minutes of moderate activity weekly",
+          "armGroupLabels": [
+            "Aspirin, Vitamin D"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Behavioral Support Counseling Sessions",
+          "description": "Patients will undergo a one-on-one counseling session prior to day 1",
+          "armGroupLabels": [
+            "Aspirin, Vitamin D"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "To estimate the ctDNA clearance rate of colorectal cancer patients with minimal residual disease",
+          "timeFrame": "through study completion, an average of 1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years at the time of study entry\n* ECOG 0-1\n* Histologically documented high-risk stage II, stage III, or stage IV colorectal adenocarcinoma with no evidence of disease following definitive local therapy (including surgical resection or ablation)\n* No radiographic evidence of disease by contrast enhanced CT chest/abdomen/pelvis\n* Presence of detectable ctDNA mutation that matches mutations found in tumor tissue\n* Completion of all standard of care adjuvant therapy\n* Platelet count \\>50,000\n* Ability to give informed consent\n* Ability to complete all questionnaires involved in study\n\nExclusion Criteria:\n\n* Concurrent malignancy under active treatment\n* Known active gastrointestinal bleeding or peptic ulcer disease\n* Known hypersensitivity to vitamin D or aspirin\n* CrCl\\<30 mL/min within 30 days of starting the intervention\n* Current usage of therapeutic anticoagulation (warfarin, Eliquis, Xarelto)\n* Inability to safely participate in physical activity in the opinion of the treating oncologist\n* Pregnant or nursing women. N.B.: urine pregnancy test will be administered as part of the screening process.\n* Persistent hypercalcemia or conditions predisposing to hypercalcemia (i.e., hyperparathyroidism)\n* Known symptomatic genitourinary stones",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Alisha Bent, MD",
+          "affiliation": "M.D. Anderson Cancer Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "M D Anderson Cancer Center",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "M D Anderson Cancer Center",
+          "url": "http://www.mdanderson.org"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2024-06-05",
+          "uploadDate": "2025-02-20T17:55",
+          "filename": "ICF_000.pdf",
+          "size": 729518
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015179",
+          "term": "Colorectal Neoplasms"
+        },
+        {
+          "id": "D003110",
+          "term": "Colonic Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007414",
+          "term": "Intestinal Neoplasms"
+        },
+        {
+          "id": "D005770",
+          "term": "Gastrointestinal Neoplasms"
+        },
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D003108",
+          "term": "Colonic Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        },
+        {
+          "id": "D012002",
+          "term": "Rectal Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001241",
+          "term": "Aspirin"
+        },
+        {
+          "id": "D014807",
+          "term": "Vitamin D"
+        },
+        {
+          "id": "D004032",
+          "term": "Diet"
+        },
+        {
+          "id": "D015444",
+          "term": "Exercise"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012459",
+          "term": "Salicylates"
+        },
+        {
+          "id": "D062385",
+          "term": "Hydroxybenzoates"
+        },
+        {
+          "id": "D010636",
+          "term": "Phenols"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D012632",
+          "term": "Secosteroids"
+        },
+        {
+          "id": "D013256",
+          "term": "Steroids"
+        },
+        {
+          "id": "D000072473",
+          "term": "Fused-Ring Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D009747",
+          "term": "Nutritional Physiological Phenomena"
+        },
+        {
+          "id": "D000066888",
+          "term": "Diet, Food, and Nutrition"
+        },
+        {
+          "id": "D010829",
+          "term": "Physiological Phenomena"
+        },
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        },
+        {
+          "id": "D009068",
+          "term": "Movement"
+        },
+        {
+          "id": "D009142",
+          "term": "Musculoskeletal Physiological Phenomena"
+        },
+        {
+          "id": "D055687",
+          "term": "Musculoskeletal and Neural Physiological Phenomena"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,310 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02674958",
+      "orgStudyIdInfo": {
+        "id": "20150432"
+      },
+      "organization": {
+        "fullName": "Ottawa Heart Institute Research Corporation",
+        "class": "OTHER"
+      },
+      "briefTitle": "Mobilization of Endothelial Progenitor Cells and Aspirin",
+      "officialTitle": "Mobilization of Endothelial Progenitor Cells Following Alcohol Septal Ablation in Hypertrophic Obstructive Cardiomyopathy: Randomized Controlled Trial of Aspirin",
+      "acronym": "TROPHIC 3"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-01",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Covid-19 pandemic",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-04-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2022-04-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-01-06",
+      "studyFirstSubmitQcDate": "2016-02-02",
+      "studyFirstPostDateStruct": {
+        "date": "2016-02-05",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2023-01-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-01-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Ottawa Heart Institute Research Corporation",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Aspirin at doses used during acute myocardial infarction may inhibit the mobilization of endothelial progenitor cells (EPCs).",
+      "detailedDescription": "Aspirin has been shown to lower the number of EPCs in a time- and concentration-dependent manner. In vitro studies also show that aspirin may reduce the migratory and adhesive capacity of isolated EPCs, inhibit iNOS and tubule formation, which are pre-requisites for angiogenesis. This is relevant when patients are given a loading dose of 325mg at the time of diagnosis of acute myocardial infarction where higher numbers of EPCs have been associated with better outcomes. Furthermore, in the PLATO (Platelet Inhibition and Patient Outcomes) trial, high dose aspirin appeared to counteract the beneficial effect seen when ticagrelor or clopidogrel was used with low doses of aspirin in acute coronary syndromes (ACS).\n\nAs aspirin is currently standard of care in the management of ACS, it is difficult to conduct a study of the effect of aspirin versus placebo in that scenario. However, during alcohol septal ablation for hypertrophic obstructive cardiomyopathy, the indication for an antiplatelet agent is not well defined and varies between operators. When a small amount of myocardium is deliberately destroyed in this process, it serves as an ideal model to study the effect of aspirin on the biology of EPCs in vivo. This could provide an explanation to the different effects of high versus low dose aspirin when combined with a second antiplatelet agent in the management of ACS."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hypertrophic Obstructive Cardiomyopathy"
+      ],
+      "keywords": [
+        "endothelial progenitor cells",
+        "aspirin",
+        "acetylsalicylic acid",
+        "alcohol septal ablation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 6,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Aspirin",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Aspirin 325mg orally bolus followed by 162mg orally daily during alcohol septal ablation for hypertrophic obstructive cardiomyopathy until day 7.",
+          "interventionNames": [
+            "Drug: Aspirin"
+          ]
+        },
+        {
+          "label": "No aspirin",
+          "type": "NO_INTERVENTION",
+          "description": "No aspirin allowed during alcohol septal ablation for hypertrophic obstructive cardiomyopathy until day 7."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Aspirin",
+          "description": "Aspirin 325mg bolus followed by 162mg daily until day 7 post alcohol septal ablation",
+          "armGroupLabels": [
+            "Aspirin"
+          ],
+          "otherNames": [
+            "Acetylsalicylic acid"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Maximum circulating endothelial progenitor cells as a ratio to baseline at any timepoint",
+          "description": "Change in number of EPCs measured at 0 (baseline), 1, 6, 24, 72 hours and on day 7 post procedure",
+          "timeFrame": "0 hour, 1 hour, 6 hours, 24 hours, 72 hours and 7 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Endothelial cell migration in vitro compared to baseline at any timepoint",
+          "description": "Change in endothelial migration measured at 0,1, 6, 24, 72 hours and on day 7 post procedure",
+          "timeFrame": "0 hour, 1 hour, 6 hours, 24 hours, 72 hours and 7 days"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Peak SDF-1 level",
+          "description": "Change in level of SDF-1 at 0, 1, 6, 24, 72 hours and on day 7 post procedure",
+          "timeFrame": "0 hour, 1 hour, 6 hours, 24 hours, 72 hours and 7 days"
+        },
+        {
+          "measure": "Peak angiopoietin-1 level",
+          "description": "Change in level of angiopoietin-1 at 0, 1, 6, 24, 72 hours and day 7 post procedure",
+          "timeFrame": "0 hour, 1 hour, 6 hours, 24 hours 72 hours and 7 days"
+        },
+        {
+          "measure": "Peak angiopoietin-2 level",
+          "description": "Change in level of angiopoietin-2 at 0, 1, 6, 24, 72 hours and on day 7 post procedure",
+          "timeFrame": "0 hour, 1 hour, 6 hours, 24 hours 72 hours and 7 days"
+        },
+        {
+          "measure": "Peak tie-2 level",
+          "description": "Change in level of tie-2 at 0, 1, 6, 24, 72 hours and on day 7 post procedure",
+          "timeFrame": "0 hour, 1 hour, 6 hours, 24 hours 72 hours and 7 days"
+        },
+        {
+          "measure": "Peak vascular endothelial growth factor (VEGF) level",
+          "description": "Change in level of VEGF at 0, 1, 6, 24, 72 hours and on day 7 post procedure",
+          "timeFrame": "0 hour, 1 hour, 6 hours, 24 hours 72 hours and 7 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients who have been selected to undergo alcohol septal ablation for hypertrophic obstructive cardiomyopathy based on clinical need\n2. Age \\>18 years, \\<80 years\n\nExclusion Criteria:\n\n1. Patients with known allergy to aspirin\n2. Inability or refusal to consent to participate in the study\n3. Patients who are on non-steroidal anti-inflammatory drugs and cannot be stopped for the duration of the study",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Aun-Yeong Chong, MD, MRCP",
+          "affiliation": "OHIRC",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Ottawa Heart Institute",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "zip": "K1Y 4W7",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.41117,
+            "lon": -75.69812
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "16539843",
+          "type": "RESULT",
+          "citation": "Chen TG, Chen JZ, Xie XD. Effects of aspirin on number, activity and inducible nitric oxide synthase of endothelial progenitor cells from peripheral blood. Acta Pharmacol Sin. 2006 Apr;27(4):430-6. doi: 10.1111/j.1745-7254.2006.00298.x."
+        },
+        {
+          "pmid": "20659762",
+          "type": "RESULT",
+          "citation": "Lou J, Povsic TJ, Allen JD, Adams SD, Myles S, Starr AZ, Ortel TL, Becker RC. The effect of aspirin on endothelial progenitor cell biology: preliminary investigation of novel properties. Thromb Res. 2010 Sep;126(3):e175-9. doi: 10.1016/j.thromres.2009.11.017. Epub 2010 Jul 24."
+        },
+        {
+          "pmid": "23713888",
+          "type": "RESULT",
+          "citation": "Etulain J, Fondevila C, Negrotto S, Schattner M. Platelet-mediated angiogenesis is independent of VEGF and fully inhibited by aspirin. Br J Pharmacol. 2013 Sep;170(2):255-65. doi: 10.1111/bph.12250."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002312",
+          "term": "Cardiomyopathy, Hypertrophic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009202",
+          "term": "Cardiomyopathies"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D001020",
+          "term": "Aortic Stenosis, Subvalvular"
+        },
+        {
+          "id": "D001024",
+          "term": "Aortic Valve Stenosis"
+        },
+        {
+          "id": "D000082862",
+          "term": "Aortic Valve Disease"
+        },
+        {
+          "id": "D006349",
+          "term": "Heart Valve Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001241",
+          "term": "Aspirin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012459",
+          "term": "Salicylates"
+        },
+        {
+          "id": "D062385",
+          "term": "Hydroxybenzoates"
+        },
+        {
+          "id": "D010636",
+          "term": "Phenols"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

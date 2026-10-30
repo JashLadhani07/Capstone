@@ -1,0 +1,295 @@
+{
+  "nct_id": "NCT04405232",
+  "title": "Coagulopathy Associated With Coronavirus disease19 (CA-COVID19) A Multi-Centre Observational Study in UK",
+  "sponsor": "Imperial College London",
+  "phase": "NA",
+  "status": "UNKNOWN",
+  "conditions": [
+    "COVID",
+    "Thrombosis",
+    "Bleeding",
+    "Anticoagulation"
+  ],
+  "interventions": [
+    "Non-interventional"
+  ],
+  "primary_outcome": "Prevalence and characteristics of coagulation abnormalities and their predictive value for respiratory failure requiring ventilation, multiorgan failure and death in patients presenting with COVID 19 infection",
+  "secondary_outcomes": [
+    "Incidence of respiratory failure requiring CPAP or mechanical ventilation",
+    "Incidence of thrombosis (clinical or radiological diagnosis) including thrombosis within 90 days after hospital admission (hospital associated thrombosis) 4. Incidence of minor bleeding 5. Heparin induced thrombocytopenia 6. Acute coronary syndrome",
+    "Incidence of major bleeding 8. Multiorgan failure 9. Development of DIC 10. Duration of hospital stay (days) 11. Hospital mortality",
+    "Incidence of clinically relevant non-major bleeding",
+    "Incidence of Heparin induced thrombocytopenia",
+    "Incidence of Acute coronary syndrome",
+    "Incidence of renal failure requiring renal replacement therapy",
+    "Incidence of Multiorgan failure",
+    "Incidence of Development of DIC",
+    "Duration of hospital stay (days)",
+    "Hospital mortality"
+  ],
+  "start_date": "2020-05-25",
+  "completion_date": "2021-04-25",
+  "results_posted": false,
+  "enrollment": 5000,
+  "protocol_amendments": [
+    {
+      "date": "Imperial College London",
+      "description": "{'unpostedResponsibleParty': 'Imperial College London', 'unpostedEvents': [{'type': 'RELEASE', 'date': '2022-05-03'}, {'type': 'RESET', 'date': '2023-02-02'}]}"
+    }
+  ],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04405232",
+        "orgStudyIdInfo": {
+          "id": "20SM5934"
+        },
+        "organization": {
+          "fullName": "Imperial College London",
+          "class": "OTHER"
+        },
+        "briefTitle": "Coagulopathy in COVID19 - A Multi-Centre Observational Study in UK",
+        "officialTitle": "Coagulopathy Associated With Coronavirus disease19 (CA-COVID19) A Multi-Centre Observational Study in UK",
+        "acronym": "COVID19"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2020-07",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2020-05-25",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2021-04-25",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2021-06-25",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2020-05-26",
+        "studyFirstSubmitQcDate": "2020-05-26",
+        "studyFirstPostDateStruct": {
+          "date": "2020-05-28",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2020-07-30",
+        "lastUpdatePostDateStruct": {
+          "date": "2020-07-31",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Imperial College London",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "A novel Coronavirus (COVID-19) infection leading to pneumonia and severe acute respiratory failure \\[acute respiratory distress syndrome (ARDS)\\] and death is a global threat. On 11/03/2020, WHO declared the Covid-19 outbreak a global pandemic. As of 18th of March, there are 202,309 confirmed cases with 8,013 deaths. Patients with severe illness may develop dyspnoea and hypoxemia within 1week after onset, which may quickly progress to ARDS or end-organ failure 1. Based on Chinese data abnormal coagulation parameters (Prolonged Prothrombin time \\[PT\\] and raised D dimer) are reported to predict a poor prognosis and may therefore be important therapeutic targets. The number of patients with infected with COVID- 19 in UK is rapidly rising as with many other European countries. Eventually \\>50% of people will have become infected and COVID-19 will remain a public health threat in the long term. It is therefore very important to understand every aspect of this disease, including the associated coagulopathy leading bleeding, blood clots (thrombosis) and death. Emerging data from Europe and some centres in UK, indicates that venous thromboembolism (VTE), mainly pulmonary embolism (PE), is major problem in COVID patients. In this retrospective-prospective: multicentre study, investigators will document the patient characteristics, presenting haematological parameters and associated comorbidities and their association with bleeding, thrombosis and mortality in patients admitted for hospital treatment. Determining the predictive value of patient characteristics and presenting laboratory measurements for clinical outcomes in these patients will allow us to optimise management of these patients in the future. Furthermore, by comparing these data with data from patients without Covid-19, investigators will be able to modify existing protocols and tailor them to the management of COVID -19."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "COVID",
+          "Thrombosis",
+          "Bleeding",
+          "Anticoagulation"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 5000,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "Non-interventional",
+            "description": "Observational study"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Prevalence and characteristics of coagulation abnormalities and their predictive value for respiratory failure requiring ventilation, multiorgan failure and death in patients presenting with COVID 19 infection",
+            "timeFrame": "12 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Incidence of respiratory failure requiring CPAP or mechanical ventilation",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Incidence of thrombosis (clinical or radiological diagnosis) including thrombosis within 90 days after hospital admission (hospital associated thrombosis) 4. Incidence of minor bleeding 5. Heparin induced thrombocytopenia 6. Acute coronary syndrome",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Incidence of major bleeding 8. Multiorgan failure 9. Development of DIC 10. Duration of hospital stay (days) 11. Hospital mortality",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Incidence of clinically relevant non-major bleeding",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Incidence of Heparin induced thrombocytopenia",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Incidence of Acute coronary syndrome",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Incidence of renal failure requiring renal replacement therapy",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Incidence of Multiorgan failure",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Incidence of Development of DIC",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Duration of hospital stay (days)",
+            "timeFrame": "12 months"
+          },
+          {
+            "measure": "Hospital mortality",
+            "timeFrame": "12 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients (\\>18 years) admitted hospitals with COVID 19 infection (COVID RNA+ +/- radiological change +/- clinical suspicion in absence of RNA)\n\nExclusion Criteria:\n\n* No exclusions",
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Adult patients (\\>18 years) admitted hospitals with suspected COVID-19 infection",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Dr Deepa Jayakody Arachchillage, MRCP, FRCPath, MD",
+            "role": "CONTACT",
+            "phone": "02073518401",
+            "email": "d.arachchillage@imperial.ac.uk"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Dr Deepa Jayakody Arachchillage, FRCPath, MD",
+            "affiliation": "Imperial College London",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Imperial College Healthcare NHS Trust",
+            "status": "RECRUITING",
+            "city": "London",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 51.50853,
+              "lon": -0.12574
+            }
+          }
+        ]
+      }
+    },
+    "annotationSection": {
+      "annotationModule": {
+        "unpostedAnnotation": {
+          "unpostedResponsibleParty": "Imperial College London",
+          "unpostedEvents": [
+            {
+              "type": "RELEASE",
+              "date": "2022-05-03"
+            },
+            {
+              "type": "RESET",
+              "date": "2023-02-02"
+            }
+          ]
+        }
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30",
+        "submissionTracking": {
+          "estimatedResultsFirstSubmitDate": "2022-05-03",
+          "submissionInfos": [
+            {
+              "releaseDate": "2022-05-03",
+              "resetDate": "2023-02-02"
+            }
+          ]
+        }
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D013927",
+            "term": "Thrombosis"
+          },
+          {
+            "id": "D006470",
+            "term": "Hemorrhage"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D016769",
+            "term": "Embolism and Thrombosis"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378850"
+}

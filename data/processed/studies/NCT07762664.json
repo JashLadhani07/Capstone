@@ -1,0 +1,249 @@
+{
+  "nct_id": "NCT07762664",
+  "title": "Prospective Comparison of Photon-Counting Detector CT and Conventional Energy-Integrating Detector CT for Carotid Atherosclerotic Plaque Assessment in Patients With Carotid Artery Stenosis",
+  "sponsor": "Chinese PLA General Hospital",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "Carotid Artery Stenosis",
+    "Carotid Atherosclerosis",
+    "Carotid Atherosclerotic Plaque"
+  ],
+  "interventions": [],
+  "primary_outcome": "Carotid Plaque Visualization and Characterization on PCD-CTA Compared With Conventional EID-CTA",
+  "secondary_outcomes": [
+    "Contrast-to-noise ratio on PCD-CTA compared with conventional EID-CTA"
+  ],
+  "start_date": "2026-01-07",
+  "completion_date": "2029-01-07",
+  "results_posted": false,
+  "enrollment": 100,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07762664",
+        "orgStudyIdInfo": {
+          "id": "PCD-CT Carotid Artery"
+        },
+        "organization": {
+          "fullName": "Chinese PLA General Hospital",
+          "class": "OTHER"
+        },
+        "briefTitle": "Photon-Counting CT Versus Conventional CT for Carotid Plaque Assessment in Patients With Carotid Artery Stenosis",
+        "officialTitle": "Prospective Comparison of Photon-Counting Detector CT and Conventional Energy-Integrating Detector CT for Carotid Atherosclerotic Plaque Assessment in Patients With Carotid Artery Stenosis"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-08",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2026-01-07",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2029-01-07",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2029-01-07",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2026-08-08",
+        "studyFirstSubmitQcDate": "2026-08-08",
+        "studyFirstPostDateStruct": {
+          "date": "2026-08-13",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-08-19",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-08-20",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Xin Lou",
+          "investigatorTitle": "Chairman",
+          "investigatorAffiliation": "Chinese PLA General Hospital"
+        },
+        "leadSponsor": {
+          "name": "Chinese PLA General Hospital",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This prospective observational study aims to compare photon-counting detector computed tomography angiography (PCD-CTA) with conventional energy-integrating detector computed tomography angiography (EID-CTA) for the assessment of carotid atherosclerotic plaques in patients with carotid artery stenosis.",
+        "detailedDescription": "This prospective observational study aims to compare photon-counting detector computed tomography angiography (PCD-CTA) with conventional energy-integrating detector computed tomography angiography (EID-CTA) for the assessment of carotid atherosclerotic plaques in patients with carotid artery stenosis.\n\nThe study will evaluate differences between the two CT techniques in the visualization and quantitative characterization of carotid plaques, including plaque morphology, plaque burden, plaque components, calcification-related artifacts, and degree of carotid artery stenosis. Objective and subjective image quality will also be compared.\n\nThe study is intended to determine whether the improved spatial resolution and spectral imaging capabilities of photon-counting CT provide advantages over conventional CT for the characterization of carotid atherosclerotic disease."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Carotid Artery Stenosis",
+          "Carotid Atherosclerosis",
+          "Carotid Atherosclerotic Plaque"
+        ],
+        "keywords": [
+          "Photon-Counting CT",
+          "Carotid Artery Stenosis",
+          "Plaque Characterization",
+          "Carotid Plaque"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 100,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Patients With Carotid Artery Stenosis",
+            "description": "Patients with carotid artery stenosis who undergo preprocedural carotid CT angiography will be prospectively enrolled. Carotid plaque characteristics and image quality will be evaluated and compared between photon-counting detector CT angiography and conventional energy-integrating detector CT angiography."
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Carotid Plaque Visualization and Characterization on PCD-CTA Compared With Conventional EID-CTA",
+            "description": "Carotid atherosclerotic plaques will be independently evaluated on photon-counting detector CTA and conventional energy-integrating detector CTA.",
+            "timeFrame": "1-4 years"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Contrast-to-noise ratio on PCD-CTA compared with conventional EID-CTA",
+            "description": "Contrast-to-noise ratio (CNR) will be quantitatively calculated from measurements obtained on PCD-CTA and conventional EID-CTA using a predefined measurement method. CNR values will be compared between the two CT techniques.",
+            "timeFrame": "1-4years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years or older.\n* Patients with carotid atherosclerotic plaque or carotid artery stenosis.\n* Patients scheduled to undergo carotid artery stenting.\n* Patients undergoing preprocedural carotid CTA examination.\n* Ability to provide written informed consent.\n\nExclusion Criteria:\n\n* Known allergy to iodinated contrast material.\n* Severe renal insufficiency or other contraindications to contrast-enhanced CT.\n* Pregnancy or suspected pregnancy.\n* Severe motion or other artifacts resulting in nondiagnostic image quality.\n* Incomplete clinical or imaging data.",
+        "sex": "ALL",
+        "minimumAge": "10 Years",
+        "maximumAge": "90 Years",
+        "stdAges": [
+          "CHILD",
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "The study population will consist of patients with carotid atherosclerotic stenosis referred for carotid CT angiography. Eligible participants will be prospectively enrolled before carotid artery intervention.",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Jinhao Lyu, MD",
+            "role": "CONTACT",
+            "phone": "+8615903562929",
+            "email": "330322990@qq.com"
+          },
+          {
+            "name": "Jinying He",
+            "role": "CONTACT",
+            "email": "1527012389@qq.com"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Xin Lou",
+            "affiliation": "Chinese PLA General Hospital",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Chinese PLA General Hospital",
+            "status": "RECRUITING",
+            "city": "Beijing",
+            "state": "Beijing Municipality",
+            "zip": "100853",
+            "country": "China",
+            "contacts": [
+              {
+                "name": "Jinhao Lyu, MD",
+                "role": "CONTACT",
+                "phone": "+8615903562929",
+                "email": "330322990@qq.com"
+              },
+              {
+                "name": "Jinying He",
+                "role": "CONTACT",
+                "phone": "+8613854153820",
+                "email": "1527012389@qq.com"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.9075,
+              "lon": 116.39723
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D016893",
+            "term": "Carotid Stenosis"
+          },
+          {
+            "id": "D002340",
+            "term": "Carotid Artery Diseases"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002561",
+            "term": "Cerebrovascular Disorders"
+          },
+          {
+            "id": "D001927",
+            "term": "Brain Diseases"
+          },
+          {
+            "id": "D002493",
+            "term": "Central Nervous System Diseases"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D001157",
+            "term": "Arterial Occlusive Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792388"
+}

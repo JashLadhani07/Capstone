@@ -1,0 +1,345 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06581471",
+      "orgStudyIdInfo": {
+        "id": "2401"
+      },
+      "organization": {
+        "fullName": "TRiCares",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "The TRICURE EU Pivotal Study",
+      "officialTitle": "The TRICURE EU PIVOTAL TRiCares Topaz Transcatheter TRICUspid Heart Valve REplacement System EUropean PIVOTAL Study",
+      "acronym": "TRICURE EU"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-04",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-08-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-10-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2030-12-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-08-25",
+      "studyFirstSubmitQcDate": "2024-08-26",
+      "studyFirstPostDateStruct": {
+        "date": "2024-09-03",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-04-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-04-15",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "TRiCares",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Prospective, multi-center study to assess safety and performance of the TRiCares Topaz Tricuspid Valve Replacement System",
+      "detailedDescription": "The study is a multi-center, prospective single arm study designed to evaluate the safety and performance of the TRiCares Topaz Tricuspid Valve Replacement System."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Tricuspid Valve Regurgitation",
+        "Heart Valve Disease",
+        "Cardiovascular Diseases"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 80,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Transcatheter Tricuspid Valve Replacement",
+          "type": "EXPERIMENTAL",
+          "description": "Treatment with the TRiCares Topaz Tricuspid Transcatheter Valve Replacement System",
+          "interventionNames": [
+            "Device: Transcatheter Tricuspid Valve Replacement"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Transcatheter Tricuspid Valve Replacement",
+          "description": "Replacement of the tricuspid valve through a transcatheter approach",
+          "armGroupLabels": [
+            "Transcatheter Tricuspid Valve Replacement"
+          ],
+          "otherNames": [
+            "TRiCares Topaz Tricuspid Valve Replacement System"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Composite of MAE",
+          "description": "Composite rate of major adverse events (MAEs) at 30 days, including mortality, myocardial infarction, stroke and major complications.",
+          "timeFrame": "30 day post-intervention"
+        },
+        {
+          "measure": "Investigational Device Success",
+          "description": "Device success defined as a reduction in tricuspid regurgitation immediately post-intervention",
+          "timeFrame": "immediately post-intervention"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Six minute walk test",
+          "description": "Change in distance (m) compared to baseline assessment",
+          "timeFrame": "30 days, 6 months, annual for five years post-intervention"
+        },
+        {
+          "measure": "Reduction in Tricuspid Regurgitation (TR) Grade",
+          "description": "Number of patients presenting with reduction in TR grade compared to baseline assessment",
+          "timeFrame": "30 days, 6 months, annual for five years post-intervention"
+        },
+        {
+          "measure": "New York Heart Association (NYHA) Function Class",
+          "description": "Number of patients presenting with improvement in NYHA classification",
+          "timeFrame": "30 days, 6 months, annual for five years post-intervention"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients\n* Tricuspid regurgitation grade 3 (severe) on a scale of 0 (none) to 5 (torrential)\n* Institutional Heart Team evaluates patient as being at increased operative risk\n\nExclusion Criteria:\n\n* Patient in need of emergent intervention\n* Patient who is hemodynamically unstable\n* Anatomical contraindications for implantation with study device\n* Patient who is currently participating in another clinical investigation where the primary endpoint was not reached yet",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Esther Gerteis",
+          "role": "CONTACT",
+          "phone": "+41796015318",
+          "email": "gerteis@tricares.de"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "J\u00f6rg Hausleiter, MD",
+          "affiliation": "LMU Munich",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Algemeen Stedelijk Ziekenhuis",
+          "status": "RECRUITING",
+          "city": "Aalst",
+          "zip": "9300",
+          "country": "Belgium",
+          "contacts": [
+            {
+              "name": "Liesbeth Rosseel, MD",
+              "role": "CONTACT",
+              "phone": "003253766730",
+              "email": "liesbeth.rosseel@asz.be"
+            },
+            {
+              "name": "Liesbeth Rosseel, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.93604,
+            "lon": 4.0355
+          }
+        },
+        {
+          "facility": "ZNA Middelheim",
+          "status": "RECRUITING",
+          "city": "Antwerp",
+          "country": "Belgium",
+          "contacts": [
+            {
+              "name": "Stefan Verheye, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.22047,
+            "lon": 4.40026
+          }
+        },
+        {
+          "facility": "UZ Brussel",
+          "status": "RECRUITING",
+          "city": "Brussels",
+          "zip": "1090",
+          "country": "Belgium",
+          "contacts": [
+            {
+              "name": "Stijn Lochy, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.85045,
+            "lon": 4.34878
+          }
+        },
+        {
+          "facility": "Cliniques Universitaires Saint-Luc UCL",
+          "status": "RECRUITING",
+          "city": "Brussels",
+          "country": "Belgium",
+          "contacts": [
+            {
+              "name": "Joelle Kefer, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.85045,
+            "lon": 4.34878
+          }
+        },
+        {
+          "facility": "Centre hospitalier universitaire CHU de Li\u00e8ge",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Li\u00e8ge",
+          "country": "Belgium",
+          "contacts": [
+            {
+              "name": "Patrizio Lancellotti, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.63373,
+            "lon": 5.56749
+          }
+        },
+        {
+          "facility": "AZ Delta",
+          "status": "RECRUITING",
+          "city": "Roeselare",
+          "zip": "8800",
+          "country": "Belgium",
+          "contacts": [
+            {
+              "name": "Maarten Vanhaverbeke, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.94653,
+            "lon": 3.12269
+          }
+        },
+        {
+          "facility": "University Medical Center of the Johannes Gutenberg University Mainz",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Mainz",
+          "zip": "55131",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Phiipp Lurz, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Ludwig Maximilian University Hospital",
+          "status": "RECRUITING",
+          "city": "Munich",
+          "zip": "81377",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "J\u00f6rg Hausleiter, MD",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 48.13743,
+            "lon": 11.57549
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014262",
+          "term": "Tricuspid Valve Insufficiency"
+        },
+        {
+          "id": "D006349",
+          "term": "Heart Valve Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,1929 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04550468",
+      "orgStudyIdInfo": {
+        "id": "H19-03179"
+      },
+      "organization": {
+        "fullName": "University of British Columbia",
+        "class": "OTHER"
+      },
+      "briefTitle": "Low-carbohydrate Versus Low-fat Breakfast in Type 2 Diabetes",
+      "officialTitle": "Impact of a Low-carbohydrate Versus Low-fat Breakfast on Blood Glucose Control in Type 2 Diabetes"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-10-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-06-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2022-06-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-07-15",
+      "studyFirstSubmitQcDate": "2020-09-14",
+      "studyFirstPostDateStruct": {
+        "date": "2020-09-16",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2022-11-01",
+      "resultsFirstSubmitQcDate": "2025-02-02",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-02-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-02-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-02-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Jonathan Little",
+        "investigatorTitle": "Associate Professor",
+        "investigatorAffiliation": "University of British Columbia"
+      },
+      "leadSponsor": {
+        "name": "University of British Columbia",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Wollongong",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The prevalence of type 2 diabetes (T2D) is increasing worldwide, with \\~380 M currently suffering from this chronic, debilitating disease. T2D is characterized by high blood glucose levels in the mornings and after meals. The largest hyperglycemic spike often occurs after breakfast. Targeting this meal may be a simple, feasible strategy to improve glycemic control and reduce risk for diabetes complications. It is hypothesized that consuming a low carbohydrate high fat (LCHF) breakfast for 3 months, when compared to a standard low-fat breakfast will improve blood glucose control, increase satiety and improve body composition in people with T2D. This information will test whether the simple dietary strategy of limiting carbohydrates at breakfast could help in managing T2D.",
+      "detailedDescription": "A 3-month parallel-group randomized controlled trial will be conducted. Eligible participants will be randomized to either the Low-carb High-fat breakfast (LCHF, n=41) or a low-fat \"standard care\" control breakfast (CTL, n=41), to be consumed daily for a period of 3 months.\n\nDue to COVID-19 pandemic, this study was adapted to be conducted remotely through video/telephone conference meetings between participants and study staff, along with mailing of study materials before and after the intervention for remote data collection.\n\nEach group will be provided with a menu of 8 LCHF breakfasts or 8 CTL breakfasts from which to choose each morning. Breakfast options (designed by a registered dietitian) will be controlled in macronutrient content and calories (\\~400-500 kcal), but allow for personal preference and autonomy to promote adherence."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Dietary Habits"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 127,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Low-Carb High-Fat Breakfast",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will follow a daily low carbohydrate high fat breakfast intervention for 3 months.",
+          "interventionNames": [
+            "Other: Low-Carb High-Fat breakfast"
+          ]
+        },
+        {
+          "label": "Low fat \"Standard Care\" Control Breakfast",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants will follow a daily low fat \"standard care\" control breakfast intervention for 3 months.",
+          "interventionNames": [
+            "Other: Low fat \"standard care\" control breakfast"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Low-Carb High-Fat breakfast",
+          "description": "Participants will receive 8 low-carb high-fat breakfast meal recipes to follow daily during 3 months.",
+          "armGroupLabels": [
+            "Low-Carb High-Fat Breakfast"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Low fat \"standard care\" control breakfast",
+          "description": "Participants will receive 8 low-fat breakfast meal recipes to follow daily during 3 months.",
+          "armGroupLabels": [
+            "Low fat \"Standard Care\" Control Breakfast"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline Hemoglobin A1c at 12 Weeks",
+          "description": "Hemoglobin A1c measured at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "timeFrame": "Baseline to 12 weeks of diet"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline Fasting Blood Glucose at 12 Weeks",
+          "description": "Mean fasting blood glucose from 14 days measured at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "timeFrame": "Mean values for the first 14 days (weeks 1-2) and mean values for the last 14 days (weeks 11-12) of the intervention"
+        },
+        {
+          "measure": "Change From Baseline Fasting Blood Insulin at 12 Weeks",
+          "description": "Average fasting blood insulin measured at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "timeFrame": "Baseline to 12 weeks of diet"
+        },
+        {
+          "measure": "Change From Baseline Blood Lipids at 12 Weeks",
+          "description": "Mean triglycerides, total, HDL, and LDL cholesterol at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfas",
+          "timeFrame": "Baseline to 12 weeks of diet"
+        },
+        {
+          "measure": "Change From Baseline Inflammation Marker High Sensitive Reactive Protein (hsCRP) at 12 Weeks",
+          "description": "Blood inflammation marker (hsCRP) at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "timeFrame": "Baseline to 12 weeks of diet"
+        },
+        {
+          "measure": "Hunger/Satiety Levels",
+          "description": "Levels of hunger and satiety measured by a 0 to 100 millimeter visual analog scale \\[ranges across a continuum from none (0) to an extreme amount (100) of Hunger, Satiety, Fullness, Appetite\\] How hungry do you feel? How satisfied do you feel? How full do you feel? How much food do you think you can eat?",
+          "timeFrame": "Weeks 1, 6 and 12"
+        },
+        {
+          "measure": "Dietary Intake",
+          "description": "Dietary calorie intake assessed by three 3-day food records during the 12-week intervention",
+          "timeFrame": "Mean dietary intake assessed during the 12-week intervention"
+        },
+        {
+          "measure": "Change From Baseline Body Weight at 12 Weeks",
+          "description": "Body weight measured in kilograms at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "timeFrame": "Baseline to 12 weeks of diet"
+        },
+        {
+          "measure": "Change From Baseline Body Mass Index at 12 Weeks",
+          "description": "Body mass Index measured in weight in kilograms divided by the square of height in meters at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "timeFrame": "Baseline to 12 weeks of diet"
+        },
+        {
+          "measure": "Continuous Glucose Monitoring",
+          "description": "Measures of overall glucose control by continuous glucose monitoring device",
+          "timeFrame": "Mean values for the first 14 days (weeks 1-2) and mean values for the last 14 days (weeks 11-12) of treatment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* physician-diagnosed T2D of \u22651 year;\n* current HbA1c of \\< 8.5%;\n* BMI: \\>25 kg/m2; (as of July 5, 2021, BMI cut off was expanded from 25-40 kg/m2 to higher than 25kg/m2 to facilitate recruitment)\n* blood pressure of \\<160/99 mm Hg assessed according to guidelines;\n* non-smoking;\n* not on hormone replacement therapy, corticosteroids, or anti-inflammatory medications;\n* 20-79 years old.\n\nExclusion Criteria:\n\n* Use of exogenous insulin;\n* taking more than 2 glucose lowering medications;\n* ongoing medical treatment for diseases such as cancer, auto-immune or inflammatory disease, liver or kidney disorders;\n* allergy, intolerance or aversion to eggs or any other dietary restrictions (e.g., vegan, breakfast skipping) that will prevent them from following the standardized study diets;\n* being unable to follow remote guidance by internet or smartphone\n* being unable to follow the controlled diet instructions;.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "20 Years",
+      "maximumAge": "79 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "University of British Columbia",
+          "city": "Kelowna",
+          "state": "British Columbia",
+          "zip": "V1V 1V7",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 49.88307,
+            "lon": -119.48568
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "37257563",
+          "type": "DERIVED",
+          "citation": "Oliveira BF, Chang CR, Oetsch K, Falkenhain K, Crampton K, Stork M, Hoonjan M, Elliott T, Francois ME, Little JP. Impact of a Low-Carbohydrate Compared with Low-Fat Breakfast on Blood Glucose Control in Type 2 Diabetes: A Randomized Trial. Am J Clin Nutr. 2023 Jul;118(1):209-217. doi: 10.1016/j.ajcnut.2023.04.032. Epub 2023 May 29."
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "121 were included in analysis according to intention-to-treat principle",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Low-Carb High-Fat Breakfast",
+          "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+        },
+        {
+          "id": "FG001",
+          "title": "Low Fat \"Standard Care\" Control Breakfast",
+          "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "64"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "63"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "45"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "48"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "19"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Low-Carb High-Fat Breakfast",
+          "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+        },
+        {
+          "id": "BG001",
+          "title": "Low Fat \"Standard Care\" Control Breakfast",
+          "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "60"
+            },
+            {
+              "groupId": "BG001",
+              "value": "61"
+            },
+            {
+              "groupId": "BG002",
+              "value": "121"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "65",
+                      "spread": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "64",
+                      "spread": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "64",
+                      "spread": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "64"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "Canada",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "75"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Australia",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "46"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Duration of T2D, mean (SD), years",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10",
+                      "spread": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9",
+                      "spread": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9",
+                      "spread": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "HbA1c (%)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "percent",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6.9",
+                      "spread": "0.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7.0",
+                      "spread": "0.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7.0",
+                      "spread": "0.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight (kg)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kilograms",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "95.8",
+                      "spread": "26.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "90.8",
+                      "spread": "18.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "93.3",
+                      "spread": "22.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI (kg/m2)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m2",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33.2",
+                      "spread": "8.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31.4",
+                      "spread": "6.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "32.3",
+                      "spread": "7.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Waist Circumference (cm)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "centimeters",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "121"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "111.1",
+                      "spread": "16.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "109.6",
+                      "spread": "15.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "110.2",
+                      "spread": "15.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline Hemoglobin A1c at 12 Weeks",
+          "description": "Hemoglobin A1c measured at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "% of HbA1c",
+          "timeFrame": "Baseline to 12 weeks of diet",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "lowerLimit": "-0.4",
+                      "upperLimit": "-0.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.1",
+                      "lowerLimit": "-0.2",
+                      "upperLimit": "0.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline Fasting Blood Glucose at 12 Weeks",
+          "description": "Mean fasting blood glucose from 14 days measured at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "Mean values for the first 14 days (weeks 1-2) and mean values for the last 14 days (weeks 11-12) of the intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "First 14 days",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.0",
+                      "spread": "1.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.6",
+                      "spread": "1.9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Last 14 days",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.0",
+                      "spread": "1.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.6",
+                      "spread": "1.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline Fasting Blood Insulin at 12 Weeks",
+          "description": "Average fasting blood insulin measured at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "populationDescription": "Due to logistics and budget, samples were not collected for insulin measurement.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Baseline to 12 weeks of diet",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants will follow a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants will receive 8 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants will follow a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants will receive 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline Blood Lipids at 12 Weeks",
+          "description": "Mean triglycerides, total, HDL, and LDL cholesterol at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfas",
+          "populationDescription": "Blood samples were not collected for triglycerides.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "% change",
+          "timeFrame": "Baseline to 12 weeks of diet",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Total cholesterol",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "lowerLimit": "-9.1",
+                      "upperLimit": "8.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-5.9",
+                      "lowerLimit": "-13.8",
+                      "upperLimit": "2.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "HDL cholesterol",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-3.6",
+                      "lowerLimit": "-7.3",
+                      "upperLimit": "0.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-3.8",
+                      "lowerLimit": "-7.4",
+                      "upperLimit": "-0.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "cholesterol/HDL ratio",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13",
+                      "lowerLimit": "0",
+                      "upperLimit": "28"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6",
+                      "lowerLimit": "-6",
+                      "upperLimit": "19"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "non-HDl cholesterol",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.9",
+                      "lowerLimit": "-2.7",
+                      "upperLimit": "14.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.9",
+                      "lowerLimit": "-9.8",
+                      "upperLimit": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Triglycerides",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline Inflammation Marker High Sensitive Reactive Protein (hsCRP) at 12 Weeks",
+          "description": "Blood inflammation marker (hsCRP) at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "% change",
+          "timeFrame": "Baseline to 12 weeks of diet",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10",
+                      "lowerLimit": "-15",
+                      "upperLimit": "42"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-6",
+                      "lowerLimit": "-27",
+                      "upperLimit": "21"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hunger/Satiety Levels",
+          "description": "Levels of hunger and satiety measured by a 0 to 100 millimeter visual analog scale \\[ranges across a continuum from none (0) to an extreme amount (100) of Hunger, Satiety, Fullness, Appetite\\] How hungry do you feel? How satisfied do you feel? How full do you feel? How much food do you think you can eat?",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale (mm)",
+          "timeFrame": "Weeks 1, 6 and 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "How hungry do you feel? week 1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "22",
+                      "spread": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "27",
+                      "spread": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How satisfied do you feel? week 1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "69",
+                      "spread": "17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "70",
+                      "spread": "19"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How full do you feel? week 1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72",
+                      "spread": "21"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "69",
+                      "spread": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How much food do you think you can eat? week 1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46",
+                      "spread": "25"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "47",
+                      "spread": "25"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How hungry do you feel? week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26",
+                      "spread": "21"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "26",
+                      "spread": "22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How satisfied do you feel? week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65",
+                      "spread": "21"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "65",
+                      "spread": "22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How full do you feel? week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72",
+                      "spread": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "67",
+                      "spread": "22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How much food do you think you can eat? week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "49",
+                      "spread": "24"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "46",
+                      "spread": "25"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How hungry do you feel? week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29",
+                      "spread": "25"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "26",
+                      "spread": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How satisfied do you feel? week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64",
+                      "spread": "21"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "64",
+                      "spread": "22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How full do you feel? week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "70",
+                      "spread": "22"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "66",
+                      "spread": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "How much food do you think you can eat? week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "48",
+                      "spread": "23"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "43",
+                      "spread": "25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Dietary Intake",
+          "description": "Dietary calorie intake assessed by three 3-day food records during the 12-week intervention",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "kilocalories",
+          "timeFrame": "Mean dietary intake assessed during the 12-week intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "total energy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1701",
+                      "spread": "510"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1927",
+                      "spread": "480"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "total carbohydrate energy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "601",
+                      "spread": "225"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "883",
+                      "spread": "288"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "total protein energy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "347",
+                      "spread": "102"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "325",
+                      "spread": "112"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "total fat energy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "753",
+                      "spread": "251"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "719",
+                      "spread": "255"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline Body Weight at 12 Weeks",
+          "description": "Body weight measured in kilograms at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "% change",
+          "timeFrame": "Baseline to 12 weeks of diet",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.2",
+                      "lowerLimit": "-2.3",
+                      "upperLimit": "-0.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.9",
+                      "lowerLimit": "-1.9",
+                      "upperLimit": "0.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline Body Mass Index at 12 Weeks",
+          "description": "Body mass Index measured in weight in kilograms divided by the square of height in meters at baseline and after 12 weeks of following the low-carbohydrate breakfast or low-fat breakfast",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "%change",
+          "timeFrame": "Baseline to 12 weeks of diet",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.2",
+                      "lowerLimit": "-2.3",
+                      "upperLimit": "-0.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.1",
+                      "lowerLimit": "-2.2",
+                      "upperLimit": "0.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Continuous Glucose Monitoring",
+          "description": "Measures of overall glucose control by continuous glucose monitoring device",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "Mean values for the first 14 days (weeks 1-2) and mean values for the last 14 days (weeks 11-12) of treatment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Low-Carb High-Fat Breakfast",
+              "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months."
+            },
+            {
+              "id": "OG001",
+              "title": "Low Fat \"Standard Care\" Control Breakfast",
+              "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "61"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Fasting glucose first 14 days",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.5",
+                      "spread": "1.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.5",
+                      "spread": "1.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Fasting glucose last 14 days",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.0",
+                      "spread": "1.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.8",
+                      "spread": "1.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "12 weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Low-Carb High-Fat Breakfast",
+          "description": "Participants followed a daily low carbohydrate high fat breakfast intervention for 3 months.\n\nLow-Carb High-Fat breakfast: Participants received 8-10 low-carb high-fat breakfast meal recipes to follow daily during 3 months.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 64,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 64,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 64
+        },
+        {
+          "id": "EG001",
+          "title": "Low Fat \"Standard Care\" Control Breakfast",
+          "description": "Participants followed a daily low fat \"standard care\" control breakfast intervention for 3 months.\n\nLow fat \"standard care\" control breakfast: Participants received 8 low-fat breakfast meal recipes to follow daily during 3 months.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 63,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 63,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 63
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Jonathan Little",
+        "organization": "University of British Columbia",
+        "email": "jonathan.little@ubc.ca",
+        "phone": "250-807-9876"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2021-10-01",
+          "uploadDate": "2022-11-01T13:42",
+          "filename": "Prot_000.pdf",
+          "size": 552955
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2022-06-23",
+          "uploadDate": "2022-11-01T13:40",
+          "filename": "SAP_001.pdf",
+          "size": 206519
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D005247",
+          "term": "Feeding Behavior"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001522",
+          "term": "Behavior, Animal"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

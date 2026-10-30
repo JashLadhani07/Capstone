@@ -1,0 +1,2121 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00392678",
+      "orgStudyIdInfo": {
+        "id": "CHS 06-20, NIH U01 DK74556"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "U01DK074556",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/U01DK074556"
+        }
+      ],
+      "organization": {
+        "fullName": "Joslin Diabetes Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Targeting INflammation Using SALsalate in Type 2 Diabetes (TINSAL-T2D)",
+      "officialTitle": "Targeting Inflammation in Type 2 Diabetes: Clinical Trial Using Salsalate",
+      "acronym": "TINSAL-T2D"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2006-10"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2008-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2010-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2006-10-25",
+      "studyFirstSubmitQcDate": "2006-10-25",
+      "studyFirstPostDateStruct": {
+        "date": "2006-10-26",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2013-02-20",
+      "resultsFirstSubmitQcDate": "2013-07-25",
+      "resultsFirstPostDateStruct": {
+        "date": "2013-07-26",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2019-03-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-04-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Joslin Diabetes Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Growing evidence over recent years supports a potential role for low grade chronic inflammation in the pathogenesis of insulin resistance and type 2 diabetes. In this study we will determine whether salsalate, a member of the commonly used Non-Steroidal Anti-Inflammatory Drug (NSAID) class, is effective in lowering sugars in patients with type 2 diabetes. The study will determine whether salicylates represent a new pharmacological option for diabetes management. The study is conducted in two stages. The first stage is a dose ranging study, administering salsalate compared to placebo over three months. The primary objective of Stage 2 of the study is to evaluate the effects of salsalate on blood sugar control in diabetes; the tolerability of salsalate use in patients with type 2 diabetes (T2D); and the effects of salsalate on measures of inflammation, the metabolic syndrome, and cardiac risk.\n\nThe second stage is a second trial and posted under alternate registration.",
+      "detailedDescription": "The primary objective of the first stage of the TINSAL-T2D trial is to select a dose of salsalate that is both well-tolerated and demonstrates a trend toward improvement in glycemic control. The trial is a multicenter, single mask lead-in, double masked placebo controlled dose ranging study, comparing salsalte to placebo over 3 months."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "keywords": [
+        "Type 2 Diabetes",
+        "Inflammation",
+        "Obesity",
+        "Metabolic Syndrome"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 277,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo, appearance matched to active drug",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "3 gram",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Salsalate 3.0 grams daily, divided",
+          "interventionNames": [
+            "Drug: Salsalate"
+          ]
+        },
+        {
+          "label": "3.5 gram",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Salsalate 3.5 g daily, divided",
+          "interventionNames": [
+            "Drug: Salsalate"
+          ]
+        },
+        {
+          "label": "4 gram",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Salsalate 4.0 g daily, divided",
+          "interventionNames": [
+            "Drug: Salsalate"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Salsalate",
+          "description": "Placebo and Salsalate 3.0 g/d; 3.5 g/d; 4.0 g/d orally, divided",
+          "armGroupLabels": [
+            "3 gram",
+            "3.5 gram",
+            "4 gram"
+          ],
+          "otherNames": [
+            "Disalcid",
+            "Salicylsalicylic acid"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Placebo to Salsalate",
+          "armGroupLabels": [
+            "Placebo"
+          ],
+          "otherNames": [
+            "Placebo to Salsalate"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in HbA1c Baseline to End of Trial in TINSAL-T2D Stage 1",
+          "description": "The primary outcome for the TINSAL-T2D study is change in HbA1c level from baseline to week 14 (stage 1) in the intent-to-treat (ITT) population with last observation carried forward.",
+          "timeFrame": "14 week"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in HbA1c",
+          "description": "Change from baseline to either 14 or 26 weeks, or last HbA1c measurement prior to rescue therapy",
+          "timeFrame": "14 week"
+        },
+        {
+          "measure": "Change From Baseline and Trends in Fasting Glucose Over Time",
+          "timeFrame": "14 week"
+        },
+        {
+          "measure": "Change in Lipids",
+          "description": "Change in lipids (low-density lipoprotein cholesterol \\[LDL-C\\], non-high-density lipoprotein cholesterol \\[non-HDL-C\\], triglycerides \\[TG\\], total cholesterol \\[TC\\], high-density lipoprotein cholesterol \\[HDL C\\], TC/HDL-C ratio, and LDL-C/HDL-C ratio)\n\nLDL-C/HDL-C ratio not calculated",
+          "timeFrame": "14 week"
+        },
+        {
+          "measure": "Change From Baseline in 14-week Insulin, C-peptide, Homeostasis Model [HOMA] Index",
+          "description": "HOMA-IR was not calcuated due to potential confounding effect of salicylates to inhibit insulin clearance. Change in insulin from Baseline to Week 14 in data table below.",
+          "timeFrame": "Baseline, week 14"
+        },
+        {
+          "measure": "Safety and Tolerability",
+          "description": "See adverse event module for details. Safety and tolerability of salsalate compared to placebo as assessed by adverse events.",
+          "timeFrame": "14 weeks"
+        },
+        {
+          "measure": "Change in Insulin, C-peptide, Homeostasis Model [HOMA] Index",
+          "description": "HOMA-IR was not calcuated due to potential confounding effect of salicylates to inhibit insulin clearance. Change in C-peptide from Baseline to Week 14 is in the data table below",
+          "timeFrame": "Baseline, week 14"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Type 2 diabetes on diet and exercise therapy or monotherapy with metformin, insulin secretagogue, or alpha-glucosidase inhibitors, or a low-dose combination of these at \u2264 50% maximal dose (see Appendix). Dosing is stable for 8 weeks prior to randomization.\n2. FPG \u2264 225 mg/dL and HbA1c\\>7% and \u22649.5% at screening\n3. Age \u226518 and \\<75\n4. Women of childbearing potential agree to use an appropriate contraceptive method (hormonal, IUD, or diaphragm)\n\nExclusion Criteria:\n\n1. Type 1 diabetes and/or history of ketoacidosis determined by medical history\n2. History of severe diabetic neuropathy including autonomic neuropathy, gastroparesis or lower limb ulceration or amputation\n3. History of long-term therapy with insulin (\\>30 days) within the last year\n4. Therapy with rosiglitazone (Avandia) or pioglitazone (Actos), or extendin-4 (Byetta), alone or in combination in the previous 6 months\n5. Pregnancy or lactation\n6. Patients requiring corticosteroids within 3 months or recurrent continuous oral corticosteroid treatment (more than 2 weeks)\n7. Use of weight loss drugs \\[e.g., Xenical (orlistat), Meridia (sibutramine), Acutrim (phenylpropanol-amine), or similar over-the-counter medications\\] within 3 months of screening or intentional weight loss of \u2265 10 lbs in the previous 6 months\n8. Surgery within 30 days prior to screening\n9. Serum creatinine \\>1.4 for women and \\>1.5 for men or eGFR \\<60 \\[possible chronic kidney disease stage 3 or greater calculated using the Modification of Diet in Renal Disease (MDRD) equation.\n10. History of chronic liver disease including hepatitis B or C\n11. History of peptic ulcer or endoscopy demonstrated gastritis\n12. History of acquired immune deficiency syndrome or human immunodeficiency virus (HIV)\n13. History of malignancy, except participants who have been disease-free for greater than 10 years, or whose only malignancy has been basal or squamous cell skin carcinoma\n14. New York Heart Association Class III or IV cardiac status or hospitalization for congestive heart failure\n15. History of unstable angina, myocardial infarction, cerebrovascular accident, transient ischemic attack or any revascularization within 6 months\n16. Uncontrolled hypertension (defined as systolic blood pressure \\>150 mmHg or diastolic blood pressure \\>95 mmHg on three or more assessments on more than one day)\n17. History of drug or alcohol abuse, or current weekly alcohol consumption \\>10 units/week (1 unit = 1 beer, 1 glass of wine, 1 mixed cocktail containing 1 ounce of alcohol)\n18. Hemoglobin \\<12 g/dL (males), \\<10 g/dL (females) at screening\n19. Platelets \\<100,000 cu mm at screening.\n20. AST (SGOT) \\>2.50 x ULN or ALT (SGPT) \\>2.50 x ULN at screening\n21. Total Bilirubin \\>1.50 x ULN at screening\n22. Triglycerides (TG) \\>500 mg/dL at screening\n23. Poor mental function or any other reason to expect patient difficulty in complying with the requirements of the study\n24. Previous allergy to aspirin\n25. Chronic or continuous use (daily for more than 7 days) of nonsteroidal anti-inflammatory drugs within the preceding 2 months\n26. Use of warfarin (Coumadin), clopidogrel (Plavix) or other anticoagulants\n27. Use of probenecid (Benemid, Probalan), sulfinpyrazone (Anturane) or other uricosuric agents",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Steven E. Sheolson, MD, PhD",
+          "affiliation": "Joslin Diabetes Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Allison B. Goldfine, MD",
+          "affiliation": "Joslin Diabetes Center",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Vivian Fonseca, MD",
+          "affiliation": "Tulane University",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Kathleen Jablonski, PhD",
+          "affiliation": "George Washington University",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Myrlene Staten, MD",
+          "affiliation": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Chapel Medical Group",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06511",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.30815,
+            "lon": -72.92816
+          }
+        },
+        {
+          "facility": "MedStar Research Institute",
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20003-4393",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        },
+        {
+          "facility": "Endocrine Clinical Research",
+          "city": "Winter Park",
+          "state": "Florida",
+          "zip": "32746",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.6,
+            "lon": -81.33924
+          }
+        },
+        {
+          "facility": "Kaiser Permanente",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30084",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Emory School of Medicine",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30303",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "University of Illinois at Chicago",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60612",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Tulane University",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "zip": "70112",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.95465,
+            "lon": -90.07507
+          }
+        },
+        {
+          "facility": "Joslin Diabetes Center",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02215",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "University of Nebraska Medical Center",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68105",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.25626,
+            "lon": -95.94043
+          }
+        },
+        {
+          "facility": "Kaleida Health Center",
+          "city": "Buffalo",
+          "state": "New York",
+          "zip": "14226",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.88645,
+            "lon": -78.87837
+          }
+        },
+        {
+          "facility": "North Shore Diabetes and Endocrine Associates",
+          "city": "New Hyde Park",
+          "state": "New York",
+          "zip": "11042",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.7351,
+            "lon": -73.68791
+          }
+        },
+        {
+          "facility": "Columbia University",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10032",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "University of Rochester Medical Center",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14642",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.15478,
+            "lon": -77.61556
+          }
+        },
+        {
+          "facility": "University of North Carolina",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27599",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.9132,
+            "lon": -79.05584
+          }
+        },
+        {
+          "facility": "University of Texas Southwestern",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75390",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "16823477",
+          "type": "BACKGROUND",
+          "citation": "Shoelson SE, Lee J, Goldfine AB. Inflammation and insulin resistance. J Clin Invest. 2006 Jul;116(7):1793-801. doi: 10.1172/JCI29069."
+        },
+        {
+          "pmid": "17959861",
+          "type": "BACKGROUND",
+          "citation": "Fleischman A, Shoelson SE, Bernier R, Goldfine AB. Salsalate improves glycemia and inflammatory parameters in obese young adults. Diabetes Care. 2008 Feb;31(2):289-94. doi: 10.2337/dc07-1338. Epub 2007 Oct 24."
+        },
+        {
+          "pmid": "19337387",
+          "type": "BACKGROUND",
+          "citation": "Goldfine AB, Silver R, Aldhahi W, Cai D, Tatro E, Lee J, Shoelson SE. Use of salsalate to target inflammation in the treatment of insulin resistance and type 2 diabetes. Clin Transl Sci. 2008 May;1(1):36-43. doi: 10.1111/j.1752-8062.2008.00026.x."
+        },
+        {
+          "pmid": "23817699",
+          "type": "BACKGROUND",
+          "citation": "Goldfine AB, Fonseca V, Jablonski KA, Chen YD, Tipton L, Staten MA, Shoelson SE; Targeting Inflammation Using Salsalate in Type 2 Diabetes Study Team. Salicylate (salsalate) in patients with type 2 diabetes: a randomized trial. Ann Intern Med. 2013 Jul 2;159(1):1-12. doi: 10.7326/0003-4819-159-1-201307020-00003."
+        },
+        {
+          "pmid": "20231565",
+          "type": "RESULT",
+          "citation": "Goldfine AB, Fonseca V, Jablonski KA, Pyle L, Staten MA, Shoelson SE; TINSAL-T2D (Targeting Inflammation Using Salsalate in Type 2 Diabetes) Study Team. The effects of salsalate on glycemic control in patients with type 2 diabetes: a randomized trial. Ann Intern Med. 2010 Mar 16;152(6):346-57. doi: 10.7326/0003-4819-152-6-201003160-00004."
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Screening, followed by 4-week single mask placebo lead-in. 277 participants signed screening consent. Some participants were ineligible, some withdrew consent, and some had treatment side effects during placebo lead-in.",
+      "recruitmentDetails": "3 private practices and 14 universities. First patient recruited February 2007; last patient end of study visit, May 2008",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "3 Gram",
+          "description": "Salsalate 3.0 g daily, divided"
+        },
+        {
+          "id": "FG001",
+          "title": "3.5 Gram",
+          "description": "Salsalate 3.5 g daily, divided"
+        },
+        {
+          "id": "FG002",
+          "title": "4 Gram",
+          "description": "Salsalate 4.0 g daily, divided"
+        },
+        {
+          "id": "FG003",
+          "title": "Placebo",
+          "description": "Matched by appearance to active drug"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "27"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "27"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "27"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "27"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "27"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "26"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "25"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "26"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "3 Gram",
+          "description": "Salsalate 3.0 g daily, divided"
+        },
+        {
+          "id": "BG001",
+          "title": "3.5 Gram",
+          "description": "Salsalate 3.5 g daily, divided"
+        },
+        {
+          "id": "BG002",
+          "title": "4 Gram",
+          "description": "Salsalate 4.0 g daily, divided"
+        },
+        {
+          "id": "BG003",
+          "title": "Placebo",
+          "description": "matched to active drug"
+        },
+        {
+          "id": "BG004",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "27"
+            },
+            {
+              "groupId": "BG001",
+              "value": "27"
+            },
+            {
+              "groupId": "BG002",
+              "value": "27"
+            },
+            {
+              "groupId": "BG003",
+              "value": "27"
+            },
+            {
+              "groupId": "BG004",
+              "value": "108"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "91"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "55.4",
+                      "spread": "9.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "56.7",
+                      "spread": "9.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "55.0",
+                      "spread": "10.2"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "55.9",
+                      "spread": "8.2"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "56",
+                      "spread": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "45"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "108"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change in HbA1c Baseline to End of Trial in TINSAL-T2D Stage 1",
+          "description": "The primary outcome for the TINSAL-T2D study is change in HbA1c level from baseline to week 14 (stage 1) in the intent-to-treat (ITT) population with last observation carried forward.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "% (units of HbA1c)",
+          "timeFrame": "14 week",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "3.0 g/d",
+              "description": "Salsalate 3.0 g/d, divided"
+            },
+            {
+              "id": "OG001",
+              "title": "3.5 g/d",
+              "description": "Salsalate 3.5 g/d, divided"
+            },
+            {
+              "id": "OG002",
+              "title": "4.0 g/d",
+              "description": "Salsalate 4.0 g/d, divided"
+            },
+            {
+              "id": "OG003",
+              "title": "Placebo",
+              "description": "Placebo matched to active drug"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "25"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "26"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.36",
+                      "lowerLimit": "-0.55",
+                      "upperLimit": "-0.17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.34",
+                      "lowerLimit": "-0.54",
+                      "upperLimit": "-0.15"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-0.49",
+                      "lowerLimit": "-0.69",
+                      "upperLimit": "-0.30"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "-0.01",
+                      "lowerLimit": "-0.20",
+                      "upperLimit": "0.19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001",
+                "OG002",
+                "OG003"
+              ],
+              "nonInferiorityType": "SUPERIORITY_OR_OTHER",
+              "pValue": "<0.05",
+              "statisticalMethod": "Mixed Models Analysis",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in HbA1c",
+          "description": "Change from baseline to either 14 or 26 weeks, or last HbA1c measurement prior to rescue therapy",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "% HbA1c",
+          "timeFrame": "14 week",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Placebo matched to active drug"
+            },
+            {
+              "id": "OG001",
+              "title": "Salsalate 3.0 g/d",
+              "description": "Salsalate 3.0 g/d, divided"
+            },
+            {
+              "id": "OG002",
+              "title": "Salsalate 3.5 g/d",
+              "description": "Salsalate 3.5 g/d, divided"
+            },
+            {
+              "id": "OG003",
+              "title": "Salsalate 4.0 g/d",
+              "description": "Salsalate 4.0 g/d, divided"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "25"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "-0.2",
+                      "upperLimit": "0.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.4",
+                      "lowerLimit": "-0.6",
+                      "upperLimit": "-0.2"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-0.3",
+                      "lowerLimit": "-0.5",
+                      "upperLimit": "-0.2"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "-0.5",
+                      "lowerLimit": "-0.7",
+                      "upperLimit": "-0.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline and Trends in Fasting Glucose Over Time",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mg/dl",
+          "timeFrame": "14 week",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Placebo matched to active drug"
+            },
+            {
+              "id": "OG001",
+              "title": "Salsalate 3.0 g/d",
+              "description": "Salsalate 3.0 g/d, divided"
+            },
+            {
+              "id": "OG002",
+              "title": "Salsalate 3.5 g/d",
+              "description": "Salsalate 3.5 g/d, divided"
+            },
+            {
+              "id": "OG003",
+              "title": "Salsalate 4.0 g/d",
+              "description": "Salsalate 4.0 g/d, divided"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "25"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13",
+                      "lowerLimit": "2",
+                      "upperLimit": "24"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-19",
+                      "lowerLimit": "-30",
+                      "upperLimit": "-8"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-14",
+                      "lowerLimit": "-25",
+                      "upperLimit": "-3"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "-15",
+                      "lowerLimit": "-26",
+                      "upperLimit": "-4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Lipids",
+          "description": "Change in lipids (low-density lipoprotein cholesterol \\[LDL-C\\], non-high-density lipoprotein cholesterol \\[non-HDL-C\\], triglycerides \\[TG\\], total cholesterol \\[TC\\], high-density lipoprotein cholesterol \\[HDL C\\], TC/HDL-C ratio, and LDL-C/HDL-C ratio)\n\nLDL-C/HDL-C ratio not calculated",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mg/dl",
+          "timeFrame": "14 week",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Placebo matched to active"
+            },
+            {
+              "id": "OG001",
+              "title": "Salsalate 3.0 g/d",
+              "description": "Salsalate 3.0 g/d, divided"
+            },
+            {
+              "id": "OG002",
+              "title": "Salsalate 3.5 g/d",
+              "description": "Salsalate 3.5 g/d, divided"
+            },
+            {
+              "id": "OG003",
+              "title": "Salsalate 4.0 g/d",
+              "description": "Salsalate 4.0 g/d, divided"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "27"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Cholesterol",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "-7",
+                      "upperLimit": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8",
+                      "lowerLimit": "1",
+                      "upperLimit": "16"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-1",
+                      "lowerLimit": "-9",
+                      "upperLimit": "7"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "6",
+                      "lowerLimit": "-1",
+                      "upperLimit": "14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "HDL",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "-2",
+                      "upperLimit": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3",
+                      "lowerLimit": "1",
+                      "upperLimit": "4"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1",
+                      "lowerLimit": "-1",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "2",
+                      "lowerLimit": "0",
+                      "upperLimit": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "LDL",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "-7",
+                      "upperLimit": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "15",
+                      "lowerLimit": "9",
+                      "upperLimit": "22"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "3",
+                      "lowerLimit": "-3",
+                      "upperLimit": "10"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "8",
+                      "lowerLimit": "2",
+                      "upperLimit": "15"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15",
+                      "lowerLimit": "-6",
+                      "upperLimit": "36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-34",
+                      "lowerLimit": "-55",
+                      "upperLimit": "-13"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-22",
+                      "lowerLimit": "-43",
+                      "upperLimit": "0"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "-16",
+                      "lowerLimit": "-38",
+                      "upperLimit": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Total to HDL ratio",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "-0.2",
+                      "upperLimit": "0.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.1",
+                      "lowerLimit": "-0.1",
+                      "upperLimit": "0.4"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-0.1",
+                      "lowerLimit": "-0.3",
+                      "upperLimit": "0.2"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "0.2",
+                      "lowerLimit": "-0.1",
+                      "upperLimit": "0.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in 14-week Insulin, C-peptide, Homeostasis Model [HOMA] Index",
+          "description": "HOMA-IR was not calcuated due to potential confounding effect of salicylates to inhibit insulin clearance. Change in insulin from Baseline to Week 14 in data table below.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "pmol/l",
+          "timeFrame": "Baseline, week 14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Placebo matched to active"
+            },
+            {
+              "id": "OG001",
+              "title": "Salsalate 3.0 g/d",
+              "description": "Salsalate 3.0 g/d, divided"
+            },
+            {
+              "id": "OG002",
+              "title": "Salsalate 3.5 g/d",
+              "description": "Salsalate 3.5 g/d, divided"
+            },
+            {
+              "id": "OG003",
+              "title": "Salsalate 4.0 g/d",
+              "description": "Salsalate 4.0 g/d, divided"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "25"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-3.0",
+                      "lowerLimit": "-39",
+                      "upperLimit": "33"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "15",
+                      "lowerLimit": "12",
+                      "upperLimit": "42"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "7.6",
+                      "lowerLimit": "-21.4",
+                      "upperLimit": "36.6"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "27",
+                      "lowerLimit": "-31",
+                      "upperLimit": "85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Safety and Tolerability",
+          "description": "See adverse event module for details. Safety and tolerability of salsalate compared to placebo as assessed by adverse events.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "14 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Salsalate 3.0 g/d",
+              "description": "Salsalate 3.0 g/d, divided"
+            },
+            {
+              "id": "OG001",
+              "title": "Salsalate 3.5 g/d",
+              "description": "Salsalate 3.5 g/d, divided"
+            },
+            {
+              "id": "OG002",
+              "title": "Salsalate 4.0 g/d",
+              "description": "Salsalate 4.0 g/d, divided"
+            },
+            {
+              "id": "OG003",
+              "title": "Placebo",
+              "description": "Placebo matched to active"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "27"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Insulin, C-peptide, Homeostasis Model [HOMA] Index",
+          "description": "HOMA-IR was not calcuated due to potential confounding effect of salicylates to inhibit insulin clearance. Change in C-peptide from Baseline to Week 14 is in the data table below",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "C-peptide in nmol/l",
+          "timeFrame": "Baseline, week 14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Placebo matched to active"
+            },
+            {
+              "id": "OG001",
+              "title": "Salsalate 3.0 g/d",
+              "description": "Salsalate 3.0 g/d, divided"
+            },
+            {
+              "id": "OG002",
+              "title": "Salsalate 3.5 g/d",
+              "description": "Salsalate 3.5 g/d, divided"
+            },
+            {
+              "id": "OG003",
+              "title": "Salsalate 4.0 g/d",
+              "description": "Salsalate 4.0 g/d, divided"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "25"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.10",
+                      "lowerLimit": "0",
+                      "upperLimit": "0.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.07",
+                      "lowerLimit": "-0.17",
+                      "upperLimit": "0.01"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-0.03",
+                      "lowerLimit": "-0.13",
+                      "upperLimit": "0.10"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "0.03",
+                      "lowerLimit": "-0.07",
+                      "upperLimit": "0.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Screening, 4 week placebo run in, 14 week treatment.",
+      "description": "AE/SAE use standard FDA definition.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Salsalate 3.0 g/d",
+          "description": "Active: Salsalate 3.0 g/d",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 27,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 27,
+          "otherNumAffected": 27,
+          "otherNumAtRisk": 27
+        },
+        {
+          "id": "EG001",
+          "title": "Salsalate 3.5 g/d",
+          "description": "Active: Salsalate 3.5 g/d",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 27,
+          "seriousNumAffected": 2,
+          "seriousNumAtRisk": 27,
+          "otherNumAffected": 27,
+          "otherNumAtRisk": 27
+        },
+        {
+          "id": "EG002",
+          "title": "Salsalate 4.0 g/d",
+          "description": "Active: Salsalate 4.0 g/d",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 27,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 27,
+          "otherNumAffected": 27,
+          "otherNumAtRisk": 27
+        },
+        {
+          "id": "EG003",
+          "title": "Placebo",
+          "description": "Identical Placebo",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 27,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 27,
+          "otherNumAffected": 25,
+          "otherNumAtRisk": 27
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Acute Cholecystitis",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Hospitalization for Acute Cholecystitis, laparoscopic cholecystectomy performed.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "Cervical Disc Herniation",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "1\\. Hospitalization for Cervical Disc Herniation.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "Congestive Heart Failure with Diastolic Dysfunction",
+          "organSystem": "Cardiac disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Hospitalization for Congestive Heart Failure with Diastolic Dysfunction.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "Lumbar laminectomy",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Hospitalization for Lumbar laminectomy.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 27
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Cardiorespiratory",
+          "organSystem": "Cardiac disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Includes palpitations, chest pain or discomfort, and swelling of legs or feet",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 5,
+              "numAffected": 3,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 7,
+              "numAffected": 3,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "Neurologic",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Includes blurry vision, dots or flashes in vision, tinnitus, and numbness or tingling.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 7,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 13,
+              "numAffected": 10,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 8,
+              "numAffected": 8,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 7,
+              "numAffected": 7,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "Gastrointestinal",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "incudes heartburn, nausea, vomiting, diarrhea",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 11,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 8,
+              "numAffected": 8,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 8,
+              "numAffected": 8,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "Musculoskeletal",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Includes stiffness, muscle or joint pain, arthritis, backache.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 10,
+              "numAffected": 8,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 9,
+              "numAffected": 7,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "General",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Includes fainting, dizziness, weakness or fatigue.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 7,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "Hypoglycemia",
+          "organSystem": "Endocrine disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 63,
+              "numAffected": 5,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 46,
+              "numAffected": 6,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 7,
+              "numAffected": 6,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 27
+            }
+          ]
+        },
+        {
+          "term": "Hyperglycemia",
+          "organSystem": "Endocrine disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 27
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 7,
+              "numAffected": 2,
+              "numAtRisk": 27
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Allison B. Goldfine, MD co-investigator",
+        "organization": "Joslin Diabetes Center",
+        "email": "allison.goldfine@joslin.harvard.edu",
+        "phone": "617-309-2643"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D007249",
+          "term": "Inflammation"
+        },
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        },
+        {
+          "id": "D024821",
+          "term": "Metabolic Syndrome"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D007333",
+          "term": "Insulin Resistance"
+        },
+        {
+          "id": "D006946",
+          "term": "Hyperinsulinism"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C014182",
+          "term": "salicylsalicylic acid"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

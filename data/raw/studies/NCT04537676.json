@@ -1,0 +1,237 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04537676",
+      "orgStudyIdInfo": {
+        "id": "PCRT-0068"
+      },
+      "organization": {
+        "fullName": "Podimetrics, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Patient Empowerment Study",
+      "officialTitle": "Patient Empowerment Study: Assessment of Quality of Life Among Patients With Diabetes Foot Ulcer"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-08",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-09-15",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-10-15",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2022-03-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2020-08-28",
+      "studyFirstSubmitQcDate": "2020-09-02",
+      "studyFirstPostDateStruct": {
+        "date": "2020-09-03",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-09-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-09-03",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Podimetrics, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The Patient Empowerment Study is an observational longitudinal study among adults with diabetic foot ulcer (DFU). The scope of this study is to better understand how a patient's DFU disease process and usage of the Podimetrics System can impact patient health-related quality of life. Health-related quality of life will be measured by both the generic 36-item Short-Form Health Survey (SF-36) questionnaire and the ulcer-specific Diabetic Foot Ulcer Scale Short Form (DFS-SF) questionnaire.",
+      "detailedDescription": "There is emerging evidence that diabetic foot complications greatly affect the quality of life of patients and cause people a significant burden to life. A diabetic foot ulcer (DFU) is associated with deterioration the physical, mental and social life quality. Given the detrimental effect foot ulcers have on patients, it is essential that quality of life metrics be evaluated among DFU patients. To what degree can diabetic foot ulcers affect the quality of life of patients? What are the facilitators and barriers to an improved quality of life?\n\nTo gain insight into these questions Podimetrics researchers will be conducting a longitudinal study among patients suffering with a DFU. The general purpose of the study is to evaluate the current quality of life of DFU patients from the subject perspective in various domains including physical functioning, general health perception, psychological, social functioning, vitality and role limitations. The study will also explore the relationships between HRQoL and usage of the Podimetrics System. Improved understanding of patients' subjective evaluation of their quality of life, and the role of the Podimetrics System, will help clinicians provide better care for these patients.\n\nA cohort of DFU patients will be recruited upon providing informed consent. Participant lifestyle and ulcer status information is collected by a background survey. HRQoL is assessed at baseline, 6 month and 12 month using questionnaires. The investigators intend to use two types of questionnaires for HRQoL evaluation in this study: one generic questionnaire, SF-36, which addresses general quality of life issues, and one specific questionnaire, DFS-SF, which addresses issues specific to diabetic foot diseases, such as ulcer severity and impact of ulcer care."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetic Foot",
+        "Quality of Life",
+        "Mental Health Wellness 1",
+        "Ulcer Foot",
+        "Diabetes Complications"
+      ],
+      "keywords": [
+        "Diabetic Foot",
+        "Quality of Life",
+        "Foot Ulcer"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "CROSS_SECTIONAL"
+      },
+      "enrollmentInfo": {
+        "count": 200,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "DFU Participants",
+          "description": "A cohort of 200 DFU patients who have been prescribed the Podimetrics System by their healthcare providers will be recruited upon providing informed consent. Potential participants will be asked to indicate their interest in participating in this patient empowerment study during their initial phone consultation for mat set-up with the Podimetrics care-management team. Participants will be followed for one year and answer a set of identical questionnaires at three time points: at baseline, at 6-month and at 12-month post enrollment.",
+          "interventionNames": [
+            "Other: No intervention, this is an observational study"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "No intervention, this is an observational study",
+          "description": "No intervention",
+          "armGroupLabels": [
+            "DFU Participants"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Quality of Life Score (generic)",
+          "description": "Quality of Life will be measured by the Medical Outcomes Study 36-item Short-Form Questionnaire (SF-36). This questionnaire addresses general quality of life issues.",
+          "timeFrame": "At 12-month after recruitment"
+        },
+        {
+          "measure": "Quality of Life Score (ulcer-specific)",
+          "description": "Quality of Life will also be measured by theDiabetic Foot Ulcer Scale Short Form (DFS-SF). This questionnaire addresses issues specific to diabetic foot diseases, such as ulcer severity and impact of ulcer care.",
+          "timeFrame": "At 12-month after recruitment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Be at least 18 years old (by verbal history from the participant)\n* Have history of one or more foot ulcers in the lower extremities (by verbal history from the participant)\n* Have been prescribed the Podimetrics RTM System in the last 30 days\n* Not be pregnant (by verbal history from the participant)\n* Be mentally lucid\n* Be able to read and write English\n* Provide informed consent\n\nExclusion Criteria:\n\n* Be younger than 18 years old\n* Unable to understand English\n* Unable to complete questionnaires due to visual or upper extremity impairments\n* Unable to provide consent\n* Other issues that, at the discretion of the investigator, renders the subject ineligible for participation",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Two hundred (200) patients who have been prescribed the Podimetrics Remote Temperature Monitoring System (hereafter \"Podimetrics System\") by their healthcare providers will be recruited. Potential participants will be asked to indicate their interest in participating in this patient empowerment study during their initial phone consultation for mat set-up with the Podimetrics care-management team. Participants will be recruited based on the requirements indicated below. A Podimetrics representative will confirm that each participant meets the requirements by evaluation through a brief interview after participants indicate their interest and provide oral consent. This study will exclude anyone with a cognitive impairment that would disqualify them from providing informed consent.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Brian J Petersen",
+          "role": "CONTACT",
+          "phone": "8605589240",
+          "email": "brian@podimetrics.com"
+        },
+        {
+          "name": "Abbie Liu",
+          "role": "CONTACT",
+          "email": "abbie@podimetrics.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Podimetrics,Inc.",
+          "city": "Somerville",
+          "state": "Massachusetts",
+          "zip": "02144",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.3876,
+            "lon": -71.0995
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "To protect participant identity, names will not be recorded as part of this study. Instead, each participant will be assigned a unique identifier. Any identifiable data will not be associated with the information collected by the questionnaires."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017719",
+          "term": "Diabetic Foot"
+        },
+        {
+          "id": "D016523",
+          "term": "Foot Ulcer"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003925",
+          "term": "Diabetic Angiopathies"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D007871",
+          "term": "Leg Ulcer"
+        },
+        {
+          "id": "D012883",
+          "term": "Skin Ulcer"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D003929",
+          "term": "Diabetic Neuropathies"
+        },
+        {
+          "id": "D005534",
+          "term": "Foot Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

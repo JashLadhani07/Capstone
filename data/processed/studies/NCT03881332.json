@@ -1,0 +1,214 @@
+{
+  "nct_id": "NCT03881332",
+  "title": "Clinical Observational Study Using Iohexol to Measure Perioperative Glomerular Filtration Rate in Patients Undergoing Robotic Surgery for Rectum or Large Bowel Cancers",
+  "sponsor": "University Hospital of North Norway",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Rectal Cancer",
+    "Colon Cancer"
+  ],
+  "interventions": [],
+  "primary_outcome": "Glomerular filtration rate",
+  "secondary_outcomes": [],
+  "start_date": "2019-12-26",
+  "completion_date": "2021-01-22",
+  "results_posted": false,
+  "enrollment": 4,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03881332",
+        "orgStudyIdInfo": {
+          "id": "2018/1934"
+        },
+        "organization": {
+          "fullName": "University Hospital of North Norway",
+          "class": "OTHER"
+        },
+        "briefTitle": "Measurement of Perioperative Glomerular Filtration Rate",
+        "officialTitle": "Clinical Observational Study Using Iohexol to Measure Perioperative Glomerular Filtration Rate in Patients Undergoing Robotic Surgery for Rectum or Large Bowel Cancers"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2021-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2019-12-26",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2021-01-22",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2021-01-22",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2019-03-16",
+        "studyFirstSubmitQcDate": "2019-03-17",
+        "studyFirstPostDateStruct": {
+          "date": "2019-03-19",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2021-01-22",
+        "lastUpdatePostDateStruct": {
+          "date": "2021-01-26",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Lars Marius Ytrebo",
+          "investigatorTitle": "Professor",
+          "investigatorAffiliation": "University Hospital of North Norway"
+        },
+        "leadSponsor": {
+          "name": "University Hospital of North Norway",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Our objective is to monitor glomerular filtration rate (GFR)during the perioperative phase of patients undergoing robotic surgery for rectum or large bowel cancers. We will use both a single injection and a continuous infusion of iohexol to measure kidney function for 72 hours after surgery.",
+        "detailedDescription": "The considerable morbidity and mortality associated with perioperative acute kidney injury (AKI) is well documented and known to complicate recovery from surgery.\n\nAccurate, direct measurements of glomerular filtration rate (GFR) may provide a tool to monitor perioperative onset of rapidly changing renal function. This may subsequently lead to design of randomized controlled trials examining the effects of earlier intervention with the aim to reduce the incidence of perioperative AKI.\n\nRecently a protocol for continuous infusion of low-dose iohexol (CILDI) as a measure of GFR in stable patients over a range of GFR (28-128 mL/min/1.73 m2) has been developed. Accuracy of this infusion protocol was confirmed with the single bolus injection (SBI) method. Data also showed that the continuous infusion protocol of low-dose iohexol is an accurate and precise method when measuring changing GFR even in critical ill patients with variable AKI risks. Accordingly, SBI and CILDI together now allow us to explore unanswered research questions related to perioperative change in renal function."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Rectal Cancer",
+          "Colon Cancer"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": true,
+        "targetDuration": "5 Days",
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 4,
+          "type": "ACTUAL"
+        }
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Glomerular filtration rate",
+            "description": "Measured glomerular filtration rate",
+            "timeFrame": "72 hours"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Rectum or colon cancer\n\nExclusion Criteria:\n\n* Acute kidney injury grade 3 or higher",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Consecutive elective rectum and colonic cancer patients due for robot surgery",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Lars Marius Ytrebo, PhD",
+            "affiliation": "University Hospital of North Norway",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University Hospital of North Norway",
+            "city": "Troms\u00f8",
+            "state": "Troms",
+            "zip": "9038",
+            "country": "Norway",
+            "geoPoint": {
+              "lat": 69.6489,
+              "lon": 18.95508
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D012004",
+            "term": "Rectal Neoplasms"
+          },
+          {
+            "id": "D003110",
+            "term": "Colonic Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D015179",
+            "term": "Colorectal Neoplasms"
+          },
+          {
+            "id": "D007414",
+            "term": "Intestinal Neoplasms"
+          },
+          {
+            "id": "D005770",
+            "term": "Gastrointestinal Neoplasms"
+          },
+          {
+            "id": "D004067",
+            "term": "Digestive System Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D004066",
+            "term": "Digestive System Diseases"
+          },
+          {
+            "id": "D005767",
+            "term": "Gastrointestinal Diseases"
+          },
+          {
+            "id": "D007410",
+            "term": "Intestinal Diseases"
+          },
+          {
+            "id": "D012002",
+            "term": "Rectal Diseases"
+          },
+          {
+            "id": "D003108",
+            "term": "Colonic Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256731"
+}

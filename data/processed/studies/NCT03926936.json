@@ -1,0 +1,594 @@
+{
+  "nct_id": "NCT03926936",
+  "title": "An Open-label, Single Arm, Prospective, Multi-center, Tandem Two Stage Designed, Phase II Study to Evaluate the Efficacy of Fulvestrant in Women With Recurrent/Metastatic Estrogen Receptor Positive Gynecological Malignancies",
+  "sponsor": "Frederic Amant",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Endometrial Stromal Sarcoma",
+    "Adenosarcoma of Uterus",
+    "Leiomyosarcoma Uterus",
+    "Endometrial Cancer",
+    "Sex Cord Stromal Tumor",
+    "Serous Ovarian Tumor"
+  ],
+  "interventions": [
+    "Fulvestrant"
+  ],
+  "primary_outcome": "Response rate",
+  "secondary_outcomes": [
+    "progression-free survival",
+    "clinical benefit",
+    "duration of response",
+    "number of participants with treatment-related adverse events as assessed by CTCAE v5.0",
+    "EQ-5D quality of life assessment",
+    "EORTC QLQ-C30 quality of life assessment"
+  ],
+  "start_date": "2019-03-13",
+  "completion_date": "2022-04-01",
+  "results_posted": false,
+  "enrollment": 17,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03926936",
+        "orgStudyIdInfo": {
+          "id": "S60857"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "2017-005018-76",
+            "type": "EUDRACT_NUMBER"
+          },
+          {
+            "id": "2017",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/2017"
+          }
+        ],
+        "organization": {
+          "fullName": "University Hospital, Gasthuisberg",
+          "class": "OTHER"
+        },
+        "briefTitle": "FUlvestrant in Gynecological Cancers That Are Potentially Hormone Sensitive: the FUCHSia Study",
+        "officialTitle": "An Open-label, Single Arm, Prospective, Multi-center, Tandem Two Stage Designed, Phase II Study to Evaluate the Efficacy of Fulvestrant in Women With Recurrent/Metastatic Estrogen Receptor Positive Gynecological Malignancies",
+        "acronym": "FUCHSia"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-05",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2019-03-13",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2022-04-01",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2022-12-27",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2019-04-10",
+        "studyFirstSubmitQcDate": "2019-04-23",
+        "studyFirstPostDateStruct": {
+          "date": "2019-04-25",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-05-23",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-05-28",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Frederic Amant",
+          "investigatorTitle": "Professor",
+          "investigatorAffiliation": "University Hospital, Gasthuisberg"
+        },
+        "leadSponsor": {
+          "name": "Frederic Amant",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Kom Op Tegen Kanker",
+            "class": "OTHER"
+          },
+          {
+            "name": "Research Foundation Flanders",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This phase 2 clinical trial aims to evaluate the efficacy of Fulvestrant, an ER-antagonist, in women with estrogen receptor positive (ER+) low-grade gynecological cancers. The primary objective is to determine the response rate (RR) to Fulvestrant, defined by partial or complete response according to RECIST v1.1 criteria. Secondary objectives include assessing progression-free survival (PFS) over 3 years, clinical benefit (CB), duration of response, safety and tolerability, and quality of life (QoL) in each tumor type group. Exploratory objectives involve evaluating the feasibility of 18F-FES PET imaging for detecting ER expression, the predictive value of sequential 18F-FES PET scans for treatment response, and collecting tumor biopsies and cf-DNA for genetic analysis to identify adaptive response mechanisms to Fulvestrant.",
+        "detailedDescription": "In this phase 2 clinical trial, the aim is to evaluate the efficacy of the ER-antagonist Fulvestrant in women with estrogen receptor positive (ER+) low grade gynecological cancers. The primary objective of the study is to determine the response rate (RR) upon Fulvestrant treatment, comprising either partial or complete response, as determined by RECIST v1.1 criteria for each tumor type. The secondary objectives are to: (1) determine progression-free survival (PFS) upon Fulvestrant treatment, after 3 years, in each tumor type group (2) assess clinical benefit (CB) upon Fulvestrant treatment, comprising complete response, partial response and stable disease, as determined by RECIST v1.1 criteria, in each tumor type group (3) assess duration of response in each tumor type group (4) assess safety and tolerability of Fulvestrant administration in each tumor type group (5) assess quality of life (QoL) and symptoms in each tumor type group. As exploratory objectives, the aim is to: (1) evaluate the feasibility of 16\u03b1-18F-fluoro-17\u03b2-estradiol (18F-FES) PET imaging for detection of ER expression (2) determine the value of sequential 18F-FES PET scans in predicting response to Fulvestrant (3) collect tumor biopsies and cf-DNA from patients enrolled in the trial. These samples will be subsequently characterized at the genetic level, to identify adaptive response mechanisms to Fulvestrant treatment."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Endometrial Stromal Sarcoma",
+          "Adenosarcoma of Uterus",
+          "Leiomyosarcoma Uterus",
+          "Endometrial Cancer",
+          "Sex Cord Stromal Tumor",
+          "Serous Ovarian Tumor"
+        ],
+        "keywords": [
+          "fulvestrant",
+          "low-grade gynecological cancer",
+          "efficacy"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 17,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Low-grade uterine sarcoma",
+            "type": "EXPERIMENTAL",
+            "description": "Participants with low-grade uterine sarcoma",
+            "interventionNames": [
+              "Drug: Fulvestrant"
+            ]
+          },
+          {
+            "label": "low-grade endometrial carcinoma",
+            "type": "EXPERIMENTAL",
+            "description": "Participants with low-grade endometrial carcinoma",
+            "interventionNames": [
+              "Drug: Fulvestrant"
+            ]
+          },
+          {
+            "label": "sex cord stromal tumors",
+            "type": "EXPERIMENTAL",
+            "description": "Participants with sex cord stromal tumors",
+            "interventionNames": [
+              "Drug: Fulvestrant"
+            ]
+          },
+          {
+            "label": "low-grade serous ovarian cancer",
+            "type": "EXPERIMENTAL",
+            "description": "Participants with low-grade serous ovarian cancer",
+            "interventionNames": [
+              "Drug: Fulvestrant"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Fulvestrant",
+            "description": "intramuscular injection (2x 250mg), once every 2 weeks for the first month, and then monthly until completion of the study",
+            "armGroupLabels": [
+              "Low-grade uterine sarcoma",
+              "low-grade endometrial carcinoma",
+              "low-grade serous ovarian cancer",
+              "sex cord stromal tumors"
+            ],
+            "otherNames": [
+              "Faslodex"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Response rate",
+            "description": "partial or complete response, as determined by RECIST v1.1 criteria",
+            "timeFrame": "week 24"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "progression-free survival",
+            "description": "progression-free survival after 3 years",
+            "timeFrame": "week 156"
+          },
+          {
+            "measure": "clinical benefit",
+            "description": "Clinical benefit is defined as the number of patients having complete response, partial response or stable disease, as determined by RECIST v1.1 criteria",
+            "timeFrame": "week 24"
+          },
+          {
+            "measure": "duration of response",
+            "description": "duration in weeks and days",
+            "timeFrame": "up to week 156"
+          },
+          {
+            "measure": "number of participants with treatment-related adverse events as assessed by CTCAE v5.0",
+            "description": "absolute number of participants",
+            "timeFrame": "up to 56 days after stop study treatment"
+          },
+          {
+            "measure": "EQ-5D quality of life assessment",
+            "description": "Quality of life as measured by the EQ-5D questionnaire. EQ-5D has 2 parts-the EQ-5D descriptive system and the EQ visual analog scale (EQ VAS). The descriptive system comprises 5 health states (mobility, self-care, usual activities, pain/discomfort and anxiety/depression), which will be converted into a summary index according to the EQ-5D user guide. The EQ VAS records the self-rated health on an analog scale. For both EQ-5D index and EQ VAS, a higher score indicates a better health status.\n\nDescriptive statistics of the subscores and the summary score at each visit and the difference with baseline will be reported.",
+            "timeFrame": "Quality of life questionnaires will be completed by the patients at baseline and thereafter 3-monthly up to week 156"
+          },
+          {
+            "measure": "EORTC QLQ-C30 quality of life assessment",
+            "description": "Quality of life as measured by the EORTC-QLQ-C30 questionnaire. For EORTC QLQ-C30, functional scores (emotional, role, cognitive, physical, and social) will be pooled and a summary score will be calculated according to Giesinger et al. A higher score indicates better health for functioning and global health status, whereas for the symptom scales a lower score indicates a lower level of symptom burden.\n\nDescriptive statistics of the subscores and the summary score at each visit and the difference with baseline will be reported.",
+            "timeFrame": "Quality of life questionnaires will be completed by the patients at baseline and thereafter 3-monthly up to week 156"
+          }
+        ],
+        "otherOutcomes": [
+          {
+            "measure": "Detection of ER expression by 18F-FES PET imaging",
+            "description": "16\u03b1-18F-fluoro-17\u03b2-estradiol (18F-FES) positron emission tomography (PET) technique uses a radiolabeled estrogen derivative and allows non-invasive, repetitive imaging of the ER receptor, mainly the \u03b1 subtype.\n\nThis technique has been validated for measurement of ER expression in breast cancer.\n\nPET parameters will be derived from the PET data at baseline and will be correlated to the treatment response and the survival of the patients (PFS and OS). Liver metastases will not be included in the analysis due to high physiologic background uptake.",
+            "timeFrame": "up to week 156"
+          },
+          {
+            "measure": "Predicting response to Fulvestrant by sequential 18F-FES PET imaging",
+            "description": "16\u03b1-18F-fluoro-17\u03b2-estradiol (18F-FES) positron emission tomography (PET) uses a radiolabeled estrogen derivative and allows non-invasive, repetitive imaging of the ER, mainly the \u03b1 subtype. This technique has been validated for measurement of ER in breast cancer and it has been shown that lesions with no or limited reduction of 18F-FES uptake are at risk for early progression and thus therapy failure.\n\nThe relationship between the absolute value of the PET parameters, and their change between baseline and Week 4, will be correlated to treatment response and survival of the patients.\n\nThe hypothesis is that responding patients will have a median reduction of FES uptake on pre- and post-fulvestrant 18F-FES-PET (at Week 4) of \\>75% (based on SUVmax). All patients with CR or PR according to RECIST will be classified as having responded to Fulvestrant treatment. The response rate is hypothesized to be higher in the 18F-FES responder group than in the 18F-FES non-responder group.",
+            "timeFrame": "up to week 156"
+          },
+          {
+            "measure": "Genomic analysis of blood and tumor biopsies",
+            "description": "Core biopsies and blood from patients will be collected and stored in a biobank.\n\ncf-DNA will be isolated from plasma and copy number alterations will be measured by shallow whole-exome sequencing.\n\nDNA will be extracted form core biopsies and will be subject to ER/chromatin analysis, shallow whole-exome sequencing and targeted sequencing.",
+            "timeFrame": "up to week 156"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent prior admission to the study\n* Age \u2265 18 years at the moment of signing the informed consent\n* Recurrent or metastatic low grade uterine sarcomas (low grade endometrial stromal sarcoma, low grade adenosarcoma without sarcomatous overgrowth and low grade leiomyosarcoma), low-grade endometrial carcinomas, sex cord stromal tumors (granulosa cell tumors...) and low grade serous ovarian cancer\n* Measurable disease, according to RECIST v1.1 criteria, assessed by CT scans\n* ER-positive tumors based on immunohistochemistry, assessed using the Allred scoring system (based on intensity and percentage of positive cells, see Appendix 4), and archival tissue available\n* At least and maximum of 1 prior line of hormonal therapy (tamoxifen, progestins and/or aromatase inhibitors). Response on 1st line hormonal therapy must have lasted for at least 3 months.\n* Eastern Cooperative Oncology Group (ECOG) performance status: 0-2\n* Demonstrate adequate organ function: platelets \\> 100 x 10E9/L, serum total bilirubin \\< 1.5x Upper Limit of Normal (ULN) (patients with confirmed Gilbert's syndrome may be included in the study), alanine transaminase or aspartate transaminase \\< 2.5x ULN if no demonstrable liver metastases or \\< 5x ULN in presence of liver metastases\n* Post-menopausal status as defined by (i) age 60 or more, or (ii) age 45-59 and satisfying the following criteria: amenorrhea for at least 12 months and FSH in postmenopausal range, or (iii) \u2265 18 years of age and having had a bilateral oophorectomy\n* Be willing to receive 18F-FES PET scan. Exceptions will be made in case of (i) patients living far from one of the imaging centers and for whom travelling would be a too high burden for their physical conditions; (ii) patients who received tamoxifen within 8 weeks prior to study Day 1. These patients will be enrolled, but they will not receive a FES PET scan\n* Be willing to donate a core tumor biopsy if technically feasible\n\nExclusion Criteria:\n\n* Any other active malignancy or primary malignancy diagnosed within the previous 5 years, except for adequately treated squamous or basal cell carcinoma of the skin or in situ cervical carcinoma\n* Patients currently receiving (and unwilling to discontinue) any estrogen replacement therapy.\n* Patients participating in a study or having participated in a study of an investigational agent and received study therapy (or used an investigational device) within 4 weeks prior to study Day 1\n* Patients who received prior chemo- or targeted therapy within 4 weeks prior to study Day 1 or who has not recovered from adverse events (i.e., adverse event not resolved to \u2264 Grade 1 or baseline), due to a previously administered agent\n* Patients with no archival tissue available, except for patients from whom an additional fresh core biopsy can be obtained for ER assessment\n* Any other disease, metabolic dysfunction, physical examination or clinical laboratory finding that, in the investigator's opinion, gives reasonable suspicion of a disease or condition that contraindicates the use of an investigational drug, may affect the interpretation of the results, render the patient at high risk from treatment complications or interfere with obtaining informed consent.\n* Any condition not permitting compliance with the study protocol",
+        "healthyVolunteers": false,
+        "sex": "FEMALE",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Fr\u00e9d\u00e9ric Amant, MD PhD",
+            "affiliation": "UZ Leuven",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "CHU de Liege",
+            "city": "Grivegn\u00e9e",
+            "state": "Li\u00e8ge",
+            "zip": "4030",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 50.62148,
+              "lon": 5.61101
+            }
+          },
+          {
+            "facility": "UZ Antwerp",
+            "city": "Edegem",
+            "zip": "2650",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.15662,
+              "lon": 4.44504
+            }
+          },
+          {
+            "facility": "UZ Gent",
+            "city": "Ghent",
+            "zip": "9000",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.05,
+              "lon": 3.71667
+            }
+          },
+          {
+            "facility": "AZ Sint Maarten",
+            "city": "Mechelen",
+            "zip": "2800",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.02574,
+              "lon": 4.47762
+            }
+          },
+          {
+            "facility": "Gynaecological Oncology, Radboudumc",
+            "city": "Nijmegen",
+            "state": "Gelderland",
+            "zip": "6525 GA",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 51.8425,
+              "lon": 5.85278
+            }
+          },
+          {
+            "facility": "medical Oncology, Maastricht University Medical Centrum+",
+            "city": "Maastricht",
+            "state": "Limburg",
+            "zip": "6202 AZ",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 50.84833,
+              "lon": 5.68889
+            }
+          },
+          {
+            "facility": "Gynecological Oncology Centrum, Catharina Ziekenhuis",
+            "city": "Eindhoven",
+            "state": "North Brabant",
+            "zip": "5623 EJ",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 51.44083,
+              "lon": 5.47778
+            }
+          },
+          {
+            "facility": "Amsterdam University Medical Centers (AMC)",
+            "city": "Amsterdam",
+            "state": "North Holland",
+            "zip": "1000",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.37403,
+              "lon": 4.88969
+            }
+          },
+          {
+            "facility": "The Netherlands Cancer Institute (NKI) - Antoni van Leuwenhoek Hospital (NKI-AvL)",
+            "city": "Amsterdam",
+            "state": "North Holland",
+            "zip": "1000",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.37403,
+              "lon": 4.88969
+            }
+          },
+          {
+            "facility": "Department of Obstetrics and Gynaecology, Leiden University Medical Center",
+            "city": "Leiden",
+            "state": "South Holland",
+            "zip": "2333 ZA",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.15833,
+              "lon": 4.49306
+            }
+          },
+          {
+            "facility": "Gynaecological Oncology, Erasmus MC Cancer Institute",
+            "city": "Rotterdam",
+            "state": "South Holland",
+            "zip": "3075 EA",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 51.9225,
+              "lon": 4.47917
+            }
+          },
+          {
+            "facility": "Center for Medical Imaging, University Medical Centrum Groningen",
+            "city": "Groningen",
+            "zip": "9713 GZ",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 53.21917,
+              "lon": 6.56667
+            }
+          },
+          {
+            "facility": "Obstetrics and Gynaecology, University Medical Centrum Groningen",
+            "city": "Groningen",
+            "zip": "9713 GZ",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 53.21917,
+              "lon": 6.56667
+            }
+          },
+          {
+            "facility": "University Medical Centrum Utrecht",
+            "city": "Utrecht",
+            "zip": "3584 CX",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.09083,
+              "lon": 5.12222
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "* Demographics\n* Medication and Medical history\n* Physical examination\n* Height\n* Weight\n* Vital signs\n* ECOG status\n* Core biopsy\n* Blood tests (hematological and chemical panels)\n* Blood sample for cf-DNA analysis\n* CT and/or MR scan (chest-abdomen/pelvis)\n* 18F-FDG PET/CT scan\n* 18F-FES PET/CT or PET/MRI scan\n* QoL assessment\n* Fulvestrant administration\n* Adverse Events",
+        "infoTypes": [
+          "STUDY_PROTOCOL"
+        ],
+        "timeFrame": "The data will be available from the moment it is entered into the study. From then on, all data will be kept for 20 years.",
+        "accessCriteria": "The sponsor will be the data controller and data can only be requested when a protocol has been approved."
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D018203",
+            "term": "Sarcoma, Endometrial Stromal"
+          },
+          {
+            "id": "C538232",
+            "term": "Adenosarcoma of the uterus"
+          },
+          {
+            "id": "D016889",
+            "term": "Endometrial Neoplasms"
+          },
+          {
+            "id": "D018312",
+            "term": "Sex Cord-Gonadal Stromal Tumors"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D018193",
+            "term": "Neoplasms, Complex and Mixed"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D036821",
+            "term": "Endometrial Stromal Tumors"
+          },
+          {
+            "id": "D012509",
+            "term": "Sarcoma"
+          },
+          {
+            "id": "D018204",
+            "term": "Neoplasms, Connective and Soft Tissue"
+          },
+          {
+            "id": "D014594",
+            "term": "Uterine Neoplasms"
+          },
+          {
+            "id": "D014591",
+            "term": "Uterine Diseases"
+          },
+          {
+            "id": "D005831",
+            "term": "Genital Diseases, Female"
+          },
+          {
+            "id": "D052776",
+            "term": "Female Urogenital Diseases"
+          },
+          {
+            "id": "D005261",
+            "term": "Female Urogenital Diseases and Pregnancy Complications"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D005833",
+            "term": "Genital Neoplasms, Female"
+          },
+          {
+            "id": "D014565",
+            "term": "Urogenital Neoplasms"
+          },
+          {
+            "id": "D000091662",
+            "term": "Genital Diseases"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D018309",
+            "term": "Neoplasms, Gonadal Tissue"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000077267",
+            "term": "Fulvestrant"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D004958",
+            "term": "Estradiol"
+          },
+          {
+            "id": "D004963",
+            "term": "Estrenes"
+          },
+          {
+            "id": "D004962",
+            "term": "Estranes"
+          },
+          {
+            "id": "D013256",
+            "term": "Steroids"
+          },
+          {
+            "id": "D000072473",
+            "term": "Fused-Ring Compounds"
+          },
+          {
+            "id": "D011083",
+            "term": "Polycyclic Compounds"
+          },
+          {
+            "id": "D045166",
+            "term": "Estradiol Congeners"
+          },
+          {
+            "id": "D012739",
+            "term": "Gonadal Steroid Hormones"
+          },
+          {
+            "id": "D042341",
+            "term": "Gonadal Hormones"
+          },
+          {
+            "id": "D006728",
+            "term": "Hormones"
+          },
+          {
+            "id": "D006730",
+            "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:39:04.897969"
+}

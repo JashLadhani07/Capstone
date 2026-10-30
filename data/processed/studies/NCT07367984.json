@@ -1,0 +1,284 @@
+{
+  "nct_id": "NCT07367984",
+  "title": "Death Education Intervention for Family Caregivers of Advanced Cancer Patients: a Mixed-methods Feasibility Study",
+  "sponsor": "The Hong Kong Polytechnic University",
+  "phase": "NA",
+  "status": "NOT_YET_RECRUITING",
+  "conditions": [
+    "Palliative Care",
+    "Advanced Cancer",
+    "Family Caregivers"
+  ],
+  "interventions": [
+    "Death education intervention for family caregivers of advanced cancer patients"
+  ],
+  "primary_outcome": "Feasibility outcome: time to complete the recruitment",
+  "secondary_outcomes": [
+    "Death-related communication with patients",
+    "Anxiety",
+    "Depression",
+    "Spiritual well-being",
+    "Attitudes toward death",
+    "Health-related quality of life"
+  ],
+  "start_date": "2026-03-01",
+  "completion_date": "2026-07-01",
+  "results_posted": false,
+  "enrollment": 30,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07367984",
+        "orgStudyIdInfo": {
+          "id": "06"
+        },
+        "organization": {
+          "fullName": "The Hong Kong Polytechnic University",
+          "class": "OTHER"
+        },
+        "briefTitle": "A Feasibility Study of Death Education Intervention for Family Caregivers of Advanced Cancer Patients",
+        "officialTitle": "Death Education Intervention for Family Caregivers of Advanced Cancer Patients: a Mixed-methods Feasibility Study"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-01",
+        "overallStatus": "NOT_YET_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2026-03-01",
+          "type": "ESTIMATED"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-07-01",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2026-08-31",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2025-11-24",
+        "studyFirstSubmitQcDate": "2026-01-20",
+        "studyFirstPostDateStruct": {
+          "date": "2026-01-26",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-01-20",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-01-26",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Dr CHENG Huilin",
+          "investigatorTitle": "Assistant Professor",
+          "investigatorAffiliation": "The Hong Kong Polytechnic University"
+        },
+        "leadSponsor": {
+          "name": "The Hong Kong Polytechnic University",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "The Seventh Affiliated Hospital of Sun Yat-sen University",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Advanced cancer is the leading cause of death in the world and China. Family caregivers, as the closest individuals to advanced cancer patients, suffer from a range of psychological and spiritual issues due to patients' impending death. Various types of death education interventions have been developed to assist individuals in understanding the meaning of life and death and adapting to dying to address psychological and spiritual issues. However, these interventions have predominantly focused on advanced cancer patients only, with a significant gap in support for family caregivers.\n\nA mixed methods feasibility study will be conducted. A convenience sample of at least 30 family caregivers will be recruited. Participants will receive four 60-minute sessions, flexibly scheduled within a four-week period according to each participant's conditions. The researcher will be trained to deliver the intervention through individual face-to-face sessions in the oncology ward meeting room of the same hospital in phase I. The primary outcome will be feasibility (time to complete the recruitment, eligibility rate, recruitment rate, retention rate, attendance rate, acceptability rate). Secondary outcomes will be measured for preliminary intervention effectiveness on family caregivers' communication with patients on death, anxiety, depression, spiritual well-being, attitudes towards death, and quality of life after collecting the demographic information and written consent forms, and post-intervention. A descriptive qualitative evaluation will be conducted with 12 family caregivers to explore their experience of participating in the intervention by another researcher. The qualitative data in phase II will be audio-taped and transcribed verbatim and analysed using NVivo 14 through thematic analysis. The quantitative data will be entered in SPSS version 29.0. Descriptive statistics will be used to summarise the profiles of participants and outcomes."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Palliative Care",
+          "Advanced Cancer",
+          "Family Caregivers"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "SUPPORTIVE_CARE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 30,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "The intervention group",
+            "type": "EXPERIMENTAL",
+            "description": "A 4-week face-to-face death education intervention provided by a trained registered nurse",
+            "interventionNames": [
+              "Behavioral: Death education intervention for family caregivers of advanced cancer patients"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Death education intervention for family caregivers of advanced cancer patients",
+            "description": "The intervention consists of four 60-minute face-to-face sessions, scheduled flexibly within a four-week period based on each participant's condition and availability. The intervention will be delivered face-to-face, individually in the oncology ward meeting room. The intervention sessions will cover topics such as reviewing relationships with the patient, designing legacy products, recognising death-related emotions, and saying goodbye to the patient. The intervention materials include intervention manuals, play cards, and videos, which will be provided to support session activities.",
+            "armGroupLabels": [
+              "The intervention group"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Feasibility outcome: time to complete the recruitment",
+            "description": "Time to complete the recruitment will be assessed by the time duration from the beginning to the completion of the recruitment.",
+            "timeFrame": "Through recruitment completion, up to 4 months"
+          },
+          {
+            "measure": "Feasibility outcome: eligibility rate",
+            "description": "Eligibility rate will be calculated by dividing the number of participants eligible by the number of participants screened.",
+            "timeFrame": "Through recruitment completion, up to 4 months"
+          },
+          {
+            "measure": "Feasibility outcome: recruitment rate",
+            "description": "Recruitment rate will be calculated by dividing the number of eligible participants who have consented and been enrolled by the total number of eligible participants.",
+            "timeFrame": "Through recruitment completion, up to 4 months"
+          },
+          {
+            "measure": "Feasibility outcome: retention rate",
+            "description": "Retention rate will be calculated by dividing the number of participants completed the study with valid outcome data by the number of participants enrolled at the baseline.",
+            "timeFrame": "Through recruitment completion, up to 4 months"
+          },
+          {
+            "measure": "Feasibility outcome: attendance rate",
+            "description": "Attendance rate will be calculated by dividing the number of participants completed 4 interventional sessions by the number of participants enrolled at baseline.",
+            "timeFrame": "Through recruitment completion, up to 4 months"
+          },
+          {
+            "measure": "Acceptability outcome: participants' satisfaction and perspectives of the intervention",
+            "description": "Participants' perspectives and satisfaction will be assessed using a self-developed questionnaire, designed for this study based on the Theoretical Framework of Acceptability",
+            "timeFrame": "Post-intervention, up to 4 months"
+          },
+          {
+            "measure": "Qualitative evaluation of acceptability",
+            "description": "A qualitative evaluation will explore the acceptability of the death education intervention among family caregivers. Semi-structured individual interviews will be conducted after participants complete the intervention, using an interview guide focused on their overall experience and perceived usefulness of the sessions. All interviews will be audio-recorded and transcribed verbatim.",
+            "timeFrame": "Post-intervention, up to 4 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Death-related communication with patients",
+            "description": "Family caregivers' death-related communication with patients will be assessed using the Caregivers' Communication with Patients about Illness and Death Scale (CCID, Chinese version). Each item is rated on a five-point Likert scale (1 = not at all to 5 = to a large extent), yielding a total score range of 5-25. Higher scores indicate greater avoidance of illness- and death-related communication.",
+            "timeFrame": "Baseline; Week 4"
+          },
+          {
+            "measure": "Anxiety",
+            "description": "Family caregivers' anxiety will be measured using the Generalized Anxiety Disorder-7 (GAD-7, Chinese version).The GAD-7 consists of 7 items, each rated on a 4-point Likert scale (0 = not at all to 3 = nearly every day), with a total score range of 0-21. Higher scores indicate greater anxiety severity. The Chinese version retains the same items and single-factor structure as the original.",
+            "timeFrame": "Baseline; Week 4"
+          },
+          {
+            "measure": "Depression",
+            "description": "Family caregivers' depression will be assessed using the Patient Health Questionnaire-9 (PHQ-9, Chinese version). The PHQ-9 includes 9 items, each rated from 0 (not at all) to 3 (nearly every day), giving a total score range of 0-27. Higher scores represent more severe depressive symptoms. The Chinese version maintains the original item structure.",
+            "timeFrame": "Baseline; Week 4"
+          },
+          {
+            "measure": "Spiritual well-being",
+            "description": "Family caregivers' spiritual well-being will be measured by the Spiritual Index of Well-Being (SIWB, Chinese version). The SIWB comprises 12 items, rated on a 5-point Likert scale (1 = strongly disagree to 5 = strongly agree), with a total score range of 12-60. The scale includes two subscales (self-efficacy, and life scheme). Both total and subscale scores will be calculated, with higher total and subscale scores indicating greater spiritual well-being in the corresponding domain.",
+            "timeFrame": "Baseline; Week 4"
+          },
+          {
+            "measure": "Attitudes toward death",
+            "description": "Family caregivers' attitudes toward death will be assessed using the Death Attitude Profile-Revised (DAP-R, Chinese version). The DAP-R consists of 32 items across five subscales (fear of death, death avoidance, neutral acceptance, approach acceptance, and escape acceptance), each rated on a 7-point Likert scale (1 = strongly disagree to 7 = strongly agree). Interpretation of the DAP-R focuses on the pattern of subscale scores to capture individuals' multifaceted views of death. Higher scores on acceptance-related subscales (neutral acceptance and approach acceptance) generally reflect greater acceptance of death, whereas higher scores on fear- or avoidance-related subscales (fear of death, death avoidance, and escape acceptance) reflect stronger fear-based, avoidant, or escape-oriented attitudes toward death.",
+            "timeFrame": "Baseline; Week 4"
+          },
+          {
+            "measure": "Health-related quality of life",
+            "description": "Family caregivers' quality of life will be measured using the Quality of Life in Life-Threatening Illness - Family Carer Version (QOLLTI-F, Chinese version).\n\nThe QOLLTI-F contains 16 items covering 7 domains (environment, patient condition, carer's own state, relationships, outlook, quality of care, and financial worries). Each item is rated on an 11-point numeric scale (0 = worst possible to 10 = best possible), yielding a total score range of 0-160. Higher total scores reflect better quality of life.",
+            "timeFrame": "Baseline; Week 4"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria for patients:\n\n* Age 18 years or older;\n* The patient with pathologically confirmed stage III or IV cancer;\n* The patient has initiated any systemic anti-cancer therapy (e.g.,chemotherapy, immunotherapy, targeted therapy, endocrine therapy) and has completed the first treatment administration/cycle and commenced the next planned administration/cycle;\n* The patient is assessed by the doctor as having an estimated life expectancy of \u22653 months; and\n* The patient is aware of their advanced cancer diagnosis.\n\nExclusion Criteria for patients:\n\n-The patient has no primary family caregiver during the study period.\n\nInclusion Criteria for family caregivers:\n\n* Age 18 years or older;\n* The caregiver is identified by the patient as the primary family caregiver (e.g., spouse, adult child, parent, or other relative);\n* The caregiver has been regularly involved in caregiving for the patient in the past month, and is expected to continue providing support over the next two months (e.g., daily care, accompaniment, involvement in medical communication/decision-making, and financial support);\n* Since taking on the primary caregiving role, the caregiver reports the frequency of talking about death/dying with the patient as \"Never\" or \"Rarely\" (from: Never / Rarely / Sometimes / Often / Very often);\n* The caregiver perceives a need for guidance and support in communicating with the patient about death-related matters; and\n* The caregiver has basic Chinese literacy (reading and writing) to understand the intervention content and complete written tasks.\n\nExclusion Criteria for family caregivers:\n\n* Paid or professional caregivers who receive financial compensation for providing caregiving services;\n* The caregiver provides financial support only, without regular contact with the patient;\n* The caregiver has significant cognitive impairment that would affect understanding the intervention and completing the study;\n* The caregiver has severe psychiatric symptoms that would affect understanding the intervention and completing the study;\n* The caregiver has significant communication difficulties that would affect understanding the intervention and completing the study;\n* The caregiver is unable to complete the 4-week intervention due to physical limitations (e.g., mobility restrictions preventing attendance at intervention sessions);\n* The caregiver has practical constraints that would prevent completion of the 4-week intervention or follow-up assessments (e.g., expected prolonged travel during the intervention period or inability to complete assessments as scheduled); and\n* The caregiver is currently receiving other structured psychological intervention or psychotherapy that is likely to affect study outcomes.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Tong Wang",
+            "role": "CONTACT",
+            "phone": "(86) 13169942779",
+            "email": "tongtong.wang@polyu.edu.hk"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Huilin Cheng, PhD",
+            "affiliation": "The Hong Kong Polytechnic University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "The Seventh Affiliated Hospital of Sun Yat-Sen University",
+            "city": "Shenzhen",
+            "state": "Guangdong",
+            "zip": "518001",
+            "country": "China",
+            "contacts": [
+              {
+                "name": "Xuan Liu",
+                "role": "CONTACT",
+                "phone": "(86)13533384708"
+              },
+              {
+                "name": "Tong Wang, Msc",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Kin Cheung, PhD",
+                "role": "SUB_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 22.54554,
+              "lon": 114.0683
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256924"
+}

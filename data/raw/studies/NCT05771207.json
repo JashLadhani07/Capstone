@@ -1,0 +1,408 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05771207",
+      "orgStudyIdInfo": {
+        "id": "protein-cancer-sarcopenia2023"
+      },
+      "organization": {
+        "fullName": "Peking Union Medical College Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effects of Protein on Muscle, Gut Microbiota and Clinical Outcome in Patients With Lung Cancer-related Sarcopenia",
+      "officialTitle": "Effects of Soy Protein and Whey Protein on Muscle, Gut Microbiota and Clinical Outcome in Patients With Lung Cancer-related Sarcopenia\uff08LCRS\uff09: a Randomized, Double-blind, Controlled Clinical Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-03",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-03",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-10",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2024-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-02-23",
+      "studyFirstSubmitQcDate": "2023-03-05",
+      "studyFirstPostDateStruct": {
+        "date": "2023-03-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-03-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-03-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Yu Kang, MD",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "Peking Union Medical College Hospital"
+      },
+      "leadSponsor": {
+        "name": "Peking Union Medical College Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Sarcopenia is common in lung cancer patients. It is one of the significant factors affecting the overall survival, radiotherapy and chemotherapy efficacy, and quality of life of patients with lung cancer. Previous studies have shown that increased protein intake can stimulate postprandial muscle synthesis, and improve muscle mass, strength, function, and overall survival. However, most previous studies have focused on the intervention of whey protein, while the protective effect of soybean protein on lung cancer-related sarcopenia (LCRS) has not yet been fully explored and reached an agreement.\n\nSo, this study aims to explore the effects of soy and whey protein on muscle, gut microbiota, and clinical outcomes among patients with lung cancer-related sarcopenia, to provide a reference for further nutrition treatment.",
+      "detailedDescription": "This study will last 6 months. For the duration of the study, an anticipated total of 90 participants will be randomly assigned to receive either a 30-gram protein supplement or a placebo daily. There will be a total of 5 study visits, and dietary records, questionnaires, blood and stool collection, and functional testing will occur at all study visits. Intention-to-treat analysis (ITT) and per-protocol analysis (PP) will be conducted in statistical analysis."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Lung Cancer",
+        "Sarcopenia"
+      ],
+      "keywords": [
+        "soy protein",
+        "whey protein",
+        "lung cancer related sarcopenia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 90,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "soy protein intervention",
+          "type": "EXPERIMENTAL",
+          "description": "This group received dietary guidance and soy protein intervention for 3 months",
+          "interventionNames": [
+            "Dietary Supplement: soy protein"
+          ]
+        },
+        {
+          "label": "whey protein intervention",
+          "type": "EXPERIMENTAL",
+          "description": "This group received dietary guidance and whey protein intervention for 3 months",
+          "interventionNames": [
+            "Dietary Supplement: whey protein"
+          ]
+        },
+        {
+          "label": "control",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "This group received dietary guidance and \uff4dltodextrin for 3 months",
+          "interventionNames": [
+            "Dietary Supplement: placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "soy protein",
+          "description": "The intervention is made up of soy protein supplements (30g/d) and dietary pattern modification.",
+          "armGroupLabels": [
+            "soy protein intervention"
+          ]
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "whey protein",
+          "description": "The intervention is made up of whey protein supplements (30g/d) and dietary pattern modification.",
+          "armGroupLabels": [
+            "whey protein intervention"
+          ]
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "placebo",
+          "description": "The intervention is made up of maltodextrin (30g/d) and dietary pattern modification.",
+          "armGroupLabels": [
+            "control"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change from Baseline Appendicular skeletal muscle mass index at 3 months",
+          "description": "Defined as muscle mass (Unit: kg/m2)",
+          "timeFrame": "3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change from Baseline Hand grip at 3 months",
+          "description": "Defined as muscle strength (Unit: kg)",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Change from Baseline physical performance Baseline at 3 months",
+          "description": "Measured by Short Physical Performance Battery (0-12) with higher scores meaning better physical performance.",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Change from Baseline Physical function at 3 months",
+          "description": "Measured by FRAIL scale (0-5) with higher scores meaning better physical function.",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Change from Baseline Quality of life questionnaire at 3 months",
+          "description": "Measured by EuroQol- 5 Dimension scale (0-5) with higher scores meaning better Quality of life.",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Change from Baseline gut microbiota composition at 3 months",
+          "description": "The stool samples of participants before and after intervention were collected and analized by 16S rRNA.",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Number of patients with good Chemotherapy Tolerance",
+          "description": "Completing initially planned chemotherapy course is defined as good tolerance; dose adjustment, delayed completion or interruption of treatment are considered as poor tolerance.",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Incidence of Chemotherapy toxicity",
+          "description": "Measured after initiation of chemotherapy using the WHO Toxicity Grades (gradeI-IV) with higher grades neaning severer chemotheraphy toxicity.",
+          "timeFrame": "3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* age\\>=18years old\n* Patients with lung cancer and sarcopenia\n* ECOG\\<=2\n* Patients are able to provide written informed consent.\n\nExclusion Criteria:\n\n* People who are allergic to soy protein and whey protein.\n* Participants received any drugs or supplements known to influence effcet size, such as protein powder, anabolic steroids, or glucorticosteroid before the 3 months preceding the study.\n* Participants with gastrointestinal bleeding, enterotomy or gastric bypass surgery before the 3 months preceding the study.\n* Concurrent severe cardiac disease, liver and renal failure, which may significantly interfere with study compliance.\n* Participants with electronic or mental device.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Kang Yu, MD",
+          "role": "CONTACT",
+          "phone": "+8613801130457",
+          "email": "yuk1997@sina.com"
+        },
+        {
+          "name": "Yu Zang, MD",
+          "role": "CONTACT",
+          "phone": "+8617332739749",
+          "email": "zhangyu_a0849@163.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Kang Yu, MD",
+          "affiliation": "Peking Union Medical College Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Peking Union Medical College Hospital",
+          "city": "Beijing",
+          "state": "Beijing Municipality",
+          "zip": "100730",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008175",
+          "term": "Lung Neoplasms"
+        },
+        {
+          "id": "D055948",
+          "term": "Sarcopenia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012142",
+          "term": "Respiratory Tract Neoplasms"
+        },
+        {
+          "id": "D013899",
+          "term": "Thoracic Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D009133",
+          "term": "Muscular Atrophy"
+        },
+        {
+          "id": "D020879",
+          "term": "Neuromuscular Manifestations"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D001284",
+          "term": "Atrophy"
+        },
+        {
+          "id": "D020763",
+          "term": "Pathological Conditions, Anatomical"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D030262",
+          "term": "Soybean Proteins"
+        },
+        {
+          "id": "D000067816",
+          "term": "Whey Proteins"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010940",
+          "term": "Plant Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D014674",
+          "term": "Plant Proteins, Dietary"
+        },
+        {
+          "id": "D004044",
+          "term": "Dietary Proteins"
+        },
+        {
+          "id": "D005502",
+          "term": "Food"
+        },
+        {
+          "id": "D000066888",
+          "term": "Diet, Food, and Nutrition"
+        },
+        {
+          "id": "D010829",
+          "term": "Physiological Phenomena"
+        },
+        {
+          "id": "D045730",
+          "term": "Soy Foods"
+        },
+        {
+          "id": "D000067075",
+          "term": "Vegetable Products"
+        },
+        {
+          "id": "D014675",
+          "term": "Vegetables"
+        },
+        {
+          "id": "D019602",
+          "term": "Food and Beverages"
+        },
+        {
+          "id": "D008894",
+          "term": "Milk Proteins"
+        },
+        {
+          "id": "D000080224",
+          "term": "Animal Proteins, Dietary"
+        },
+        {
+          "id": "D000067796",
+          "term": "Whey"
+        },
+        {
+          "id": "D008892",
+          "term": "Milk"
+        },
+        {
+          "id": "D003611",
+          "term": "Dairy Products"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

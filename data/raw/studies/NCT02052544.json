@@ -1,0 +1,707 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02052544",
+      "orgStudyIdInfo": {
+        "id": "PICT-01"
+      },
+      "organization": {
+        "fullName": "dsm-firmenich Switzerland AG",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Clinical Performance Evaluation of Pefakit\u00ae PiCT\u00ae UC In Vitro Diagnostic Medical Device",
+      "officialTitle": "Clinical Performance Evaluation of Pefakit\u00ae PiCT\u00ae UC In Vitro Diagnostic Medical Device"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2012-04"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2013-05",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2013-05",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-01-17",
+      "studyFirstSubmitQcDate": "2014-01-31",
+      "studyFirstPostDateStruct": {
+        "date": "2014-02-03",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2015-02-27",
+      "resultsFirstSubmitQcDate": "2015-05-04",
+      "resultsFirstPostDateStruct": {
+        "date": "2015-05-06",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-05-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-05-06",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "dsm-firmenich Switzerland AG",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To demonstrate the substantial equivalence (SE) of Pefakit\u00ae PiCT\u00ae UC (test device, T) to aPTT-SP (Hemosil) (predicate device, P) in determining heparin levels in subjects undergoing heparin therapy in support of a United States Food and Drug Administration (FDA) 510(k) submission.",
+      "detailedDescription": "Standard of Care Study. Objective is to monitor the patients' heparin levels under treatment with continuous unfractionated heparin infusions. Blood samples collections (4 ml) are required routinely. A proportion of this standard sample (leftover plasma) will be used for study purposes. About three samples will be analyzed which are collected within 2 - 4 days. Time points for blood sample collections will be defined by the treating physician according the local standard of care and will be associated exclusively to clinical considerations. Results of the Pefakit\u00ae PiCT\u00ae UC assay will NOT be used to take therapeutic decisions for study subjects."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Thromboembolic Events"
+      ],
+      "keywords": [
+        "determination of heparin levels",
+        "Patients",
+        "requiring",
+        "unfractionated"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "designInfo": {
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 123,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Study patients",
+          "description": "Patients receiving unfractionated heparin (UFH)"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Overall Sensitivity and Specificity of Pefakit and Hemosil.",
+          "description": "Sensitivity is the proportion of positive cases identified as positive. Specificity is the proportion of negative cases identified as negative. The Sensitivity and Specificity of Pefakit and Hemosil were calculated for the overall study population and separately for each of the three medical centers. Sensitivity and Specificity of Pefakit and Hemosil were each assessed relative to the reference method (Biophen)",
+          "timeFrame": "within 2 - 4 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects receiving a continuous infusion with UFH\n* Subjects who have given written informed consent (unless written informed consent is waived by local regulations or local EC/IRB)\n\nExclusion Criteria:\n\n* Subjects treated with any other anticoagulants other than UFH\n* Subjects who have been undergoing fibrinolytic therapy within the previous 4 weeks\n* Subjects who are known to have a congenital bleeding disorder\n* Subjects known to present unexplained prolongations of clotting time\n* Subjects known to have coagulation factor deficiencies\n* Patient participating or who has participated within one month from enrolment in another investigational study",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Subjects undergoing UFH anticoagulation therapy will are needed for this study. Typically, such patients are undergoing cardiovascular surgery, are being treated for thromboembolic events, or are receiving heparin intravenously for thrombosis prophylaxis due to its more advantageous pharmacokinetic profile in some situations.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Wolfgang Korte",
+          "affiliation": "Deputy Head Institute for Clinical Chemistry and Hematology",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Manuela K. Krause, MD",
+          "affiliation": "Deutsche Klinik f\u00fcr Diagnostik GmbH",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Rathbun Suman, MD",
+          "affiliation": "University of Oklahoma Health Sciences Center- Department of Medicine",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Oklahoma Health Sciences Center",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Deutsche Klinik f\u00fcr Diagnostik",
+          "city": "Wiesbaden",
+          "state": "Hesse",
+          "zip": "65191",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.08601,
+            "lon": 8.24435
+          }
+        },
+        {
+          "facility": "Cantonal Hospital -Institue for Clinical Chemistry and hematology",
+          "city": "Sankt Gallen",
+          "state": "Switzerland",
+          "zip": "CH-9007",
+          "country": "Switzerland",
+          "geoPoint": {
+            "lat": 47.42391,
+            "lon": 9.37477
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Plasma from subjects treated with any other anticoagulants other than UFH. Plasma from subjects who have been undergoing fibrinolytic therapy within the previous 4 weeks.",
+      "recruitmentDetails": "FPI: Jul 2012; LPO May 2013\n\nAll three centers were hospitals (medical clinics) with certified laboratory.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Study Patients",
+          "description": "Patients receiving unfractionated heparin (UFH)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "comment": "First Subject In",
+                  "numSubjects": "123"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "comment": "Last Subject Out",
+                  "numSubjects": "123"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "144 subjects signed ICF. 4 out of 144 failed in/exclusion criteria 123 subjets are part of the AVS (all valid subjects) population. All 123 UFH treated study subjects had previous and concomitant medications and treatments.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Plasma Samples From Subjects Receiving Unfractionated Heparin",
+          "description": "A total of 123 valid patients were recruited over three clinical centers (two in Europe, one in the US). The patients were selected from subjects receiving UFH therapy and who have given written informed consent. Excluded from the study were subjects treated with any other anticoagulants other than UFH, subjects who have been undergoing fibrinolytic therapy within the previous 4 weeks, subjects known to have a congenital bleeding disorder, subjects known to show coagulation factor deficiencies and subjects known to have a coagulation inhibitor or an unexplained APTT prolongation."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "123"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "56"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "67"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "65.5",
+                      "lowerLimit": "18",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "55"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "68"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "partecipants",
+          "classes": [
+            {
+              "title": "Oriental",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Caucasian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "114"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hispanic",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Germany",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Switzerland",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Overall Sensitivity and Specificity of Pefakit and Hemosil.",
+          "description": "Sensitivity is the proportion of positive cases identified as positive. Specificity is the proportion of negative cases identified as negative. The Sensitivity and Specificity of Pefakit and Hemosil were calculated for the overall study population and separately for each of the three medical centers. Sensitivity and Specificity of Pefakit and Hemosil were each assessed relative to the reference method (Biophen)",
+          "populationDescription": "AVS (all valid subjects) population: All valid subjects with no major deviation affecting outcome.413 samples total analyzed",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percentage of cases",
+          "timeFrame": "within 2 - 4 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Pefakit",
+              "description": "Sensitivity and Specificity of Pefakit"
+            },
+            {
+              "id": "OG001",
+              "title": "Hemosil",
+              "description": "Sensitivity and Specificity of Hemosil"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "121"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "121"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Overall Sensitivity%",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "83.3",
+                      "lowerLimit": "75.7",
+                      "upperLimit": "89.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "77",
+                      "lowerLimit": "68.6",
+                      "upperLimit": "84"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Overall Specificity%",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "81.5",
+                      "lowerLimit": "68.6",
+                      "upperLimit": "90.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "59.3",
+                      "lowerLimit": "45",
+                      "upperLimit": "72.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "site #1 (St.Gallen) Sensitivity%",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90.6",
+                      "lowerLimit": "79.3",
+                      "upperLimit": "96.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "94.3",
+                      "lowerLimit": "84.3",
+                      "upperLimit": "98.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "site #1 (St.Gallen) Specificity",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72.7",
+                      "lowerLimit": "39",
+                      "upperLimit": "94"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "27.3",
+                      "lowerLimit": "6",
+                      "upperLimit": "61"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "site #2 (Wiesbaden) Sensitivity%",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "74.4",
+                      "lowerLimit": "58.8",
+                      "upperLimit": "86.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "53.5",
+                      "lowerLimit": "37.7",
+                      "upperLimit": "68.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "site #2 (Wiesbaden) Specificity%",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "78.3",
+                      "lowerLimit": "56.3",
+                      "upperLimit": "92.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "69.6",
+                      "lowerLimit": "47.1",
+                      "upperLimit": "86.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "site #3 (Oklahoma) Sensitivity%",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "83.3",
+                      "lowerLimit": "65.3",
+                      "upperLimit": "94.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "80",
+                      "lowerLimit": "61.4",
+                      "upperLimit": "92.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "site #3 (Oklahoma) Specificity%",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90",
+                      "lowerLimit": "68.3",
+                      "upperLimit": "98.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "65",
+                      "lowerLimit": "40.8",
+                      "upperLimit": "84.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse events were collected from the date of FPI (first patient in) until LPO (last patient out).",
+      "description": "In the US the study meets the requirements for exemption as defined in the Investigational Device Exemption regulations (21 CFR Part 812.2(c)).\n\nIn the EU, national regulations were followed regarding adverse event reporting for IVD studies.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Study Patients",
+          "description": "Patients receiving unfractionated heparin (UFH)",
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 123,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 123
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Any proposed publication, lecture, manuscript, poster presentation or other disclosure or dissemination of the data or Results of this study by PI shall be submitted to DSM at least forty-five (45) days prior to its submission for publication or use for DSM's review, comment and approval. DSM reserves the right to have deleted from the proposed text all of DSM's Confidential Information which may be contained therein. DSM's comments shall be provided without undue delay."
+      },
+      "pointOfContact": {
+        "title": "Anne Brisset",
+        "organization": "DSM Nutritional Products Ltd Branch Pentapharm",
+        "email": "Anne.Brisset@pentapharm.com",
+        "phone": "41 61 706 4837"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D013923",
+          "term": "Thromboembolism"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D016769",
+          "term": "Embolism and Thrombosis"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

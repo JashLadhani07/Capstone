@@ -1,0 +1,536 @@
+{
+  "nct_id": "NCT00791336",
+  "title": "A Phase II Trial of the HIV Protease Inhibitor Nelfinavir and Concurrent Radiation and Chemotherapy in Patients With Stage III Non Small Cell Lung Cancer",
+  "sponsor": "University of Iowa",
+  "phase": "PHASE2",
+  "status": "TERMINATED",
+  "conditions": [
+    "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [
+    "Nelfinavir"
+  ],
+  "primary_outcome": "Pathologic Complete Response",
+  "secondary_outcomes": [
+    "Characterization of Overall and Disease-free Survival",
+    "Safety and Tolerability of the Combined Treatment Regimen"
+  ],
+  "start_date": "2008-08",
+  "completion_date": "2011-03",
+  "results_posted": true,
+  "enrollment": 1,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00791336",
+        "orgStudyIdInfo": {
+          "id": "200802788"
+        },
+        "organization": {
+          "fullName": "University of Iowa",
+          "class": "OTHER"
+        },
+        "briefTitle": "Study to Evaluate Using Nelfinavir With Chemoradiation for Non-small Cell Lung Cancer",
+        "officialTitle": "A Phase II Trial of the HIV Protease Inhibitor Nelfinavir and Concurrent Radiation and Chemotherapy in Patients With Stage III Non Small Cell Lung Cancer"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2017-06",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "Poor enrollment.",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2008-08"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2011-03",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2011-03",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2008-11-13",
+        "studyFirstSubmitQcDate": "2008-11-13",
+        "studyFirstPostDateStruct": {
+          "date": "2008-11-14",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2017-03-09",
+        "resultsFirstSubmitQcDate": "2017-06-29",
+        "resultsFirstPostDateStruct": {
+          "date": "2017-07-28",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2017-06-29",
+        "lastUpdatePostDateStruct": {
+          "date": "2017-07-28",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "University of Iowa",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study combines nelfinavir (NFV) with radiation therapy and chemotherapy as a treatment for non-small cell lung cancer (NSCLC) who are considered candidates for pre-operative treatment.",
+        "detailedDescription": "This is a phase 2 trial of the HIV protease inhibitor (HPI) Nelfinavir (NFV) in combination with radiotherapy and chemotherapy in patients with locally advanced non-small cell lung cancer (NSCLC) who are considered candidates for pre-operative treatment. This study is to be conducted according to US and international standards of Good Clinical Practice (FDA Title 21 part 312 and International Conference on Harmonization guidelines), applicable government regulations and Institutional research policies and procedures. The endpoints are to determine safety of NFV with chemoradiation, gather preliminary data for response, and tissue specimens for correlative molecular studies. Unacceptable toxicity is unlikely as prior studies have determined dosing 1250 mg twice a day is relatively safe for HIV patients receiving radiation therapy. NFV will start one week prior to chemo-radiotherapy and continue for the duration of chemoradiation (approximately 6 1/2 weeks). Standard radiotherapy (minimum total dose 5040 cGy) and combined (cisplatin/etoposide) chemotherapy based on SWOG 8805 will be delivered in combination with NFV. The thoracic surgery attending physician will determine the feasibility of resection. If the patient has resectable disease, the attending thoracic surgeon will perform the thoracotomy and anatomical resection. If the patient has unresectable disease, subject will be followed for 30 days post NFV administration. After the initial 30 days post-NFV, subjects will be followed for long-term outcomes (disease response and overall survival). Adjuvant therapy may be continued off-study at the discretion of managing oncology personnel. Tumors obtained at the time of surgical resection will be assessed for pathological response. Tumor tissue taken pre-treatment will be assessed for markers that may predict response such as Akt, VEGF, and EGFR."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Carcinoma, Non-Small-Cell Lung"
+        ],
+        "keywords": [
+          "NSCLC",
+          "chemotherapy",
+          "radiation therapy",
+          "nelfinavir",
+          "NFV"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 1,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Nelfinavir",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Drug: Nelfinavir"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Nelfinavir",
+            "description": "1250 mg twice daily starting for approximately 6.5 weeks.",
+            "armGroupLabels": [
+              "Nelfinavir"
+            ],
+            "otherNames": [
+              "Viracept"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Pathologic Complete Response",
+            "timeFrame": "30 days"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Characterization of Overall and Disease-free Survival",
+            "timeFrame": "long-term"
+          },
+          {
+            "measure": "Safety and Tolerability of the Combined Treatment Regimen",
+            "timeFrame": "7 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological diagnosis of non-small cell lung cancer that is Stage III (T1-3, pN2, M0) NSCLC in whom neoadjuvant therapy is recommended.\n* Must have had a mediastinoscopy to determine nodal status and potential resectability\n* Must have enough tissue from the biopsy for tissue marker determination for correlative studies\n* Negative metastatic work up (FDG PET/CT, brain CT or MRI)\n* No prior thoracic radiotherapy will be permitted\n* Age 18 years or greater\n* ECOG performance status 0-1 (Karnofsky at least 70%)\n* Normal organ and marrow function\n* No known HIV infection\n* Not pregnant\n* Ability to understand and the willingness to sign an informed consent document\n\nExclusion Criteria:\n\n* Patients requiring a pneumonectomy\n* Patients who have had chemotherapy or radiation therapy within 4 weeks prior to entering the study, or who have not recovered from adverse events due to agents administered earlier.\n* Prior thoracic radiation\n* Treatment with any other investigational agents.\n* Known metastases\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to NFV\n* Patients receiving drugs contraindicated with NFV will be excluded.\n* Uncontrolled, intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study compliance.\n* Pregnant or lactating women\n* HIV-positive patients on combination antiretroviral therapy",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "The University of Iowa Department of Radiation Oncology",
+            "city": "Iowa City",
+            "state": "Iowa",
+            "zip": "52242",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.66113,
+              "lon": -91.53017
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO",
+        "description": "Terminated due to poor enrollment; lack of data to share."
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Nelfinavir",
+            "description": "Nelfinavir: 1250 mg twice daily starting for approximately 6.5 weeks."
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Nelfinavir",
+            "description": "Nelfinavir: 1250 mg twice daily starting for approximately 6.5 weeks."
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Categorical",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "<=18 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Between 18 and 65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": ">=65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "United States",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Pathologic Complete Response",
+            "populationDescription": "Only 1 subject was enrolled and treated. Study was terminated due to poor enrollment. Data were not collected or analyzed due to study termination and low enrollment count (n=1).",
+            "reportingStatus": "POSTED",
+            "timeFrame": "30 days",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Nelfinavir",
+                "description": "Nelfinavir: 1250 mg twice daily starting for approximately 6.5 weeks."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Characterization of Overall and Disease-free Survival",
+            "populationDescription": "Only 1 subject was enrolled and treated. Study was terminated due to poor enrollment. Data were not collected or analyzed due to study termination and low enrollment count (n=1).",
+            "reportingStatus": "POSTED",
+            "timeFrame": "long-term",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Nelfinavir",
+                "description": "Nelfinavir: 1250 mg twice daily starting for approximately 6.5 weeks."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Safety and Tolerability of the Combined Treatment Regimen",
+            "populationDescription": "Only 1 subject was enrolled and treated. Study was terminated due to poor enrollment. Data were not collected or analyzed due to study termination and low enrollment count (n=1).",
+            "reportingStatus": "POSTED",
+            "timeFrame": "7 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Nelfinavir",
+                "description": "Nelfinavir: 1250 mg twice daily starting for approximately 6.5 weeks."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "5",
+        "timeFrame": "Collected through therapy (approximately 6 weeks)",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Nelfinavir",
+            "description": "Nelfinavir: 1250 mg twice daily starting for approximately 6.5 weeks.",
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 1,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 1
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "limitationsAndCaveats": {
+          "description": "There was only one treated participant. Conclusions cannot be drawn from these data due to limited sampling size."
+        },
+        "certainAgreement": {
+          "piSponsorEmployee": true
+        },
+        "pointOfContact": {
+          "title": "John M. Buatti, M.D., Chair, Department of Radiation Oncology",
+          "organization": "The University of Iowa",
+          "email": "john-buatti@uiowa.edu",
+          "phone": "319-356-2699"
+        }
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002289",
+            "term": "Carcinoma, Non-Small-Cell Lung"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002283",
+            "term": "Carcinoma, Bronchogenic"
+          },
+          {
+            "id": "D001984",
+            "term": "Bronchial Neoplasms"
+          },
+          {
+            "id": "D008175",
+            "term": "Lung Neoplasms"
+          },
+          {
+            "id": "D012142",
+            "term": "Respiratory Tract Neoplasms"
+          },
+          {
+            "id": "D013899",
+            "term": "Thoracic Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D012140",
+            "term": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D019888",
+            "term": "Nelfinavir"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D007546",
+            "term": "Isoquinolines"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T13:39:04.897979"
+}

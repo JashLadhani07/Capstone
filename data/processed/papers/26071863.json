@@ -1,0 +1,20 @@
+{
+  "pmid": "26071863",
+  "title": "Randomized Trial of a Fitbit-Based Physical Activity Intervention for Women.",
+  "abstract": "Direct-to-consumer mHealth devices are a potential asset to behavioral research but rarely tested as intervention tools. This trial examined the accelerometer-based Fitbit tracker and website as a low-touch physical activity intervention. The purpose of this study is to evaluate, within an RCT, the feasibility and preliminary efficacy of integrating the Fitbit tracker and website into a physical activity intervention for postmenopausal women. Fifty-one inactive, postmenopausal women with BMI \u226525.0 were randomized to a 16-week web-based self-monitoring intervention (n=25) or comparison group (n=26). The Web-Based Tracking Group received a Fitbit, instructional session, and follow-up call at 4 weeks. The comparison group received a standard pedometer. All were asked to perform 150 minutes/week of moderate to vigorous physical activity (MVPA). Physical activity outcomes were measured by the ActiGraph GT3X+ accelerometer. Data were collected and analyzed in 2013-2014. Participants were aged 60 (SD=7) years with BMI of 29.2 (3.5) kg/m(2). Relative to baseline, the Web-Based Tracking Group increased MVPA by 62 (108) minutes/week (p<0.01); 10-minute MVPA bouts by 38 (83) minutes/week (p=0.008); and steps by 789 (1,979) (p=0.01), compared to non-significant increases in the Pedometer Group (between-group p=0.11, 0.28, and 0.30, respectively). The Web-Based Tracking Group wore the tracker on 95% of intervention days; 96% reported liking the website and 100% liked the tracker. The Fitbit was well accepted in this sample of women and associated with increased physical activity at 16 weeks. Leveraging direct-to-consumer mHealth technologies aligned with behavior change theories can strengthen physical activity interventions.",
+  "journal": "American journal of preventive medicine",
+  "pub_date": "2015-Sep",
+  "authors": [
+    "Cadmus-Bertram, Lisa A",
+    "Marcus, Bess H",
+    "Patterson, Ruth E",
+    "Parker, Barbara A",
+    "Morey, Brittany L"
+  ],
+  "nct_ids_referenced": [
+    "NCT01837147"
+  ],
+  "source": "pubmed",
+  "word_count": 244,
+  "parsed_at": "2026-10-30T13:30:58.094934"
+}

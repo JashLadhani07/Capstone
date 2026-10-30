@@ -1,0 +1,209 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03490136",
+      "orgStudyIdInfo": {
+        "id": "IDRF-ARH-004"
+      },
+      "organization": {
+        "fullName": "India Diabetes Research Foundation & Dr. A. Ramachandran's Diabetes Hospitals",
+        "class": "OTHER"
+      },
+      "briefTitle": "Secular Trends in the Prevalence of Diabetes in India",
+      "officialTitle": "Secular TRends in DiabEtes in India",
+      "acronym": "STRiDE-I"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2017-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2018-03-07",
+      "studyFirstSubmitQcDate": "2018-03-30",
+      "studyFirstPostDateStruct": {
+        "date": "2018-04-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-07-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-07-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "India Diabetes Research Foundation & Dr. A. Ramachandran's Diabetes Hospitals",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Series of epidemiological studies have been carried out by the research team since 1988 studying the changes in the prevalence of type 2 diabetes, prediabetes and associated risk factors. These studies have shown that the determinants to rising prevalence of diabetes vary among populations and with time. Comparative studies from the same region can help to understand the secular changes occurring in a specific population. In this proposal we intend to conduct a cross-sectional survey with varied levels of urbanisation and compare the findings with our earlier reported data to assess the degree of changes in dysglycaemic prevalences. The primary aim of the proposal is to study the secular changes and the prevalence of diabetes, prediabetes and associated cardio-metabolic risk factors with varying levels of urbanization.\n\nA multi-stage random selection method will be used. Field workers will conduct an enumeration of the individuals above 20 years of age. In each location, streets will be randomly selected to have an equal representativeness from different socio-economic strata. All eligible family members of the selected households are invited for the survey. The study outcomes will be of relevance in public health research in modeling effective national healthcare policies."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type2 Diabetes",
+        "PreDiabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "ECOLOGIC_OR_COMMUNITY",
+        "timePerspective": "CROSS_SECTIONAL"
+      },
+      "enrollmentInfo": {
+        "count": 9848,
+        "type": "ACTUAL"
+      }
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Prevalence of type 2 diabetes",
+          "description": "Prevalence of type 2 diabetes ,impaired fasting glucose and impaired glucose tolerance in a city, town and peri urban village in Southern India",
+          "timeFrame": "Upto 18 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Secular trend in diabetes risk factors",
+          "timeFrame": "Upto 18 months"
+        },
+        {
+          "measure": "Prevalence of cardiovascular risk factors",
+          "timeFrame": "Upto 18 months"
+        },
+        {
+          "measure": "Prevalence of dysglycaemia in the young population aged \u2264 40 years",
+          "timeFrame": "Upto 18 months"
+        },
+        {
+          "measure": "Prevalence of age-related hypertension in these regions",
+          "timeFrame": "Upto 18 months"
+        },
+        {
+          "measure": "Changes in physical activity",
+          "timeFrame": "Upto 18 months"
+        },
+        {
+          "measure": "Quality of diabetes care",
+          "timeFrame": "Upto 18 months"
+        },
+        {
+          "measure": "Changes in dietary habits",
+          "timeFrame": "Upto 18 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nWilling to participate and provide informed consent form.\n\nExclusion Criteria:\n\nAge less than 20 years,cognitive impairment, unwilling to participate",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "20 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Households of selected families of a city, town and peri-urban village",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Ambady Ramachandran, PhD DSc",
+          "affiliation": "President, India Diabetes Research Foundation",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Dr.Ambady Ramachandran",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "zip": "600 008",
+          "country": "India",
+          "geoPoint": {
+            "lat": 13.08784,
+            "lon": 80.27847
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38923743",
+          "type": "DERIVED",
+          "citation": "Nanditha A, Susairaj P, Satheesh K, Raghavan A, Snehalatha C, Ramachandran A. The rising prevalence of type 2 diabetes among the youth in southern India-An ancillary analysis of the Secular TRends in DiabEtes in India (STRiDE-I) study. J Diabetes. 2024 Jul;16(7):e13576. doi: 10.1111/1753-0407.13576."
+        },
+        {
+          "pmid": "30659076",
+          "type": "DERIVED",
+          "citation": "Nanditha A, Snehalatha C, Satheesh K, Susairaj P, Simon M, Vijaya L, Raghavan A, Vinitha R, Ramachandran A. Secular TRends in DiabEtes in India (STRiDE-I): Change in Prevalence in 10 Years Among Urban and Rural Populations in Tamil Nadu. Diabetes Care. 2019 Mar;42(3):476-485. doi: 10.2337/dc18-1559. Epub 2019 Jan 18."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011236",
+          "term": "Prediabetic State"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

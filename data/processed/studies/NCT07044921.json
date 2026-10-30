@@ -1,0 +1,228 @@
+{
+  "nct_id": "NCT07044921",
+  "title": "A Single-center Phase II Clinical Study of Irinotecan Liposome (II)-Based Combination Regimen as a Treatment for Irinotecan-Resistant Colorectal Cancer.",
+  "sponsor": "Chinese PLA General Hospital",
+  "phase": "PHASE2",
+  "status": "RECRUITING",
+  "conditions": [
+    "Colorectal Cancer Metastatic"
+  ],
+  "interventions": [
+    "Irinotecan Liposomes (II)+Cetuximab+Bevacizumabl"
+  ],
+  "primary_outcome": "PFS",
+  "secondary_outcomes": [
+    "ORR",
+    "DCR",
+    "OS",
+    "DoR",
+    "Adverse Event"
+  ],
+  "start_date": "2024-09-01",
+  "completion_date": "2026-07-31",
+  "results_posted": false,
+  "enrollment": 30,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07044921",
+        "orgStudyIdInfo": {
+          "id": "2024-438-02"
+        },
+        "organization": {
+          "fullName": "Chinese PLA General Hospital",
+          "class": "OTHER"
+        },
+        "briefTitle": "Clinical Study of Irinotecan Liposome (II)-Based Combination Treatment for Irinotecan-resistant Colorectal Cancer.",
+        "officialTitle": "A Single-center Phase II Clinical Study of Irinotecan Liposome (II)-Based Combination Regimen as a Treatment for Irinotecan-Resistant Colorectal Cancer."
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-06",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2024-09-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-07-31",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-07-31",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2025-06-23",
+        "studyFirstSubmitQcDate": "2025-06-23",
+        "studyFirstPostDateStruct": {
+          "date": "2025-07-01",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-06-23",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-07-01",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Dai, Guanghai",
+          "investigatorTitle": "Professor",
+          "investigatorAffiliation": "Chinese PLA General Hospital"
+        },
+        "leadSponsor": {
+          "name": "Chinese PLA General Hospital",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Phase II clinical study of irinotecan liposome (II)-based combination regimen as a treatment for irinotecan-resistant colorectal cancer.",
+        "detailedDescription": "To observe and evaluate the efficacy and safety of irinotecan liposome (II)-based combination regimen as a treatment for irinotecan-resistant colorectal cancer."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Colorectal Cancer Metastatic"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 30,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Irinotecan Liposomes (II)+Cetuximab+Bevacizumabl",
+            "type": "EXPERIMENTAL",
+            "description": "Irinotecan Liposomes (II)\uff0cCetuximab and Bevacizumabl injection was started on Day 1 of each cycle.Combined treatment for 2 weeks, after efficacy evaluation, the investigator decides the subsequent treatment regimen, or until disease progression, toxicity intolerance, initiation of new anti-tumor therapy, withdrawal of informed consent, or the investigator judges that the subject needs to withdraw from the study treatment. Following RECISTv1.1 defined progression (as assessed by the investigator), study drug may continue if the investigator assesses that the subject is still receiving clinical benefit and tolerates study treatment.",
+            "interventionNames": [
+              "Drug: Irinotecan Liposomes (II)+Cetuximab+Bevacizumabl"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Irinotecan Liposomes (II)+Cetuximab+Bevacizumabl",
+            "description": "Irinotecan Liposomes (II) injection\uff1aIntravenous infusion, 60 mg/m2, Day 1, Q2W. The recommended initial dosage of irinotecan liposomes (II) for patients with the UGT1A1 \\* 28/\\* 6 homozygous mutation is 47.1 mg/m2.\n\nCetuximab injection\uff1aIntravenous infusion, 500 mg/m2, Day 1, Q2W. Bevacizumabl: Intravenous infusion, 5mg/kg, Day 1, Q2W.",
+            "armGroupLabels": [
+              "Irinotecan Liposomes (II)+Cetuximab+Bevacizumabl"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "PFS",
+            "description": "The time from randomization to the first documented progressive disease (PD) or death due to any cause, whichever occurred first",
+            "timeFrame": "up to 3 years"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "ORR",
+            "description": "The proportion of patients with a confirmed complete response or partial response",
+            "timeFrame": "up to 3 years"
+          },
+          {
+            "measure": "DCR",
+            "description": "The proportion of patients with a best overall response of confirmed complete or partial response, or stable disease",
+            "timeFrame": "up to 3 years"
+          },
+          {
+            "measure": "OS",
+            "description": "The time from randomization to death from any reason",
+            "timeFrame": "up to 3 years"
+          },
+          {
+            "measure": "DoR",
+            "description": "The length of time that a tumor continues to respond to treatment without the cancer growing or spreading.",
+            "timeFrame": "up to 3 years"
+          },
+          {
+            "measure": "Adverse Event",
+            "description": "The dose suspension rate and dose termination rate caused by adverse events were determined according to NCI-CTCAE V5.0 standard",
+            "timeFrame": "Safety visits were made before medication in each treatment cycle day1"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients agree and have signed an informed consent form and are willing and able to comply with scheduled visits, study treatment plan, laboratory tests, and other trial procedures;\n* age: 18 years and older, male or female;\n* patients with pathologically confirmed advanced colorectal cancer(excluding all other histological types);\n* Patients with colorectal cancer who have received \u2265 second-line systemic antitumor therapy (including chemotherapy with irinotecan regimen, targeted therapy, etc.);\n* There is at least one unidimensionally measurable lesion according to the evaluation standard of solid tumor curative effect (RECIST 1.1);\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0-1.\n* expected survival \u2265 3 months;\n* Normal function of major organs. Laboratory tests were to meet the following requirements: hemoglobin (Hb) \u2265 9 g/dL (90 g/L) (no corrective treatment used within 14 days); neutrophil count (ANC) \u2265 1,500/mm3 (1.5 \u00d7 109/L) (no growth factors used within 14 days); white blood cell count (WBC) \u2265 3.0 \u00d7 109/L(no corrective treatment used within 14 days);platelet count (PLT) \u2265 100,000/mm3 (100 \u00d7 109/L) (no corrective treatment used within 14 days) ; total bilirubin (TBIL) \u2264 1.5 times the upper limit of normal (ULN); Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels \u2264 3 times the upper limit of normal (ULN), and \u2264 5 \u00d7 ULN for patients with liver metastases; Serum Cr \u2264 1.5 times ULN, endogenous creatinine clearance \\> 50ml/min (Cockcroft-Gault formula);Doppler ultrasound evaluation: Left ventricular ejection fraction (LVEF) \u2265 lower limit of normal (50%); international normalized ratio INR \u2264 1.5 \u00d7 ULN and activated partial thromboplastin time \u2264 1.5 \u00d7 ULN;\n* Patients with potential fertility need to use a medically recognized contraceptive (such as intrauterine device, contraceptives or condoms) during study treatment and within 6 months after the end of study treatment; and must have a negative serum HCG test within 7 days before study enrollment; and must be non-lactating. Male participants in this study consent to the utilisation of contraceptive measures for the duration of the study period, in addition to a six-month period subsequent to the study's conclusion.\n\nExclusion Criteria:\n\n* Previously or simultaneously suffering from other malignant tumors, except for cured skin basal cell carcinoma and cervical carcinoma in situ;\n* Participated in clinical trials of other drugs within the four weeks prior to enrollment;\n* Severe gastrointestinal dysfunction (bleeding, obstruction; inflammation greater than grade 2; diarrhea greater than grade 1);\n* Patients with gastrointestinal perforation, gastrointestinal fistula, intra-abdominal abscess, and non gastrointestinal fistula (such as tracheoesophageal fistula) within the first 6 months of enrollment\uff1b\n* Patients with clinical symptoms of ascites requiring puncture and drainage (excluding those with only a small amount of ascites on imaging and controllable, but without clinical symptoms);\n* The third fluid accumulation (such as a large amount of pleural effusion) cannot reach a stable state within 2 weeks before enrollment after treatment (no intervention treatment is required after removing the drainage tube);\n* Patients with a clear tendency towards gastrointestinal bleeding, including the following conditions: local active ulcer lesions and fecal occult blood \\[(++) not eligible for inclusion\\]; Individuals with a history of black stool and vomiting blood within 2 months;\n* Known interstitial lung disease, except for interstitial changes shown only by imaging;\n* Patients known to have central nervous system metastases or a history of central nervous system metastases prior to screening. For patients suspected of having central nervous system metastasis in clinical practice, enhanced CT or enhanced magnetic resonance imaging (MRI) examination must be performed within 28 days before enrollment to rule out central nervous system metastasis;\n* Within 2 weeks prior to enrollment, concomitant medications containing strong inhibitors/inducers of CYP3A4, CYP2C8, or UGT1A1;\n* Individuals with hypertension who cannot achieve good control with single antihypertensive medication (systolic blood pressure\\>140 mmHg, diastolic blood pressure\\>90 mmHg); Individuals with a history of unstable angina pectoris; Newly diagnosed with angina pectoris within the first 3 months of screening or experiencing myocardial infarction events within the first 6 months of screening; Cardiac arrhythmia (including QTcF: male \u2265 450 ms, female \u2265 470 ms) requires long-term use of antiarrhythmic drugs and New York Heart Association classification of \u2265 II heart failure;\n* Individuals who are known to be allergic to any of the ingredients in Irinotecan Liposomes (II), other liposome products, Bevacizumab or Cetuximab, etc;\n* Individuals with abnormal coagulation function and bleeding tendency (must meet the requirement of INR being within the normal range without using anticoagulants within 14 days before enrollment); Patients treated with anticoagulants or vitamin K antagonists such as warfarin, heparin, or their analogues; Under the condition that the International Normalized Ratio (INR) of prothrombin time is \u2264 1.5, it is allowed to use low-dose warfarin (1 mg orally, once daily) or low-dose aspirin (daily dose not exceeding 100 mg) for preventive purposes;\n* For female participants: Non surgical sterilization or non postmenopausal patients who refuse to use a medically approved contraceptive measure during the study treatment period and within 6 months after the end of the study treatment period; Women of childbearing age who tested positive for pregnancy in serum or urine within 7 days prior to enrollment in the study, or are currently breastfeeding. Male subjects: patients who have undergone non-surgical sterilization and refuse to use a medically approved contraceptive measure during the study treatment period and within 6 months after the end of the study treatment period;\n* Combined with active hepatitis B (hepatitis B surface antigen positive and HBV DNA \u2265 500IU/mL), hepatitis C (hepatitis C antibody positive and HCV-RNA higher than the upper limit of normal); Known to have acquired immunodeficiency syndrome (AIDS) or HIV test positive, active syphilis infection;\n* The patient has an active infection, an unexplained fever of \u2265 38.5 \u2103 within one week prior to enrollment, or a white blood cell count\\>15 \u00d7 109/L during the screening period; therapeutic antibiotics were administered orally or intravenously within two weeks prior to enrollment (excluding prophylactic antibiotics administered intravenously for no more than 48 hours)\uff1b\n* Having a clear history of neurological or mental disorders, including epilepsy or dementia;\n* According to the researcher's assessment, there are accompanying diseases that pose a serious threat to patient safety or affect the completion of the study;\n* Researchers assess other situations that may affect the progress of clinical research and the determination of research results.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Guanghai Dai, Doctor",
+            "role": "CONTACT",
+            "phone": "+861066947252",
+            "email": "daigh301@vip.sina.com"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Guanghai Dai, Doctor",
+            "affiliation": "Chinese PLA General Hospital",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Chinese PLA General Hospital, Beijing,",
+            "status": "RECRUITING",
+            "city": "Beijing",
+            "country": "China",
+            "contacts": [
+              {
+                "name": "Guanghai Dai",
+                "role": "CONTACT",
+                "phone": "01066947252",
+                "email": "daigh301@vip.sina.com"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.9075,
+              "lon": 116.39723
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256827"
+}

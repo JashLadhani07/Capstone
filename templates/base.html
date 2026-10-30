@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}MOSAIC{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', path='css/pages.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="brand-logo">M</div>
+                <div class="brand-info">
+                    <h2>MOSAIC</h2>
+                    <span>INTELLIGENCE OS</span>
+                </div>
+            </div>
+
+            <nav class="nav-section">
+                <div class="nav-heading">CORE</div>
+                <a href="/" class="nav-item {% if active_page == 'overview' %}active{% endif %}" data-page="overview">
+                    <span class="nav-icon">⌸</span> Overview
+                </a>
+                <a href="/analysis" class="nav-item {% if active_page == 'analysis' %}active{% endif %}" data-page="analysis">
+                    <span class="nav-icon">✳</span> Analysis
+                </a>
+                <a href="/signals" class="nav-item {% if active_page == 'signals' %}active{% endif %}" data-page="signals">
+                    <span class="nav-icon">⌁</span> Signals
+                </a>
+            </nav>
+
+            <nav class="nav-section">
+                <div class="nav-heading">CORE</div>
+                <a href="/" class="nav-item {% if active_page == 'overview' %}active{% endif %}" data-page="overview">
+                    <span class="nav-icon">⌸</span> Overview
+                </a>
+                <a href="/analysis" class="nav-item {% if active_page == 'analysis' %}active{% endif %}" data-page="analysis">
+                    <span class="nav-icon">✳</span> Analysis
+                </a>
+                <a href="/signals" class="nav-item {% if active_page == 'signals' %}active{% endif %}" data-page="signals">
+                    <span class="nav-icon">⌁</span> Signals
+                </a>
+            </nav>
+
+            <nav class="nav-section">
+                <div class="nav-heading">OPERATIONS</div>
+                <a href="/reviews" class="nav-item {% if active_page == 'reviews' %}active{% endif %}" data-page="reviews">
+                    <span class="nav-icon">◇</span> Reviews
+                </a>
+                <a href="/agents" class="nav-item {% if active_page == 'agents' %}active{% endif %}" data-page="agents">
+                    <span class="nav-icon">⚙</span> Agent Monitor
+                </a>
+            </nav>
+
+            <nav class="nav-section">
+                <div class="nav-heading">KNOWLEDGE</div>
+                <a href="/assistant" class="nav-item {% if active_page == 'assistant' %}active{% endif %}" data-page="assistant">
+                    <span class="nav-icon">✦</span> AI Assistant
+                </a>
+            </nav>
+
+            <div class="sidebar-bottom">
+                <div class="connection-indicator"></div>
+                <div>
+                    <p>System Online</p>
+                    <span>v0.1.0 Stable</span>
+                </div>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <header class="topbar">
+                <div class="breadcrumb">
+                    Workspace <span>/</span> {% block breadcrumb %}Overview{% endblock %}
+                </div>
+                <div class="topbar-actions">
+                    <div class="system-status">
+                        <span class="status-dot"></span> ENGINE ACTIVE
+                    </div>
+                    <div class="profile-avatar">AG</div>
+                </div>
+            </header>
+
+            <div class="page-content">
+                {% block content %}{% endblock %}
+            </div>
+        </main>
+    </div>
+
+    <div id="toast-container"></div>
+
+    {% block scripts %}{% endblock %}
+    <script src="{{ url_for('static', path='js/app.js') }}"></script>
+</body>
+</html>

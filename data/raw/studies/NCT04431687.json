@@ -1,0 +1,283 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04431687",
+      "orgStudyIdInfo": {
+        "id": "A98_02DDI2004"
+      },
+      "organization": {
+        "fullName": "Chong Kun Dang Pharmaceutical",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Clinical Trial to Investigate the Pharmacokinetic Drug Interaction and Safety of CKD-501, D759 and D150 (CKD-393)",
+      "officialTitle": "A Randomized, Open-label, 2-Part, Multiple-dose, Two-way Crossover Clinical Trial to Evaluate Drug-drug Interactions and Safety Between CKD-501, D759, and D150 in Healthy Adults"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-06-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-07-24",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-10-26",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-06-11",
+      "studyFirstSubmitQcDate": "2020-06-11",
+      "studyFirstPostDateStruct": {
+        "date": "2020-06-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-11-13",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-11-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Chong Kun Dang Pharmaceutical",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "A Clinical trial to investigate the pharmacokinetic drug interaction and safety of CKD-501, D759 and D150",
+      "detailedDescription": "A Randomized, Open-label, 2-Part, Multiple-dose, Two-way Crossover Clinical Trial to Evaluate Drug-drug Interactions and safety between CKD-501, D759, and D150 in Healthy Adult"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 2 Diabetes Mellitus"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 48,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Sequence 1",
+          "type": "EXPERIMENTAL",
+          "description": "Period 1: CKD-501 - A single oral dose of 1 tablet under fasting conditions for 5 days.\n\nPeriod 2: CKD-501, D759, D150 - A single oral dose of 4 tablets under fasting conditions for 5 days (CKD-501: 1 tablet, D759: 1 tablet, D150: 2 tablets).",
+          "interventionNames": [
+            "Drug: CKD 501",
+            "Drug: CKD-501, D759, D150"
+          ]
+        },
+        {
+          "label": "Sequence 2",
+          "type": "EXPERIMENTAL",
+          "description": "Period 1: CKD-501, D759, D150 - A single oral dose of 4 tablets under fasting conditions for 5 days (CKD-501: 1 tablet, D759: 1 tablet, D150: 2 tablets).\n\nPeriod 2: CKD-501 - A single oral dose of 1 tablet under fasting conditions for 5 days",
+          "interventionNames": [
+            "Drug: CKD 501",
+            "Drug: CKD-501, D759, D150"
+          ]
+        },
+        {
+          "label": "Sequence 3",
+          "type": "EXPERIMENTAL",
+          "description": "Period 1: D759, D150 - A single oral dose of 3 tablets under fasting conditions for 5 days (D759: 1 tablet, D150: 2 tablets).\n\nPeriod 2: CKD-501, D759, D150 - A single oral dose of 4 tablets under fasting conditions for 5 days (CKD-501: 1 tablet, D759: 1 tablet, D150: 2 tablets).",
+          "interventionNames": [
+            "Drug: D759, D150",
+            "Drug: CKD-501, D759, D150"
+          ]
+        },
+        {
+          "label": "Sequence 4",
+          "type": "EXPERIMENTAL",
+          "description": "Period 1: CKD-501, D759, D150 - A single oral dose of 4 tablets under fasting conditions for 5 days (CKD-501: 1 tablet, D759: 1 tablet, D150: 2 tablets).\n\nPeriod 2: D759, D150 - A single oral dose of 3 tablets under fasting conditions for 5 days (D759: 1 tablet, D150: 2 tablets).",
+          "interventionNames": [
+            "Drug: D759, D150",
+            "Drug: CKD-501, D759, D150"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "CKD 501",
+          "description": "QD, PO",
+          "armGroupLabels": [
+            "Sequence 1",
+            "Sequence 2"
+          ],
+          "otherNames": [
+            "CKD-501"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "D759, D150",
+          "description": "QD, PO",
+          "armGroupLabels": [
+            "Sequence 3",
+            "Sequence 4"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "CKD-501, D759, D150",
+          "description": "QD, PO",
+          "armGroupLabels": [
+            "Sequence 1",
+            "Sequence 2",
+            "Sequence 3",
+            "Sequence 4"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Cmax,ss of CKD-501, D759, D150",
+          "description": "Cmax,ss: Maximum concentration of drug in plasma at steady state",
+          "timeFrame": "CKD-501: Day1, Day3, Day4 - Pre-dose(0 hour), Day5 - Pre-dose(0 hour), 0.33, 0.67, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours / D759,D150: Day1, Day3, Day4- Pre-dose(0 hour), Day5- Pre-dose(0 hour), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours"
+        },
+        {
+          "measure": "AUCtau,ss of CKD-501, D759, D150",
+          "description": "AUCtau,ss: Area under the plasma drug concentration-time curve within a dosing interval(\u03c4) at steady state",
+          "timeFrame": "CKD-501: Day1, Day3, Day4 - Pre-dose(0 hour), Day5 - Pre-dose(0 hour), 0.33, 0.67, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours / D759,D150: Day1, Day3, Day4- Pre-dose(0 hour), Day5- Pre-dose(0 hour), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Cmin,ss of CKD-501, D759, D150",
+          "description": "Cmin,ss: Minimum concentration of drug in plasma at steady state",
+          "timeFrame": "CKD-501: Day1, Day3, Day4 - Pre-dose(0 hour), Day5 - Pre-dose(0 hour), 0.33, 0.67, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours / D759,D150: Day1, Day3, Day4- Pre-dose(0 hour), Day5- Pre-dose(0 hour), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours"
+        },
+        {
+          "measure": "Tmax,ss of CKD-501, D759, D150",
+          "description": "Tmax,ss: Time to maximum plasma concentration at steady state",
+          "timeFrame": "CKD-501: Day1, Day3, Day4 - Pre-dose(0 hour), Day5 - Pre-dose(0 hour), 0.33, 0.67, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours / D759,D150: Day1, Day3, Day4- Pre-dose(0 hour), Day5- Pre-dose(0 hour), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours"
+        },
+        {
+          "measure": "t1/2,ss of CKD-501, D759, D150",
+          "description": "t1/2,ss: Terminal half-life at steady state",
+          "timeFrame": "CKD-501: Day1, Day3, Day4 - Pre-dose(0 hour), Day5 - Pre-dose(0 hour), 0.33, 0.67, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours / D759,D150: Day1, Day3, Day4- Pre-dose(0 hour), Day5- Pre-dose(0 hour), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours"
+        },
+        {
+          "measure": "CLss/F of CKD-501, D759, D150",
+          "description": "CLss/F: Apparent Clearance at steady state",
+          "timeFrame": "CKD-501: Day1, Day3, Day4 - Pre-dose(0 hour), Day5 - Pre-dose(0 hour), 0.33, 0.67, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours / D759,D150: Day1, Day3, Day4- Pre-dose(0 hour), Day5- Pre-dose(0 hour), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours"
+        },
+        {
+          "measure": "Fluctuation of CKD-501, D759, D150",
+          "description": "Fluctuation: Peak trough fluctuation within one dosing interval",
+          "timeFrame": "CKD-501: Day1, Day3, Day4 - Pre-dose(0 hour), Day5 - Pre-dose(0 hour), 0.33, 0.67, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours / D759,D150: Day1, Day3, Day4- Pre-dose(0 hour), Day5- Pre-dose(0 hour), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours"
+        },
+        {
+          "measure": "Vd,ss/F of CKD-501, D759, D150",
+          "description": "Vd,ss/F: Apparent Volume of distribution at steady state",
+          "timeFrame": "CKD-501: Day1, Day3, Day4 - Pre-dose(0 hour), Day5 - Pre-dose(0 hour), 0.33, 0.67, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours / D759,D150: Day1, Day3, Day4- Pre-dose(0 hour), Day5- Pre-dose(0 hour), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 10, 12, 24hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Those who voluntarily decide to participate and agree to comply with the cautions after hearing and fully understanding the detailed description of this clinical trial\n2. Healthy adult volunteers aged between 19 and 55-year-old\n3. Weight \u2265 50kg (men) or \u2265 45kg (women), with calculated body mass index(BMI) of 18.0 to 30.0 kg/m2\n\nExclusion Criteria:\n\n1. Those who have history of hypersensitivity to active pharmaceutical ingredient (Lobeglitazone, Sitagliptin, Metformin) or additives.\n2. Those who have clinically significant disease or medical history of Hepatopathy, Renal dysfunction, Neurological disorder, Immunity disorder, Respiratory disorder, Genitourinary system disorder, Digestive system disorder, Endocrine system disorder, Cardiovascular disorder, Blood tumor, Psychical disorder, Severe urinary tract infection\n3. Those who have past medical history of gastrointestinal disorder (Crohn's disease, ulcerative colitis, etc. except simple appendectomy or hernia surgery), which affect the absorption of drug\n4. Those who have Drug abuse (especially sleeping drugs, central analgesics, opiates or psychotropic drugs such as psychotropic drugs) or persons with a history of substance abuse\n5. Those who have the test results written below\n\n   * AST, ALT \\> 1.25 times higher than upper normal level\n   * Total bilirubin \\> 1.5 times higher than upper normal level\n   * eGFR (estimated Glomerular Filtration Rate, which is calculated by MDRD) \\< 60 mL/min/1.73m2\n   * \"Positive\" or \"Reactive\" test result of Hepatitis B \\& C, HIV, RPR\n   * Under 5 min resting condition, systolic blood pressure \\>150 mmHg or \\<90 mmHg, diastolic blood pressure \\>100 mmHg or \\<50 mmHg\n6. Those who have determined that the abnormal results are clinically significant in the screening test items (question, vital signs, electrocardiogram, physical test, blood, urine test, etc.)\n7. Those who have participated in other clinical trials within 180 days of the intended study drug administration and have been administered clinical trial medications (except for those who have not taken the study medication)\n8. Those who has taken a drug (specialized drug, generic drug, herbal medicine, or nutritional supplement (vitamin, etc.)) within 2 weeks prior to screening (however, if it is considered that it does not affect the safety and research results of the subject, as determined by the investigator) You can participate in the test.)\n9. Those who donated whole blood within 8 weeks prior to screening, or who donated or donated components (plasma, platelets) within 4 weeks, and consented to prohibit blood donation from 30 days after the last dose Not.\n10. Those who have continuously consumed more than 21 units/week (1 unit of alcohol = 10 g = 12.5 mL) within 6 months prior to screening\n11. Those who have More than 10 smokers a day within 6 months prior to screening\n12. Those who cannot use clinically acceptable contraceptive methods (e.g., infertility surgery between themselves and partners, intrauterine contraceptive devices, use of diaphragms or condoms) from the time the drug is administered to the last visit\n13. Those who cannot inhibit the diet (especially grapefruit juice, caffeine) that can affect the absorption, distribution, metabolism, and excretion of the drug from 3 days before the last administration of the investigational drug to the last visit.\n14. Those who have genetic problems such as galactose intolerance, Lapp lactose deficiency or glucose-galactose malabsorption\n15. Those who receive intravenous administration of radioactive iodine contrast agents (for intravenous urography, venous cholangiography, angiography, computed tomography using contrast agents, etc.) within 48 hours before the first administration of investigational product\n16. Those who are pregnant or breastfeeding\n17. Those who are deemed inappropriate to participate in clinical trial by investigators",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "19 Years",
+      "maximumAge": "55 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Anhye Kim, Ph.D",
+          "affiliation": "CHA University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "CHA Bundang Medical Center, CHA University",
+          "city": "Seongnam-si",
+          "state": "Bundang",
+          "zip": "13497",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.43861,
+            "lon": 127.13778
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C546215",
+          "term": "lobeglitazone"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

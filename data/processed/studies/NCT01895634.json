@@ -1,0 +1,1004 @@
+{
+  "nct_id": "NCT01895634",
+  "title": "Reperfuse Ischemic Vessels With Endovascular Recanalization Device in JAPAN (RIVER JAPAN)",
+  "sponsor": "Johnson & Johnson K.K. Medical Company",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Acute Ischemic Stroke"
+  ],
+  "interventions": [
+    "Rev-01"
+  ],
+  "primary_outcome": "Proportion of Patients Who Have Recanalization",
+  "secondary_outcomes": [
+    "Proportion of Subject Who Have Clot Migration/Embolization",
+    "Neurological Outcome: Proportion of mRS 0-2 at 90 Days Post Procedure",
+    "Proportion of Patients With Symptomatic and Asymptomatic Intracranial Hemorrhage (ICH)",
+    "All Cause Mortality"
+  ],
+  "start_date": "2013-05",
+  "completion_date": "2014-11",
+  "results_posted": true,
+  "enrollment": 49,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01895634",
+        "orgStudyIdInfo": {
+          "id": "Rev-01"
+        },
+        "organization": {
+          "fullName": "Johnson & Johnson K.K. Medical Company",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Reperfuse Ischemic Vessels With Endovascular Recanalization Device in JAPAN (RIVER JAPAN)",
+        "officialTitle": "Reperfuse Ischemic Vessels With Endovascular Recanalization Device in JAPAN (RIVER JAPAN)"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2016-02",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2013-05"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2014-11",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2014-11",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2013-07-01",
+        "studyFirstSubmitQcDate": "2013-07-05",
+        "studyFirstPostDateStruct": {
+          "date": "2013-07-10",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2016-01-06",
+        "resultsFirstSubmitQcDate": "2016-01-06",
+        "resultsFirstPostDateStruct": {
+          "date": "2016-02-05",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2016-02-04",
+        "lastUpdatePostDateStruct": {
+          "date": "2016-03-07",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Johnson & Johnson K.K. Medical Company",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The main objective of this study is to document that the thrombectomy catheter (Rev-01) is effective and safe when used for revascularization in subjects with acute ischemic stroke within 8 hours of symptom onset who are ineligible for treatment with IV t-PA, or in whom treatment with IV t-PA has been ineffective."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Acute Ischemic Stroke"
+        ],
+        "keywords": [
+          "Ischemia",
+          "Stroke",
+          "Ischemic Stroke",
+          "Thrombectomy",
+          "Brain clot",
+          "Cerebrovascular disease",
+          "Recanalization",
+          "Revascularization",
+          "Clot Retriever",
+          "Neurovascular Intervention",
+          "Interventional Neuroradiology",
+          "neurovascular clinical trial"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 49,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Treatment",
+            "type": "EXPERIMENTAL",
+            "description": "Intervention Device: Rev-01",
+            "interventionNames": [
+              "Device: Rev-01"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Rev-01",
+            "description": "Treatment arm patients have used Rev-01 at least once",
+            "armGroupLabels": [
+              "Treatment"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Proportion of Patients Who Have Recanalization",
+            "description": "Proportion of subjects who had recanalization, TICI 2a or better",
+            "timeFrame": "immediately post procedure"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Proportion of Subject Who Have Clot Migration/Embolization",
+            "timeFrame": "immediately post procedure"
+          },
+          {
+            "measure": "Neurological Outcome: Proportion of mRS 0-2 at 90 Days Post Procedure",
+            "description": "The Modified Rankin Scale (mRS) is a commonly used scale for measuring the degree of disability or dependence in the daily activities of people who have suffered a stroke or other causes of neurological disability. The scale runs from 0-6, running from perfect health without symptoms to death\", or similar, as accurate.",
+            "timeFrame": "90 days post procedure"
+          },
+          {
+            "measure": "Proportion of Patients With Symptomatic and Asymptomatic Intracranial Hemorrhage (ICH)",
+            "timeFrame": "24-hour post procedure"
+          },
+          {
+            "measure": "All Cause Mortality",
+            "timeFrame": "90 days post-procedure"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Subject presenting with clinical signs and symptoms consistent with a diagnosis of acute ischemic stroke\n* Onset of symptom is within 8 hours prior to treatment with Rev-01\n* Treatment with IV t-PA is ineligible or ineffective\n* Occluded (presenting TICI score of 0 or 1) M1 or M2 of MCA, basilar or vertebral artery, or intracranial segment of ICA, confirmed by angiography that it is accessible to the Rev-01\n* NIHSS score is 8-30\n* Prior to new focal disabling neurologic deficit, mRS score was 0-2\n* Age from 20 y.o. to 85 y.o.\n* Written informed consent to participate by subject or legal representative\n\nKey Exclusion Criteria:\n\n* Subject presenting; ICA dissection, Angiitis, Arterial tortuosity that would prevent the device from reaching the target vessel, Arterial stenosis \\> 50% that would prevent the device from reaching the target vessel, Evidence of acute intracranial hemorrhage, Evidence of mass effect or intracranial tumor, Evidence of extended early ischemic changes\n* Subject with more than two major artery occluded\n* Known sensitivity or ineligible to radiographic agent, or metallic allergy\n* Administration of dabigatran or heparin within 48 hours preceding the onset of stroke and have an elevated APTT or PTT above twice of the normal range for the laboratory at presentation\n* Known bleeding diathesis of current use of oral anticoagulants (e.g., warfarin sodium) with International Normalized Ration (INR) \\> 3\n* Platelet count \\< 30,000/mm3\n* Glucose \\< 50 mg/dL\n* Severe sustained hypertension (SBP \\> 185mmHG or DBP \\> 110mmHG) refractory to pharmacological management\n* Life expectancy of less than 90 days\n* Pregnancy or females who are lactating\n* Current participation in an investigational drug or device study\n* Otherwise determined by investigator to be medically unsuitable for participation",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "20 Years",
+        "maximumAge": "85 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Nobuyuki Sakai, M.D., D.M.Sc",
+            "affiliation": "Kobe City Medical Center General Hospital",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Kobe City Medical Center General Hospital",
+            "city": "Kobe",
+            "state": "Hy\u014dgo",
+            "zip": "650-0046",
+            "country": "Japan",
+            "geoPoint": {
+              "lat": 34.6913,
+              "lon": 135.183
+            }
+          }
+        ]
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Treatment",
+            "description": "Intervention Device: Rev-01\n\nRev-01: Treatment arm patients have used Rev-01 at least once"
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "49"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "46"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Treatment",
+            "description": "Intervention Device: Rev-01\n\nRev-01: Treatment arm patients have used Rev-01 at least once"
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "49"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Continuous",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "years",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "70.6",
+                        "spread": "10.7"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "26"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "23"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "Japan",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "49"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Proportion of Patients Who Have Recanalization",
+            "description": "Proportion of subjects who had recanalization, TICI 2a or better",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "timeFrame": "immediately post procedure",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Treatment",
+                "description": "Intervention Device: Rev-01\n\nRev-01: Treatment arm patients have used Rev-01 at least once"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "49"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "36"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Proportion of Subject Who Have Clot Migration/Embolization",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "timeFrame": "immediately post procedure",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Treatment",
+                "description": "Intervention Device: Rev-01\n\nRev-01: Treatment arm patients have used Rev-01 at least once"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "49"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Neurological Outcome: Proportion of mRS 0-2 at 90 Days Post Procedure",
+            "description": "The Modified Rankin Scale (mRS) is a commonly used scale for measuring the degree of disability or dependence in the daily activities of people who have suffered a stroke or other causes of neurological disability. The scale runs from 0-6, running from perfect health without symptoms to death\", or similar, as accurate.",
+            "populationDescription": "Missing value was not be imputed (1 missing subject was because of the missing data at 90 days by subject IC withdrawal)",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "timeFrame": "90 days post procedure",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Treatment",
+                "description": "Intervention Device: Rev-01\n\nRev-01: Treatment arm patients have used Rev-01 at least once"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "48"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "30"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Proportion of Patients With Symptomatic and Asymptomatic Intracranial Hemorrhage (ICH)",
+            "populationDescription": "Missing value was not be imputed (1 missing subject was because of the death within 24 hours)",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "timeFrame": "24-hour post procedure",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Treatment",
+                "description": "Intervention Device: Rev-01\n\nRev-01: Treatment arm patients have used Rev-01 at least once"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "48"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "15"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "All Cause Mortality",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "timeFrame": "90 days post-procedure",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Treatment",
+                "description": "Intervention Device: Rev-01\n\nRev-01: Treatment arm patients have used Rev-01 at least once"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "49"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "5",
+        "timeFrame": "90 days post procedure",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Treatment",
+            "description": "Intervention Device: Rev-01\n\nRev-01: Treatment arm patients have used Rev-01 at least once",
+            "seriousNumAffected": 16,
+            "seriousNumAtRisk": 49,
+            "otherNumAffected": 47,
+            "otherNumAtRisk": 49
+          }
+        ],
+        "seriousEvents": [
+          {
+            "term": "Intestinal ischaemia",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Rectal ulcer",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Sepsis",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Burns third degree",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Colon cancer",
+            "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Brain stem infarction",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Cerebral infarction",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 4,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Haemorrhage intracranial",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 2,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Brain oedema",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 2,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Carotid artery occlusion",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Hypercapnia",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Femoral artery aneurysm",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Haemorrhagic infarction",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Embolism",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Iliac artery occlusion",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 1,
+                "numAtRisk": 49
+              }
+            ]
+          }
+        ],
+        "otherEvents": [
+          {
+            "term": "Anaemia",
+            "organSystem": "Blood and lymphatic system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 8,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Constipation",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 22,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Diarrhoea",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 5,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Vomiting",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 6,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Pyrexia",
+            "organSystem": "General disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 3,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Hepatic function abnormal",
+            "organSystem": "Hepatobiliary disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 4,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Urinary tract infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 8,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Hypokalaemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 3,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Back pain",
+            "organSystem": "Musculoskeletal and connective tissue disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 3,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Haemorrhage intracranial",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 11,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Subarachnoid haemorrhage",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 7,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Cerebral vasoconstriction",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 3,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Insomnia",
+            "organSystem": "Psychiatric disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 7,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Erythema",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 3,
+                "numAtRisk": 49
+              }
+            ]
+          },
+          {
+            "term": "Intraoperative cerebral artery occlusion",
+            "organSystem": "Injury, poisoning and procedural complications",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numAffected": 7,
+                "numAtRisk": 49
+              }
+            ]
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": false,
+          "restrictiveAgreement": false
+        },
+        "pointOfContact": {
+          "title": "Depertment Chief, Clinical Operation",
+          "organization": "Johnson & Johnson K.K. Medical Company",
+          "email": "yikeda5@its.jnj.com",
+          "phone": "+81-3-4411-6789"
+        }
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000083242",
+            "term": "Ischemic Stroke"
+          },
+          {
+            "id": "D007511",
+            "term": "Ischemia"
+          },
+          {
+            "id": "D020521",
+            "term": "Stroke"
+          },
+          {
+            "id": "D002561",
+            "term": "Cerebrovascular Disorders"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001927",
+            "term": "Brain Diseases"
+          },
+          {
+            "id": "D002493",
+            "term": "Central Nervous System Diseases"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T13:39:11.509582"
+}

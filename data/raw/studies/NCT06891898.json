@@ -1,0 +1,393 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06891898",
+      "orgStudyIdInfo": {
+        "id": "PS240001"
+      },
+      "organization": {
+        "fullName": "Beta Bionics, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "The iLet Experience Study",
+      "officialTitle": "iLet Dosing Decision Software Postmarket Surveillance Plan (PS240001): The iLet Experience Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-09",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-05-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-06",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-06",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-03-18",
+      "studyFirstSubmitQcDate": "2025-03-18",
+      "studyFirstPostDateStruct": {
+        "date": "2025-03-24",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-09-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-09-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Beta Bionics, Inc.",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "The Scripps Research Institute",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isPpsd": true,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "A one-year, prospective single-arm cohort study to collect safety and effectiveness data on the iLet Dosing Decision Software during real-world use in people 6 years of age or older with type 1 diabetes (T1D) with 12 months follow-up.",
+      "detailedDescription": "The study will compare outcomes data during iLet use to efficacy and safety outcomes data derived from epidemiological studies, such as data published by the T1D Exchange registry, and to the results of the Bionic Pancreas Pivotal Trial (BPPT), with a special emphasis on serious adverse effects such as severe hypoglycemia and DKA. An analysis will be conducted comparing glycemic outcomes during iLet use to baseline pre-iLet CGM and HbA1c data in participants who have provided this data. In addition, the study will determine the frequency and types of anticipated and unanticipated device issues experienced by users during real-world use."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 1 Diabetes"
+      ],
+      "keywords": [
+        "diabetes",
+        "postmarket registry",
+        "iLet Bionic Pancreas",
+        "Beta Bionics",
+        "iLet Dosing Decision Software"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "12 Months",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 1875,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "iLet Bionic Pancreas",
+          "description": "users of the iLet Bionic Pancreas installed with the iLet Dosing Decision Software",
+          "interventionNames": [
+            "Device: iLet Dosing Decision Software"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "iLet Dosing Decision Software",
+          "description": "Interoperable alternate glycemic controller",
+          "armGroupLabels": [
+            "iLet Bionic Pancreas"
+          ],
+          "otherNames": [
+            "iLet Bionic Pancreas"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Severe Hypoglycemia/cognitive impairment",
+          "description": "Number of severe hypoglycemia events associated with cognitive impairment requiring the assistance of a third party for treatment per 100 patient years",
+          "timeFrame": "1 year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Severe Hypoglycema/unconsciousness or seizure",
+          "description": "Number of severe hypoglycemia events associated with unconsciousness or seizure per 100 patient years",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "DKA",
+          "description": "Number of diabetic ketoacidosis events per 100 patient years",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Unanticipated Adverse Device Effects",
+          "description": "Rate of unanticipated adverse device effects",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Mean CGM Glucose",
+          "description": "Mean glucose as determined by CGM after 1 year of iLet use",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Time < 54 mg/dL",
+          "description": "Percentage of time with CGM glucose \\< 54 mg/dL",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Time < 70 mg/dL",
+          "description": "Percentage of time with CGM glucose \\< 70 mg/dL",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Time in Range",
+          "description": "Percentage of time with CGM glucose 70-180 mg/dL",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Time > 180 mg/dL",
+          "description": "Percentage of time with CGM glucose \\> 180 mg/dL",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Time > 250 mg/dL",
+          "description": "Percentage of time with CGM glucose \\> 250 mg/dL",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Rate of CGM-determined hypoglycemic events",
+          "description": "Rate of hypoglycemic events defined as at least 15 consecutive minutes of CGM glucose \\< 54 mg/dL - the hypoglycemic event ends when there are at least 15 consecutive minutes with a CGM glucose greater than or equal to 70 mg/dL and the participant becomes eligible for another hypoglycemic event",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Rate of CGM-determined hyperglycemic events",
+          "description": "Rate of hyperglycemic events defined as at least 90 cumulative minutes with a CGM glucose value \\> 300 mg/dL within a 120-minute period - the hyperglycemic event ends when there are at least 15 consecutive minutes with a CGM glucose value less than or equal to 180 mg/dL and the participant becomes eligible for another hyperglycemic event.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Mean glucose coefficient of variation",
+          "description": "Mean CGM glucose Intrasubject coefficient of variation",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Time in BG-Run mode",
+          "description": "Percent of time spent in BG-run mode",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Time in BG-run mode for longer than 4 hours",
+          "description": "Percent of time spent in BG-run mode episodes longer than 4 hours",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Severe Hypoglycemia During BG-run mode",
+          "description": "Rate of severe hypoglycemic events beginning during a BG-run mode episode that lasted more than 4 hours or within 6 hours of a BG-run episode that lasted more than 4 hours",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "DKA During BG-run mode",
+          "description": "Rate of diabetic ketoacidosis events during a BG-run mode episode that lasted more than 4 hours or within 6 hours of a BG-run episode that lasted more than 4 hours",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Unanticipated Adverse Device Effects during BG-run mode",
+          "description": "Rate of unanticipated adverse device effects during BG-run mode",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Average duration of BG-run mode episodes",
+          "description": "Average duration of BG-run mode episodes",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Percentage of time insulin suspended during BG-Run episodes >4 hours",
+          "description": "During BG-run mode episodes that lasted more than 4 hours, percentage of time no insulin could be delivered as a result of failure to enter BG values at the required intervals",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Mean CGM glucose at time of entry into BG-run episodes >4 hours",
+          "description": "Mean CGM glucose at the time of entry into BG-run mode episodes that lasted more than 4 hours",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Mean CGM glucose at time of exit from BG-run episodes >4 hours",
+          "description": "Mean CGM glucose at the time of exit from BG-run mode into CGM-run mode after episodes of BG-run mode that lasted more than 4 hours",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Insulin TDD",
+          "description": "Insulin total daily dose (u/kg/day)",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Mean Baseline HbA1c of all Participants",
+          "description": "The last available baseline HbA1c value (when available) will be reported as the mean \u00b1 standard deviation.",
+          "timeFrame": "Baseline"
+        },
+        {
+          "measure": "Mean HbA1c on iLet",
+          "description": "The last available HbA1c value during the study period (when available) will be reported as the mean \u00b1 standard deviation.",
+          "timeFrame": "1 year or final available during study period"
+        },
+        {
+          "measure": "Mean change in HbA1c",
+          "description": "The change in HbA1c from the last available baseline value to the last available value during the study period (when both values are available) will be reported as the mean \u00b1 standard deviation.",
+          "timeFrame": "1 year or final available during study period compared to baseline"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Mean number of swipes to unlock the iLet per day",
+          "description": "Mean number of swipes to unlock the iLet per day",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Mean number of total meal announcements made per day",
+          "description": "Mean number of meal announcements made per day - total regardless of meal type",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Average number of breakfast announcements made per day",
+          "description": "Mean number of total breakfast announcements made per day",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Average number of lunch announcements made per day",
+          "description": "Mean number of total lunch announcements made per day",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Average number of dinner announcements made per day",
+          "description": "Mean number of total dinner announcements made per day",
+          "timeFrame": "1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Users must meet the following criteria in order to be enrolled in the study:\n\n  1. Diagnosed with type 1 diabetes and prescribed the iLet Bionic Pancreas System\n  2. At least 6 years of age\n  3. Using or planning to use either U100 Novolog (insulin aspart) or U100 Humalog (insulin lispro) in ready-to-fill cartridges, or U100 Fiasp\u00ae PumpCart\u00ae (insulin aspart) in pre-filled 1.6mL cartridges\n  4. Willing to provide HbA1c results obtained within the 6-month period prior to starting use of the iLet and during the last 6-months of study participation\n  5. Willing to provide CGM data, if available, obtained in the 1-month period prior to starting use of the iLet\n  6. For females, not pregnant or planning pregnancy in the next 12 months\n  7. Able to respond to alerts and alarms, and to provide basic diabetes self-management\n  8. Reside full-time in the US\n  9. Able to speak and read English\n  10. Willing and able to download the iLet Mobile App and keep it active throughout the study and upload device data regularly\n  11. Willing to answer baseline survey, monthly surveys, and share CGM data, and follow-up data, as necessary\n\nExclusion Criteria:\n\n* Users with the following characteristics will not be considered candidates for the study:\n\n  1. Type 2 diabetes, cystic fibrosis-related diabetes, congenital hyperinsulinism, pancreatogenic diabetes, or any form of diabetes mellitus other than type 1 diabetes\n  2. Use or planned use of any insulin in the iLet other than U100 Novolog (insulin aspart) or U100 Humalog (insulin lispro) in ready-to-fill cartridges, or U100 Fiasp\u00ae PumpCart\u00ae (insulin aspart) in pre-filled 1.6mL cartridges\n  3. End-stage renal disease on renal replacement therapy (peritoneal dialysis or hemodialysis)\n  4. Use or planned use of hydroxyurea",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "6 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Participants will include users of the iLet Dosing Decision Software who are at least 6 years old and have been diagnosed with Type 1 diabetes",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Courtney Balliro, BS RN",
+          "role": "CONTACT",
+          "phone": "978-500-2456",
+          "email": "cballiro@betabionics.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Steven J Russell, MD, PhD",
+          "affiliation": "Beta Bionics",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Beta Bionics",
+          "status": "RECRUITING",
+          "city": "Irvine",
+          "state": "California",
+          "zip": "92618",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Steven J Russell, MD, PhD",
+              "role": "CONTACT",
+              "phone": "855-745-3800",
+              "email": "srussell@betabionics.com"
+            },
+            {
+              "name": "Courtney Balliro, BSN",
+              "role": "CONTACT",
+              "email": "cballiro@betabionics.com"
+            },
+            {
+              "name": "Steven J Russell, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.66946,
+            "lon": -117.82311
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED",
+      "description": "It has not yet been decided if IPD will be shared."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

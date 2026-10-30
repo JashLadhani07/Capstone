@@ -1,0 +1,31 @@
+{
+  "pmid": "32221013",
+  "title": "Longitudinal NK cell kinetics and cytotoxicity in children with neuroblastoma enrolled in a clinical phase II trial.",
+  "abstract": "Natural killer (NK) cells are one of the main effector populations of immunotherapy with monoclonal antibody and cytokines, used in combination with chemotherapy to treat children with high-risk neuroblastoma on this phase II trial. However, the impact of chemoimmunotherapy on NK cell kinetics, phenotype, and function is understudied. We prospectively examined NK cell properties from 63 children with newly diagnosed neuroblastoma enrolled in a phase II trial (NCT01857934) and correlated our findings with tumor volume reduction after 2 courses of chemoimmunotherapy. NK cell studies were conducted longitudinally during chemoimmunotherapy and autologous hematopoietic cell transplantation (autoHCT) with optional haploidentical NK cell infusion and additional immunotherapy. Chemoimmunotherapy led to significant NK cytopenia, but complete NK cell recovery reliably occurred by day 21 of each therapy course as well as after autoHCT. Haploidentical NK cell infusion elevated the NK cell count transiently during autoHCT. NK cell cytotoxicity increased significantly during treatment compared with diagnosis. In addition, NK cells maintained their ability to respond to cytokine stimulation in culture longitudinally. Unsupervised cluster analysis of CD56 After profound NK cytopenia due to chemoimmunotherapy, endogenously reconstituted NK cells exhibit enhanced NK cytotoxicity compared with pretherapy measurements. Our data suggest a relationship between CD56 NCT01857934.",
+  "journal": "Journal for immunotherapy of cancer",
+  "pub_date": "2020-Mar",
+  "authors": [
+    "Nguyen, Rosa",
+    "Sahr, Natasha",
+    "Sykes, April",
+    "McCarville, Mary Beth",
+    "Federico, Sara M",
+    "Sooter, Amanda",
+    "Cullins, David",
+    "Rooney, Barbara",
+    "Janssen, William E",
+    "Talleur, Aimee C",
+    "Triplett, Brandon M",
+    "Anthony, Gwendolyn",
+    "Dyer, Michael A",
+    "Pappo, Alberto S",
+    "Leung, Wing H",
+    "Furman, Wayne L"
+  ],
+  "nct_ids_referenced": [
+    "NCT01857934"
+  ],
+  "source": "pubmed",
+  "word_count": 198,
+  "parsed_at": "2026-10-30T10:30:58.639249"
+}

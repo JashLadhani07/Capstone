@@ -1,0 +1,184 @@
+{
+  "nct_id": "NCT01480934",
+  "title": "A Prospective Evaluation of Posterior Capsule Opacification in Eyes With Diabetes Mellitus -A Case Control Study",
+  "sponsor": "Iladevi Cataract and IOL Research Center",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Development of Posterior Capsule Opacification"
+  ],
+  "interventions": [],
+  "primary_outcome": "Development of Posterior capsule opacification.",
+  "secondary_outcomes": [
+    "duration of diabetes, stage of diabetic retinopathy"
+  ],
+  "start_date": "2005-06",
+  "completion_date": "2010-01",
+  "results_posted": false,
+  "enrollment": 150,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01480934",
+        "orgStudyIdInfo": {
+          "id": "01072007"
+        },
+        "organization": {
+          "fullName": "Iladevi Cataract and IOL Research Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "Evaluation of Posterior Capsule Opacification in Eyes With Diabetes Mellitus",
+        "officialTitle": "A Prospective Evaluation of Posterior Capsule Opacification in Eyes With Diabetes Mellitus -A Case Control Study",
+        "acronym": "DM & PCO"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2011-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2005-06"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2010-01",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2010-06",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2011-11-24",
+        "studyFirstSubmitQcDate": "2011-11-28",
+        "studyFirstPostDateStruct": {
+          "date": "2011-11-29",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2011-11-28",
+        "lastUpdatePostDateStruct": {
+          "date": "2011-11-29",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Iladevi Cataract and IOL Research Center",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "To compare the development of posterior capsule opacification (PCO) between eyes with and without a history of diabetes mellitus (DM) after single-piece hydrophobic acrylic intraocular lens (IOL) implantation 4 years postoperatively.Diabetes mellitus would not increase the incidence of PCO at 4 years.",
+        "detailedDescription": "There is a paucity of available literature that prospectively evaluates the development of PCO with the single-piece hydrophobic acrylic IOL implantation in diabetic versus non-diabetic eyes on a long-term basis. Therefore, this study was designed to compare the degree of PCO after cataract surgery between diabetic and age-matched non-diabetic patients. This prospective, observational case control study comprised patients who underwent phacoemulsification .The patients were asked to return for postoperative follow-up visits at 1 month, 1 year and 4 years.\n\nthe digital images were analyzed for PCO ."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Development of Posterior Capsule Opacification"
+        ],
+        "keywords": [
+          "Diabetes,posterior capsule opacification,case control study"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "designInfo": {
+          "observationalModel": "CASE_CONTROL",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 150,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Group:A-cases-Patients with a history of Diabetes Mellitus",
+            "description": "(N=75 eyes). The inclusion criteria for group A: Diabetes mellitus was defined as glycosylated haemoglobin (Hb A1c ) levels of 6% or more , use of diabetic medication (oral hypoglycemic agents, insulin injection or diet restriction), or a physician's diagnosis of diabetes."
+          },
+          {
+            "label": "Group - B:controls",
+            "description": "Patients with uncomplicated age-related cataract who were otherwise healthy constituted the controls(Group:)B (n=75 eyes)."
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Development of Posterior capsule opacification.",
+            "description": "This prospective, observational case control study comprised patients who underwent phacoemulsification .Subjects with a history of diabetes mellitus (DM) were designated as cases (n=75 eyes).Inclusion criteria for cases: Diabetes mellitus was defined as glycosylated haemoglobin (Hb A1c ) levels of 6% or more , use of diabetic medication (oral hypoglycemic agents, insulin injection or diet restriction), or a physician's diagnosis of diabetes. Patients with uncomplicated age-related cataract who were otherwise healthy constituted the controls (n=75 eyes).",
+            "timeFrame": "4 years"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "duration of diabetes, stage of diabetic retinopathy",
+            "description": "The stage of diabetic retinopathy and duration of diabetes was correlated with the degree of PCO in the cases group.",
+            "timeFrame": "4 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Diabetes mellitus was defined as glycosylated haemoglobin (Hb A1c ) levels of 6% or more ,\n* use of diabetic medication (oral hypoglycemic agents, insulin injection or diet restriction), or a physician's diagnosis of diabetes.\n* Patients with uncomplicated age-related cataract who were otherwise healthy constituted the controls (n=75 eyes).\n\nExclusion Criteria:\n\n* patients with glaucoma,\n* high myopia (axial length \\> 27.0 mm),\n* pseudoexfoliation,\n* traumatic cataract,\n* subluxated cataract,\n* previous ocular surgeries,\n* allergy to dilating drops.",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "50 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "patients who underwent phacoemulsification for age-related cataract",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Gauri D Shah, M.S",
+            "affiliation": "Iladevi Cataract &IOL Research Centre",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604353"
+}

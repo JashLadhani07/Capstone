@@ -1,0 +1,273 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02830178",
+      "orgStudyIdInfo": {
+        "id": "RRA-16387"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "RRA-16387",
+          "type": "OTHER",
+          "domain": "Janssen Research & Development, LLC"
+        }
+      ],
+      "organization": {
+        "fullName": "Janssen Research & Development, LLC",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of Channeling in the Use of Nonprescription Paracetamol and Ibuprofen in an Electronic Medical Records Database: Evidence and Implications",
+      "officialTitle": "Channeling in the Use of Nonprescription Paracetamol and Ibuprofen in an Electronic Medical Records Database: Evidence and Implications"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2016-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2016-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-06-07",
+      "studyFirstSubmitQcDate": "2016-07-08",
+      "studyFirstPostDateStruct": {
+        "date": "2016-07-12",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-10-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-10-11",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Janssen Research & Development, LLC",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The Purpose of this study is to examine whether evidence of channeling exists by analyzing within a cohort of participants with first prescriptions of single-ingredient paracetamol or ibuprofen (or both) whether participants with paracetamol were more likely to have an ibuprofen-related contraindication."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hemorrhage, Gastrointestinal",
+        "Myocardial Infarction",
+        "Stroke",
+        "Kidney Diseases"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "CASE_CONTROL",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 144337,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Any Paracetamol",
+          "description": "Participants with age 18 and over who received a first prescription of single-ingredient paracetamol or ibuprofen in 2012 will be enrolled. Their status with respect to prior gastrointestinal bleeding, myocardial infarction, stroke, or kidney disease will be assessed based on the presence or absence of a diagnosis in the 2 years prior to the index date. This observational study will evaluate whether new users of paracetamol have a higher prevalence of certain conditions (gastrointestinal bleeding, myocardial infarction, stroke or kidney disease) in their history when compared to new users of ibuprofen, propensity scores and outcome models."
+        },
+        {
+          "label": "Ibuprofen",
+          "description": "Participants with age 18 and over who received a first prescription of single-ingredient ibuprofen in 2012 will be enrolled. Their status with respect to prior gastrointestinal bleeding, myocardial infarction, stroke, or kidney disease will be assessed based on the presence or absence of a diagnosis in the 2 years prior to the index date. This observational study will evaluate whether new users of paracetamol have a higher prevalence of certain conditions (gastrointestinal bleeding, myocardial infarction, stroke or kidney disease) in their history when compared to new users of ibuprofen, propensity scores and outcome models."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Evidence of Channeling as Measured by an Odds-ratio Different From 1.0 for Contraindications to Ibuprofen Comparing Paracetamol and Ibuprofen Groups",
+          "description": "Participants receiving first prescriptions of single-ingredient paracetamol or ibuprofen will be assessed to analyze whether participants with paracetamol were more likely to have had an ibuprofen-related contraindication than participants with ibuprofen.",
+          "timeFrame": "up to 7 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Propensity Score Model",
+          "description": "The potential to control for channeling bias will be examined. It will also assess whether there will be sufficient overlap in propensity scores to allow for adequate adjustment to control for bias due to channeling. The propensity score is the estimated probability of receiving a treatment (paracetamol), based on the available data, ranges from 0 to 1. The higher the score, the more likely to be treated with paracetamol.",
+          "timeFrame": "up to 7 months"
+        },
+        {
+          "measure": "Extent of Bias as Measured by an Odds-ratio Different From 1.0 for the Covariate Indicating Exposure to Paracetamol or Ibuprofen in the Negative Control Outcome Models",
+          "description": "Relative risks for paracetamol versus ibuprofen for the 31 negative control outcomes should be 1.0 if there is no bias. A series of models with increasing numbers of covariates will be fit to measure the extent to which covariates can diminish the impact of bias.",
+          "timeFrame": "up to 7 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Enrolled in up-to-standard practices (practices that have been qualified for research purposes by the Clinical Practice Research Datalink \\[CPRD\\] administrators) in the CPRD\n* Received a first prescription for paracetamol or a first prescription for ibuprofen in 2012\n* Were age 18 or older in the date of their qualifying prescription in 2012\n\nExclusion Criteria:\n\n* Who received a prescription for paracetamol or ibuprofen in the 6 months prior to their qualifying prescription in 2012\n* Who received a prescription for any acetaminophen- or ibuprofen-containing combination products in the 6 months prior to the qualifying prescription in 2012",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "The study population is a cohort of participants 18 and over who received a first prescription of single-ingredient paracetamol or ibuprofen in 2012.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Janssen Research & Development, LLC Clinical Trial",
+          "affiliation": "Janssen Research & Development, LLC",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "city": "Raritan",
+          "state": "New Jersey",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.56955,
+            "lon": -74.63294
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "28780741",
+          "type": "DERIVED",
+          "citation": "Weinstein RB, Ryan P, Berlin JA, Matcho A, Schuemie M, Swerdel J, Patel K, Fife D. Channeling in the Use of Nonprescription Paracetamol and Ibuprofen in an Electronic Medical Records Database: Evidence and Implications. Drug Saf. 2017 Dec;40(12):1279-1292. doi: 10.1007/s40264-017-0581-7."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006471",
+          "term": "Gastrointestinal Hemorrhage"
+        },
+        {
+          "id": "D009203",
+          "term": "Myocardial Infarction"
+        },
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D007674",
+          "term": "Kidney Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D006470",
+          "term": "Hemorrhage"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D017202",
+          "term": "Myocardial Ischemia"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D007238",
+          "term": "Infarction"
+        },
+        {
+          "id": "D007511",
+          "term": "Ischemia"
+        },
+        {
+          "id": "D009336",
+          "term": "Necrosis"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

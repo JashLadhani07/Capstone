@@ -1,0 +1,240 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03906734",
+      "orgStudyIdInfo": {
+        "id": "2017-01-12-3.1"
+      },
+      "organization": {
+        "fullName": "Meshalkin Research Institute of Pathology of Circulation",
+        "class": "NETWORK"
+      },
+      "briefTitle": "Mitral Valve Management During Septal Myectomy",
+      "officialTitle": "Alfieri Stich Versus Secondary Cord Cutting During Septal Myectomy in Patients With Hypertrophic Obstructive Cardiomyopathy: A Pilot Randomized Trial",
+      "acronym": "MVMSM"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-01-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2016-10-28",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-03-20",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-01-20",
+      "studyFirstSubmitQcDate": "2019-04-05",
+      "studyFirstPostDateStruct": {
+        "date": "2019-04-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-04-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-04-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Meshalkin Research Institute of Pathology of Circulation",
+        "class": "NETWORK"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Objective of the study: to evaluate whether alfieri technique improves clinical and hemodynamic results compared to transaortic mitral valve secondary cord cutting in patients scheduled to septal myectomy for severely symptomatic hypertrophic obstructive cardiomyopathy.",
+      "detailedDescription": "There is pilot prospective randomised study comparing immediate and early results of additional subvalvular mitral apparatus intervention versus additional alfieri stich in patients scheduled to septal myectomy for symptomatic obstructive cardiomyopathy.\n\nPatients with proven hypertrophic cardiomyopathy and resting left ventricle outflow tract obstruction underwent septal myectomy. If patients were suitable for both surgical techniques, they were randomized to alfieri stich or secondary cord cutting. All surgeons were experienced at least 50 related procedures."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "keywords": [
+        "septal myectomy",
+        "hypertrophic cardiomyopathy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 48,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "alfieri technique + Septal myectomy",
+          "type": "EXPERIMENTAL",
+          "description": "Septal myectomy plus mitral valve repair using alfieri stich",
+          "interventionNames": [
+            "Procedure: Septal myectomy",
+            "Procedure: alfieri stich"
+          ]
+        },
+        {
+          "label": "Subvalvular intervention + Septal myectomy",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Septal myectomy plus subvalvular mitral valve intervention",
+          "interventionNames": [
+            "Procedure: Septal myectomy",
+            "Procedure: Subvalvular intervention"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Septal myectomy",
+          "description": "Transaortic septal myectomy",
+          "armGroupLabels": [
+            "Subvalvular intervention + Septal myectomy",
+            "alfieri technique + Septal myectomy"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "alfieri stich",
+          "description": "Transaortic Mitral valve repair using alfieri technique",
+          "armGroupLabels": [
+            "alfieri technique + Septal myectomy"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Subvalvular intervention",
+          "description": "Transaortic Mitral valve subvalvular intervention including anterior mitral leaflet secondary cord cutting, papillary muscle release",
+          "armGroupLabels": [
+            "Subvalvular intervention + Septal myectomy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Transmitral pressure gradient",
+          "description": "Transmitral pressure gradient after the procedures assessed by echocardiography",
+          "timeFrame": "30-days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Repeat bypass",
+          "description": "Rate of second cross clamping and repeating bypass for procedure related reasons",
+          "timeFrame": "30 day"
+        },
+        {
+          "measure": "Residual left ventricle outflow tract gradient",
+          "description": "Residual left ventricle outflow tract gradient assessed by direct measurement",
+          "timeFrame": "intraoperative measuerment"
+        },
+        {
+          "measure": "Early mortality",
+          "description": "All cause death during 30 days",
+          "timeFrame": "30 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Hypertrophic obstructive cardiomyopathy\n* Left ventricle outflow tract gradient \\> 50 mm Hg at rest\n* Systolic anterior motion mediated mitral regurgitation\n\nExclusion Criteria:\n\n* Intrinsic valvular heart disease\n* Coronary artery disease\n* Aortic disease",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Novosibirsk State Research Institute of Circulation Pathology",
+          "city": "Novosibirsk",
+          "zip": "630055",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.02259,
+            "lon": 82.93175
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Restricted by local policy"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002312",
+          "term": "Cardiomyopathy, Hypertrophic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009202",
+          "term": "Cardiomyopathies"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D001020",
+          "term": "Aortic Stenosis, Subvalvular"
+        },
+        {
+          "id": "D001024",
+          "term": "Aortic Valve Stenosis"
+        },
+        {
+          "id": "D000082862",
+          "term": "Aortic Valve Disease"
+        },
+        {
+          "id": "D006349",
+          "term": "Heart Valve Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

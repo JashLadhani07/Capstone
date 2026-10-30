@@ -1,0 +1,251 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01919632",
+      "orgStudyIdInfo": {
+        "id": "2555/09"
+      },
+      "organization": {
+        "fullName": "Technical University of Munich",
+        "class": "OTHER"
+      },
+      "briefTitle": "MOVING - MOtiVation, INtervention and Vascular chanGe",
+      "officialTitle": "MOVING - Einflu\u00df Eines Lebensstilprogramms Auf Gefae\u00dfzustand, Metabolisches Risikoprofil Und Leistungsfaehigkeit (MOVING - Influence of a Lifestyle Intervention Program on Vascular Condition, Metabolic Risk Profile and Physical Performance)",
+      "acronym": "MOVING"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2009-10"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2013-05",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2013-05",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2013-07-05",
+      "studyFirstSubmitQcDate": "2013-08-06",
+      "studyFirstPostDateStruct": {
+        "date": "2013-08-09",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-05-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-05-12",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Technical University of Munich",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Moving - ab jetzt gesund GmbH",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Background: The impact of demographic changes on workplace has increased the importance of effective occupational preventive health programs. The primary goal of these programs is the improvement of overall health status (and therefore increase productivity and decrease healthcare costs) of the increasingly older workforce through positive lifestyle behavior change.\n\nA one- year preventive health behavior-change program for the employees of the company British Petrol (BP) shall be scientifically evaluated. The initial stage of the program consists of a health-behavior seminar and six weeks (twice a week for 90 minutes) of supervised endurance exercise (i.e. jogging, nordic walking, cycling or swimming) in groups. In the second phase of the program, the participants receive a recommendation to continue exercise regularly unsupervised for one year, and receive monthly supervised exercise training sessions. Clinical check-ups are performed at baseline (V1) at three months (V2) and at 12 months (V3).",
+      "detailedDescription": "The study will investigate the effect of one year of participation in a lifestyle- intervention- program on the participants' metabolic risk profile, exercise capacity and vascular health. A primary focus is on the endothelium, because poor endothelial health is a risk factor and prognostic indicator of atherosclerosis and cardiovascular events.\n\nHypothesis: One year of participation in endurance exercise (twice a week for 90 minutes) may positively influence endothelial health (RHI)\n\nThe primary aim:\n\nchange in endothelial function (reactive hyperemia index (RHI)) after one year.\n\nSecondary aims:\n\nChanges in other vascular parameters (AI: augmentation index, CAVI: Cardio ankle vascular index, ABI: ankle brachial index ), changes in anthropometric, inflammatory and metabolic parameters, exercise capacity (Watt/kg), physical activity, and health related quality of life (HRQoL)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Endothelial Function (Reactive Hyperemia)"
+      ],
+      "keywords": [
+        "lifestyle",
+        "physical activity",
+        "endothelial function",
+        "cardiovascular",
+        "occupational",
+        "prevention"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 330,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Lifestyle",
+          "type": "EXPERIMENTAL",
+          "description": "The initial stage of the program consists of a health-behavior seminar and six weeks (twice a week for 90 minutes) of supervised endurance exercise (i.e. (?) jogging, nordic walking, cycling or swimming) in groups. In the second phase of the program, the participants receive a recommendation to continue exercise regularly unsupervised for one year, and receive monthly supervised exercise training sessions.",
+          "interventionNames": [
+            "Behavioral: health-behavior seminar and endurance exercise"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "health-behavior seminar and endurance exercise",
+          "description": "The initial stage of the program consists of a health-behavior seminar and six weeks (twice a week for 90 minutes) of supervised endurance exercise (i.e. jogging, nordic walking, cycling or swimming) in groups. In the second phase of the program, the participants receive a recommendation to continue exercise regularly unsupervised for one year, and receive monthly supervised exercise training sessions.",
+          "armGroupLabels": [
+            "Lifestyle"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in RHI (Reactive Hyperemia Index)",
+          "description": "endothelial function",
+          "timeFrame": "after 0 months (V1), 3 months (V2), 12 months (V3)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Exercise capacity (Watt/kg)",
+          "description": "Changes from baseline in exercise capacity (Watt/kg) at 12 month",
+          "timeFrame": "after 0 month (V1) and after 12 month (V3)"
+        },
+        {
+          "measure": "CAVI (Cardio ankle vascular index)",
+          "description": "Vascular function: Change from baseline in CAVI (Cardio ankle vascular index) at 12 month",
+          "timeFrame": "after 0 months (V1), 3 months (V2), 12 months (V3)"
+        },
+        {
+          "measure": "Anthropometric parameters (see description)",
+          "description": "Changes from Baseline in systolic/diastolic blood pressure, weight, body-fat and waist-circumference at 12 month",
+          "timeFrame": "after 0 months (V1), 3 months (V2), 12 months (V3)"
+        },
+        {
+          "measure": "Inflammatory and metabolic parameters from blood samples (see description)",
+          "description": "Change from baseline in blood glucose, HbA1c, total cholesterol, HDL, LDL, triglycerides (metabolic parameters) and C-reactive protein (inflammatory parameters)at 12 month",
+          "timeFrame": "after 0 month (V1), 3 month (V2), 12 month (V3)"
+        },
+        {
+          "measure": "Health related quality of life (HRQoL)",
+          "description": "questionnaire",
+          "timeFrame": "after 0 month (V1) and 12 month (V3)"
+        },
+        {
+          "measure": "AI (Augmentation Index)",
+          "description": "Vascular function: Change from baseline in AI (Augmentation Index) at 12 month",
+          "timeFrame": "after 0 month, 3 month, 12 month"
+        },
+        {
+          "measure": "ABI (Ankle-Brachial-Index)",
+          "description": "Vascular function: Change from baseline in ABI (Ankle-Brachial-Index)at 12 month",
+          "timeFrame": "after 0 month, 3 month, 12 month"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Employees of the company British Petrol (BP) in Lingen, Germany\n* men and woman of all age\n* approval for being able to participate in physical activity\n* existing, written agreement to study-participation with prior, detailed education\n\nExclusion Criteria:\n\n* Acute or chronic disease of any kind, which does not allow participation in physical activity (missing approval of being able to participate in physical activity)\n* Incompetent patient, who is not able to understand character, meaning and consequences of the study",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Martin Halle, Prof.",
+          "affiliation": "Klinikum rechts der Isar, Department of Prevention and Sports medicine, Technische Universit\u00e4t M\u00fcnchen",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Klinikum rechts der Isar, Technische Universit\u00e4t M\u00fcnchen",
+          "city": "Munich",
+          "state": "Bavaria",
+          "zip": "80992",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.13743,
+            "lon": 11.57549
+          }
+        },
+        {
+          "facility": "BP Lingen",
+          "city": "Lingen",
+          "state": "Emsland",
+          "zip": "49808",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52269,
+            "lon": 7.32555
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "36949505",
+          "type": "DERIVED",
+          "citation": "Schaller N, Blume K, Hornig M, Senker L, Wolfarth B, Schuster T, Halle M, Esefeld K; MOVING (MOtiVation, INtervention and Vascular chanGe) study group. Occupational life-style programme over 12 months and changes of metabolic risk profile, vascular function, and physical fitness in blue-collar workers. J Occup Med Toxicol. 2023 Mar 22;18(1):4. doi: 10.1186/s12995-023-00370-w."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006940",
+          "term": "Hyperemia"
+        },
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

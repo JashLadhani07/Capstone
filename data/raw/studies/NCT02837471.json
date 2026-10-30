@@ -1,0 +1,271 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02837471",
+      "orgStudyIdInfo": {
+        "id": "20160491"
+      },
+      "organization": {
+        "fullName": "Ottawa Heart Institute Research Corporation",
+        "class": "OTHER"
+      },
+      "briefTitle": "Feasibility and Usability of a Pedometer in a Cardiovascular Disease Prevention Program for French-speaking Canadians",
+      "officialTitle": "Assessing the Feasibility and Usability of a Commercial Medical Grade Pedometer in a Case-managed Home-based Primary and Secondary Cardiovascular Disease Prevention Program for French-speaking Canadians (PiezoRx RCT Study)",
+      "acronym": "PiezoRx"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2022-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-10"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-07-01",
+      "studyFirstSubmitQcDate": "2016-07-14",
+      "studyFirstPostDateStruct": {
+        "date": "2016-07-19",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2022-02-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-02-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Jennifer Reed",
+        "investigatorTitle": "Associate Scientist",
+        "investigatorAffiliation": "Ottawa Heart Institute Research Corporation"
+      },
+      "leadSponsor": {
+        "name": "Ottawa Heart Institute Research Corporation",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "StepsCount Inc",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this prospective randomized controlled trial (RCT) is to evaluate the feasibility and usability of a commercial pedometer and web application in a case-managed home-based Cardiovascular disease prevention and rehabilitation program for French-speaking Canadians.",
+      "detailedDescription": "A cardiovascular disease (CVD) prevention and rehabilitation program is an evidence-based, standard of care for those who have coronary artery disease or other cardiac conditions; the aim of CVD prevention and rehabilitation program is to minimize disease progression and prevent future cardiovascular events. Behaviour change interventions targeting exercise are effective for improving physical activity levels, but can be intensive and costly. Activity monitors with accompanying web applications may provide a practical compliment to behaviour change interventions as an affordable way to promote and sustain increased physical activity levels, as measured by steps and physical activity levels. To date, no studies have examined the role of a pedometer with accompanying web application on steps and physical activity levels in French-speaking Canadians attending the FrancoForme\u00ae cardiac prevention and rehabilitation program at the University of Ottawa Heart Institute. It is also unknown the average daily steps of Canadian Francophone patients. Identifying successful interventions that promote physical activity among CVD prevention and rehabilitation program patients will help to improve their health as well as decrease the risk of first or subsequent cardiovascular events."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiovascular Disease"
+      ],
+      "keywords": [
+        "Pedometer usability",
+        "Usability and feasibility",
+        "web application"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 54,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intervention group, PiezoRx device",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will use the PiezoRx pedometer at leisure for 12 weeks, and receive the standard care of the FrancoForme cardiac prevention and rehabilitation program.",
+          "interventionNames": [
+            "Device: PiezoRx medical grade pedometer"
+          ]
+        },
+        {
+          "label": "Control group, Standard care",
+          "type": "NO_INTERVENTION",
+          "description": "Participants will receive the standard care of the FrancoForme Cardiovascular disease prevention and rehabilitation program."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "PiezoRx medical grade pedometer",
+          "description": "Participants will be asked to freely use the PiezoRx medical grade pedometer for 12 weeks.\n\nParticipants have access to a personal account created online and can record the daily steps count and physical activity.\n\nParticipants will receive the standard care by the FrancoForme Cardiovascular rehabilitation and prevention program",
+          "armGroupLabels": [
+            "Intervention group, PiezoRx device"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in number of participants who use the PiezoRx device",
+          "description": "The number of participants who use the device will be defined as the number of participants who create and use the online account during the trial.",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Change in frequency of using the PiezoRx device",
+          "description": "The frequency of usage will be defined as the number of times the participants logon into the online account to upload the steps count and/or physical activity levels.",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Changes in moderate to vigorous physical activity time",
+          "description": "Changes in levels of moderate to vigorous physical activity (in minutes per week) from baseline to follow-ups will be measured by the PiezoRx device.",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Number of participants that continue wearing the PiezoRx device beyond the 3 month intervention",
+          "description": "The number of participants who continue wearing the PiezoRx device beyond the 3 month intervention will be defined as the number of participants who continue to use the online account.",
+          "timeFrame": "One year"
+        },
+        {
+          "measure": "Validation of Physical activity questionnaire",
+          "description": "Self-reported physical activity (in minutes/day) using the physical activity questionnaire.",
+          "timeFrame": "One year"
+        },
+        {
+          "measure": "Validation of Physical activity questionnaire",
+          "description": "Self-reported sitting time (in minutes/day) using the physical activity questionnaire.",
+          "timeFrame": "One year"
+        },
+        {
+          "measure": "Analysis of physical activity data (hrs/min) recorded by PiezoRx device and ActiGraph accelerometer and comparing the values.",
+          "description": "Data recorded from PiezoRx device and ActiGraph accelerometer will be collected for 7days. Values will be compared to validate the PiezoRx device against the ActiGraph.",
+          "timeFrame": "7 days"
+        },
+        {
+          "measure": "Changes in blood pressure",
+          "description": "Changes in blood pressure (mmHg) from baseline to from baseline to follow-ups",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Changes in blood lipids",
+          "description": "Changes in total cholesterol, HDL, LDL, and Triglycerides (mmol/L) from baseline to follow-ups",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Changes in fasting glycosylated hemoglobin",
+          "description": "Changes in fasting blood HbA1c (%) from baseline to follow-ups",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Changes in body weight",
+          "description": "Changes in body weight (kg) from baseline to follow-ups",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Changes in body mass index",
+          "description": "Changes in BMI (kg/m2) from baseline to follow-ups",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Changes in waist circumference",
+          "description": "Changes in waist circumference (cm) from baseline to follow-ups",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Changes in resting heart rate",
+          "description": "Changes in resting heart rate (bpm) from baseline to follow-ups",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        },
+        {
+          "measure": "Changes in anxiety and depression",
+          "description": "Changes in measures of anxiety and depression as assessed using the Hospital Anxiety and Depression Scale from baseline to follow-ups",
+          "timeFrame": "One year (Baseline to 12 weeks, and baseline to 52 weeks)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Francophone (i.e., French-speaking);\n* \u226518 years;\n* Existing atherosclerotic vascular disease or \u22651 risk factor for CVD (e.g., family history of premature CVD, age \\[sex dependent\\], smoking, sedentary lifestyle, diabetes, hypertension, hypercholesterolemia, overweight/obesity);\n* Live in the Champlain Region and attending the onsite FrancoForme\u00ae intake;\n* Have a family physician or nurse practitioner (to order blood tests and titrate medications);\n* Patient agrees to sign informed consent.\n\nExclusion Criteria:\n\n* Unwilling to wear activity monitors;\n* Unable to engage in physical activity;\n* Does not have access to the internet;\n* Unable to attend follow-up visits;\n* Unable to provide written, informed consent.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Jennifer Reed, PhD MEd, CS",
+          "affiliation": "Ottawa Heart Institute Research Corporation",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Ottawa Heart Insititue",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "zip": "K1Y 4W7",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.41117,
+            "lon": -75.69812
+          }
+        },
+        {
+          "facility": "University of Ottawa Heart Institute",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "zip": "K1Y4W7",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.41117,
+            "lon": -75.69812
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

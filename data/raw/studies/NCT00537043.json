@@ -1,0 +1,184 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00537043",
+      "orgStudyIdInfo": {
+        "id": "CFD110733"
+      },
+      "organization": {
+        "fullName": "GlaxoSmithKline",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Compare COREG CR to COREG CR Fixed-dose Combination in Patients With High Blood Pressure",
+      "officialTitle": "An Open-label, Randomized, Crossover, Repeat-dose Study to Evaluate the Steady-State Pharmacokinetic Profile of the Final Fixed Dose Combination (FDC) Formulation of COREG CR and Lisinopril as Compared to COREG CR in Subjects With Essential Hypertension"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2010-10",
+      "overallStatus": "COMPLETED",
+      "startDateStruct": {
+        "date": "2007-10"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2008-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2008-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2007-09-27",
+      "studyFirstSubmitQcDate": "2007-09-27",
+      "studyFirstPostDateStruct": {
+        "date": "2007-09-28",
+        "type": "ESTIMATED"
+      },
+      "dispFirstSubmitDate": "2010-10-13",
+      "dispFirstSubmitQcDate": "2010-10-13",
+      "dispFirstPostDateStruct": {
+        "date": "2010-10-19",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2010-10-13",
+      "lastUpdatePostDateStruct": {
+        "date": "2010-10-19",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Study Director",
+        "oldOrganization": "GSK"
+      },
+      "leadSponsor": {
+        "name": "GlaxoSmithKline",
+        "class": "INDUSTRY"
+      }
+    },
+    "descriptionModule": {
+      "briefSummary": "Carvedilol controlled release is a marketed drug to treat high blood pressure. This study is to compare carvedilol controlled release to carvedilol controlled release plus lisinopril (fixed-dose combination) after repeat dosing in patients with high blood pressure. This is to make sure that when carvedilol controlled release is given with lisinopril it acts the same in the body as when given alone. The study will also assess the safety and tolerability of the fixed-dose combination."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hypertension"
+      ],
+      "keywords": [
+        "hypertension,",
+        "carvedilol,",
+        "repeat-dosing"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 24,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SK&F-105517 (COREG CR FDC)"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Comparison of the amount of SB-568859 found in the blood after a 7 days of dosing with carvedilol controlled release and carvedilol controlled release plus lisinopril",
+          "timeFrame": "7 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Assessment of the safety and tolerability of carvedilol controlled release and the fixed dose combination based on blood and urine tests, vital signs, and reporting of side effects.",
+          "timeFrame": "7 days"
+        },
+        {
+          "measure": "The pharmacokinetic parameters to be evaluated are the Tmax, Ct, and t1/2 of carvedilol [R(+)- and S(-)-enantiomers] when administered as the FDC formulation compared to COREG CR alone."
+        },
+        {
+          "measure": "Safety and tolerability as assessed by clinical data from AE reporting, nurse/physician observations, vital signs, ECGs and safety laboratory tests."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion criteria:\n\n* Adult males or females of non-child bearing potential who are between 18 and 60 years old.\n* Have a history of mild to moderate essential hypertension or present with mild to moderate essential hypertension defined by Diastolic Blood Pressure \\>/90 and \\</109 mmHg, and/or Systolic Blood Pressure \\>/140 and \\</179 mmHg\n* Body weight \\> 60 kg (132 pounds) and body mass index (BMI) between 19 and 35\n\nExclusion criteria:\n\n* Any clinically relevant abnormality identified on the screening history, physical or laboratory examination, or any other medical condition or circumstances making the volunteer unsuitable for participation in the study.\n* History of advanced retinopathy (i.e., Keith-Wagener Grade III or IV)\n* Secondary forms of hypertension including (but not limited to) coarctation of the aorta, primary aldosteronism, renal artery stenosis, or pheochromocytoma\n* Type 1 diabetics \\[note: Type 2 diabetics with HgbA1c less than or equal to 9.0% can be enrolled provided the Investigator considers the subject clinically stable\\]\n* Signs, symptoms, or history of congestive heart failure, angina pectoris, myocardial infarction, cerebrovascular accident, or transient ischemic attacks\n* History or presence of clinically significant hepatic disease\n* Liver function tests (ALT, AST, total bilirubin or alkaline phosphatase) more than 2 times the upper limit of the laboratory reference range\n* History of severe pulmonary disease including asthma or chronic obstructive lung disease or previous history of 'hypersensitivity' to B-blockers\n* Previously treated hypertension in subjects in whom, at the discretion of the Investigator, antihypertensive therapy cannot be safely withdrawn during the study\n* Subjects who are on more than 3 antihypertensive or diuretic medications \\[Note: combination antihypertensive and/or diuretic products (such as lisinopril and hydrochlorothiazide) should be considered as 2 medications, and the doses of each component should be recorded.\\]\n* Subjects who metabolize carvedilol poorly based on CYP2D6 genotyping as determined at screening\n* History of regular alcohol consumption exceeding 7 drinks/week for women or 14 drinks/week for men (1 drink = 5 ounces of wine or 12 ounces of beer or 1.5 ounces of hard liquor) within 6 months of screening\n* Positive urine drug screen (UDS) including alcohol at screening. A minimum list of drugs that will be screened for include amphetamines, barbiturates, cocaine, opiates, cannabinoids and benzodiazepines.\n* Treatment with an investigational drug within 30 days or five half-lives, whichever is longer, prior to the first dose of study medication (this includes investigational formulations of marketed products)\n* Subjects receiving ongoing treatment or anticipated to receive treatment with any of the following medications during treatment with study medication:\n\n  * monoamine oxidase (MAO) inhibitors\n  * any Class I or III antiarrhythmic\n  * alpha-adrenergic receptor blockers\n  * beta-2-adrenergic receptor agonists\n  * lithium\n* Consumption of grapefruit or grapefruit juice within 7 days prior to dosing\n* Women of child-bearing potential\n* NOTE: Pre-menopausal females with a documented tubal ligation or hysterectomy are eligible. Postmenopausal females are eligible, defined as 12 months of spontaneous amenorrhea \\[in questionable cases a blood sample with simultaneous follicle stimulating hormone (FSH) \\> 40 MlU/ml and estradiol \\< 40 pg/ml (\\<140 pmol/L) is confirmatory\\].\n* Resting pulse rate of \u2264 50 beats per minute (bpm) at screening\n* QTc \u2265 450 msec\n* ECG criteria as defined in protocol\n* Refusal or inability to discontinue use of medications known to be inhibitors/inducers of cytochrome P-450 2C9, 2D6 and 3A4 for at least 14 days or 5 half-lives \\[which ever is longer\\] prior to Day 1 of Session 1 and until 48 hours after the last dose of study medication. \\[Examples include: paroxetine, isoniazid, \"azole\"antifungal drugs (e.g. itraconazole), erythromycin, ticlopidine, amiodarone, quinidine, rifampin, phenobarbital\\]\n* Donation of blood in excess of 500 mL within a 56-day period including the estimated 210 mL of blood to be drawn during this study\n* History of sensitivity to carvedilol, lisinopril, alpha-blockers, beta-blockers or ACE inhibitors\n* History of sensitivity to heparin, heparin-induced thrombocytopenia, or sensitivity to any of the study medications or components thereof\n* History of angioedema\n* Positive for Hepatitis B surface antigen\n* Positive for HIV\n* Unwillingness or inability to follow the procedures outlined in the protocol or inability to provide written informed consent",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "60 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "GSK Clinical Trials, MD",
+          "affiliation": "GlaxoSmithKline",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Hackensack",
+          "state": "New Jersey",
+          "zip": "07601",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.88593,
+            "lon": -74.04347
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78704",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.26715,
+            "lon": -97.74306
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

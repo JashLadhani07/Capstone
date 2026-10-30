@@ -1,0 +1,32 @@
+{
+  "pmid": "21251631",
+  "title": "Prediction of 1-year clinical outcomes using the SYNTAX score in patients with acute ST-segment elevation myocardial infarction undergoing primary percutaneous coronary intervention: a substudy of the STRATEGY (Single High-Dose Bolus Tirofiban and Sirolimus-Eluting Stent Versus Abciximab and Bare-Metal Stent in Acute Myocardial Infarction) and MULTISTRATEGY (Multicenter Evaluation of Single High-Dose Bolus Tirofiban Versus Abciximab With Sirolimus-Eluting Stent or Bare-Metal Stent in Acute Myocardial Infarction Study) trials.",
+  "abstract": "This study sought to evaluate the impact of SYNTAX score (SXscore), and compare its performance in isolation and combination with the PAMI (The Primary Angioplasty in Myocardial Infarction Study) score, for the prediction of 1-year clinical outcomes in patients with ST-segment elevation myocardial infarction (STEMI) undergoing primary percutaneous coronary intervention. Patients with STEMI were excluded from the original SYNTAX score (SXscore) algorithm. Therefore, the utility of using the SXscore in this patient group remains undefined. SXscore was calculated retrospectively in 807 patients with STEMI enrolled in the randomized STRATEGY (Single High-Dose Bolus Tirofiban and Sirolimus-Eluting Stent Versus Abciximab and Bare-Metal Stent in Acute Myocardial Infarction) and MULTISTRATEGY (Multicenter Evaluation of Single High-Dose Bolus Tirofiban Versus Abciximab With Sirolimus-Eluting Stent or Bare-Metal Stent in Acute Myocardial Infarction Study) clinical trials. Clinical outcomes of all-cause death, reinfarction, and clinically driven target vessel revascularization were subsequently stratified according to SXscore tertiles: SX(LOW) \u2264 9 (n = 311), 9 < SX(MID) \u2264 16 (n = 234), SX(HIGH) >16 (n = 262). At 1-year follow-up, all clinical outcomes including mortality, mortality/reinfarction, major adverse cardiac events (MACE) (a composite of all-cause death, reinfarction and target vessel revascularization), and definite, definite/probable, and any stent thrombosis were all significantly higher in patients in the highest SXscore tertile. SXscore was identified as an independent predictor of mortality, MACE, and stent thrombosis out to 1-year follow-up. The combination SYNTAX-PAMI score led to a net reclassification improvement of 15.7% and 4.6% for mortality and MACE, respectively. The C-statistics for the SXscore, PAMI score, and the combined SYNTAX-PAMI score were 0.65, 0.81, and 0.73 for 1-year mortality, and 0.68, 0.64, and 0.69 for 1-year MACE, respectively. SXscore does have a role in the risk stratification of patients with STEMI having primary percutaneous coronary intervention; however, this ability can be improved through a combination with clinical variables. (Multicentre 2\u00d72 Factorial Randomised Study Comparing Tirofiban Versus Abciximab and SES Versus BMS in AMI; NCT00229515).",
+  "journal": "JACC. Cardiovascular interventions",
+  "pub_date": "2011-Jan",
+  "authors": [
+    "Garg, Scot",
+    "Sarno, Giovanna",
+    "Serruys, Patrick W",
+    "Rodriguez, Alfredo E",
+    "Bolognese, Leonardo",
+    "Anselmi, Maurizio",
+    "De Cesare, Nicoletta",
+    "Colangelo, Salvatore",
+    "Moreno, Raul",
+    "Gambetti, Stefania",
+    "Monti, Monia",
+    "Bristot, Laura",
+    "Bressers, Marco",
+    "Garcia-Garcia, Hector M",
+    "Parrinello, Giovanni",
+    "Campo, Gianluca",
+    "Valgimigli, Marco"
+  ],
+  "nct_ids_referenced": [
+    "NCT00229515"
+  ],
+  "source": "pubmed",
+  "word_count": 320,
+  "parsed_at": "2026-10-30T10:32:11.956584"
+}

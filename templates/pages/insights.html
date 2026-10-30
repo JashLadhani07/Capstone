@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Global Insights | MOSAIC{% endblock %}
+{% block breadcrumb %}Global Insights{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">SYSTEM-WIDE INTELLIGENCE</p>
+        <h1>Global <span>Insights</span></h1>
+        <p class="page-description">Aggregate analysis of research integrity across the entire processed database.</p>
+    </div>
+</section>
+
+<div class="metrics-grid" id="insights-stats">
+    <!-- Stats will be loaded here by JS -->
+    <div class="metric-card"><span>Total Sponsors</span><h2 id="stat-sponsors">—</h2><p>Indexed in system</p></div>
+    <div class="metric-card"><span>Total Studies</span><h2 id="stat-studies">—</h2><p>Processed records</p></div>
+    <div class="metric-card"><span>Missing Results</span><h2 id="stat-missing">—</h2><p>Flagged gaps</p></div>
+    <div class="metric-card"><span>Avg Credibility</span><h2 id="stat-cred">—</h2><p>System average score</p></div>
+</div>
+
+<section class="content-card">
+    <div class="card-header">
+        <div>
+            <h3>High-Risk Watchlist</h3>
+            <p>Sponsors with the lowest credibility scores based on broken promises</p>
+        </div>
+    </div>
+    <div id="risk-list" class="review-list">
+        <p class="loading-cell">Analyzing sponsor risk profiles...</p>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', path='js/insights.js') }}"></script>
+{% endblock %}

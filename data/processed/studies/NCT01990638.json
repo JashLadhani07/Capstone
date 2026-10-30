@@ -1,0 +1,225 @@
+{
+  "nct_id": "NCT01990638",
+  "title": "Effects of Exercise Therapy on Ventricular and Endothelial Function in Patients After Coronary Artery Bypass Surgery",
+  "sponsor": "National Taiwan University Hospital",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Diabetes Mellitus, Type 2"
+  ],
+  "interventions": [
+    "exercise capacity test"
+  ],
+  "primary_outcome": "left ventricular diastolic function",
+  "secondary_outcomes": [
+    "flow-mediated dilation",
+    "exercise capacity"
+  ],
+  "start_date": "2004-11",
+  "completion_date": "2005-04",
+  "results_posted": false,
+  "enrollment": 51,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01990638",
+        "orgStudyIdInfo": {
+          "id": "9361701193"
+        },
+        "organization": {
+          "fullName": "National Taiwan University Hospital",
+          "class": "OTHER"
+        },
+        "briefTitle": "Effects of Exercise Therapy on Ventricular and Endothelial Function in Patients After Coronary Artery Bypass Surgery",
+        "officialTitle": "Effects of Exercise Therapy on Ventricular and Endothelial Function in Patients After Coronary Artery Bypass Surgery"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2013-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2004-11"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2005-04",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2005-05",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2013-11-15",
+        "studyFirstSubmitQcDate": "2013-11-15",
+        "studyFirstPostDateStruct": {
+          "date": "2013-11-21",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2013-11-15",
+        "lastUpdatePostDateStruct": {
+          "date": "2013-11-21",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "National Taiwan University Hospital",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study was (1) to compare the peak exercise capacity and left ventricular diastolic function between patients with and without diabetes and (2) to investigate the interrelation among peak oxygen consumption, left ventricular diastolic function, blood sugar, and lipid profile."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus, Type 2"
+        ],
+        "keywords": [
+          "coronary artery bypass graft",
+          "Diabetes mellitus, type 2"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "designInfo": {
+          "observationalModel": "CASE_CONTROL",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "bioSpec": {
+          "retention": "SAMPLES_WITHOUT_DNA",
+          "description": "fasting glucose"
+        },
+        "enrollmentInfo": {
+          "count": 51,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "DM group",
+            "interventionNames": [
+              "Other: exercise capacity test"
+            ]
+          },
+          {
+            "label": "non-DM group",
+            "interventionNames": [
+              "Other: exercise capacity test"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "exercise capacity test",
+            "armGroupLabels": [
+              "DM group",
+              "non-DM group"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "left ventricular diastolic function",
+            "description": "echocardiographic parameters",
+            "timeFrame": "1 week"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "flow-mediated dilation",
+            "description": "flow-mediated dilation on right brachial artery",
+            "timeFrame": "1 week"
+          },
+          {
+            "measure": "exercise capacity",
+            "description": "oxygen consumption",
+            "timeFrame": "1 week"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* well-controlled diabetes\n* no history of myocardial infarction\n* stable post coronary artery bypass surgery for at least 3 months\n\nExclusion Criteria:\n\n* heart failure,\n* valvular disease,\n* abnormal kidney or liver function,\n* cerebrovascular disease,\n* primary pulmonary disease,\n* other systemic or acute illness that may impede the testing or training",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "20 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "patients after coronary artery bypass surgery",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Ying-Tai Wu, PhD",
+            "affiliation": "National Taiwan University Hospital",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "National Taiwan University Hospital",
+            "city": "Taipei",
+            "zip": "100",
+            "country": "Taiwan",
+            "geoPoint": {
+              "lat": 25.05306,
+              "lon": 121.52639
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604435"
+}

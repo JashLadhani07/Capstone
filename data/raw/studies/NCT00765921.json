@@ -1,0 +1,336 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00765921",
+      "orgStudyIdInfo": {
+        "id": "07-06-040"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "FVF4384s",
+          "type": "OTHER",
+          "domain": "Genentech"
+        }
+      ],
+      "organization": {
+        "fullName": "Massachusetts Eye and Ear Infirmary",
+        "class": "OTHER"
+      },
+      "briefTitle": "Ranibizumab in Combination With Proton Beam Irradiation for Choroidal Melanoma",
+      "officialTitle": "A Phase I Single Center Study of Ranibizumab in Combination With Proton Beam Irradiation for Choroidal Melanoma"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2008-06"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2016-02",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2016-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2008-10-02",
+      "studyFirstSubmitQcDate": "2008-10-02",
+      "studyFirstPostDateStruct": {
+        "date": "2008-10-03",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-12-01",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-12-02",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Massachusetts Eye and Ear Infirmary",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Genentech, Inc.",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the study is to investigate the safety and tolerability of the anti-VEGF (vascular endothelial cell growth factor) treatment, ranibizumab, in combination with proton beam irradiation for the treatment of choroidal melanoma by determining the incidence and severity of ocular adverse events. Systemic adverse events will also be evaluated. A secondary objective is to assess the efficacy of ranibizumab in reducing ocular complications that can occur after irradiation."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Choroidal Melanoma"
+      ],
+      "keywords": [
+        "glaucoma, neovascular",
+        "macular edema",
+        "eye enucleation",
+        "antibodies, monoclonal",
+        "radiation oncology"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 40,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "1.0 mg ranibizumab",
+          "type": "EXPERIMENTAL",
+          "description": "1.0 mg intravitreal injection given bi-monthly for 22 months",
+          "interventionNames": [
+            "Drug: ranibizumab"
+          ]
+        },
+        {
+          "label": "0.5 mg ranibizumab",
+          "type": "EXPERIMENTAL",
+          "description": "0.5 mg intravitreal injection given bi-monthly for 22 months",
+          "interventionNames": [
+            "Drug: ranibizumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ranibizumab",
+          "description": "Ranibizumab dose of 0.5mg or 1.0 mg will be administered intravitreally at the time of surgery for tumor localization and then bimonthly for 22 months (total of 12 injections).",
+          "armGroupLabels": [
+            "0.5 mg ranibizumab",
+            "1.0 mg ranibizumab"
+          ],
+          "otherNames": [
+            "rhuFab",
+            "Lucentis"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "incidence and severity of ocular adverse events and systemic adverse events",
+          "timeFrame": "12 months and 24 months after initial treatment"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "incidence of radiation-induced complications, vision loss and eye loss",
+          "timeFrame": "12 months and 24 months after initial treatment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with newly diagnosed choroidal melanoma undergoing proton therapy\n* Tumors \\>15 mm in largest diameter and/or \\>5 mm in height\n* Tumors \u2264 15 mm in largest diameter and \u2264 5 mm in height located \u2264 3 mm from optic disc and/or macula, with best-corrected visual acuity 20/100 or better in study eye\n\nExclusion Criteria:\n\n* History of prior treatment for choroidal melanoma\n* Pregnancy or lactation\n* Presence of diabetic retinopathy\n* History of retinal vascular occlusion or other retinal vascular disease\n* Active ocular inflammation or history of uveitis in either eye\n* History of uncontrolled glaucoma (defined as intraocular pressure \\>30mmHg despite treatment with anti-glaucoma medication) or filtering surgery in the study eye\n* Previous intravitreal injections of Avastin\u00ae in the study eye or in the non-study eye within 30 days.\n* Concurrent use of systemic anti-VEGF therapy",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Ivana Kim, M.D.",
+          "affiliation": "Massachusetts Eye and Ear Infirmary",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Massachusetts Eye & Ear Infirmary",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02114",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000098943",
+          "term": "Uveal Melanoma"
+        },
+        {
+          "id": "D015355",
+          "term": "Glaucoma, Neovascular"
+        },
+        {
+          "id": "D008269",
+          "term": "Macular Edema"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008545",
+          "term": "Melanoma"
+        },
+        {
+          "id": "D018358",
+          "term": "Neuroendocrine Tumors"
+        },
+        {
+          "id": "D017599",
+          "term": "Neuroectodermal Tumors"
+        },
+        {
+          "id": "D009373",
+          "term": "Neoplasms, Germ Cell and Embryonal"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D009380",
+          "term": "Neoplasms, Nerve Tissue"
+        },
+        {
+          "id": "D018326",
+          "term": "Nevi and Melanomas"
+        },
+        {
+          "id": "D014604",
+          "term": "Uveal Neoplasms"
+        },
+        {
+          "id": "D005134",
+          "term": "Eye Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        },
+        {
+          "id": "D014603",
+          "term": "Uveal Diseases"
+        },
+        {
+          "id": "D005901",
+          "term": "Glaucoma"
+        },
+        {
+          "id": "D009798",
+          "term": "Ocular Hypertension"
+        },
+        {
+          "id": "D008268",
+          "term": "Macular Degeneration"
+        },
+        {
+          "id": "D012162",
+          "term": "Retinal Degeneration"
+        },
+        {
+          "id": "D012164",
+          "term": "Retinal Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069579",
+          "term": "Ranibizumab"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

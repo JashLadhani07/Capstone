@@ -1,0 +1,214 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05913271",
+      "orgStudyIdInfo": {
+        "id": "LNAT"
+      },
+      "organization": {
+        "fullName": "Qianfoshan Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Study on the Correlation Between NAT2(N-acetyltransferase2) Gene Polymorphism and CrCl(Creatine Clreance) and the Efficacy and Safety of Levosimendan in Patients With Severe Heart Failure",
+      "officialTitle": "Study on the Correlation Between NAT2(N-acetyltransferase2) Gene Polymorphism and CrCl(Creatine Clreance) and the Efficacy and Safety of Levosimendan in Patients With Severe Heart Failure"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-06",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-05-30",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-05-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2025-05-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-06-08",
+      "studyFirstSubmitQcDate": "2023-06-17",
+      "studyFirstPostDateStruct": {
+        "date": "2023-06-22",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-06-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-06-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Yi Han",
+        "investigatorTitle": "Associate professor of pharmacy",
+        "investigatorAffiliation": "Qianfoshan Hospital"
+      },
+      "leadSponsor": {
+        "name": "Yi Han",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Qianfoshan Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "1. To evaluate the efficacy and safety of levosimendan in the treatment of heart failure ;\n2. Guide patients to apply levosimendan individually and establish a dose adjustment program.",
+      "detailedDescription": "The efficacy and safety of levosimendan in Chinese patients with different acetylmetabolites and CrCl(Creatine clreance) were re-evaluated after marketing. The population pharmacokinetics of different populations was studied, and the patients were guided to apply levosimendan individually and establish a dose adjustment program."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Heart Failure",
+        "Levosimendan",
+        "Efficacy",
+        "Safety"
+      ],
+      "keywords": [
+        "Severe Heart Failure",
+        "Levosimendan",
+        "NAT2(N-acetyltransferase2) Gene Polymorphism",
+        "CrCl(Creatine clreance)"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "35 Days",
+      "designInfo": {
+        "observationalModel": "OTHER",
+        "timePerspective": "OTHER"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "blood"
+      },
+      "enrollmentInfo": {
+        "count": 352,
+        "type": "ESTIMATED"
+      }
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "35-day survival rate",
+          "description": "Survival of patients at 35 days",
+          "timeFrame": "35-day"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "The changes of plasma BNP(brain natriuretic peptide\uff09 / NT-proBNP\uff08N-terminal B-type natriuretic peptide\uff09 before and after treatment.",
+          "description": "Measurement of BNP\uff08brain natriuretic peptide\uff09 / NT-proBNP\uff08N-terminal B-type natriuretic peptide\uff09",
+          "timeFrame": "35-day"
+        },
+        {
+          "measure": "The improvement rate of patients ' health status",
+          "description": "EQ-5D scale(EuroQol Five Dimensions Questionnaire) was used to assess health status",
+          "timeFrame": "35-day"
+        },
+        {
+          "measure": "The incidence of composite endpoint events ( within 35 days ) included mortality, unplanned readmission, transfer to ICU, and rescue.",
+          "description": "Incidence of composite endpoint events within 35 days",
+          "timeFrame": "35-day"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "The incidence of adverse reactions, including headache, hypotension, arrhythmia.",
+          "description": "Adverse reactions after medication",
+          "timeFrame": "35-day"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 18-80 years old\n* Patients who were clearly diagnosed with heart failure ( cardiac insufficiency ) and LVEF(Left Ventricular Ejection Fraction) \\< 50 %, and were judged by the physician to need and agree to use levosimendan to maintain hemodynamic stability\n* Sign informed consent\n\nExclusion Criteria:\n\n* chronic heart failure and New York Heart Association ( NYHA ) class I \\~ II\n* Complicated with infective endocarditis, aortic dissection, severe liver dysfunction ( child-pugh C ), severe renal insufficiency ( CrCl \\< 30 ml / min ), hypertrophic obstructive cardiomyopathy, ventricular assist device or surgical cardiac surgery within 30 days before the use of levosimendan\n* Patients with severe ventricular arrhythmia 1 within 24 hours before levosimendan and systolic blood pressure 100 times / min within 2 hours before levosimendan\n* During hospitalization, other positive inotropic drugs 2 were used when levosimendan was intravenously pumped or dripped, excluding the use of catecholamines for rescue\n* received positive inotropic drug 2 treatment in the last 30 days\n* Lack of serum creatinine, brain natriuretic peptide or brain natriuretic peptide precursor, serum total bilirubin, cardiac ultrasound baseline ( within 14 days before using levosimendan ) data\n* pregnant and lactating women",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Severe heart failure generally refers to the low perfusion of tissues and organs caused by acute heart failure and acute exacerbation of chronic cardiac insufficiency, which seriously affects life. It is often combined with multiple organs, especially renal function injury. Its prognosis is poor, mortality and readmission rate are high, and the 1-year mortality rate can reach more than 20 %.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Yi Han, doctorate",
+          "role": "CONTACT",
+          "phone": "15552565120",
+          "email": "15552565120@163.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Yi Han, doctorate",
+          "affiliation": "First Affiliated Hospital of Shandong First Medical University ( Qianfoshan Hospital of Shandong Province )",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "First Affiliated Hospital of Shandong First Medical University ( Qianfoshan Hospital of Shandong Province )",
+          "status": "RECRUITING",
+          "city": "Jinan",
+          "state": "Shandong",
+          "zip": "250014",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Yi Han, doctorate",
+              "role": "CONTACT",
+              "phone": "15552565120",
+              "email": "15552565120@163.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 36.66833,
+            "lon": 116.99722
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006333",
+          "term": "Heart Failure"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

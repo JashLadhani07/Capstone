@@ -1,0 +1,274 @@
+{
+  "nct_id": "NCT06844019",
+  "title": "Birth & Breastfeeding Support Study",
+  "sponsor": "Herlev Hospital",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "Breastfeeding",
+    "Breastfeeding Initiation",
+    "Breastfeeding Duration",
+    "Birth",
+    "Birth Practices",
+    "Gestational Diabetes Mellitus (GDM)",
+    "Preeclampsia"
+  ],
+  "interventions": [],
+  "primary_outcome": "Exclusive Breastfeeding",
+  "secondary_outcomes": [],
+  "start_date": "2025-01-06",
+  "completion_date": "2027-01-06",
+  "results_posted": false,
+  "enrollment": 1628,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06844019",
+        "orgStudyIdInfo": {
+          "id": "F-24074649"
+        },
+        "organization": {
+          "fullName": "Herlev Hospital",
+          "class": "OTHER"
+        },
+        "briefTitle": "Birth & Breastfeeding Support Study",
+        "officialTitle": "Birth & Breastfeeding Support Study",
+        "acronym": "BABSS"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-05",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2025-01-06",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-01-06",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2028-01",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2025-02-19",
+        "studyFirstSubmitQcDate": "2025-02-19",
+        "studyFirstPostDateStruct": {
+          "date": "2025-02-25",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-05-22",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-05-28",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Hanna Jang\u00f6",
+          "investigatorTitle": "Associate Professor, Consultant Obstetrician, PhD",
+          "investigatorAffiliation": "University of Copenhagen"
+        },
+        "leadSponsor": {
+          "name": "Herlev Hospital",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The goal of this observational study is to learn about the effects of birth practices such as cesarean section and vacuum assisted birth and diseases such as gestational diabetes and preeclampsia on exclusive breastfeeding. The main question it aims to answer is:\n\n\u2022 Does cesarean section, vacuum assisted birth, gestational diabetes and preeclampsia affect exclusive breastfeeding three months after birth? Participants answer eight online survey questions. One survey is distributed before birth and the remaining seven surveys are distributed after birth at three, seven and four-teen days, as well as one, three, six and twelve months after birth."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Breastfeeding",
+          "Breastfeeding Initiation",
+          "Breastfeeding Duration",
+          "Birth",
+          "Birth Practices",
+          "Gestational Diabetes Mellitus (GDM)",
+          "Preeclampsia"
+        ],
+        "keywords": [
+          "Birth, birth practices, gestational diabetes, preeclampsia",
+          "breastfeeding"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 1628,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Cesarean Section",
+            "description": "Birth by cesarean section and exclusive breastfeeding at 3 months of age"
+          },
+          {
+            "label": "Vacuum Assisted Birth",
+            "description": "Birth by vacuum assist and exclusive breastfeeding at 3 months of age"
+          },
+          {
+            "label": "Gestational Diabetes",
+            "description": "Birth afflicted by gestational diabetes and exclusive breastfeeding at 3 months of age"
+          },
+          {
+            "label": "Preeclampsia",
+            "description": "Birth afflicted by preeclampsia and exclusive breastfeeding at 3 months of age"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Exclusive Breastfeeding",
+            "description": "Infant receives mothers milk exclusively",
+            "timeFrame": "3 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria: 18 years, intention to breastfeed, single gestation, reads and understands Danish -\n\nExclusion Criteria: Twin gestation, less than 18 years, no intention to breastfeed, does not read and understand Danish\n\n\\-",
+        "healthyVolunteers": true,
+        "sex": "FEMALE",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Pregnant women and women who have given birth \\> 18 years old",
+        "samplingMethod": "PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Dorrit Vizel-Schwartz, MSN, CNM, IBCLC, Ph.d.-student",
+            "role": "CONTACT",
+            "phone": "+45 3188 2258",
+            "email": "dorrit.vizel-schwartz@regionh.dk"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Thomas Bergholt, Professor, PhD, MSc",
+            "affiliation": "Herlev & Gentofte Hospital",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Herlev & Gentofte University Hospital",
+            "status": "RECRUITING",
+            "city": "Herlev",
+            "zip": "2730",
+            "country": "Denmark",
+            "contacts": [
+              {
+                "name": "Dorrit Vizel-Schwartz, MSN, CNM, IBCLC Ph.d.-student",
+                "role": "CONTACT",
+                "phone": "+45 3188 2258",
+                "email": "dorrit.vizel-schwartz@regionh.dk"
+              },
+              {
+                "name": "Thomas Bergholt, Professor, PhD, MSc",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 55.72366,
+              "lon": 12.43998
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED",
+        "description": "Not at this time."
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001942",
+            "term": "Breast Feeding"
+          },
+          {
+            "id": "D016640",
+            "term": "Diabetes, Gestational"
+          },
+          {
+            "id": "D011225",
+            "term": "Pre-Eclampsia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D005247",
+            "term": "Feeding Behavior"
+          },
+          {
+            "id": "D001519",
+            "term": "Behavior"
+          },
+          {
+            "id": "D011248",
+            "term": "Pregnancy Complications"
+          },
+          {
+            "id": "D005261",
+            "term": "Female Urogenital Diseases and Pregnancy Complications"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D046110",
+            "term": "Hypertension, Pregnancy-Induced"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718455"
+}

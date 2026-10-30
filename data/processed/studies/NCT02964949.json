@@ -1,0 +1,2629 @@
+{
+  "nct_id": "NCT02964949",
+  "title": "Evaluation of Edoxaban in Anticoagulant Na\u00efve Patients With Nonvalvular Atrial Fibrillation (NVAF) and High Creatinine Clearance",
+  "sponsor": "Daiichi Sankyo",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Atrial Fibrillation"
+  ],
+  "interventions": [
+    "Edoxaban"
+  ],
+  "primary_outcome": "Pharmacokinetics: Average Concentration of Edoxaban at Steady State (Cav)",
+  "secondary_outcomes": [
+    "Efficacy: Number of participants with composite event 1",
+    "Efficacy: Number of participants with composite event 2",
+    "Safety: Number of participants with major bleeding (including intracranial)",
+    "Safety: Number of participants with clinically relevant bleeding",
+    "Safety: Number of participants with any bleeding"
+  ],
+  "start_date": "2017-01-24",
+  "completion_date": "2018-10-09",
+  "results_posted": false,
+  "enrollment": 607,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02964949",
+        "orgStudyIdInfo": {
+          "id": "DU176b-C-E314"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "2016-001795-30",
+            "type": "EUDRACT_NUMBER"
+          },
+          {
+            "id": "2016",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/2016"
+          }
+        ],
+        "organization": {
+          "fullName": "Daiichi Sankyo",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Comparison of Two Doses of Edoxaban Using Different Tests (Assays) and Clinical Outcomes",
+        "officialTitle": "Evaluation of Edoxaban in Anticoagulant Na\u00efve Patients With Nonvalvular Atrial Fibrillation (NVAF) and High Creatinine Clearance"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2018-12",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2017-01-24",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2018-10-09",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2018-10-09",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2016-11-14",
+        "studyFirstSubmitQcDate": "2016-11-14",
+        "studyFirstPostDateStruct": {
+          "date": "2016-11-16",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2019-02-08",
+        "lastUpdatePostDateStruct": {
+          "date": "2019-02-12",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Daiichi Sankyo",
+          "class": "INDUSTRY"
+        },
+        "collaborators": [
+          {
+            "name": "Quintiles, Inc.",
+            "class": "INDUSTRY"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Atrial fibrillation is when the heart's two upper chambers (called atria) beat chaotically and irregularly, out of coordination with the two lower chambers (called ventricles) of the heart. This can lead to blood clots forming in the heart chamber.\n\nPatients with atrial fibrillation will be treated with either 60 mg or 75 mg of edoxaban for up to 12 months, with a 2-4 week follow-up, after which their participation is complete.\n\nBlood samples will be collected before the first dose of study drug (Day 0), and on Days 30, 90 and 360 (at pre dose, 1-2 hours post dose and 4-8 hours post-dose)."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Atrial Fibrillation"
+        ],
+        "keywords": [
+          "Nonvalvular Atrial Fibrillation",
+          "High Creatinine Clearance",
+          "Developmental Phase III",
+          "Anticoagulant Na\u00efve"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "BASIC_SCIENCE",
+          "maskingInfo": {
+            "masking": "TRIPLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 607,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Edoxaban 75 mg",
+            "type": "EXPERIMENTAL",
+            "description": "Edoxaban 60 mg + edoxaban 15 mg orally, once daily, at the same time (preferably morning) for up to 12 months, with a 2-4 week follow-up period. If needed when the patient completes or discontinues the study, an open-label transition dose of 30 mg and 15 mg edoxaban tablets will be provided.",
+            "interventionNames": [
+              "Drug: Edoxaban"
+            ]
+          },
+          {
+            "label": "Edoxaban 60 mg",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Edoxaban 60 mg + placebo 15 mg orally, once daily, at the same time (preferably morning) for up to 12 months, with a 2-4 week follow-up period. If needed when the patient completes or discontinues the study, an open-label transition dose of 30 mg and 15 mg edoxaban tablets will be provided.",
+            "interventionNames": [
+              "Drug: Edoxaban"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Edoxaban",
+            "description": "Edoxaban will be provided in blister packs with active and placebo tablets maintaining the blind, i.e., one 60 mg active tablet and a 15 mg placebo or one 60 mg active tablet and a 15 mg active tablet. Transition doses of 30 mg + 15 mg edoxaban are provided in 14-tablet blister packs.",
+            "armGroupLabels": [
+              "Edoxaban 60 mg",
+              "Edoxaban 75 mg"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Pharmacokinetics: Average Concentration of Edoxaban at Steady State (Cav)",
+            "description": "In pharmacokinetics, steady state means the overall intake of a drug is about equal to its elimination",
+            "timeFrame": "After initiation of dosing on Days 30, 90, and 360 (at pre dose, 1-2 hours post dose and 4-8 hours post-dose)"
+          },
+          {
+            "measure": "Pharmacokinetics: Minimum Concentration of Edoxaban in Plasma (Cmin)",
+            "description": "Cmin is a term used in pharmacokinetics that usually refers to the minimum blood plasma concentration that a drug achieves after the drug has been administered and prior to the administration of a second dose",
+            "timeFrame": "After initiation of dosing on Days 30, 90, and 360 (at pre dose, 1-2 hours post dose and 4-8 hours post-dose)"
+          },
+          {
+            "measure": "Pharmacodynamics: Mean exposure using validated assays",
+            "description": "Exposure analysis performed with validated Liquid Chromatography/Tandem Mass Spectrometry/Mass Spectrometry (LC/MS/MS) assay with lithium heparin plasma.\n\nCategories: Edoxaban and its metabolite (D21-2393)",
+            "timeFrame": "Pre-dose and after initiation of dosing on Days 30, 90, and 360 (at pre dose, 1-2 hours post dose and 4-8 hours post-dose)"
+          },
+          {
+            "measure": "Pharmacodynamics: Mean exposure with anti-Factor Xa (FXa) assay",
+            "description": "Exposure analysis performed with anti-FXa assay, using sodium citrate plasma samples Categories: Edoxaban and D21-2393",
+            "timeFrame": "Pre-dose and after initiation of dosing on Days 30, 90, and 360 (at pre dose, 1-2 hours post dose and 4-8 hours post-dose)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Efficacy: Number of participants with composite event 1",
+            "description": "Composite event 1 includes ischemic or hemorrhagic stroke/transient ischemic attack (TIA) and systemic embolic events (SEE)",
+            "timeFrame": "within 3 years"
+          },
+          {
+            "measure": "Efficacy: Number of participants with composite event 2",
+            "description": "Composite event 2 includes stroke/TIA, SEE, myocardial infarction, cardiovascular death, and major bleeding",
+            "timeFrame": "within 3 years"
+          },
+          {
+            "measure": "Safety: Number of participants with major bleeding (including intracranial)",
+            "description": "Major bleeding is defined per the International Society on Thrombosis and Haemostasis (ISTH) definition",
+            "timeFrame": "within 3 years"
+          },
+          {
+            "measure": "Safety: Number of participants with clinically relevant bleeding",
+            "description": "Clinically relevant bleeding is a combination of major bleeding and clinically relevant non-major (CRNM) bleeding",
+            "timeFrame": "within 3 years"
+          },
+          {
+            "measure": "Safety: Number of participants with any bleeding",
+            "description": "Count of participants who experienced any bleeding event",
+            "timeFrame": "within 3 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Meets protocol-specified criteria for qualification\n* Is able to follow the protocol specified contraception methods\n* Is willing and able to comply with any restrictions related to food, drink and medications\n* Voluntarily consents to participate and provides written informed consent prior to any protocol-specific procedures\n\nExclusion Criteria:\n\n* Has history or current use of over-the-counter medications, dietary supplements, or drugs (including nicotine and alcohol) outside protocol-specified parameters\n* Has signs, symptoms or history of any condition that, per protocol or in the opinion of the investigator, might compromise:\n\n  1. the safety or well-being of the participant or study staff\n  2. the safety or well-being of the participant's offspring (such as through pregnancy or breast-feeding)\n  3. the analysis of results",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Global Clinical Leader",
+            "affiliation": "Daiichi Sankyo",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "O L V Ziekenhuis",
+            "city": "Aalst",
+            "zip": "9300",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 50.93604,
+              "lon": 4.0355
+            }
+          },
+          {
+            "facility": "ZNA Middelheim",
+            "city": "Antwerp",
+            "zip": "2260",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.22047,
+              "lon": 4.40026
+            }
+          },
+          {
+            "facility": "AZ Sint-Jan Brugge",
+            "city": "Bruges",
+            "zip": "8000",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.20892,
+              "lon": 3.22424
+            }
+          },
+          {
+            "facility": "C H U Brugmann - Site Victor Horta",
+            "city": "Brussels",
+            "zip": "1020",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 50.85045,
+              "lon": 4.34878
+            }
+          },
+          {
+            "facility": "Jessa Ziekenhuis - Campus Virga Jesse",
+            "city": "Hasselt",
+            "zip": "3500",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 50.93106,
+              "lon": 5.33781
+            }
+          },
+          {
+            "facility": "St-Franciskus Ziekenhuis",
+            "city": "Heusden-Zolder",
+            "zip": "3550",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.03729,
+              "lon": 5.29653
+            }
+          },
+          {
+            "facility": "Universitairsitaire Ziekenhuizen Leuven",
+            "city": "Leuven",
+            "zip": "3000",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 50.87959,
+              "lon": 4.70093
+            }
+          },
+          {
+            "facility": "C H R de la Citadelle",
+            "city": "Li\u00e8ge",
+            "zip": "4000",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 50.63373,
+              "lon": 5.56749
+            }
+          },
+          {
+            "facility": "AZ Sint-Maarten",
+            "city": "Mechelen",
+            "zip": "2800",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.02574,
+              "lon": 4.47762
+            }
+          },
+          {
+            "facility": "AZ Turnhout - Campus Sint-Elisabeth",
+            "city": "Turnhout",
+            "zip": "2300",
+            "country": "Belgium",
+            "geoPoint": {
+              "lat": 51.32254,
+              "lon": 4.94471
+            }
+          },
+          {
+            "facility": "MHAT 'Sveta Ekaterina' EOOD",
+            "city": "Dimitrovgrad",
+            "zip": "6400",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.05,
+              "lon": 25.6
+            }
+          },
+          {
+            "facility": "MHAT Dr Tota Venkova AD",
+            "city": "Gabrovo",
+            "zip": "5300",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.87419,
+              "lon": 25.31823
+            }
+          },
+          {
+            "facility": "Medical Center Haskovo EOOD",
+            "city": "Haskovo",
+            "zip": "6300",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 41.93415,
+              "lon": 25.55557
+            }
+          },
+          {
+            "facility": "MHAT-Haskovo AD",
+            "city": "Haskovo",
+            "zip": "6300",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 41.93415,
+              "lon": 25.55557
+            }
+          },
+          {
+            "facility": "MHAT - Pazardzhik AD",
+            "city": "Pazardzhik",
+            "zip": "4400",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.19934,
+              "lon": 24.33318
+            }
+          },
+          {
+            "facility": "MHAT Sv Pantaleymon - Pleven OOD",
+            "city": "Pleven",
+            "zip": "5800",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 43.41791,
+              "lon": 24.61666
+            }
+          },
+          {
+            "facility": "SHATC Pleven EAD",
+            "city": "Pleven",
+            "zip": "5800",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 43.41791,
+              "lon": 24.61666
+            }
+          },
+          {
+            "facility": "UMHAT 'Dr Georgi Stranski' EAD",
+            "city": "Pleven",
+            "zip": "5800",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 43.41791,
+              "lon": 24.61666
+            }
+          },
+          {
+            "facility": "UMHAT Sv Georgi EAD",
+            "city": "Plovdiv",
+            "zip": "4000",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.15387,
+              "lon": 24.75001
+            }
+          },
+          {
+            "facility": "MHAT-Plovdiv AD",
+            "city": "Plovdiv",
+            "zip": "4002",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.15387,
+              "lon": 24.75001
+            }
+          },
+          {
+            "facility": "Second MHAT - Sofia AD",
+            "city": "Sofia",
+            "zip": "1202",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "Fifth MHAT - Sofia EAD",
+            "city": "Sofia",
+            "zip": "1233",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "NMTH Tsar Boris III",
+            "city": "Sofia",
+            "zip": "1233",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "MHAT - National Heart Hospital EAD",
+            "city": "Sofia",
+            "zip": "1309",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "UMHAT Alexandrovska EAD",
+            "city": "Sofia",
+            "zip": "1431",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "UMHAT 'Tsaritsa Yoanna - ISUL' EAD",
+            "city": "Sofia",
+            "zip": "1527",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "Fourth MHAT - Sofia EAD",
+            "city": "Sofia",
+            "zip": "1606",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "UMHAT 'Sveta Anna' AD",
+            "city": "Sofia",
+            "zip": "1750",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 42.69751,
+              "lon": 23.32415
+            }
+          },
+          {
+            "facility": "SHATC Cardiolife OOD",
+            "city": "Varna",
+            "zip": "9000",
+            "country": "Bulgaria",
+            "geoPoint": {
+              "lat": 43.21912,
+              "lon": 27.91024
+            }
+          },
+          {
+            "facility": "General Hospital Dubrovnik",
+            "city": "Dubrovnik",
+            "zip": "20000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 42.64125,
+              "lon": 18.10909
+            }
+          },
+          {
+            "facility": "General Hospital Dr Tomislav Bardek",
+            "city": "Koprivnica",
+            "zip": "48000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 46.16364,
+              "lon": 16.8297
+            }
+          },
+          {
+            "facility": "Special Hospital for medical rehabilitation",
+            "city": "Krapinske Toplice",
+            "zip": "49217",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 46.09333,
+              "lon": 15.84333
+            }
+          },
+          {
+            "facility": "Clinical Hospital Centre Rijeka",
+            "city": "Rijeka",
+            "zip": "51000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.32673,
+              "lon": 14.44241
+            }
+          },
+          {
+            "facility": "General Hospital Dr Josip Bencevic",
+            "city": "Slavonski Brod",
+            "zip": "35000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.16158,
+              "lon": 18.0163
+            }
+          },
+          {
+            "facility": "General Hospital Varazdin",
+            "city": "Vara\u017edin",
+            "zip": "42000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 46.30444,
+              "lon": 16.33778
+            }
+          },
+          {
+            "facility": "General Hospital Zadar",
+            "city": "Zadar",
+            "zip": "23000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 44.11578,
+              "lon": 15.22514
+            }
+          },
+          {
+            "facility": "Clinical Hospital Center Sestre Milosrdnice",
+            "city": "Zagreb",
+            "zip": "10000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.81444,
+              "lon": 15.97798
+            }
+          },
+          {
+            "facility": "Clinical Hospital Dubrava",
+            "city": "Zagreb",
+            "zip": "10000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.81444,
+              "lon": 15.97798
+            }
+          },
+          {
+            "facility": "Clinical Hospital Sveti Duh",
+            "city": "Zagreb",
+            "zip": "10000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.81444,
+              "lon": 15.97798
+            }
+          },
+          {
+            "facility": "University Hospital center Zagreb (2108)",
+            "city": "Zagreb",
+            "zip": "10000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.81444,
+              "lon": 15.97798
+            }
+          },
+          {
+            "facility": "University Hospital center Zagreb (2110)",
+            "city": "Zagreb",
+            "zip": "10000",
+            "country": "Croatia",
+            "geoPoint": {
+              "lat": 45.81444,
+              "lon": 15.97798
+            }
+          },
+          {
+            "facility": "Innera s r o",
+            "city": "Bene\u0161ov",
+            "zip": "256 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.78162,
+              "lon": 14.68697
+            }
+          },
+          {
+            "facility": "Poliklinika Humanitas",
+            "city": "B\u00edlovec",
+            "zip": "743. 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.75639,
+              "lon": 18.01581
+            }
+          },
+          {
+            "facility": "Fakultni nemocnice Brno",
+            "city": "Brno",
+            "zip": "625 00",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.19522,
+              "lon": 16.60796
+            }
+          },
+          {
+            "facility": "Fakultni nemocnice u sv. Anny v Brne",
+            "city": "Brno",
+            "zip": "656 91",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.19522,
+              "lon": 16.60796
+            }
+          },
+          {
+            "facility": "Edumed s.r.o",
+            "city": "Broumov",
+            "zip": "550 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.58566,
+              "lon": 16.33181
+            }
+          },
+          {
+            "facility": "Nemocnice Havlickuv Brod, p.o.",
+            "city": "Havl\u00ed\u010dk\u016fv Brod",
+            "zip": "580 22",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.6069,
+              "lon": 15.57937
+            }
+          },
+          {
+            "facility": "Kardio-Pisova, s.r.o.",
+            "city": "Hradec Kr\u00e1lov\u00e9",
+            "zip": "500 02",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.20923,
+              "lon": 15.83277
+            }
+          },
+          {
+            "facility": "Oblastni nemocnice Kolin, a.s.",
+            "city": "Kol\u00edn",
+            "zip": "280 00",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.02806,
+              "lon": 15.1998
+            }
+          },
+          {
+            "facility": "Centrum pro choroby srdce a cev",
+            "city": "Krom\u011b\u0159\u00ed\u017e",
+            "zip": "767 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.29785,
+              "lon": 17.39312
+            }
+          },
+          {
+            "facility": "Kromerizska nemocnice, a.s.",
+            "city": "Krom\u011b\u0159\u00ed\u017e",
+            "zip": "767 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.29785,
+              "lon": 17.39312
+            }
+          },
+          {
+            "facility": "InterKardioML s r o",
+            "city": "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
+            "zip": "353 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.96459,
+              "lon": 12.70118
+            }
+          },
+          {
+            "facility": "PV - kardiologie s.r.o.",
+            "city": "Pardubice",
+            "zip": "530 02",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.04075,
+              "lon": 15.77659
+            }
+          },
+          {
+            "facility": "Ordince pro choroby srdce a cev",
+            "city": "Prague",
+            "zip": "101 00",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.08804,
+              "lon": 14.42076
+            }
+          },
+          {
+            "facility": "AVICENA -KARDIOLOGIE, INTERNA s.r.o.",
+            "city": "Prague",
+            "zip": "110 00",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.08804,
+              "lon": 14.42076
+            }
+          },
+          {
+            "facility": "Nemocnice na Frantisku",
+            "city": "Prague",
+            "zip": "110 00",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.08804,
+              "lon": 14.42076
+            }
+          },
+          {
+            "facility": "Kardio-Pisova sro",
+            "city": "Prague",
+            "zip": "148 00",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.08804,
+              "lon": 14.42076
+            }
+          },
+          {
+            "facility": "Fakultni nemocnice v Motole",
+            "city": "Prague",
+            "zip": "150 06",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.08804,
+              "lon": 14.42076
+            }
+          },
+          {
+            "facility": "Corintez s.r.o",
+            "city": "Prague",
+            "zip": "158 00",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.08804,
+              "lon": 14.42076
+            }
+          },
+          {
+            "facility": "Poliklinika RAVAK",
+            "city": "P\u0159\u00edbram",
+            "zip": "261 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.68988,
+              "lon": 14.01043
+            }
+          },
+          {
+            "facility": "Oblastni nemocnice Pribram, a.s.",
+            "city": "P\u0159\u00edbram",
+            "zip": "261 95",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.68988,
+              "lon": 14.01043
+            }
+          },
+          {
+            "facility": "Nemocnice Slany",
+            "city": "Slan\u00fd",
+            "zip": "274 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.23046,
+              "lon": 14.08693
+            }
+          },
+          {
+            "facility": "Poliklinika Masarykuv Dum, s.r.o.",
+            "city": "Trutnov",
+            "zip": "541 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 50.56101,
+              "lon": 15.9127
+            }
+          },
+          {
+            "facility": "Clinical Trials Services s.r.o",
+            "city": "Uhersk\u00e9 Hradi\u0161t\u011b",
+            "zip": "686 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.06975,
+              "lon": 17.45969
+            }
+          },
+          {
+            "facility": "Krajska nemocnice T Bati a s",
+            "city": "Zl\u00edn",
+            "zip": "760 01",
+            "country": "Czechia",
+            "geoPoint": {
+              "lat": 49.22645,
+              "lon": 17.67065
+            }
+          },
+          {
+            "facility": "Bispebjeg og Fredeiksberg Hospital",
+            "city": "Copenhagen",
+            "zip": "2400",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 55.67594,
+              "lon": 12.56553
+            }
+          },
+          {
+            "facility": "Amager Hospital",
+            "city": "Copenhagen S",
+            "zip": "2300",
+            "country": "Denmark"
+          },
+          {
+            "facility": "Gentofte Hospital",
+            "city": "Hellerup",
+            "zip": "2900",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 55.73204,
+              "lon": 12.57093
+            }
+          },
+          {
+            "facility": "Herlev Hospital",
+            "city": "Herlev",
+            "zip": "2730",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 55.72366,
+              "lon": 12.43998
+            }
+          },
+          {
+            "facility": "Holb\u00e6k Sygehus",
+            "city": "Holb\u00e6k",
+            "zip": "4300",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 55.7175,
+              "lon": 11.71279
+            }
+          },
+          {
+            "facility": "Hvidovre Hospital",
+            "city": "Hvidovre",
+            "zip": "2650",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 55.64297,
+              "lon": 12.47708
+            }
+          },
+          {
+            "facility": "Rigshospitalet",
+            "city": "K\u00f8benhavn \u00d8",
+            "zip": "2100",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 55.70968,
+              "lon": 12.57862
+            }
+          },
+          {
+            "facility": "Nyk\u00f8bing F Sygehus",
+            "city": "Nyk\u00f8bing Falster",
+            "zip": "4800",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 54.76906,
+              "lon": 11.87425
+            }
+          },
+          {
+            "facility": "Slagelse Sygehus",
+            "city": "Slagelse",
+            "zip": "4200",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 55.40276,
+              "lon": 11.35459
+            }
+          },
+          {
+            "facility": "Regionshospitalet Viborg",
+            "city": "Viborg",
+            "zip": "8800",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 56.45319,
+              "lon": 9.40201
+            }
+          },
+          {
+            "facility": "East Tallinn Central Hospital",
+            "city": "Tallinn",
+            "zip": "101389",
+            "country": "Estonia",
+            "geoPoint": {
+              "lat": 59.43696,
+              "lon": 24.75353
+            }
+          },
+          {
+            "facility": "Dr Arvo Rosenthal LLC",
+            "city": "Tallinn",
+            "zip": "13419",
+            "country": "Estonia",
+            "geoPoint": {
+              "lat": 59.43696,
+              "lon": 24.75353
+            }
+          },
+          {
+            "facility": "North Estonia Medical Centre Foundation",
+            "city": "Tallinn",
+            "zip": "13419",
+            "country": "Estonia",
+            "geoPoint": {
+              "lat": 59.43696,
+              "lon": 24.75353
+            }
+          },
+          {
+            "facility": "Tartu University Hospital",
+            "city": "Tartu",
+            "zip": "51014",
+            "country": "Estonia",
+            "geoPoint": {
+              "lat": 58.38062,
+              "lon": 26.72509
+            }
+          },
+          {
+            "facility": "Principal SMO Kft",
+            "city": "Baja",
+            "zip": "6500",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.18299,
+              "lon": 18.95307
+            }
+          },
+          {
+            "facility": "Grof Tisza Istvan Korhaz",
+            "city": "Beretty\u00f3\u00fajfalu",
+            "zip": "4101",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.22362,
+              "lon": 21.53656
+            }
+          },
+          {
+            "facility": "Belgyogyaszati es Kardiologiai Maganrendelo",
+            "city": "B\u00e9k\u00e9scsaba",
+            "zip": "5600",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.68333,
+              "lon": 21.1
+            }
+          },
+          {
+            "facility": "Budapesti Szent Ferenc Korhaz",
+            "city": "Budapest",
+            "zip": "1021",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Budai Irgalmasrendi Korhaz",
+            "city": "Budapest",
+            "zip": "1023",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Szent Margit Korhaz",
+            "city": "Budapest",
+            "zip": "1032",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Obudai Egeszsegugyi Centrum Kft",
+            "city": "Budapest",
+            "zip": "1036",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Bajcsy-Zsilinszky Korhaz es Rendelointezet",
+            "city": "Budapest",
+            "zip": "1106",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Semmelweis Egyetem",
+            "city": "Budapest",
+            "zip": "1122",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Semmelweis Egyetem",
+            "city": "Budapest",
+            "zip": "1125",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Nyiro Gyula Korhaz - Orszagos Pszichiatriai es Addiktologiai Intezet",
+            "city": "Budapest",
+            "zip": "1135",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Uzsoki Utcai Korhaz",
+            "city": "Budapest",
+            "zip": "1145",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.49835,
+              "lon": 19.04045
+            }
+          },
+          {
+            "facility": "Debreceni Egyetem Klinikai Kozpont (4002)",
+            "city": "Debrecen",
+            "zip": "4032",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.53167,
+              "lon": 21.62444
+            }
+          },
+          {
+            "facility": "Debreceni Egyetem Klinikai Kozpont (4025)",
+            "city": "Debrecen",
+            "zip": "4032",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.53167,
+              "lon": 21.62444
+            }
+          },
+          {
+            "facility": "Markhot Ferenc Oktatokorhaz es Rendelointezet",
+            "city": "Eger",
+            "zip": "3300",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.90265,
+              "lon": 20.37329
+            }
+          },
+          {
+            "facility": "Petz Aladar Megyei Oktato Korhaz",
+            "city": "Gy\u0151r",
+            "zip": "9024",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.68333,
+              "lon": 17.63512
+            }
+          },
+          {
+            "facility": "Csongrad Megyei Egeszsegugyi Ellato Kozpont Hodmezovasarhely-Mako",
+            "city": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+            "zip": "6800",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.41667,
+              "lon": 20.33333
+            }
+          },
+          {
+            "facility": "Studium Egeszseghaz Kft",
+            "city": "Kalocsa",
+            "zip": "6300",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.52981,
+              "lon": 18.97283
+            }
+          },
+          {
+            "facility": "Somogy Megyei Kaposi Mor Oktato Korhaz",
+            "city": "Kaposv\u00e1r",
+            "zip": "7400",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.36667,
+              "lon": 17.8
+            }
+          },
+          {
+            "facility": "Bacs-Kiskun Megyei Korhaz",
+            "city": "Kecskem\u00e9t",
+            "zip": "6000",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.90618,
+              "lon": 19.69128
+            }
+          },
+          {
+            "facility": "Selye Janos Korhaz",
+            "city": "Kom\u00e1rom",
+            "zip": "2921",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.74318,
+              "lon": 18.11913
+            }
+          },
+          {
+            "facility": "Kanizsai Dorottya Korhaz",
+            "city": "Nagykanizsa",
+            "zip": "8800",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.45347,
+              "lon": 16.99104
+            }
+          },
+          {
+            "facility": "SzSzB Megyei Korhazak es Egyetemi Oktatokorhaz",
+            "city": "Ny\u00edregyh\u00e1za",
+            "zip": "4400",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.95539,
+              "lon": 21.71671
+            }
+          },
+          {
+            "facility": "Pecsi Tudomanyegyetem",
+            "city": "P\u00e9cs",
+            "zip": "7624",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.07617,
+              "lon": 18.22814
+            }
+          },
+          {
+            "facility": "Szegedi Tudomanyegyetem Szent-Gyorgyi Albert Klinikai Kozpont",
+            "city": "Szeged",
+            "zip": "6725",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.253,
+              "lon": 20.14824
+            }
+          },
+          {
+            "facility": "Csongrad Megyei Dr Bugyi Istvan Korhaz",
+            "city": "Szentes",
+            "zip": "6600",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.65834,
+              "lon": 20.2608
+            }
+          },
+          {
+            "facility": "Fejer Megyei Szent Gyorgy Egyetemi Oktato Korhaz",
+            "city": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+            "zip": "8000",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.18995,
+              "lon": 18.41034
+            }
+          },
+          {
+            "facility": "Jeruzsalemhegyi Egeszseghaz",
+            "city": "Veszpr\u00e9m",
+            "zip": "8200",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 47.09327,
+              "lon": 17.91149
+            }
+          },
+          {
+            "facility": "Zala Megyei Szent Rafael Korhaz",
+            "city": "Zalaegerszeg",
+            "zip": "8900",
+            "country": "Hungary",
+            "geoPoint": {
+              "lat": 46.83695,
+              "lon": 16.84401
+            }
+          },
+          {
+            "facility": "Daugavpils Regional Hospital",
+            "city": "Daugavpils",
+            "zip": "LV-5417",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 55.88333,
+              "lon": 26.53333
+            }
+          },
+          {
+            "facility": "Jelgava Outpatient Clinic",
+            "city": "Jelgava",
+            "zip": "LV-3001",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 56.65,
+              "lon": 23.71278
+            }
+          },
+          {
+            "facility": "Dr Iveta Neniske GP Practice",
+            "city": "J\u0113kabpils",
+            "zip": "LV-5201",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 56.49903,
+              "lon": 25.85735
+            }
+          },
+          {
+            "facility": "Dr R Eglite's Private practice",
+            "city": "Kuld\u012bga",
+            "zip": "LV-3301",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 56.97399,
+              "lon": 21.95721
+            }
+          },
+          {
+            "facility": "Inese Cebere GP practice",
+            "city": "Liep\u0101ja",
+            "zip": "LV-3401",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 56.50474,
+              "lon": 21.01085
+            }
+          },
+          {
+            "facility": "Pauls Stradins Clinical University Hospital",
+            "city": "Riga",
+            "zip": "LV-1002",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 56.946,
+              "lon": 24.10589
+            }
+          },
+          {
+            "facility": "Clinic of GP A Lasmanis ALMA",
+            "city": "Riga",
+            "zip": "LV-1010",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 56.946,
+              "lon": 24.10589
+            }
+          },
+          {
+            "facility": "GK Neiroklinika",
+            "city": "Riga",
+            "zip": "LV-1011",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 56.946,
+              "lon": 24.10589
+            }
+          },
+          {
+            "facility": "Health Centre 4",
+            "city": "Riga",
+            "zip": "LV-1012",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 56.946,
+              "lon": 24.10589
+            }
+          },
+          {
+            "facility": "Dr D Harasimjuka GP Practice",
+            "city": "Valmiera",
+            "zip": "LV-4201",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 57.54108,
+              "lon": 25.42751
+            }
+          },
+          {
+            "facility": "Regional Hospital of Ziemelkurzeme",
+            "city": "Ventspils",
+            "zip": "LV-3601",
+            "country": "Latvia",
+            "geoPoint": {
+              "lat": 57.39485,
+              "lon": 21.56121
+            }
+          },
+          {
+            "facility": "Kaunas Clinical Hospital Public Institution",
+            "city": "Kaunas",
+            "zip": "47144",
+            "country": "Lithuania",
+            "geoPoint": {
+              "lat": 54.90156,
+              "lon": 23.90909
+            }
+          },
+          {
+            "facility": "Saules Seimos Medicinos Centras JSC",
+            "city": "Kaunas",
+            "zip": "49449",
+            "country": "Lithuania",
+            "geoPoint": {
+              "lat": 54.90156,
+              "lon": 23.90909
+            }
+          },
+          {
+            "facility": "Elite Medicale JSC",
+            "city": "Kaunas",
+            "zip": "50177",
+            "country": "Lithuania",
+            "geoPoint": {
+              "lat": 54.90156,
+              "lon": 23.90909
+            }
+          },
+          {
+            "facility": "Hospital of Lithuanian University of Health Sciences Kaunas Clinics (5103)",
+            "city": "Kaunas",
+            "zip": "LT-50009",
+            "country": "Lithuania",
+            "geoPoint": {
+              "lat": 54.90156,
+              "lon": 23.90909
+            }
+          },
+          {
+            "facility": "Hospital of Lithuanian University of Health Sciences Kaunas Clinics",
+            "city": "Kaunas",
+            "zip": "LT-50009",
+            "country": "Lithuania",
+            "geoPoint": {
+              "lat": 54.90156,
+              "lon": 23.90909
+            }
+          },
+          {
+            "facility": "Cardiology and Rehabilitation Clinic JSC",
+            "city": "Klaip\u0117da",
+            "zip": "91131",
+            "country": "Lithuania",
+            "geoPoint": {
+              "lat": 55.7068,
+              "lon": 21.13912
+            }
+          },
+          {
+            "facility": "Klaipeda Republican Hospital Public Institution",
+            "city": "Klaip\u0117da",
+            "zip": "92231",
+            "country": "Lithuania",
+            "geoPoint": {
+              "lat": 55.7068,
+              "lon": 21.13912
+            }
+          },
+          {
+            "facility": "Vilnius University Hospital Santariskiu Clinic Public Institution",
+            "city": "Vilnius",
+            "zip": "LT-08661",
+            "country": "Lithuania",
+            "geoPoint": {
+              "lat": 54.68916,
+              "lon": 25.2798
+            }
+          },
+          {
+            "facility": "CERMED",
+            "city": "Bialystok",
+            "zip": "15-270",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 53.13333,
+              "lon": 23.16433
+            }
+          },
+          {
+            "facility": "KLIMED Marek Klimkiewicz",
+            "city": "Bialystok",
+            "zip": "15-765",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 53.13333,
+              "lon": 23.16433
+            }
+          },
+          {
+            "facility": "KARDIOMED Janczska Kociwska Ostki PodckaRekrzSp",
+            "city": "Elblag",
+            "zip": "82-300",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 54.1522,
+              "lon": 19.40884
+            }
+          },
+          {
+            "facility": "Synexus Polska SCM Sp z o o Gdansku",
+            "city": "Gdansk",
+            "zip": "80-382",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 54.35227,
+              "lon": 18.64912
+            }
+          },
+          {
+            "facility": "Indywidualna Specjalistyczna Praktyka Lekarska w Dziedzinie Kardiologii lek med Krzysztof Cymerman",
+            "city": "Gdynia",
+            "zip": "81-157",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 54.51889,
+              "lon": 18.53188
+            }
+          },
+          {
+            "facility": "Synexus Polska Sp z o o Oddzial w Gdyni",
+            "city": "Gdynia",
+            "zip": "81-384",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 54.51889,
+              "lon": 18.53188
+            }
+          },
+          {
+            "facility": "Synexus Polska Sp z o o Oddzial w Katowicach",
+            "city": "Katowice",
+            "zip": "40-040",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.2597,
+              "lon": 19.02173
+            }
+          },
+          {
+            "facility": "Grazyna Pulka Specjalistyczny Osrodek ALL-MED",
+            "city": "Krakow",
+            "zip": "31-023",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.06143,
+              "lon": 19.93658
+            }
+          },
+          {
+            "facility": "Centrum Opieki Zdrowotnej Orkan-Med",
+            "city": "Ksawer\u00f3w",
+            "zip": "95-054",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 51.68288,
+              "lon": 19.4028
+            }
+          },
+          {
+            "facility": "Gabinet Internistyczno-Kardiologiczny Dr n. med. Jacek Nowak",
+            "city": "Libi\u0105\u017c",
+            "zip": "32-590",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.10396,
+              "lon": 19.31568
+            }
+          },
+          {
+            "facility": "Polimedica Centrum Bada\u0144 Profilaktyki I Leczenia",
+            "city": "Lodz",
+            "zip": "90-302",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 51.77058,
+              "lon": 19.47395
+            }
+          },
+          {
+            "facility": "Wojew\u00f3dzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika w \u0141odzi",
+            "city": "Lodz",
+            "zip": "93-153",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 51.77058,
+              "lon": 19.47395
+            }
+          },
+          {
+            "facility": "Medicome Sp z o o",
+            "city": "O\u015bwi\u0119cim",
+            "zip": "32-600",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.03437,
+              "lon": 19.21037
+            }
+          },
+          {
+            "facility": "SPZOZ w Pulawach Szpital Specjalistyczny",
+            "city": "Pu\u0142awy",
+            "zip": "24-100",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 51.41655,
+              "lon": 21.96939
+            }
+          },
+          {
+            "facility": "Janusz Spyra Specjalistyczna Praktyka Lekarska",
+            "city": "Ruda \u015al\u0105ska",
+            "zip": "41-709",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.2584,
+              "lon": 18.85632
+            }
+          },
+          {
+            "facility": "Centrum Medyczne Sabamed - Rzesz\u00f3w",
+            "city": "Rzesz\u00f3w",
+            "zip": "35-006",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.04132,
+              "lon": 21.99901
+            }
+          },
+          {
+            "facility": "Centrum Medyczne Medyk",
+            "city": "Rzesz\u00f3w",
+            "zip": "35-055",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.04132,
+              "lon": 21.99901
+            }
+          },
+          {
+            "facility": "NZOZ Pro-Cordis Sopockie Centrum Bad Kardiolog",
+            "city": "Sopot",
+            "zip": "81-717",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 54.4418,
+              "lon": 18.56003
+            }
+          },
+          {
+            "facility": "Indywidualna Specjalistyczna Praktyka Lekarska B Busz-Papiez",
+            "city": "Szczecin",
+            "zip": "70-506",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 53.42894,
+              "lon": 14.55302
+            }
+          },
+          {
+            "facility": "Synexus Polska Sp z o o Oddzia\u0142 w Warszawie",
+            "city": "Warsaw",
+            "zip": "01-192",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 52.22977,
+              "lon": 21.01178
+            }
+          },
+          {
+            "facility": "Synexus Polska Sp z o o Oddzia\u0142 we Wroclawiu",
+            "city": "Wroclaw",
+            "zip": "50-088",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 51.10286,
+              "lon": 17.03006
+            }
+          },
+          {
+            "facility": "KO-MED Centra Kliniczne Zamosc",
+            "city": "Zamo\u015b\u0107",
+            "zip": "22-400",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 50.72314,
+              "lon": 23.25196
+            }
+          },
+          {
+            "facility": "KLIMED Marek Klimkiewicz",
+            "city": "\u0141om\u017ca",
+            "zip": "18-404",
+            "country": "Poland",
+            "geoPoint": {
+              "lat": 53.17806,
+              "lon": 22.05935
+            }
+          },
+          {
+            "facility": "TSHI Altay Territorial Cardiologocal dispensary",
+            "city": "Barnaul",
+            "zip": "656055",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 53.36199,
+              "lon": 83.72786
+            }
+          },
+          {
+            "facility": "City Hospital 1",
+            "city": "Chelyabinsk",
+            "zip": "454048",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.1611,
+              "lon": 61.42877
+            }
+          },
+          {
+            "facility": "FSBI \"Scientific-research Institute for Complex Problems of cardiovascular disease\"",
+            "city": "Kemerovo",
+            "zip": "650002",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.35417,
+              "lon": 86.10435
+            }
+          },
+          {
+            "facility": "Dep Clin Hosp on Station Kemerovo of OAO \"Russian Railways",
+            "city": "Kemerovo",
+            "zip": "650055",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.35417,
+              "lon": 86.10435
+            }
+          },
+          {
+            "facility": "FSHI \"MSU of MoIA of RF of Kemerovo Region\"",
+            "city": "Kemerovo",
+            "zip": "650099",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.35417,
+              "lon": 86.10435
+            }
+          },
+          {
+            "facility": "SBIH of Moscow City Clinical Hospital 17",
+            "city": "Moscow",
+            "zip": "119620",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.75204,
+              "lon": 37.61781
+            }
+          },
+          {
+            "facility": "FSBI Russian Cardiological Scientific and Industrial Complex of the MoH of the RF",
+            "city": "Moscow",
+            "zip": "121522",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.75204,
+              "lon": 37.61781
+            }
+          },
+          {
+            "facility": "SBIH of Novosibirsk Region Clinical Emergency Hospital 2",
+            "city": "Novosibirsk",
+            "zip": "630008",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 55.02259,
+              "lon": 82.93175
+            }
+          },
+          {
+            "facility": "Ultramed",
+            "city": "Omsk",
+            "zip": "644024",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 54.99244,
+              "lon": 73.36859
+            }
+          },
+          {
+            "facility": "SBEI HPE Orenburg State Medical University of the MoH of the RF",
+            "city": "Orenburg",
+            "zip": "460000",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 51.76712,
+              "lon": 55.09883
+            }
+          },
+          {
+            "facility": "SPb SBIH City Hospital 38 n a N A Semashko",
+            "city": "Pushkin",
+            "zip": "196601",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.71417,
+              "lon": 30.39642
+            }
+          },
+          {
+            "facility": "SBI of Ryazan region Regional Clinical Cardiological Dispensary",
+            "city": "Ryazan",
+            "zip": "390026",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 54.62696,
+              "lon": 39.70415
+            }
+          },
+          {
+            "facility": "FSBIH SPb Clinical Hospital of RAS",
+            "city": "Saint Petersburg",
+            "zip": "194017",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "FFSBI The Nikiforov Russian Center of Emergency and Radiation Medicine",
+            "city": "Saint Petersburg",
+            "zip": "194044",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "StP SHI Clinical hospital of St Luka",
+            "city": "Saint Petersburg",
+            "zip": "194044",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "SBI of HE Northwestern SMU n a I I Mechnikov",
+            "city": "Saint Petersburg",
+            "zip": "195067",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "SHI \"Center of Occupational Pathology\"",
+            "city": "Saint Petersburg",
+            "zip": "195271",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "LLC \"Institute of Medical Investigations\"",
+            "city": "Saint Petersburg",
+            "zip": "196084",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "Pavlov First Saint Petersburg State Medical University",
+            "city": "Saint Petersburg",
+            "zip": "197022",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "LLC Medical Institute on Krestovsky",
+            "city": "Saint Petersburg",
+            "zip": "197110",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "North-West Federal Medical Research Center n a V A Almazov",
+            "city": "Saint Petersburg",
+            "zip": "197341",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "SPb SBIH City Hospital 15",
+            "city": "Saint Petersburg",
+            "zip": "198205",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "FSBI Saint-Petersburg Multidisciplinary Centre",
+            "city": "Saint Petersburg",
+            "zip": "199004",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "SPB SHI Pokrovskaya City Hospital",
+            "city": "Saint Petersburg",
+            "zip": "199106",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 59.93863,
+              "lon": 30.31413
+            }
+          },
+          {
+            "facility": "SBEI HPE Smolensk State Medical University of the MoH of the RF",
+            "city": "Smolensk",
+            "zip": "214019",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 54.77826,
+              "lon": 32.05088
+            }
+          },
+          {
+            "facility": "FSBI Research Institute for Cardiology of Siberian Branch RAMS",
+            "city": "Tomsk",
+            "zip": "634012",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 56.50049,
+              "lon": 84.98216
+            }
+          },
+          {
+            "facility": "SBIH of Yaroslavl region Regional Clinical Hospital",
+            "city": "Yaroslavl",
+            "zip": "150062",
+            "country": "Russia",
+            "geoPoint": {
+              "lat": 57.62987,
+              "lon": 39.87368
+            }
+          },
+          {
+            "facility": "Clinical Center of Serbia",
+            "city": "Belgrade",
+            "zip": "11000",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "Military Medical Academy",
+            "city": "Belgrade",
+            "zip": "11000",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "Clinical Center Dr Dragisa Misovic Dedinje",
+            "city": "Belgrade",
+            "zip": "11040",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "Dedinje Cardiovascular Institute",
+            "city": "Belgrade",
+            "zip": "11040",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "Clinical Center Bezanijska kosa",
+            "city": "Belgrade",
+            "zip": "11080",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.80401,
+              "lon": 20.46513
+            }
+          },
+          {
+            "facility": "Institute of Cardiovascular Diseases of Vojvodina",
+            "city": "Kamenitz",
+            "zip": "21204",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 45.22334,
+              "lon": 19.84263
+            }
+          },
+          {
+            "facility": "Clinical Center Kragujevac",
+            "city": "Kragujevac",
+            "zip": "11000",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.01667,
+              "lon": 20.91667
+            }
+          },
+          {
+            "facility": "Clinical Center Kragujevac",
+            "city": "Kragujevac",
+            "zip": "34000",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 44.01667,
+              "lon": 20.91667
+            }
+          },
+          {
+            "facility": "Clinical Center Nis",
+            "city": "Ni\u0161",
+            "zip": "18000",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 43.32472,
+              "lon": 21.90333
+            }
+          },
+          {
+            "facility": "Niska Banja",
+            "city": "Ni\u0161ka Banja",
+            "zip": "18205",
+            "country": "Serbia",
+            "geoPoint": {
+              "lat": 43.29507,
+              "lon": 22.0057
+            }
+          },
+          {
+            "facility": "Stredoslovensky ustav srdcovych a cievnych chorob a s",
+            "city": "Bansk\u00e1 Bystrica",
+            "zip": "97401",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.73947,
+              "lon": 19.14932
+            }
+          },
+          {
+            "facility": "Alian s r o",
+            "city": "Bardejov",
+            "zip": "8501",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 49.29175,
+              "lon": 21.27271
+            }
+          },
+          {
+            "facility": "Cardioconsult s r o",
+            "city": "Bratislava",
+            "zip": "81104",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.14816,
+              "lon": 17.10674
+            }
+          },
+          {
+            "facility": "DIAMETABOL s r o",
+            "city": "Bratislava",
+            "zip": "82106",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.14816,
+              "lon": 17.10674
+            }
+          },
+          {
+            "facility": "Veria s r o",
+            "city": "Bratislava",
+            "zip": "85101",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.14816,
+              "lon": 17.10674
+            }
+          },
+          {
+            "facility": "Medicalgroup s r o",
+            "city": "Ko\u0161ice",
+            "zip": "4001",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.71441,
+              "lon": 21.25802
+            }
+          },
+          {
+            "facility": "KARDIO 1 s r o",
+            "city": "Lu\u010denec",
+            "zip": "984 39",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.33249,
+              "lon": 19.66708
+            }
+          },
+          {
+            "facility": "Kardiologicka ambulancia Dr Kolikova",
+            "city": "Pova\u017esk\u00e1 Bystrica",
+            "zip": "1701",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 49.12153,
+              "lon": 18.42169
+            }
+          },
+          {
+            "facility": "Medispol s r o",
+            "city": "Pre\u0161ov",
+            "zip": "8001",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 48.99923,
+              "lon": 21.2355
+            }
+          },
+          {
+            "facility": "Interna SK s r o",
+            "city": "Svidn\u00edk",
+            "zip": "8901",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 49.30819,
+              "lon": 21.5703
+            }
+          },
+          {
+            "facility": "MEDIVASA s r o",
+            "city": "\u017dilina",
+            "zip": "1001",
+            "country": "Slovakia",
+            "geoPoint": {
+              "lat": 49.22315,
+              "lon": 18.73941
+            }
+          },
+          {
+            "facility": "Hospital Virgen del Mar",
+            "city": "Almer\u00eda",
+            "zip": "4120",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 36.83814,
+              "lon": -2.45974
+            }
+          },
+          {
+            "facility": "Hospital del Mar",
+            "city": "Barcelona",
+            "zip": "8003",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 41.38879,
+              "lon": 2.15899
+            }
+          },
+          {
+            "facility": "Hospital Quiron Barcelona",
+            "city": "Barcelona",
+            "zip": "8023",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 41.38879,
+              "lon": 2.15899
+            }
+          },
+          {
+            "facility": "Hospital General Universitario Gregorio Mara\u00f1on",
+            "city": "Madrid",
+            "zip": "28007",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 40.4165,
+              "lon": -3.70256
+            }
+          },
+          {
+            "facility": "Hospital Universitario Clinico San Carlos",
+            "city": "Madrid",
+            "zip": "28040",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 40.4165,
+              "lon": -3.70256
+            }
+          },
+          {
+            "facility": "Hospital Universitario Puerta de Hierro Majadahonda",
+            "city": "Majadahonda",
+            "zip": "28222",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 40.47353,
+              "lon": -3.87182
+            }
+          },
+          {
+            "facility": "Parc Sanitari Sant Joan de Deu",
+            "city": "Sant Boi de Llobregat",
+            "zip": "8830",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 41.34357,
+              "lon": 2.03659
+            }
+          },
+          {
+            "facility": "Complejo Hospitalario Universitario de Santiago",
+            "city": "Santiago de Compostela",
+            "zip": "15706",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 42.88052,
+              "lon": -8.54569
+            }
+          },
+          {
+            "facility": "Hospital Universitario Virgen Macarena",
+            "city": "Seville",
+            "zip": "41009",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 37.38283,
+              "lon": -5.97317
+            }
+          },
+          {
+            "facility": "Hospital Nuestra Se\u00f1ora del Prado",
+            "city": "Talavera de la Reina",
+            "zip": "45600",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 39.96348,
+              "lon": -4.83076
+            }
+          },
+          {
+            "facility": "Cherkasy Regional Cardiological Center",
+            "city": "Cherkasy",
+            "zip": "18009",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.44452,
+              "lon": 32.05738
+            }
+          },
+          {
+            "facility": "CI Cherkasy RH of Cherkasy Regional Council",
+            "city": "Cherkasy",
+            "zip": "18009",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.44452,
+              "lon": 32.05738
+            }
+          },
+          {
+            "facility": "Ivano-Frankivsk RCCD of MHU Dept of Arterial Hypertension SHEI Ivano-Frankivsk NMU",
+            "city": "Ivano-Frankivsk",
+            "zip": "76018",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 48.92312,
+              "lon": 24.71248
+            }
+          },
+          {
+            "facility": "Ivano-Frankivsk Regional Clinical Cardiology Dispensary",
+            "city": "Ivano-Frankivsk",
+            "zip": "76018",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 48.92312,
+              "lon": 24.71248
+            }
+          },
+          {
+            "facility": "GI L T Malaya Therapy National Institute of the NAMS of Ukraine",
+            "city": "Kharkiv",
+            "zip": "61039",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.98177,
+              "lon": 36.25475
+            }
+          },
+          {
+            "facility": "Railway Transport Kharkiv CH#1 of Healthcare Center Branch of PJSC Ukrainian Railway",
+            "city": "Kharkiv",
+            "zip": "61103",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.98177,
+              "lon": 36.25475
+            }
+          },
+          {
+            "facility": "SI Institute of General & Emergency Surgery of NAMS of Ukraine",
+            "city": "Kharkiv",
+            "zip": "61103",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.98177,
+              "lon": 36.25475
+            }
+          },
+          {
+            "facility": "SMPI Central Clinical Hospital of Ukrzaliznytsia",
+            "city": "Kharkiv",
+            "zip": "61103",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.98177,
+              "lon": 36.25475
+            }
+          },
+          {
+            "facility": "CI of Healthcare Kharkiv CCH 8 Dept of Cardiology for Patients with MI 2 Kharkiv MA of PGE of MOHU",
+            "city": "Kharkiv",
+            "zip": "61176",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.98177,
+              "lon": 36.25475
+            }
+          },
+          {
+            "facility": "Kyiv CCH #12 Dept of Therapy O.O.Bogomolets NMU",
+            "city": "Kyiv",
+            "zip": "01103",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.45466,
+              "lon": 30.5238
+            }
+          },
+          {
+            "facility": "Kyiv City Clinical Hospital 1",
+            "city": "Kyiv",
+            "zip": "2091",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.45466,
+              "lon": 30.5238
+            }
+          },
+          {
+            "facility": "Med Center 'Ok!Clinic' of International Institute of Clinical Trials LLC",
+            "city": "Kyiv",
+            "zip": "2091",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.45466,
+              "lon": 30.5238
+            }
+          },
+          {
+            "facility": "SI Heart Institute of the MoH of Ukraine",
+            "city": "Kyiv",
+            "zip": "2660",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.45466,
+              "lon": 30.5238
+            }
+          },
+          {
+            "facility": "SI NS\u0421 M D Strazhesko Institute of Cardiology of NAMSU (9102)",
+            "city": "Kyiv",
+            "zip": "3680",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.45466,
+              "lon": 30.5238
+            }
+          },
+          {
+            "facility": "SI NS\u0421 M D Strazhesko Institute of Cardiology of NAMSU (9116)",
+            "city": "Kyiv",
+            "zip": "3680",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.45466,
+              "lon": 30.5238
+            }
+          },
+          {
+            "facility": "CI Lutsk CCH Volyn Regional Center of Cardiovascular Pathology and Thrombolysis",
+            "city": "Lutsk",
+            "zip": "43024",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.75784,
+              "lon": 25.35024
+            }
+          },
+          {
+            "facility": "Regional State Clinical Treatment-Diagnostic Cardiological Centre",
+            "city": "Lviv",
+            "zip": "79015",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.83826,
+              "lon": 24.02324
+            }
+          },
+          {
+            "facility": "CI Odesa Regional Clinical Hospital Regional Center of Cardiosurgery",
+            "city": "Odesa",
+            "zip": "65025",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 46.48572,
+              "lon": 30.74383
+            }
+          },
+          {
+            "facility": "Multifield Medical Center of Odesa NMU (University Clinic 1)",
+            "city": "Odesa",
+            "zip": "65026",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 46.48572,
+              "lon": 30.74383
+            }
+          },
+          {
+            "facility": "First CCH Cardiology Dept SHEIU Ukrainian Medical Stomatological Academy",
+            "city": "Poltava",
+            "zip": "36038",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.58925,
+              "lon": 34.55367
+            }
+          },
+          {
+            "facility": "Transcarpathian RC Cardiology Dispensary Dept of General Cardiology SHEI Uzhgorod NU",
+            "city": "Uzhhorod",
+            "zip": "88000",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 48.6242,
+              "lon": 22.2947
+            }
+          },
+          {
+            "facility": "M I Pyrogov VRCH M I Pyrogov VNMU Ch of IM 1",
+            "city": "Vinnytsia",
+            "zip": "21018",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 49.2322,
+              "lon": 28.46871
+            }
+          },
+          {
+            "facility": "CI Zaporizhzhia Cl Hosp 10 Dept of Therapy SI ZMA of PGE of MoHU",
+            "city": "Zaporizhzhya",
+            "zip": "69001",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 47.85167,
+              "lon": 35.11714
+            }
+          },
+          {
+            "facility": "O F Herbachevskyi Regional Clinical Hospital of Zhytomyr RC",
+            "city": "Zhytomyr",
+            "zip": "10003",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.26235,
+              "lon": 28.67913
+            }
+          },
+          {
+            "facility": "CI Central City Hospital 2 of Zhytomyr",
+            "city": "Zhytomyr",
+            "zip": "10004",
+            "country": "Ukraine",
+            "geoPoint": {
+              "lat": 50.26235,
+              "lon": 28.67913
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "De-identified individual participant data (IPD) and applicable supporting clinical trial documents may be available upon request at https://vivli.org/. In cases where clinical trial data and supporting documents are provided pursuant to our company policies and procedures, Daiichi Sankyo will continue to protect the privacy of our clinical trial participants. Details on data sharing criteria and the procedure for requesting access can be found at this web address: https://vivli.org/ourmember/daiichi-sankyo/",
+        "infoTypes": [
+          "STUDY_PROTOCOL",
+          "SAP",
+          "CSR"
+        ],
+        "timeFrame": "Studies for which the medicine and indication have received European Union (EU) and United States (US), and/or Japan (JP) marketing approval on or after 01 January 2014 or by the US or EU or JP Health Authorities when regulatory submissions in all regions are not planned and after the primary study results have been accepted for publication.",
+        "accessCriteria": "Formal request from qualified scientific and medical researchers on IPD and clinical study documents from clinical trials supporting products submitted and licensed in the United States, the European Union and/or Japan from 01 January 2014 and beyond for the purpose of conducting legitimate research. This must be consistent with the principle of safeguarding study participants' privacy and consistent with provision of informed consent.",
+        "url": "https://vivli.org/ourmember/daiichi-sankyo/"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30",
+        "removedCountries": [
+          "Netherlands"
+        ]
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001281",
+            "term": "Atrial Fibrillation"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001145",
+            "term": "Arrhythmias, Cardiac"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C552171",
+            "term": "edoxaban"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378673"
+}

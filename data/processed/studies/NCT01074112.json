@@ -1,0 +1,473 @@
+{
+  "nct_id": "NCT01074112",
+  "title": "Keller Fire Rescue Study of Prehospital Ultrasound Use",
+  "sponsor": "Keller Fire Rescue",
+  "phase": "NA",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Ultrasonography",
+    "Multiple Trauma",
+    "Kidney Calculi",
+    "Aortic Aneurysm, Abdominal",
+    "Pregnancy",
+    "Catheterization, Venous"
+  ],
+  "interventions": [
+    "EFAST exam",
+    "Pelvic Ultrasound",
+    "Ultrasound Guided Vascular Access",
+    "Focused Ultrasound Scan",
+    "Cardiac Ultrasound"
+  ],
+  "primary_outcome": "The Paramedic's ability to read an ultrasound will be determined",
+  "secondary_outcomes": [
+    "The frequency of ultrasound use in the prehospital environment will be determined"
+  ],
+  "start_date": "2010-03",
+  "completion_date": "",
+  "results_posted": false,
+  "enrollment": 30,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01074112",
+        "orgStudyIdInfo": {
+          "id": "KFR-US-01"
+        },
+        "organization": {
+          "fullName": "Keller Fire Rescue",
+          "class": "OTHER_GOV"
+        },
+        "briefTitle": "Keller Prehospital Ultrasound Study",
+        "officialTitle": "Keller Fire Rescue Study of Prehospital Ultrasound Use"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2010-02",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "NOT_YET_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2010-03"
+        },
+        "studyFirstSubmitDate": "2010-02-22",
+        "studyFirstSubmitQcDate": "2010-02-23",
+        "studyFirstPostDateStruct": {
+          "date": "2010-02-24",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2010-02-23",
+        "lastUpdatePostDateStruct": {
+          "date": "2010-02-24",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "oldNameTitle": "Jason Bowman, FF/EMTP",
+          "oldOrganization": "Keller Fire Rescue"
+        },
+        "leadSponsor": {
+          "name": "Keller Fire Rescue",
+          "class": "OTHER_GOV"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The study is based on the premise that ultrasound is not commonly used in an ambulance. There are some departments that do deploy it into the field, but of those departments there is almost no data collected about its use. Currently Paramedics are not recognized by insurance companies as health care providers capable of performing ultrasound. If there were more data on the subject that may eventually change. We are hoping to prove that not only is ultrasound useful in an ambulance, but that paramedics are good at interpreting the results. We will save images, the paramedic's diagnosis and some basic information about the call. We will not save any protected health information (PHI) or any information linking the subject to the study. The data collected will be sent to a non-biased ultrasound reviewer to grade the images for the accuracy of diagnosis and the quality of the view obtained. This data will be used to formulate a report and statistics on paramedic's ability to perform ultrasound in the field.",
+        "detailedDescription": "In the last 30 years ultrasound has contributed greatly to many fields of medicine, emergency medicine has been no exception. In fact emergency medicine is currently one of the fastest growing uses of ultrasound technology. Just as the 12 lead machine was becoming widely popular in many ER's 25 years ago and found its way into the prehospital environment. There were many doubts as to the ability to train paramedics to read 12 leads and the necessity of the prehospital 12 lead. However a recent study showed paramedics to be on par with physicians in their ability to interpret STEMI's. And many paramedics now could not fathom a system without 12 leads. If a paramedic can be trained to interpret something as complex as a 12 lead, then it should be possible to train a paramedic to interpret an ultrasound. With the advances in ultrasound technology creating lighter, smaller, cheaper, and more durable machines, there is no reason not to put this valuable technology into the prehospital field. With its expanded role in the prehospital field, the 12 lead has moved from being a convenience to becoming a real tool with the ability to activate an emergency heart cath team from the field and bypass the ER saving precious minutes in door to balloon times. The ultrasound could soon do the same by alerting the surgical team of positive internal bleeding, ruptured ectopic pregnancy, or operable AAA and bypass the ER to go straight to surgery. This intervention could be life saving in the presence of these injuries. And to add to its usefulness, ultrasound can also help to gain intravenous access, determine endotracheal tube placement, detect pacemaker capture and determine a myriad of other less acute disease processes.\n\nPURPOSE:\n\n1. To determine the utility of ultrasound in the prehospital emergency environment of a suburban city.\n2. To determine the ability to teach dual role firefighter paramedics multiple uses of ultrasound in the prehospital environment.\n3. To determine the ability of dual role firefighter paramedics to accurately and rapidly perform ultrasounds in the field\n\nHYPOTHESIS:\n\n* The use of ultrasound in the field by dual role firefighter paramedics is poorly studied\n* The use of ultrasound in a suburban environment is poorly studied\n* Ultrasound will be performed on a clinically significant patient population\n* A wide array of ultrasound procedures can be taught quickly and reliably performed by field paramedics with no prior ultrasound experience\n* The use of ultrasound in the field will play a significant role in guiding the field presentation of a patient\n* Just as the 12 lead did before it, bringing ultrasound into the field will lead to significantly better patient care\n\nDETAILS:\n\n* The study will be carried out in a city with a population of approx. 35000 with a non trauma hospital 15 minutes away and the trauma center 30 minutes away.\n* The main priority of this study is that it will not interfere with patient care\n* The study will be conducted at Keller Fire Station 4, C shift by Medic 584\n\nPROCESS:\n\n* The procedures will be taught on shift and then tested in a skills lab\n* The ultrasound exam is performed by paramedics after patient has been placed in the ambulance.\n* Paramedics will record still images of ultrasound views for future review by approved EM ultrasound reviewers. The paramedics read of the ultrasound results will be recorded. If the paramedic feels the ultrasound shows a positive result they will report this in their run report.\n* The time it takes for the ultrasound to be performed will be recorded and any difficulty performing the exam will be noted.\n* Any hospital diverts that occur, as a result of the ultrasound will be recorded.\n* Electronic images will be saved for each scan, and an interpretation log sheet will be filled out. Scans will be over-read in a blinded fashion by a certified emergency medical ultrasound physician. Studies will be scored on technical adequacy as well as image quality.\n* The interpretations of the ultrasound director will be compared to those of the EMS providers, and the proportion of adequate studies will be assessed.\n* Performance on both a pre and post written and image-based test will be assessed before and after training.\n\nPROTOCOLS:\n\nPRIMARY EXAMS\n\n* We will perform E-FAST exams on all trauma patients with any possible injury to the abdomen or thorax, mechanism indicating a need for the exam, or at the paramedic's discretion\n* We will perform pregnancy exam on all female abdominal pain patients of child bearing age\n* We will perform ultrasound guided venous access on patients whom IV access is difficult but the patient's condition requires IV access and does not indicate the need for IO, this procedure will be done at the paramedics discretion.\n* We will perform AAA exam on all patients with a possible diagnosis of AAA. Measurements will be taken and compared to hospital measurements if available.\n* We will perform cardiac echo on patients in cardiac arrest with possible PEA if it does not detract from patient care.\n\nSECONDARY EXAMS\n\n* We will perform renal ultrasound on all patients with flank pain to check for hydronephrosis. Positive findings will be documented.\n* We will check for pleural effusion in patients with decreased SpO2 of unknown etiology, especially if known renal or hepatic disease\n* We will determine ETT placement via ultrasound on every intubation if possible\n* We will check for mechanical capture in transcutaneous cardiac pacing"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Ultrasonography",
+          "Multiple Trauma",
+          "Kidney Calculi",
+          "Aortic Aneurysm, Abdominal",
+          "Pregnancy",
+          "Catheterization, Venous"
+        ],
+        "keywords": [
+          "Ultrasound",
+          "Prehospital",
+          "Trauma",
+          "EMS",
+          "Paramedics",
+          "Sonography",
+          "Ultrasonography",
+          "Ambulance",
+          "FAST",
+          "EFAST"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "CROSS_SECTIONAL"
+        },
+        "enrollmentInfo": {
+          "count": 30,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Abdominal Trauma",
+            "description": "Patients with mechanism of injury that could produce abdominal bleeding",
+            "interventionNames": [
+              "Device: EFAST exam",
+              "Device: Cardiac Ultrasound"
+            ]
+          },
+          {
+            "label": "Female Abdominal Pain",
+            "description": "Female patients of child bearing age complaining of abdominal pain",
+            "interventionNames": [
+              "Device: Pelvic Ultrasound"
+            ]
+          },
+          {
+            "label": "Difficult Vascular Access",
+            "description": "Patients whom vascular access is needed but difficult",
+            "interventionNames": [
+              "Procedure: Ultrasound Guided Vascular Access"
+            ]
+          },
+          {
+            "label": "Abdominal Aortic Anuerysm",
+            "description": "Patients who complain of or are suspected of having an abdominal aortic aneurysm",
+            "interventionNames": [
+              "Device: Focused Ultrasound Scan"
+            ]
+          },
+          {
+            "label": "Pulseless Electrical Activity",
+            "description": "Patients whom are in cardiac arrest and no pulse can be determined yet they show an electrical rhythm on the monitor",
+            "interventionNames": [
+              "Device: Cardiac Ultrasound"
+            ]
+          },
+          {
+            "label": "Kidney Stones (Hydronephrosis)",
+            "description": "Patients who complain of flank pain",
+            "interventionNames": [
+              "Device: Focused Ultrasound Scan"
+            ]
+          },
+          {
+            "label": "Plueral Effusion",
+            "description": "Patients with a history of renal or hepatic problems and complain of difficulty breathing of an unknown etiology"
+          },
+          {
+            "label": "ETT placement",
+            "description": "field intubated patients who need another means of verifying tube placement",
+            "interventionNames": [
+              "Device: Focused Ultrasound Scan"
+            ]
+          },
+          {
+            "label": "Transcutaneous Pacing",
+            "description": "Patients who are being externally paced and need a method of determining mechanical capture",
+            "interventionNames": [
+              "Device: Cardiac Ultrasound"
+            ]
+          },
+          {
+            "label": "Paramedic Discretion",
+            "description": "Patients in whom the paramedic feels that an ultrasound study would provide useful data in their treatment",
+            "interventionNames": [
+              "Device: Focused Ultrasound Scan",
+              "Device: Cardiac Ultrasound"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "EFAST exam",
+            "description": "Ultrasound of the heart, morisons pouch, pelvis, spleen and both lungs",
+            "armGroupLabels": [
+              "Abdominal Trauma"
+            ],
+            "otherNames": [
+              "FAST",
+              "Focused assessment with sonography for trauma"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Pelvic Ultrasound",
+            "description": "Ultrasound view of the pelvis. including the bladder and uterus",
+            "armGroupLabels": [
+              "Female Abdominal Pain"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Ultrasound Guided Vascular Access",
+            "description": "Use of the ultrasound machine to identify a usable vein and guide the needle into the vein. After cannulation ultrasound is used to determine correct placement and identify extravasation.",
+            "armGroupLabels": [
+              "Difficult Vascular Access"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Focused Ultrasound Scan",
+            "description": "Use of ultrasound to identify and measure structures in the abdomen, thorax, retroperitoneum, or other necessary places.",
+            "armGroupLabels": [
+              "Abdominal Aortic Anuerysm",
+              "ETT placement",
+              "Kidney Stones (Hydronephrosis)",
+              "Paramedic Discretion"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Cardiac Ultrasound",
+            "description": "Ultrasound views of the heart",
+            "armGroupLabels": [
+              "Abdominal Trauma",
+              "Paramedic Discretion",
+              "Pulseless Electrical Activity",
+              "Transcutaneous Pacing"
+            ],
+            "otherNames": [
+              "Echocardiography, echocardiogram"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "The Paramedic's ability to read an ultrasound will be determined",
+            "description": "Electronic images will be saved for each scan, and an interpretation log sheet will be filled out. Scans will be over-read in a blinded fashion by a certified emergency medical ultrasound physician. Studies will be scored on technical adequacy as well as image quality.",
+            "timeFrame": "After all study data has been collected"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "The frequency of ultrasound use in the prehospital environment will be determined",
+            "description": "The number and types of usage as well as basic call data will be recorded. By determining the call type and the field diagnosis we can determine not only the number of uses but whether they positively affected the clinical outcome whether in the hospital or prehospital environment.",
+            "timeFrame": "After all study data has been collected"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Activation of the Keller Fire Rescue Emergency Medical Service\n* Meets disease process criteria described earlier\n\nExclusion Criteria:\n\n* Does not meet the disease process criteria",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "stdAges": [
+          "CHILD",
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Residents and visitors of Keller,TX and the cities that Keller Fire Rescue provides mutual aide services to",
+        "samplingMethod": "PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Jason P Bowman, EMT-P",
+            "role": "CONTACT",
+            "phone": "817-992-1410",
+            "email": "jbowman@cityofkeller.com"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Keller Fire Rescue",
+            "city": "Keller",
+            "state": "Texas",
+            "zip": "76248",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Jason P Bowman, EMT-P",
+                "role": "CONTACT",
+                "phone": "817-992-1410",
+                "email": "jbowman@cityofkeller.com"
+              },
+              {
+                "name": "Jason P Bowman, CCEMT-P",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 32.93457,
+              "lon": -97.25168
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "Helpful website on prehospital ultrasound",
+            "url": "http://www.sonoguide.com/ems_pre-hospital.html"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009104",
+            "term": "Multiple Trauma"
+          },
+          {
+            "id": "D007669",
+            "term": "Kidney Calculi"
+          },
+          {
+            "id": "D017544",
+            "term": "Aortic Aneurysm, Abdominal"
+          },
+          {
+            "id": "D014947",
+            "term": "Wounds and Injuries"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D053040",
+            "term": "Nephrolithiasis"
+          },
+          {
+            "id": "D007674",
+            "term": "Kidney Diseases"
+          },
+          {
+            "id": "D014570",
+            "term": "Urologic Diseases"
+          },
+          {
+            "id": "D052776",
+            "term": "Female Urogenital Diseases"
+          },
+          {
+            "id": "D005261",
+            "term": "Female Urogenital Diseases and Pregnancy Complications"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D052878",
+            "term": "Urolithiasis"
+          },
+          {
+            "id": "D014545",
+            "term": "Urinary Calculi"
+          },
+          {
+            "id": "D052801",
+            "term": "Male Urogenital Diseases"
+          },
+          {
+            "id": "D002137",
+            "term": "Calculi"
+          },
+          {
+            "id": "D020763",
+            "term": "Pathological Conditions, Anatomical"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D001014",
+            "term": "Aortic Aneurysm"
+          },
+          {
+            "id": "D000783",
+            "term": "Aneurysm"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D001018",
+            "term": "Aortic Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000077564",
+            "term": "Focused Assessment with Sonography for Trauma"
+          },
+          {
+            "id": "D004452",
+            "term": "Echocardiography"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D014463",
+            "term": "Ultrasonography"
+          },
+          {
+            "id": "D003952",
+            "term": "Diagnostic Imaging"
+          },
+          {
+            "id": "D019937",
+            "term": "Diagnostic Techniques and Procedures"
+          },
+          {
+            "id": "D003933",
+            "term": "Diagnosis"
+          },
+          {
+            "id": "D000067716",
+            "term": "Point-of-Care Testing"
+          },
+          {
+            "id": "D019095",
+            "term": "Point-of-Care Systems"
+          },
+          {
+            "id": "D010346",
+            "term": "Patient Care Management"
+          },
+          {
+            "id": "D006298",
+            "term": "Health Services Administration"
+          },
+          {
+            "id": "D057791",
+            "term": "Cardiac Imaging Techniques"
+          },
+          {
+            "id": "D006334",
+            "term": "Heart Function Tests"
+          },
+          {
+            "id": "D003935",
+            "term": "Diagnostic Techniques, Cardiovascular"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792074"
+}

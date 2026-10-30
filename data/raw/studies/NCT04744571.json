@@ -1,0 +1,486 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04744571",
+      "orgStudyIdInfo": {
+        "id": "DCB at CTO"
+      },
+      "organization": {
+        "fullName": "Beijing Anzhen Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Safety and Efficacy of Drug-Coated Balloon Angioplasty for the Treatment of Chronic Total Occlusions",
+      "officialTitle": "Safety and Efficacy of Drug-Coated Balloon Angioplasty for the Treatment of Chronic Total Occlusions"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-02",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "ENROLLING_BY_INVITATION",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-02",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-12",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2023-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-02-01",
+      "studyFirstSubmitQcDate": "2021-02-06",
+      "studyFirstPostDateStruct": {
+        "date": "2021-02-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-02-06",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-02-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Xiantao Song, MD",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "Beijing Anzhen Hospital"
+      },
+      "leadSponsor": {
+        "name": "Beijing Anzhen Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to investigate the safety and efficacy of drug-coated balloon angioplasty for the treatment of chronic total occlusions patients with chronic total occlusion (CTO) lesion.",
+      "detailedDescription": "Recruited CTO patients will be divided into two groups: those undergoing PCI of drug-coated balloon (DCB group), and those undergoing PCI of drug eluting stent implantation (DES group). The primary outcome assessed will be the late lumen loss evaluation at a 12-month of follow-up appointment. Secondary outcomes include occurrence of major cardiac events (MACEs), myocardial viability, operate success, quality of life changes which will be compared to a baseline measurement."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Coronary Artery Disease",
+        "Coronary Occlusion",
+        "Percutaneous Coronary Intervention",
+        "Chronic Total Occlusion of Coronary Artery",
+        "Drug-Eluting Stents"
+      ],
+      "keywords": [
+        "Chronic Total Occlusion",
+        "drug-coated balloon",
+        "balloon angioplasty",
+        "drug-eluting stent"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 200,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "DCB group",
+          "type": "EXPERIMENTAL",
+          "description": "Patients treated with Drug-Coated Balloon Angioplasty after revascularization of Chronic Total Occlusions",
+          "interventionNames": [
+            "Drug: aspirin, betaloc, atorvastatin, rosuvastatin, clopidogrel, ticagrelor",
+            "Device: coronary wires. or coronary balloons",
+            "Other: drug-coated balloon"
+          ]
+        },
+        {
+          "label": "DES group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Patients treated with Drug eluting stents Angioplasty after revascularization of Chronic Total Occlusions",
+          "interventionNames": [
+            "Drug: aspirin, betaloc, atorvastatin, rosuvastatin, clopidogrel, ticagrelor",
+            "Device: coronary wires. or coronary balloons",
+            "Device: drug-eluting stent"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "aspirin, betaloc, atorvastatin, rosuvastatin, clopidogrel, ticagrelor",
+          "description": "Optimal medical therapy includes dual antiplatelet therapy and statins (aspirin, clopidogrel, ticagrelor, atorvastatin, rosuvastatin, betaloc). And optimal medical therapy should include adequate ventricular rate- limiting medication (i.e. Beta- blocker or rate-limiting calcium antagonist) where appropriate. Anti- anginal therapy should be used if the patients have symptom.",
+          "armGroupLabels": [
+            "DCB group",
+            "DES group"
+          ],
+          "otherNames": [
+            "Optimal medical therapy"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "coronary wires. or coronary balloons",
+          "description": "all species of coronary wires, or plain balloons",
+          "armGroupLabels": [
+            "DCB group",
+            "DES group"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "drug-coated balloon",
+          "description": "Drug-coated balloon including all sizes and all brands",
+          "armGroupLabels": [
+            "DCB group"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "drug-eluting stent",
+          "description": "Drug-eluting stent including all sizes and all brands",
+          "armGroupLabels": [
+            "DES group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Comparison of the difference in minimal lumen diameter (MLD) between two groups",
+          "description": "Measured by Intravascular ultrasound (IVUS) or optical coherence tomography (OCT)",
+          "timeFrame": "12 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Comparison of the incidence of major adverse cardiac events\uff08MACEs\uff09 between two groups",
+          "description": "all-cause mortality, cardiac death, a first or recurrent, non-fatal, acute myocardial infarction, target lesion revascularization (PCI or CABG), stroke, heart failure and cardiac rehospitalization",
+          "timeFrame": "12 months"
+        },
+        {
+          "measure": "Comparison of myocardial viability (late gadolinium enhancement, LGE) in the territory supplied by the CTO artery between two groups evaluated via cardiovascular magnetic resonance (CMR)",
+          "description": "Myocardial viability in the territory supplied by the CTO artery by comparison of late gadolinium enhancement between two groups.",
+          "timeFrame": "12 months"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Comparison of the incidence of adverse cardiac events between two groups in the perioperative period",
+          "description": "Outcome measures including acute coronary artery occlusion, acute vascular perforation, acute stent thrombosis, acute myocardial infarction, and cardiac death",
+          "timeFrame": "7 days before and after procedure"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria\n\n* Patients between 18 and 80 years of age\n* Must comply all the evaluations and follow-up protocols\n* Clinical diagnosis of CTO detected using coronary angiography (at least one other major vessel should have exhibited no less than 75% stenosis)\n* Patients should present with left ventricular ejection fraction (LVEF) above 35% determined using transthoracic echocardiography\n* CTO located in an epicardial coronary artery with a reference diameter of \u2265 2.5 mm\n\nExclusion Criteria\n\n* Patients have suffered from acute myocardial infarction within the previous 3 months\n* Lesion located in the left main artery (stenosis \u226550%)\n* Clinical diagnosis of rheumatic valvular disease\n* Clinical diagnosis of severe arrhythmia\n* With history of revascularization within the CTO artery\n* Lesions unsuitable for PCI\n* Severely abnormal hematopoietic systems, such as platelet counts \\<100 x 109/L or \\> 700 x 109/ L and white blood cell counts \\< 3 x 109/L\n* Patients with active bleeding or bleeding tendencies (active ulcers, short-term ischemic stroke, history of hemorrhagic stroke, intracranial space occupying lesions, recent craniocerebral trauma, and other bleeding or bleeding tendency)\n* Patients with severe coexisting condition including: severe renal function dysfunction \\[Glomerular filtration rate (GFR) less than 60 ml/min \u2022 1.73 m2), severe hepatic dysfunction \\[glutamic-pyruvic transaminase (ALT) or glutamic-oxal acetic transaminase (ALT) elevated more than three times that of the upper limit of the normal reference\\], severe heart failure (NYHA classification III-IV), acute infectious diseases and immune disorders, tumors, surgery within 3 months, a life expectancy less than 12 months, pregnancy or planning to become pregnant, history of allergy or adverse reactions to aspirin, clopidogrel, ticagrelor, stains, contrast material, anticoagulant, or stents\n* Patients cannot tolerate dual antiplatelet treatment (DAPT)\n* Patients are unable to communicate due to cognitive impairment, auditory or visual impairment\n* Patients are participating in another trial for medication or an apparatus and in which the main endpoint has not been reached, or plan to participate in a clinical trial within 12 months of the intervention",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "xiantao song, MD",
+          "affiliation": "Beijing Anzhen Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Department of Cardiology, Beijing Anzhen Hospital, Capital Medical University",
+          "city": "Beijing",
+          "state": "Beijing Municipality",
+          "zip": "100029",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003324",
+          "term": "Coronary Artery Disease"
+        },
+        {
+          "id": "D054059",
+          "term": "Coronary Occlusion"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003327",
+          "term": "Coronary Disease"
+        },
+        {
+          "id": "D017202",
+          "term": "Myocardial Ischemia"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D001161",
+          "term": "Arteriosclerosis"
+        },
+        {
+          "id": "D001157",
+          "term": "Arterial Occlusive Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001241",
+          "term": "Aspirin"
+        },
+        {
+          "id": "D008790",
+          "term": "Metoprolol"
+        },
+        {
+          "id": "D000069059",
+          "term": "Atorvastatin"
+        },
+        {
+          "id": "D000068718",
+          "term": "Rosuvastatin Calcium"
+        },
+        {
+          "id": "D000077144",
+          "term": "Clopidogrel"
+        },
+        {
+          "id": "D000077486",
+          "term": "Ticagrelor"
+        },
+        {
+          "id": "D054855",
+          "term": "Drug-Eluting Stents"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012459",
+          "term": "Salicylates"
+        },
+        {
+          "id": "D062385",
+          "term": "Hydroxybenzoates"
+        },
+        {
+          "id": "D010636",
+          "term": "Phenols"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D050198",
+          "term": "Phenoxypropanolamines"
+        },
+        {
+          "id": "D011412",
+          "term": "Propanolamines"
+        },
+        {
+          "id": "D000605",
+          "term": "Amino Alcohols"
+        },
+        {
+          "id": "D000438",
+          "term": "Alcohols"
+        },
+        {
+          "id": "D020005",
+          "term": "Propanols"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D011758",
+          "term": "Pyrroles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D006538",
+          "term": "Heptanoic Acids"
+        },
+        {
+          "id": "D005227",
+          "term": "Fatty Acids"
+        },
+        {
+          "id": "D008055",
+          "term": "Lipids"
+        },
+        {
+          "id": "D013449",
+          "term": "Sulfonamides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D005464",
+          "term": "Fluorobenzenes"
+        },
+        {
+          "id": "D006845",
+          "term": "Hydrocarbons, Fluorinated"
+        },
+        {
+          "id": "D006846",
+          "term": "Hydrocarbons, Halogenated"
+        },
+        {
+          "id": "D013450",
+          "term": "Sulfones"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D011743",
+          "term": "Pyrimidines"
+        },
+        {
+          "id": "D013988",
+          "term": "Ticlopidine"
+        },
+        {
+          "id": "D058924",
+          "term": "Thienopyridines"
+        },
+        {
+          "id": "D013876",
+          "term": "Thiophenes"
+        },
+        {
+          "id": "D011725",
+          "term": "Pyridines"
+        },
+        {
+          "id": "D006574",
+          "term": "Heterocyclic Compounds, 2-Ring"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        },
+        {
+          "id": "D000241",
+          "term": "Adenosine"
+        },
+        {
+          "id": "D011684",
+          "term": "Purine Nucleosides"
+        },
+        {
+          "id": "D011687",
+          "term": "Purines"
+        },
+        {
+          "id": "D009705",
+          "term": "Nucleosides"
+        },
+        {
+          "id": "D009706",
+          "term": "Nucleic Acids, Nucleotides, and Nucleosides"
+        },
+        {
+          "id": "D012263",
+          "term": "Ribonucleosides"
+        },
+        {
+          "id": "D015607",
+          "term": "Stents"
+        },
+        {
+          "id": "D019736",
+          "term": "Prostheses and Implants"
+        },
+        {
+          "id": "D004864",
+          "term": "Equipment and Supplies"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,280 @@
+{
+  "nct_id": "NCT01806012",
+  "title": "Use of the Enseal Intrument for Laparoscopic Supracervical Hysterectomy: a Randomized, Single-Blinded Study Comparing the Efficacy to the Routine Procedure",
+  "sponsor": "University Hospital Tuebingen",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Indications for Laparoscopic Supracervical Hysterectomy"
+  ],
+  "interventions": [
+    "Sealing tissue with the Enseal device",
+    "Conventional supracervical hysterectomy"
+  ],
+  "primary_outcome": "Operation time",
+  "secondary_outcomes": [
+    "Blood loss",
+    "Post-operative pain"
+  ],
+  "start_date": "2010-08",
+  "completion_date": "2011-08",
+  "results_posted": false,
+  "enrollment": 160,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01806012",
+        "orgStudyIdInfo": {
+          "id": "05022013"
+        },
+        "organization": {
+          "fullName": "University Hospital Tuebingen",
+          "class": "OTHER"
+        },
+        "briefTitle": "Use of the Enseal Intrument for Laparoscopic Supracervical Hysterectomy",
+        "officialTitle": "Use of the Enseal Intrument for Laparoscopic Supracervical Hysterectomy: a Randomized, Single-Blinded Study Comparing the Efficacy to the Routine Procedure"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2013-03",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2010-08"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2011-08",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2011-08",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2013-02-19",
+        "studyFirstSubmitQcDate": "2013-03-05",
+        "studyFirstPostDateStruct": {
+          "date": "2013-03-06",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2013-03-05",
+        "lastUpdatePostDateStruct": {
+          "date": "2013-03-06",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Bernhard Kraemer",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "University Hospital Tuebingen"
+        },
+        "leadSponsor": {
+          "name": "University Hospital Tuebingen",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Ethicon Endo-Surgery (Europe) GmbH",
+            "class": "INDUSTRY"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The use of the EnSeal\u00ae instrument for laparoscopic supracervical hysterectomy in a randomized, single-blinded comparison to the conventional procedure. The objective of the study is to investigate if the use of the Enseal sealing instrument for supracervical hysterectomy leads to a shortening of the operation time."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Indications for Laparoscopic Supracervical Hysterectomy"
+        ],
+        "keywords": [
+          "Supracervical Hysterectomy",
+          "Leiomyomas",
+          "Adenomyosis"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "whoMasked": [
+              "PARTICIPANT"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 160,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Enseal",
+            "type": "EXPERIMENTAL",
+            "description": "Tissue sealing with Enseal device",
+            "interventionNames": [
+              "Device: Sealing tissue with the Enseal device"
+            ]
+          },
+          {
+            "label": "Supracervical hysterectomy using conventional instruments",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Supracervical hysterectomy using conventional instruments",
+            "interventionNames": [
+              "Procedure: Conventional supracervical hysterectomy"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Sealing tissue with the Enseal device",
+            "armGroupLabels": [
+              "Enseal"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Conventional supracervical hysterectomy",
+            "armGroupLabels": [
+              "Supracervical hysterectomy using conventional instruments"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Operation time",
+            "description": "The following times were documented: total operation time; T1 = start of the operation until cornual structures were ready to be dissected; T2 = the time from the first coagulation and cutting of the cornual structures until the complete preparation of each parametrial side directly before cervical detachment; T3 = time needed for the cervical detachment and subsequent steps (morcellation, closure of trocar sites) until the end of the surgical procedure.",
+            "timeFrame": "Day 1"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Blood loss",
+            "description": "The perioperative blood loss (\u0394Hb) was calculated using the comparison of the preoperative red blood cells (RBC) versus the RBC on the first post-operative day. The intraoperative blood loss was measured by the suction unit (categories: \\< 50 ml, 50 - 100 ml, \\> 100 ml) and by the number of applied blood transfusions.",
+            "timeFrame": "Day 2"
+          },
+          {
+            "measure": "Post-operative pain",
+            "description": "Post-operative pain was documented according to a visual analog pain scale from 1 (no pain) to 10 (maximum pain) during hospital stay.",
+            "timeFrame": "Day 2"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Indication for supracervical hysterectomy without additional surgical procedures (i. e. oophorectomy)\n* Willingness and capability to comply with all study tests, procedures, and assessment tools\n* Capability of providing informed consent.\n\nExclusion Criteria:\n\n* History of, or evidence of, gynecologic malignancy within the past five years\n* Pace maker, internal defibrilator/cardioconverter\n* Impaired coagulation parameters\n* Unwillingness to be randomized to treatment\n* History of median laparotomy\n* Intraabdominal adhesions\n* Requirement for open laparoscopy",
+        "healthyVolunteers": false,
+        "sex": "FEMALE",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "University Women' Clinic T\u00fcbingen",
+            "city": "T\u00fcbingen",
+            "zip": "72076",
+            "country": "Germany",
+            "geoPoint": {
+              "lat": 48.52266,
+              "lon": 9.05222
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "23791399",
+            "type": "DERIVED",
+            "citation": "Rothmund R, Kraemer B, Brucker S, Taran FA, Wallwiener M, Zubke A, Wallwiener D, Zubke W. Laparoscopic supracervical hysterectomy using EnSeal vs standard bipolar coagulation technique: randomized controlled trial. J Minim Invasive Gynecol. 2013 Sep-Oct;20(5):661-6. doi: 10.1016/j.jmig.2013.04.014. Epub 2013 Jun 20."
+          },
+          {
+            "pmid": "23670744",
+            "type": "DERIVED",
+            "citation": "Rothmund R, Szyrach M, Reda A, Enderle MD, Neugebauer A, Taran FA, Brucker S, Hausch A, Wallwiener C, Kraemer B. A prospective, randomized clinical comparison between UltraCision and the novel sealing and cutting device BiCision in patients with laparoscopic supracervical hysterectomy. Surg Endosc. 2013 Oct;27(10):3852-9. doi: 10.1007/s00464-013-2994-4. Epub 2013 May 14."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007889",
+            "term": "Leiomyoma"
+          },
+          {
+            "id": "D062788",
+            "term": "Adenomyosis"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D009379",
+            "term": "Neoplasms, Muscle Tissue"
+          },
+          {
+            "id": "D018204",
+            "term": "Neoplasms, Connective and Soft Tissue"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D014591",
+            "term": "Uterine Diseases"
+          },
+          {
+            "id": "D005831",
+            "term": "Genital Diseases, Female"
+          },
+          {
+            "id": "D052776",
+            "term": "Female Urogenital Diseases"
+          },
+          {
+            "id": "D005261",
+            "term": "Female Urogenital Diseases and Pregnancy Complications"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D000091662",
+            "term": "Genital Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628646"
+}

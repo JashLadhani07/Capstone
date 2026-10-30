@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Trial Explorer | MOSAIC{% endblock %}
+{% block breadcrumb %}Trial Explorer{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">LOCAL STORAGE</p>
+        <h1>Trial <span>Database</span></h1>
+        <p class="page-description">Browse all locally indexed studies and papers.</p>
+    </div>
+</section>
+
+<section class="content-card">
+    <div class="card-header">
+        <div>
+            <h3>Indexed Records</h3>
+            <p>All processed JSON data from local storage</p>
+        </div>
+    </div>
+    <div id="trials-list">
+        <p class="loading-cell">Loading local database...</p>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', path='js/trials.js') }}"></script>
+{% endblock %}

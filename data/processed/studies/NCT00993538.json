@@ -1,0 +1,305 @@
+{
+  "nct_id": "NCT00993538",
+  "title": "Leukemia Cell Cultures for Research of New Anti-cancer Therapies",
+  "sponsor": "University Hospital, Strasbourg, France",
+  "phase": "NA",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Acute Leukaemia"
+  ],
+  "interventions": [
+    "Blood sampling",
+    "Bone marrow aspiration"
+  ],
+  "primary_outcome": "",
+  "secondary_outcomes": [],
+  "start_date": "2009-07",
+  "completion_date": "",
+  "results_posted": false,
+  "enrollment": 180,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00993538",
+        "orgStudyIdInfo": {
+          "id": "4452"
+        },
+        "organization": {
+          "fullName": "University Hospital, Strasbourg, France",
+          "class": "OTHER"
+        },
+        "briefTitle": "Leukemia Cell Cultures for Research of New Anti-Cancer Therapies",
+        "officialTitle": "Leukemia Cell Cultures for Research of New Anti-cancer Therapies"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2011-08",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2009-07"
+        },
+        "studyFirstSubmitDate": "2009-10-09",
+        "studyFirstSubmitQcDate": "2009-10-09",
+        "studyFirstPostDateStruct": {
+          "date": "2009-10-12",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2011-08-29",
+        "lastUpdatePostDateStruct": {
+          "date": "2011-08-30",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "oldNameTitle": "Christine GEILLER/Directeur de la Recherche Clinique et des Innovations",
+          "oldOrganization": "University Hospital, Strasbourg, France"
+        },
+        "leadSponsor": {
+          "name": "University Hospital, Strasbourg, France",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The main objective of this project is not only a better understanding of the human leukemic disease but also to find new anti-leukemic or improve existing ones. This study has, the following aims:\n\n* To analyze the genetic and epigenetic regulation of the retinoic acid induced cascade which leads to the expression of TRAIL in blood cells of patients with acute leukemia. This study will be complemented by the analysis of global gene expression (DNA chips) and of the DNA methylation state, and by chromatin immunoprecipitation experiences.\n* To determine the efficiency of inhibitors of enzymes responsible for the modification of chromatin (existing and new developments within the European consortium EPITRON coordinated by Dr Gronemeyer) as inducers of differentiation and / or apoptosis of leukemic blasts.\n* To explore Ikaros genic and functional abnormalities (genomic deletions, mutations, abnormal transcripts and proteins) in acute leukemia. The aim is to determine if these abnormalities may play a prognosis role."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Acute Leukaemia"
+        ],
+        "keywords": [
+          "Leukaemia",
+          "Blood and marrow cells culture",
+          "Cell growth",
+          "Cell differentiation"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "BASIC_SCIENCE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 180,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "1",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Procedure: Blood sampling",
+              "Procedure: Bone marrow aspiration"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Blood sampling",
+            "armGroupLabels": [
+              "1"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Bone marrow aspiration",
+            "armGroupLabels": [
+              "1"
+            ]
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with suspected de novo or secondary or relapsed acute leukemia, requiring complementary blood test and bone marrow analysis\n* Patients older or equal than 28 days\n* Informed consent signed\n\nExclusion Criteria:\n\n* Pregnancy\n* Breastfeeding",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "28 Days",
+        "stdAges": [
+          "CHILD",
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Raoul Herbrecht, MD",
+            "role": "CONTACT",
+            "phone": "3.33.88.12.83.79",
+            "email": "Raoul.herbrecht@chru-strasbourg.fr"
+          },
+          {
+            "name": "Patrick lutz, MD",
+            "role": "CONTACT",
+            "phone": "3.33.88.12.80.90",
+            "email": "Patrick.lutz@chru-strasbourg.fr"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Raoul Herbrecht, MD",
+            "affiliation": "D\u00e9partement d'H\u00e9matologie et d'Oncologie-h\u00f4pital de Hautepierre Strasbourg, France",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Service d'H\u00e9matologie et d'Oncologie",
+            "status": "RECRUITING",
+            "city": "Strasbourg",
+            "zip": "67098",
+            "country": "France",
+            "contacts": [
+              {
+                "name": "Raoul Herbrecht, MD",
+                "role": "CONTACT",
+                "phone": "3.33.88.12.83.79",
+                "email": "Raoul.herbrecht@chru-strasbourg.fr"
+              },
+              {
+                "name": "Raoul Herbrecht, MD",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "C\u00e9cile Fohrer, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Luc Fornecker, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Bruno Lioure, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Karin Bilger, MD",
+                "role": "SUB_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 48.58392,
+              "lon": 7.74553
+            }
+          },
+          {
+            "facility": "Service de P\u00e9diaterie - H\u00f4pital de Hautepierre",
+            "status": "RECRUITING",
+            "city": "Strasbourg",
+            "zip": "67098",
+            "country": "France",
+            "contacts": [
+              {
+                "name": "Patrick Lutz, MD",
+                "role": "CONTACT",
+                "phone": "3.33.88.12.80.90",
+                "email": "Patrick.lutz@chru-strasbourg.fr"
+              },
+              {
+                "name": "Patrick Lutz, MD",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Natacha Entz-Werle, MD",
+                "role": "SUB_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 48.58392,
+              "lon": 7.74553
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007938",
+            "term": "Leukemia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D006402",
+            "term": "Hematologic Diseases"
+          },
+          {
+            "id": "D006425",
+            "term": "Hemic and Lymphatic Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001800",
+            "term": "Blood Specimen Collection"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D013048",
+            "term": "Specimen Handling"
+          },
+          {
+            "id": "D019411",
+            "term": "Clinical Laboratory Techniques"
+          },
+          {
+            "id": "D019937",
+            "term": "Diagnostic Techniques and Procedures"
+          },
+          {
+            "id": "D003933",
+            "term": "Diagnosis"
+          },
+          {
+            "id": "D011677",
+            "term": "Punctures"
+          },
+          {
+            "id": "D013514",
+            "term": "Surgical Procedures, Operative"
+          },
+          {
+            "id": "D008919",
+            "term": "Investigative Techniques"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256988"
+}

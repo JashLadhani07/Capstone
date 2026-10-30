@@ -1,0 +1,260 @@
+{
+  "nct_id": "NCT02261168",
+  "title": "Day-night Rhythm in Human Skeletal Muscle Metabolism",
+  "sponsor": "Maastricht University Medical Center",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Diabetes Mellitus, Type 2",
+    "Insulin Resistance"
+  ],
+  "interventions": [
+    "Standardized living protocol"
+  ],
+  "primary_outcome": "Day-night rhythm in skeletal muscle mitochondrial respiration",
+  "secondary_outcomes": [
+    "Day-night rhythm in whole-body energy metabolism",
+    "Day-night rhythm in muscle DNA, mRNA and protein levels of markers involved in molecular clock and mitochondrial metabolism.",
+    "Day-night rhythm of in markers of normal day-night rhythm (cortisol, melatonin, core body temperature)",
+    "Day-night rhythm in blood metabolic compounds (e.g. glucose, insulin, FFA's, cholesterol)",
+    "Day-night rhythm of molecular clock mRNA and protein levels in blood PBMC's",
+    "Change in liver volume and liver lipid concentration during the day"
+  ],
+  "start_date": "2014-11",
+  "completion_date": "2015-07",
+  "results_posted": false,
+  "enrollment": 12,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02261168",
+        "orgStudyIdInfo": {
+          "id": "METC143027"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "NL49363.068.14",
+            "type": "REGISTRY",
+            "domain": "Toetsing Online"
+          }
+        ],
+        "organization": {
+          "fullName": "Maastricht University Medical Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "Day-Night Rhythm in Human Skeletal Muscle",
+        "officialTitle": "Day-night Rhythm in Human Skeletal Muscle Metabolism"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2015-09",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2014-11"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2015-07",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2015-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2014-09-24",
+        "studyFirstSubmitQcDate": "2014-10-06",
+        "studyFirstPostDateStruct": {
+          "date": "2014-10-10",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2015-09-04",
+        "lastUpdatePostDateStruct": {
+          "date": "2015-09-07",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Maastricht University Medical Center",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study evaluates the existence of a day-night rhythm in skeletal muscle energy metabolism in healthy lean subjects. Subjects will stay at the research facility for 44 hours with a standardized living protocol during which several measurements of skeletal muscle and whole body energy metabolism will be performed.",
+        "detailedDescription": "Recent evidence from both observational and experimental studies indicates that disobeying our normal day-night rhythm negatively influences our metabolic and cardiovascular health, possibly leading to obesity and type 2 diabetes mellitus (T2DM). An important hallmark of obesity and T2DM is a decreased skeletal muscle mitochondrial function. Interestingly, recent research indicates that also skeletal muscle mitochondrial function under the influence of a day-night rhythm. The main objective of this study is to investigate the presence of a day-night rhythm in skeletal muscle energy metabolism (in particular mitochondrial function) of healthy young participants. Therefore, subjects will stay at the research unit for 44 hours, with standardized meals and sleeping time. During this period we will take five muscle biopsies, perform indirect calorimetry measurements and blood draws."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus, Type 2",
+          "Insulin Resistance"
+        ],
+        "keywords": [
+          "Circadian Rhythm"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "BASIC_SCIENCE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 12,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Standardized living protocol",
+            "type": "OTHER",
+            "description": "Subjects are kept at the research facility to adhere to a standardized living protocol, mimicking a normal daily living situation. During the study, multiple tests will be performed, including muscle biopsies, blood draws, MRS measurements and indirect calorimetry.",
+            "interventionNames": [
+              "Other: Standardized living protocol"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "Standardized living protocol",
+            "description": "Subjects stay at the research facility for 44 hours and adhere to a standard sleeping, eating and activity protocol. During this protocol, multiple measurements will be performed including skeletal muscle biopsies (m. vastus lateralis), blood draws, indirect calorimetry and MRS measurements.",
+            "armGroupLabels": [
+              "Standardized living protocol"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Day-night rhythm in skeletal muscle mitochondrial respiration",
+            "description": "O2-flux (pmol/mg/s) measured with high resolution respirometry upon administration of different substrates",
+            "timeFrame": "40 hours."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Day-night rhythm in whole-body energy metabolism",
+            "description": "Energy expenditure (kJ/min), glucose oxidation (g/min) and fat oxidation (g/min) measured by indirect calorimetry",
+            "timeFrame": "40 hours."
+          },
+          {
+            "measure": "Day-night rhythm in muscle DNA, mRNA and protein levels of markers involved in molecular clock and mitochondrial metabolism.",
+            "description": "Quantify mRNA and protein levels by qPCR or micro-array and Western blots",
+            "timeFrame": "40 hours."
+          },
+          {
+            "measure": "Day-night rhythm of in markers of normal day-night rhythm (cortisol, melatonin, core body temperature)",
+            "description": "Blood cortisol and melatonin levels and core body temperature measured by an ingested telemetric pill.",
+            "timeFrame": "measured during the 2nd study day"
+          },
+          {
+            "measure": "Day-night rhythm in blood metabolic compounds (e.g. glucose, insulin, FFA's, cholesterol)",
+            "timeFrame": "measured during the 2nd study day"
+          },
+          {
+            "measure": "Day-night rhythm of molecular clock mRNA and protein levels in blood PBMC's",
+            "description": "Measured by qPCR and Western Blots",
+            "timeFrame": "measured during the 2nd study day"
+          },
+          {
+            "measure": "Change in liver volume and liver lipid concentration during the day",
+            "description": "Measured by Magnetic Resonance Imaging and -Spectroscopy (MRI/MRS). Lipid signals in the MRS spectra will be quantified while suppressing the strong water signal in the region of interest (right liver lobe)",
+            "timeFrame": "First study day 6 PM, second study day 7 AM"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Caucasian\n* Healthy (as determined by dependent physician based on medical questionnaire)\n* Male\n* Age: 18-35 years\n* Normal BMI (18-25 kg/m2)\n* Regular sleeping time (normally 7-9h daily)\n\nExclusion Criteria:\n\n* Extreme early bird or extreme night person (score \u226430 or \u226570 on MEQ-SA questionnaire)\n* Heavily varying sleep-wake rhythm\n* Shiftwork during last 3 months\n* Travel across \\>1 time zone in the last 3 months\n* Engagement in exercise \\> 2 hours total per week\n* Using \\>400mg caffeine daily\n* Smoking\n* Unstable body weight (weight gain or loss \\> 3kg in the last 3 months)\n* Significant food allergies/intolerance (seriously hampering study meals)\n* Participation in another biomedical study within 1 month before the first study visit\n* Any contra-indication to Magnetic Resonance Imaging (MRI) scanning",
+        "healthyVolunteers": true,
+        "sex": "MALE",
+        "minimumAge": "18 Years",
+        "maximumAge": "35 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Patrick Schrauwen, PhD",
+            "affiliation": "Professor",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Maastricht University",
+            "city": "Maastricht",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 50.84833,
+              "lon": 5.68889
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "id": "D007333",
+            "term": "Insulin Resistance"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D006946",
+            "term": "Hyperinsulinism"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718774"
+}

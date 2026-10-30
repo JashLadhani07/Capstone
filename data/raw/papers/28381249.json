@@ -1,0 +1,30 @@
+{
+  "pmid": "28381249",
+  "title": "Cardiovascular care guideline implementation in community health centers in Oregon: a mixed-methods analysis of real-world barriers and challenges.",
+  "abstract": "Spreading effective, guideline-based cardioprotective care quality improvement strategies between healthcare settings could yield great benefits, particularly in under-resourced contexts. Understanding the diverse factors facilitating or impeding such guideline implementation could improve cardiovascular care quality and outcomes for vulnerable patients. We sought to identify multi-level factors affecting uptake of cardioprotective care guidelines in community health centers (CHCs), within a successful trial of cross-setting implementation of an effective intervention. Quantitative analyses used multivariable logistic regression to examine in-person patient encounters at 10 CHCs from June 2011-May 2014. At these encounters, a point-of-care alert flagged adults with diabetes who were clinically indicated for, but not currently prescribed, cardioprotective medications. The main outcome measure was the rate of relevant prescriptions issued within two days of encounters. Qualitative analyses focused on CHC providers and staff, and, guided by the constant comparative method, were used to enhance understanding of the factors that influenced this prescribing. Recommended prescribing occurred at 13-16% of encounters with patients who were indicated for such prescribing. The odds of this prescribing were higher when the patient was male, had HbA1c \u22657, was previously prescribed a similar medication, gave diabetes as the chief complaint, saw a mid-level practitioner, or saw their primary care provider. The odds were lower when the patient was insured, had \u22651 clinic visits in the past year, had kidney disease, or was prescribed certain other medications. Additional factors were associated with prescribing of each medication class. Qualitative results both supported and challenged the quantitative findings, illustrating important tensions involved in guideline-based prescribing. Clinic staff stressed the importance of the provider-patient relationship in guiding prescribing decisions in the face of competing priorities and care needs, and the impact of rapidly changing guidelines. Diverse factors associated with guideline-concordant prescribing illuminate the complexity of delivering evidence-based care in CHCs. We present possible strategies for addressing barriers to guideline-based prescribing. This trial was registered retrospectively. Currently Controlled Trials NCT02299791 . Retrospectively registered 10 November 2014.",
+  "journal": "BMC health services research",
+  "pub_date": "2017-Apr",
+  "authors": [
+    "Gold, Rachel",
+    "Bunce, Arwen",
+    "Cowburn, Stuart",
+    "Davis, James V",
+    "Hollombe, Celine",
+    "Nelson, Christine A",
+    "Puro, Jon",
+    "Muench, John",
+    "Hill, Christian",
+    "Jaworski, Victoria",
+    "Mercer, MaryBeth",
+    "Howard, Colleen",
+    "Perrin, Nancy",
+    "DeVoe, Jennifer"
+  ],
+  "nct_ids_referenced": [
+    "NCT02299791",
+    "NCT02299791"
+  ],
+  "source": "pubmed",
+  "word_count": 322,
+  "parsed_at": "2026-10-30T10:29:23.844006"
+}

@@ -1,0 +1,300 @@
+{
+  "nct_id": "NCT04726033",
+  "title": "A Phase I, Single Centre, Open-label Study of TLX592 to Assess the Safety and Tolerability, Pharmacokinetics, Biodistribution and Radiation Dosimetry in Patients Diagnosed With Prostate Cancer",
+  "sponsor": "Telix Pharmaceuticals (Innovations) Pty Limited",
+  "phase": "EARLY_PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Metastatic Prostate Cancer"
+  ],
+  "interventions": [
+    "64Cu-DOTA-TLX592"
+  ],
+  "primary_outcome": "Number of Participants With Treatment-Related Adverse Events as Assessed by CTCAE v5.0",
+  "secondary_outcomes": [
+    "Optimal antibody dose of TLX592",
+    "Comparison of PSMA-targeting of different PMSA-imaging agents"
+  ],
+  "start_date": "2021-08-04",
+  "completion_date": "2023-12-30",
+  "results_posted": false,
+  "enrollment": 14,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04726033",
+        "orgStudyIdInfo": {
+          "id": "64Cu-TLX592-001"
+        },
+        "organization": {
+          "fullName": "Telix Pharmaceuticals (Innovations) Pty Limited",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "64Cu-TLX592 Phase I Safety, PK, Biodistribution and Dosimetry Study (CUPID Study)",
+        "officialTitle": "A Phase I, Single Centre, Open-label Study of TLX592 to Assess the Safety and Tolerability, Pharmacokinetics, Biodistribution and Radiation Dosimetry in Patients Diagnosed With Prostate Cancer",
+        "acronym": "CUPID"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-04",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-08-04",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2023-12-30",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2024-01-29",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2020-10-14",
+        "studyFirstSubmitQcDate": "2021-01-22",
+        "studyFirstPostDateStruct": {
+          "date": "2021-01-27",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-04-29",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-05-01",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Telix Pharmaceuticals (Innovations) Pty Limited",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is a Phase 1 trial of TLX592, a humanised, engineered monoclonal antibody HuX592r conjugated with a DOTA chelator and radiolabelled with 64Cu (64Cu-TLX592). TLX592 is being developed as a PSMA-targeting antibody to be radiolabelled with a therapeutic radiosotope for the treatment of PSMA-expressing tumours, therefore this study has been designed to assess the safety and tolerability, pharmacokinetics, whole body biodistribution and radiation dosimetry of 64Cu-TLX592.",
+        "detailedDescription": "The optimisation dose and imaging conditions will be conducted in prostate cancer patients with with oligometastatic disease ( (defined as 5 sites or less outside of the prostate bed). On determining the optimal dose and imaging conditions, an additional cohort of patients with a higher tumour burden such as multiple metastatic sites across \u226510 regions will be assessed.\n\nStudy conduct:\n\nNine, prostate cancer patients with oligometastatic disease as detected using 68Ga-PSMA-11 or 18F-DCFPyl PSMA PET/CT scanning (defined as 5 sites or less outside of the prostate bed) will be randomised to one of three treatment groups to receive a single injection of:\n\n* Group 1: 2mg of TLX592, labelled with 300 MBq (\u00b1 10%) 64Cu.\n* Group 2: 2mg of TLX592, labelled with 300 MBq (\u00b1 10%) 64Cu combined with 8mg of unlabelled TLX592 (mass dose of 10mg).\n* Group 3: 2mg of TLX592, labelled with 300 MBq (\u00b1 10%) 64Cu combined with 18mg of unlabelled TLX592 (mass dose of 20mg). If one of the three patients in a specific group experiences a dose-limiting toxicity, three more patients will be treated at the same dose level.\n\nPatients with a higher tumour burden such as multiple metastatic sites across \u226510 regions \\[regions: prostate bed, pelvic lumph nodes, skeleton, distant sites (including viscera)\\] as detected on 68Ga-PSMA or 18F-DCFPyl PMSA imaging agent will be allocated to a fourth group.\n\n\u2022 Group 4: based on the result of Groups 1-3, the optimal dose and imaging timepoints will be selected to treat 3 patients with higher tumour burden (\u226510 metastatic sites and/or visceral disease as detected on a 68Ga-PSMA-11 or 18F-DCFPyl PSMA PET/CTscan).\n\nFor dosimetry analysis, biodistribution whole body PET/CT imaging will be performed at 1, 4 \u00b1 0.5h, 20 \u00b1 4h, with the option for a an additional two scans to be performed between the 36-120 hours post administration of the investigational product. The additional scans after the 20h timepoint will be at the discretion of the investigator. Patients will be imaged on a Siemens Biographe scanner, offering the possibility of TOF (time-of-flight) and non-TOF reconstruction.\n\nComparative tumour PET/CT imaging:\n\nOn Days 0, 1 and potentially at 36-120h the biodistribution and tumour imaging will be performed using gated or list mode acquisition, for generation of sub-partitioned data.Such data will allow the mathematical generation of statistically independent images for various dose levels, based on the actual dose administered in the trial.\n\nAn end of study visit will be conducted on Day 28 \u00b1 2 days. 64Cu-TLX592 images will be centrally analysed for absorbed organ and whole body doses in a standardised fashion. In addition, tumour absorbed doses will be determined for scientific purposes (estimation of achievable tumour doses of therapeutic nuclides labelled to TLX592). All image data analyses will be performed / confirmed centrally.\n\nPharmacokinetic analysis:\n\nBlood samples will be taken at the following times and counted in a gamma counter:\n\n* Pre-dose\n* 1, 4 \u00b1 0.5h, 20 \u00b1 4h and 48 \u00b1 4h after the administration of 64Cu-TLX592."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Metastatic Prostate Cancer"
+        ],
+        "keywords": [
+          "prostate cancer",
+          "biodistribution",
+          "64Cu-TLX592",
+          "pharmacokinetics",
+          "dosimetery",
+          "safety"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "EARLY_PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "interventionModelDescription": "This study will consist of four groups with the initial three groups undergoing dose escalation and the fourth group will be to confirm the optimal dose and imaging conditions.",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 14,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Dose level 1 of 64Cu-TLX592",
+            "type": "EXPERIMENTAL",
+            "description": "Three patients will be intravenously administered with a single injection of 2mg of TLX592, labelled with 300 MBq (\u00b1 10%) 64Cu",
+            "interventionNames": [
+              "Drug: 64Cu-DOTA-TLX592"
+            ]
+          },
+          {
+            "label": "Dose level 2 of 64Cu-TLX592",
+            "type": "EXPERIMENTAL",
+            "description": "Three patients will be intravenously administered with a single injection of 2mg of TLX592, labelled with 300 MBq (\u00b1 10%) 64Cu combined with 8mg of unlabelled TLX592 (mass dose of 10mg).",
+            "interventionNames": [
+              "Drug: 64Cu-DOTA-TLX592"
+            ]
+          },
+          {
+            "label": "Dose level 3 of 64Cu-TLX592",
+            "type": "EXPERIMENTAL",
+            "description": "Three patients will be intravenously administered with a single injection of 2mg of TLX592, labelled with 300 MBq (\u00b1 10%) 64Cu combined with 18mg of unlabelled TLX592 (mass dose of 20mg).",
+            "interventionNames": [
+              "Drug: 64Cu-DOTA-TLX592"
+            ]
+          },
+          {
+            "label": "Confirmation of optimal 64Cu-TLX592 dose",
+            "type": "EXPERIMENTAL",
+            "description": "Based on the result of Groups 1-3, the optimal dose and imaging timepoints will be selected to treat 3 patients with higher tumour burden (\u226510 metastatic sites and/or visceral disease as detected on a 68Ga-PSMA-11 or 18F-DCFPyl PSMA PET/CT scan).\n\nThree patients will be intravenously administered with a single injection of 2mg of TLX592, labelled with 300 MBq (\u00b1 10%) 64Cu combined with 0, 8 or 18mg of unlabelled TLX592.",
+            "interventionNames": [
+              "Drug: 64Cu-DOTA-TLX592"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "64Cu-DOTA-TLX592",
+            "description": "TLX592, a humanised, engineered monoclonal antibody HuX592r conjugated with a DOTA chelator and radiolabelled with 64Cu (64Cu-TLX592)",
+            "armGroupLabels": [
+              "Confirmation of optimal 64Cu-TLX592 dose",
+              "Dose level 1 of 64Cu-TLX592",
+              "Dose level 2 of 64Cu-TLX592",
+              "Dose level 3 of 64Cu-TLX592"
+            ],
+            "otherNames": [
+              "64Cu-TLX592"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Number of Participants With Treatment-Related Adverse Events as Assessed by CTCAE v5.0",
+            "description": "Treatment emergent adverse events (TEAE) will be classified according to MedDRA (Medical Dictionary for Regulatory Activities), frequency, severity according to NCI CTCAE V5.0, seriousness, and relationship of study treatment will be assessed. Laboratory abnormalities will be assessed according to the NCI CTCAE v.5.0",
+            "timeFrame": "Day 1 to 28"
+          },
+          {
+            "measure": "Pharmacokinetics of 64Cu-TLX592",
+            "description": "Patient plasma samples at 0h, 1h, 4 \u00b1 0.5h, 20 \u00b1 4h and 48 \u00b1 4h after the administration of 64Cu-TLX592 will be counted for radioactivity.",
+            "timeFrame": "Day 1-4 after a single administration of 64Cu-TLX592"
+          },
+          {
+            "measure": "Biodistribution of 64Cu-TLX592",
+            "description": "On Days 0, Day 1 and potentially at 36-120h after administration of the investigational product, the biodistribution and tumour imaging will be performed. An end of study visit will be conducted on Day 28 \u00b1 2 days. 64Cu-TLX592 images will be centrally analysed for absorbed organ and whole body doses in a standardised fashion. In addition, tumour absorbed doses will be determined for scientific purposes (estimation of achievable tumour doses of therapeutic nuclides labelled to TLX592)",
+            "timeFrame": "Up to 24h after a single administration of 64Cu-TLX592"
+          },
+          {
+            "measure": "Dosimetry of 64Cu-TLX592",
+            "description": "For dosimetry analysis, biodistribution whole body PET/CT imaging will be performed at 1h, 4 \u00b1 0.5h, 20 \u00b1 4h, with the option for a an additional two scans to be performed between the 36-120 hours.",
+            "timeFrame": "Up to 5 days after a single administration of 64Cu-TLX592"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Optimal antibody dose of TLX592",
+            "description": "The optimal antibody mass dose and its effect on the biological clearance of 64Cu- TLX592 from blood and radiation dose to tumour will be conducted on Day 0, Day 1 and potentially at 36-120h. The optimal antibody mass dose will be performed using gated or list mode acquisition, for generation of sub-partitioned data. Such data will allow the mathematical generation of statistically independent images for various dose levels, based on the actual dose administered in the trial.",
+            "timeFrame": "Single diagnostic administration 1 day, followed by a diagnostic scan on Day 1"
+          },
+          {
+            "measure": "Comparison of PSMA-targeting of different PMSA-imaging agents",
+            "description": "To evaluate the comparability of PET images and PSMA-targeting characteristics between 64Cu-TLX592 and 68Ga-PSMA-11 and 18F-DCFPyl PSMA imaging agents.",
+            "timeFrame": "Single diagnostic administration 1 day, followed by a diagnostic scan on Day 1."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Biochemically recurrent metastatic adenocarcinoma of the prostate, or metastatic primary adenocarcinoma of the prostate.\n* Histologically or cytologically confirmed diagnosis of adenocarcinoma of prostate.\n* PSMA-expressing prostate adenocarcinoma as seen on 68Ga-PSMA-11 or 18F- DCFPyl PSMA PET/CT scanning within the last 1 month showing PSMA-avid disease.\n* ECOG performance status of 0 - 1.\n* Normal organ function and marrow reserve:\n* White blood cell (WBC) count \u2265 2.5 x 109/L or absolute neutrophil count (ANC) \u2265 1.5 x 109/L.\n* Platelets \u2265 100 x 109/L.\n* Haemoglobin \u2265 90g/L.\n* Bilirubin \\< 1.5 x upper limit of normal (ULN) (or if bilirubin is between 1.5 - 2x ULN, must have a normal conjugated bilirubin).\n* Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) \u2264 2.0 x ULN (or\n\n  * 5.0 x ULN in the presence of liver metastases).\n* Serum creatinine \u2264 1.5 x ULN or creatinine clearance \u2265 60 mL/min.\n\nExclusion Criteria:\n\nA patient is excluded from participation in the trial if one or more of the following criteria are met:\n\n* Known active brain metastases.\n* Serious active infection (as assessed by investigator).\n* Other serious illness(es) involving the cardiac, respiratory, CNS, renal, hepatic or haematological organ systems which might preclude completion of this study or interfere with determination of causality of any adverse effects experienced in this study.\n* Known or suspected allergies, hypersensitivity, or intolerance to the IMP or its excipients.\n* Other investigational agents within 4 weeks of randomization.\n* Radiotherapy or immunotherapy within 4 weeks prior to the planned administration of 64Cu-TLX592 or continuing adverse effects (\\> grade 1) from such therapy \\[Common Terminology Criteria for Adverse Events (CTCAE) version 5\\].\n* Previous administration of any radionucleotide within 10 half-lives of 64Cu.\n* Inability to understand, or unwilling to sign, a written informed consent document or to follow investigational procedures in the opinion of the investigator.\n* Patients who are unable to maintain self-care.",
+        "healthyVolunteers": false,
+        "sex": "MALE",
+        "stdAges": [
+          "CHILD",
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Envision Medical Imaging",
+            "city": "Perth",
+            "state": "Western Australia",
+            "zip": "6014",
+            "country": "Australia",
+            "geoPoint": {
+              "lat": -31.95224,
+              "lon": 115.8614
+            }
+          },
+          {
+            "facility": "GenesisCare Wembly",
+            "city": "Perth",
+            "state": "Western Australia",
+            "zip": "6014",
+            "country": "Australia",
+            "geoPoint": {
+              "lat": -31.95224,
+              "lon": 115.8614
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D011471",
+            "term": "Prostatic Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D005834",
+            "term": "Genital Neoplasms, Male"
+          },
+          {
+            "id": "D014565",
+            "term": "Urogenital Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D005832",
+            "term": "Genital Diseases, Male"
+          },
+          {
+            "id": "D000091662",
+            "term": "Genital Diseases"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D011469",
+            "term": "Prostatic Diseases"
+          },
+          {
+            "id": "D052801",
+            "term": "Male Urogenital Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256914"
+}

@@ -1,0 +1,542 @@
+{
+  "nct_id": "NCT04207775",
+  "title": "Real World Molecular Testing, Treatment Patterns, and Clinical Outcomes in EGFR Mutation-Positive, Locally Advanced or Metastatic Chinese NSCLC Patients, Who Have Progressed From First-line EGFR-TKI Therapy (PISCES)",
+  "sponsor": "AstraZeneca",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Locally Advanced or Metastatic NSCLC"
+  ],
+  "interventions": [],
+  "primary_outcome": "Physician-reported clinical outcomes, PFS",
+  "secondary_outcomes": [
+    "Molecular testing sample type",
+    "Molecular test outcome",
+    "changes in testing rate over time",
+    "Molecular testing rate",
+    "Time from progression date to molecular testing",
+    "Molecular testing method of biopsy",
+    "Molecular testing turnaround time",
+    "Molecular test type",
+    "reason for molecular testing",
+    "Molecular testing laboratory type",
+    "reason for not performing a molecular test",
+    "mutation status",
+    "mutation type",
+    "histologic/phenotypic transformation",
+    "Overall CNS metastases rate",
+    "Brain metastases rate",
+    "Leptomeningeal metastases rate",
+    "Type of treatments for CNS metastases",
+    "Date of treatments for CNS metastases",
+    "Change in score from baseline for each QoL domain measured at each subsequent site visit",
+    "Change in score from baseline for overall QoL measured at each subsequent site visit"
+  ],
+  "start_date": "2020-03-30",
+  "completion_date": "2023-09-01",
+  "results_posted": false,
+  "enrollment": 300,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04207775",
+        "orgStudyIdInfo": {
+          "id": "D5160R00031"
+        },
+        "organization": {
+          "fullName": "AstraZeneca",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Real World Study in Locally Advanced or Metastatic NSCLC Patients, Progressed From First-line EGFR-TKI Therapy",
+        "officialTitle": "Real World Molecular Testing, Treatment Patterns, and Clinical Outcomes in EGFR Mutation-Positive, Locally Advanced or Metastatic Chinese NSCLC Patients, Who Have Progressed From First-line EGFR-TKI Therapy (PISCES)",
+        "acronym": "PISCES"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-07",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2020-03-30",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2023-09-01",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2023-09-01",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2019-12-19",
+        "studyFirstSubmitQcDate": "2019-12-19",
+        "studyFirstPostDateStruct": {
+          "date": "2019-12-23",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-07-11",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-07-12",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "AstraZeneca",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "To estimate parameters associated with treatment patterns and related clinical outcomes.Including physician reported PFS and OS.",
+        "detailedDescription": "The objectives of this study are to assess molecular testing, treatment patterns, and associated clinical outcomes among patients with epidermal growth factor receptor (EGFR) mutation-positive locally advanced or metastatic non-small cell lung cancer (NSCLC) who have progressed from first-line EGFR-TKI (tyrosine kinase inhibitor) therapy. This study is descriptive in nature and does not attempt to test any specific a priori hypotheses"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Locally Advanced or Metastatic NSCLC"
+        ],
+        "keywords": [
+          "NSCLC"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 300,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "NSCLC",
+            "description": "Patients with confirmed EGFR mutation-positive, locally advanced or metastatic NSCLC, who have progressed from first line EGFR-TKI therapy who will receive different treatment"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Physician-reported clinical outcomes, PFS",
+            "description": "from date of second-line treatment initiation until progression by RECIST1.1 criteria, or death",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Physician-reported clinical outcomes, OS",
+            "description": "the date of second-line treatment initiation until death from any cause(only for patients receiving 2L CT and 2L TKI, separately)",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Time to initiate second line therapy from progression from 1L treatment",
+            "description": "Time to initiate second line therapy from RECIST1.1 defined progression from 1L treatment",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Response rate",
+            "description": "Response rate reported by physician or judged by Recist1.1 after receiving any pattern of therapy",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "chemotherapy",
+            "description": "For each line of chemotherapy received but not limited in:Therapy regimen\uff0cTherapy duration measured as time from therapy start date to time of therapy end date\uff0cNumber of cycles received\uff0cReason for cessation of therapy",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "immunotherapy",
+            "description": "For each line of immunotherapy received but not limited in:Therapy regimen\uff0cTherapy duration measured as time from therapy start date to time of therapy end date\uff0cNumber of cycles received\uff0cReason for cessation of therapy",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "targeted therapy",
+            "description": "For each line of targeted therapy received but not limited in:Therapy regimen\uff0cTherapy duration measured as time from therapy start date to time of therapy end date\uff0cNumber of cycles received\uff0cReason for cessation of therapy",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "local therapy",
+            "description": "For each line of local therapy received but not limited in:Therapy regimen\uff0cTherapy duration measured as time from therapy start date to time of therapy end date\uff0cNumber of cycles received\uff0cReason for cessation of therapy",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "palliative/supportive care",
+            "description": "Any palliative/supportive care received",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Molecular testing sample type",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including molecular testing sample type",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Molecular test outcome",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including molecular test outcome",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "changes in testing rate over time",
+            "description": "To estimate parameters associated with molecular testing patterns, including changes in testing rate over time",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Molecular testing rate",
+            "description": "Molecular testing rate defined as the number of patients identified as having received molecular testing divided by the number of patients",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Time from progression date to molecular testing",
+            "description": "Time from the RECIST defined progression date to molecular testing",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Molecular testing method of biopsy",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including molecular testing method of biopsy",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Molecular testing turnaround time",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including molecular testing turnaround time",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Molecular test type",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including molecular test type",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "reason for molecular testing",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including reason for molecular testing",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Molecular testing laboratory type",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including molecular testing laboratory type",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "reason for not performing a molecular test",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns including reason for not performing a molecular test",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "mutation status",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns including molecular testing result of mutation status",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "mutation type",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including molecular result of mutation type",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "histologic/phenotypic transformation",
+            "description": "To estimate parameters in the target population associated with molecular testing patterns, including histologic/phenotypic transformation",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Overall CNS metastases rate",
+            "description": "Overall CNS metastases rate, defined as the number of patients developing CNS metastases divided by the number of evaluable patients (From start of 2L therapy)",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Brain metastases rate",
+            "description": "Brain metastases rate, defined as the number of patients developing brain metastases divided by the number of evaluable patients",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Leptomeningeal metastases rate",
+            "description": "Leptomeningeal metastases rate, defined as the number of patients developing leptomeningeal metastases divided by the number of evaluable patients",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Type of treatments for CNS metastases",
+            "description": "Treatments for CNS metastases, including type of treatment",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Date of treatments for CNS metastases",
+            "description": "Treatments for CNS metastases, including dates of treatment",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Change in score from baseline for each QoL domain measured at each subsequent site visit",
+            "description": "To assess patient-reported HRQoL using European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 items (EORTC QLQ-C30) and European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire - Lung Cancer 13 items (EORTC QLQ-LC13)",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          },
+          {
+            "measure": "Change in score from baseline for overall QoL measured at each subsequent site visit",
+            "description": "To assess patient-reported HRQoL using European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 items (EORTC QLQ-C30) and European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire - Lung Cancer 13 items (EORTC QLQ-LC13)",
+            "timeFrame": "From enrolment to follow-up of up to 36 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria\n\n1. Male or female patients with age \u226518 years old\n2. Histologically or cytologically confirmed locally advanced or metastatic NSCLC patients\n3. Patients with prior confirmed EGFR mutation-positive, who have progressed from first line EGFR-TKI\\*\n4. Provision of written informed consent by the patient should be within 6 weeks of the date of progression from first line EGFR-TKI treatment \\*Note\uff1a\n\n   1. First-line EGFR-TKI is monotherapy;\n   2. EGFR-TKI has been launched in China includes first-generation, second-generation or third-generation EGFR-TKI, but not including the original chemical compound\n   3. Exclude the Chinese traditional medicine that is being used to treat lung cancer\n   4. Progression was determined according to Recist1.1 criteria.\n\nExclusion Criteria\n\n1. Involvement in the planning and/or conduct of the other intervention study\n2. Previous enrolment in the present study\n3. Pregnancy or breast-feeding",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Adult male or female patients (with age \u226518 years old) who have given provision of signed and dated written informed consent by the patient or legally acceptable Patients with confirmed EGFR mutation-positive, locally advanced or metastatic NSCLC, who have progressed from first line EGFR-TKI therapy",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Weimin Li, Doctor",
+            "affiliation": "West China Hospital",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Research Site",
+            "city": "Beijing",
+            "zip": "101149",
+            "country": "China",
+            "geoPoint": {
+              "lat": 39.9075,
+              "lon": 116.39723
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Changsha",
+            "zip": "410013",
+            "country": "China",
+            "geoPoint": {
+              "lat": 28.19874,
+              "lon": 112.97087
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Chengdu",
+            "zip": "610041",
+            "country": "China",
+            "geoPoint": {
+              "lat": 30.66667,
+              "lon": 104.06667
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Chengdu",
+            "zip": "610042",
+            "country": "China",
+            "geoPoint": {
+              "lat": 30.66667,
+              "lon": 104.06667
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Guangzhou",
+            "zip": "510080",
+            "country": "China",
+            "geoPoint": {
+              "lat": 23.11667,
+              "lon": 113.25
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Guangzhou",
+            "zip": "510630",
+            "country": "China",
+            "geoPoint": {
+              "lat": 23.11667,
+              "lon": 113.25
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Hangzhou",
+            "zip": "310022",
+            "country": "China",
+            "geoPoint": {
+              "lat": 30.29365,
+              "lon": 120.16142
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Harbin",
+            "zip": "150081",
+            "country": "China",
+            "geoPoint": {
+              "lat": 45.75,
+              "lon": 126.65
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Hohhot",
+            "zip": "010017",
+            "country": "China",
+            "geoPoint": {
+              "lat": 40.81056,
+              "lon": 111.65222
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Qingdao",
+            "zip": "266042",
+            "country": "China",
+            "geoPoint": {
+              "lat": 36.06488,
+              "lon": 120.38042
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Shenyang",
+            "zip": "110044",
+            "country": "China",
+            "geoPoint": {
+              "lat": 41.79222,
+              "lon": 123.43278
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Suzhou",
+            "zip": "215000",
+            "country": "China",
+            "geoPoint": {
+              "lat": 31.30408,
+              "lon": 120.59538
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Taizhou",
+            "zip": "317000",
+            "country": "China",
+            "geoPoint": {
+              "lat": 32.49069,
+              "lon": 119.90812
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Xi'an",
+            "zip": "710004",
+            "country": "China",
+            "geoPoint": {
+              "lat": 34.25833,
+              "lon": 108.92861
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Xi'an",
+            "zip": "710032",
+            "country": "China",
+            "geoPoint": {
+              "lat": 34.25833,
+              "lon": 108.92861
+            }
+          },
+          {
+            "facility": "Research Site",
+            "city": "Zhuji",
+            "country": "China",
+            "geoPoint": {
+              "lat": 29.71877,
+              "lon": 120.24233
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "40717496",
+            "type": "DERIVED",
+            "citation": "Tian P, Wu L, Zhou C, Tan J, Wang K, Luo F, Liu Y, Guo Y, Li Y, Liu Z, Gong Y, Wang Y, Xian J, Li W. Molecular testing, treatment patterns, and outcomes in EGFR-mutated non-small cell lung cancer: the PISCES study. Future Oncol. 2025 Aug;21(19):2537-2547. doi: 10.1080/14796694.2025.2529094. Epub 2025 Jul 28."
+          }
+        ],
+        "seeAlsoLinks": [
+          {
+            "label": "CSR Synopsis\\_Redacted",
+            "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D5160R00031&amp;attachmentIdentifier=88ccdb22-f8a3-4496-a2ef-eeeb23bd01fb&amp;fileName=CSR_Synopsis_Redacted.pdf&amp;versionIdentifier="
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO",
+        "description": "Chinese laws and regulations do not allow."
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002289",
+            "term": "Carcinoma, Non-Small-Cell Lung"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002283",
+            "term": "Carcinoma, Bronchogenic"
+          },
+          {
+            "id": "D001984",
+            "term": "Bronchial Neoplasms"
+          },
+          {
+            "id": "D008175",
+            "term": "Lung Neoplasms"
+          },
+          {
+            "id": "D012142",
+            "term": "Respiratory Tract Neoplasms"
+          },
+          {
+            "id": "D013899",
+            "term": "Thoracic Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D012140",
+            "term": "Respiratory Tract Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628579"
+}

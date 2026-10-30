@@ -1,0 +1,219 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07492004",
+      "orgStudyIdInfo": {
+        "id": "IRB2022-YX-164-02"
+      },
+      "organization": {
+        "fullName": "Tianjin Medical University General Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "China Monogenic Diabetes Registry",
+      "officialTitle": "China Monogenic Diabetes Registry",
+      "acronym": "CMDR"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-03",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-02-28",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2030-07-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2030-07-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-03-19",
+      "studyFirstSubmitQcDate": "2026-03-19",
+      "studyFirstPostDateStruct": {
+        "date": "2026-03-25",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-19",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-25",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Hua Shu",
+        "investigatorTitle": "Doctor",
+        "investigatorAffiliation": "Tianjin Medical University General Hospital"
+      },
+      "leadSponsor": {
+        "name": "Tianjin Medical University General Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This observational study aims to establish a digital registry, screening platform for patients with monogenic diabetes using internet-based and mobile application technologies. The primary objectives are to:\n\nCharacterize the genetic landscape of monogenic diabetes in the Chinese population, including pathogenic variants and their distribution\n\nParticipants will:\n\n* Enroll in the monogenic diabetes registry via mobile application or web-based platform\n* Undergo molecular genetic testing to establish a definitive diagnosis",
+      "detailedDescription": "This study will include the subjects of a series of studies on monogenic diabetes conducted by our team, including neonatal diabetes, maturity-onset diabetes of the young, maternally inherited diabetes and deafness, and other monogenic diabetes caused by different causative genes, and establish a large sample database and specimen bank through follow-up and omics analysis."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Neonatal Diabetes",
+        "Monogenic Diabetes",
+        "Maturity Onset Diabetes of the Young"
+      ],
+      "keywords": [
+        "Monogenic Diabetes",
+        "Neonatal Diabetes",
+        "Maturity Onset Diabetes of the Young"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "5 Years",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "Serum, plasma and complete blood cell"
+      },
+      "enrollmentInfo": {
+        "count": 5000,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Monogenic Diabetes",
+          "interventionNames": [
+            "Other: No Interventions"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "No Interventions",
+          "description": "No Interventions",
+          "armGroupLabels": [
+            "Monogenic Diabetes"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Screened and confirmed monogenic diabetes",
+          "description": "Screened and confirmed through genetic testing according to established diagnostic criteria for monogenic forms of diabetes (including MODY, neonatal diabetes, and other monogenic subtypes)",
+          "timeFrame": "6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diabetes diagnosed before 25 years of age; OR diabetes diagnosed before 35 years of age with \u22651 first-degree relative (parent, sibling, or offspring) diagnosed with diabetes before 40 years of age\n2. Body mass index (BMI) at diagnosis 28 kg/m\u00b2\n3. Negative glutamic acid decarboxylase antibody (GAD-Ab)\n\nExclusion Criteria:\n\n1. Secondary diabetes\n2. Active malignancy or history of malignant tumor within the past 5 years",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Diabetes patients who completed gene test and necessary further tests and voluntary to be followed up will be included.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Ming Liu",
+          "role": "CONTACT",
+          "phone": "+86 022-27813550",
+          "email": "mingliu@tmu.edu.cn"
+        },
+        {
+          "name": "Hua Shu",
+          "role": "CONTACT",
+          "phone": "+86 15010106182",
+          "email": "shuhuawelcome@163.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Tianjin medical university general hospital",
+          "status": "RECRUITING",
+          "city": "Tianjin",
+          "zip": "300052",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Ming Liu",
+              "role": "CONTACT",
+              "phone": "+86 022-27813550",
+              "email": "mingliu@tmu.edu.cn"
+            },
+            {
+              "name": "Hua Shu",
+              "role": "CONTACT",
+              "phone": "+86 15010106182",
+              "email": "shuhuawelcome@163.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.14222,
+            "lon": 117.17667
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,462 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03182426",
+      "orgStudyIdInfo": {
+        "id": "Pro00053082"
+      },
+      "organization": {
+        "fullName": "University of Alberta",
+        "class": "OTHER"
+      },
+      "briefTitle": "Stem Cell Mobilization (Plerixafor) and Immunologic Reset in Type 1 Diabetes (T1DM)",
+      "officialTitle": "Autologous Hematopoietic Stem Cell Mobilization (Plerixafor) and Immunologic Reset in New Onset Type 1 Diabetes Mellitus"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-08-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-07-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-06-05",
+      "studyFirstSubmitQcDate": "2017-06-07",
+      "studyFirstPostDateStruct": {
+        "date": "2017-06-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-07-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-07-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Alberta",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Alberta Innovates Health Solutions",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Type 1 diabetes is an autoimmune disease characterized by destruction of pancreatic beta-cells, resulting in absolute deficiency of insulin. Presently there is no known cure.\n\nOur proposed interventional trial is based on 'immunological reset' approach: T-depletion therapy and anti-inflammatory treatment will restore self-tolerance in T1DM; Autologous, peripheral-blood mobilized hematopoietic CD34+-enriched stem cells and a long-acting GLP-1 analogue will promote pancreatic islet regeneration and repair.\n\nThe short-term goals of this protocol is to demonstrate that subjects with new-onset T1DM undergoing autologous hematopoietic stem cell mobilization and immunologic reset will have greater preservation of endogenous insulin secretion compared to controls, and foremost that this nonmyeloablative treatment is safe, without the need for chronic immune suppression.",
+      "detailedDescription": "Previous efforts to prevent or reverse new-onset T1DM have been fraught with disappointment, despite considerable promise. The non-obese diabetic (NOD) mouse is a poor surrogate of human T1DM. Over 463 different treatments have been shown to prevent or reverse autoimmune diabetes in these mice. Efforts focused on clinical translation of the most promising strategies have led to negative findings despite enormous investment and large-scale clinical trials. Encouraging preliminary clinical pilot data suggested that a non-Fc binding CD3 antibody, mycophenolate mofetil (MMF) + daclizumab, rituximab B-lymphocyte depletion, a soluble NBI-6024 altered insulin peptide ligand, vitamin D3, nicotinamide, parenteral insulin, oral insulin, nasal insulin, and elimination of cow's milk from infant feeding could each potentially mitigate diabetes onset, or at least prolong endogenous C-peptide and sustain honeymoon. To date, none of these approaches have demonstrated robust benefit when subjected to adequately powered randomized clinical trials. Basing further clinical trials solely on responses in NOD mice would seem ill-advised.\n\nOne of the most promising approaches to date has been use of intravenous non-myeloablative autologous hematopoietic stem cell transplantation after mobilization with granulocyte colony-stimulating factor (G-CSF), thymoglobulin and cyclophosphamide, as first described by Voltarelli et al in 2007 in Brazil. Voltarelli et al demonstrated that a potentially toxic, cyclophosphamide-based depletional therapy and autologous bone marrow transplant rescue restores self-tolerance, prolongs honeymoon, and remarkably, secures insulin independence. This 'immunological reset' approach was designed to eliminate autoreactive lymphocyte clones, with subsequent immune reconstitution. Remarkably, 20/23 children and adolescents with new-onset T1DM were rendered insulin independent for periods of 6-35 months. In longer follow-up, 12/23 maintained this state for a mean of 31 months. There were no deaths, but nosocomial pneumonia occurred in 2, and oligospermia in 9. The underpinning mechanism appears to be restoration of apoptosis-related gene deregulation that contributed to breakdown of immune tolerance in T1DM.\n\nOur proposed new-onset intervention trial is based on Voltarelli's concept, but we have eliminated cyclophosphamide, replaced GCSF with plerixafor, substituted thymoglobulin for a single dose of alemtuzumab, and added anti-inflammatory treatments derived from the Clinical Islet Program in Edmonton with excellent safety profiles to date. Cellular and immunologic data from our Clinical Islet Transplant program indicates that T-depletion with alemtuzumab, and anti-inflammatory treatment with etanercept and anakinra, markedly suppress autoimmunity: a much safer and better tolerated combination than cyclophosphamide. The addition of a long-acting glucagon-like peptide-1 (GLP-1) analogue (liraglutide) is based on its known positive trophic and metabolic protective effects.\n\nStudy Procedures\n\n1. Patient selection: New onset of T1DM, diagnosed \\< 180 days, positive anti-GAD antibodies. Informed consent will be obtained from adult patients aged 18 and older.\n2. Participants will go through screening evaluation, which will include: C-peptide levels during mixed-meal tolerance test (MMTT), HbA1c, exogenous insulin, infectious and malignancy screening, pregnancy test for women, assessment of cardiac, renal, hepatic, pulmonary, and hematologic function, assessment of T cells autoreactivity, measurement of autoantibodies for GAD, ICA512, IA2A, ZnT8 and mIAA, monitoring of HLA-A2 restricted insulin B(10-18), prepro-insulin (PPI)(15-24), islet antigen (IA)-2(797-805), GAD65(114-123), islet-specific glucose-6-phosphatase catalytic subunit-related protein (IGRP)(265-273), and prepro islet amyloid polypeptide (ppIAPP)(5-13)-specific CD8(+) T-cells\n3. Participants will be randomly assigned to treated arm or control arm in a 2:1 allocation, resulting N=40 for treated arm and N=20 for control arm.\n4. For participants assigned to the treated arm, Intervention treatment will last from Day 0 up to Month 24.\n\n   1. Day 0: Subjects will receive Alemtuzumab (Lemtrada\u00ae),(30mg iv single dose); Anakinra (100 mg sc.); Etanercept (50 mg sc.) and Liraglutide (0.6 mg sc.) at University of Alberta Hospital.\n   2. Day 1: Subjects will receive Plerixafor (0.24 mg/kg/day) sc. at University Hospital to mobilize CD34+ stem cells to peripheral blood.\n   3. Day 1: Continuing with Anakinra 100mg sc. daily for 12 month; Etanercept 50mg sc. twice weekly for first 3 months, and 50mg sc. weekly for another 9 months; Liraglutide 0.6 mg sc. daily for 7 days, then 1.2 mg sc. daily (or up to 1.8mg daily) as tolerated for 24 months.\n5. For participant assigned to the control arm, they will be monitored and tested for the first 12 months, and receive intervention treatment from Month 12 up to Month 24.\n\n   1. Month 12: Subjects will receive Alemtuzumab (Lemtrada\u00ae), (30mg iv single dose); Anakinra (100 mg sc.); Atanercept (50 mg sc.) and Liraglutide (0.6 mg sc.) at University of Alberta Hospital.\n   2. Month 12 + 1 day: Subjects will receive Plerixafor (0.24 mg/kg/day) sc. at University Hospital to mobilize CD34+ stem cells to peripheral blood.\n   3. Month 12 + 1 day: Continuing with Anakinra 100mg sc. daily for 12 month; Etanercept 50mg sc. twice weekly for first 3 months, and 50mg sc. weekly for another 9 months; Liraglutide 0.6 mg sc. daily for 7 days, then 1.2 mg sc. daily (or up to 1.8mg daily) as tolerated for 12 months.\n6. Follow-up: All study participants will be followed for 24 months. Study visits will take place at Month 3, 6, 9, 12, 18 and 24. Unscheduled visits will occur as medically necessary."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus, Type 1"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 22,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treated arm",
+          "type": "EXPERIMENTAL",
+          "description": "For participants assigned to the treated arm, they will follow study regime below: Intervention treatment will last from Day 0 up to Month 24.\n\nDay 0: Subjects will receive alemtuzumab (30mg iv single dose); anakinra (100 mg sc.); etanercept (50 mg sc.) and liraglutide (0.6 mg sc.).\n\nDay 1: Subjects will receive plerixafor (0.24 mg/kg/day) sc. to mobilize CD34+ stem cells to peripheral blood.\n\nDay 1: Continuing with anakinra 100mg sc. daily for 12 month; etanercept 50mg sc. twice weekly for first 3 months, and 50mg sc. weekly for another 9 months; liraglutide 0.6 mg sc. daily for 7 days, then 1.2 mg sc. daily (or up to 1.8mg daily) as tolerated for 24 months.",
+          "interventionNames": [
+            "Drug: Plerixafor",
+            "Drug: Alemtuzumab",
+            "Drug: Anakinra",
+            "Drug: Etanercept",
+            "Drug: Liraglutide"
+          ]
+        },
+        {
+          "label": "Control arm",
+          "type": "EXPERIMENTAL",
+          "description": "For participant assigned to the control arm, they will be monitored and tested for the first 12 months, and receive intervention treatment from Month 12 up to Month 24.\n\nMonth 12: Subjects will receive alemtuzumab (30mg iv single dose); anakinra (100 mg sc.); etanercept (50 mg sc.) and liraglutide (0.6 mg sc.).\n\nMonth 12 + 1 day: Subjects will receive plerixafor (0.24 mg/kg/day) sc.. Month 12 + 1 day: Continuing with anakinra 100mg sc. daily for 12 month; etanercept 50mg sc. twice weekly for first 3 months, and 50mg sc. weekly for another 9 months; liraglutide 0.6 mg sc. daily for 7 days, then 1.2 mg sc. daily (or up to 1.8mg daily) as tolerated for 12 months.",
+          "interventionNames": [
+            "Drug: Plerixafor",
+            "Drug: Alemtuzumab",
+            "Drug: Anakinra",
+            "Drug: Etanercept",
+            "Drug: Liraglutide"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Plerixafor",
+          "description": "Systemic CD34+ stem cell mobilization for beta-cell repair",
+          "armGroupLabels": [
+            "Control arm",
+            "Treated arm"
+          ],
+          "otherNames": [
+            "Mozobil"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Alemtuzumab",
+          "description": "T-cell depletion",
+          "armGroupLabels": [
+            "Control arm",
+            "Treated arm"
+          ],
+          "otherNames": [
+            "Lemtrada"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Anakinra",
+          "description": "Anti-inflammatory",
+          "armGroupLabels": [
+            "Control arm",
+            "Treated arm"
+          ],
+          "otherNames": [
+            "Kineret"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Etanercept",
+          "description": "Anti-inflammatory",
+          "armGroupLabels": [
+            "Control arm",
+            "Treated arm"
+          ],
+          "otherNames": [
+            "Enbrel"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Liraglutide",
+          "description": "Beta-cell regeneration",
+          "armGroupLabels": [
+            "Control arm",
+            "Treated arm"
+          ],
+          "otherNames": [
+            "Victoza"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change of 2-hour mixed meal stimulated C-peptide AUC",
+          "description": "This AUC will be normalized by dividing it by 120 minutes (the number of minutes over which it is determined), and will be adjusted by inclusion of baseline C-peptide AUC as a covariate in the analysis.",
+          "timeFrame": "Baseline, Month 3, 6, 9, 12, 18 and 24"
+        },
+        {
+          "measure": "Rate of Serious Adverse Event/Medical Event of Special Interest",
+          "timeFrame": "Within 24 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "\"Responder\" status",
+          "description": "A subject is considered a responder if at the given time point, the subject has: a) HbA1c \u22646.5% and b) mean daily insulin use \\< 0.5 IU/kg/day over 7 consecutive days during the 2 weeks preceding the visit.",
+          "timeFrame": "Month 3, 6, 9, 12, 18 and 24"
+        },
+        {
+          "measure": "Exogenous insulin usage",
+          "description": "Mean total daily insulin dose assessed over 7 consecutive days during 2 weeks preceding clinic visits",
+          "timeFrame": "Baseline, Month 3, 6, 9, 12, 18 and 24"
+        },
+        {
+          "measure": "Proportion of subjects with HbA1c \u22646.5%",
+          "timeFrame": "Baseline, Month 3, 6, 9, 12, 18 and 24"
+        },
+        {
+          "measure": "Proportion of subjects with HbA1c \u22647.0%",
+          "timeFrame": "Baseline, Month 3, 6, 9, 12, 18 and 24"
+        },
+        {
+          "measure": "Proportion of subjects free from severe hypoglycaemia",
+          "description": "Proportion of subjects free from severe hypoglycemia reported frequency of hypoglycemia by Hypo Score and Lability Index and CGMS",
+          "timeFrame": "Baseline, Month 3, 6, 9, 12, 18 and 24"
+        },
+        {
+          "measure": "Proportion of subjects progressing to complete beta cell loss",
+          "description": "Proportion of subjects who become C-peptide negative",
+          "timeFrame": "Baseline, Month 3, 6, 9, 12, 18 and 24"
+        },
+        {
+          "measure": "Autoantibodies associated with T1DM",
+          "description": "Including GAD, ICA512, IA2A, ZnT8 and mIAA",
+          "timeFrame": "Baseline, Month 24 or the study withdrawal visit"
+        },
+        {
+          "measure": "T1DM T-cell autoreactivity",
+          "timeFrame": "Baseline, Month 3, 6, 9, 12, 18 and 24"
+        },
+        {
+          "measure": "T-cell phenotyping",
+          "timeFrame": "Baseline, Month 3, 6, 9, 12, 18 and 24"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nPatient is aged 18-45\n\nTo be eligible participants must have:\n\n* A clinical diagnosis of type 1 diabetes using the diagnostic criteria of the CDA\n* Residual \u03b2-cell function, defined by a stimulated C-peptide \\> 0.6 but \u226410.5 ng/mL on MMTT;\n* One or more positive autoantibodies: (GAD, ICA512, IA2A, ZnT8, mIAA) to confirm T1DM;\n* No underlying condition that would preclude enrolment at PI's discretion.\n\nParticipants must be capable of understanding the purpose and risks of the study and must sign a statement of informed consent, with additional parental consent where required.\n\nExclusion Criteria:\n\n* Duration of T1DM longer than 180 days\n* Severe co-existing cardiac disease, characterized by any one of these conditions: (a) recent myocardial infarction (within past 6 months); (b) left ventricular ejection fraction \\<30%; or (c) evidence of ischemia on functional cardiac exam.\n* Active alcohol or substance abuse, including cigarette smoking (must be abstinent for 6 months prior to study enrolment).\n* Psychiatric disorder making the subject not a suitable candidate for this study (e.g., schizophrenia, bipolar disorder, or major depression that is unstable or uncontrolled on current medication).\n* History of non-adherence to prescribed regimens.\n* Hypersensitivity to any of the required study medications.\n* Significant systemic infection during the 3 weeks before the start of study intervention (e.g., infection requiring hospitalization, major surgery, or IV antibiotics to resolve; other infections, e.g., bronchitis, sinusitis, localized cellulitis, candidiasis, or urinary tract infections, must be assessed on a case-by-case basis by the investigator regarding whether they are serious enough to warrant exclusion).\n* Active infection including Hepatitis C, Hepatitis B, HIV, tuberculosis (subjects with a positive PPD performed within one year of enrollment, and no history of adequate chemoprophylaxis).\n* Any history of, current malignancies, other than non-melanoma skin cancer (To be included to the study, subject must have had fewer than 5 occurrences of non-melanoma skin cancer, and the last occurrence must not be within 3 months of study entry).\n* BMI \\> 35 kg/m2 at screening visit.\n* Age less than 18 or greater than 45 years.\n* Measured glomerular filtration rate (GFR) \\< 60 m/min/1.73m2\n* Presence or history of macroalbuminuria (\\>300 mg/g creatinine)\n* Clinical suspicion of nephritic (hematuria, active urinary sediment) or rapidly progressing renal impairment (e.g. Increase in serum creatinine of 25% within the last 3-6 months).\n* Baseline Hb \\< 105g/L in women, or \\< 120 g/L in men.\n* Baseline screening liver function tests outside of normal range, with the exception of uncomplicated Gilbert's Syndrome. An initial LFT panel with any values \\>1.5 times the upper limit of normal (ULN) will exclude a patient without a re-test; a re test for any values between ULN and 1.5 times ULN should be made, and if the values remain elevated above normal limits, the patient will be excluded.\n* Untreated proliferative retinopathy.\n* Positive pregnancy test, intent for future pregnancy or male subjects' intent to procreate, failure to follow effective contraceptive measures, or presently breast feeding.\n* EBV viral load of \\> 10,000 copies per 106 peripheral blood mononuclear cells (PBMCs) as determined by quantitative polymerase chain reaction (qPCR). If there is any clinical suspicion that a subject who is EBV seronegative and with EBV PCR \\< 10,000 copies per 106 PBMCs has symptoms consistent with infectious mononucleosis prior to administration of study treatment, then a monospot test result must be negative before the subject can be enrolled.\n* Positive result on the Rapid Plasma Reagin (RPR) test for syphilis; except if result of RPR test is positive, a negative confirmatory test (for example, fluorescent treponemal antibody absorbed \\[FTA-ABS\\] test).\n* History of using any investigational drug within the 3 months before enrollment of this study.\n* History of using any potent immunosuppressive agent (e.g., systemic high-dose corticosteroids on a chronic basis, methotrexate, cyclosporine, or anti-TNF agents) within the 30 days before the study treatment.\n* History of receiving any live vaccine within the 30 days before the study treatment.\n* Any major surgical procedure within 30 days before the study treatment.\n* Insulin requirement \\>1.0 U/kg/day\n* HbA1C \\>12% at screening.\n* Uncontrolled hyperlipidemia \\[fasting LDL cholesterol \\> 3.4 mmol/L, treated or untreated; and/or fasting triglycerides \\> 2.3 mmol/L\\]\n* Under treatment for a medical condition requiring chronic use of steroids.\n* Use of coumadin or other anticoagulant therapy (except aspirin) or subject with PT INR \\> 1.5.\n* Untreated Celiac disease.\n* Patients with Graves disease unless previously adequately treated with radioiodine ablative therapy.\n* Family or personal history of multiple endocrine neoplasia type 2 or medullary thyroid carcinoma.\n* Hypersensitive to E. coli derived protein.\n* Clinically significant abnormal lab values during the screening period, other than those due to T1DM. Permitted ranges for selected lab values are shown in the Table below. A clinically significant abnormal value will not result in exclusion if, upon re-test, the abnormality is resolved or becomes clinically insignificant.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "45 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "James Shapiro, MD, PhD",
+          "affiliation": "University of Alberta",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alberta",
+          "city": "Edmonton",
+          "state": "Alberta",
+          "zip": "T6G 2C8",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 53.55014,
+            "lon": -113.46871
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C088327",
+          "term": "plerixafor"
+        },
+        {
+          "id": "D000074323",
+          "term": "Alemtuzumab"
+        },
+        {
+          "id": "D053590",
+          "term": "Interleukin 1 Receptor Antagonist Protein"
+        },
+        {
+          "id": "D000068800",
+          "term": "Etanercept"
+        },
+        {
+          "id": "D000069450",
+          "term": "Liraglutide"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        },
+        {
+          "id": "D016207",
+          "term": "Cytokines"
+        },
+        {
+          "id": "D036341",
+          "term": "Intercellular Signaling Peptides and Proteins"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        },
+        {
+          "id": "D007141",
+          "term": "Immunoglobulin Fc Fragments"
+        },
+        {
+          "id": "D007128",
+          "term": "Immunoglobulin Fragments"
+        },
+        {
+          "id": "D010446",
+          "term": "Peptide Fragments"
+        },
+        {
+          "id": "D007127",
+          "term": "Immunoglobulin Constant Regions"
+        },
+        {
+          "id": "D018124",
+          "term": "Receptors, Tumor Necrosis Factor"
+        },
+        {
+          "id": "D018121",
+          "term": "Receptors, Cytokine"
+        },
+        {
+          "id": "D011971",
+          "term": "Receptors, Immunologic"
+        },
+        {
+          "id": "D011956",
+          "term": "Receptors, Cell Surface"
+        },
+        {
+          "id": "D008565",
+          "term": "Membrane Proteins"
+        },
+        {
+          "id": "D052216",
+          "term": "Glucagon-Like Peptide 1"
+        },
+        {
+          "id": "D004763",
+          "term": "Glucagon-Like Peptides"
+        },
+        {
+          "id": "D052336",
+          "term": "Proglucagon"
+        },
+        {
+          "id": "D005768",
+          "term": "Gastrointestinal Hormones"
+        },
+        {
+          "id": "D006728",
+          "term": "Hormones"
+        },
+        {
+          "id": "D006730",
+          "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

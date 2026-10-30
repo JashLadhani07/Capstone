@@ -1,0 +1,260 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03287492",
+      "orgStudyIdInfo": {
+        "id": "2017-0028"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2018-01052",
+          "type": "REGISTRY",
+          "domain": "CTRP (Clinical Trial Reporting Program)"
+        },
+        {
+          "id": "2017-0028",
+          "type": "OTHER",
+          "domain": "M D Anderson Cancer Center"
+        }
+      ],
+      "organization": {
+        "fullName": "M.D. Anderson Cancer Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "RCT of QPS vs General Information Sheet",
+      "officialTitle": "A Randomized Controlled Trial of Two Different Information Materials in Patients With Advanced Cancer"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-07",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-09-25",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2017-09-15",
+      "studyFirstSubmitQcDate": "2017-09-15",
+      "studyFirstPostDateStruct": {
+        "date": "2017-09-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-07-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-07-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "M.D. Anderson Cancer Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Cancer Institute (NCI)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This trial studies how well information materials work in helping communication between physicians and participants with cancer that has spread to other places in the body and their caregivers. Approaches that encourage participants to actively participate and ask appropriate questions during their visit may be important to enhance their understanding of their illness and empower them to make important decisions regarding their medical care.",
+      "detailedDescription": "PRIMARY OBJECTIVES:\n\nI. To compare patients' perception of helpfulness in communicating with their physicians between a question prompt sheet (QPS) and a general information sheet (GIS).\n\nSECONDARY OBJECTIVES:\n\nI. To compare caregivers' perception of helpfulness in communicating with their physicians between the QPS and the GIS.\n\nII. To examine the level of patients' and caregivers' overall satisfaction with the consultation with the use of the QPS versus the GIS.\n\nIII. To examine physicians' views about the information material and overall satisfaction with the use of the QPS versus the GIS.\n\nIV. To explore how the use of QPS affects the average speaking time of patient or physician during the consultation visit.\n\nV. To establish demographic and clinical predictors of patients' perception of helpfulness of a QPS.\n\nVI. To examine the overall patients' preference between the QPS and GIS in an open label phase.\n\nVII. To compare the change in patient anxiety state with the use of the QPS versus the GIS.\n\nVIII. To explore the factors underlying patients' preferences for the QPS or GIS.\n\nOUTLINE: Participants are randomized into 1 of 2 groups.\n\nGROUP I: Participants receive QPS and answer questions from physician. At follow up visit, participants receive both QPS and GIS.\n\nGROUP II: Participants receive GIS and answer questions from physician. At follow up visit, participants receive both QPS and GIS."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Advanced Malignant Neoplasm",
+        "Caregiver",
+        "Physician"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 207,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group I (QPS)",
+          "type": "EXPERIMENTAL",
+          "description": "Participants receive QPS and answer questions from physician. At follow up visit, participants receive both QPS and GIS.",
+          "interventionNames": [
+            "Other: Informational Intervention",
+            "Other: Questionnaire Administration"
+          ]
+        },
+        {
+          "label": "Group II (GIS)",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants receive GIS and answer questions from physician. At follow up visit, participants receive both QPS and GIS.",
+          "interventionNames": [
+            "Other: Informational Intervention",
+            "Other: Questionnaire Administration"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Informational Intervention",
+          "description": "Receive QPS",
+          "armGroupLabels": [
+            "Group I (QPS)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Informational Intervention",
+          "description": "Receive GIS",
+          "armGroupLabels": [
+            "Group II (GIS)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Questionnaire Administration",
+          "description": "Ancillary studies",
+          "armGroupLabels": [
+            "Group I (QPS)",
+            "Group II (GIS)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Patients' perception of helpfulness (0-10 scale) in communicating with their physicians after the first consultation visit",
+          "description": "Standard statistics including mean, standard deviation, median, range, frequency and percentage will be summarized for variables of interest, such as patients' demographics, clinical characteristics, anxiety state, patients'/caregivers' views about the information material, patients' satisfaction, physicians' views about the information material and consultation, patients' preferences for information, patient preferences for level of involvement in decision-making and patients' overall preference between the question prompt sheet (QPS) and the general information sheet (GIS) at the follow-up visit. Two sample t-test or Wilcoxon rank sum test, whichever appropriate, will be used to compare continuous variables of interest between the QPS and the GIS. Chi-squared test or Fisher's exact test, whichever appropriate, will be used to test for associations between categorical variables and helpfulness of information material.",
+          "timeFrame": "Up to 3 years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Caregivers' perception of helpfulness in communicating with their physicians",
+          "description": "Sample t-test or Wilcoxon rank sum test, whichever appropriate, will be used.",
+          "timeFrame": "Up to 3 years"
+        },
+        {
+          "measure": "Patients'/caregivers' overall satisfaction with the consultation",
+          "description": "Sample t-test or Wilcoxon rank sum test, whichever appropriate, will be used.",
+          "timeFrame": "Up to 3 years"
+        },
+        {
+          "measure": "Physician's view/overall satisfaction about the information material",
+          "description": "Sample t-test or Wilcoxon rank sum test, whichever appropriate, will be used.",
+          "timeFrame": "Up to 3 years"
+        },
+        {
+          "measure": "Average speaking time of patient or physician during the consultation visit affected by QPS",
+          "description": "Two sample t-test or Wilcoxon rank sum test, whichever appropriate, will be used to compare the average speaking time of patient or physician during the consultation visit. Also, general linear model will be applied to assess the effect of QPS on the average speaking time adjusting for clinically and/or statistically important factors.",
+          "timeFrame": "Up to 3 years"
+        },
+        {
+          "measure": "Overall patients' preference between the QPS and GIS in an open label phase",
+          "description": "Will estimate the preference of information material with 95% confidence intervals. Also, univariate/multicovariate logistic regression will be used to evaluate patients' demographic and clinical factors on overall patients' preference between QPS and GIS.",
+          "timeFrame": "Up to 3 years"
+        },
+        {
+          "measure": "Change in patient anxiety state scores before and after consultation between the QPS and the GIS",
+          "description": "Sample t-test or Wilcoxon rank sum test, whichever appropriate, will be used.",
+          "timeFrame": "Baseline up to 6 weeks"
+        },
+        {
+          "measure": "Demographic and clinical predictors of patients' perception of helpfulness of a QPS",
+          "description": "Univariate/multicovariate logistic regression will be used to evaluate patients' demographic and clinical factors on patients' perception of helpfulness of QPS when dichotomizing the answer to the question 3 in the Patient/Caregiver Assessment Questionnaire (\"Agree/Strongly Agree\"=Helpful versus the rest).",
+          "timeFrame": "Up to 3 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* (Patient participation) First outpatient consultation visit with a palliative care specialist\n* (Patient participation) Normal cognitive status, defined as a normal state of arousal and an absence of obvious clinical findings of confusion, memory deficits or concentration deficits, as determined by the patient's physician\n* (Patient participation) Ability to read and communicate in English\n* (Patient participation) Diagnosis of advanced cancer\n* (Patient participation) Signed written informed consent form\n* (Caregiver participation) accompanied the patient to the clinic visit\n* (Caregiver participation) is identified by the patient as someone who is actively involved in their overall care\n* (Caregiver participation) is able to read and communicate in English\n* (Caregiver participation) is willing to participate in the study and able to complete the questionnaires\n* (Physician participation) a palliative medicine specialist\n* (Physician participation) seeing the patient in consultation on the day of the study\n* (Physician participation) willing to participate in the study\n\nExclusion Criteria:\n\n* Refusal to participate in the study",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Joseph A Arthur",
+          "affiliation": "M.D. Anderson Cancer Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "M D Anderson Cancer Center",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "37129892",
+          "type": "DERIVED",
+          "citation": "Arthur J, Pawate V, Lu Z, Yennurajalingam S, Azhar A, Reddy A, Epner D, Hui D, Tanco K, Delgado Guay MO, Vidal M, Chen M, Bruera E. Helpfulness of Question Prompt Sheet for Patient-Physician Communication Among Patients With Advanced Cancer: A Randomized Clinical Trial. JAMA Netw Open. 2023 May 1;6(5):e2311189. doi: 10.1001/jamanetworkopen.2023.11189."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "University of Texas MD Anderson Cancer Center Website",
+          "url": "http://www.mdanderson.org"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    }
+  },
+  "hasResults": false
+}

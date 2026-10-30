@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Local Database | MOSAIC{% endblock %}
+{% block breadcrumb %}Local Database{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">RAW DATA EXPLORER</p>
+        <h1>Local <span>Database</span></h1>
+        <p class="page-description">A complete index of all processed JSON files in the system storage.</p>
+    </div>
+</section>
+
+<section class="content-card">
+    <div class="card-header">
+        <div>
+            <h3>Processed File Index</h3>
+            <p>All JSON records found in data/processed/</p>
+        </div>
+    </div>
+    <div id="db-list" class="review-list">
+        <p class="loading-cell">Scanning local storage...</p>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', path='js/db_explorer.js') }}"></script>
+{% endblock %}

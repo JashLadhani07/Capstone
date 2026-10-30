@@ -1,0 +1,1406 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02895464",
+      "orgStudyIdInfo": {
+        "id": "LS1311-1462"
+      },
+      "organization": {
+        "fullName": "Karolinska Institutet",
+        "class": "OTHER"
+      },
+      "briefTitle": "Feasibility of Home-based Preoperative Exercise in Older People",
+      "officialTitle": "Preoperative Home-based Exercise in Older People Before Colorectal Surgery - a Feasibility Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-06-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-06-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-08-09",
+      "studyFirstSubmitQcDate": "2016-09-05",
+      "studyFirstPostDateStruct": {
+        "date": "2016-09-09",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2022-09-22",
+      "resultsFirstSubmitQcDate": "2025-03-24",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-03-25",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-24",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-25",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Elisabeth Rydwik",
+        "investigatorTitle": "Associate professor",
+        "investigatorAffiliation": "Karolinska Institutet"
+      },
+      "leadSponsor": {
+        "name": "Karolinska Institutet",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Stockholm South General Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the study is to evaluate the feasibility of recruitment procedure, intervention including compliance and the collaboration between in- and out patient clinics of preoperative home-based exercise in older people before colorectal surgery.",
+      "detailedDescription": "The feasibility study will be conducted in order to evaluate the study design of a future RCT. Feasibility data will eg. consist of study flow description, number of eligible participants, included participants, patients and instructors satisfaction with the intervention, training compliance, reasons for drop-outs, and adverse events.\n\nPatients waiting for colorectal surgery will be recruited and included after informed consent. Physical and respiratory function will be assessed at the hospital before the intervention, the day before surgery and the day before discharge. Data on postoperative complications, length of stay and mortality will be collected during the hospital stay. At baseline and six months after surgery, the participants will receive three questionnaires about level of independence in daily living, physical activity and health related quality of life. The intervention will be performed in the older person's home and consists of a combination of high-intensity respiratory training and individually adjusted functional exercise. Both groups will receive physical activity advice and malnutrition will be screened to optimize their nutritional status."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Colorectal Cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 23,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Exercise group",
+          "type": "EXPERIMENTAL",
+          "description": "The sessions will be led by a physiotherapist, in the older person's home. The sessions will consist of inspiratory muscle training with a resistance starting from 50% of their maximal capacity (30 breathes, 2 times/day). The training session will also consist of high-intensity individually adjusted functional strength and endurance training: chair-stand; stair climb/step up with weight belts, interval walking indoor and/or outdoor. This will be combined with functional task-exercises. The training will be conducted 2-3 times week, for at least two weeks or until they undergo surgery. During the remaining days, the participants will be instructed to follow the recommendation of 30 minutes of moderate physical activity per day, as well as to perform inspiratory muscle training.",
+          "interventionNames": [
+            "Other: Exercise"
+          ]
+        },
+        {
+          "label": "Control group",
+          "type": "OTHER",
+          "description": "The participants will receive ordinary preoperative information, but will also be encouraged to follow the recommendation of 150 minutes/week of moderate physical activity.",
+          "interventionNames": [
+            "Other: Exercise"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Exercise",
+          "description": "The sessions will be led by a physiotherapist, in the older person's home. The sessions will consist of inspiratory muscle training with a resistance starting from 50% of their maximal capacity (30 breathes, 2 times/day). The training session will also consist of high-intensity individually adjusted functional strength and endurance training: chair-stand; stair climb/step up with weight belts, interval walking indoor and/or outdoor. This will be combined with functional task-exercises. The training will be conducted 2-3 times week, for at least two weeks or until they undergo surgery. During the remaining days, the participants will be instructed to follow the recommendation of 30 minutes of moderate physical activity per day, as well as to perform inspiratory muscle training.",
+          "armGroupLabels": [
+            "Control group",
+            "Exercise group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Recruitment Rate",
+          "description": "The recruitment rate is calculated by the number of participants allocated to either the exercise group or control group from the total number of eligible participants (n=66).",
+          "timeFrame": "Baseline"
+        },
+        {
+          "measure": "Exercise Compliance",
+          "description": "Compliance with the exercise intervention was defined as the number of sessions attended out of planned sessions and was registered in the exercise logs by the physiotherapists in primary care. Only participants randomized to the exercise group were evaluated for this assessment.",
+          "timeFrame": "At the end of the intervention, after 2-4 weeks"
+        },
+        {
+          "measure": "Acceptability",
+          "description": "Patients and instructors satisfaction with the intervention measured with a survey. Instructors were not enrolled. Only participants randomized to the exercise group were evaluated for this assessment.",
+          "timeFrame": "At the end of the intervention, after 2-4 weeks"
+        },
+        {
+          "measure": "Adverse Events",
+          "description": "Musculoskeletal-related events, cardiovascular episodes, falls and health care use that occurred during the exercise intervention before (pre)-surgery. Adverse events are only reported for the intervention group since the control group were a treatment as usual (TAU) group.",
+          "timeFrame": "During the intervention, after 1-4 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Six-minute Walk",
+          "description": "Meters completed, effort estimated",
+          "timeFrame": "Baseline, before surgery (after 2-4 weeks), before discharge app 4-10 days after surgery"
+        },
+        {
+          "measure": "Inspiratory Muscle Strength",
+          "description": "Inspiratory muscle strength measured with MicroRPM.",
+          "timeFrame": "Baseline, before surgery (after 2-4 weeks), before discharge app 4-10 days after surgery"
+        },
+        {
+          "measure": "Chair-stand 30-sec",
+          "description": "Number of stands during 30 sec.",
+          "timeFrame": "Baseline, before surgery (after 2-4 weeks), before discharge app 4-10 days after surgery"
+        },
+        {
+          "measure": "Walking Speed",
+          "description": "Normal walking speed was measured over 10 meters.",
+          "timeFrame": "Baseline, before surgery (after 2-4 weeks), before discharge app 4-10 days after surgery"
+        },
+        {
+          "measure": "Postoperative Complications",
+          "description": "Clavien-Dindo, number of participants with at least one postoperative complication.",
+          "timeFrame": "Within the first 30 days of surgery"
+        },
+        {
+          "measure": "Length of Stay",
+          "description": "Number of days admitted to the hospital",
+          "timeFrame": "At discharge, 2-4 weeks after baseline"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age above 70, understand and speaks the Swedish language. Surgery due to cancer\n\nExclusion Criteria:\n\n* Health status that contradicts participation in the study such as unstable heart disease or severe orthopaedic conditions that prohibits training and severe systematic illness.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "70 Years",
+      "stdAges": [
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Elisabeth Rydwik, PhD",
+          "affiliation": "Karolinska Institutet",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Stockholm South General Hospital",
+          "city": "Stockholm",
+          "zip": "11883",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 59.32938,
+            "lon": 18.06871
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "31265476",
+          "type": "RESULT",
+          "citation": "Karlsson E, Farahnak P, Franzen E, Nygren-Bonnier M, Dronkers J, van Meeteren N, Rydwik E. Feasibility of preoperative supervised home-based exercise in older adults undergoing colorectal cancer surgery - A randomized controlled design. PLoS One. 2019 Jul 2;14(7):e0219158. doi: 10.1371/journal.pone.0219158. eCollection 2019."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Feasibility of preoperative supervised homebased exercise in older adults undergoing colorectal cancer surgery - A randomized controlled design",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219158"
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "There were 66 eligible participants. Of those 66, 43 declined to participate due to: they did not want to delay surgery (n=6), felt it was too much stress (n=12), additional hospital visit (n=10), already exercising (n=3), no reason given (n=10), and could not be reached (n=2).",
+      "recruitmentDetails": "Patients scheduled for colorectal cancer surgery at Stockholm South General Hospital were informed about the study and asked to participate. The screening for inclusion was undertaken from September 2016 to June 2018 by a surgeon and nurse at the weekly colorectal cancer conferences (CRC).",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Exercise Group",
+          "description": "The sessions will be led by a physiotherapist, in the older person's home. The sessions will consist of inspiratory muscle training with a resistance starting from 50% of their maximal capacity (30 breathes, 2 times/day). The training session will also consist of high-intensity individually adjusted functional strength and endurance training: chair-stand; stair climb/step up with weight belts, interval walking indoor and/or outdoor. This will be combined with functional task-exercises. The training will be conducted 2-3 times week, for at least two weeks or until they undergo surgery. During the remaining days, the participants will be instructed to follow the recommendation of 30 minutes of moderate physical activity per day, as well as to perform inspiratory muscle training."
+        },
+        {
+          "id": "FG001",
+          "title": "Control Group",
+          "description": "The participants will receive ordinary preoperative information, but will also be encouraged to follow the recommendation of 150 minutes/week of moderate physical activity."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Baseline",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "12"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Follow-up",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Exercise Group",
+          "description": "The sessions will be led by a physiotherapist, in the older person's home. The sessions will consist of inspiratory muscle training with a resistance starting from 50% of their maximal capacity (30 breathes, 2 times/day). The training session will also consist of high-intensity individually adjusted functional strength and endurance training: chair-stand; stair climb/step up with weight belts, interval walking indoor and/or outdoor. This will be combined with functional task-exercises. The training will be conducted 2-3 times week, for at least two weeks or until they undergo surgery. During the remaining days, the participants will be instructed to follow the recommendation of 30 minutes of moderate physical activity per day, as well as to perform inspiratory muscle training."
+        },
+        {
+          "id": "BG001",
+          "title": "Control Group",
+          "description": "The participants will receive ordinary preoperative information, but will also be encouraged to follow the recommendation of 150 minutes/week of moderate physical activity."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "10"
+            },
+            {
+              "groupId": "BG001",
+              "value": "11"
+            },
+            {
+              "groupId": "BG002",
+              "value": "21"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "83.5",
+                      "lowerLimit": "76",
+                      "upperLimit": "85"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "74",
+                      "lowerLimit": "73",
+                      "upperLimit": "76"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "76",
+                      "lowerLimit": "73",
+                      "upperLimit": "84"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Sweden",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Type of surgery approach",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Open",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Laparoscopic",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Recruitment Rate",
+          "description": "The recruitment rate is calculated by the number of participants allocated to either the exercise group or control group from the total number of eligible participants (n=66).",
+          "populationDescription": "The number of participants allocated to each group \\[exercise group (n=11), control group (n=12), overall study (n=23)\\] by the total number of eligible participants (n=66).",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Overall Study",
+              "description": "Total for the exercise group and control group."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "66"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Exercise",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Control",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Exercise Compliance",
+          "description": "Compliance with the exercise intervention was defined as the number of sessions attended out of planned sessions and was registered in the exercise logs by the physiotherapists in primary care. Only participants randomized to the exercise group were evaluated for this assessment.",
+          "populationDescription": "The number of planned sessions and attended sessions.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_UNITS",
+          "unitOfMeasure": "Number of exercise sessions",
+          "timeFrame": "At the end of the intervention, after 2-4 weeks",
+          "typeUnitsAnalyzed": "Number of exercise sessions",
+          "denomUnitsSelected": "Number of exercise sessions",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Planned Exercise Sessions",
+              "description": "The total number of planned sessions that were included in the exercise intervention."
+            },
+            {
+              "id": "OG001",
+              "title": "Attended Exercise Sessions",
+              "description": "The total number of attended sessions in the exercise intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            },
+            {
+              "units": "Number of exercise sessions",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Acceptability",
+          "description": "Patients and instructors satisfaction with the intervention measured with a survey. Instructors were not enrolled. Only participants randomized to the exercise group were evaluated for this assessment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At the end of the intervention, after 2-4 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients",
+              "description": "Satisfaction with participating in the exercise program."
+            },
+            {
+              "id": "OG001",
+              "title": "Instructors",
+              "description": "Satisfaction with instructing the exercise program."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Adverse Events",
+          "description": "Musculoskeletal-related events, cardiovascular episodes, falls and health care use that occurred during the exercise intervention before (pre)-surgery. Adverse events are only reported for the intervention group since the control group were a treatment as usual (TAU) group.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "During the intervention, after 1-4 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Exercise Group",
+              "description": "The sessions will be led by a physiotherapist, in the older person's home. The sessions will consist of inspiratory muscle training with a resistance starting from 50% of their maximal capacity (30 breathes, 2 times/day). The training session will also consist of high-intensity individually adjusted functional strength and endurance training: chair-stand; stair climb/step up with weight belts, interval walking indoor and/or outdoor. This will be combined with functional task-exercises. The training will be conducted 2-3 times week, for at least two weeks or until they undergo surgery. During the remaining days, the participants will be instructed to follow the recommendation of 30 minutes of moderate physical activity per day, as well as to perform inspiratory muscle training."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Six-minute Walk",
+          "description": "Meters completed, effort estimated",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "meter",
+          "timeFrame": "Baseline, before surgery (after 2-4 weeks), before discharge app 4-10 days after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Exercise Group",
+              "description": "Intervention group"
+            },
+            {
+              "id": "OG001",
+              "title": "Control Group",
+              "description": "Treatment as usual, advice on physical activity"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15",
+                      "lowerLimit": "-29",
+                      "upperLimit": "46"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-4",
+                      "lowerLimit": "-16",
+                      "upperLimit": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Inspiratory Muscle Strength",
+          "description": "Inspiratory muscle strength measured with MicroRPM.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "cm H2O",
+          "timeFrame": "Baseline, before surgery (after 2-4 weeks), before discharge app 4-10 days after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Exercise Group",
+              "description": "Intervention group"
+            },
+            {
+              "id": "OG001",
+              "title": "Control Gorup",
+              "description": "Treatment as usual, advice on physical activity"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17",
+                      "lowerLimit": "7",
+                      "upperLimit": "25"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-2",
+                      "lowerLimit": "-6",
+                      "upperLimit": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Chair-stand 30-sec",
+          "description": "Number of stands during 30 sec.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Stands per 30 sec",
+          "timeFrame": "Baseline, before surgery (after 2-4 weeks), before discharge app 4-10 days after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Exercise Group",
+              "description": "Intervention group"
+            },
+            {
+              "id": "OG001",
+              "title": "Control Group",
+              "description": "Treatment as usual, advice on physical activity"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.5",
+                      "lowerLimit": "0",
+                      "upperLimit": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1",
+                      "lowerLimit": "-0.3",
+                      "upperLimit": "3.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Walking Speed",
+          "description": "Normal walking speed was measured over 10 meters.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "m/s",
+          "timeFrame": "Baseline, before surgery (after 2-4 weeks), before discharge app 4-10 days after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Exercise Group",
+              "description": "Intervention group"
+            },
+            {
+              "id": "OG001",
+              "title": "Control Group",
+              "description": "Treatment as usual, advice on physical activity"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.09",
+                      "lowerLimit": "0",
+                      "upperLimit": "0.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.09",
+                      "lowerLimit": "-0.002",
+                      "upperLimit": "0.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Postoperative Complications",
+          "description": "Clavien-Dindo, number of participants with at least one postoperative complication.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Within the first 30 days of surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Exercise Group",
+              "description": "Intervention group"
+            },
+            {
+              "id": "OG001",
+              "title": "Control Group",
+              "description": "Treatment as usual, advice on physical activity"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Length of Stay",
+          "description": "Number of days admitted to the hospital",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Days",
+          "timeFrame": "At discharge, 2-4 weeks after baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Exercise Group",
+              "description": "Intervention group"
+            },
+            {
+              "id": "OG001",
+              "title": "Control Group",
+              "description": "Treatment as usual, advice on physical activity"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5",
+                      "lowerLimit": "4",
+                      "upperLimit": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6",
+                      "lowerLimit": "4",
+                      "upperLimit": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Three weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Exercise Group",
+          "description": "The sessions will be led by a physiotherapist, in the older person's home. The sessions will consist of inspiratory muscle training with a resistance starting from 50% of their maximal capacity (30 breathes, 2 times/day). The training session will also consist of high-intensity individually adjusted functional strength and endurance training: chair-stand; stair climb/step up with weight belts, interval walking indoor and/or outdoor. This will be combined with functional task-exercises. The training will be conducted 2-3 times week, for at least two weeks or until they undergo surgery. During the remaining days, the participants will be instructed to follow the recommendation of 30 minutes of moderate physical activity per day, as well as to perform inspiratory muscle training.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 10
+        },
+        {
+          "id": "EG001",
+          "title": "Control Group",
+          "description": "The participants will receive ordinary preoperative information, but will also be encouraged to follow the recommendation of 150 minutes/week of moderate physical activity.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 11,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 11,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 11
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Dizziness",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Joint pain",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 11
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr Elisabeth Rydwik",
+        "organization": "Karolinska Institutet",
+        "email": "elisabeth.rydwik@ki.se",
+        "phone": "+46852488818"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "noSap": true,
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2016-08-26",
+          "uploadDate": "2022-09-22T01:43",
+          "filename": "Prot_000.pdf",
+          "size": 232874
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015179",
+          "term": "Colorectal Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007414",
+          "term": "Intestinal Neoplasms"
+        },
+        {
+          "id": "D005770",
+          "term": "Gastrointestinal Neoplasms"
+        },
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D003108",
+          "term": "Colonic Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        },
+        {
+          "id": "D012002",
+          "term": "Rectal Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015444",
+          "term": "Exercise"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        },
+        {
+          "id": "D009068",
+          "term": "Movement"
+        },
+        {
+          "id": "D009142",
+          "term": "Musculoskeletal Physiological Phenomena"
+        },
+        {
+          "id": "D055687",
+          "term": "Musculoskeletal and Neural Physiological Phenomena"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

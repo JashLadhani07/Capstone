@@ -1,0 +1,323 @@
+{
+  "nct_id": "NCT07807332",
+  "title": "Supporting Stroke Caregivers With the CaknaStrok Education Package: A Feasibility Cluster Randomized Controlled Trial",
+  "sponsor": "Clinical Research Centre, Malaysia",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Stroke",
+    "Caregiving Burden",
+    "Caregiver",
+    "Caregiver Burden for Those Who Care for Adults With Impaired Functional Status",
+    "Caregiver Mental Health",
+    "Caregiver Quality of Life",
+    "Caregiver Burden",
+    "Caregiver Participation",
+    "mHealth Intervention",
+    "mHealth"
+  ],
+  "interventions": [
+    "CaknaStrok Education Package (CEP)"
+  ],
+  "primary_outcome": "Recruitment Rate",
+  "secondary_outcomes": [
+    "Caregiver Burden",
+    "Quality of Life (WHOQOL-BREF)",
+    "Psychological Well-Being"
+  ],
+  "start_date": "2024-10-01",
+  "completion_date": "2025-05-31",
+  "results_posted": false,
+  "enrollment": 113,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07807332",
+        "orgStudyIdInfo": {
+          "id": "CRCMalaysia"
+        },
+        "organization": {
+          "fullName": "Clinical Research Centre, Malaysia",
+          "class": "OTHER"
+        },
+        "briefTitle": "CaknaStrok Education Package for Stroke Caregivers",
+        "officialTitle": "Supporting Stroke Caregivers With the CaknaStrok Education Package: A Feasibility Cluster Randomized Controlled Trial",
+        "acronym": "CaknaStrok"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-09",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2024-10-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2025-05-31",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2025-08-31",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2026-09-02",
+        "studyFirstSubmitQcDate": "2026-09-02",
+        "studyFirstPostDateStruct": {
+          "date": "2026-09-08",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-09-06",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-09-10",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "NORSIMA NAZIFAH BINTI SIDEK",
+          "investigatorTitle": "Research Pharmacist",
+          "investigatorAffiliation": "Clinical Research Centre, Malaysia"
+        },
+        "leadSponsor": {
+          "name": "Clinical Research Centre, Malaysia",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Universiti Sains Malaysia",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study evaluated the feasibility and potential effectiveness of the CaknaStrok Education Package (CEP), a culturally tailored education package developed to support informal caregivers of stroke survivors. The package consists of a mobile health application and a Malay-language caregiving guidebook covering stroke knowledge, caregiving strategies, rehabilitation, nutrition, secondary prevention and caregiver self-care. The study compared caregivers receiving the CaknaStrok Education Package in addition to usual care with those receiving usual care alone. The study assessed outcomes related to caregiving burden, quality of life and psychological well-being, as well as the feasibility of implementing the intervention within routine stroke care.",
+        "detailedDescription": "The CaknaStrok Education Package (CEP) is a culturally tailored, blended digital and print educational intervention developed to support informal caregivers of stroke survivors in Malaysia. The intervention consists of the CaknaStrok mobile application and a Malay-language caregiving guidebook. The mobile application provides video-based caregiving guidance, stress self-assessment, Barthel Index tracking, stroke-related resources and communication with the research team. The guidebook consists of six modules covering stroke knowledge, caregiving strategies, rehabilitation exercises, nutrition, secondary prevention and caregiver self-care.\n\nThis study adopted a feasibility cluster randomized trial design and was conducted at six hospitals representing different regions of Malaysia: Hospital Raja Perempuan Zainab II, Hospital Sultanah Nur Zahirah, Hospital Seberang Jaya, Hospital Umum Sarawak, Hospital Sultanah Aminah and Hospital Sungai Buloh. The study was conducted from 1 October 2024 to 31 August 2025.\n\nInformal caregivers of stroke survivors were recruited during the patients' hospital admission. Eligible caregivers were adults aged 18 years or older who were spouses, family members or relatives providing informal care to stroke patients with acute stroke and a Modified Rankin Scale score of 4-5.\n\nParticipants in the intervention group received the CaknaStrok Education Package in addition to usual care, while participants in the control group received usual caregiver education provided as part of routine clinical care.\n\nThe study evaluated the feasibility of the intervention and its potential effects on caregivers' psychosocial outcomes, including caregiving burden, quality of life and psychological well-being."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Stroke",
+          "Caregiving Burden",
+          "Caregiver",
+          "Caregiver Burden for Those Who Care for Adults With Impaired Functional Status",
+          "Caregiver Mental Health",
+          "Caregiver Quality of Life",
+          "Caregiver Burden",
+          "Caregiver Participation",
+          "mHealth Intervention",
+          "mHealth"
+        ],
+        "keywords": [
+          "Stroke",
+          "Stroke caregivers",
+          "Informal Caregivers",
+          "mHealth",
+          "Caknastrok"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "interventionModelDescription": "Participants were assigned by cluster to either the CaknaStrok Education Package intervention group or usual care control group and followed concurrently.",
+          "primaryPurpose": "OTHER",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "whoMasked": [
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 113,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "CaknaStrok Education Package",
+            "type": "EXPERIMENTAL",
+            "description": "Participants received the CaknaStrok Education Package in addition to usual care. The package comprised the CaknaStrok mobile application and a Malay-language printed caregiving guidebook, providing education and support on stroke care, rehabilitation, nutrition, secondary prevention, and caregiver self-care.",
+            "interventionNames": [
+              "Behavioral: CaknaStrok Education Package (CEP)"
+            ]
+          },
+          {
+            "label": "Usual Care",
+            "type": "NO_INTERVENTION",
+            "description": "Participants received the usual stroke care and caregiver education provided as part of routine clinical practice, without the CaknaStrok Education Package."
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "CaknaStrok Education Package (CEP)",
+            "description": "The CaknaStrok Education Package (CEP) is a culturally tailored blended digital and print intervention for Malaysian stroke caregivers. It comprises a trilingual mobile application (Malay, English and Mandarin) with caregiving videos, stress self-assessment, Barthel Index tracking, stroke resources and communication with the research team, together with a Malay-language guidebook covering stroke knowledge, caregiving strategies, rehabilitation, nutrition, secondary prevention and caregiver self-care. Participants received a briefing and hands-on training for app installation and use, with technical assistance as needed, and continued access to the CEP for three months.",
+            "armGroupLabels": [
+              "CaknaStrok Education Package"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Recruitment Rate",
+            "description": "Number and proportion of eligible caregivers who consented to participate in the study.",
+            "timeFrame": "From initiation of recruitment until completion of recruitment"
+          },
+          {
+            "measure": "Participant Retention Rate",
+            "description": "Proportion of enrolled participants who completed the scheduled follow-up assessments.",
+            "timeFrame": "Months 1, 2, and 3 after baseline"
+          },
+          {
+            "measure": "Outcome Measure Completion Rate",
+            "description": "Proportion of participants who completed the scheduled outcome assessments.",
+            "timeFrame": "Baseline and Months 1, 2, and 3"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Caregiver Burden",
+            "description": "Caregiver burden was assessed using the Malay Zarit Burden Interview (MZBI), a 22-item scale with total scores ranging from 0 to 88, with higher scores indicating greater caregiver burden (worse outcome).",
+            "timeFrame": "Baseline, Month 1, Month 2, and Month 3"
+          },
+          {
+            "measure": "Quality of Life (WHOQOL-BREF)",
+            "description": "Quality of life was assessed using the Malay World Health Organization Quality of Life-BREF (WHOQOL-BREF), comprising four domains: Physical Health, Psychological Health, Social Relationships, and Environment. Each domain is scored on a 0-100 scale, with higher scores indicating better quality of life.",
+            "timeFrame": "Baseline, Month 1, Month 2, and Month 3"
+          },
+          {
+            "measure": "Psychological Well-Being",
+            "description": "Psychological well-being was assessed using the Depression Anxiety and Stress Scale-21 (DASS-21), comprising three subscales: Depression, Anxiety, and Stress. Each subscale consists of 7 items, with scores ranging from 0 to 21 (or 0-42 when multiplied by 2), with higher scores indicating greater psychological distress (worse outcome).",
+            "timeFrame": "Baseline, Month 1, Month 2, and Month 3"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged \u226518 years.\n* Spouse, family member, or relative of the stroke patient.\n* Informal caregiver of a patient diagnosed with acute stroke (within 14 days of stroke onset) with a Modified Rankin Scale (mRS) score of 4-5.\n* Present during the patient's hospital admission.\n* No prior caregiving experience before the current stroke event.\n* Residing at home with the stroke patient.\n\nExclusion Criteria:\n\n* Non-Malaysian/non-citizen.\n* Maid, employee, or paid caregiver.\n* Unavailable during the study period.",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "KAMARUL IMRAN MUSA, PhD",
+            "affiliation": "Universiti Sains Malaysia",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Hospital Raja Perempuan Zainab II (HRPZ), Kelantan Hospital Sultanah Nur Zahirah (HSNZ), Terengganu Hospital Seberang Jaya, Penang Hospital Umum Sarawak, Sarawak Hospital Sultanah Aminah, Johor Hospital Sungai Buloh, Selangor",
+            "city": "Kuala Terengganu",
+            "state": "Terengganu",
+            "zip": "21400",
+            "country": "Malaysia",
+            "geoPoint": {
+              "lat": 5.3302,
+              "lon": 103.1408
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO",
+        "description": "Individual participant-level data will not be shared to protect participant confidentiality and comply with applicable data protection and ethical requirements."
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot_SAP",
+            "hasProtocol": true,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Study Protocol and Statistical Analysis Plan",
+            "date": "2024-07-22",
+            "uploadDate": "2026-09-02T02:35",
+            "filename": "Prot_SAP_000.pdf",
+            "size": 204181
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D020521",
+            "term": "Stroke"
+          },
+          {
+            "id": "D000084802",
+            "term": "Caregiver Burden"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002561",
+            "term": "Cerebrovascular Disorders"
+          },
+          {
+            "id": "D001927",
+            "term": "Brain Diseases"
+          },
+          {
+            "id": "D002493",
+            "term": "Central Nervous System Diseases"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D013315",
+            "term": "Stress, Psychological"
+          },
+          {
+            "id": "D001526",
+            "term": "Behavioral Symptoms"
+          },
+          {
+            "id": "D001519",
+            "term": "Behavior"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378832"
+}

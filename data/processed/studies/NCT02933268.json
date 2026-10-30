@@ -1,0 +1,344 @@
+{
+  "nct_id": "NCT02933268",
+  "title": "Determining Feasibility of Randomisation to High vs ad Libitum Water Intake in Polycystic Kidney Disease: The DRINK Randomised Feasibility Trial",
+  "sponsor": "Cambridge University Hospitals NHS Foundation Trust",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Autosomal Dominant Polycystic Kidney Disease"
+  ],
+  "interventions": [
+    "High water intake",
+    "Ad libitum water intake"
+  ],
+  "primary_outcome": "The proportion of patients achieving a urine osmolality < 270 mOsm/kg",
+  "secondary_outcomes": [
+    "Urine osmolality",
+    "Proportion of participants that can self-monitor and report urine specific gravity reliably",
+    "Proportion of patients experiencing a serious adverse event",
+    "Acute change in estimated GFR",
+    "Health-Related Quality of Life (HRQoL)",
+    "Recruitment rate"
+  ],
+  "start_date": "2016-09-26",
+  "completion_date": "2018-03-31",
+  "results_posted": false,
+  "enrollment": 42,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02933268",
+        "orgStudyIdInfo": {
+          "id": "203565"
+        },
+        "organization": {
+          "fullName": "Cambridge University Hospitals NHS Foundation Trust",
+          "class": "OTHER"
+        },
+        "briefTitle": "High Water Intake in Polycystic Kidney Disease",
+        "officialTitle": "Determining Feasibility of Randomisation to High vs ad Libitum Water Intake in Polycystic Kidney Disease: The DRINK Randomised Feasibility Trial",
+        "acronym": "DRINK"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2019-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2016-09-26",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2018-03-31",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2018-07-31",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2016-09-18",
+        "studyFirstSubmitQcDate": "2016-10-12",
+        "studyFirstPostDateStruct": {
+          "date": "2016-10-14",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2019-01-13",
+        "lastUpdatePostDateStruct": {
+          "date": "2019-01-15",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Dr Thomas Hiemstra",
+          "investigatorTitle": "Honorary Consultant Nephrologist & Senior Trials Research Fellow",
+          "investigatorAffiliation": "University of Cambridge"
+        },
+        "leadSponsor": {
+          "name": "Cambridge University Hospitals NHS Foundation Trust",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "PKD Charity",
+            "class": "UNKNOWN"
+          },
+          {
+            "name": "Addenbrookes Charitable Trust",
+            "class": "OTHER"
+          },
+          {
+            "name": "British Renal Society & British Kidney Patient Association",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "DRINK is an open-label randomised controlled feasibility trial of high versus ad libitum water intake in ADPKD.",
+        "detailedDescription": "Autosomal Dominant Polycystic Kidney Disease (PKD) affects 12.5 million people worldwide, and accounts for 7% of those requiring renal replacement therapy. The hormone vasopressin drives cyst growth until ultimately most of the normal functioning kidney tissue is replaced and compressed by cysts over the life course. Half of those affected will require dialysis by the age of 55 years.\n\nVasopressin blockade has emerged as a viable strategy for altering disease course. High water intake suppresses vasopressin, and may therefore slow cyst growth and consequent disease progression. However, evidence to support high water intake in PKD is lacking, and it is not clear whether patients can adhere sufficiently to a high water intake.\n\nDRINK is a single-centre prospective, open label, parallel group randomised controlled feasibility trial. The primary objective is to establish whether a definitive large randomised trial comparing high versus ad libitum water intake on long-term disease progression is deliverable. Fifty patients will be recruited from the Renal Genetics service at Addenbrooke's Hospital. Participants will be randomly allocated to the high water intake (high) or the ad libitum (standard) water intake group. For the high intake group the aim is to drink large enough volumes of water to achieve and maintain dilute urine (urine osmolality \\< 270 mOsmo/kg or urine specific gravity \u2264 1.010 ). Multiple methods will be employed to promote adherence these include instruction and education as well as self-monitoring of urine specific gravity twice weekly by participants and the recording of results via a trial specific smartphone application."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Autosomal Dominant Polycystic Kidney Disease"
+        ],
+        "keywords": [
+          "Autosomal Dominant Polycystic Kidney Disease",
+          "Polycystic Kidney Disease",
+          "ADPKD",
+          "Water",
+          "Vasopressin",
+          "Dietary"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 42,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Ad libitum water intake",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Ad libitum water intake, defined as intake guided by thirst to achieve a target urine osmolality \\> 300 mOsmo/kg",
+            "interventionNames": [
+              "Other: Ad libitum water intake"
+            ]
+          },
+          {
+            "label": "High water intake",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Personalised daily water intake prescription to achieve target urine osmolality \\< 270 mOsm/kg.",
+            "interventionNames": [
+              "Dietary Supplement: High water intake"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "High water intake",
+            "description": "High water intake aimed at achieving an urine osmolality \\< 270mOsmo/kg. Individualised prescription for each participant based on the free water clearance formula calculation.",
+            "armGroupLabels": [
+              "High water intake"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Ad libitum water intake",
+            "description": "Water intake guided by thirst",
+            "armGroupLabels": [
+              "Ad libitum water intake"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "The proportion of patients achieving a urine osmolality < 270 mOsm/kg",
+            "timeFrame": "8 weeks"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Urine osmolality",
+            "description": "Achieved urine osmolality as a surrogate for vasopressin suppression",
+            "timeFrame": "8 weeks"
+          },
+          {
+            "measure": "Proportion of participants that can self-monitor and report urine specific gravity reliably",
+            "timeFrame": "8 weeks"
+          },
+          {
+            "measure": "Proportion of patients experiencing a serious adverse event",
+            "timeFrame": "12 weeks"
+          },
+          {
+            "measure": "Acute change in estimated GFR",
+            "description": "Evaluation of the change form baseline eGFR after 2 weeks",
+            "timeFrame": "4 weeks"
+          },
+          {
+            "measure": "Health-Related Quality of Life (HRQoL)",
+            "description": "Change from baseline HRQoL as estimated by EQ5D-5L",
+            "timeFrame": "12 weeks"
+          },
+          {
+            "measure": "Recruitment rate",
+            "timeFrame": "8 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Have given written informed consent to participate\n* Aged 16 years or older\n* Have a diagnosis of ADPKD (fulfilling radiological diagnostic criteria \u00b1 genetic evidence)\n* eGFR \u2265 20ml/min/1.73m2\n* Able to self-monitor urine SG\n\nExclusion Criteria:\n\n* Inability to provide informed consent\n* eGFR \\< 20ml/min/1.73m2\n* Fluid overload states e.g. heart failure, cirrhosis, or requirement for fluid restriction\n* Confounding illness impacting on renal disease e.g. concomitant diabetes or glomerulonephritis\n* Treatment with diuretics for fluid overload (those on diuretics for hypertension may participate in the trial after a run-in period of 2 weeks)\n* Treatment with Tolvaptan in the last 4 weeks\n* Pregnancy or breastfeeding",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "16 Years",
+        "stdAges": [
+          "CHILD",
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Thomas F Himestra",
+            "affiliation": "Cambridge University Hospital NHS Foundation Trust",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Cambridge University Hospitals NHS Foundation Trust",
+            "city": "Cambridge",
+            "zip": "CB2 0QQ",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 52.2,
+              "lon": 0.11667
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "39356039",
+            "type": "DERIVED",
+            "citation": "St Pierre K, Cashmore BA, Bolignano D, Zoccali C, Ruospo M, Craig JC, Strippoli GF, Mallett AJ, Green SC, Tunnicliffe DJ. Interventions for preventing the progression of autosomal dominant polycystic kidney disease. Cochrane Database Syst Rev. 2024 Oct 2;10(10):CD010294. doi: 10.1002/14651858.CD010294.pub3."
+          },
+          {
+            "pmid": "29743334",
+            "type": "DERIVED",
+            "citation": "El-Damanawi R, Lee M, Harris T, Mader LB, Bond S, Pavey H, Sandford RN, Wilkinson IB, Burrows A, Woznowski P, Ben-Shlomo Y, Karet Frankl FE, Hiemstra TF. Randomised controlled trial of high versus ad libitum water intake in patients with autosomal dominant polycystic kidney disease: rationale and design of the DRINK feasibility trial. BMJ Open. 2018 May 9;8(5):e022859. doi: 10.1136/bmjopen-2018-022859."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D016891",
+            "term": "Polycystic Kidney, Autosomal Dominant"
+          },
+          {
+            "id": "D007690",
+            "term": "Polycystic Kidney Diseases"
+          },
+          {
+            "id": "D003919",
+            "term": "Diabetes Insipidus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D052177",
+            "term": "Kidney Diseases, Cystic"
+          },
+          {
+            "id": "D007674",
+            "term": "Kidney Diseases"
+          },
+          {
+            "id": "D014570",
+            "term": "Urologic Diseases"
+          },
+          {
+            "id": "D052776",
+            "term": "Female Urogenital Diseases"
+          },
+          {
+            "id": "D005261",
+            "term": "Female Urogenital Diseases and Pregnancy Complications"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D052801",
+            "term": "Male Urogenital Diseases"
+          },
+          {
+            "id": "D000015",
+            "term": "Abnormalities, Multiple"
+          },
+          {
+            "id": "D000013",
+            "term": "Congenital Abnormalities"
+          },
+          {
+            "id": "D009358",
+            "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+          },
+          {
+            "id": "D000072661",
+            "term": "Ciliopathies"
+          },
+          {
+            "id": "D030342",
+            "term": "Genetic Diseases, Inborn"
+          },
+          {
+            "id": "D010900",
+            "term": "Pituitary Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718675"
+}

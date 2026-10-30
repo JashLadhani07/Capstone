@@ -1,0 +1,953 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02223793",
+      "orgStudyIdInfo": {
+        "id": "2013/1660"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "39255 (NSD)",
+          "type": "REGISTRY",
+          "domain": "Norwegian Social Science Data Services"
+        },
+        {
+          "id": "1660/2013",
+          "type": "REGISTRY",
+          "domain": "Regional committees for medical and health research ethics: South-East"
+        }
+      ],
+      "organization": {
+        "fullName": "University of Oslo",
+        "class": "OTHER"
+      },
+      "briefTitle": "Vascular Lifestyle-Intervention and Screening in Pharmacy",
+      "officialTitle": "Effects of Cardiovascular Risk Screening in Pharmacies: A Randomized Study",
+      "acronym": "VISA"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-04",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2014-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2015-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2022-02",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2014-08-18",
+      "studyFirstSubmitQcDate": "2014-08-20",
+      "studyFirstPostDateStruct": {
+        "date": "2014-08-22",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2018-09-17",
+      "resultsFirstSubmitQcDate": "2019-10-02",
+      "resultsFirstPostDateStruct": {
+        "date": "2019-10-03",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-04-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-05-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Karianne Svendsen",
+        "investigatorTitle": "PHD student",
+        "investigatorAffiliation": "University of Oslo"
+      },
+      "leadSponsor": {
+        "name": "University of Oslo",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Tromso",
+          "class": "OTHER"
+        },
+        {
+          "name": "University of Minnesota",
+          "class": "OTHER"
+        },
+        {
+          "name": "Boots Norway AS",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Mills DA",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The overall goal of the present project is to contribute to new knowledge about the effect of a low threshold population screening system for cardiovascular risk factors in Norway. Further, this project aim to study if identifying high cardiovascular risk itself may lead to beneficial changes in health behaviors such as physical activity, diet, tobacco and alcohol behavior together with reduced risk score of cardiovascular disease, across socioeconomic status. This fall, a nationwide, free screening of cardiovascular risk factors will be conducted in 150 pharmacies in Norway. All participants that consent to participate will measure full lipid-profile, blood pressure, HbA1c, body weight and height by health care providers in pharmacies. Based on their measurement levels, participants will be stratified into either a low or a high risk group. In the high risk group, participants will further be randomized to either the intervention group or one of the two control groups. Participants in the intervention group will be informed about all their measurement levels with comparison to the recommended levels. Contrary, participants randomized to the two control groups will have delayed information of their measured levels. Participants in the intervention group and the first control groups will receive general oral and written information about how to lower their measurement levels in 8 weeks. In the second control group, participants will not receive any information at the first visit. In this way the investigators may be able to isolate the effect of identifying high risk and high levels of the risk factors itself. All groups will be given a diet- and physical activity questionnaire at visit 1, and will be invited back after 8 weeks to once more perform the measurement screening and receive the same questionnaire. At visit 2, all participants will, after the measurement screening, be informed about their measured risk factors and receive information on how to lower their levels. 1 year after inclusion, all participants in the three groups will be invited back for a one-year follow up visit in pharmacy.",
+      "detailedDescription": "One year after inclusion, all participants that were not loss to follow up, or had their consent withdrawn, were invited back to pharmacies to perform the same measurements for the third time. However, at this third visit, pharmacies were randomized 1:2 to test an additional intervention. Further, an extra blood sample, dried blood spot, was taken to measure cholesterol, HbA1c and fatty acids.\n\nAbout half of the pharmacies (n=23) communicated cardiovasular disease (CVD) risk factor levels as Heart age compared to own age (British communication tool) together with tailored lifestyle advices on how to reduce elevated levels. While the other 25 pharmacies communicated CVD risk the usual way and gave general lifestyle advices on how to reduce CVD risk. 4 weeks later, all participants took dried blood spot samples at home. We will compare results from dried blood spot samples to study whether heart age and tailored lifestyle advice is more effective than general information in reducing CVD risk.\n\nThe investigators will also record social security number to make connection to central health registry as prescription registry, patient registry and cause of death registry after 2 years and 5 years."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiovascular Diseases",
+        "Hypercholesterolemia",
+        "Dyslipidemia",
+        "Hypertensive Disease",
+        "Diabetes Mellitus, Type 2"
+      ],
+      "keywords": [
+        "Vascular screening",
+        "Cardiovascular risk factors",
+        "Blood pressure",
+        "Lipids",
+        "Lifestyle",
+        "Identifying unknown risk",
+        "Low socioeconomic status",
+        "low threshold"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SCREENING",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 582,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "No information on high risk factor levels but lifestyle advice",
+          "type": "EXPERIMENTAL",
+          "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline. However, they will receive general information on how to lower risk factor levels in 8 weeks",
+          "interventionNames": [
+            "Behavioral: No information on high risk factor levels but lifestyle advice"
+          ]
+        },
+        {
+          "label": "No information on high risk factor levels nor lifestyle advice",
+          "type": "EXPERIMENTAL",
+          "description": "In this arm, participants will not be informed about their measured levels of the different cardiovascular risk factors, nor receiving lifestyle advices at baseline",
+          "interventionNames": [
+            "Behavioral: No information on high risk factor levels, nor lifestyle advice"
+          ]
+        },
+        {
+          "label": "Information on high risk factor levels and lifestyle advice",
+          "type": "EXPERIMENTAL",
+          "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline, and receive general information on how to lower risk factor levels in 8 weeks",
+          "interventionNames": [
+            "Behavioral: Information on high risk factor levels and lifestyle advice"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Information on high risk factor levels and lifestyle advice",
+          "description": "This arm of high risk participants will be informed about their measured levels of the different cardiovascular risk factors. They will also receive information on how to lower their levels in 8 weeks",
+          "armGroupLabels": [
+            "Information on high risk factor levels and lifestyle advice"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "No information on high risk factor levels but lifestyle advice",
+          "description": "In this arm, participants will have delayed information on their risk factor levels, but they will receive general advices on how to lower levels in 8 weeks",
+          "armGroupLabels": [
+            "No information on high risk factor levels but lifestyle advice"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "No information on high risk factor levels, nor lifestyle advice",
+          "description": "In this arm, participants will have delayed information on both their risk factor levels and general information on how to lower risk factor levels.",
+          "armGroupLabels": [
+            "No information on high risk factor levels nor lifestyle advice"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in ad Hoc Risk Score (Measure on a Scale From Min 4 to Max 14)",
+          "description": "The (ad hoc) risk score was a summarization of points ranging from 0 (favorable measures) , 2 (slighly unfavourable) or 4 (very unfavorable measures) assigned for each of Total cholesterol, HDL-cholesterol, HbA1c, blood pressure, body mass index and age (age was included because presence of elevated cardiovascular disease risk factors is more alarming in younger age).\n\nRisk points for each risk factor was summarized into an total risk score ranging from 4 (min) to 14 (max). A total risk score of \u22654 served as inclusion criteria because it indicated moderately elevated risk of cardiovascular disease.",
+          "timeFrame": "Baseline and at 8 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "8-week Change in Total Cholesterol",
+          "description": "Change in total cholesterol, from date of randomization and until the end of the follow up after 8 weeks.",
+          "timeFrame": "At baseline and at 8 weeks"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Effect of Heart Age and Tailord CVD Advice After 1 Year",
+          "description": "Comparing results from blood samples after 4 weeks in 23 pharmacies (enhanced CVD communication) versus 25 pharmacies (general communication of CVD risk).N",
+          "timeFrame": "4 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Above18 years\n* Not pregnant or lactating\n* Not previous cardiovascular events nor treatment related to cardiovascular disease ((myocardial infarction, stroke, angina pectoris, coronary artery bypass, - Percutaneous coronary intervention, diabetes type 1 and 2)\n* No use of cholesterol lowering medication, bloodpressure lowering medication, bloodsugar lowering medication or medication related to diabetes\n\nExclusion Criteria:\n\n* Below18 years\n* Pregnant or lactating\n* Previous cardiovascular events nor treatment related to cardiovascular disease (myocardial infarction, stroke, angina pectoris, coronary artery bypass,\n* Percutaneous coronary intervention, diabetes type 1 and 2)\n* Use of cholesterol lowering medication, bloodpressure lowering medication, bloodsugar lowering medication or medication related to diabetes",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Karianne Svendsen, M.Sc.",
+          "affiliation": "University of Oslo",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Oslo",
+          "city": "Oslo",
+          "state": "P.B. 1046 Blinderen",
+          "zip": "0317",
+          "country": "Norway",
+          "geoPoint": {
+            "lat": 59.91273,
+            "lon": 10.74609
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "30191097",
+          "type": "DERIVED",
+          "citation": "Svendsen K, Telle-Hansen VH, Morch-Reiersen LT, Garstad KW, Thyholt K, Granlund L, Henriksen HB, Gran JM, Jacobs DR Jr, Retterstol K. A randomized controlled trial in Norwegian pharmacies on effects of risk alert and advice in people with elevated cardiovascular risk. Prev Med Rep. 2018 Aug 9;12:79-86. doi: 10.1016/j.pmedr.2018.08.004. eCollection 2018 Dec."
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "No Information on High Risk Factor Levels But Lifestyle Advice",
+          "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline. However, they will receive general information on how to lower risk factor levels in 8 weeks\n\nNo information on high risk factor levels but lifestyle advice: In this arm, participants will have delayed information on their risk factor levels, but they will receive general advices on how to lower levels in 8 weeks"
+        },
+        {
+          "id": "FG001",
+          "title": "No Information on High Risk Factor Levels Nor Lifestyle Advice",
+          "description": "In this arm, participants will not be informed about their measured levels of the different cardiovascular risk factors, nor receiving lifestyle advices at baseline\n\nNo information on high risk factor levels, nor lifestyle advice: In this arm, participants will have delayed information on both their risk factor levels and general information on how to lower risk factor levels."
+        },
+        {
+          "id": "FG002",
+          "title": "Information on High Risk Factor Levels and Lifestyle Advice",
+          "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline, and receive general information on how to lower risk factor levels in 8 weeks\n\nInformation on high risk factor levels and lifestyle advice: This arm of high risk participants will be informed about their measured levels of the different cardiovascular risk factors. They will also receive information on how to lower their levels in 8 weeks"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "185"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "199"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "198"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "168"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "190"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "185"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "17"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "13"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Moved/studycenter unable to participate",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "No Information on High Risk Factor Levels But Lifestyle Advice",
+          "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline. However, they will receive general information on how to lower risk factor levels in 8 weeks\n\nNo information on high risk factor levels but lifestyle advice: In this arm, participants will have delayed information on their risk factor levels, but they will receive general advices on how to lower levels in 8 weeks"
+        },
+        {
+          "id": "BG001",
+          "title": "No Information on High Risk Factor Levels Nor Lifestyle Advice",
+          "description": "In this arm, participants will not be informed about their measured levels of the different cardiovascular risk factors, nor receiving lifestyle advices at baseline\n\nNo information on high risk factor levels, nor lifestyle advice: In this arm, participants will have delayed information on both their risk factor levels and general information on how to lower risk factor levels."
+        },
+        {
+          "id": "BG002",
+          "title": "Information on High Risk Factor Levels and Lifestyle Advice",
+          "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline, and receive general information on how to lower risk factor levels in 8 weeks\n\nInformation on high risk factor levels and lifestyle advice: This arm of high risk participants will be informed about their measured levels of the different cardiovascular risk factors. They will also receive information on how to lower their levels in 8 weeks"
+        },
+        {
+          "id": "BG003",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "185"
+            },
+            {
+              "groupId": "BG001",
+              "value": "199"
+            },
+            {
+              "groupId": "BG002",
+              "value": "198"
+            },
+            {
+              "groupId": "BG003",
+              "value": "582"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "113"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "124"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "131"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "368"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "72"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "214"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "57.4",
+                      "spread": "14.6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "56.5",
+                      "spread": "15.5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "55.7",
+                      "spread": "14.4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "56.5",
+                      "spread": "14.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "140"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "136"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "141"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "417"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "63"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "165"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "Norway",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "185"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "198"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "582"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ad hoc risk score",
+          "description": "Ad hoc riskscore IS a summarization of scores ranging from zero (favorablemeasures) to four (very unfavorable measures), assigned for each of TC, HDL-C, HbA1c, blood pressure, BMI and age. A risk score of\u22654 served as inclusion criteria because it indicated moderately elevated risk of CVD (minimum score). Maximum score was 14.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5.2",
+                      "spread": "1.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5.4",
+                      "spread": "1.5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5.4",
+                      "spread": "1.5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5.3",
+                      "spread": "1.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change in ad Hoc Risk Score (Measure on a Scale From Min 4 to Max 14)",
+          "description": "The (ad hoc) risk score was a summarization of points ranging from 0 (favorable measures) , 2 (slighly unfavourable) or 4 (very unfavorable measures) assigned for each of Total cholesterol, HDL-cholesterol, HbA1c, blood pressure, body mass index and age (age was included because presence of elevated cardiovascular disease risk factors is more alarming in younger age).\n\nRisk points for each risk factor was summarized into an total risk score ranging from 4 (min) to 14 (max). A total risk score of \u22654 served as inclusion criteria because it indicated moderately elevated risk of cardiovascular disease.",
+          "populationDescription": "Between groups analysis",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline and at 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "No Information on High Risk Factor Levels But Lifestyle Advice",
+              "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline. However, they will receive general information on how to lower risk factor levels in 8 weeks\n\nNo information on high risk factor levels but lifestyle advice: In this arm, participants will have delayed information on their risk factor levels, but they will receive general advices on how to lower levels in 8 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "No Information on High Risk Factor Levels Nor Lifestyle Advice",
+              "description": "In this arm, participants will not be informed about their measured levels of the different cardiovascular risk factors, nor receiving lifestyle advices at baseline\n\nNo information on high risk factor levels, nor lifestyle advice: In this arm, participants will have delayed information on both their risk factor levels and general information on how to lower risk factor levels."
+            },
+            {
+              "id": "OG002",
+              "title": "Information on High Risk Factor Levels and Lifestyle Advice",
+              "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline, and receive general information on how to lower risk factor levels in 8 weeks\n\nInformation on high risk factor levels and lifestyle advice: This arm of high risk participants will be informed about their measured levels of the different cardiovascular risk factors. They will also receive information on how to lower their levels in 8 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "185"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "199"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "198"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.71",
+                      "lowerLimit": "-0.99",
+                      "upperLimit": "-0.44"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.76",
+                      "lowerLimit": "-1.02",
+                      "upperLimit": "-0.5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-0.36",
+                      "lowerLimit": "-0.62",
+                      "upperLimit": "-0.09"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "8-week Change in Total Cholesterol",
+          "description": "Change in total cholesterol, from date of randomization and until the end of the follow up after 8 weeks.",
+          "populationDescription": "Difference between three groups.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "At baseline and at 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "No Information on High Risk Factor Levels But Lifestyle Advice",
+              "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline. However, they will receive general information on how to lower risk factor levels in 8 weeks\n\nNo information on high risk factor levels but lifestyle advice: In this arm, participants will have delayed information on their risk factor levels, but they will receive general advices on how to lower levels in 8 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "No Information on High Risk Factor Levels Nor Lifestyle Advice",
+              "description": "In this arm, participants will not be informed about their measured levels of the different cardiovascular risk factors, nor receiving lifestyle advices at baseline\n\nNo information on high risk factor levels, nor lifestyle advice: In this arm, participants will have delayed information on both their risk factor levels and general information on how to lower risk factor levels."
+            },
+            {
+              "id": "OG002",
+              "title": "Information on High Risk Factor Levels and Lifestyle Advice",
+              "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline, and receive general information on how to lower risk factor levels in 8 weeks\n\nInformation on high risk factor levels and lifestyle advice: This arm of high risk participants will be informed about their measured levels of the different cardiovascular risk factors. They will also receive information on how to lower their levels in 8 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "168"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "190"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "185"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.12",
+                      "lowerLimit": "-0.23",
+                      "upperLimit": "-0.06"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.16",
+                      "lowerLimit": "-0.31",
+                      "upperLimit": "-0.02"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-0.08",
+                      "lowerLimit": "-0.23",
+                      "upperLimit": "0.06"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Effect of Heart Age and Tailord CVD Advice After 1 Year",
+          "description": "Comparing results from blood samples after 4 weeks in 23 pharmacies (enhanced CVD communication) versus 25 pharmacies (general communication of CVD risk).N",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2020-04",
+          "timeFrame": "4 weeks",
+          "denomUnitsSelected": "Participants"
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse effects were collected during the study periode (1 year and 2 months)- between start of study (september 2014) and end of study (november 2015).",
+      "description": "Definition do not differ. adverse event collection was non-systematically where the subjects were adviced to contact PI or study coordinator.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "No Information on High Risk Factor Levels But Lifestyle Advice",
+          "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline. However, they will receive general information on how to lower risk factor levels in 8 weeks\n\nNo information on high risk factor levels but lifestyle advice: In this arm, participants will have delayed information on their risk factor levels, but they will receive general advices on how to lower levels in 8 weeks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 185,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 185,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 185
+        },
+        {
+          "id": "EG001",
+          "title": "No Information on High Risk Factor Levels Nor Lifestyle Advice",
+          "description": "In this arm, participants will not be informed about their measured levels of the different cardiovascular risk factors, nor receiving lifestyle advices at baseline\n\nNo information on high risk factor levels, nor lifestyle advice: In this arm, participants will have delayed information on both their risk factor levels and general information on how to lower risk factor levels.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 199,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 199,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 199
+        },
+        {
+          "id": "EG002",
+          "title": "Information on High Risk Factor Levels and Lifestyle Advice",
+          "description": "This arm of high risk participants will not be informed about their measured levels of the different cardiovascular risk factors at baseline, and receive general information on how to lower risk factor levels in 8 weeks\n\nInformation on high risk factor levels and lifestyle advice: This arm of high risk participants will be informed about their measured levels of the different cardiovascular risk factors. They will also receive information on how to lower their levels in 8 weeks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 198,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 198,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 198
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Karianne Svendsen",
+        "organization": "University of Oslo",
+        "email": "karianne.svendsen@medisin.uio.no",
+        "phone": "+4795026445"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D006937",
+          "term": "Hypercholesterolemia"
+        },
+        {
+          "id": "D050171",
+          "term": "Dyslipidemias"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        },
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006949",
+          "term": "Hyperlipidemias"
+        },
+        {
+          "id": "D052439",
+          "term": "Lipid Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,360 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05524792",
+      "orgStudyIdInfo": {
+        "id": "2022-07 COVID-19 and diabetes"
+      },
+      "organization": {
+        "fullName": "InGef - Institute for Applied Health Research Berlin GmbH",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Incidence of Diabetes After a COVID-19 Infection",
+      "officialTitle": "Incidence of Diabetes After a COVID-19 Infection - Comparison of COVID-19 Patients, Non-infected Individuals, Historic Controls and Patients With Influenza",
+      "acronym": "POINTED_Diab"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-01-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-09-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-09-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-08-30",
+      "studyFirstSubmitQcDate": "2022-08-30",
+      "studyFirstPostDateStruct": {
+        "date": "2022-09-01",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-03-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-03-25",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "InGef - Institute for Applied Health Research Berlin GmbH",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Robert Koch Institut",
+          "class": "OTHER_GOV"
+        },
+        {
+          "name": "Center for Evidence-Based Healthcare, Technische Universit\u00e4t Dresden",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Techniker Krankenkasse",
+          "class": "OTHER"
+        },
+        {
+          "name": "BARMER",
+          "class": "OTHER"
+        },
+        {
+          "name": "DAK Gesundheit",
+          "class": "OTHER"
+        },
+        {
+          "name": "AOK PLUS",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "Vandage GmbH",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "IKK Classic",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Prospective observational study of the POINTED consortium to evaluate whether new diagnoses of diabetes mellitus, occur significantly more frequently in the post-acute phase of a laboratory-confirmed SARS-CoV-2 infection than in carefully matched control groups.",
+      "detailedDescription": "Long-term health sequelae of the coronavirus disease 2019 (COVID-19) are a major public health concern. There is evidence on new-onset hyperglycaemia and insulin resistance in patients without history of diabetes in the post-acute phase of COVID-19 (Long-Covid).\n\nThis study is a longitudinal matched cohort study based on a total data pool of about 35 million SHI insured persons and investigates the incidence of a diabetes mellitus (differentiated into type 1, type 2 and other diabetes mellitus) diagnosis after confirmed SARS-Cov-2 infection compared to different control groups without SARS-Cov-2 infection. Individuals will be followed up from the date of diagnosis of SARS-Cov-2 infection, influenza diagnosis, or a randomly assigned index date for at least two quarters.\n\nTo assess effects of Long-Covid on incidence of diabetes mellitus, follow-up begins with the second quarter after the quarter of the index date.\n\nThe data analysis is carried out decentrally at the respective data holders of the POINTED consortium. Subsequently, the aggregated individual results are pooled."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "COVID-19",
+        "Diabetes Mellitus"
+      ],
+      "keywords": [
+        "Long-COVID",
+        "Diabetes Mellitus",
+        "Health claims data",
+        "Administative claims",
+        "Healthcare"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 157134,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "COVID-19",
+          "description": "no interventional study",
+          "interventionNames": [
+            "Other: no interventional study"
+          ]
+        },
+        {
+          "label": "Control I: No COVID-19",
+          "description": "no interventional study",
+          "interventionNames": [
+            "Other: no interventional study"
+          ]
+        },
+        {
+          "label": "Control II: Influenza 2018",
+          "description": "no interventional study",
+          "interventionNames": [
+            "Other: no interventional study"
+          ]
+        },
+        {
+          "label": "Control III: Historical 2018",
+          "description": "no interventional study",
+          "interventionNames": [
+            "Other: no interventional study"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "no interventional study",
+          "description": "no interventional study",
+          "armGroupLabels": [
+            "COVID-19",
+            "Control I: No COVID-19",
+            "Control II: Influenza 2018",
+            "Control III: Historical 2018"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Type 1 Diabetes mellitus",
+          "description": "Patients with a newly documented, confirmed Type 1 Diabetes mellitus diagnosis. Based on a published algorithm (Reitzle et al. 2022) using ICD-10-GM diagnoses and ATC-codes.",
+          "timeFrame": "Starting with the second quarter following inclusion quarter until end of follow-up or death, whatever comes first. Time frame must be at least two quarters following inclusion quarter."
+        },
+        {
+          "measure": "Type 2 Diabetes mellitus",
+          "description": "Patients with a newly documented, confirmed Type 2 Diabetes mellitus diagnosis. Based on a published algorithm using ICD-10-GM diagnoses and ATC-codes.",
+          "timeFrame": "Starting with the second quarter following inclusion quarter until end of follow-up or death, whatever comes first. Time frame must be at least two quarters following inclusion quarter."
+        },
+        {
+          "measure": "Other Diabetes mellitus",
+          "description": "Patients with a newly documented, confirmed \"Other Diabetes mellitus\" diagnosis. Based on a published algorithm using ICD-10-GM diagnoses and ATC-codes.",
+          "timeFrame": "Starting with the second quarter following inclusion quarter until end of follow-up or death, whatever comes first. Time frame must be at least two quarters following inclusion quarter."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Fatigue",
+          "description": "Patients with at least one confirmed ambulatory or main or secondary inpatient diagnosis ICD-10-GM G93.3 Chronic fatigue syndrome.",
+          "timeFrame": "Starting with the second quarter following inclusion quarter until end of follow-up or death, whatever comes first. Time frame must be at least two quarters following inclusion quarter."
+        },
+        {
+          "measure": "Taste disorders",
+          "description": "Patients with at least one confirmed ambulatory or main or secondary inpatient diagnosis ICD-10-GM R43 Taste diorders.",
+          "timeFrame": "Starting with the second quarter following inclusion quarter until end of follow-up or death, whatever comes first. Time frame must be at least two quarters following inclusion quarter."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria (cohorts: COVID-19 and No COVID-19)\n\n* Persons who were insured for at least one day between 01.01.2020 and 31.03.2021\n* Insured who were fully observable in 2019, as well as between 01.01.2020 and the end of the available observation period (maximum 30.09.2021) or until death\n* Alternatively to two previous items: or insured who were born between 01.01.2019 and 31.03.2021 and were fully observable until the end of the observation period (30.09.2021) or death\n\nAdditional inclusion criteria (cohort: COVID-19):\n\n\\- Insured with at least one U07.1! confirmed outpatient diagnosis or an inpatient main or secondary diagnosis U07.1! between 01.02.2020 and 31.03.2021\n\nExclusion criteria\n\n* Insured with an outpatient confirmed E10-E14 diagnosis or an inpatient main or secondary E10-E14 diagnosis in the four quarters prior to the COVID-19 index quarter or without a corresponding diagnosis between birth to cohort entry\n* Insured who are not alive on the first day of the second quarter after the index quarter\n\nAdditional Exclusion criteria (cohort: no COVID-19):\n\n-Insured with at least one COVID-19 diagnosis (U07.1 or U07.2) during the observation period (between 01.02.2020 and 30.09.2021)\n\nInclusion Criteria (cohorts: Influenza 2018 and Historical 2018)\n\n* Insured who were insured for at least one day between 01.01.2018 and 31.03.2019 (COVID-19 inclusion period minus 2 years)\n* Insureds who were fully observable in 2017 and between 01.01.2018 and the end of the observation period (30.09.2019) or until death\n* Alternative to two previous items: Insured who were fully observable from birth (between 01.01.2017 and 31.03.2019) to 30.09.2019 or until death\n\nAdditional inclusion Criteria (cohort: Influenza 2018):\n\n-Insured with at least one J10 diagnosis (Influenza) confirmed in an outpatient setting or an inpatient main or secondary J10 diagnosis between 01.02.2018 and 30.06.2018.\n\nExclusion criteria\n\n* Insured with an outpatient confirmed E10-E14 diagnosis or an inpatient main or secondary E10-E14 diagnosis in the four quarters before the index quarter or without a corresponding diagnosis between birth and cohort entry (if period between birth and cohort entry \\< four months)\n* Insured who are not still alive on the first day of the second quarter after the index quarter.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients who are insured in one of the data-contributing health insurance companies and meet the inclusion/exclusion criteria.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Jochen Schmitt, Prof. Dr. med.",
+          "affiliation": "Center for Evidence-Based Healthcare, Technische Universit\u00e4t Dresden",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Josephine Jacob, MSc",
+          "affiliation": "InGef - Institute for Applied Health Research Berlin GmbH",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Christa Scheidt-Nave, Dr.",
+          "affiliation": "Robert Koch-Institut; Fachgebiet 25 - K\u00f6rperliche Gesundheit",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Lukas Reitzle, Dr.",
+          "affiliation": "Robert Koch-Institut; Fachgebiet 24: Gesundheits-bericht-erstattung",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Center for Evidence-Based Healthcare, Technische Universit\u00e4t Dresden",
+          "city": "Dresden",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "35654399",
+          "type": "BACKGROUND",
+          "citation": "Reitzle L, Ihle P, Heidemann C, Paprott R, Koster I, Schmidt C. [Algorithm for the Classification of Type 1 and Type 2 Diabetes Mellitus for the Analysis of Routine Data]. Gesundheitswesen. 2023 Mar;85(S 02):S119-S126. doi: 10.1055/a-1791-0918. Epub 2022 Jun 2. German."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000086382",
+          "term": "COVID-19"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D000094024",
+          "term": "Post-Acute COVID-19 Syndrome"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011024",
+          "term": "Pneumonia, Viral"
+        },
+        {
+          "id": "D011014",
+          "term": "Pneumonia"
+        },
+        {
+          "id": "D012141",
+          "term": "Respiratory Tract Infections"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D018352",
+          "term": "Coronavirus Infections"
+        },
+        {
+          "id": "D003333",
+          "term": "Coronaviridae Infections"
+        },
+        {
+          "id": "D030341",
+          "term": "Nidovirales Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D000094025",
+          "term": "Post-Infectious Disorders"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

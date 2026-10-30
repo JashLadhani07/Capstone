@@ -1,0 +1,1879 @@
+{
+  "nct_id": "NCT00709592",
+  "title": "Reduced Intensity Myeloablative Total Body Irradiation and Thymoglobulin Followed by Allogeneic Peripheral Blood Stem Cell Transplantation",
+  "sponsor": "Virginia Commonwealth University",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Non-Hodgkin's Lymphoma",
+    "Leukemia",
+    "Multiple Myeloma",
+    "Acute Myeloid Leukemia",
+    "Hodgkin Lymphoma",
+    "Chronic Lymphocytic Leukemia",
+    "Chronic Myelogenous Leukemia",
+    "Myelodysplastic Syndrome"
+  ],
+  "interventions": [
+    "Thymoglobulin",
+    "Total-Body Irradiation",
+    "Allogeneic PBSCT or BMT",
+    "Tacrolimus",
+    "Mycophenolate Mofetil"
+  ],
+  "primary_outcome": "The Comparison of Functional Immune Reconstitution at 6-9 Months Following Transplant as Measured by Antibody Response to Vaccination With Inactivated Hepatitis A or B Vaccine.",
+  "secondary_outcomes": [
+    "Engraftment of Donor Hematopoietic Stem Cells, as Measured by Time in Days to Neutrophil and Platelet Count Recovery Following Allogeneic PBSCT.",
+    "Survival",
+    "Treatment Related Mortality",
+    "Event-free Survival",
+    "Relapse",
+    "Donor Lymphocyte Infusion",
+    "Acute Graft-Versus-Host Disease (GVHD)",
+    "Chronic Graft-Versus-Host Disease (GVHD)"
+  ],
+  "start_date": "2008-07-21",
+  "completion_date": "2014-02-15",
+  "results_posted": true,
+  "enrollment": 42,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00709592",
+        "orgStudyIdInfo": {
+          "id": "MCC-11561"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "NCI-2011-01698",
+            "type": "OTHER",
+            "domain": "CTRP (Clinical Trial Reporting Program)"
+          }
+        ],
+        "organization": {
+          "fullName": "Virginia Commonwealth University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Reduced Intensity Total Body Irradiation + Thymoglobulin Followed by Allogeneic PBSCT",
+        "officialTitle": "Reduced Intensity Myeloablative Total Body Irradiation and Thymoglobulin Followed by Allogeneic Peripheral Blood Stem Cell Transplantation"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2018-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2008-07-21",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2014-02-15",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2017-06-28",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2008-07-01",
+        "studyFirstSubmitQcDate": "2008-07-02",
+        "studyFirstPostDateStruct": {
+          "date": "2008-07-03",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2015-02-01",
+        "resultsFirstSubmitQcDate": "2015-02-01",
+        "resultsFirstPostDateStruct": {
+          "date": "2015-02-12",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2018-11-07",
+        "lastUpdatePostDateStruct": {
+          "date": "2018-11-09",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Virginia Commonwealth University",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Genzyme, a Sanofi Company",
+            "class": "INDUSTRY"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": true
+      },
+      "descriptionModule": {
+        "briefSummary": "One of two different doses of thymoglobulin will allow bone marrow engraftment with minimal Graft-versus-Host Disease and allow adequate immune response to allow the transplanted stem cells to replace the tumor cells.",
+        "detailedDescription": "This randomized phase II trial studies how well giving low dose total-body irradiation (TBI) with anti-thymocyte globulin followed by donor peripheral blood stem cell transplant (PBSCT) works in treating patients with hematologic malignancies. Giving reduced intensity total-body irradiation and anti-thymocyte globulin before a donor peripheral blood stem cell transplant helps stop the growth of cancer cells. It may also stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a donor are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets. Sometimes the transplanted cells from a donor can make an immune response against the body's normal cells. Giving total-body irradiation together with antithymocyte globulin before transplant may stop this from happening."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Non-Hodgkin's Lymphoma",
+          "Leukemia",
+          "Multiple Myeloma",
+          "Acute Myeloid Leukemia",
+          "Hodgkin Lymphoma",
+          "Chronic Lymphocytic Leukemia",
+          "Chronic Myelogenous Leukemia",
+          "Myelodysplastic Syndrome"
+        ],
+        "keywords": [
+          "total body irradiation",
+          "Allogeneic Peripheral Blood Stem Cell Transplantation",
+          "thymoglobulin"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 42,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "ATG 1.7 mg/kg, TBI, transplant",
+            "type": "EXPERIMENTAL",
+            "description": "(Rabbit-ATG;Thymoglobulin,Genzyme) ATG 5.1 mg/kg in three divided doses (1.7 mg/kg/d) given over three days (day -9 to -7) followed by 450 cGy TBI and tacrolimus plus MMF GVHD prophylaxis. Patients receive lower dose anti-thymocyte globulin IV on days -9 to -7. Patients undergo total-body radiation (TBI) twice daily (BID) on day -1 and once daily (QD) on day 0. Patients then undergo peripheral blood stem cells or bone marrow transplant on day 0. GRAFT-VERSUS-HOST DISEASE PROPHYLAXIS: patients receive tacrolimus orally (PO) on days -2 to 90-120 with taper for 2 months, and mycophenolate mofetil (MMF) PO BID on days 0-30.",
+            "interventionNames": [
+              "Biological: Thymoglobulin",
+              "Radiation: Total-Body Irradiation",
+              "Procedure: Allogeneic PBSCT or BMT",
+              "Drug: Tacrolimus",
+              "Drug: Mycophenolate Mofetil"
+            ]
+          },
+          {
+            "label": "ATG 2.5 mg/kg/d, TBI, transplant",
+            "type": "EXPERIMENTAL",
+            "description": "(Rabbit-ATG;Thymoglobulin,Genzyme) ATG 7.5 mg/kg in three divided doses (2.5 mg/kg/d) given over three days (day -9 to -7) followed by 450 cGy TBI and tacrolimus plus MMF GVHD prophylaxis. Patients receive higher dose anti-thymocyte globulin intravenously (IV) on days -9 to -7. Patients undergo total-body radiation (TBI) twice daily (BID) on day -1 and once daily (QD) on day 0. Patients then undergo peripheral blood stem cells or bone marrow transplant on day 0. GRAFT-VERSUS-HOST DISEASE PROPHYLAXIS: patients receive tacrolimus orally (PO) on days -2 to 90-120 with taper for 2 months, and mycophenolate mofetil (MMF) PO BID on days 0-30.",
+            "interventionNames": [
+              "Biological: Thymoglobulin",
+              "Radiation: Total-Body Irradiation",
+              "Procedure: Allogeneic PBSCT or BMT",
+              "Drug: Tacrolimus",
+              "Drug: Mycophenolate Mofetil"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BIOLOGICAL",
+            "name": "Thymoglobulin",
+            "description": "Patients eligible for participation in this study will be randomized between receiving rabbit ATG for 3 days. Thymoglobulin will be administered according to VCU BMT standard of care starting day -9 and continued daily through day -7.",
+            "armGroupLabels": [
+              "ATG 1.7 mg/kg, TBI, transplant",
+              "ATG 2.5 mg/kg/d, TBI, transplant"
+            ],
+            "otherNames": [
+              "anti-thymocyte globulin (rabbit)",
+              "ATG",
+              "Genzyme",
+              "anti-thymocyte globulin",
+              "Rabbit",
+              "Rabbit-ATG"
+            ]
+          },
+          {
+            "type": "RADIATION",
+            "name": "Total-Body Irradiation",
+            "description": "Undergo TBI",
+            "armGroupLabels": [
+              "ATG 1.7 mg/kg, TBI, transplant",
+              "ATG 2.5 mg/kg/d, TBI, transplant"
+            ],
+            "otherNames": [
+              "Whole-Body Irradiation",
+              "Total Body Irradiation [TBI]"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Allogeneic PBSCT or BMT",
+            "description": "Undergo allogeneic PBSCT or BMT",
+            "armGroupLabels": [
+              "ATG 1.7 mg/kg, TBI, transplant",
+              "ATG 2.5 mg/kg/d, TBI, transplant"
+            ],
+            "otherNames": [
+              "PBPC transplantation",
+              "Peripheral Blood Progenitor Cell Transplantation",
+              "Peripheral Blood Stem Cell Transplantation [Allogenic PBSCT]",
+              "Allogeneic Bone Marrow Transplantation [BMT]",
+              "Allogeneic BMT",
+              "Allogeneic Hematopoietic Stem Cell Transplantation",
+              "HSCT"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Tacrolimus",
+            "description": "Given PO",
+            "armGroupLabels": [
+              "ATG 1.7 mg/kg, TBI, transplant",
+              "ATG 2.5 mg/kg/d, TBI, transplant"
+            ],
+            "otherNames": [
+              "Fujimycin",
+              "Hecoria",
+              "Prograf",
+              "Protopic"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Mycophenolate Mofetil",
+            "description": "Given PO",
+            "armGroupLabels": [
+              "ATG 1.7 mg/kg, TBI, transplant",
+              "ATG 2.5 mg/kg/d, TBI, transplant"
+            ],
+            "otherNames": [
+              "CellCept",
+              "MMF"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "The Comparison of Functional Immune Reconstitution at 6-9 Months Following Transplant as Measured by Antibody Response to Vaccination With Inactivated Hepatitis A or B Vaccine.",
+            "description": "A positive test result will indicate immune reconstitution, while a negative test results will indicate lack of immune reconstitution. Participants not done (ND) will be counted with the negative (Neg).",
+            "timeFrame": "Up to 9 months following transplant"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Engraftment of Donor Hematopoietic Stem Cells, as Measured by Time in Days to Neutrophil and Platelet Count Recovery Following Allogeneic PBSCT.",
+            "timeFrame": "Up to 52 weeks post transplant."
+          },
+          {
+            "measure": "Survival",
+            "timeFrame": "2-year survival rate (%)"
+          },
+          {
+            "measure": "Treatment Related Mortality",
+            "timeFrame": "Day 100"
+          },
+          {
+            "measure": "Event-free Survival",
+            "timeFrame": "2 years"
+          },
+          {
+            "measure": "Relapse",
+            "description": "Patients with different disease relapses was determined according to current clinical standards based on the disease. For example, AML or MDS relapse is determined by a bone marrow biopsy. Multiple myeloma relapse requires a number of labs and/or biopsy to diagnose such as SPEP, UPEP, immunofixation, serum and urine light chains. In lymphoma disease is followed using CT and/or PET scans.",
+            "timeFrame": "2 year relapse rate (%)"
+          },
+          {
+            "measure": "Donor Lymphocyte Infusion",
+            "timeFrame": "2 year rate of DLI"
+          },
+          {
+            "measure": "Acute Graft-Versus-Host Disease (GVHD)",
+            "timeFrame": "2 year rate (%)"
+          },
+          {
+            "measure": "Chronic Graft-Versus-Host Disease (GVHD)",
+            "timeFrame": "2 year GVHD rate"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with hematological malignancies for which allogeneic stem cell transplantation indicated including non-Hodgkin lymphoma (NHL), multiple myeloma (MM), acute myeloid leukemia (AML), Hodgkin lymphoma (HD), chronic lymphocytic leukemia (CLL), chronic myelogenous leukemia (CML), and myelodysplastic syndrome (MDS)\n* Patients with HLA compatible related or unrelated stem cell donor, willing and able to serve as an allogenic HSC donor. Unrelated donors have to be matched at HLA-A, B, C and DRB1 loci. A single locus mismatch will be tolerated in the event a more closely matched donor is not available.\n* Patients age \\>/=40 to \\</=70 with an ECOG performance status \\< 2\n* Patients between 18 and 40 years of age will be eligible only if they have co-morbidities precluding conventional allogeneic transplantation with full intensity myeloablative conditioning\n* Adequate cardiac, pulmonary, renal and hepatic function for transplant\n* Negative serology for HIV\n* Negative serum pregnancy test\n* Patients who have received therapeutic radiation to a localized field will be eligible, provided critical structure tolerance doses have not been exceeded\n* Patients who have had prior myeloablative autologous transplant will be eligible\n\nExclusion Criteria:\n\n* Evidence of uncontrolled viral, fungal, bacterial infection\n* Evidence of active meningeal or CNS disease\n* Prior therapy with rabbit ATG, prior treatment with equine ATG is allowed if more than 3 months ago\n* Breast feeding mothers are excluded",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "40 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Amir Toor, MD",
+            "affiliation": "Massey Cancer Center",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Virginia Commonwealth University/Massey Cancer Center",
+            "city": "Richmond",
+            "state": "Virginia",
+            "zip": "23298-0037",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.55376,
+              "lon": -77.46026
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "VCU Massey Cancer Center",
+            "url": "http://www.massey.vcu.edu/"
+          }
+        ]
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "preAssignmentDetails": "Randomized to rabbit ATG (Thymoglobulin; Genzyme, Cambridge, MA), 2.5 or 1.7 mg/kg adjusted ideal body weight/day, followed by TBI to a total dose of 4.5 Gy. Methylprednisolone 2 mg/kg given pre-medication for ATG. GVHD prophylaxis was tacrolimus starting at approximately 12 weeks post transplantation.",
+        "recruitmentDetails": "Consecutive patients enrolled have recurrent or high-risk hematologic malignancy, adequate end-organ function and performance status. Patient required to have 7/8 or 8/8 mismatched related donor (MRD) or unrelated donor (URD), with high-resolution typing performed for HLA-A, -B, -C, and -DRB1.",
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+            "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+          },
+          {
+            "id": "FG001",
+            "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+            "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "19"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "23"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "19"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "22"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "1"
+                  }
+                ]
+              }
+            ],
+            "dropWithdraws": [
+              {
+                "type": "Unable to proceed to transplant",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "populationDescription": "Subjects able to proceed to transplant.",
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+            "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+          },
+          {
+            "id": "BG001",
+            "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+            "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+          },
+          {
+            "id": "BG002",
+            "title": "Total",
+            "description": "Total of all reporting groups"
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "19"
+              },
+              {
+                "groupId": "BG001",
+                "value": "23"
+              },
+              {
+                "groupId": "BG002",
+                "value": "42"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Continuous",
+            "paramType": "MEDIAN",
+            "dispersionType": "FULL_RANGE",
+            "unitOfMeasure": "years",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "57",
+                        "lowerLimit": "44",
+                        "upperLimit": "69"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "57",
+                        "lowerLimit": "40",
+                        "upperLimit": "68"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "57",
+                        "lowerLimit": "40",
+                        "upperLimit": "69"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "7"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "8"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "15"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "12"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "15"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "27"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "United States",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "19"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "23"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "42"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "The Comparison of Functional Immune Reconstitution at 6-9 Months Following Transplant as Measured by Antibody Response to Vaccination With Inactivated Hepatitis A or B Vaccine.",
+            "description": "A positive test result will indicate immune reconstitution, while a negative test results will indicate lack of immune reconstitution. Participants not done (ND) will be counted with the negative (Neg).",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "timeFrame": "Up to 9 months following transplant",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "title": "Positive",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "8"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "3"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Negative/Not Done",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "11"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "19"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Engraftment of Donor Hematopoietic Stem Cells, as Measured by Time in Days to Neutrophil and Platelet Count Recovery Following Allogeneic PBSCT.",
+            "reportingStatus": "POSTED",
+            "paramType": "MEDIAN",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "Days",
+            "timeFrame": "Up to 52 weeks post transplant.",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "12",
+                        "lowerLimit": "10",
+                        "upperLimit": "37"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "12",
+                        "lowerLimit": "10",
+                        "upperLimit": "37"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Survival",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "percentage of patient surviving",
+            "timeFrame": "2-year survival rate (%)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "71.3"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "62.4"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Treatment Related Mortality",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "percentage of patients",
+            "timeFrame": "Day 100",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Event-free Survival",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "percentage of participants",
+            "timeFrame": "2 years",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "62.2"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "44.5"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Relapse",
+            "description": "Patients with different disease relapses was determined according to current clinical standards based on the disease. For example, AML or MDS relapse is determined by a bone marrow biopsy. Multiple myeloma relapse requires a number of labs and/or biopsy to diagnose such as SPEP, UPEP, immunofixation, serum and urine light chains. In lymphoma disease is followed using CT and/or PET scans.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "Percent patients relapsing",
+            "timeFrame": "2 year relapse rate (%)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "50"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Donor Lymphocyte Infusion",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "percentage of participants",
+            "timeFrame": "2 year rate of DLI",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "8.9"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "45.5"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Acute Graft-Versus-Host Disease (GVHD)",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "percentage of participant",
+            "timeFrame": "2 year rate (%)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "27.2"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "4.5"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Chronic Graft-Versus-Host Disease (GVHD)",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "percentage of participants",
+            "timeFrame": "2 year GVHD rate",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+                "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7"
+              },
+              {
+                "id": "OG001",
+                "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+                "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "19"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "22"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "23.8"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "31.8"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "5",
+        "timeFrame": "All events collected from first patient accrual up to day 180 or relapse for each subject on each arm.",
+        "description": "Still collecting SAEs, subjects on trial until death.",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "A:Thymoglobulin: 1.7 mg/kg/Day",
+            "description": "1.7 mg/kg/d thymoglobulin IV d-9 to -7",
+            "seriousNumAffected": 7,
+            "seriousNumAtRisk": 19,
+            "otherNumAffected": 19,
+            "otherNumAtRisk": 19
+          },
+          {
+            "id": "EG001",
+            "title": "B:Thymoglobulin: 2.5 mg/kg/Day",
+            "description": "2.5 mg/kg/d thymoglobulin IV d-9 to d-7",
+            "seriousNumAffected": 12,
+            "seriousNumAtRisk": 22,
+            "otherNumAffected": 22,
+            "otherNumAtRisk": 22
+          }
+        ],
+        "seriousEvents": [
+          {
+            "term": "Syncope",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "notes": "brain",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Hepatic",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "notes": "liver",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "CNS toxicity",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "notes": "brain",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Cardiac dysrhythmia",
+            "organSystem": "Cardiac disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Diarrhea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Hemorrhagic cystitis",
+            "organSystem": "Renal and urinary disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Fever with out bacteremia",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Fever with Bacteremia +/- abscess",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 6,
+                "numAffected": 6,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Intra-abdominal",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Brain abscess",
+            "organSystem": "Nervous system disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Nausea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "notes": "vomiting",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Renal",
+            "organSystem": "Renal and urinary disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Hyponatremia",
+            "organSystem": "Renal and urinary disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          }
+        ],
+        "otherEvents": [
+          {
+            "term": "Grade 3 neutropenia",
+            "organSystem": "Blood and lymphatic system disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 19,
+                "numAffected": 19,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 22,
+                "numAffected": 22,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Lymphopenia post conditioning",
+            "organSystem": "Blood and lymphatic system disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 19,
+                "numAffected": 19,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 22,
+                "numAffected": 22,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Thrombocytopenia",
+            "organSystem": "Blood and lymphatic system disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 19,
+                "numAffected": 19,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 22,
+                "numAffected": 22,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Ocular",
+            "organSystem": "Eye disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Post transplant neutropenia",
+            "organSystem": "Blood and lymphatic system disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Bacteremia/Fever",
+            "organSystem": "Infections and infestations",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Rash",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Nausea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Diarrhea",
+            "organSystem": "Gastrointestinal disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 22
+              }
+            ]
+          },
+          {
+            "term": "Urinary tract infection",
+            "organSystem": "Renal and urinary disorders",
+            "sourceVocabulary": "CTCAE version 3",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "notes": "UTI",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 19
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 22
+              }
+            ]
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": true
+        },
+        "pointOfContact": {
+          "title": "Amir A Toor, MD",
+          "organization": "Virginia Commonwealth University",
+          "email": "atoor@mcvh-vcu.edu",
+          "phone": "804-828-4360"
+        }
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D008228",
+            "term": "Lymphoma, Non-Hodgkin"
+          },
+          {
+            "id": "D007938",
+            "term": "Leukemia"
+          },
+          {
+            "id": "D009101",
+            "term": "Multiple Myeloma"
+          },
+          {
+            "id": "D015470",
+            "term": "Leukemia, Myeloid, Acute"
+          },
+          {
+            "id": "D006689",
+            "term": "Hodgkin Disease"
+          },
+          {
+            "id": "D015451",
+            "term": "Leukemia, Lymphocytic, Chronic, B-Cell"
+          },
+          {
+            "id": "D015464",
+            "term": "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+          },
+          {
+            "id": "D009190",
+            "term": "Myelodysplastic Syndromes"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D008223",
+            "term": "Lymphoma"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008232",
+            "term": "Lymphoproliferative Disorders"
+          },
+          {
+            "id": "D008206",
+            "term": "Lymphatic Diseases"
+          },
+          {
+            "id": "D006425",
+            "term": "Hemic and Lymphatic Diseases"
+          },
+          {
+            "id": "D007160",
+            "term": "Immunoproliferative Disorders"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          },
+          {
+            "id": "D006402",
+            "term": "Hematologic Diseases"
+          },
+          {
+            "id": "D054219",
+            "term": "Neoplasms, Plasma Cell"
+          },
+          {
+            "id": "D020141",
+            "term": "Hemostatic Disorders"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D010265",
+            "term": "Paraproteinemias"
+          },
+          {
+            "id": "D001796",
+            "term": "Blood Protein Disorders"
+          },
+          {
+            "id": "D006474",
+            "term": "Hemorrhagic Disorders"
+          },
+          {
+            "id": "D007951",
+            "term": "Leukemia, Myeloid"
+          },
+          {
+            "id": "D015448",
+            "term": "Leukemia, B-Cell"
+          },
+          {
+            "id": "D007945",
+            "term": "Leukemia, Lymphoid"
+          },
+          {
+            "id": "D002908",
+            "term": "Chronic Disease"
+          },
+          {
+            "id": "D020969",
+            "term": "Disease Attributes"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D009196",
+            "term": "Myeloproliferative Disorders"
+          },
+          {
+            "id": "D001855",
+            "term": "Bone Marrow Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C512542",
+            "term": "thymoglobulin"
+          },
+          {
+            "id": "D000961",
+            "term": "Antilymphocyte Serum"
+          },
+          {
+            "id": "D014916",
+            "term": "Whole-Body Irradiation"
+          },
+          {
+            "id": "D036102",
+            "term": "Peripheral Blood Stem Cell Transplantation"
+          },
+          {
+            "id": "D016559",
+            "term": "Tacrolimus"
+          },
+          {
+            "id": "D009173",
+            "term": "Mycophenolic Acid"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D007106",
+            "term": "Immune Sera"
+          },
+          {
+            "id": "D000906",
+            "term": "Antibodies"
+          },
+          {
+            "id": "D007136",
+            "term": "Immunoglobulins"
+          },
+          {
+            "id": "D007162",
+            "term": "Immunoproteins"
+          },
+          {
+            "id": "D001798",
+            "term": "Blood Proteins"
+          },
+          {
+            "id": "D011506",
+            "term": "Proteins"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D012712",
+            "term": "Serum Globulins"
+          },
+          {
+            "id": "D005916",
+            "term": "Globulins"
+          },
+          {
+            "id": "D001688",
+            "term": "Biological Products"
+          },
+          {
+            "id": "D045424",
+            "term": "Complex Mixtures"
+          },
+          {
+            "id": "D011878",
+            "term": "Radiotherapy"
+          },
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          },
+          {
+            "id": "D008919",
+            "term": "Investigative Techniques"
+          },
+          {
+            "id": "D018380",
+            "term": "Hematopoietic Stem Cell Transplantation"
+          },
+          {
+            "id": "D033581",
+            "term": "Stem Cell Transplantation"
+          },
+          {
+            "id": "D017690",
+            "term": "Cell Transplantation"
+          },
+          {
+            "id": "D064987",
+            "term": "Cell- and Tissue-Based Therapy"
+          },
+          {
+            "id": "D001691",
+            "term": "Biological Therapy"
+          },
+          {
+            "id": "D014180",
+            "term": "Transplantation"
+          },
+          {
+            "id": "D013514",
+            "term": "Surgical Procedures, Operative"
+          },
+          {
+            "id": "D018942",
+            "term": "Macrolides"
+          },
+          {
+            "id": "D007783",
+            "term": "Lactones"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D002208",
+            "term": "Caproates"
+          },
+          {
+            "id": "D000144",
+            "term": "Acids, Acyclic"
+          },
+          {
+            "id": "D002264",
+            "term": "Carboxylic Acids"
+          },
+          {
+            "id": "D005227",
+            "term": "Fatty Acids"
+          },
+          {
+            "id": "D008055",
+            "term": "Lipids"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T13:31:09.378784"
+}

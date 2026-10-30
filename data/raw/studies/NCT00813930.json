@@ -1,0 +1,295 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00813930",
+      "orgStudyIdInfo": {
+        "id": "SMH-LKSKI"
+      },
+      "organization": {
+        "fullName": "Unity Health Toronto",
+        "class": "OTHER"
+      },
+      "briefTitle": "Lifestyle Intervention For Effective Diabetes Management",
+      "officialTitle": "Lifestyle Intervention For Effective Diabetes Management (LIFE-DM) Trial",
+      "acronym": "LIFE-DM"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2010-03",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2008-11"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2010-07",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2010-07",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2008-12-22",
+      "studyFirstSubmitQcDate": "2008-12-22",
+      "studyFirstPostDateStruct": {
+        "date": "2008-12-23",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2010-03-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2010-03-23",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Dr. Gillian Booth",
+        "oldOrganization": "St. Michael's Hospital, Toronto"
+      },
+      "leadSponsor": {
+        "name": "Unity Health Toronto",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "St. Joseph's Health Centre Toronto",
+          "class": "OTHER"
+        },
+        {
+          "name": "University Health Network, Toronto",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Chronic disease management programs are shown to reduce mortality, recurrent hospitalizations, and improve indirect societal costs among specific subgroups of the population. INTERxVENT is one such individualized chronic cardiovascular and lifestyle management program, comprised of several individualized modules - diet, exercise, stress management, smoking cessation, chronic disease - prescribed algorithmically according to patient risk profile, environmental surroundings, and behavioural readiness-to-change. Nonrandomized studies assessing INTERxVENT in diabetic, pre-diabetic, and metabolic syndrome populations have demonstrated improvement in several intermediary endpoints, including reductions in fasting glucose, lipids, and blood pressure. However, no randomized controlled clinical trials in these populations have been conducted. This pilot study is a randomized clinical trial evaluating the effectiveness of INTERxVENT as compared with 'usual medical care' in improving cardiovascular risk-factor profiles among individuals with diabetes. Additionally, the extent to which such findings are generalizable to diabetic, socially vulnerable, populations is unknown, thus this will be examined also.",
+      "detailedDescription": "Diabetes is a leading cause of cardiovascular mortality and morbidity, and is more often than not a very difficult disease for individuals to manage effectively. People with diabetes have to be committed to a self-care regimen which includes, careful monitoring of blood sugar, blood pressure, cholesterol, eating healthy, exercising, foot care and regular physical and eye check-ups. This can be quite daunting and stressful for some to undertake themselves, and is largely dependent on individual self-motivation. Family physicians assist their patients in managing their diabetes but they have significant time constraints and may not always be able to deliver the high service intensity required to reduce morbidity and/or may have inadequate access to resources to help patients positively change their self-care behaviour.\n\nChronic disease-management programs involving home-based nursing health promotion have been shown to reduce mortality, reduce recurrent hospitalization, and improve indirect societal costs among specific subgroups of the population, including those with diabetes, however, such interventions can be costly and cumbersome to implement given the need for home-based visits.\n\nINTERxVENT is a telephone-based, individualized, chronic cardiovascular and lifestyle management program combining a formal management plan, case-managed care (through a coach/mentor), and educational modules to teach patients to modify and sustain healthy lifestyle behaviours. It is comprised of several individualized modules (e.g., diet, exercise, stress management, smoking cessation, chronic disease), which are prescribed algorithmically in accordance to a patient's individual risk profile, environmental surroundings, and behavioural readiness to change. All recommendations are according to best-practice standards and evidence-based guidelines.\n\nNonrandomized intervention studies assessing INTERxVENT in diabetic, pre-diabetic, and metabolic syndrome populations have demonstrated significant reductions in biologically relevant measures, such as fasting glucose, glycosylated hemoglobin (HbA1c), lipids, and blood pressure. However, no randomized controlled clinical trials in these populations assessing the impact of INTERxVENT have been conducted.\n\nThe proposed pilot study will evaluate the efficacy of INTERxVENT as compared with 'usual medical care' in improving cardiovascular risk-factor profiles among individuals with diabetes. In addition, to what extent a chronic disease management program will yield similar effectiveness in socio-economically disadvantaged individuals is unknown. We hypothesize that chronic disease management programs, like INTERxVENT, will result in improved intermediary biological and behavioural risk profiles for all program participants randomized to this intervention, regardless of socio-economic condition.\n\nThe results of this pilot study will determine and assist in designing and ascertaining sample sizes for a larger trial, respectively, should such a trial be warranted. Additionally, such chronic disease management interventions may improve the overall health of partaking individuals and relieve strain and decrease costs within the existing health care system."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus, Type 2"
+      ],
+      "keywords": [
+        "Diabetes",
+        "Lifestyle Intervention",
+        "Cardiovascular risk reduction"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SUPPORTIVE_CARE"
+      },
+      "enrollmentInfo": {
+        "count": 50,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "INTERxVENT Program",
+          "type": "EXPERIMENTAL",
+          "description": "Participants in INTERxVENT will complete a 'Baseline Assessment' and 'Follow-up' questionnaire, and will have a health professional visit his/her home for an initial assessment (BP,height,weight,waist measurement) and blood collection (blood glucose and cholesterol levels). As part of the program, each participant will also complete a self-reported 'Health History Questionnaire' (HHQ); a follow-up HHQ will be completed about 12 weeks into the program to monitor progress. Each participant randomized to INTERxVENT receives educational articles which address diabetes management issues. A structured, individualized program, consisting of educational materials and 12 live mentoring/coaching telephone calls will take place over 6 months. The mentors consist of allied health professionals. The sequence by which educational content is administered will be both self-directed and guided by the mentors using an algorithmic approach according to the participant's readiness-to-change scores.",
+          "interventionNames": [
+            "Behavioral: INTERxVENT lifestyle modification program"
+          ]
+        },
+        {
+          "label": "Usual medical care",
+          "type": "NO_INTERVENTION",
+          "description": "Each participant randomized to this group will not receive any formal intervention but will receive the same care over the 6-month period as he/she usually receives from his/her health care team. Participants in this group will undergo the same baseline and outcome assessment as those in the intervention group, including blood pressure (BP) measurement, physical assessment (height, weight, waist measurement) and blood collection (blood glucose and cholesterol levels), as well as completion of the 'Baseline Assessment' and 'Follow-up' questionnaires."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "INTERxVENT lifestyle modification program",
+          "description": "It is a lifestyle behavior modification program which helps Type 2 diabetics manage diabetes better and reduce cardiovascular risk factors. The program involves up to 12 telephone mentor/coaching sessions with a certified health professional.",
+          "armGroupLabels": [
+            "INTERxVENT Program"
+          ],
+          "otherNames": [
+            "INTERxVENT"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Six-month United Kingdom Prospective Diabetes Study (UKPDS) risk engine score. The UKPDS risk engine is a validated scoring system that uses multiple clinical characteristics to predict new coronary heart disease risks in patients with type 2 diabetes.",
+          "timeFrame": "6 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Six-month: HbA1c, seated systolic blood pressure, serum Total Cholesterol concentration, serum HDL-C concentration, Total/HDL-C ratio value, LDL-C concentration, self-reported smoking status, adherence to medications and lifestyle measures.",
+          "timeFrame": "6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Type 2 Diabetes\n* Age 18 years or older\n\nExclusion Criteria:\n\n* Documented history of myocardial infarction, stroke, angina, angioplasty, or bypass surgery\n* Unable to understand written and spoken English\n* Presence of cognitive impairment (e.g., dementia) or significant psychological problems (e.g., schizophrenia, schizoaffective disorders) that, in the investigators' opinion, may prohibit the participant from following study protocols\n* Unavailable to participate (e.g., incarceration, no access to a telephone)\n* HIV / AIDS\n* Estimated life expectancy less than one year in the opinion of the clinician\n* Participation in any other clinical study",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Gillian L. Booth, MD, MSc",
+          "affiliation": "Li Ka Shing Knowledge Institute, St. Michael's Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "St. Michael's Hospital",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5B 1W8",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "University Health Network, Toronto Western Hospital",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5T 2S8",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "St. Joseph's Health Centre",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M6R 1B5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "16373892",
+          "type": "BACKGROUND",
+          "citation": "Booth GL, Kapral MK, Fung K, Tu JV. Recent trends in cardiovascular complications among men and women with and without diabetes. Diabetes Care. 2006 Jan;29(1):32-7. doi: 10.2337/diacare.29.01.06.dc05-0776."
+        },
+        {
+          "pmid": "16815377",
+          "type": "BACKGROUND",
+          "citation": "Booth GL, Kapral MK, Fung K, Tu JV. Relation between age and cardiovascular disease in men and women with diabetes compared with non-diabetic people: a population-based retrospective cohort study. Lancet. 2006 Jul 1;368(9529):29-36. doi: 10.1016/S0140-6736(06)68967-8."
+        },
+        {
+          "pmid": "12821619",
+          "type": "BACKGROUND",
+          "citation": "Simpson SH, Corabian P, Jacobs P, Johnson JA. The cost of major comorbidity in people with diabetes mellitus. CMAJ. 2003 Jun 24;168(13):1661-7."
+        },
+        {
+          "pmid": "15019858",
+          "type": "BACKGROUND",
+          "citation": "Bonow RO, Gheorghiade M. The diabetes epidemic: a national and global crisis. Am J Med. 2004 Mar 8;116 Suppl 5A:2S-10S. doi: 10.1016/j.amjmed.2003.10.014."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Buhrmann R, Asaad D, Hux JE, Tang M, Sykora K: Diabetes and the Eye. In Diabetes in Ontario: an ICES practice atlas. Hux JE, Booth GL, Slaughter P, Laupacis A, Eds. Toronto, Institute for Clinical Evaluative Sciences, 2003."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Shah BR, Mamdani M, Kopp A: Drug Use in Older People with Diabetes. In Diabetes in Ontario: an ICES practice atlas. Hux JE, Booth GL, Slaughter P, Laupacis A, Eds. Toronto, Insitute for Clinical Evaluative Sciences, 2003."
+        },
+        {
+          "pmid": "16629922",
+          "type": "BACKGROUND",
+          "citation": "Markle-Reid M, Weir R, Browne G, Roberts J, Gafni A, Henderson S. Health promotion for frail older home care clients. J Adv Nurs. 2006 May;54(3):381-95. doi: 10.1111/j.1365-2648.2006.03817.x."
+        },
+        {
+          "pmid": "16954307",
+          "type": "BACKGROUND",
+          "citation": "Markle-Reid M, Browne G, Weir R, Gafni A, Roberts J, Henderson SR. The effectiveness and efficiency of home-based nursing health promotion for older people: a review of the literature. Med Care Res Rev. 2006 Oct;63(5):531-69. doi: 10.1177/1077558706290941."
+        },
+        {
+          "pmid": "11602070",
+          "type": "BACKGROUND",
+          "citation": "Gordon NF, Salmon RD, Mitchell BS, Faircloth GC, Levinrad LI, Salmon S, Saxon WE, Reid KS. Innovative approaches to comprehensive cardiovascular disease risk reduction in clinical and community-based settings. Curr Atheroscler Rep. 2001 Nov;3(6):498-506. doi: 10.1007/s11883-001-0040-9."
+        },
+        {
+          "pmid": "12031725",
+          "type": "BACKGROUND",
+          "citation": "Gordon NF, English CD, Contractor AS, Salmon RD, Leighton RF, Franklin BA, Haskell WL. Effectiveness of three models for comprehensive cardiovascular disease risk reduction. Am J Cardiol. 2002 Jun 1;89(11):1263-8. doi: 10.1016/s0002-9149(02)02323-8."
+        },
+        {
+          "pmid": "15589017",
+          "type": "BACKGROUND",
+          "citation": "Gordon NF, Salmon RD, Franklin BA, Sperling LS, Hall L, Leighton RF, Haskell WL. Effectiveness of therapeutic lifestyle changes in patients with hypertension, hyperlipidemia, and/or hyperglycemia. Am J Cardiol. 2004 Dec 15;94(12):1558-61. doi: 10.1016/j.amjcard.2004.08.039."
+        },
+        {
+          "pmid": "11724655",
+          "type": "BACKGROUND",
+          "citation": "Stevens RJ, Kothari V, Adler AI, Stratton IM; United Kingdom Prospective Diabetes Study (UKPDS) Group. The UKPDS risk engine: a model for the risk of coronary heart disease in Type II diabetes (UKPDS 56). Clin Sci (Lond). 2001 Dec;101(6):671-9."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

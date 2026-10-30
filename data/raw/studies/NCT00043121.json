@@ -1,0 +1,365 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00043121",
+      "orgStudyIdInfo": {
+        "id": "NCI-2013-00004"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2013-00004",
+          "type": "REGISTRY",
+          "domain": "CTRP (Clinical Trial Reporting Program)"
+        },
+        {
+          "id": "NCI-5904"
+        },
+        {
+          "id": "WCCC-CO-02901"
+        },
+        {
+          "id": "CO 02901",
+          "type": "OTHER",
+          "domain": "University of Wisconsin Hospital and Clinics"
+        },
+        {
+          "id": "5904",
+          "type": "OTHER",
+          "domain": "CTEP"
+        },
+        {
+          "id": "U01CA062491",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/U01CA062491"
+        }
+      ],
+      "organization": {
+        "fullName": "National Cancer Institute (NCI)",
+        "class": "NIH"
+      },
+      "briefTitle": "Combination Chemotherapy in Treating Patients With Advanced Cancer That is Metastatic or Cannot Be Removed By Surgery",
+      "officialTitle": "A Phase I Study of Oxaliplatin, 5-Fluorouracil, and Leucovorin in Combination With Oral Capecitabine in Patients With Advanced Malignancy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2013-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2002-06"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2008-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2002-08-05",
+      "studyFirstSubmitQcDate": "2003-01-26",
+      "studyFirstPostDateStruct": {
+        "date": "2003-01-27",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2013-12-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2013-12-11",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "National Cancer Institute (NCI)",
+        "class": "NIH"
+      }
+    },
+    "descriptionModule": {
+      "briefSummary": "This phase I trial studies the side effects and best dose of capecitabine when given together with oxaliplatin, leucovorin calcium, and fluorouracil in treating patients with advanced cancer that is metastatic or cannot be removed by surgery. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells.",
+      "detailedDescription": "PRIMARY OBJECTIVES:\n\nI. To establish the MTD and toxicity profile of oral capecitabine in combination with q 2 weekly intravenous oxaliplatin in patients with advanced malignancies.\n\nSECONDARY OBJECTIVES:\n\nI. To characterize the pharmacokinetic parameters of capecitabine at the recommended phase II dose for combinations of capecitabine, oxaliplatin, 5-fluorouracil, and leucovorin, as well as for the combination of capecitabine and oxaliplatin.\n\nII. To observe for and record any antitumor activity.\n\nOUTLINE: This is a dose-escalation study of capecitabine.\n\nPatients receive oxaliplatin IV over 2 hours, leucovorin calcium IV, and fluorouracil IV on days 1 and 15. Patients also receive oral capecitabine every 8 hours on days 1-2 and 15-16. Leucovorin calcium and fluorouracil administration is held at dose level 4 and above. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Unspecified Adult Solid Tumor, Protocol Specific"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 50,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment (combination chemotherapy)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients receive oxaliplatin IV over 2 hours, leucovorin calcium IV, and fluorouracil IV on days 1 and 15. Patients also receive oral capecitabine every 8 hours on days 1-2 and 15-16. Leucovorin calcium and fluorouracil administration is held at dose level 4 and above. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.",
+          "interventionNames": [
+            "Drug: oxaliplatin",
+            "Drug: leucovorin calcium",
+            "Drug: fluorouracil",
+            "Drug: capecitabine",
+            "Other: pharmacological study"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "oxaliplatin",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "Treatment (combination chemotherapy)"
+          ],
+          "otherNames": [
+            "1-OHP",
+            "Dacotin",
+            "Dacplat",
+            "Eloxatin",
+            "L-OHP"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "leucovorin calcium",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "Treatment (combination chemotherapy)"
+          ],
+          "otherNames": [
+            "CF",
+            "CFR",
+            "LV"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "fluorouracil",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "Treatment (combination chemotherapy)"
+          ],
+          "otherNames": [
+            "5-fluorouracil",
+            "5-Fluracil",
+            "5-FU"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "capecitabine",
+          "description": "Given orally",
+          "armGroupLabels": [
+            "Treatment (combination chemotherapy)"
+          ],
+          "otherNames": [
+            "CAPE",
+            "Ro 09-1978/000",
+            "Xeloda"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "pharmacological study",
+          "description": "Correlative studies",
+          "armGroupLabels": [
+            "Treatment (combination chemotherapy)"
+          ],
+          "otherNames": [
+            "pharmacological studies"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "MTD, defined as the highest dose level which results in DLT in fewer than 2/6 patients, graded according to the NCI CTC version 2.0",
+          "timeFrame": "Up to 28 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Incidence of adverse events, graded according to NCI CTC version 2.0",
+          "timeFrame": "Up to 6 years"
+        },
+        {
+          "measure": "Overall survival",
+          "description": "Estimated using the product-limit method of Kaplan and Meier.",
+          "timeFrame": "Up to 6 years"
+        },
+        {
+          "measure": "Time to progression",
+          "description": "Estimated using the product-limit method of Kaplan and Meier.",
+          "timeFrame": "Up to 6 years"
+        },
+        {
+          "measure": "Duration of response",
+          "description": "Estimated using the product-limit method of Kaplan and Meier.",
+          "timeFrame": "Up to 6 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed malignancy which is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective\n* There is no limit on prior therapies\n* ECOG performance status 0-2\n* Leukocytes \\>= 3,000/ul\n* Absolute neutrophil count \\>= 1,500/ul\n* Platelets \\>= 100,000/ul\n* Total bilirubin =\\< 1.5 mg/dL\n* AST (SGOT)/ALT (SGPT) =\\< 2.5 x institutional upper limit of normal\n* Creatinine clearance \\>= 50 mL/min as calculated by the Cockroft-Gault formula\n* Patients with no \\>= grade 2 (Common Toxicity Criteria \\[CTC\\] 2.0) neuropathy\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control) prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Breastfeeding should be discontinued if the mother is treated with oxaliplatin\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 4 weeks prior to entering the study\n* Patients undergoing therapy with other investigational agents\n* Patients with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other toxicities\n* History of allergy to platinum compounds or to antiemetics appropriate for administration in conjunction with protocol-directed chemotherapy\n* Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, or unstable angina pectoris, or cardiac arrhythmia\n* Pregnant and nursing women are excluded from this study because oxaliplatin is a DNA alkylating agent with the potential for teratogenic or abortifacient effects\n* Human immunodeficiency virus (HIV)-positive patients receiving anti-retroviral therapy (HAART) are excluded from the study",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "George Wilding",
+          "affiliation": "University of Wisconsin, Madison",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Wisconsin Hospital and Clinics",
+          "city": "Madison",
+          "state": "Wisconsin",
+          "zip": "53792",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.07305,
+            "lon": -89.40123
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077150",
+          "term": "Oxaliplatin"
+        },
+        {
+          "id": "D002955",
+          "term": "Leucovorin"
+        },
+        {
+          "id": "D005472",
+          "term": "Fluorouracil"
+        },
+        {
+          "id": "D000069287",
+          "term": "Capecitabine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D056831",
+          "term": "Coordination Complexes"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D005575",
+          "term": "Formyltetrahydrofolates"
+        },
+        {
+          "id": "D013763",
+          "term": "Tetrahydrofolates"
+        },
+        {
+          "id": "D005492",
+          "term": "Folic Acid"
+        },
+        {
+          "id": "D011622",
+          "term": "Pterins"
+        },
+        {
+          "id": "D011621",
+          "term": "Pteridines"
+        },
+        {
+          "id": "D006574",
+          "term": "Heterocyclic Compounds, 2-Ring"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D003067",
+          "term": "Coenzymes"
+        },
+        {
+          "id": "D045762",
+          "term": "Enzymes and Coenzymes"
+        },
+        {
+          "id": "D014498",
+          "term": "Uracil"
+        },
+        {
+          "id": "D011744",
+          "term": "Pyrimidinones"
+        },
+        {
+          "id": "D011743",
+          "term": "Pyrimidines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D003841",
+          "term": "Deoxycytidine"
+        },
+        {
+          "id": "D003562",
+          "term": "Cytidine"
+        },
+        {
+          "id": "D011741",
+          "term": "Pyrimidine Nucleosides"
+        },
+        {
+          "id": "D003853",
+          "term": "Deoxyribonucleosides"
+        },
+        {
+          "id": "D009705",
+          "term": "Nucleosides"
+        },
+        {
+          "id": "D009706",
+          "term": "Nucleic Acids, Nucleotides, and Nucleosides"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

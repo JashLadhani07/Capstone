@@ -1,0 +1,24 @@
+{
+  "pmid": "42347980",
+  "title": "Metabolic and vascular outcomes after transition to the MiniMed 780G system in adults \u226565 years with type 1 diabetes: a randomised, single-centre study.",
+  "abstract": "Hybrid closed-loop insulin delivery systems are increasingly regarded as the preferred therapy for type 1 diabetes, although evidence in older adults remains limited. The aim of this randomised study was to evaluate the effectiveness and safety of the MiniMed 780G system in individuals with type 1 diabetes aged \u226565 years, with HbA This single-centre, open labelled (outcome assessors were not masked), randomised, controlled, parallel-group trial enrolled 34 participants who were randomly assigned in a 1:1 ratio using a computer-generated randomisation schedule to either advanced hybrid closed-loop (AHCL) therapy or control therapy (multiple daily injections or continuous subcutaneous insulin infusion) and followed for 12 months. Twenty-nine participants completed the study. Baseline characteristics, including glycaemic metrics, were comparable across groups (p>0.05). The AHCL group demonstrated a rapid and sustained improvement in glycaemic management, with time in range increasing from 57.4% at baseline to 79.7% at 12 months (p<0.001), accompanied by reductions in hyperglycaemia as reflected by time above range and time above range 2 (nominal p<0.001; p<0.001), and with no increase in hypoglycaemia across time below range and time below range 2 (nominal p=0.463; p=1). Adjusted between-group differences favoured AHCL for time in range (15.7% [95% CI 8.6, 22.6]) and HbA The MiniMed 780G system appears effective for glycaemic management and safe for use in older adults with long-standing type 1 diabetes and a high burden of comorbidities. A non-statistically significant numerical tendency (p>0.05) in the improvement of vascular function that requires further confirmation was also observed. ClinicalTrials.gov NCT06207838.",
+  "journal": "Diabetologia",
+  "pub_date": "2026-Sep",
+  "authors": [
+    "Matejko, Bart\u0142omiej",
+    "Cyranka, Katarzyna",
+    "Sudu\u0142, Paulina",
+    "Susu\u0142, Kamila",
+    "Kr\u0119\u017cel, Jakub",
+    "Chernovol, Juliia",
+    "Maga, Pawe\u0142",
+    "Malecki, Maciej T",
+    "Klupa, Tomasz"
+  ],
+  "nct_ids_referenced": [
+    "NCT06207838"
+  ],
+  "source": "pubmed",
+  "word_count": 247,
+  "parsed_at": "2026-10-30T10:29:55.368254"
+}

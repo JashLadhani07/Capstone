@@ -1,0 +1,559 @@
+{
+  "nct_id": "NCT01201785",
+  "title": "Pharmacodynamic Effects of Different Aspirin Dosing Regimens in Type 2 Diabetes Mellitus Patients With Coronary Artery Disease",
+  "sponsor": "University of Florida",
+  "phase": "PHASE4",
+  "status": "COMPLETED",
+  "conditions": [
+    "Type 2 Diabetes Mellitus",
+    "Coronary Artery Disease"
+  ],
+  "interventions": [
+    "Aspirin"
+  ],
+  "primary_outcome": "Collagen Induced Aggregation",
+  "secondary_outcomes": [],
+  "start_date": "2009-01",
+  "completion_date": "2010-09",
+  "results_posted": true,
+  "enrollment": 20,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01201785",
+        "orgStudyIdInfo": {
+          "id": "UFJ 2008-88"
+        },
+        "organization": {
+          "fullName": "University of Florida",
+          "class": "OTHER"
+        },
+        "briefTitle": "Aspirin Dosing in Diabetic Patients",
+        "officialTitle": "Pharmacodynamic Effects of Different Aspirin Dosing Regimens in Type 2 Diabetes Mellitus Patients With Coronary Artery Disease"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2012-03",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2009-01"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2010-09",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2010-09",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2010-09-03",
+        "studyFirstSubmitQcDate": "2010-09-14",
+        "studyFirstPostDateStruct": {
+          "date": "2010-09-15",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2011-10-31",
+        "resultsFirstSubmitQcDate": "2012-03-05",
+        "resultsFirstPostDateStruct": {
+          "date": "2012-03-06",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2012-03-05",
+        "lastUpdatePostDateStruct": {
+          "date": "2012-03-06",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "University of Florida",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "Since diabetic platelets are characterized by an enhanced turnover rate, it may be hypothesized that an increase in the frequency, rather than the dose, of drug administration may be a more effective strategy to inhibit platelet reactivity in diabetic patients as this may enable COX-1 blockade of newly generated platelets. However, how different dosing regimens impact the pharmacodynamic effects of aspirin selectively in diabetes mellitus has been poorly explored. Therefore, the aim of the present pilot investigation was to evaluate how increasing the frequency of aspirin administration, remaining within the daily recommended therapeutic doses, affects antiplatelet responsiveness in diabetic patients with coronary artery disease."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes Mellitus",
+          "Coronary Artery Disease"
+        ],
+        "keywords": [
+          "diabetes mellitus, coronary artery disease, aspirin therapy"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE4"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "DIAGNOSTIC",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 20,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Aspirin dose range",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Drug: Aspirin"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Aspirin",
+            "description": "After having been on aspirin 81mg/daily for at least one-week, patients switched their aspirin regimen on a weekly basis according to the following scheme: aspirin 81mg twice daily (bid) for one week; aspirin 162 mg once daily (od) for one week; aspirin 162 mg bid for one week; aspirin 325 mg od for one week. Pharmacodynamic assessments were made after each sequence (5 time-points). Afterward, patients resumed the dose of aspirin that they were on prior to entering the study.",
+            "armGroupLabels": [
+              "Aspirin dose range"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Collagen Induced Aggregation",
+            "description": "Collagen induced aggregation using light transmittance aggregometry",
+            "timeFrame": "after 1 -week of treatment"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Medically treated (taking oral hypoglycemic medication and/or insulin) type 2 diabetes mellitus patients between 18 to 75 years with stable coronary artery disease\n\nExclusion Criteria:\n\n* Blood dyscrasia or bleeding diathesis\n* Oral anticoagulation therapy with a coumadin derivative\n* Recent antiplatelet treatment (\\< 30 days) with a glycoprotein IIb/IIIa antagonist, thienopyridine (ticlopidine, clopidogrel), cilostazol or dipyridamole Platelet count \\< 100 /microL\n* History of gastrointestinal bleed within last 6 months\n* History of cerebrovascular accident within last 3 months\n* History of hospitalization for an acute coronary event or coronary revascularization (percutaneous or surgical) in the past 12 months\n* Active bleeding or hemodynamic instability\n* Any active malignancy\n* Serum creatinine \\> 2 mg/dL\n* Baseline ALT \\> 2.5 times the upper limit of normal\n* Pregnant females\n* HbA1C \\> 10%\n* Use of nonsteroidal anti-inflammatory drugs past 10 days.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Dominick J Angiolillo, MD, PhD",
+            "affiliation": "University of Florida",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of Florida",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "zip": "32209",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.33218,
+              "lon": -81.65565
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "21386092",
+            "type": "RESULT",
+            "citation": "Capodanno D, Patel A, Dharmashankar K, Ferreiro JL, Ueno M, Kodali M, Tomasello SD, Capranzano P, Seecheran N, Darlington A, Tello-Montoliu A, Desai B, Bass TA, Angiolillo DJ. Pharmacodynamic effects of different aspirin dosing regimens in type 2 diabetes mellitus patients with coronary artery disease. Circ Cardiovasc Interv. 2011 Apr 1;4(2):180-7. doi: 10.1161/CIRCINTERVENTIONS.110.960187. Epub 2011 Mar 8."
+          }
+        ]
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "preAssignmentDetails": "A total of 82 patients were screened; 48 were eligible and 36 agreed to provide their written consent. Of these, 16 did not complete all 5 treatment regimens. Therefore, a total of 20 completed all the study phases and used for analysis.",
+        "recruitmentDetails": "From January 2009 to April 2010 patients were recruited at the outpatient clinic of the Division of Cardiology at Shands Jacksonville Hospital.",
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Aspirin Dose Range",
+            "description": "Patients with type 2 DM on aspirin therapy will undergo treatment with escalating aspirin doses. Patients modified their aspirin regimen on a weekly basis according to the following scheme: 81mg/od. 81mg/bid, 162 mg/od, 162 mg/bid, 325mg/od."
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "36"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "20"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "16"
+                  }
+                ]
+              }
+            ],
+            "dropWithdraws": [
+              {
+                "type": "Lost to Follow-up",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "16"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Aspirin Dose Range",
+            "description": "Patients with type 2 DM on aspirin therapy will undergo treatment with escalating aspirin doses. Patients modified their aspirin regimen on a weekly basis according to the following scheme: 81mg/od. 81mg/bid, 162 mg/od, 162 mg/bid, 325mg/od."
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "36"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Categorical",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "<=18 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Between 18 and 65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "30"
+                      }
+                    ]
+                  },
+                  {
+                    "title": ">=65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "6"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Age Continuous",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "years",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "59",
+                        "spread": "7"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "18"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "18"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "United States",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "36"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Collagen Induced Aggregation",
+            "description": "Collagen induced aggregation using light transmittance aggregometry",
+            "populationDescription": "A 20% SD for the difference between collagen-induced platelet aggregation in patients on aspirin 81 mg od versus 81 mg bid was assumed, and based on a power of 80% and a significance level of 0.05. Based on these values, we determined that a sample population of 20 patients would be needed.",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "Standard Deviation",
+            "unitOfMeasure": "percentage of platelet aggregation",
+            "timeFrame": "after 1 -week of treatment",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Aspirin Dose Range",
+                "description": "Patients with type 2 DM on aspirin therapy will undergo treatment with escalating aspirin doses. Patients modified their aspirin regimen on a weekly basis according to the following scheme: 81mg/od. 81mg/bid, 162 mg/od, 162 mg/bid, 325mg/od."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "20"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "32",
+                        "spread": "14"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "0",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Aspirin Dose Range",
+            "description": "Patients with type 2 DM on aspirin therapy will undergo treatment with escalating aspirin doses. Patients modified their aspirin regimen on a weekly basis according to the following scheme: 81mg/od. 81mg/bid, 162 mg/od, 162 mg/bid, 325mg/od.",
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 20,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 20
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": true,
+          "restrictiveAgreement": false
+        },
+        "pointOfContact": {
+          "title": "Dominick J. Angiolillo, MD, PhD",
+          "organization": "University of Florida-Jacksonville",
+          "email": "dominick.angiolillo@jax.ufl.edu",
+          "phone": "904-244-3933"
+        }
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "id": "D003324",
+            "term": "Coronary Artery Disease"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D003327",
+            "term": "Coronary Disease"
+          },
+          {
+            "id": "D017202",
+            "term": "Myocardial Ischemia"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D001161",
+            "term": "Arteriosclerosis"
+          },
+          {
+            "id": "D001157",
+            "term": "Arterial Occlusive Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001241",
+            "term": "Aspirin"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D012459",
+            "term": "Salicylates"
+          },
+          {
+            "id": "D062385",
+            "term": "Hydroxybenzoates"
+          },
+          {
+            "id": "D010636",
+            "term": "Phenols"
+          },
+          {
+            "id": "D001555",
+            "term": "Benzene Derivatives"
+          },
+          {
+            "id": "D006841",
+            "term": "Hydrocarbons, Aromatic"
+          },
+          {
+            "id": "D006844",
+            "term": "Hydrocarbons, Cyclic"
+          },
+          {
+            "id": "D006838",
+            "term": "Hydrocarbons"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T10:29:01.718848"
+}

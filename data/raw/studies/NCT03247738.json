@@ -1,0 +1,887 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03247738",
+      "orgStudyIdInfo": {
+        "id": "IIS CHI001 WIRB"
+      },
+      "organization": {
+        "fullName": "University of Florida",
+        "class": "OTHER"
+      },
+      "briefTitle": "Platelet Inhibition With Cangrelor and Crushed Ticagrelor in STEMI",
+      "officialTitle": "Platelet Inhibition With CANgrelor and Crushed TICagrelor in STEMI Patients Undergoing Primary Percutaneous Coronary Intervention: The CANTIC Study",
+      "acronym": "CANTIC"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-11-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-12-13",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-12-13",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-08-07",
+      "studyFirstSubmitQcDate": "2017-08-10",
+      "studyFirstPostDateStruct": {
+        "date": "2017-08-14",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2020-01-10",
+      "resultsFirstSubmitQcDate": "2020-01-10",
+      "resultsFirstPostDateStruct": {
+        "date": "2020-02-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-08-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-09-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Florida",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Chiesi Farmaceutici S.p.A.",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "In STEMI patients undergoing PPCI there is a delayed onset of action of oral P2Y12 receptor inhibitors, including prasugrel and ticagrelor. Crushing prasugrel and ticagrelor improves their PK and PD profiles as it favors drug absorption and onset of antiplatelet effects and because of this, it is commonly used in STEMI patients undergoing PPCI. However, despite the use of crushed tablets, up to one-third of patients may still have high on-treatment platelet reactivity (HPR) within the first 2 hours after loading dose (LD) administration of these oral agents. Cangrelor is a potent intravenous P2Y12 receptor inhibitor with rapid onset and offset of action associated with a greater reduction in ischemic events compared with clopidogrel in P2Y12 receptor na\u00efve patients undergoing PCI. To date most studies have explored cangrelor in the setting of PCI subjects treated with clopidogrel. The PD effects of cangrelor in STEMI patients undergoing PPCI treated with a newer generation P2Y12 receptor inhibitor and how this compares with a crushed formulation of the oral drug is unexplored. The aim of this prospective randomized study is to investigate the PD effects of cangrelor in STEMI patients undergoing PPCI treated with crushed ticagrelor.",
+      "detailedDescription": "In STEMI patients undergoing PPCI there is a delayed onset of action of oral P2Y12 receptor inhibitors, including prasugrel and ticagrelor, which require more than 2 hours to exert their full antiplatelet effects, and thus exposing these high-risk patients to an increased risk of early thrombotic complications. The mechanism of this delayed onset of antiplatelet effect is likely multifactorial due to the presence in the setting of STEMI of specific conditions that translate into delayed drug absorption which in turn affect the pharmacokinetic (PK) and pharmacodynamic (PD) profiles of oral P2Y12 receptor inhibitors. Crushing prasugrel and ticagrelor improves their PK and PD profiles as it favors drug absorption and onset of antiplatelet effects and because of this, it is commonly used in STEMI patients undergoing PPCI. However, despite the use of crushed tablets, up to one-third of patients may still have high on-treatment platelet reactivity (HPR) within the first 2 hours after loading dose (LD) administration of these oral agents. Cangrelor is a potent intravenous P2Y12 receptor inhibitor with rapid onset and offset of action associated with a greater reduction in ischemic events compared with clopidogrel in P2Y12 receptor na\u00efve patients undergoing PCI. To date most studies have explored cangrelor in the setting of PCI subjects treated with clopidogrel and the clinical profile of cangrelor among patients treated with prasugrel or ticagrelor is currently unknown. This is noteworthy because ACS patients, in particular STEMI undergoing PPCI, are commonly treated with either prasugrel or ticagrelor. PD investigations conducted in vitro or ex vivo in stable patients have shown cangrelor to be associated with enhanced platelet inhibition compared with that induced by prasugrel and ticagrelor. However, the PD effects of cangrelor in STEMI patients undergoing PPCI treated with a newer generation P2Y12 receptor inhibitor and how this compares with a crushed formulation of the oral drug is unexplored. The aim of this prospective randomized study is to investigate the PD effects of cangrelor in STEMI patients undergoing PPCI treated with crushed ticagrelor."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "ST Segment Elevation Myocardial Infarction",
+        "Percutaneous Coronary Intervention"
+      ],
+      "keywords": [
+        "ticagrelor",
+        "cangrelor"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 50,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Cangrelor",
+          "type": "EXPERIMENTAL",
+          "description": "Cangrelor will be administered as 30 \u03bcg/kg bolus followed by 4 \u03bcg/kg/min infusion for 2 hours",
+          "interventionNames": [
+            "Drug: Cangrelor"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Normal saline bolus and infusion for 2 hours",
+          "interventionNames": [
+            "Other: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Cangrelor",
+          "description": "Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h.",
+          "armGroupLabels": [
+            "Cangrelor"
+          ],
+          "otherNames": [
+            "Kangreal"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo",
+          "description": "Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h.",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Platelet Reactivity Measured by VerifyNow PRU",
+          "description": "Platelet reactivity at 30 minutes after starting cangrelor or placebo assessed by VerifyNow PRU and reported as P2Y12 Reaction Units (PRU)",
+          "timeFrame": "30 minutes"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Platelet Reactivity Measured by Vasodilator-stimulated Phosphoprotein (VASP)",
+          "description": "Platelet reactivity at 30 minutes after starting cangrelor or placebo measured by VASP and reported as platelet reactivity index (PRI%). Higher PRI% means higher platelet reactivity.",
+          "timeFrame": "30 minutes"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion criteria:\n\n* Patients with STEMI undergoing primary PPCI\n* Age \\> 18 years old\n\nExclusion criteria:\n\n* Inability to provide written informed consent\n* Known history of prior intracranial bleeding\n* On treatment with a P2Y12 receptor antagonist (ticlopidine, clopidogrel, prasugrel, ticagrelor) in the prior 10 days\n* Known allergies to aspirin, ticagrelor or cangrelor\n* On treatment with oral anticoagulant\n* Treatment with glycoprotein IIb/IIIa inhibitors\n* Fibrinolytics within 24 hours\n* Active bleeding\n* High risk of bleeding\n* Known platelet count \\<80x106/mL\n* Known hemoglobin \\<10 g/dL\n* Intubated patients (prior to randomization)\n* Known creatinine clearance \\<30 mL/minute or on hemodialysis.\n* Known severe hepatic dysfunction\n* Patients with sick sinus syndrome (SSS) or high degree AV block without pacemaker protection\n* Current treatment with drugs interfering with CYP3A4 metabolism (to avoid interaction with ticagrelor): Ketoconazole, itraconazole, voriconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, atazanavir, and telithromizycin.\n* Pregnant or lactating females.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Dominick Angiolillo, MD, PhD",
+          "affiliation": "University of Florida College of Medicine-Jacksonville",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Florida",
+          "city": "Jacksonville",
+          "state": "Florida",
+          "zip": "32209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.33218,
+            "lon": -81.65565
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "31466479",
+          "type": "DERIVED",
+          "citation": "Luker J, Kuhr K, Sultan A, Nolker G, Omran H, Willems S, Andrie R, Schrickel JW, Winter S, Vollmann D, Tilz RR, Jobs A, Heeger CH, Metzner A, Meyer S, Mischke K, Napp A, Fahrig A, Steinhauser S, Brachmann J, Baldus S, Mahajan R, Sanders P, Steven D. Internal Versus External Electrical Cardioversion of Atrial Arrhythmia in Patients With Implantable Cardioverter-Defibrillator: A Randomized Clinical Trial. Circulation. 2019 Sep 24;140(13):1061-1069. doi: 10.1161/CIRCULATIONAHA.119.041320. Epub 2019 Aug 30."
+        },
+        {
+          "pmid": "30630341",
+          "type": "DERIVED",
+          "citation": "Franchi F, Rollini F, Rivas A, Wali M, Briceno M, Agarwal M, Shaikh Z, Nawaz A, Silva G, Been L, Smairat R, Kaufman M, Pineda AM, Suryadevara S, Soffer D, Zenni MM, Bass TA, Angiolillo DJ. Platelet Inhibition With Cangrelor and Crushed Ticagrelor in Patients With ST-Segment-Elevation Myocardial Infarction Undergoing Primary Percutaneous Coronary Intervention. Circulation. 2019 Apr 2;139(14):1661-1670. doi: 10.1161/CIRCULATIONAHA.118.038317."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "19 patients were not randomized because PCI was not performed or had newly identified exclusion criteria",
+      "recruitmentDetails": "Between December 10, 2017 and July 17, 2018, there were a total of 99 STEMI patients with intent to undergo P-PCI that presented to our Institution, of whom 69 provided their written informed consent to participate in the study.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Cangrelor",
+          "description": "Cangrelor will be administered as 30 \u03bcg/kg bolus followed by 4 \u03bcg/kg/min infusion for 2 hours\n\nCangrelor: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h."
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Normal saline bolus and infusion for 2 hours\n\nPlacebo: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "25"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "25"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "25"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "25"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Cangrelor",
+          "description": "Cangrelor will be administered as 30 \u03bcg/kg bolus followed by 4 \u03bcg/kg/min infusion for 2 hours\n\nCangrelor: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h."
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Normal saline bolus and infusion for 2 hours\n\nPlacebo: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "25"
+            },
+            {
+              "groupId": "BG001",
+              "value": "25"
+            },
+            {
+              "groupId": "BG002",
+              "value": "50"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60",
+                      "spread": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "60",
+                      "spread": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "60",
+                      "spread": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "36"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Radial access",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Use of glycoprotein IIb/IIIa inhibitors",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Platelet Reactivity Measured by VerifyNow PRU",
+          "description": "Platelet reactivity at 30 minutes after starting cangrelor or placebo assessed by VerifyNow PRU and reported as P2Y12 Reaction Units (PRU)",
+          "populationDescription": "The analyzed patients included all patients with pharmacodynamic data and without a major protocol deviation thought to affect the pharmacodynamic effects of ticagrelor or cangrelor.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "P2Y12 reaction units (PRU)",
+          "timeFrame": "30 minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cangrelor",
+              "description": "Cangrelor will be administered as 30 \u03bcg/kg bolus followed by 4 \u03bcg/kg/min infusion for 2 hours\n\nCangrelor: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Normal saline bolus and infusion for 2 hours\n\nPlacebo: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "22"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "22"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63",
+                      "lowerLimit": "32",
+                      "upperLimit": "93"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "214",
+                      "lowerLimit": "183",
+                      "upperLimit": "245"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "The primary end point of our study was the comparison of platelet reactivity measured by VerifyNow PRU between cangrelor and placebo at 30 minutes after drugs were administered at the start of PCI. Assuming a common standard deviation of 70 PRU, a sample size of 20 patients per group would allow detection of a 70 PRU difference between groups with 85% power and a two-sided \u03b1 = 0.05. Considering the 2 arms and a possible 25% rate of invalid PD results we planned to randomize up to 50 patients.",
+              "pValue": "<0.001",
+              "statisticalMethod": "ANCOVA",
+              "statisticalComment": "the baseline value of platelet reactivity used as a covariate",
+              "paramType": "Mean Difference (Net)",
+              "paramValue": "152",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "108",
+              "ciUpperLimit": "195"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Platelet Reactivity Measured by Vasodilator-stimulated Phosphoprotein (VASP)",
+          "description": "Platelet reactivity at 30 minutes after starting cangrelor or placebo measured by VASP and reported as platelet reactivity index (PRI%). Higher PRI% means higher platelet reactivity.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "platelet reactivity index (PRI)",
+          "timeFrame": "30 minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cangrelor",
+              "description": "Cangrelor will be administered as 30 \u03bcg/kg bolus followed by 4 \u03bcg/kg/min infusion for 2 hours\n\nCangrelor: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Normal saline bolus and infusion for 2 hours\n\nPlacebo: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "22"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "22"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29",
+                      "lowerLimit": "18",
+                      "upperLimit": "39"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "72",
+                      "lowerLimit": "61",
+                      "upperLimit": "82"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Until time of discharge",
+      "description": "The safety population was composed of all patients exposed to at least one dose of study medication (any time from randomization until completion of the study). Any adverse event until time of discharge was recorded.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Cangrelor",
+          "description": "Cangrelor will be administered as 30 \u03bcg/kg bolus followed by 4 \u03bcg/kg/min infusion for 2 hours\n\nCangrelor: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h.",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 25,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 25,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 25
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Normal saline bolus and infusion for 2 hours\n\nPlacebo: Patients will be randomly assigned 1:1 to receive either cangrelor or matching placebo. The bolus will be administered at the same time of a 180 mg crushed ticagrelor loading dose and infusion will be continued for 2 h.",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 25,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 25,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 25
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Acute stent thrombosis",
+          "organSystem": "Cardiac disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 25
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 25
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "minor bleeding",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 25
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 25
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dominick J. Angiolillo",
+        "organization": "University of Florida College of Medicine, Jacksonville",
+        "email": "dominick.angiolillo@jax.ufl.edu",
+        "phone": "9042443933"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2018-07-20",
+          "uploadDate": "2020-01-07T16:46",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 346152
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000072657",
+          "term": "ST Elevation Myocardial Infarction"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009203",
+          "term": "Myocardial Infarction"
+        },
+        {
+          "id": "D017202",
+          "term": "Myocardial Ischemia"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D007238",
+          "term": "Infarction"
+        },
+        {
+          "id": "D007511",
+          "term": "Ischemia"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D009336",
+          "term": "Necrosis"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C117446",
+          "term": "cangrelor"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,650 @@
+{
+  "nct_id": "NCT03325114",
+  "title": "Safety and Efficacy of Chlorthalidone to Reduce Urinary Calcium Excretion in Adolescents/Yount Adult With Type 1 Diabetes",
+  "sponsor": "University of Rochester",
+  "phase": "PHASE2",
+  "status": "TERMINATED",
+  "conditions": [
+    "Type 1 Diabetes Mellitus",
+    "Hypercalciuria"
+  ],
+  "interventions": [
+    "Chlorthalidone"
+  ],
+  "primary_outcome": "Urinary Calcium Excretion",
+  "secondary_outcomes": [],
+  "start_date": "2019-06-28",
+  "completion_date": "2020-06-01",
+  "results_posted": true,
+  "enrollment": 1,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03325114",
+        "orgStudyIdInfo": {
+          "id": "66282"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "1K23DK114477-01",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/1K23DK114477-01"
+          }
+        ],
+        "organization": {
+          "fullName": "University of Rochester",
+          "class": "OTHER"
+        },
+        "briefTitle": "Safety and Efficacy of Chlorthalidone in Type 1 Diabetes",
+        "officialTitle": "Safety and Efficacy of Chlorthalidone to Reduce Urinary Calcium Excretion in Adolescents/Yount Adult With Type 1 Diabetes"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2020-12",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "COVID restrictions prohibit further study activies",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2019-06-28",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2020-06-01",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2020-06-01",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2017-10-20",
+        "studyFirstSubmitQcDate": "2017-10-24",
+        "studyFirstPostDateStruct": {
+          "date": "2017-10-30",
+          "type": "ACTUAL"
+        },
+        "resultsFirstSubmitDate": "2020-12-08",
+        "resultsFirstSubmitQcDate": "2020-12-08",
+        "resultsFirstPostDateStruct": {
+          "date": "2021-01-05",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2020-12-08",
+        "lastUpdatePostDateStruct": {
+          "date": "2021-01-05",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "University of Rochester",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+            "class": "NIH"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": true
+      },
+      "descriptionModule": {
+        "briefSummary": "This open-label study will determine if chlorthalidone is safe and effective for the use of reducing urinary calcium excretion over 4 weeks in subjects with type 1 diabetes",
+        "detailedDescription": "Type 1 diabetes (T1D) is associated with increased urinary calcium loss, which may contribute to the low bone mineral density and increased fracture risk observed in patients with this condition. Chlorthalidone is a thiazide-like diuretic that is commonly used to reduce urinary calcium excretion in other conditions such as idiopathic hypercalciuria. Its safety and efficacy has not been specifically tested in an adolescent type 1 diabetes population.\n\nT1D subjects with hypercalciuria and who meet inclusion/exclusion criteria will be given chlorthalidone daily. Blood and urine tests, blood pressure, and glycemic control will be assessed at weekly study visits for 4 weeks."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 1 Diabetes Mellitus",
+          "Hypercalciuria"
+        ],
+        "keywords": [
+          "type 1 diabetes",
+          "hypercalciuria"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 1,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Chlorthalidone",
+            "type": "OTHER",
+            "description": "Chlorthalidone 12.5-50 mg by mouth daily for 4 weeks",
+            "interventionNames": [
+              "Drug: Chlorthalidone"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Chlorthalidone",
+            "description": "Chlorthalidone 12.5-5 mg by mouth daily for 4 weeks",
+            "armGroupLabels": [
+              "Chlorthalidone"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Urinary Calcium Excretion",
+            "description": "Change in 24 hour urine calcium excretion",
+            "timeFrame": "Assessed at baseline and at 4 weeks"
+          },
+          {
+            "measure": "Hypokalemia",
+            "description": "Serum potassium decreased to \\<3.5 milliequivalent/L",
+            "timeFrame": "Assessed weekly for up to 4 weeks or until hypokalemia develops"
+          },
+          {
+            "measure": "Hypercalcemia",
+            "description": "Serum calcium increased to \\>10.5 mg/dL",
+            "timeFrame": "Assessed weekly for up to 4 weeks or until hypercalcemia develops"
+          },
+          {
+            "measure": "Hyperglycemia",
+            "description": "Change in serum fructosamine",
+            "timeFrame": "Assessed at baseline and at 4 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of T1D\n* Age 12-21 years\n* Tanner Stage 2 or greater pubertal development\n* Urine calcium excretion \u2265 4 mg/kg/day\n* Able to swallow pills\n\nExclusion Criteria:\n\n* BMI \\> 99th percentile for age (\\<18 years) or BMI \\>35 kg/m2 (\u2265 18 years)\n* Coexistent conditions that may affect calcium metabolism including:\n\n  * celiac disease\n  * Graves' Disease\n  * Addison's disease\n  * hypo- or hyperparathyroidism\n* History of diabetes related complications including:\n\n  * neuropathy\n  * retinopathy\n  * nephropathy\n  * gastroparesis\n* History of oral or inhaled corticosteroid use for \u2265 5 consecutive days within the past month\n* History of any diuretic use within the past month\n* Laboratory abnormalities on screening bloodwork including:\n\n  * estimated glomerular filtration rate \\<90 mL/min per 1.73 m2 of body surface area\n  * serum calcium \\>10.5 mg/dL\n  * serum potassium \\<3.5 mmol/L\n* Systolic or diastolic blood pressure \\<5th percentile for age and sex50 for age \\<18 years or systolic \\<90 mmHg or diastolic blood pressure \\<60 mmHG for age \u226518 years",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "12 Years",
+        "maximumAge": "21 Years",
+        "stdAges": [
+          "CHILD",
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "University of Rochester",
+            "city": "Rochester",
+            "state": "New York",
+            "zip": "14642",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.15478,
+              "lon": -77.61556
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO",
+        "description": "Data will be available in aggregate. No plan to share individual data at present."
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Chlorthalidone",
+            "description": "Chlorthalidone 12.5-50 mg by mouth daily for 4 weeks\n\nChlorthalidone: Chlorthalidone 12.5-5 mg by mouth daily for 4 weeks"
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "populationDescription": "Due to only one participant being enrolled there are concerns regarding patient confidentiality, therefore no data is being reported.",
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Chlorthalidone",
+            "description": "Chlorthalidone 12.5-50 mg by mouth daily for 4 weeks\n\nChlorthalidone: Chlorthalidone 12.5-5 mg by mouth daily for 4 weeks"
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "0"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Categorical",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "<=18 years"
+                  },
+                  {
+                    "title": "Between 18 and 65 years"
+                  },
+                  {
+                    "title": ">=65 years"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Age, Continuous"
+          },
+          {
+            "title": "Sex: Female, Male",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female"
+                  },
+                  {
+                    "title": "Male"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Race (NIH/OMB)",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "American Indian or Alaska Native"
+                  },
+                  {
+                    "title": "Asian"
+                  },
+                  {
+                    "title": "Native Hawaiian or Other Pacific Islander"
+                  },
+                  {
+                    "title": "Black or African American"
+                  },
+                  {
+                    "title": "White"
+                  },
+                  {
+                    "title": "More than one race"
+                  },
+                  {
+                    "title": "Unknown or Not Reported"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "United States"
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Urinary Calcium Excretion",
+            "description": "Change in 24 hour urine calcium excretion",
+            "populationDescription": "Due to only one participant being enrolled there are concerns regarding patient confidentiality, therefore no data is being reported.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Assessed at baseline and at 4 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Chlorthalidone",
+                "description": "Chlorthalidone 12.5-50 mg by mouth daily for 4 weeks\n\nChlorthalidone: Chlorthalidone 12.5-5 mg by mouth daily for 4 weeks"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PRIMARY",
+            "title": "Hypokalemia",
+            "description": "Serum potassium decreased to \\<3.5 milliequivalent/L",
+            "populationDescription": "Due to only one participant being enrolled there are concerns regarding patient confidentiality, therefore no data is being reported.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Assessed weekly for up to 4 weeks or until hypokalemia develops",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Chlorthalidone",
+                "description": "Chlorthalidone 12.5-50 mg by mouth daily for 4 weeks\n\nChlorthalidone: Chlorthalidone 12.5-5 mg by mouth daily for 4 weeks"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PRIMARY",
+            "title": "Hypercalcemia",
+            "description": "Serum calcium increased to \\>10.5 mg/dL",
+            "populationDescription": "Due to only one participant being enrolled there are concerns regarding patient confidentiality, therefore no data is being reported.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Assessed weekly for up to 4 weeks or until hypercalcemia develops",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Chlorthalidone",
+                "description": "Chlorthalidone 12.5-50 mg by mouth daily for 4 weeks\n\nChlorthalidone: Chlorthalidone 12.5-5 mg by mouth daily for 4 weeks"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PRIMARY",
+            "title": "Hyperglycemia",
+            "description": "Change in serum fructosamine",
+            "populationDescription": "Due to only one participant being enrolled there are concerns regarding patient confidentiality, therefore no data is being reported.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Assessed at baseline and at 4 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Chlorthalidone",
+                "description": "Chlorthalidone 12.5-50 mg by mouth daily for 4 weeks\n\nChlorthalidone: Chlorthalidone 12.5-5 mg by mouth daily for 4 weeks"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "0",
+        "timeFrame": "4 weeks",
+        "description": "Due to only one participant being enrolled there are concerns regarding patient confidentiality, therefore no data is being reported.",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Chlorthalidone",
+            "description": "Chlorthalidone 12.5-50 mg by mouth daily for 4 weeks\n\nChlorthalidone: Chlorthalidone 12.5-5 mg by mouth daily for 4 weeks",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 0,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 0,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 0
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": true
+        },
+        "pointOfContact": {
+          "title": "Carrie Dykes",
+          "organization": "University of Rochester",
+          "email": "carrie_dykes@urmc.rochester.edu",
+          "phone": "15852750736"
+        }
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot_SAP",
+            "hasProtocol": true,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Study Protocol and Statistical Analysis Plan",
+            "date": "2017-10-10",
+            "uploadDate": "2020-12-08T14:50",
+            "filename": "Prot_SAP_001.pdf",
+            "size": 685104
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003922",
+            "term": "Diabetes Mellitus, Type 1"
+          },
+          {
+            "id": "D053565",
+            "term": "Hypercalciuria"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D001327",
+            "term": "Autoimmune Diseases"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          },
+          {
+            "id": "D020924",
+            "term": "Urological Manifestations"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002752",
+            "term": "Chlorthalidone"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D000096926",
+            "term": "Benzenesulfonamides"
+          },
+          {
+            "id": "D013449",
+            "term": "Sulfonamides"
+          },
+          {
+            "id": "D000577",
+            "term": "Amides"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D001555",
+            "term": "Benzene Derivatives"
+          },
+          {
+            "id": "D006841",
+            "term": "Hydrocarbons, Aromatic"
+          },
+          {
+            "id": "D006844",
+            "term": "Hydrocarbons, Cyclic"
+          },
+          {
+            "id": "D006838",
+            "term": "Hydrocarbons"
+          },
+          {
+            "id": "D001577",
+            "term": "Benzophenones"
+          },
+          {
+            "id": "D010797",
+            "term": "Phthalimides"
+          },
+          {
+            "id": "D007094",
+            "term": "Imides"
+          },
+          {
+            "id": "D007659",
+            "term": "Ketones"
+          },
+          {
+            "id": "D013450",
+            "term": "Sulfones"
+          },
+          {
+            "id": "D013457",
+            "term": "Sulfur Compounds"
+          },
+          {
+            "id": "D054833",
+            "term": "Isoindoles"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T13:37:30.604273"
+}

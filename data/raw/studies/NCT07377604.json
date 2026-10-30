@@ -1,0 +1,262 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07377604",
+      "orgStudyIdInfo": {
+        "id": "ADUPEDDKAHB2025"
+      },
+      "organization": {
+        "fullName": "Aydin Adnan Menderes University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Hemoglobin Levels and Resolution Time of Diabetic Ketoacidosis in Pediatric Patients",
+      "officialTitle": "Impact of Anemia on Time to Resolution of Diabetic Ketoacidosis and Hospital Outcomes in Children: A Single-Center Retrospective Cohort Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-01",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2013-11-11",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2026-12-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-01-13",
+      "studyFirstSubmitQcDate": "2026-01-22",
+      "studyFirstPostDateStruct": {
+        "date": "2026-01-30",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-01-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-01-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Aykut \u00c7a\u011flar, MD",
+        "investigatorTitle": "Associate Professor",
+        "investigatorAffiliation": "Aydin Adnan Menderes University"
+      },
+      "leadSponsor": {
+        "name": "Aydin Adnan Menderes University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This retrospective observational cohort study aims to evaluate the association between hemoglobin levels and the time to resolution of diabetic ketoacidosis (DKA) in pediatric patients. The primary hypothesis is that children with anemia experience a longer duration of DKA and prolonged hospitalization compared with non-anemic children. All eligible patients aged 1-18 years who were diagnosed with DKA between 01.01.2013 and 01.01.2025 at a tertiary pediatric center will be included. Clinical, laboratory, and treatment data will be collected from electronic medical records.",
+      "detailedDescription": "This retrospective observational study investigates whether hemoglobin (Hb) levels, measured within 0-24 hours after biochemical resolution of diabetic ketoacidosis (DKA), are associated with the time to DKA resolution in pediatric patients. DKA resolution is defined as achievement of a venous pH \u2265 7.30 and a serum bicarbonate level \u2265 15 mmol/L. Only the first documented DKA episode for each patient will be included in the analysis.\n\nSecondary outcomes include pediatric intensive care unit (PICU) length of stay, total hospital length of stay, and DKA-related complications such as hypoglycemia, electrolyte disturbances, and suspected cerebral edema. Exploratory analyses will assess the association of pre-DKA hemoglobin levels (when available), hemoglobin levels at hospital discharge, and dehydration severity-reflected by admission hematocrit-with clinical outcomes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabete Type 1",
+        "Ketoacidosis, Diabetic",
+        "Pediatrics",
+        "Child"
+      ],
+      "keywords": [
+        "Anemia",
+        "Ketoacidosis, Diabetic",
+        "Child",
+        "Hemoglobin",
+        "pediatric emergency"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "RETROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 150,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Pediatric Patients With Diabetic Ketoacidosis",
+          "description": "Children and adolescents aged 1-18 years diagnosed with diabetic ketoacidosis (DKA) according to ISPAD criteria. All patients included in this cohort were managed according to standard institutional DKA treatment protocols. Hemoglobin levels were assessed after biochemical resolution of DKA, and patients were categorized analytically as anemic or non-anemic for outcome comparisons."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Time to Resolution of Diabetic Ketoacidosis",
+          "description": "Time from initiation of DKA treatment to biochemical resolution of DKA. Biochemical resolution is defined as achievement of a venous pH \u2265 7.30 and a serum bicarbonate level \u2265 15 mmol/L. The outcome is measured in hours and analyzed in relation to hemoglobin levels measured within 0-24 hours after DKA resolution.",
+          "timeFrame": "From initiation of DKA treatment until biochemical resolution, assessed up to 7 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Pediatric Intensive Care Unit (PICU) Length of Stay",
+          "description": "Length of stay in the pediatric intensive care unit measured from PICU admission to PICU discharge. The association with post-resolution hemoglobin levels will be evaluated.",
+          "timeFrame": "From PICU admission until PICU discharge, assessed up to 30 days"
+        },
+        {
+          "measure": "Total Hospital Length of Stay",
+          "description": "Total length of hospital stay measured from hospital admission to hospital discharge. The association between hospital length of stay and post-resolution hemoglobin levels will be evaluated.",
+          "timeFrame": "From hospital admission until hospital discharge, assessed up to 30 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age between 1 and 18 years\n* Diagnosis of diabetic ketoacidosis (DKA) according to ISPAD criteria\n* First documented episode of DKA\n* Availability of hemoglobin measurement obtained within 0-24 hours after biochemical resolution of DKA\n* Availability of documented timestamps for initiation of DKA treatment and biochemical resolution\n\nExclusion Criteria:\n\n* Hyperosmolar hyperglycemic state (HHS) or mixed DKA-HHS presentation\n* Known hemoglobinopathies (e.g., thalassemia major, sickle cell disease)\n* Evidence of active hemolysis documented in medical records (e.g., elevated lactate dehydrogenase, indirect hyperbilirubinemia, or low haptoglobin)\n* Red blood cell transfusion administered before or during the DKA treatment period\n* Missing hemoglobin measurement within the predefined post-resolution window (0-24 hours)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "1 Year",
+      "maximumAge": "18 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ],
+      "studyPopulation": "Pediatric patients treated for DKA in the pediatric emergency department and pediatric intensive care unit of a tertiary university hospital.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Adnan Menderes University",
+          "city": "Aydin",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 37.84501,
+            "lon": 27.83963
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "type": "BACKGROUND",
+          "citation": "Ma\u0142achowska, B., Micha\u0142ek, D., Koptas, M., Pietras, W., M\u0142ynarski, W., Szadkowska, A., & Fendler, W. (2020). Changes in hematological parameters during first days of diabetic ketoacidosis treatment in children with type 1 diabetes mellitus. Clinical Diabetology, 9(3), 149-160. https://doi.org/10.5603/DK.2020.0006"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Safinaz AE, Asmaa AS,Nouran Y,Rasha AT. Iron Deficiency Anemia in Children and Adolescents with Type I Diabetes, Is it a Real Problem?. The Medical Journal of Cairo University. 2021 Sep 89; 1603-19."
+        },
+        {
+          "pmid": "36844374",
+          "type": "BACKGROUND",
+          "citation": "Forestell B, Battaglia F, Sharif S, Eltorki M, Samaan MC, Choong K, Rochwerg B. Insulin Infusion Dosing in Pediatric Diabetic Ketoacidosis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Crit Care Explor. 2023 Feb 17;5(2):e0857. doi: 10.1097/CCE.0000000000000857. eCollection 2023 Feb."
+        },
+        {
+          "pmid": "35492887",
+          "type": "BACKGROUND",
+          "citation": "Getawa S, Adane T. Hematological abnormalities among adults with type 1 diabetes mellitus at the University of Gondar Comprehensive Specialized Hospital. SAGE Open Med. 2022 Apr 24;10:20503121221094212. doi: 10.1177/20503121221094212. eCollection 2022."
+        },
+        {
+          "pmid": "37568965",
+          "type": "BACKGROUND",
+          "citation": "Kostopoulou E, Sinopidis X, Fouzas S, Gkentzi D, Dassios T, Roupakias S, Dimitriou G. Diabetic Ketoacidosis in Children and Adolescents; Diagnostic and Therapeutic Pitfalls. Diagnostics (Basel). 2023 Aug 4;13(15):2602. doi: 10.3390/diagnostics13152602."
+        },
+        {
+          "pmid": "38326724",
+          "type": "BACKGROUND",
+          "citation": "Faghir-Ganji M, Abdolmohammadi N, Nikbina M, Amanollahi A, Ansari-Moghaddam A, Rozhan R, Baradaran H. Prevalence of Anemia in Patients with Diabetes Mellitus: A Systematic Review and Meta-Analysis. Biomed Environ Sci. 2024 Jan 20;37(1):96-107. doi: 10.3967/bes2024.008."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "De-identified individual participant data will not be shared publicly due to institutional policies, ethical restrictions, and the retrospective nature of the study using routinely collected clinical data. Aggregate data and statistical code may be provided upon reasonable request, subject to institutional approval."
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2026-01-22",
+          "uploadDate": "2026-01-22T03:18",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 208716
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016883",
+          "term": "Diabetic Ketoacidosis"
+        },
+        {
+          "id": "D000740",
+          "term": "Anemia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007662",
+          "term": "Ketosis"
+        },
+        {
+          "id": "D000138",
+          "term": "Acidosis"
+        },
+        {
+          "id": "D000137",
+          "term": "Acid-Base Imbalance"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

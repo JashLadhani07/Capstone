@@ -1,0 +1,233 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04488848",
+      "orgStudyIdInfo": {
+        "id": "ERGE"
+      },
+      "organization": {
+        "fullName": "Barmherzige Br\u00fcder Linz",
+        "class": "OTHER"
+      },
+      "briefTitle": "Cardiometabolic Effects of Rapid Glucose Excursion",
+      "officialTitle": "Effect of Rapid Glucose Excursion Versus Continuous Glucose Infusion on Cardiovascular and Metabolic Parameters in Healthy Volunteers",
+      "acronym": "ERGE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-01",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-04-11",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-12-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-07",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2019-08-07",
+      "studyFirstSubmitQcDate": "2020-07-26",
+      "studyFirstPostDateStruct": {
+        "date": "2020-07-28",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-01-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-01-27",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Barmherzige Br\u00fcder Linz",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The effects of rapid glucose excursions, induced by intravenous bolus application of glucose in healthy probands, on cardiometabolic and inflammatory parameters will be investigated",
+      "detailedDescription": "BACKGROUND: It is well known that people with diabetes have a five times higher risk of dying of cardiovascular death than non-diabetics. However not only hyperglycaemia per se but also glycaemic variability is currently particularly regarded as a risk factor for cardiovascular and microvascular complications. Intermittent blood sugar excursions with pronounced fluctuations between high and low values instead of constant, even increased blood sugar exposure, have been shown to be more harmful in several studies.\n\nAIM: The aim of this study is to determine the effect of rapid glucose excursion versus continuous glucose infusion on cardiovascular and metabolic parameters in healthy volunteers.\n\nMETHODS/DESIGN: In this study, ten healthy male subjects will be studied on two occasions. In a random order the subjects will receive 3 times 20 grams of glucose intravenously as a bolus or, on the other occasion, 60 grams of glucose continuously over 3 hours. Cardiometabolic biomarkers will be analysed serially to analyse the effects of glucose excursions.\n\nPROSPECT: Glycaemic variability may be a crucial factor in the development of diabetic complications, but there is currently a lack of conclusive evidence. The causes and mechanisms of these negative influences on the cardiovascular system due to high glucose variability have not been sufficiently investigated and are therefore not fully understood so far. To date, however, there have been no studies with acutely altered glucose concentrations in healthy volunteers that have investigated the effects on traditional as well as recently identified cardiovascular and metabolic biomarkers. Knowledge of such effects may improve the therapeutic strategy in diabetic patients."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus, Experimental"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 10,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "continous glucose",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "continous glucose infusion (60 grams over 3 hours)",
+          "interventionNames": [
+            "Other: continuous clucose"
+          ]
+        },
+        {
+          "label": "bolus (excursion)",
+          "type": "EXPERIMENTAL",
+          "description": "3 x 20 grams of glucose as a bolus over 6 minutes at t0, 60 minutes and 120 minutes",
+          "interventionNames": [
+            "Other: bolus glucose"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "bolus glucose",
+          "description": "bolus Glucose",
+          "armGroupLabels": [
+            "bolus (excursion)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "continuous clucose",
+          "description": "continuous clucose",
+          "armGroupLabels": [
+            "continous glucose"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Interleukin-6",
+          "description": "measurement of the concentration of IL-6 (parameter of inflammation) in the serum over time following infusion",
+          "timeFrame": "48 hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Men aged 18 years or older with no disease history\n* written informed consent\n\nExclusion Criteria:\n\n* receiving any medication\n* probands who suffer from infectious disease",
+      "healthyVolunteers": true,
+      "sex": "MALE",
+      "genderBased": true,
+      "genderDescription": "homogeneity",
+      "minimumAge": "18 Years",
+      "maximumAge": "40 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Matthias Heinzl, MD",
+          "role": "CONTACT",
+          "phone": "+43732789721236",
+          "email": "matthias.heinzl@gmx.at"
+        },
+        {
+          "name": "Martin Clodi, MD, Prof.",
+          "role": "CONTACT",
+          "phone": "+43732789724305",
+          "email": "martin.clodi@clodi.at"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Barmherzige Br\u00fcder Linz - Innere Medizin",
+          "status": "RECRUITING",
+          "city": "Linz",
+          "zip": "4021",
+          "country": "Austria",
+          "contacts": [
+            {
+              "name": "Matthias Heinzl",
+              "role": "CONTACT",
+              "phone": "+436765206829",
+              "email": "matthias.heinzl@bblinz.at"
+            }
+          ],
+          "geoPoint": {
+            "lat": 48.30639,
+            "lon": 14.28611
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "36574434",
+          "type": "DERIVED",
+          "citation": "Feldbauer R, Heinzl MW, Klammer C, Resl M, Pohlhammer J, Rosenberger K, Almesberger V, Obendorf F, Schinagl L, Wagner T, Egger M, Dieplinger B, Clodi M. Effect of repeated bolus and continuous glucose infusion on a panel of circulating biomarkers in healthy volunteers. PLoS One. 2022 Dec 27;17(12):e0279308. doi: 10.1371/journal.pone.0279308. eCollection 2022."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003921",
+          "term": "Diabetes Mellitus, Experimental"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

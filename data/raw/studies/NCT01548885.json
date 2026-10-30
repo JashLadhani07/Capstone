@@ -1,0 +1,645 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01548885",
+      "orgStudyIdInfo": {
+        "id": "CTD-PRO-2012-001-01"
+      },
+      "organization": {
+        "fullName": "Ascensia Diabetes Care",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Comparison Evaluation of Blood Glucose Meter Systems",
+      "officialTitle": "Evaluation of Blood Glucose Meter Systems - NACT Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2012-03"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2012-03",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2012-03",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2012-03-06",
+      "studyFirstSubmitQcDate": "2012-03-06",
+      "studyFirstPostDateStruct": {
+        "date": "2012-03-08",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2013-03-27",
+      "resultsFirstSubmitQcDate": "2013-07-03",
+      "resultsFirstPostDateStruct": {
+        "date": "2013-08-06",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2016-01-29",
+      "lastUpdatePostDateStruct": {
+        "date": "2016-02-29",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Ascensia Diabetes Care",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study was to evaluate the performance of one investigational Bayer Blood Glucose meter (with investigational Bayer test strips) and four Blood Glucose Monitoring Systems from other companies. All meter BG results were compared with plasma results obtained with a reference laboratory glucose method (YSI Glucose Analyzer). Performance of the five systems was evaluated across the glucose range of the BGMSs using capillary blood. All testing and lancing were performed by study staff and some blood samples were glycolyzed to lower the glucose levels."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "DIAGNOSTIC",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 146,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Study Staff Test BGMSs",
+          "type": "EXPERIMENTAL",
+          "description": "All testing and lancings were performed by the study staff; subjects did not perform any lancing or self-testing in this study. Study Staff lanced the fingers of subjects and tested the blood samples using five Blood Glucose Monitoring Systems(BGMS): FreeStyle Freedom Lite\u00ae BGMS; ACCU-CHEK\u00ae Aviva BGMS; TRUEtrack\u00ae BGMS; OneTouch\u00ae Ultra\u00ae2 BGMS; CONTOUR\u00ae NEXT EZ BGMS.",
+          "interventionNames": [
+            "Device: CONTOUR\u00ae NEXT EZ BGMS",
+            "Device: FreeStyle Freedom Lite\u00ae BGMS",
+            "Device: ACCU-CHEK\u00ae Aviva BGMS",
+            "Device: TRUEtrack\u00ae BGMS",
+            "Device: OneTouch\u00ae Ultra\u00ae2 BGMS"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "CONTOUR\u00ae NEXT EZ BGMS",
+          "description": "Study staff performed Blood Glucose (BG) testing with capillary fingerstick blood collected from subjects with diabetes and without diabetes (up to 10% of subjects without diabetes were included). Performance of CONTOUR\u00ae NEXT EZ BGMS was evaluated across the glucose range of the BGMs. All meter BG results were compared with capillary plasma results obtained with a reference laboratory glucose method (YSI Glucose Analyzer).",
+          "armGroupLabels": [
+            "Study Staff Test BGMSs"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "FreeStyle Freedom Lite\u00ae BGMS",
+          "description": "Study staff performed Blood Glucose (BG) testing with capillary fingerstick blood collected from subjects with diabetes and without diabetes (up to 10% of subjects without diabetes were included). Performance of FreeStyle Freedom Lite\u00ae BGMS was evaluated across the glucose range of the BGMs. All meter BG results were compared with capillary plasma results obtained with a reference laboratory glucose method (YSI Glucose Analyzer).",
+          "armGroupLabels": [
+            "Study Staff Test BGMSs"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "ACCU-CHEK\u00ae Aviva BGMS",
+          "description": "Study staff performed Blood Glucose (BG) testing with capillary fingerstick blood collected from subjects with diabetes and without diabetes (up to 10% of subjects without diabetes were included). Performance of ACCU-CHEK\u00ae Aviva BGMS was evaluated across the glucose range of the BGMs. All meter BG results were compared with capillary plasma results obtained with a reference laboratory glucose method (YSI Glucose Analyzer).",
+          "armGroupLabels": [
+            "Study Staff Test BGMSs"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "TRUEtrack\u00ae BGMS",
+          "description": "Study staff performed Blood Glucose (BG) testing with capillary fingerstick blood collected from subjects with diabetes and without diabetes (up to 10% of subjects without diabetes were included). Performance of TRUEtrack\u00ae BGMS was evaluated across the glucose range of the BGMs. All meter BG results were compared with capillary plasma results obtained with a reference laboratory glucose method (YSI Glucose Analyzer).",
+          "armGroupLabels": [
+            "Study Staff Test BGMSs"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "OneTouch\u00ae Ultra\u00ae2 BGMS",
+          "description": "Study staff performed Blood Glucose (BG) testing with capillary fingerstick blood collected from subjects with diabetes and without diabetes (up to 10% of subjects without diabetes were included). Performance of OneTouch\u00ae Ultra\u00ae2 BGMS was evaluated across the glucose range of the BGMs. All meter BG results were compared with capillary plasma results obtained with a reference laboratory glucose method (YSI Glucose Analyzer).",
+          "armGroupLabels": [
+            "Study Staff Test BGMSs"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "MARD (Mean Absolute Relative Difference Between BGMS Results and Reference Method Results) Across the Overall Tested Glucose Range",
+          "description": "Using the overall Blood Glucose(BG) range (24 to 386mg/dL), the Mean Absolute Relative Differences (MARD) between the BGM System readings and the YSI laboratory reference values were compared. MARD is calculated from the sum of all \\|(BG meter)-(BG reference)\\| / (BG Reference) assessments, divided by the number of assessments, then multiplied by 100(%). Each evaluable sample was tested on all five BGMS, thus the same number of BG test results was analyzed for each BGMS intervention. Lower MARD value indicates smaller difference between meter value and the reference value . Higher MARD value indicates larger difference between meter value and the reference value.",
+          "timeFrame": "10 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "MARD (Mean Absolute Relative Difference Between BGMS Results and Reference Method Results) Across the Low Glucose Range (<70mg/dL)",
+          "description": "Using fresh and glycolyzed samples with Blood Glucose(BG) below 70 mg/dL, the Mean Absolute Relative Differences (MARD) between the BGM System readings and the YSI laboratory reference values were compared. MARD is calculated from the sum of all \\|(BG meter)-(BG reference)\\| / (BG Reference) assessments, divided by the number of assessments, then multiplied by 100(%). Each evaluable sample was tested on all five BGMS, thus the same number of BG test results was analyzed for each BGMS intervention. Lower MARD value indicates smaller difference between meter value and the reference value . Higher MARD value indicates larger difference between meter value and the reference value.",
+          "timeFrame": "10 hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Males and females\n* 18 years of age or older\n* Willing to complete all study procedures\n\nExclusion Criteria:\n\n* Blood Borne infections like hepatitis or HIV or infections such as tuberculosis\n* Hemophilia or any other bleeding disorder\n* Pregnancy",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "David Simmons, MD",
+          "affiliation": "Ascensia Diabetes Care",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Bayer HealthCare LLC, Diabetes Care",
+          "city": "Mishawaka",
+          "state": "Indiana",
+          "zip": "46544",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66199,
+            "lon": -86.15862
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Study Staff Test BGMSs",
+          "description": "All testing and lancings were performed by the study staff; subjects did not perform any lancing or self-testing in this study. Study Staff lanced the fingers of subjects and tested the blood samples using five Blood Glucose Monitoring Systems(BGMS): FreeStyle Freedom Lite\u00ae BGMS; TRUEtrack\u00ae BGMS; OneTouch\u00ae Ultra\u00ae2 BGMS; ACCU-CHEK\u00ae Aviva BGMS; CONTOUR\u00ae NEXT EZ BGMS."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "146"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "146"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Per protocol",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Study Staff Test BGMSs",
+          "description": "All testing and lancings were performed by the study staff; subjects did not perform any lancing or self-testing in this study. Study Staff lanced the fingers of subjects and tested the blood samples using five Blood Glucose Monitoring Systems(BGMS): FreeStyle Freedom Lite\u00ae BGMS; TRUEtrack\u00ae BGMS; OneTouch\u00ae Ultra\u00ae2 BGMS; ACCU-CHEK\u00ae Aviva BGMS; CONTOUR\u00ae NEXT EZ BGMS."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "146"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62",
+                      "lowerLimit": "19",
+                      "upperLimit": "87"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "85"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "146"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "MARD (Mean Absolute Relative Difference Between BGMS Results and Reference Method Results) Across the Overall Tested Glucose Range",
+          "description": "Using the overall Blood Glucose(BG) range (24 to 386mg/dL), the Mean Absolute Relative Differences (MARD) between the BGM System readings and the YSI laboratory reference values were compared. MARD is calculated from the sum of all \\|(BG meter)-(BG reference)\\| / (BG Reference) assessments, divided by the number of assessments, then multiplied by 100(%). Each evaluable sample was tested on all five BGMS, thus the same number of BG test results was analyzed for each BGMS intervention. Lower MARD value indicates smaller difference between meter value and the reference value . Higher MARD value indicates larger difference between meter value and the reference value.",
+          "populationDescription": "Same number 388(393-3-2)BG results possible for each BGMS.Subjects provided 1,2,or 3 capillary samples-total 393 samples. 3 glycolyzed samples were not analyzed - glycolysis exceeded the protocol-defined time. All meter data for 2 glycolyzed samples were not evaluable (not analyzed)- their YSI results were less than the meter operating ranges.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percentage",
+          "timeFrame": "10 hours",
+          "typeUnitsAnalyzed": "BG test results",
+          "denomUnitsSelected": "Participants",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Study Staff Test BGMSs",
+              "description": "All testing and lancings were performed by the study staff; subjects did not perform any lancing or self-testing in this study. Study Staff lanced the fingers of subjects and tested the blood samples using five Blood Glucose Monitoring Systems(BGMS): FreeStyle Freedom Lite\u00ae BGMS; TRUEtrack\u00ae BGMS; OneTouch\u00ae Ultra\u00ae2 BGMS; ACCU-CHEK\u00ae Aviva BGMS; CONTOUR\u00ae NEXT EZ BGMS."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "146"
+                }
+              ]
+            },
+            {
+              "units": "BG test results",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "388"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "CONTOUR\u00ae NEXT EZ BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.7",
+                      "lowerLimit": "0",
+                      "upperLimit": "11.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ACCU-CHEK\u00ae Aviva BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.3",
+                      "lowerLimit": "0",
+                      "upperLimit": "13.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FreeStyle Freedom Lite\u00ae BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18.3",
+                      "lowerLimit": "11.6",
+                      "upperLimit": "25.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "OneTouch\u00ae Ultra\u00ae2 BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23.4",
+                      "lowerLimit": "16.7",
+                      "upperLimit": "30.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TRUEtrack\u00ae BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26.2",
+                      "lowerLimit": "19.5",
+                      "upperLimit": "32.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "MARD (Mean Absolute Relative Difference Between BGMS Results and Reference Method Results) Across the Low Glucose Range (<70mg/dL)",
+          "description": "Using fresh and glycolyzed samples with Blood Glucose(BG) below 70 mg/dL, the Mean Absolute Relative Differences (MARD) between the BGM System readings and the YSI laboratory reference values were compared. MARD is calculated from the sum of all \\|(BG meter)-(BG reference)\\| / (BG Reference) assessments, divided by the number of assessments, then multiplied by 100(%). Each evaluable sample was tested on all five BGMS, thus the same number of BG test results was analyzed for each BGMS intervention. Lower MARD value indicates smaller difference between meter value and the reference value . Higher MARD value indicates larger difference between meter value and the reference value.",
+          "populationDescription": "Same number (190) of BG results was possible for each BGMS. Subjects provided 1,2,or 3 capillary samples, of which 190 samples were less than 70 mg/dL.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percentage",
+          "timeFrame": "10 hours",
+          "typeUnitsAnalyzed": "BG test results",
+          "denomUnitsSelected": "Participants",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Study Staff Test BGMSs",
+              "description": "All testing and lancings were performed by the study staff; subjects did not perform any lancing or self-testing in this study. Study Staff lanced the fingers of subjects and tested the blood samples using five Blood Glucose Monitoring Systems(BGMS): FreeStyle Freedom Lite\u00ae BGMS; TRUEtrack\u00ae BGMS; OneTouch\u00ae Ultra\u00ae2 BGMS; ACCU-CHEK\u00ae Aviva BGMS; CONTOUR\u00ae NEXT EZ BGMS."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "146"
+                }
+              ]
+            },
+            {
+              "units": "BG test results",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "190"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "CONTOUR\u00ae NEXT EZ BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.7",
+                      "lowerLimit": "0",
+                      "upperLimit": "6.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ACCU-CHEK\u00ae Aviva BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.5",
+                      "lowerLimit": "0",
+                      "upperLimit": "8.7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FreeStyle Freedom Lite\u00ae BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18.3",
+                      "lowerLimit": "12.1",
+                      "upperLimit": "28.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "OneTouch\u00ae Ultra\u00ae2 BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "22.4",
+                      "lowerLimit": "16.2",
+                      "upperLimit": "28.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TRUEtrack\u00ae BGMS",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33.2",
+                      "lowerLimit": "27.1",
+                      "upperLimit": "39.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "1",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Study Staff Test BGMSs",
+          "description": "All testing and lancings were performed by the study staff; subjects did not perform any lancing or self-testing in this study. Study Staff lanced the fingers of subjects and tested the blood samples using five Blood Glucose Monitoring Systems(BGMS): FreeStyle Freedom Lite\u00ae BGMS; TRUEtrack\u00ae BGMS; OneTouch\u00ae Ultra\u00ae2 BGMS; ACCU-CHEK\u00ae Aviva BGMS; CONTOUR\u00ae NEXT EZ BGMS.",
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 146,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 146
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "hypoglycemia",
+          "organSystem": "Endocrine disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Mild, Not device related",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 146
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Jane Wallace",
+        "organization": "Ascensia Diabetes Care",
+        "email": "jane.wallace@ascensia.com",
+        "phone": "574-257-3063"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

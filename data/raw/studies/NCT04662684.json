@@ -1,0 +1,354 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04662684",
+      "orgStudyIdInfo": {
+        "id": "21589 Michelle Trial"
+      },
+      "organization": {
+        "fullName": "Science Valley Research Institute",
+        "class": "OTHER"
+      },
+      "briefTitle": "Medically Ill Hospitalized Patients for COVID-19 THrombosis Extended ProphyLaxis With Rivaroxaban ThErapy: The MICHELLE Trial",
+      "officialTitle": "Medically Ill Hospitalized Patients for COVID-19 THrombosis Extended ProphyLaxis With Rivaroxaban ThErapy: The MICHELLE Trial",
+      "acronym": "MICHELLE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2022-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-10-16",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-07-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-08-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-12-08",
+      "studyFirstSubmitQcDate": "2020-12-09",
+      "studyFirstPostDateStruct": {
+        "date": "2020-12-10",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2022-03-27",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-04-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Eduardo Ramacciotti",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Science Valley Research Institute"
+      },
+      "leadSponsor": {
+        "name": "Science Valley Research Institute",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Bayer",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The Michelle trial is expected to provide high-quality evidence around the role of extended thromboprophylaxis in COVID-19 and will help guide medical decisions in clinical practice.",
+      "detailedDescription": "Background: The devastating COVID-19 pandemic is associated with a high prothrombotic state. It is unclear if the coagulation abnormalities occur because of the direct effect of SARS-CoV 2 or indirectly by the cytokine storm and endothelial damage, or by a combination of mechanisms. There is a clear indication of in-hospital pharmacological thromboprophylaxis for every patient with COVID-19 after bleed risk assessment. However, there is much debate regarding the best dosage regimen, and there is no consensus on the role of extended VTE prophylaxis.\n\nDesign: This study aims to evaluate the safety and efficacy of rivaroxaban 10 mg OD for 35+/-4 days versus no intervention after hospital discharge in COVID-19 patients who were at increased risk for VTE and have received standard parenteral VTE prophylaxis during hospitalization, with a composite efficacy endpoint of symptomatic VTE, VTE-related death, and/or VTE detected by mandatory bilateral lower limbs venous duplex scan and computed tomography pulmonary angiogram on day 35+/-4 post-hospital discharge.\n\nSummary: The Michelle trial is expected to provide high-quality evidence around the role of extended thromboprophylaxis in COVID-19 and will help guide medical decisions in clinical practice."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Covid19",
+        "Venous Thromboembolism"
+      ],
+      "keywords": [
+        "Covid19",
+        "Venous Thromboembolism",
+        "Direct oral anticoagulants",
+        "Rivaroxaban"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "This study aims to evaluate the safety and efficacy of rivaroxaban 10 mg OD for 35+/-4 days versus no intervention after hospital discharge in COVID-19 patients who were at increased risk for VTE and have received standard parenteral VTE prophylaxis during hospitalization, with a composite efficacy endpoint of symptomatic VTE, VTE-related death, and/or VTE detected by mandatory bilateral lower limbs venous duplex scan and computed tomography pulmonary angiogram on day 35+/-4 post-hospital discharge.",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE",
+          "maskingDescription": "open-label"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 320,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Rivaroxaban",
+          "type": "EXPERIMENTAL",
+          "description": "Rivaroxaban 10mg OD for 35+/- 4 days post-hospital discharge",
+          "interventionNames": [
+            "Drug: Rivaroxaban 10 MG"
+          ]
+        },
+        {
+          "label": "No intervention",
+          "type": "NO_INTERVENTION",
+          "description": "control"
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rivaroxaban 10 MG",
+          "description": "No intervention",
+          "armGroupLabels": [
+            "Rivaroxaban"
+          ],
+          "otherNames": [
+            "No intervention"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Venous thromboembolism and VTE related-death",
+          "description": "a composite efficacy endpoint of symptomatic VTE, VTE-related death, and/or VTE detected by mandatory bilateral lower limbs venous duplex scan and computed tomography pulmonary angiogram on day 35+/-4 post-hospital discharge",
+          "timeFrame": "at day 35 +/- post hospital discharge"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Major bleeding",
+          "description": "Incidence of major bleeding according to ISTH criteria.",
+          "timeFrame": "at day 35 +/- post hospital discharge"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "A composite of myocardial infarction, stroke, arrhythmias, heart failure, venous thromboembolism (VTE), and all-cause death.",
+          "description": "A composite of myocardial infarction, stroke, arrhythmias, heart failure, venous thromboembolism (VTE), and all-cause death.",
+          "timeFrame": "at day 35 +/- post hospital discharge"
+        },
+        {
+          "measure": "Days alive out of the hospital (DAOH) at 35 +/-4 days",
+          "description": "Days alive out of the hospital (DAOH) at 35 +/-4 days",
+          "timeFrame": "at day 35 +/- post hospital discharge"
+        },
+        {
+          "measure": "D-dimer (Biomarker)",
+          "description": "plasma level of D-dimers in ng/mL",
+          "timeFrame": "at day 35 +/- 4 post hospital discharge"
+        },
+        {
+          "measure": "C reactive protein (Biomarker)",
+          "description": "plasma level of C Reactive Protein in \u03bcg/mL",
+          "timeFrame": "at day 35 +/- 4 post hospital discharge"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Male and nonpregnant female patients 18 years of age or older\n* Positive reverse-transcriptase-polymerase-chain-reaction (RT-PCR) assay for SARS-CoV-2 in a respiratory tract sample\n* Pneumonia confirmed by chest imaging\n* Additional risk factors for VTE, as indicated by a total modified International Medical Prevention Registry on Venous Thromboembolism (IMPROVE) risk score of 4 or higher\n* Have received thromboprophylaxis with low-molecular-weight heparin, fondaparinux, or unfractionated heparin during the index hospitalization\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* Refusal of informed consent\n* Physician decision that involvement in the trial was not in the patient's best interest\n* Patients with a medical indication for anticoagulation therapy at the time of inclusion (for example, diagnosis of venous thromboembolism, atrial fibrillation, mechanical valve prosthesis)\n* Platelets \\< 50,000 / mm3\n* Patients with contraindications to anticoagulation (active bleeding, liver failure, blood dyscrasia, or prohibitive hemorrhagic risk in the investigator's assessment)\n* Active cancer (excluding non-melanoma skin cancer) defined as cancer, not in remission or requiring active chemotherapy or adjunctive therapies such as immunotherapy or radiotherapy.\n* Use of strong inhibitors of cytochrome P450 (CYP) 3A4 and/or glycoprotein P (P-gp) (eg protease inhibitors, ketoconazole, Itraconazole) and/or use of P-gp and strong inducers of CYP3A4 (how but not limiting rifampicin/rifampicin, rifabutin, rifapentine, phenytoin, phenobarbital, carbamazepine or St. John's wort)\n* Creatinine clearance \\<30 ml / min\n* Pregnancy or breastfeeding\n* known HIV infection\n* Presence of one of the following uncontrolled or unstable cardiovascular diseases: stroke, ECG confirmed acute ischemia or myocardial infarction, and/or clinically significant dysrhythmia",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "90 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Eduardo Ramacciotti, MD, Ph.D",
+          "affiliation": "Science Valley Research Institute",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Leandro Agati, PhD",
+          "affiliation": "Science Valley Research Institute",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Science Valley Research Institute",
+          "city": "Santo Andr\u00e9",
+          "state": "S\u00e3o Paulo",
+          "zip": "09030370",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.66389,
+            "lon": -46.53833
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "34921756",
+          "type": "BACKGROUND",
+          "citation": "Ramacciotti E, Barile Agati L, Calderaro D, Aguiar VCR, Spyropoulos AC, de Oliveira CCC, Lins Dos Santos J, Volpiani GG, Sobreira ML, Joviliano EE, Bohatch Junior MS, da Fonseca BAL, Ribeiro MS, Dusilek C, Itinose K, Sanches SMV, de Almeida Araujo Ramos K, de Moraes NF, Tierno PFGMM, de Oliveira ALML, Tachibana A, Chate RC, Santos MVB, de Menezes Cavalcante BB, Moreira RCR, Chang C, Tafur A, Fareed J, Lopes RD; MICHELLE investigators. Rivaroxaban versus no anticoagulation for post-discharge thromboprophylaxis after hospitalisation for COVID-19 (MICHELLE): an open-label, multicentre, randomised, controlled trial. Lancet. 2022 Jan 1;399(10319):50-59. doi: 10.1016/S0140-6736(21)02392-8. Epub 2021 Dec 15."
+        },
+        {
+          "pmid": "34480880",
+          "type": "RESULT",
+          "citation": "Ramacciotti E, Agati LB, Calderaro D, Volpiani GG, de Oliveira CCC, Aguiar VCR, Rodrigues E, Sobreira ML, Joviliano EE, Dusilek C, Itinose K, Dedivitis RA, Cortina AS, Sanches SMV, de Moraes NF, Tierno PFGMM, de Oliveira ALML, Tachibana A, Chate RC, Santos MVB, Cavalcante BBM, Moreira RCR, Chiann C, Tafur A, Spyropoulos AC, Lopes RD. Medically Ill hospitalized Patients for COVID-19 THrombosis Extended ProphyLaxis with rivaroxaban ThErapy: Rationale and Design of the MICHELLE Trial. Am Heart J. 2021 Dec;242:115-122. doi: 10.1016/j.ahj.2021.08.016. Epub 2021 Sep 1."
+        },
+        {
+          "pmid": "37591523",
+          "type": "DERIVED",
+          "citation": "Santos BC, Flumignan RL, Civile VT, Atallah AN, Nakano LC. Prophylactic anticoagulants for non-hospitalised people with COVID-19. Cochrane Database Syst Rev. 2023 Aug 16;8(8):CD015102. doi: 10.1002/14651858.CD015102.pub2."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED",
+      "description": "Red Cap open file"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000086382",
+          "term": "COVID-19"
+        },
+        {
+          "id": "D054556",
+          "term": "Venous Thromboembolism"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011024",
+          "term": "Pneumonia, Viral"
+        },
+        {
+          "id": "D011014",
+          "term": "Pneumonia"
+        },
+        {
+          "id": "D012141",
+          "term": "Respiratory Tract Infections"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D018352",
+          "term": "Coronavirus Infections"
+        },
+        {
+          "id": "D003333",
+          "term": "Coronaviridae Infections"
+        },
+        {
+          "id": "D030341",
+          "term": "Nidovirales Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D013923",
+          "term": "Thromboembolism"
+        },
+        {
+          "id": "D016769",
+          "term": "Embolism and Thrombosis"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069552",
+          "term": "Rivaroxaban"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013876",
+          "term": "Thiophenes"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D009025",
+          "term": "Morpholines"
+        },
+        {
+          "id": "D010078",
+          "term": "Oxazines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

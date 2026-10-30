@@ -1,0 +1,24 @@
+{
+  "pmid": "42557064",
+  "title": "Efficacy and Hypoglycaemia Outcomes With Once-Weekly IcoSema Versus Comparators in Individuals With Type 2 Diabetes by Kidney and Liver Function: A Post Hoc Analysis of the COMBINE 1-3 Trials.",
+  "abstract": "This post hoc analysis of COMBINE 1-3 assessed efficacy and hypoglycaemia outcomes with IcoSema (once-weekly combination therapy of basal insulin icodec and semaglutide [a glucagon-like peptide-1 analogue]) versus comparators in adults with type 2 diabetes (T2D) by kidney and liver function subgroups. Treatment outcomes were analysed by trial according to kidney (estimated glomerular filtration rate \u2265\u200990; 60-<\u200990; 30-<\u200960; <\u200930\u2009mL/min/1.73\u2009m In COMBINE 1-3, across kidney and liver function subgroups, there were no statistically significant treatment by subgroup interactions for change in glycated haemoglobin (HbA1c) (baseline to week 52), change in body weight (baseline to week 52) or rates of combined clinically significant or severe hypoglycaemia (not assessed by kidney function for COMBINE 2) (all p\u2009>\u20090.05). There were statistically significant treatment by kidney function subgroup interactions for the achievement of HbA1c <\u20097.0% without weight gain and without clinically significant or severe hypoglycaemia in COMBINE 3 (p\u2009<\u20090.05) but not COMBINE 1 or 2, and statistically significant treatment by liver function subgroup interactions in COMBINE 1 (p\u2009<\u20090.05) but not COMBINE 2 or 3. For COMBINE 1 and 3, there were statistically significant treatment by kidney function subgroup interactions for mean weekly total insulin dose, but not statistically significant treatment by liver function subgroup interactions. Efficacy and hypoglycaemia outcomes with IcoSema versus comparators were generally consistent among adults with T2D with mild to moderate kidney impairment or impaired liver function. The COMBINE 1-3 trials were sponsored by Novo Nordisk and are registered with ClinicalTrials.gov (NCT05352815; NCT05259033; NCT05013229).",
+  "journal": "Diabetes, obesity & metabolism",
+  "pub_date": "2026-Oct",
+  "authors": [
+    "Ji, Linong",
+    "Andersen, Jonas Dahl",
+    "Benamar, Malik",
+    "Ponzani, Paola",
+    "Unnikrishnan, A G",
+    "Vinther, Siri",
+    "Rea, Rosangela"
+  ],
+  "nct_ids_referenced": [
+    "NCT05013229",
+    "NCT05352815",
+    "NCT05259033"
+  ],
+  "source": "pubmed",
+  "word_count": 255,
+  "parsed_at": "2026-10-30T13:38:37.894080"
+}

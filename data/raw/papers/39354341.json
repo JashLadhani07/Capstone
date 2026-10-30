@@ -1,0 +1,23 @@
+{
+  "pmid": "39354341",
+  "title": "Exploratory analysis of the variable response to an intensive lifestyle change program for metabolic syndrome.",
+  "abstract": "Substantial variability in response to lifestyle interventions has been recognized for many years, and researchers have begun to disentangle sources of error from inherent differences in individual responsiveness. The objective of this secondary analysis of an intensive lifestyle intervention (diet and exercise) for metabolic syndrome (MetS) was to identify potentially important differences among study completers grouped by treatment response as measured by change in a continuous metabolic syndrome score (Gurka/MetS). All study completers from a 12-month primary care study were categorized into one of five groups according to change in the Gurka/MetS score. A change of 0.4 in z-score defined clinically relevant change in line with results of previous studies. Repeated measures analysis of variance was used to examine cardiovascular disease risk and individual clinical indicators of MetS over 12 months, looking for differences in response over time by the five groups. Of 176 participants, 50% (n\u2009=\u200988) had stable scores, 10% (n\u2009=\u200918) had relevant change scores in the first 3 months only and reverted toward baseline, 20% (n\u2009=\u200935) achieved meaningful change over the whole study, 11% (n\u2009=\u200920) had a delayed response at 3-12 months, and 9% (n\u2009=\u200915) demonstrated worsening scores. Significant differential patterns were noted for groups over the duration of the intervention (p\u2009<\u2009.001). Improvement in diet quality and fitness scores were similar across all groups. Other available variables were tested and did not account for the differences. Work is needed to identify key factors that account for differences in responses to lifestyle interventions that can be used to guide treatment decisions for intensive lifestyle interventions for this common condition. ClinicalTrials.gov Identifier: NCT01616563; first registered June 12, 2012.",
+  "journal": "BMC primary care",
+  "pub_date": "2024-Oct",
+  "authors": [
+    "Maitland, Scott B",
+    "Brauer, Paula",
+    "Mutch, David M",
+    "Royall, Dawna",
+    "Klein, Doug",
+    "Tremblay, Angelo",
+    "Rheaume, Caroline",
+    "Jeejeebhoy, Khursheed"
+  ],
+  "nct_ids_referenced": [
+    "NCT01616563"
+  ],
+  "source": "pubmed",
+  "word_count": 280,
+  "parsed_at": "2026-10-30T13:38:34.609283"
+}

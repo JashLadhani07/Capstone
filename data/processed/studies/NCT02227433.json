@@ -1,0 +1,355 @@
+{
+  "nct_id": "NCT02227433",
+  "title": "A Phase II Study of Brentuximab Vedotin (BV) in the Treatment of Elderly Hodgkin Lymphoma (HL) Patients at First Relapse or With Primary Refractory Disease.",
+  "sponsor": "Fondazione Italiana Linfomi - ETS",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Hodgkin Lymphoma"
+  ],
+  "interventions": [
+    "Brentuximab Vedotin"
+  ],
+  "primary_outcome": "Antitumor Efficacy",
+  "secondary_outcomes": [
+    "Survival, safety and tolerability",
+    "Survival",
+    "Safety and tolerability of Brentuximab Vedotin",
+    "Disease related symptoms"
+  ],
+  "start_date": "2013-02-04",
+  "completion_date": "2018-04-03",
+  "results_posted": false,
+  "enrollment": 20,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02227433",
+        "orgStudyIdInfo": {
+          "id": "FIL_BVHD01"
+        },
+        "organization": {
+          "fullName": "Fondazione Italiana Linfomi - ETS",
+          "class": "OTHER"
+        },
+        "briefTitle": "Brentuximab Vedotin in the Elderly Hodgkin Lymphoma Patients at First Relapse or With Primary Refractory Disease.",
+        "officialTitle": "A Phase II Study of Brentuximab Vedotin (BV) in the Treatment of Elderly Hodgkin Lymphoma (HL) Patients at First Relapse or With Primary Refractory Disease.",
+        "acronym": "FIL_BVHD01"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2019-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2013-02-04",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2018-04-03",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2020-04",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2014-08-11",
+        "studyFirstSubmitQcDate": "2014-08-27",
+        "studyFirstPostDateStruct": {
+          "date": "2014-08-28",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2020-12-21",
+        "lastUpdatePostDateStruct": {
+          "date": "2020-12-22",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Fondazione Italiana Linfomi - ETS",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is a single-arm, open-label, multicenter, clinical trial to evaluate the efficacy and safety of BV as a single agent in elderly patients at first relapse or with primary refractory HL.\n\nBV will be administered as a single IV infusion on Day 1 of each 21-day cycle. Measures of anti-cancer activity will be assessed using the revised response criteria for malignant lymphoma (Cheson et al. 2007).\n\nComputed tomography (CT) scans (chest, neck, abdomen, and pelvis) will be performed at baseline and Cycles 4, 8, 12, and 16 and positron emission tomography (PET) scans will be done at baseline and Cycles 4, 8, 12 and 16. Patients will have an End of Treatment (EOT) assessment 30 \u00b1 7 days after receiving their final dose of study drug. Long-term follow-up assessments (including survival and disease status information) will be performed every 12 weeks until either patient death or study closure, whichever occurs first. Patients who discontinue study treatment with stable disease or better will have CT scans done every 12 weeks until disease progression.\n\nStudy Objectives\n\nPrimary:\n\n\u2022 To determine the antitumor efficacy of single-agent brentuximab vedotin (BV) (1.8 mg/kg administered intravenously every 3 weeks) as measured by the overall objective response rate in elderly patients at first relapse or with primary refractory Hodgkin lymphoma (HL).\n\nSecondary:\n\n* To assess duration of tumor control, including duration of response and progression-free survival\n* To assess survival\n* To assess the safety and tolerability of BV\n\nAdditional:\n\n\u2022 To assess disease-related symptoms Study Population Eligible patients are those with first relapsed or primary refractory elderly HL. Patients must also have histologically-confirmed CD30-positive disease, fluorodeoxyglucose (FDG)-avid and measurable disease of at least 1.5 cm, an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, and adequate hematologic, kidney, and liver function. Eligible patients must not previously have been treated with BV, patients must not have congestive heart failure, known cerebral/meningeal disease, or any active viral, bacterial, or fungal infection requiring treatment with antimicrobial therapy within 2 weeks prior to first study dose."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Hodgkin Lymphoma"
+        ],
+        "keywords": [
+          "Hodgkin Lymphoma, Elderly Patients, brentuximab vedotin (BV)"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 20,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "brentuximab vedotin (BV)",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Drug: Brentuximab Vedotin"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Brentuximab Vedotin",
+            "armGroupLabels": [
+              "brentuximab vedotin (BV)"
+            ],
+            "otherNames": [
+              "SGN"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Antitumor Efficacy",
+            "description": "\u2022 The antitumor efficacy of single-agent brentuximab vedotin (BV) (1.8 mg/kg administered intravenously every 3 weeks) as measured by the overall objective response rate in elderly patients at first relapse or with primary refractory Hodgkin lymphoma (HL).",
+            "timeFrame": "two years"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Survival, safety and tolerability",
+            "description": "\u2022 The duration of tumor control, including duration of response and progression-free survival",
+            "timeFrame": "two years"
+          },
+          {
+            "measure": "Survival",
+            "description": "\u2022 The survival",
+            "timeFrame": "Two years"
+          },
+          {
+            "measure": "Safety and tolerability of Brentuximab Vedotin",
+            "description": "\u2022 The safety and tolerability of BV",
+            "timeFrame": "Two years"
+          },
+          {
+            "measure": "Disease related symptoms",
+            "description": "Additional:\n\n\u2022 The disease-related symptoms",
+            "timeFrame": "Two years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed CD30-positive disease\n2. Elderly patients at first relapse or with primary refractory HL (i.e. patients who have previously received only 1 line of treatment.\n3. Patients must have completed any prior treatment with radiation, chemotherapy, biologics, immunotherapy and/or other investigational agents greater than 5 half-lives of the last dose of that prior treatment prior to the first dose of BV and must have fully recovered from the acute toxic effects prior to entering this study.\n4. Age greater than or equal to 60 years.\n5. Fluorodeoxyglucose (FDG)-avid and measurable disease of at least 1.5 cm as documented by both PET and spiral CT.\n6. An Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n7. The following required baseline laboratory data: absolute neutrophil count (ANC) \u22651500/\u00b5L, unless known marrow involvement due to disease, platelets \u226575,000/\u00b5L, unless known marrow involvement due to disease, bilirubin \u22641.5X upper limit of normal (ULN) or \u22643X ULN for patients with Gilbert's disease, serum creatinine \u22641.5X ULN, alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u22642.5X ULN.\n8. Females of childbearing potential must have a negative serum or urine \u03b2-hCG pregnancy test result prior to the first dose of brentuximab vedotin. Females of non-childbearing potential are those who are postmenopausal greater than 1 year or who have had a bilateral tubal ligation or hysterectomy.\n9. Females of childbearing potential must agree to use two effective contraceptive methods during the study and for 6 months following the last dose of study drug or agree to completely abstain from heterosexual intercourse.\n10. Males, even if surgically sterilized, (i.e., status post vasectomy) must agree to practice effective barrier contraception during the entire study period and through 6 months after the last dose of study drug or agree to completely abstain from heterosexual intercourse.\n11. Patients must provide written informed consent.\n\nExclusion Criteria:\n\n1. Previous treatment with BV\n2. Peripheral neuropathy \\> grade 1.\n3. Known history of any of the following cardiovascular conditions:\n\n   1. Myocardial infarction within 2 years of study entry.\n   2. Congestive heart failure, Class III or IV, by the NYHA criteria.\n   3. Evidence of current uncontrolled cardiac arrhythmias, angina, or electrocardiographic evidence of acute ischemia or active conduction system abnormalities.\n   4. Recent evidence (within 6 months of study entry) of a left ventricular ejection fraction \\<50%4) History of another primary malignancy for within 3 years of study entry. (The following are exempt from the 3-year limit: nonmelanoma skin cancer, curatively treated localized prostate cancer, and cervical carcinoma in situ on biopsy or a squamous intraepithelial lesion on PAP smear.)\n\n5\\) Known cerebral/meningeal disease. 6) Signs or symptoms of progressive multifocal leukoencephalopathy (PML). 7) Any active systemic viral, bacterial, or fungal infection requiring treatment with antimicrobial therapy within 2 weeks prior to the first dose of BV. 8) Current therapy with other systemic anti-neoplastic or investigational agents.\n\n9\\) Therapy with corticosteroids at greater than or equal to 20 mg/day prednisone equivalent within 1 week prior to the first dose of BV. 10) Women who are pregnant or lactating and breastfeeding. 11) Patients with a known hypersensitivity to recombinant proteins, murine proteins, or any excipient contained in the drug formulation of brentuximab vedotin. 12) Known human immunodeficiency virus (HIV) positive. 13) Known hepatitis B surface antigen positive, or known or suspected active hepatitis C infection.\n\n14\\) Patients with dementia or an altered mental state that would preclude the understanding and rendering of informed consent.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "60 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Vittorio Stefoni",
+            "affiliation": "AO S. Orsola Malpighi",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "ASST Spedali Civili di Brescia",
+            "city": "Brescia",
+            "state": "BS",
+            "zip": "25123",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.53558,
+              "lon": 10.21472
+            }
+          },
+          {
+            "facility": "Irccs Centro Di Riferimento Oncologico Di Aviano (Pn)",
+            "city": "Aviano",
+            "state": "Italia",
+            "zip": "33081",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 46.07056,
+              "lon": 12.59472
+            }
+          },
+          {
+            "facility": "Policlinico S.Orsola Malpighi",
+            "city": "Bologna",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 44.49381,
+              "lon": 11.33875
+            }
+          },
+          {
+            "facility": "Irccs Istituto Nazionale Per Lo Studio E La Cura Dei Tumori Fondazione Giovanni Pascale Di Napoli",
+            "city": "Naples",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 40.85216,
+              "lon": 14.26811
+            }
+          },
+          {
+            "facility": "IRCCS Policlinico S. Matteo di Pavia - Div. di Ematologia",
+            "city": "Pavia",
+            "zip": "27100",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 45.19205,
+              "lon": 9.15917
+            }
+          },
+          {
+            "facility": "Policlinico Umberto I - Universit\u00e0 \"La Sapienza\" - Istituto Ematologia -Dipartimento di Medicina Traslazionale e di Precisione",
+            "city": "Rome",
+            "zip": "00161",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 41.89193,
+              "lon": 12.51133
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006689",
+            "term": "Hodgkin Disease"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D008223",
+            "term": "Lymphoma"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008232",
+            "term": "Lymphoproliferative Disorders"
+          },
+          {
+            "id": "D008206",
+            "term": "Lymphatic Diseases"
+          },
+          {
+            "id": "D006425",
+            "term": "Hemic and Lymphatic Diseases"
+          },
+          {
+            "id": "D007160",
+            "term": "Immunoproliferative Disorders"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000079963",
+            "term": "Brentuximab Vedotin"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D009842",
+            "term": "Oligopeptides"
+          },
+          {
+            "id": "D010455",
+            "term": "Peptides"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D061067",
+            "term": "Antibodies, Monoclonal, Humanized"
+          },
+          {
+            "id": "D000911",
+            "term": "Antibodies, Monoclonal"
+          },
+          {
+            "id": "D000906",
+            "term": "Antibodies"
+          },
+          {
+            "id": "D007136",
+            "term": "Immunoglobulins"
+          },
+          {
+            "id": "D007162",
+            "term": "Immunoproteins"
+          },
+          {
+            "id": "D001798",
+            "term": "Blood Proteins"
+          },
+          {
+            "id": "D011506",
+            "term": "Proteins"
+          },
+          {
+            "id": "D012712",
+            "term": "Serum Globulins"
+          },
+          {
+            "id": "D005916",
+            "term": "Globulins"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256942"
+}

@@ -1,0 +1,325 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03881657",
+      "orgStudyIdInfo": {
+        "id": "100001"
+      },
+      "organization": {
+        "fullName": "Health Resources in Action, Inc.",
+        "class": "OTHER"
+      },
+      "briefTitle": "Reverse Colocated Integrated Care Intervention Among Persons With Severe Persistent Mental Illness at US-Mexico Border",
+      "officialTitle": "S\u00ed Texas: Improving Access to Integrated Care for Rio Grande Valley Residents With Severe & Persistent Mental Illness"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-11-24",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2017-08-22",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2017-08-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-03-15",
+      "studyFirstSubmitQcDate": "2019-03-18",
+      "studyFirstPostDateStruct": {
+        "date": "2019-03-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-03-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-03-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Karen Errichetti",
+        "investigatorTitle": "Director, Research and Evaluation",
+        "investigatorAffiliation": "Health Resources in Action, Inc."
+      },
+      "leadSponsor": {
+        "name": "Health Resources in Action, Inc.",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Methodist Healthcare Ministries of South Texas, Inc.",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Social Innovation Fund",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study evaluated whether patients with severe and persistent mental illness (SPMI) who received coordinated co-located behavioral health and primary care services were more likely to improve health outcomes after 12 months compared to SPMI patients who receive only behavioral health services from the local mental health authority (LMHA) Tropical Texas Behavioral Health (TTBH).The study employed a randomized control trial (RCT) design where intervention participants receiving integrated behavioral health were compared to control participants receiving the usual care provided within an LMHA for SPMI patients. Patients were placed in each group using a randomized number process. Demographic and health outcome data were collected from intervention and control participants at baseline. Health outcome data was subsequently collected at 6-month and 12-month follow-up points.",
+      "detailedDescription": "This study evaluated whether patients with severe and persistent mental illness (SPMI) who received coordinated co-located behavioral health and primary care services were more likely to improve health outcomes after 12 months compared to SPMI patients who receive only behavioral health services from the local mental health authority (LMHA) Tropical Texas Behavioral Health (TTBH).The study employed a randomized control trial (RCT) design where intervention participants receiving integrated behavioral health were compared to control participants receiving the usual care provided within an LMHA for SPMI patients. Patients were placed in each group using a randomized number process. Demographic and health outcome data were collected from intervention and control participants at baseline. Health outcome data was subsequently collected at 6-month and 12-month follow-up points. The primary outcome of interest was systolic blood pressure. Additional secondary outcomes of interest were diastolic blood pressure, HbA1c, BMI, total cholesterol, depressive symptoms, and life functioning. These outcomes were analyzed as continuous variables using linear regression with backward model selection. Longitudinal analyses were also conducted using a likelihood-based approach to general linear mixed models.The intervention and control groups were patients with an SPMI diagnosis over 18 years of age who were not receiving primary care services prior to enrollment and were eligible to receive behavioral health services from TTBH. The participants resided in Cameron or Hidalgo County and had one or more chronic conditions: hypertension (blood pressure of 140/90 mmHg or higher), poorly controlled diabetes (HbA1c over 8.5%), obesity (body mass index of 30.0 or higher), or hypercholesterolemia (total cholesterol level above 200)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Mental Illness Persistent",
+        "Chronic Disease",
+        "Hypertension",
+        "Diabetes",
+        "Hypercholesterolemia",
+        "Depression",
+        "Obesity"
+      ],
+      "keywords": [
+        "Integrated Behavioral Health",
+        "Reverse Colocation",
+        "Integrated Care"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Treatment group participants were randomized to receive primary care in addition to behavioral health services within a behavioral health setting. Control group participants received behavioral health care services as usual.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 416,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intervention Group",
+          "type": "EXPERIMENTAL",
+          "description": "The intervention group received a reverse colocated integrated behavioral health intervention or usual care",
+          "interventionNames": [
+            "Behavioral: Reverse Colocated Integrated Care"
+          ]
+        },
+        {
+          "label": "Control Group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "The control group received behavioral health services only (usual care)",
+          "interventionNames": [
+            "Behavioral: Usual Care"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Reverse Colocated Integrated Care",
+          "description": "A reverse colocated integrated care model is one where primary care and preventive services are embedded within a behavioral health service setting.",
+          "armGroupLabels": [
+            "Intervention Group"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Usual Care",
+          "description": "Behavioral health services without primary care or integrated care services",
+          "armGroupLabels": [
+            "Control Group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Blood pressure",
+          "description": "Blood pressure was measured as a continuous variable (systolic and diastolic) in millimeters of mercury (mmHg).",
+          "timeFrame": "One year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Blood glucose concentration",
+          "description": "Blood glucose concentration was measured via blood test for HbA1c as a continuous variable",
+          "timeFrame": "One year"
+        },
+        {
+          "measure": "Body mass index",
+          "description": "Height and weight were measured at baseline, and body mass index was calculated",
+          "timeFrame": "One year"
+        },
+        {
+          "measure": "Total cholesterol",
+          "description": "Measured as a continuous variable in milligrams per deciliter",
+          "timeFrame": "One year"
+        },
+        {
+          "measure": "Depressive symptoms",
+          "description": "Measured as a score on the Patient Health Questionnaire-9 tool",
+          "timeFrame": "One year"
+        },
+        {
+          "measure": "Life functioning",
+          "description": "Measured as a score composite of the Adult Needs and Strengths Assessment Tool",
+          "timeFrame": "One year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Reside in Cameron, Hidalgo, or Willacy County\n* Have a severe, persistent mental illness as diagnosed by a licensed behavioral health care provider\n* Be eligible to receive behavioral health services from TTBH\n* Must not be receiving any primary care outside of TTBH (as ascertained via patient self-report)\n* Have a diagnosis of one or more chronic conditions:\n* Hypertension (blood pressure of 140/90 mmHg or higher)\n* Obesity (body mass index of 30.0 or higher)\n* Poorly controlled diabetes (HbA1c over 8.5%)\n* Hypercholesterolemia (Total cholesterol level above 200)\n\nExclusion Criteria:\n\n* Not actively suicidal at time of enrollment",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "32314132",
+          "type": "DERIVED",
+          "citation": "Errichetti KS, Flynn A, Gaitan E, Ramirez MM, Baker M, Xuan Z. Randomized Trial of Reverse Colocated Integrated Care on Persons with Severe, Persistent Mental Illness in Southern Texas. J Gen Intern Med. 2020 Jul;35(7):2035-2042. doi: 10.1007/s11606-020-05778-2. Epub 2020 Apr 20."
+        },
+        {
+          "pmid": "31872157",
+          "type": "DERIVED",
+          "citation": "Sautter Errichetti K, Ramirez MM, Flynn A, Xuan Z. A reverse colocated integrated care model intervention among persons with severe persistent mental illness at the U.S.-Mexico border: A randomized controlled trial protocol. Contemp Clin Trials Commun. 2019 Nov 12;16:100490. doi: 10.1016/j.conctc.2019.100490. eCollection 2019 Dec."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D006937",
+          "term": "Hypercholesterolemia"
+        },
+        {
+          "id": "D003863",
+          "term": "Depression"
+        },
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D006949",
+          "term": "Hyperlipidemias"
+        },
+        {
+          "id": "D050171",
+          "term": "Dyslipidemias"
+        },
+        {
+          "id": "D052439",
+          "term": "Lipid Metabolism Disorders"
+        },
+        {
+          "id": "D001526",
+          "term": "Behavioral Symptoms"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        },
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

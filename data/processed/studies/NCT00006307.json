@@ -1,0 +1,171 @@
+{
+  "nct_id": "NCT00006307",
+  "title": "Epidemiology of Body Mass Index Rebound",
+  "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Cardiovascular Diseases",
+    "Heart Diseases",
+    "Obesity"
+  ],
+  "interventions": [],
+  "primary_outcome": "",
+  "secondary_outcomes": [],
+  "start_date": "2000-08",
+  "completion_date": "2006-07",
+  "results_posted": false,
+  "enrollment": 0,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00006307",
+        "orgStudyIdInfo": {
+          "id": "915"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "R01HL064022",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/R01HL064022"
+          }
+        ],
+        "organization": {
+          "fullName": "National Heart, Lung, and Blood Institute (NHLBI)",
+          "class": "NIH"
+        },
+        "briefTitle": "Epidemiology of Body Mass Index Rebound"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2008-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2000-08"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2006-07",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2006-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2000-09-28",
+        "studyFirstSubmitQcDate": "2000-09-28",
+        "studyFirstPostDateStruct": {
+          "date": "2000-09-29",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2016-02-17",
+        "lastUpdatePostDateStruct": {
+          "date": "2016-02-18",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {
+          "name": "National Heart, Lung, and Blood Institute (NHLBI)",
+          "class": "NIH"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "To investigate the relationship between obesity, body mass index (BMI) rebound, body composition changes, associated factors (e.g., diet, physical activity), and cardiovascular risk factor status in a longitudinal study of young children, age three at the beginning of the study.",
+        "detailedDescription": "BACKGROUND:\n\nObesity is the most prevalent nutritional problem in the United States. It appears that both the prevalence and severity of obesity have been increasing in recent years. Obesity often begins in childhood and has a number of severe sequelae, including non insulin dependent diabetes mellitus and cardiovascular disease. Unfortunately, obesity is very resistant to treatment. This places a premium on prevention. However, the identification of clinically useful predictors of obesity which are present prior to the onset of excess weight gain has been problematic. Recently, it has been shown that the timing of body mass index (BMI) rebound may be a predictor of future obesity. BMI increases during the first year of life. It then declines until it reaches a minimum value during childhood and subsequently increases into adolescence and adulthood. The nadir of BMI is called BMI rebound. Studies have shown that BMI rebound at a young age is associated with increased risk of obesity later in life. Currently, very little is known about the epidemiology of BMI rebound.\n\nDESIGN NARRATIVE:\n\nThe investigation is a cohort study designed to follow 320 children from age three to age seven years. The study design will be a longitudinal one in which the children will be followed for a period of four years during which repeat measurements of body composition, diet, and physical activity will be made every four months. Parental height and weight data will be collected, in addition to family health history, parental smoking and alcohol intake."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Cardiovascular Diseases",
+          "Heart Diseases",
+          "Obesity"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL"
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "No eligibility criteria",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "3 Years",
+        "maximumAge": "7 Years",
+        "stdAges": [
+          "CHILD"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Stephen Daniels",
+            "affiliation": "Children's Hospital & Medical Center"
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "15066875",
+            "type": "BACKGROUND",
+            "citation": "Burdette HL, Whitaker RC, Daniels SR. Parental report of outdoor playtime as a measure of physical activity in preschool-aged children. Arch Pediatr Adolesc Med. 2004 Apr;158(4):353-7. doi: 10.1001/archpedi.158.4.353."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D009765",
+            "term": "Obesity"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D050177",
+            "term": "Overweight"
+          },
+          {
+            "id": "D044343",
+            "term": "Overnutrition"
+          },
+          {
+            "id": "D009748",
+            "term": "Nutrition Disorders"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D001835",
+            "term": "Body Weight"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:39:11.509531"
+}

@@ -1,0 +1,269 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06982365",
+      "orgStudyIdInfo": {
+        "id": "LUMHS/REC/-734/12.05.2025"
+      },
+      "organization": {
+        "fullName": "Liaquat University of Medical & Health Sciences",
+        "class": "OTHER"
+      },
+      "briefTitle": "Study to Investigate the Potential Health Benefits of Grapes Seeds Extract Supplementation in the Management of Elevated Blood Pressure or Stage 1 Hypertension",
+      "officialTitle": "Study to Investigate the Potential Health Benefits of Grapes Seeds Extract Supplementation in the Management of Elevated Blood Pressure or Stage 1 Hypertension: A Pragmatic Randomized, Double-blind Placebo Controlled Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-08-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-11-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-11-27",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2025-05-12",
+      "studyFirstSubmitQcDate": "2025-05-13",
+      "studyFirstPostDateStruct": {
+        "date": "2025-05-21",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-11-28",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-12-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Dr. Amjad Khan",
+        "investigatorTitle": "Professor of Clinical Biochemistry and Experimental medicine",
+        "investigatorAffiliation": "Liaquat University of Medical & Health Sciences"
+      },
+      "leadSponsor": {
+        "name": "Liaquat University of Medical & Health Sciences",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is a pragmatic, randomized, double-blind, placebo-controlled trial aimed at evaluating the potential health benefits of Enovita\u00ae (standardized grape seed extract) supplementation in adults with elevated blood pressure or Stage 1 hypertension. The primary objective is to assess the impact of Enovita\u00ae on systolic and diastolic blood pressure over 8 weeks. Secondary outcomes include changes in mood, emotional well-being, perceived stress, lipid profile, and systemic inflammation. The study will also monitor the safety and tolerability of Enovita\u00ae.",
+      "detailedDescription": "Hypertension is a major risk factor for cardiovascular diseases, and its early management is crucial. Grape seed extract is a natural polyphenol-rich supplement that may offer antihypertensive benefits through its antioxidant, anti-inflammatory, and vasodilatory properties. This study aims to investigate the effectiveness of a standardized Grape seeds extract, Enovita\u00ae in reducing blood pressure in adults with elevated blood pressure or Stage 1 hypertension.\n\nThis is a pragmatic, randomized, double-blind, placebo-controlled trial involving two groups: the Enovita\u00ae group receiving 150 mg of Enovita\u00ae twice daily and the placebo group receiving matching placebo capsules. The intervention will last for 8 weeks. Participants will be assessed at baseline, 4 weeks, and 8 weeks.\n\nThe primary outcome is the change in systolic and diastolic blood pressure from baseline to 8 weeks. Secondary outcomes include changes in mood (PANAS and WEMWBS scores), perceived stress (PSQ-20 score), lipid profile (total cholesterol, LDL, HDL, triglycerides), and systemic inflammation (hs-CRP levels). Safety will be monitored through adverse event reporting and regular health assessments.\n\nThis study will provide insights into the potential of Enovita\u00ae as a natural intervention for managing mild hypertension and improving emotional well-being."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Elevated Blood Pressure",
+        "Hypertension"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "A randomized, double-blind, placebo-controlled, parallel-group design. Participants are randomly assigned to one of two groups:\n\nGroup 1: Enovita\u00ae (Grape Seed Extract) 150 mg twice daily.\n\nGroup 2: Placebo (Matching capsule) twice daily.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "Both participants and study personnel (care providers, investigators, and outcome assessors) will be blinded to group allocation. The Enovita\u00ae and placebo capsules will be identical in appearance, packaging, and labeling to ensure blinding.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 80,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Enovita\u00ae Group (Grape Seed Extract)",
+          "type": "EXPERIMENTAL",
+          "description": "Participants in this group will receive Enovita\u00ae, a standardized grape seed extract. Each participant will take 150 mg of Enovita\u00ae orally, twice daily (total daily dose: 300 mg) for a duration of 8 weeks.",
+          "interventionNames": [
+            "Dietary Supplement: Enovita\u00ae (Grape Seed Extract)"
+          ]
+        },
+        {
+          "label": "Placebo Group",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants in this group will receive a matching placebo capsule, identical in appearance to the Enovita\u00ae capsule. Each participant will take one placebo capsule orally, twice daily, for a duration of 8 weeks.",
+          "interventionNames": [
+            "Other: Placebo Capsule"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Enovita\u00ae (Grape Seed Extract)",
+          "description": "Enovita\u00ae is a standardized grape seed extract containing polyphenols, known for their antioxidant and vasodilatory properties. Participants in this group will take 150 mg of Enovita\u00ae orally, twice daily (total daily dose: 300 mg) for 8 weeks.",
+          "armGroupLabels": [
+            "Enovita\u00ae Group (Grape Seed Extract)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo Capsule",
+          "description": "Participants in this group will receive a matching placebo capsule identical in appearance to the Enovita\u00ae capsule, taken orally, twice daily for 8 weeks.",
+          "armGroupLabels": [
+            "Placebo Group"
+          ],
+          "otherNames": [
+            "Matching Placebo Capsule"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in Systolic and Diastolic Blood Pressure",
+          "description": "Evaluation of the change in systolic and diastolic blood pressure (measured in mmHg) from baseline (Week 0) to the end of the study (Week 8). Blood pressure will be measured using a validated automatic sphygmomanometer in a seated position, following standardized protocols.",
+          "timeFrame": "Baseline (Week 0) and Week 8."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Mood (Positive and Negative Affect Schedule - PANAS Total Score)",
+          "description": "Assessment of mood using the Positive and Negative Affect Schedule (PANAS), a self-reported questionnaire measuring both positive and negative emotional states. Each subscale (Positive Affect and Negative Affect) consists of 10 items scored from 1 to 5, resulting in subscale scores ranging from 10 to 50. Higher Positive Affect scores indicate better mood, while higher Negative Affect scores indicate worse mood.\n\nParticipants will complete the PANAS at Baseline (Week 0) and Week 8.",
+          "timeFrame": "Baseline and Week 8."
+        },
+        {
+          "measure": "Change in Perceived Stress (Perceived Stress Questionnaire - PSQ-30 Total Score)",
+          "description": "Measurement of perceived stress using the Perceived Stress Questionnaire (PSQ-30), a standardized 20-item self-reported measure. Each item is rated on a 4-point Likert scale. The PSQ-20 total score is scaled between 0 (lowest stress) and 1 (highest stress). Higher scores reflect greater perceived stress. Participants will complete the questionnaire at Baseline and Week 8.",
+          "timeFrame": "Baseline and Week 8."
+        },
+        {
+          "measure": "Change in Lipid Profile",
+          "description": "Assessment of lipid profile using fasting blood samples, measuring total cholesterol, LDL, HDL, and triglycerides levels.",
+          "timeFrame": "Baseline and Week 8."
+        },
+        {
+          "measure": "Change in Systemic Inflammation (hs-CRP Levels)",
+          "description": "Measurement of high-sensitivity C-reactive protein (hs-CRP) levels in fasting blood samples as a marker of systemic inflammation.",
+          "timeFrame": "Baseline and Week 8."
+        },
+        {
+          "measure": "Incidence and Severity of Treatment-Emergent Adverse Events (Safety and Tolerability of Enovita\u00ae)",
+          "description": "Monitoring and recording of treatment-emergent adverse events (TEAEs) throughout the study. This includes the number of participants experiencing one or more TEAEs, the type of event, severity (mild, moderate, severe), and relationship to the investigational product (Enovita\u00ae). All events will be collected from Baseline through Week 8.",
+          "timeFrame": "Baseline to Week 8."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults aged 30 to 65 years.\n* Diagnosed with Elevated Blood Pressure (systolic 120-129 mmHg and diastolic \\<80 mmHg) or Stage 1 Hypertension (systolic 130-139 mmHg or diastolic 80-89 mmHg), according to American Heart Association guidelines.\n* No use of antihypertensive medication in the past 3 months.\n* Willing to comply with study procedures and follow-up visits.\n* Able to provide written informed consent.\n\nExclusion Criteria:\n\n* Stage 2 Hypertension (systolic BP \u2265140 mmHg or diastolic BP \u226590 mmHg) at screening.\n* Chronic kidney disease (eGFR \\< 60 mL/min/1.73 m\u00b2).\n* Diabetes mellitus (HbA1c \u2265 6.5%).\n* History of cardiovascular events (myocardial infarction, stroke) in the past 6 months.\n* Known allergy to grape products.\n* Current use of polyphenol supplements or similar herbal products.\n* Pregnancy or breastfeeding.\n* Participation in another clinical trial within the last 30 days.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "30 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Liaquat University of Medical & Health Sciences (LUMHS)",
+          "city": "J\u0101mshoro",
+          "state": "Sindh",
+          "zip": "76090",
+          "country": "Pakistan"
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "33671310",
+          "type": "BACKGROUND",
+          "citation": "Schon C, Allegrini P, Engelhart-Jentzsch K, Riva A, Petrangolini G. Grape Seed Extract Positively Modulates Blood Pressure and Perceived Stress: A Randomized, Double-Blind, Placebo-Controlled Study in Healthy Volunteers. Nutrients. 2021 Feb 17;13(2):654. doi: 10.3390/nu13020654."
+        },
+        {
+          "pmid": "24171039",
+          "type": "BACKGROUND",
+          "citation": "Belcaro G, Ledda A, Hu S, Cesarone MR, Feragalli B, Dugall M. Grape seed procyanidins in pre- and mild hypertension: a registry study. Evid Based Complement Alternat Med. 2013;2013:313142. doi: 10.1155/2013/313142. Epub 2013 Sep 19."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D056604",
+          "term": "Grape Seed Extract"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010936",
+          "term": "Plant Extracts"
+        },
+        {
+          "id": "D028321",
+          "term": "Plant Preparations"
+        },
+        {
+          "id": "D001688",
+          "term": "Biological Products"
+        },
+        {
+          "id": "D045424",
+          "term": "Complex Mixtures"
+        },
+        {
+          "id": "D004364",
+          "term": "Pharmaceutical Preparations"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

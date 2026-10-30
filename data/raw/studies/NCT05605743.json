@@ -1,0 +1,292 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05605743",
+      "orgStudyIdInfo": {
+        "id": "P.T.REC/012/004006"
+      },
+      "organization": {
+        "fullName": "Cairo University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Alternate Nostril Breathing Training in Geriatrics With Glaucoma and High Blood Pressure",
+      "officialTitle": "Ocular Hypertension Response to Alternate Nostril Breathing Training in Geriatrics With Glaucoma and High Blood Pressure"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2022-10",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-09-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-01-15",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2023-01-15",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-10-30",
+      "studyFirstSubmitQcDate": "2022-10-30",
+      "studyFirstPostDateStruct": {
+        "date": "2022-11-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2022-10-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-11-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Ali Mohamed Ali ismail",
+        "investigatorTitle": "lecturer of Physical Therapy for Cardiovascular / Respiratory Disorder and Geriatrics, Faculty of Physical Therapy, Cairo University",
+        "investigatorAffiliation": "Cairo University"
+      },
+      "leadSponsor": {
+        "name": "Cairo University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Hypertension, particularly if poorly controlled, appears related to an increased risk of open angle glaucoma, (the high tension type of glaucoma is characterized as optic nerve degeneration with ocular hypertension). so this study will search response of glaucoma to breathing exercise",
+      "detailedDescription": "Hypertension, particularly if poorly controlled, appears related to an increased risk of open angle glaucoma, (the high tension type of glaucoma is characterized as optic nerve degeneration with ocular hypertension). With a random assignment, sixty hypertensive geriatric with high tension type primary open angle glaucoma will be assigned to breathing exercise (alternate nostril breathing) group (n=30 geriatrics) or waiting list geriatrics. the daily breathing exercise will be performed by the geriatrics in evening (for half an hour) and morning (for half an hour)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Primary Open Angle Glaucoma",
+        "Hypertension"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 60,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Exercised group",
+          "type": "EXPERIMENTAL",
+          "description": "Thirty hypertensive geriatric with high tension type primary open angle glaucoma will perform breathing exercise (alternate nostril breathing). The daily breathing exercise will be performed by the geriatrics in evening (for half an hour) and morning (for half an hour) for one month.",
+          "interventionNames": [
+            "Behavioral: breathing exercise"
+          ]
+        },
+        {
+          "label": "control group",
+          "type": "NO_INTERVENTION",
+          "description": "this will be a thirty-patient wait-list group that will no receive any shape of training"
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "breathing exercise",
+          "description": "Thirty hypertensive geriatric with high tension type primary open angle glaucoma will perform breathing exercise (alternate nostril breathing). The daily breathing exercise will be performed by the geriatrics in evening (for half an hour) and morning (for half an hour) for one month.",
+          "armGroupLabels": [
+            "Exercised group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "intraoccular pressure",
+          "description": "it will be measured in right and left eyes",
+          "timeFrame": "It will be measured after 4 weeks of training"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "systolic blood pressure",
+          "description": "it will be measured sphygmomanometer",
+          "timeFrame": "It will be measured after 4 weeks of training"
+        },
+        {
+          "measure": "diastolic blood pressure",
+          "description": "it will be measured sphygmomanometer",
+          "timeFrame": "It will be measured after 4 weeks of training"
+        },
+        {
+          "measure": "heart rate",
+          "description": "it will be measured manually",
+          "timeFrame": "It will be measured after 4 weeks of training"
+        },
+        {
+          "measure": "respiratory rate",
+          "description": "it will be measured manually",
+          "timeFrame": "It will be measured after 4 weeks of training"
+        },
+        {
+          "measure": "hospital anxiety and depression scale",
+          "description": "it contains fourteen questions. it contains two sub-scales, one for anxiety and the other for depression",
+          "timeFrame": "It will be measured after 4 weeks of training"
+        },
+        {
+          "measure": "short form 36 survey",
+          "description": "in general, it will assess life quality",
+          "timeFrame": "It will be measured after 4 weeks of training"
+        },
+        {
+          "measure": "glaucoma quality of life-15 questionnaire",
+          "description": "it will assess glaucoma-related life quality",
+          "timeFrame": "It will be measured after 4 weeks of training"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* hypertensive elderly\n* primary open angle glaucoma in both eyes\n* ocular hypertension in both eyes\n\nExclusion Criteria:\n\nacute or chronic eye inflammation cataract eye surgeries mental ill patients patients who will refuse to participate in the study other systemic /cardiovascular problem",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "genderBased": true,
+      "genderDescription": "self-representation of gender identity.",
+      "minimumAge": "65 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Ali Ismail, lecturer",
+          "role": "CONTACT",
+          "phone": "02 01005154209",
+          "email": "ali.mohamed@pt.cu.edu.eg"
+        },
+        {
+          "name": "mona taha, professor",
+          "role": "CONTACT",
+          "email": "monaday2007@yahoo.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Ali Ismail, lecturer",
+          "affiliation": "Cairo University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Faculty of Physical Therapy Cairo University",
+          "status": "RECRUITING",
+          "city": "Giza",
+          "state": "Dokki",
+          "country": "Egypt",
+          "contacts": [
+            {
+              "name": "Ali Ismail, lecturer",
+              "role": "CONTACT",
+              "phone": "02 01005154209",
+              "email": "allooka2012@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 30.00944,
+            "lon": 31.20861
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D005902",
+          "term": "Glaucoma, Open-Angle"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D005901",
+          "term": "Glaucoma"
+        },
+        {
+          "id": "D009798",
+          "term": "Ocular Hypertension"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001945",
+          "term": "Breathing Exercises"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D026441",
+          "term": "Mind-Body Therapies"
+        },
+        {
+          "id": "D000529",
+          "term": "Complementary Therapies"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D026241",
+          "term": "Exercise Movement Techniques"
+        },
+        {
+          "id": "D026741",
+          "term": "Physical Therapy Modalities"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

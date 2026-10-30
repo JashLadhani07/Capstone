@@ -1,0 +1,3139 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02556632",
+      "orgStudyIdInfo": {
+        "id": "URCC14079"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2015-00869",
+          "type": "REGISTRY",
+          "domain": "CTRP (Clinical Trial Reporting Program)"
+        },
+        {
+          "id": "URCC14079",
+          "type": "OTHER",
+          "domain": "University of Rochester NCORP Research Base"
+        },
+        {
+          "id": "URCC-14079",
+          "type": "OTHER",
+          "domain": "DCP"
+        },
+        {
+          "id": "R21CA178648",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R21CA178648"
+        },
+        {
+          "id": "UG1CA189961",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/UG1CA189961"
+        }
+      ],
+      "organization": {
+        "fullName": "University of Rochester",
+        "class": "OTHER"
+      },
+      "briefTitle": "Prophylactic Topical Agents in Reducing Radiation-Induced Dermatitis in Patients With Non-inflammatory Breast Cancer",
+      "officialTitle": "Effectiveness of Prophylactic Topical Agents for Radiation Dermatitis",
+      "acronym": "Curcumin-II"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2017-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-10-13",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2016-09-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2016-09-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2015-07-23",
+      "studyFirstSubmitQcDate": "2015-09-18",
+      "studyFirstPostDateStruct": {
+        "date": "2015-09-22",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2017-08-28",
+      "resultsFirstSubmitQcDate": "2017-10-04",
+      "resultsFirstPostDateStruct": {
+        "date": "2017-11-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2017-10-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2017-11-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Gary Morrow",
+        "investigatorTitle": "Director",
+        "investigatorAffiliation": "University of Rochester NCORP Research Base"
+      },
+      "leadSponsor": {
+        "name": "Gary Morrow",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Cancer Institute (NCI)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This randomized pilot phase II trial studies and compares prophylactic topical agents in reducing radiation-induced dermatitis in patients with non-inflammatory breast cancer or breast cancer in situ. The prophylactic topical agents, such as curcumin-based gel or HPR Plus, may reduce the severity of the radiation-induced dermatitis by minimizing water loss and inflammation during radiation therapy.",
+      "detailedDescription": "PRIMARY OBJECTIVE:\n\nI. To investigate the effectiveness of Curcumin gel (curcumin-based gel) or HPR Plus\u2122 in reducing radiation dermatitis in breast cancer patients."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Breast Carcinoma",
+        "Pain",
+        "Radiation-Induced Dermatitis",
+        "Stage 0 Breast Cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 191,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Arm I (curcumin-based gel)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients apply curcumin-based gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.",
+          "interventionNames": [
+            "Drug: Curcumin-based Gel",
+            "Other: Laboratory Biomarker Analysis",
+            "Other: Questionnaire Administration"
+          ]
+        },
+        {
+          "label": "Arm II (HPR Plus)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients apply HPR Plus\u2122 topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.",
+          "interventionNames": [
+            "Procedure: Dermatologic Complications Management",
+            "Other: Laboratory Biomarker Analysis",
+            "Other: Questionnaire Administration"
+          ]
+        },
+        {
+          "label": "Arm III (placebo gel)",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Patients apply placebo gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.",
+          "interventionNames": [
+            "Other: Laboratory Biomarker Analysis",
+            "Other: Placebo",
+            "Other: Questionnaire Administration"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Curcumin-based Gel",
+          "description": "Applied topically",
+          "armGroupLabels": [
+            "Arm I (curcumin-based gel)"
+          ],
+          "otherNames": [
+            "Curcumin Gel",
+            "Psoria-Gold",
+            "Topical Curcumin"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Dermatologic Complications Management",
+          "description": "Apply HPR Plus topically",
+          "armGroupLabels": [
+            "Arm II (HPR Plus)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Laboratory Biomarker Analysis",
+          "description": "Correlative studies",
+          "armGroupLabels": [
+            "Arm I (curcumin-based gel)",
+            "Arm II (HPR Plus)",
+            "Arm III (placebo gel)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo",
+          "description": "Apply placebo gel topically",
+          "armGroupLabels": [
+            "Arm III (placebo gel)"
+          ],
+          "otherNames": [
+            "placebo therapy",
+            "PLCB",
+            "sham therapy"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Questionnaire Administration",
+          "description": "Ancillary studies",
+          "armGroupLabels": [
+            "Arm I (curcumin-based gel)",
+            "Arm II (HPR Plus)",
+            "Arm III (placebo gel)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Mean Radiation Dermatitis Severity (RDS) Score. Range: 0 (no Dermatitis) - 4 (Violaceous Erythema With Diffuse Desquamation Occurring in Sheets; Patchy Crusting; Superficial Ulceration)",
+          "description": "The mean 1 week post-RT RDS score for each arm will be compared using ANOVA to determine if the topical interventions reduce the severity of skin reactions at the end of RT.\n\nThe RDS score ranges from 0-4 with higher scores indicating worse outcome.",
+          "timeFrame": "Baseline up to 1 week post radiation therapy"
+        },
+        {
+          "measure": "Incidence of Moist Desquamation (Present vs. Absent)",
+          "description": "The degree to which each topical intervention decreases the incidence of moist desquamation will be examined using Fisher's exact test. Each agent's potential as a preventative intervention will be determined through comparison of the proportion of subjects with no to minimal radiation dermatitis within each arm using Fisher's exact test.",
+          "timeFrame": "Baseline up to completion of radiation therapy"
+        },
+        {
+          "measure": "Change in the Severity of Skin Reactions Using the Radiation Dermatitis Scale (RDS). Range: 0 (no Dermatitis) - 4 (Violaceous Erythema With Diffuse Desquamation Occurring in Sheets; Patchy Crusting; Superficial Ulceration)",
+          "description": "The mean 1 week post-RT RDS score for each arm will be compared using ANOVA to determine if the topical interventions reduce the severity of skin reactions after completion of RT.\n\nThe RDS score ranges from 0-4 with higher scores indicating worse outcome.",
+          "timeFrame": "Baseline to up to 1 week after completion of radiation therapy"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects with a diagnosis of non-inflammatory breast cancer or carcinoma in situ\n* Subjects must be prescribed and scheduled for \"conventional fractionated\" RT without concurrent chemotherapy; bolus and intensity modulated radiation therapy (IMRT) are permitted; lymph node irradiation (i.e., internal mammary nodes, supraclavicular nodes, axillary nodes, etc) as part of their prescribed radiation therapy are permitted; conventional fractionated radiation therapy regimens eligible for study are described below:\n\n  * Minimal (min) total dose: whole breast: 44 gray (Gy); breast boost: 10 Gy; tumor bed = whole breast +/- boost: 50.0 Gy; lymph nodes: 45 Gy\n  * Maximal (max) total dose: whole breast: 50.4 Gy; breast boost: 20 Gy; tumor bed = whole breast +/- boost: 66.0 Gy; lymph nodes: 50.4 Gy\n  * Min dose per fraction: whole breast: 1.8 Gy; breast boost: 2.0 Gy; tumor bed = whole breast +/- boost: 1.8 Gy; lymph nodes: 1.8 Gy\n  * Max dose per fraction: whole breast: 2.0 Gy; breast boost: 2.0 Gy; tumor bed = whole breast +/- boost: 2.0 Gy; lymph nodes: 2.0 Gy\n  * Min # of fractions: whole breast: 22 Gy; breast boost: 5 Gy; tumor bed = whole breast +/- boost: 25 Gy; lymph nodes: 25 Gy\n  * Max # of fractions: whole breast: 28 Gy; breast boost: 10 Gy; tumor bed = whole breast +/- boost: 36 Gy; lymph nodes: 28 Gy\n  * Min # of sessions: whole breast: 22 Gy; breast boost: 5 Gy; tumor bed = whole breast +/- boost: 25 Gy; lymph nodes: 25 Gy\n  * Max # of sessions: whole breast: 28 Gy; breast boost: 10 Gy; tumor bed = whole breast +/- boost: 36 Gy; lymph nodes: 28 Gy\n* Subjects may or may not have had surgery (lumpectomy or mastectomy) prior to RT; (NOTE: surgery is not required for eligibility)\n* Subjects may have had chemotherapy prior to radiation; a minimum of two weeks is required between end of chemotherapy and start of RT\n* Subjects may be currently prescribed hormone treatment or Herceptin therapy\n* Subjects must be able to read, speak, and understand English\n* Subjects must have the ability to understand and the willingness to sign a written informed consent document\n* Subjects must agree to not use any other topical agents on skin in the radiation treatment area during the course of this trial; subjects should only use topical agents for the study (i.e., topical intervention or standard care agents) supplied by the study personnel and/or treating physician\n\nExclusion Criteria:\n\n* Pregnant females are ineligible; all subjects of childbearing potential will be asked if they are pregnant or could be pregnant; the patient must respond \"no\" to continue with radiation and to participate in this clinical study\n* Subjects with bilateral breast cancer are not eligible\n* Subjects receiving the short-course fractionation radiation therapy (i.e., 16 sessions or 20 sessions at 2.4 to 2.6 Gy fractions per session, with or without boost)\n* Subject is currently on anti-EGFR (human epidermal growth factor receptor) therapy, such as Iressa (gefitinib) or Erbitux (cetuximab, C225)\n* Previous radiation to the chest or breast\n* Subjects with breast reconstruction prior to RT\n* Previous diagnosis of radiosensitivity disorder (i.e., ataxia telangiectasia)\n* Previous diagnosis of collagen vascular disorder or vasculitis\n* Presence of unhealed surgical wounds in chest or breast region and/or breast infection\n* Current daily application of a prescribed topical product to the skin within the RT area for an unrelated skin condition that cannot be discontinued during the participation in this clinical trial\n* Presence of any active dermatological issues in radiation treatment area (i.e., fungal skin infection, dermatitis, psoriasis plaques, etc)",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "21 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Gary Morrow",
+          "affiliation": "University of Rochester NCORP Research Base",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Delaware/Christiana Care NCORP",
+          "city": "Newark",
+          "state": "Delaware",
+          "zip": "19713",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.68372,
+            "lon": -75.74966
+          }
+        },
+        {
+          "facility": "Heartland NCORP",
+          "city": "Decatur",
+          "state": "Illinois",
+          "zip": "62526",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.84031,
+            "lon": -88.9548
+          }
+        },
+        {
+          "facility": "Metro-Minnesota NCORP",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55426",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.97997,
+            "lon": -93.26384
+          }
+        },
+        {
+          "facility": "University of Rochester",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14642",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.15478,
+            "lon": -77.61556
+          }
+        },
+        {
+          "facility": "Columbus NCORP",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43215",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Dayton Oncology Research Program",
+          "city": "Dayton",
+          "state": "Ohio",
+          "zip": "45420",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.75895,
+            "lon": -84.19161
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Arm I (Curcumin-based Gel)",
+          "description": "Patients apply curcumin-based gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nCurcumin-based Gel: Applied topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+        },
+        {
+          "id": "FG001",
+          "title": "Arm II (HPR Plus)",
+          "description": "Patients apply HPR Plus\u2122 topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nDermatologic Complications Management: Apply HPR Plus topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+        },
+        {
+          "id": "FG002",
+          "title": "Arm III (Placebo Gel)",
+          "description": "Patients apply placebo gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nLaboratory Biomarker Analysis: Correlative studies\n\nPlacebo: Apply placebo gel topically\n\nQuestionnaire Administration: Ancillary studies"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "64"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "65"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "62"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "59"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "59"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "53"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "9"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Disliked Intervention",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "No Reason",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Personal Issues",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Changed Mind",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrew (Unrelated Medical)",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Unrelated Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Related Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Possibly Related Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Did Not Start RT",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Ineligible",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Disliked Study Procedures",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Treatment or Change Delay",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Arm I (Curcumin-based Gel)",
+          "description": "Patients apply curcumin-based gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nCurcumin-based Gel: Applied topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+        },
+        {
+          "id": "BG001",
+          "title": "Arm II (HPR Plus)",
+          "description": "Patients apply HPR Plus\u2122 topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nDermatologic Complications Management: Apply HPR Plus topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+        },
+        {
+          "id": "BG002",
+          "title": "Arm III (Placebo Gel)",
+          "description": "Patients apply placebo gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nLaboratory Biomarker Analysis: Correlative studies\n\nPlacebo: Apply placebo gel topically\n\nQuestionnaire Administration: Ancillary studies"
+        },
+        {
+          "id": "BG003",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "64"
+            },
+            {
+              "groupId": "BG001",
+              "value": "65"
+            },
+            {
+              "groupId": "BG002",
+              "value": "62"
+            },
+            {
+              "groupId": "BG003",
+              "value": "191"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "59.0",
+                      "spread": "11.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "60.7",
+                      "spread": "10.5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "59.8",
+                      "spread": "9.3"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "59.8",
+                      "spread": "10.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "63"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "186"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "21"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "55"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "55"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "167"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marital Status",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Married",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "119"
+                    }
+                  ]
+                },
+                {
+                  "title": "Domestic Partner",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Divorced",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "30"
+                    }
+                  ]
+                },
+                {
+                  "title": "Separated",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Single",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "Widowed",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage of Disease",
+          "description": "Ductal carcinoma in situ (DCIS) is considered the earliest form of cancer and consists of abnormal cells in the milk duct.\n\nStage I.This stage is a small cancer that has not grown deeply into nearby tissues and has not spread to lymph nodes.\n\nStage II and III.These stages indicate larger cancers that have grown more deeply into nearby tissue and may have also spread to lymph nodes.\n\nStage IV.This stage means that the cancer has spread to other organs or parts of the body.\n\nUnknown or Not Reported Stage. There is not enough information to determine stage.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "DCIS",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "28"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage I",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "85"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage II",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "54"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage III",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "20"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage IV",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Location of Breast Cancer",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Left",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "86"
+                    }
+                  ]
+                },
+                {
+                  "title": "Right",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "103"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prior Chemotherapy",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "99"
+                    }
+                  ]
+                },
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "90"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Currently on Hormone Therapy",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "52"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "48"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "48"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "148"
+                    }
+                  ]
+                },
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "41"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Currently on Herceptin Treatment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "56"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "56"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "58"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "170"
+                    }
+                  ]
+                },
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Type of Radiation",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "IMRT",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "3D Conformal Whole Breast",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "63"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "59"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "184"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Radiation Boost Planned",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "59"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "180"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Total Radiation Dose Prescribed",
+          "description": "The international system (SI) unit of radiation dose expressed in terms of absorbed energy per unit mass of tissue. The gray is the unit of absorbed dose and has replaced the rad. 1 gray = 1 Joule/kilogram and also equals 100 rad.",
+          "populationDescription": "The demographic data was captured in the Onstudy form but two of the participants did not get to the point to fill that form out.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Gray units",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "189"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "58.4",
+                      "spread": "5.6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "59.5",
+                      "spread": "4.5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "59.1",
+                      "spread": "5.2"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "59.0",
+                      "spread": "5.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Breast Field Separation",
+          "description": "Breast field separation (BFS) evaluates the association of breast size with radiation-induced skin toxicity. BFS can be obtained from the radiation treatment plan for both 3D conformal breast radiation and IMRT. BFS is defined as the distance between the medial and lateral tangential fields. The tangential fields are created during simulation to achieve uniform dose distribution to the breast volume. The tangential fields align with the medial and lateral contours of the breast. BFS is similar to the width measurement of the breast and is calculated as part of the radiation treatment plan.",
+          "populationDescription": "The demographic data was captured in the Onstudy form but two of the participants did not get to the point to fill that form out.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "centimeters",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "189"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22.6",
+                      "spread": "4.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23.8",
+                      "spread": "4.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22.8",
+                      "spread": "5.5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "23.1",
+                      "spread": "4.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Mean Radiation Dermatitis Severity (RDS) Score. Range: 0 (no Dermatitis) - 4 (Violaceous Erythema With Diffuse Desquamation Occurring in Sheets; Patchy Crusting; Superficial Ulceration)",
+          "description": "The mean 1 week post-RT RDS score for each arm will be compared using ANOVA to determine if the topical interventions reduce the severity of skin reactions at the end of RT.\n\nThe RDS score ranges from 0-4 with higher scores indicating worse outcome.",
+          "populationDescription": "Note: Of the 64 who were randomized to Arm 1, 59 completed the study; of the 65 who were randomized to Arm II, 59 completed the study; of the 62 who were randomized to Arm III, 53 completed the study",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline up to 1 week post radiation therapy",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Arm I (Curcumin-based Gel)",
+              "description": "Patients apply curcumin-based gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nCurcumin-based Gel: Applied topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+            },
+            {
+              "id": "OG001",
+              "title": "Arm II (HPR Plus)",
+              "description": "Patients apply HPR Plus\u2122 topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nDermatologic Complications Management: Apply HPR Plus topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+            },
+            {
+              "id": "OG002",
+              "title": "Arm III (Placebo Gel)",
+              "description": "Patients apply placebo gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nLaboratory Biomarker Analysis: Correlative studies\n\nPlacebo: Apply placebo gel topically\n\nQuestionnaire Administration: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "59"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "53"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.68",
+                      "spread": "0.74"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.64",
+                      "spread": "0.74"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2.63",
+                      "spread": "0.69"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001",
+                "OG002"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.9306",
+              "statisticalMethod": "ANOVA"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Incidence of Moist Desquamation (Present vs. Absent)",
+          "description": "The degree to which each topical intervention decreases the incidence of moist desquamation will be examined using Fisher's exact test. Each agent's potential as a preventative intervention will be determined through comparison of the proportion of subjects with no to minimal radiation dermatitis within each arm using Fisher's exact test.",
+          "populationDescription": "Note: Of the 64 who were randomized to Arm 1, 59 completed the study; of the 65 who were randomized to Arm II, 59 completed the study; of the 62 who were randomized to Arm III, 53 completed the study",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Baseline up to completion of radiation therapy",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Arm I (Curcumin-based Gel)",
+              "description": "Patients apply curcumin-based gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nCurcumin-based Gel: Applied topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+            },
+            {
+              "id": "OG001",
+              "title": "Arm II (HPR Plus)",
+              "description": "Patients apply HPR Plus\u2122 topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nDermatologic Complications Management: Apply HPR Plus topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+            },
+            {
+              "id": "OG002",
+              "title": "Arm III (Placebo Gel)",
+              "description": "Patients apply placebo gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nLaboratory Biomarker Analysis: Correlative studies\n\nPlacebo: Apply placebo gel topically\n\nQuestionnaire Administration: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "59"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "53"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "No Moist Desquamation",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "47"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "41"
+                    }
+                  ]
+                },
+                {
+                  "title": "Moist Desquamation",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001",
+                "OG002"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.8048",
+              "statisticalMethod": "Fisher Exact"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change in the Severity of Skin Reactions Using the Radiation Dermatitis Scale (RDS). Range: 0 (no Dermatitis) - 4 (Violaceous Erythema With Diffuse Desquamation Occurring in Sheets; Patchy Crusting; Superficial Ulceration)",
+          "description": "The mean 1 week post-RT RDS score for each arm will be compared using ANOVA to determine if the topical interventions reduce the severity of skin reactions after completion of RT.\n\nThe RDS score ranges from 0-4 with higher scores indicating worse outcome.",
+          "populationDescription": "Note: Of the 64 who were randomized to Arm 1, 60 completed 1-week post; of the 65 who were randomized to Arm II, 58 completed 1-week post; of the 62 who were randomized to Arm III, 52 completed 1-week post.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline to up to 1 week after completion of radiation therapy",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Arm I (Curcumin-based Gel)",
+              "description": "Patients apply curcumin-based gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nCurcumin-based Gel: Applied topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+            },
+            {
+              "id": "OG001",
+              "title": "Arm II (HPR Plus)",
+              "description": "Patients apply HPR Plus\u2122 topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nDermatologic Complications Management: Apply HPR Plus topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies"
+            },
+            {
+              "id": "OG002",
+              "title": "Arm III (Placebo Gel)",
+              "description": "Patients apply placebo gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nLaboratory Biomarker Analysis: Correlative studies\n\nPlacebo: Apply placebo gel topically\n\nQuestionnaire Administration: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "58"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "52"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.25",
+                      "spread": "0.99"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.16",
+                      "spread": "0.92"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2.15",
+                      "spread": "0.96"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001",
+                "OG002"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.8591",
+              "statisticalMethod": "ANOVA"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Arm I (Curcumin-based Gel)",
+          "description": "Patients apply curcumin-based gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nCurcumin-based Gel: Applied topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 64,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 64,
+          "otherNumAffected": 8,
+          "otherNumAtRisk": 64
+        },
+        {
+          "id": "EG001",
+          "title": "Arm II (HPR Plus)",
+          "description": "Patients apply HPR Plus\u2122 topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nDermatologic Complications Management: Apply HPR Plus topically\n\nLaboratory Biomarker Analysis: Correlative studies\n\nQuestionnaire Administration: Ancillary studies",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 65,
+          "seriousNumAffected": 2,
+          "seriousNumAtRisk": 65,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 65
+        },
+        {
+          "id": "EG002",
+          "title": "Arm III (Placebo Gel)",
+          "description": "Patients apply placebo gel topically TID approximately every 4-6 hours beginning on the first day of radiation therapy and continuing until 1 week after completion of radiation therapy.\n\nLaboratory Biomarker Analysis: Correlative studies\n\nPlacebo: Apply placebo gel topically\n\nQuestionnaire Administration: Ancillary studies",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 62,
+          "seriousNumAffected": 6,
+          "seriousNumAtRisk": 62,
+          "otherNumAffected": 5,
+          "otherNumAtRisk": 62
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Heart Failure",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Radiation Dermatitis",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 4,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Pleuritic pain",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Erythematous papular rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Allergic reaction",
+          "organSystem": "Immune system disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Pain of skin",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Pruritis",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Breast pain",
+          "organSystem": "Reproductive system and breast disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis radiation",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 2,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Localized edema - Breast swelling",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Nipple pain",
+          "organSystem": "Reproductive system and breast disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis radiation",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Skin and subcutaneous tissue disorders (Other, Specify)",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Lymphedema",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Rash maculo-papular",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Pain of skin",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Papulpustular rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Gastrointestinal disorders - Other: yellow colored bowel movements",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        },
+        {
+          "term": "Vascular disorders - Other: hellow colored hidrosis",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "CTCAE (4.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 62
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Julie Ryan Wolf, PhD, MPH; Associate Professor of Dermatology and Radiation Oncology",
+        "organization": "University of Rochester",
+        "email": "julie_ryan@urmc.rochester.edu",
+        "phone": "585-276-3862"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001943",
+          "term": "Breast Neoplasms"
+        },
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D011855",
+          "term": "Radiodermatitis"
+        },
+        {
+          "id": "D000071960",
+          "term": "Breast Carcinoma In Situ"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001941",
+          "term": "Breast Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D003872",
+          "term": "Dermatitis"
+        },
+        {
+          "id": "D011832",
+          "term": "Radiation Injuries"
+        },
+        {
+          "id": "D014947",
+          "term": "Wounds and Injuries"
+        },
+        {
+          "id": "D002278",
+          "term": "Carcinoma in Situ"
+        },
+        {
+          "id": "D002277",
+          "term": "Carcinoma"
+        },
+        {
+          "id": "D009375",
+          "term": "Neoplasms, Glandular and Epithelial"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003474",
+          "term": "Curcumin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D036381",
+          "term": "Diarylheptanoids"
+        },
+        {
+          "id": "D006536",
+          "term": "Heptanes"
+        },
+        {
+          "id": "D000473",
+          "term": "Alkanes"
+        },
+        {
+          "id": "D006839",
+          "term": "Hydrocarbons, Acyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D002396",
+          "term": "Catechols"
+        },
+        {
+          "id": "D010636",
+          "term": "Phenols"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

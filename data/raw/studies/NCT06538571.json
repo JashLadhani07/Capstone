@@ -1,0 +1,250 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06538571",
+      "orgStudyIdInfo": {
+        "id": "IRB00111841"
+      },
+      "organization": {
+        "fullName": "Advocate Hospital System",
+        "class": "OTHER"
+      },
+      "briefTitle": "Association of Near Infrared Spectroscopy With Interstage Outcomes",
+      "officialTitle": "Association of Renal Near Infrared Spectroscopy in Outpatients With Parallel Circulation During the Interstage Period and Interstage Morbidity"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-08",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-07-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-07-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-07-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-07-30",
+      "studyFirstSubmitQcDate": "2024-08-01",
+      "studyFirstPostDateStruct": {
+        "date": "2024-08-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-08-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-08-07",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Joshua Wong",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Advocate Hospital System"
+      },
+      "leadSponsor": {
+        "name": "Advocate Hospital System",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to assess the utility of renal near infrared spectroscopy in the outpatient setting during the interstage period. The primary aim will be to determine the correlation between oxygen extraction ratio ((arterial pulse oximetry - renal near infrared spectroscopy value)/arterial pulse oximetry value) with need for inpatient admission or intervention. Secondary aims will be to determine the correlation of the oxygen extraction ratio with weight gain, neurodevelopment, unexpected admissions, systemic ventricular strain by echocardiography, and Glenn hospitalization admission characteristics.",
+      "detailedDescription": "As above"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Single-ventricle"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "DIAGNOSTIC",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "NIRS use",
+          "type": "EXPERIMENTAL",
+          "description": "Patients will have renal near infrared spectroscopy recorded in clinic.",
+          "interventionNames": [
+            "Diagnostic Test: Near infrared spectroscopy"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Near infrared spectroscopy",
+          "description": "Noninvasive monitor for venous saturation",
+          "armGroupLabels": [
+            "NIRS use"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Unexpected admissions",
+          "description": "The investigators will investigate the correlation between renal near infrared spectroscopy values and unexpected admissions during the interstage period.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Unexpected interventions",
+          "description": "The investigators will investigate the correlation between renal near infrared spectroscopy values and unexpected need for interventions such as cardiac catheterization interventions or surgical interventions",
+          "timeFrame": "1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Infants under 6 months of age\n* Infants with single ventricle heart disease and parallel circulation\n* Infants who are awaiting the Glenn operation\n* Infants who are outpatient\n\nExclusion Criteria:\n\n* Infants over 6 months of age\n* Inpatients\n* Infants with history of skin injury from the near infrared spectroscopy sensor inpatient\n* Infants with ongoing hyperbilirubinemia",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "maximumAge": "6 Months",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "JOSHUA WONG, MD",
+          "role": "CONTACT",
+          "phone": "708-684-5580",
+          "email": "joshua.wong@aah.org"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Joshua Wong, MD",
+          "affiliation": "Advocate Children's Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Advocate Childrens Hospital",
+          "status": "RECRUITING",
+          "city": "Oak Lawn",
+          "state": "Illinois",
+          "zip": "60453",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Joshua Wong",
+              "role": "CONTACT",
+              "email": "joshua.wong@aah.org"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.71087,
+            "lon": -87.75811
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080039",
+          "term": "Univentricular Heart"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006330",
+          "term": "Heart Defects, Congenital"
+        },
+        {
+          "id": "D018376",
+          "term": "Cardiovascular Abnormalities"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D000013",
+          "term": "Congenital Abnormalities"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D019265",
+          "term": "Spectroscopy, Near-Infrared"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003952",
+          "term": "Diagnostic Imaging"
+        },
+        {
+          "id": "D019937",
+          "term": "Diagnostic Techniques and Procedures"
+        },
+        {
+          "id": "D003933",
+          "term": "Diagnosis"
+        },
+        {
+          "id": "D013057",
+          "term": "Spectrum Analysis"
+        },
+        {
+          "id": "D002623",
+          "term": "Chemistry Techniques, Analytical"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,315 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03734432",
+      "orgStudyIdInfo": {
+        "id": "IGAR-TO-007"
+      },
+      "organization": {
+        "fullName": "McMaster University",
+        "class": "OTHER"
+      },
+      "briefTitle": "IGAR-Breast TeleOp Trial",
+      "officialTitle": "IGAR-Breast Teleoperative Clinical Investigation",
+      "acronym": "IGAR-Breast-TO"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2018-11",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-01-01",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-03-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2019-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2018-11-06",
+      "studyFirstSubmitQcDate": "2018-11-06",
+      "studyFirstPostDateStruct": {
+        "date": "2018-11-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2018-11-06",
+      "lastUpdatePostDateStruct": {
+        "date": "2018-11-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "McMaster University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "St. Joseph's Healthcare Hamilton",
+          "class": "OTHER"
+        },
+        {
+          "name": "Sunnybrook Health Sciences Centre",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The aim of this study is to answer the question: can the IGAR-Breast safely and effectively perform teleoperative breast biopsies? This is a prospective, pilot trial. 5-10 participants will be selected by the radiologist and the success of biopsy analyzed. In addition the number of adverse events, device events and procedural deviations will be assessed to determine safety and efficacy.",
+      "detailedDescription": "In this prospective clinical trial, patients who present to the breast cancer clinic at one of the primary sites with suspected breast cancer requiring MRI-guided biopsy for diagnosis or staging will be screened consecutively. Patients who meet the inclusion criteria will be approached for consent to participate in the study. Upon consent, each participant will undergo a teleoperative breast biopsy at their local site using the IGAR-Breast system, while the radiologist operates the system from a remote site. All consenting participants will be followed up for the assessment of the secondary outcome measure.\n\nA total of 5-10 participants will be consented for the pilot investigation.\n\nEach individual subject's participation is estimated to last approximately one week post procedure, with the trial itself expected to be completed within one year of its start date."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "keywords": [
+        "Diagnostic, Imaging, MRI"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "DEVICE_FEASIBILITY",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 10,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Patients",
+          "type": "EXPERIMENTAL",
+          "description": "IGAR-Breast TeleOp",
+          "interventionNames": [
+            "Device: IGAR-Breast TeleOp"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "IGAR-Breast TeleOp",
+          "description": "Upon consent, each participant will undergo a teleoperative breast biopsy at their local site using the IGAR-Breast system, while the radiologist operates the system from a remote site.",
+          "armGroupLabels": [
+            "Patients"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "ability for IGAR-Breast to perform breast biopsies teleoperatively",
+          "description": "analyzing the frequency of successful biopsy, in which the samples collected are of diagnostic quality as determined by radiologist",
+          "timeFrame": "at time of sampling and pathological evaluation"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "number and frequency of adverse events, device events and procedural deviations in addition to a comparison to results from previous trials for efficacy",
+          "description": "The number of times the local radiologist is required to participate will also be observed from a safety perspective",
+          "timeFrame": "During procedure"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Female subjects aged \u2265 18 years who require MRI-guided breast biopsy for diagnosis and/or staging Subjects are able to tolerate procedures for the MRI\n\nExclusion Criteria:\n\n* Subjects who refuse or are unable to give free and informed consent Subjects requiring more than one breast biopsy Subjects with breast implants or other foreign bodies Subjects for whom investigator determines IGAR-Breast enabled MRI-guided breast biopsy is not possible (size of subject, location of lesion, size of breast, etc.) Subjects who are pregnant or who plan to become pregnant during the course of the study",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "genderBased": true,
+      "genderDescription": "Female subjects aged \u2265 18 years who require MRI-guided breast biopsy for diagnosis and/or staging Subjects are able to tolerate procedures for the MRI",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Karen Barlow",
+          "role": "CONTACT",
+          "phone": "905-522-1155",
+          "phoneExt": "33739",
+          "email": "kbarlow@stjoes.ca"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Mehran Anvari",
+          "affiliation": "Csii/St Joseph's Healthcare Hamilton",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "St. Josephs Healthcare Hamilton",
+          "city": "Hamilton",
+          "state": "Ontario",
+          "zip": "L8N 4A6",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Mehran Anvari",
+              "role": "CONTACT",
+              "phone": "9055221155",
+              "phoneExt": "35058",
+              "email": "anvari@mcmaster.ca"
+            },
+            {
+              "name": "Karen Barlow",
+              "role": "CONTACT",
+              "phone": "905-522-1155",
+              "phoneExt": "33739",
+              "email": "kbarlow@stjoes.ca"
+            },
+            {
+              "name": "Mehran Anvari",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Colm Boylan",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 43.25011,
+            "lon": -79.84963
+          }
+        },
+        {
+          "facility": "Sunnybrook Health Sciences Centre",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M4N 3M5",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Belinda Curpen",
+              "role": "CONTACT",
+              "email": "Belinda.Curpen@sunnybrook.ca"
+            },
+            {
+              "name": "Carrie Betel",
+              "role": "CONTACT",
+              "email": "carrie.betel@sunnybrook.ca"
+            },
+            {
+              "name": "Belinda Curpen",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Carrie Betel",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Calvin Law",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Imagix - Radiologie Saint-Laurent",
+          "city": "Saint-Laurent",
+          "state": "Quebec",
+          "zip": "H4R 0B7",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Nathalie Duchesne",
+              "role": "CONTACT",
+              "email": "nathalie.duchesne@me.com"
+            },
+            {
+              "name": "Nathalie Duchesne",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.50008,
+            "lon": -73.66585
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001943",
+          "term": "Breast Neoplasms"
+        },
+        {
+          "id": "D004194",
+          "term": "Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001941",
+          "term": "Breast Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

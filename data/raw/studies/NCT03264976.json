@@ -1,0 +1,215 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03264976",
+      "orgStudyIdInfo": {
+        "id": "2017-KE-194"
+      },
+      "organization": {
+        "fullName": "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine",
+        "class": "OTHER"
+      },
+      "briefTitle": "Role of the Serum Exosomal miRNA in Diabetic Retinopathy (DR)",
+      "officialTitle": "Prognostic Role of Serum Exosomal miRNA and Its Function in Pathogenesis of Diabetic Retinopathy (DR)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2017-08",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-07-01",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-07-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2023-07-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2017-08-25",
+      "studyFirstSubmitQcDate": "2017-08-25",
+      "studyFirstPostDateStruct": {
+        "date": "2017-08-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2017-08-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2017-08-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Kun Liu",
+        "investigatorTitle": "Chief Physician",
+        "investigatorAffiliation": "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine"
+      },
+      "leadSponsor": {
+        "name": "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Diabetic retinopathy (DR) is one of the most common causes of blindness worldwide. It is a progressive disease and its detection in early phases is very crucial for visional outcomes. miRNA of exosomes has been recently considered as a potential circulating marker of oculopathy, including age-related macular degeneration and uveal melanoma. Therefore, the primary objective of this study is to evaluate whether the serum exosomal miRNA could be prospective prognosis biomarker to investigate the initiation and development of DR. This case-control study is planned to include diabetic patients, and patients without DR, which serve as controls. Other participants will be divided into four groups by different DR stages according to the guideline from AAO. Information and samples of all trial participants will be collected at the inception of the study, including basic information, medical history, serum samples, and several ophthalmologic examinations. Then these information and examinations will be collected at regular intervals: every 12 months until 5 years. Different statistical methods will be used to identify significant associations between DR progression and different exosomal miRNA. We hypothesis that there could exist alert level of exosomal miRNAs which indicate the onset and development of DR in diabetic patients. Moreover, the selected exosomal miRNAs, being considered together with other information including medical history, blood indicators and ophthalmologic examinations, to be chosen-optimized as a prognostic model for DR, which may help predicting high risk groups of DR and those with poor prognosis. Based on clinical trial data, we will further discuss about possible roles of identified miRNA of exosomes in the pathogenesis of DR."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetic Retinopathy"
+      ],
+      "keywords": [
+        "diabetic retinopathy",
+        "miRNA",
+        "serum exosomes",
+        "prognostic biomarker"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "CASE_CONTROL",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITHOUT_DNA",
+        "description": "5ml serum will be obtained from each participant."
+      },
+      "enrollmentInfo": {
+        "count": 200,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group 1",
+          "description": "Patients without DR. Information and samples of all trial participants at enrollment will be collected at the inception of the study, including: basic information, basic medical records, hematological examination, ophthalmic examination. These information and examinations will be collected at regular intervals: every 12 months until 5 years.",
+          "interventionNames": [
+            "Diagnostic Test: hematological examination, ophthalmic examination"
+          ]
+        },
+        {
+          "label": "Group 2",
+          "description": "Patients with mild non-proliferative DR (NPDR). Diagnosed according to Diabetic retinopathy PPP - Updated 2016.\n\nInformation and samples of all trial participants at enrollment will be collected at the inception of the study, including: basic information, basic medical records, hematological examination, ophthalmic examination. These information and examinations will be collected at regular intervals: every 12 months until 5 years.",
+          "interventionNames": [
+            "Diagnostic Test: hematological examination, ophthalmic examination"
+          ]
+        },
+        {
+          "label": "Group 3",
+          "description": "Patients with moderate NPDR. Diagnosed according to Diabetic retinopathy PPP - Updated 2016.\n\nInformation and samples of all trial participants at enrollment will be collected at the inception of the study, including: basic information, basic medical records, hematological examination, ophthalmic examination.These information and examinations will be collected at regular intervals: every 12 months until 5 years.",
+          "interventionNames": [
+            "Diagnostic Test: hematological examination, ophthalmic examination"
+          ]
+        },
+        {
+          "label": "Group 4",
+          "description": "Patients with moderate NPDR. Diagnosed according to Diabetic retinopathy PPP - Updated 2016.\n\nInformation and samples of all trial participants at enrollment will be collected at the inception of the study, including: basic information, basic medical records, hematological examination, ophthalmic examination. These information and examinations will be collected at regular intervals: every 12 months until 5 years.",
+          "interventionNames": [
+            "Diagnostic Test: hematological examination, ophthalmic examination"
+          ]
+        },
+        {
+          "label": "Group 5",
+          "description": "Proliferative DR (PDR). Diagnosed according to Diabetic retinopathy PPP - Updated 2016.\n\nInformation and samples of all trial participants at enrollment will be collected at the inception of the study, including: basic information, basic medical records, hematological examination, ophthalmic examination.These information and examinations will be collected at regular intervals: every 12 months until 5 years.",
+          "interventionNames": [
+            "Diagnostic Test: hematological examination, ophthalmic examination"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "hematological examination, ophthalmic examination",
+          "description": "Hematological examination includes biochemical examination, routine coagulation test, HbA1c, C reactive protein (CRP)\uff1bOphthalmic examination includes the basic situation and clinical diagnosis of eyes, ETDRS visual acuity chart score, intraocular pressure, OCT examination, OCTA examination, fundus photos, Optos wide angle fundus imaging.",
+          "armGroupLabels": [
+            "Group 1",
+            "Group 2",
+            "Group 3",
+            "Group 4",
+            "Group 5"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "exosomal miRNAs in serum samples",
+          "description": "In discovery set, miRNA sequencing of serum exosomes will be performed for each sample. Data will be analyzed using statistical methods. Potential miRNAs that show group-differentiation will be selected in combination with information and test results.Based on these selected miRNAs, the same assays will be repeated on all validation set samples to screen out significant miRNA.",
+          "timeFrame": "samples will be collected every 12 months later until 5 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Type II diabetics,\n* Age \\> 18 years old,\n* Have not accepted anti-VEGF therapy,\n* Without turbid ocular media or corestenoma that interfere with ophthalmic fundus examination (patients with PDR are excluded).\n\nExclusion Criteria:\n\n-Patients with any following eye disease in studied eye:\n\n1. active infections (i.e., blepharitis, keratitis, scleritis, conjunctivitis, etc.),\n2. fundus oculi diseases other than DR (i.e., retinal vein occlusion, choroidal neovascularization, retinal detachment, macular hole, vitreous traction in macular region, epiretinal membrane, etc.) ,\n3. uncontrollable glaucoma (intraocular pressure is no less than 25mmHg after anti-glaucoma agents) or after filtering surgery for glaucoma;\n\n   -Patients who have accepted any following treatment in studied eyes:\n4. intraocular injection of corticosteroids (i.e., Triamcinolone) within 3 months, or peribulbar injection of corticosteroids within 1 months,\n5. vitrectomy surgery,\n6. anti-VEGF therapy for eyes or other parts of the body (i.e., ranibizumab, bevacizumab, conbercept, aflibercept, pegaptanib sodium, etc),\n7. any intraocular surgery within 3 months (i.e., cataract surgery, YAG laser capsulectomy, etc),\n8. ocular surgery related with macular region;\n\n   -Patients with any following systemic diseases:\n9. failed blood sugar control within 3 months (Changing treatment from oral antidiabetic therapy into insulin treatment, or start using insulin pump, or doubling the number of injections),\n10. damaged renal function (Crea is found to be 2 times higher than the upper limit in central laboratory) or abnormal liver function (ALT, AST are found to be 2 times higher than the upper limit in center of the laboratory),\n11. failed blood pressure control within 3 months (systolic blood pressure is no less than 140 mmHg or diastolic blood pressure is no less than 90 mmHg after hypotensor treatment),\n12. systemic infection that requires oral, intramuscular or intravenous administration,\n13. stroke, transient ischemic attack, myocardial infarction or acute congestive heart failure within 6months,\n14. coagulation dysfunction (thrombin time \u2265 normal upper limit of 3 seconds, activation of partial thromboplastin time \u2265 normal upper limit of 10 seconds),\n15. using drugs that may be toxic to the lens, retina or optic nerve during this research (i.e., deferoxamine, chloroquine, hydrogenated chloroquine (chloroquinol), tamoxifen, phenothiazine, or ethambutol, etc.),\n16. diagnosed systemic immune diseases (i.e., mandatory spondylitis, systemic lupus erythematosus, etc.) or any uncontrollable clinical diseases (such as AIDS, malignancy, active hepatitis, severe mental, neurological, cardiovascular, respiratory and other systems diseases, etc.);\n\n    -Others:\n17. pregnant and lactating women,\n18. those who participated in any drug clinical trials (not including vitamins and minerals) within 3 months,\n19. those researchers believe that need to be excluded.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "19 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients will be chosen according to the inclusion and exclusion standard and written informed consent will be obtained from all participants.\n\nExit criteria\uff1a During the research, for his / her own consideration or at the request of the investigator the patient may withdraw from the trial at any time. For each subject who withdrew from the trial, the investigator must detail the subject's exit date, the reason, and other information in case report form\uff08CRF\uff09.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003930",
+          "term": "Diabetic Retinopathy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012164",
+          "term": "Retinal Diseases"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        },
+        {
+          "id": "D003925",
+          "term": "Diabetic Angiopathies"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

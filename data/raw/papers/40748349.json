@@ -1,0 +1,28 @@
+{
+  "pmid": "40748349",
+  "title": "Nonendoscopic Detection of Barrett's Esophagus on Patients Without Gastroesophageal Reflux Disease Symptoms.",
+  "abstract": "Upper endoscopy (EGD) is generally recommended in those with chronic gastroesophageal reflux disease (GERD). To evaluate nonendoscopic screening in those without GERD symptoms. EsoCheck/Esoguard (LucidDx) was performed in recruited patients without chronic GERD who had \u22653 other BE risk factors. The EsoGuard assay was positive in 34 of 120 patients. BE was identified in 9 of 27 who had follow-up EGD, positive predictive value = 33% (17%-54%). EGD performed in 22 of 86 subjects with negative assays found no BE, negative predictive value = 100% (85%-100%). Nonendoscopic BE detection is effective in patients without chronic GERD.",
+  "journal": "The American journal of gastroenterology",
+  "pub_date": "2026-Jan",
+  "authors": [
+    "Chak, Amitabh",
+    "Keerthy, Komal",
+    "Wang, Gi-Ming",
+    "Brock, Wendy",
+    "Bednarchik, Beth",
+    "Guptha, Rajesh",
+    "Verma, Suman",
+    "Moinova, Helen",
+    "Tatsuoka, Curtis",
+    "Dumot, John",
+    "Thomas, Sapna",
+    "Willis, Joseph E",
+    "Markowitz, Sanford"
+  ],
+  "nct_ids_referenced": [
+    "NCT04880044"
+  ],
+  "source": "pubmed",
+  "word_count": 96,
+  "parsed_at": "2026-10-30T10:30:56.380888"
+}

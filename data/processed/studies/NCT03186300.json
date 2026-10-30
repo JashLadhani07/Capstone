@@ -1,0 +1,495 @@
+{
+  "nct_id": "NCT03186300",
+  "title": "Patient Empowerment Through Predictive Personalised Decision Support (PEPPER)",
+  "sponsor": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Girona Dr. Josep Trueta",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Diabetes Mellitus, Type 1"
+  ],
+  "interventions": [
+    "PEPPER system"
+  ],
+  "primary_outcome": "Change in the percentage of time spent in hypoglycaemia (glucose level below 3, 9 mmol/L or 70 mg/dl)",
+  "secondary_outcomes": [
+    "Number of incidence of low glucose alarms",
+    "Number of incidence of high glucose alarms",
+    "Number of incidence of carbohydrate adviser",
+    "Number of incidence of low glucose suspend",
+    "Number of incidence of fault detection alarm",
+    "Change in the percentage of time in glucose target range (glucose levels 3.9-10 mmol/l or 70 - 180 mg/dl)",
+    "Change in the percentage of time in hyperglycaemia (glucose level above 10 mmol/l or 180 mg/dl)",
+    "Change in the number of episodes of post-prandial hypoglycaemia (glucose level below 3,9 mmol/L or 70 mg/dl) within 4 hours",
+    "Change in the number of episodes of post-prandial hypoglycaemia (glucose level below 3,9 mmol/L or 70 mg/dl) within 6 hours",
+    "Change in the post-prandial glucose level at 120 minutes (mg/dl)",
+    "Change in the post-prandial glucose level at 120 minutes (mmol/l)",
+    "Change in the post-prandial area under the curve (AUC) of glucose level at 4 hours (min x mg/dl)",
+    "Change in the post-prandial area under the curve (AUC) of glucose level at 4 hours (min x mmol/l)",
+    "Change in glycaemic risk measured with low blood glucose index (LBGI)",
+    "Change in glycaemic risk measured with high blood glucose index (HBGI)",
+    "Change in glycaemic variability measured with mean amplitude of glycaemic excursions (MAGE) (mg/dl)",
+    "Change in glycaemic variability measured with mean amplitude of glycaemic excursions (MAGE) (mmol/l)",
+    "Change in glycaemic variability measured with continuous overall net glycemic action at 2 hours (CONGA-2) (mg/dl)",
+    "Change in glycaemic variability measured with continuous overall net glycemic action at 2 hours (CONGA-2) (mmol/l)",
+    "Measurement of satisfaction of diabetes treatment using Diabetes Treatment Satisfaction Questionnaire (DTSQ)",
+    "Measurement of quality of life in patients with diabetes mellitus using Diabetes Quality of Life (DQOL) questionnaire.",
+    "Measurement of diabetes related problems by using Problem Areas in Diabetes (PAID) questionnaire",
+    "Evaluation of usability and the treatment satisfaction of PEPPER system by using non-validated questionnaires."
+  ],
+  "start_date": "2017-09-01",
+  "completion_date": "2018-12-12",
+  "results_posted": false,
+  "enrollment": 8,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03186300",
+        "orgStudyIdInfo": {
+          "id": "599/16/EC"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "689810",
+            "type": "OTHER_GRANT",
+            "domain": "European Union\u00b4s Horizon 2020 Research and Innovation Programme"
+          }
+        ],
+        "organization": {
+          "fullName": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Girona Dr. Josep Trueta",
+          "class": "OTHER"
+        },
+        "briefTitle": "Patient Empowerment Through Predictive Personalised Decision Support (PEPPER)",
+        "officialTitle": "Patient Empowerment Through Predictive Personalised Decision Support (PEPPER)",
+        "acronym": "PEPPER"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-03",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2017-09-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2018-12-12",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2018-12-12",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2017-05-23",
+        "studyFirstSubmitQcDate": "2017-06-12",
+        "studyFirstPostDateStruct": {
+          "date": "2017-06-14",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-03-26",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-03-27",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Jos\u00e9 Manuel Fern\u00e1ndez-Real",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Girona Dr. Josep Trueta"
+        },
+        "leadSponsor": {
+          "name": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Girona Dr. Josep Trueta",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Imperial College London",
+            "class": "OTHER"
+          },
+          {
+            "name": "Oxford Brookes University",
+            "class": "OTHER"
+          },
+          {
+            "name": "Universitat de Girona",
+            "class": "OTHER"
+          },
+          {
+            "name": "Cellnovo Limited",
+            "class": "OTHER"
+          },
+          {
+            "name": "Romsoft SRL",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Patient Empowerment through Predictive PERsonalised decision support (PEPPER) is an European Union (EU) funded research project to develop a personalised clinical decision support system for Type 1 Diabetes Mellitus (T1DM) self-management. The tool provides insulin bolus dose advice, tailored to the needs of individuals. The system uses Case-Based Reasoning (CBR), an artificial intelligence methodology that adapts to new situations according to past experience. The PEPPER system also incorporates a safety module that promotes safety by providing glucose alarms, low-glucose insulin suspension, carbohydrate recommendations and fault detection.The principal research objectives are to assess the usability, safety, and technical proof of concept and feasibility of the PEPPER in participants with T1DM. Evaluation of safety is a priority and will be assessed throughout the clinical studies. The safety components only of the PEPPER system will initially be evaluated in an out-of-clinic environment (phase 1) and will measure incidence and percentage time spent in hypoglycaemia, evaluate usability and incidence of technical faults. Following the initial safety study, the overall PEPPER system (integrated with the CBR algorithm) will be assessed (phase 2) and the primary outcome will be percentage time spent in hypoglycaemia.",
+        "detailedDescription": "1\\. Description of the components of the PEPPER system: Decision support algorithm The decision support algorithm is based on case-based reasoning (CBR). CBR is an artificial intelligence technique that tries to solve newly encountered problems by applying the solutions learned from solved problems encountered in the past. A combination of parameters makes up the case problem presented to the CBR algorithm. Using this information the algorithm will find a similar case scenario from the pool of previously encountered cases and recommend an improved solution (insulin dose) to achieve the best possible outcome (post-prandial blood glucose). Each new case includes information about the problem (e.g. capillary blood glucose, meal information etc), solution (recommended insulin dose) and outcome (post-prandial blood glucose).\n\nPEPPER offers a dual architecture for both Multiple Daily Injections (MDI) or Continuous Subcutaneous Insulin Infusion (CSII) therapy. In both cases, the user periodically wears a continuous glucose monitor (CGM) and an activity monitor.\n\nHandset CSII version: The handset is a portable touch-screen device, which communicates directly with the insulin pump or Smartphone with PEPPER application running and participants can administer an insulin bolus with their usual pump.Its primary function in PEPPER is to allow the user to precisely manage insulin therapy by accepting or rejecting bolus insulin dose recommendations, calculated by the CBR based decision support algorithm, via a graphical interface. In addition, it measures and automatically records glucose levels (via a built-in Blood Glucose (BG) strip reader) and allows logging of food intake and other parameters.\n\nMDI version: This handset is a commercially available Smartphone with the insulin recommendation application running locally on a standard operating system such as iPhone Operating System (iOS) or Android. It has the same functionality as the CSII version, except that it does not have a built-in capillary blood glucose (CBG) reader but instead imports data wirelessly from external CBG monitors.\n\nSecure web server Revision: The handset wirelessly reports the user's case history to the secure portal, a web site which allows the clinician to add new patients, and review the cases to decide which ones should be kept. A case comprises multiple parameters such as carbohydrate intake, BG reading, meal composition, physical activity and hormone cycle.\n\nPersonal Health Record on the secure portal allows patients and clinicians to view and update selected components of the detailed history.\n\nInsulin delivery system MDI: it will be provide insulin pens with 0,5 IU of insulin. CSII: will use Cellnovo insulin pump or their usual pump.\n\nContinuous glucose monitoring system The glucose sensor that will be used throughout the clinical studies is the Dexcom sensor (CE marked, manufactured by Dexcom). This current is proportional to the glucose concentration in interstitial fluid and is calibrated against blood glucose a minimum of 12-hourly. The Dexcom CGM data is automatically transmitted to a secure web-based server and the secure PEPPER web-portal. Participants will be able to see their CGM data at all times and this will be used continuously throughout the studies.\n\nSafety features Low and high glucose alarms will be incorporated to alert the user when hypo- and hyperglycaemia is detected to enable the user to act accordingly to bring the glucose levels back to target range.\n\nGlucose prediction algorithm for hypoglycaemia prediction The hypoglycaemia prediction algorithm will enable the system to automatically activate the low glucose suspension feature in pump participants (suspension of insulin delivery until glucose levels are within the target range) and/or trigger an adaptive carbohydrate adviser, which will recommend a personalised carbohydrate snack.\n\nInsulin safety constraints Personalised maximum insulin dose thresholds will be incorporated to prevent overdosing on insulin.\n\nFault detection Insulin pumps and CGMs are well-established technologies, but faults in these devices (e.g. pump occlusion, loss of sensor sensitivity) may occur. A fault detection system will identify such faults and alert the user to recommend a corresponding action to revert to the normal state.\n\nParticipants will have the opportunity to call a physician for medical support and an engineer for technical support 24 hours a day.\n\n2.2 Recruitment This is a multicentre study and recruiting for the clinical study will be undertaken in the diabetes clinics at the Institut d'Investigaci\u00f3 Biom\u00e9dica de Girona (IdIBGi) (Spain) and the Imperial College London (ICL) (UK) from registered research databases and from interested participants who contact us.\n\n2.3 Clinical studies: 2.3.1 Phase 1 Objective: To demonstrate safety and technical proof of concept of the PEPPER safety system (without the CBR algorithm) in the participant's own environment.\n\nPrimary outcome and secondary outcomes are defined in Outcome Measures. Timescale: Each participant will be in the study for 8 weeks: run-in period (2 weeks period) and intervention period (6 weeks period). It is anticipated that it will take 6 months to complete this phase.\n\nPopulation: 15 adults with T1DM (7 on MDI and 8 in CSII)\n\nVisit 1: Screening Signed and dated informed consent Demographics data (date of birth, gender, race and ethnicity) Medical and surgical history and allergies to medication Details of the diabetes history Menstrual history and contraception (females) Medications and supplements Social history including drinking, smoking and drug habits Vital signs ECG Random venous blood and urine sample Urine pregnancy test in female participants of childbearing age Basic diabetes education revision, Insulin treatment adjusted if needed Questionnaires to be completed Participants will be provided with the real-time (RT) CGM (Dexcom) The participant will be instructed how to make correct CGM calibration. Quality control testing will be performed on the study devices as recommended in the manufacturer guidelines Participants will be shown how to insert the sensor themselves, interpret the CGM data in real time and to set the hypo- and hyperglycaemia threshold alarms. The alarm threshold will be set at 4mmol/l and 11mmol/l and participants will be encouraged to keep it at those levels and not to reduce the hypoglycaemia threshold below 3.3mmol/L) Participants to complete a 2-weeks run-in period using RT-CGM (Dexcom) and a standard bolus calculator to familiarize themselves with RT-CGM. Participants on MDI will be provided with the study CBG meter Participants on CSII will be provided with the Cellnovo study pump or they will used their usual pump. A standardised physical activity monitor will be provided and participants will be shown how to use it.\n\nDetailed user guides (Cellnovo, Dexcom CGM, PEPPER handset) will be given to the participants and an instruction sheet with 24-hour contact information of the research team to address any problems or questions.\n\nVisit 2: CGM review and study start Attend 2 weeks after visit 1 CGM data review Insulin treatment adjusted if needed.Switch on the PEPPER handset (CBR algorithm disabled).\n\nVisit 3: 2-week visit Attend 2 weeks after visit 2 at clinical research unit CGM data review Insulin treatment adjusted if needed Review any technical issues.\n\nVisit 4: Final visit (6 weeks after visit 2) CGM data review Switch off PEPPER system and return device Participants to revert to their usual treatment Questionnaires to be completed.\n\n2.3.2 Phase 2: Clinical evaluation of safety, feasibility and usability of the PEPPER system.\n\nObjective: To demonstrate safety and technical proof of concept of the overall PEPPER system (integrated with the CBR algorithm).\n\nPrimary outcome and secondary outcomes are defined in Outcome Measures. Timescale and population are the same as in phase 1. Visit 1: Screening Same as for phase 1 Visit 2: CGM review and study start Switch on the PEPPER handset (CBR algorithm and PEPPER safety system enabled) The rest of steps the same as in phase 1 visit 2 Visit 3: 2-week visit Same as in phase 1 visit 3 Visit 4: 6-week visit (6 weeks after visit 2) Same as in phase 1 visit 4 Visit 5: Final visit Step 5 of usability study 2.3.3 Usability study Usability of the system will be evaluated throughout the clinical trial phases and redevelopment of the system will be done accordingly.\n\nObjectives: to evaluate usability of the PEPPER handsets over a sustained time period.\n\nStep 1: Training observation Participants will be trained in use of devices. The handset will be filmed during the training to see which aspect is being described.\n\nStep 2: Contextual interview The aim is to gather data at an early stage of the usability engineering process. They will be used to understand the intended use of all parts of the system and the characteristics that relate to safety, within an everyday context. The interview will be semi-structured with choice of questions.\n\nStep 3: Diary study Data will be collected via the Smartphone in a variety of formats. The study follows on from the contextual interview and concludes with an exit interview. Participants will also be phoned at weekly intervals to see how they are finding the bolus advice and to check that there are no problems.\n\nData collection. Participants will be asked to make diary entries each time they use the PEPPER bolus advisor. Data will be collected using a Smartphone app. It may take a variety of formats including photos, voice memos, text. In addition, written notes will be made after each weekly phone call.\n\nStep 4: Diary exit interview The purpose is to drill down into some of the diary entries to discover supplementary information. Participants will be asked to review each of the diary entries, giving further explanation.This will be followed by an unstructured interview.\n\nThe diary will be filmed during the conversation to see which entry is being described.\n\nStep 5: Contextual group All of the members of the feasibility study will be invited to a social meeting in an informal location. The purpose of the session will be to validate the findings from the previous steps.The researcher will endeavour to be an unobtrusive bystander in the discussion, and not offer personal opinions but listen for common issues and themes.\n\nData collection. Data will be gathered on a notepad or laptop in a visible way. Data will be gathered using an audio recorder in steps 1-4. 2.4 Statistics The sample size is comparable to other technology pilot safety studies, is a realistic number for recruitment and provides robust safety data. The study is not powered to show a change in the primary or secondary outcomes compared with usual care but is an assessment of a new technology.\n\n2.5 Confidentiality of data collected during interviews To ensure security, data obtained during the course of the interviews will be encrypted and stored securely, with access limited solely to the researchers. Data will be de-identified such that only the researchers will be able to link the data to the participant involved using reversible codes. This is done purely for the purpose of comparison and evaluation across the separate interviews. Any resulting publications using the data will not identify the participants, and any quotes will kept anonymous should participants consent to this.\n\n2.6 Electronic data storage on secure web-server Data security and privacy will be a priority whilst dealing with medical data such as that held in the PEPPER system. During the clinical studies (phases 1-2) anonymous clinical data will be entered and stored on a secure web-server. Anonymous data collected by the PEPPER handset (such as glucose, meal information, physical activity, alcohol, exercise) and the Dexcom CGM system will be automatically transmitted to the secure web-server. For this purpose, EU regulatory procedures (Directives 95/46/EC and 2002/58/EC) will be observed. Medical data will be stored and protected against non-authorised access\u037e transmission of data will be secured\u037e only authorised users will have access to services and stored data. Authentication will be required for application use and data synchronisation. PEPPER will operate according to standard interoperability guidelines (e.g. HL7), so that information can be exchanged seamlessly between the various components. Authorised users will include study team members from the PEPPER collaborators. Collaborators will only be able to view anonymous PEPPER handset data.\n\nThe data generated by the study will be analysed by the collaborative PEPPER research team at their respective sites. The analysis will be on anonymised data which will be aggregated during joint meetings on either clinical site.\n\nMissing, unused, and spurious data will be assessed on an individual basis and may be ignored, withdrawn or the visit may be removed from the analysis with appropriate justification adjudicated by the Principal Investigator.\n\n2.7 Adverse Events (AEs) Reporting Procedures All adverse events will be reported. Depending on the nature of the event the reporting procedures below will be followed. Any questions concerning adverse event reporting will be directed to the Chief Investigator in the first instance.\n\nNon serious AEs: All such events will be recorded. Serious Adverse Events (SAEs): An SAE form will be completed and faxed to the Chief Investigator within 24 hours. However, hospitalisations for elective treatment of a pre-existing condition do not need reporting as SAEs.\n\nReports of related and unexpected SAEs will be submitted within 15 days of the Chief Investigator becoming aware of the event. The Chief Investigator will also notify the Sponsor of all SAEs, where in the opinion of the Chief Investigator, the event is:\n\n* 'related', i.e resulted from the administration of any of the research procedures; and\n* 'unexpected', i.e an event that is not listed in the protocol as an expected occurrence Local investigators will report any SAEs as required by their Local Research Ethics Committee, Sponsor and/or Research \\& Development Office."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus, Type 1"
+        ],
+        "keywords": [
+          "bolus advisor"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "DEVICE_FEASIBILITY",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 8,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "PEPPER",
+            "type": "OTHER",
+            "description": "In the phase 1 participants will use PEPPER safety system (with the CBR algorithm enabled) and in the phase 2 participants will use whole PEPPER system (with the CBR algorithm integrated).",
+            "interventionNames": [
+              "Device: PEPPER system"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "PEPPER system",
+            "description": "In the phase 1 participants will use PEPPER safety system (with the CBR algorithm enabled) and in the phase 2 participants will use whole PEPPER system (with the CBR algorithm integrated).",
+            "armGroupLabels": [
+              "PEPPER"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change in the percentage of time spent in hypoglycaemia (glucose level below 3, 9 mmol/L or 70 mg/dl)",
+            "description": "The primary outcome is the percentage of time spent in hypoglycaemia defined as glucose level below 3.9 mmol/L (measurement used in UK) or below 70 mg/dl (measurement used in Spain).",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Number of incidence of low glucose alarms",
+            "description": "Glucose thresholds for hypoglycaemia are defined to alert (forecasted glucose values) or to alarm (glucose measurements) the user when they are violated by the forecasted or actual glucose values.",
+            "timeFrame": "Evaluation during the intervention period (6 week period)"
+          },
+          {
+            "measure": "Number of incidence of high glucose alarms",
+            "description": "Glucose thresholds for hyperglycemia are defined to alert (forecasted glucose values) or to alarm (glucose measurements) the user when they are violated by the forecasted or actual glucose values.",
+            "timeFrame": "Evaluation during the intervention period (6 week period)"
+          },
+          {
+            "measure": "Number of incidence of carbohydrate adviser",
+            "description": "Recommendation of dose of oral carbohydrate intake to address hypoglycaemia",
+            "timeFrame": "Evaluation during the intervention period (6 week period)"
+          },
+          {
+            "measure": "Number of incidence of low glucose suspend",
+            "description": "Alarm of low glucose suspend is an alarm that announce the reduction or suspension of insulin delivery if predicted glucose values fall below a predefined threshold (only for pump users).",
+            "timeFrame": "Evaluation during the intervention period (6 week period)"
+          },
+          {
+            "measure": "Number of incidence of fault detection alarm",
+            "description": "The fault detection algorithm allows detecting faults in the insulin infusion system and the continuous monitoring system.",
+            "timeFrame": "Evaluation during the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in the percentage of time in glucose target range (glucose levels 3.9-10 mmol/l or 70 - 180 mg/dl)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in the percentage of time in hyperglycaemia (glucose level above 10 mmol/l or 180 mg/dl)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in the number of episodes of post-prandial hypoglycaemia (glucose level below 3,9 mmol/L or 70 mg/dl) within 4 hours",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in the number of episodes of post-prandial hypoglycaemia (glucose level below 3,9 mmol/L or 70 mg/dl) within 6 hours",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in the post-prandial glucose level at 120 minutes (mg/dl)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in the post-prandial glucose level at 120 minutes (mmol/l)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in the post-prandial area under the curve (AUC) of glucose level at 4 hours (min x mg/dl)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in the post-prandial area under the curve (AUC) of glucose level at 4 hours (min x mmol/l)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in glycaemic risk measured with low blood glucose index (LBGI)",
+            "description": "Low blood glucose index (LBGI) is a parameter that quantifies the risk of glycaemic excursions in non-negative numbers.",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in glycaemic risk measured with high blood glucose index (HBGI)",
+            "description": "High blood glucose index (HBGI) is a parameter that quantifies the risk of glycaemic excursions in non-negative numbers.",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in glycaemic variability measured with mean amplitude of glycaemic excursions (MAGE) (mg/dl)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in glycaemic variability measured with mean amplitude of glycaemic excursions (MAGE) (mmol/l)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in glycaemic variability measured with continuous overall net glycemic action at 2 hours (CONGA-2) (mg/dl)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Change in glycaemic variability measured with continuous overall net glycemic action at 2 hours (CONGA-2) (mmol/l)",
+            "timeFrame": "Comparison of the run-in period (2 week period) vs the intervention period (6 week period)"
+          },
+          {
+            "measure": "Measurement of satisfaction of diabetes treatment using Diabetes Treatment Satisfaction Questionnaire (DTSQ)",
+            "timeFrame": "DTSQ will be completed in the first and the last visit of the study in each phase (8 week period)."
+          },
+          {
+            "measure": "Measurement of quality of life in patients with diabetes mellitus using Diabetes Quality of Life (DQOL) questionnaire.",
+            "timeFrame": "DQOL questionnaire will be completed in the first and the last visit of the study in each phase (8 week period)."
+          },
+          {
+            "measure": "Measurement of diabetes related problems by using Problem Areas in Diabetes (PAID) questionnaire",
+            "timeFrame": "PAID questionnaire will be completed in the first and the last visit of the study in each phase (8 week period)."
+          },
+          {
+            "measure": "Evaluation of usability and the treatment satisfaction of PEPPER system by using non-validated questionnaires.",
+            "description": "These questionnaires ask about ability to perform a number of tasks with a mobile device. Usability assessment has been incorporated into the clinical study visits for each clinical study phase.",
+            "timeFrame": "Questionnaires will be completed an average 1 time per week through each phase (8 week period)."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults \u226518years of age\n* Diagnosis of T1DM for \\> 1 year\n* On MDI using a basal-bolus insulin regime or CSII (insulin pump) for at least 6 month\n* Structured education done and good ability perform carbohydrates (CHO) counting\n* HbA1c \u2265 48mmol/mol and \u2264 86mmol/mol\n* Using insulin carbohydrates ratio (ICR) and insulin sensitivity factor (ISF) to calculate the mealtime bolus\n* An understanding of and willingness to follow the protocol and sign the informed consent\n* CBG measurements at least 2 times per day for calibration of the CGM\n\nExclusion Criteria:\n\n* Severe episode of hypoglycaemia (requiring 3rd party assistance) in the 6 months prior to enrolment\n* Diabetic ketoacidosis in the last 6 months prior to enrolment\n* Impaired awareness of hypoglycaemia (based on Clarke score)\n* Pregnancy, breastfeeding or intention of becoming pregnant over time of study procedures\n* Enrolled in other clinical trials\n* Have active malignancy or under investigation for malignancy\n* Suspected or diagnosed endocrinopathy like adrenal insufficiency, unstable thyroidopathy, endocrine tumour\n* Gastroparesis\n* Autonomic neuropathy\n* Macrovascular complications (acute coronary syndrome, transient ischaemic attack, cerebrovascular event within the last 12 months prior to enrolment in the study)\n* Visual impairment including unstable proliferative retinopathy\n* Reduced manual dexterity\n* Inpatient psychiatric treatment\n* Abnormal renal function test results (calculated Glomerular Filtration Rate (GFR) \\<40 mL/min/1.73m2)\n* Liver cirrhosis\n* Not tributary to optimization to insulin therapy\n* Abuse of alcohol or recreational drugs\n* Oral steroids\n* Regular use of the acetaminophen, beta-blockers or any other medication that the investigator believes is a contraindication to the participant's participation.\n\nParticipant withdrawal criteria:\n\n* Loss of capacity to give informed consent\n* The subject has a serious event related to study\n* Cessation of MDI of insulin as usual care for T1DM\n* Severe hypoglycaemia\n* Diabetic ketoacidosis\n* Positive pregnancy test\n* Terminal illness\n* Investigators initiated discontinuation of study due to participant or equipment concerns",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Jos\u00e9 Manuel Fern\u00e1ndez Real",
+            "affiliation": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Girona (IDIBGI) Unitat de Diabetis, Endocrinologia i Nutrici\u00f3 de Girona (UDENG) Hospital Universitari de Girona Dr Josep Trueta",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Merc\u00e8 Fern\u00e1ndez-Balsells",
+            "affiliation": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Girona (IDIBGI) Unitat de Diabetis, Endocrinologia i Nutrici\u00f3 de Girona (UDENG) Hospital Universitari de Girona Dr Josep Trueta",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Nick Oliver",
+            "affiliation": "Imperial Collage London",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Girona (IDIBGI)",
+            "city": "Girona",
+            "state": "Girona",
+            "zip": "17007",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 41.98311,
+              "lon": 2.82493
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "18694975",
+            "type": "RESULT",
+            "citation": "Buckingham B, Wilson DM, Lecher T, Hanas R, Kaiserman K, Cameron F. Duration of nocturnal hypoglycemia before seizures. Diabetes Care. 2008 Nov;31(11):2110-2. doi: 10.2337/dc08-0863. Epub 2008 Aug 11."
+          },
+          {
+            "pmid": "20082589",
+            "type": "RESULT",
+            "citation": "Perez-Gandia C, Facchinetti A, Sparacino G, Cobelli C, Gomez EJ, Rigla M, de Leiva A, Hernando ME. Artificial neural network algorithm for online glucose prediction from continuous glucose monitoring. Diabetes Technol Ther. 2010 Jan;12(1):81-8. doi: 10.1089/dia.2009.0076."
+          },
+          {
+            "pmid": "8366922",
+            "type": "RESULT",
+            "citation": "Diabetes Control and Complications Trial Research Group; Nathan DM, Genuth S, Lachin J, Cleary P, Crofford O, Davis M, Rand L, Siebert C. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N Engl J Med. 1993 Sep 30;329(14):977-86. doi: 10.1056/NEJM199309303291401."
+          },
+          {
+            "pmid": "20508231",
+            "type": "RESULT",
+            "citation": "Dassau E, Cameron F, Lee H, Bequette BW, Zisser H, Jovanovic L, Chase HP, Wilson DM, Buckingham BA, Doyle FJ 3rd. Real-Time hypoglycemia prediction suite using continuous glucose monitoring: a safety net for the artificial pancreas. Diabetes Care. 2010 Jun;33(6):1249-54. doi: 10.2337/dc09-1487."
+          },
+          {
+            "pmid": "27472488",
+            "type": "RESULT",
+            "citation": "FDA Advisory Panel Votes to Recommend Non-Adjunctive Use of Dexcom G5 Mobile CGM. Diabetes Technol Ther. 2016 Aug;18(8):512-6. doi: 10.1089/dia.2016.07252.mr. Epub 2016 Jul 29. No abstract available."
+          },
+          {
+            "pmid": "18715213",
+            "type": "RESULT",
+            "citation": "Garg SK, Bookout TR, McFann KK, Kelly WC, Beatson C, Ellis SL, Gutin RS, Gottlieb PA. Improved glycemic control in intensively treated adult subjects with type 1 diabetes using insulin guidance software. Diabetes Technol Ther. 2008 Oct;10(5):369-75. doi: 10.1089/dia.2007.0303."
+          },
+          {
+            "pmid": "26334079",
+            "type": "RESULT",
+            "citation": "National Clinical Guideline Centre (UK). Type 1 Diabetes in Adults: Diagnosis and Management. London: National Institute for Health and Care Excellence (NICE); 2015 Aug. Available from http://www.ncbi.nlm.nih.gov/books/NBK315808/"
+          },
+          {
+            "pmid": "23063040",
+            "type": "RESULT",
+            "citation": "Herrero P, Calm R, Vehi J, Armengol J, Georgiou P, Oliver N, Tomazou C. Robust fault detection system for insulin pump therapy using continuous glucose monitoring. J Diabetes Sci Technol. 2012 Sep 1;6(5):1131-41. doi: 10.1177/193229681200600518."
+          },
+          {
+            "pmid": "24956470",
+            "type": "RESULT",
+            "citation": "Herrero P, Pesl P, Reddy M, Oliver N, Georgiou P, Toumazou C. Advanced Insulin Bolus Advisor Based on Run-To-Run Control and Case-Based Reasoning. IEEE J Biomed Health Inform. 2015 May;19(3):1087-96. doi: 10.1109/JBHI.2014.2331896."
+          },
+          {
+            "pmid": "25733405",
+            "type": "RESULT",
+            "citation": "Herrero P, Pesl P, Bondia J, Reddy M, Oliver N, Georgiou P, Toumazou C. Method for automatic adjustment of an insulin bolus calculator: in silico robustness evaluation under intra-day variability. Comput Methods Programs Biomed. 2015 Apr;119(1):1-8. doi: 10.1016/j.cmpb.2015.02.003. Epub 2015 Feb 16."
+          },
+          {
+            "pmid": "19675193",
+            "type": "RESULT",
+            "citation": "Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group; Bode B, Beck RW, Xing D, Gilliam L, Hirsch I, Kollman C, Laffel L, Ruedy KJ, Tamborlane WV, Weinzimer S, Wolpert H. Sustained benefit of continuous glucose monitoring on A1C, glucose profiles, and hypoglycemia in adults with type 1 diabetes. Diabetes Care. 2009 Nov;32(11):2047-9. doi: 10.2337/dc09-0846. Epub 2009 Aug 12."
+          },
+          {
+            "pmid": "18779236",
+            "type": "RESULT",
+            "citation": "Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group; Tamborlane WV, Beck RW, Bode BW, Buckingham B, Chase HP, Clemons R, Fiallo-Scharer R, Fox LA, Gilliam LK, Hirsch IB, Huang ES, Kollman C, Kowalski AJ, Laffel L, Lawrence JM, Lee J, Mauras N, O'Grady M, Ruedy KJ, Tansey M, Tsalikian E, Weinzimer S, Wilson DM, Wolpert H, Wysocki T, Xing D. Continuous glucose monitoring and intensive treatment of type 1 diabetes. N Engl J Med. 2008 Oct 2;359(14):1464-76. doi: 10.1056/NEJMoa0805017. Epub 2008 Sep 8."
+          },
+          {
+            "pmid": "19444330",
+            "type": "RESULT",
+            "citation": "Kovatchev BP, Breton M, Man CD, Cobelli C. In silico preclinical trials: a proof of concept in closed-loop control of type 1 diabetes. J Diabetes Sci Technol. 2009 Jan;3(1):44-55. doi: 10.1177/193229680900300106."
+          },
+          {
+            "pmid": "22673770",
+            "type": "RESULT",
+            "citation": "Lepore G, Dodesini AR, Nosari I, Scaranna C, Corsi A, Trevisan R. Bolus calculator improves long-term metabolic control and reduces glucose variability in pump-treated patients with Type 1 diabetes. Nutr Metab Cardiovasc Dis. 2012 Aug;22(8):e15-6. doi: 10.1016/j.numecd.2012.04.001. Epub 2012 Jun 4. No abstract available."
+          },
+          {
+            "pmid": "27196358",
+            "type": "RESULT",
+            "citation": "Reddy M, Pesl P, Xenou M, Toumazou C, Johnston D, Georgiou P, Herrero P, Oliver N. Clinical Safety and Feasibility of the Advanced Bolus Calculator for Type 1 Diabetes Based on Case-Based Reasoning: A 6-Week Nonrandomized Single-Arm Pilot Study. Diabetes Technol Ther. 2016 Aug;18(8):487-93. doi: 10.1089/dia.2015.0413. Epub 2016 May 19."
+          },
+          {
+            "pmid": "26965473",
+            "type": "RESULT",
+            "citation": "Reddy M, Rilstone S, Cooper P, Oliver NS. Type 1 diabetes in adults: supporting self management. BMJ. 2016 Mar 10;352:i998. doi: 10.1136/bmj.i998. No abstract available."
+          },
+          {
+            "pmid": "21129353",
+            "type": "RESULT",
+            "citation": "Vaddiraju S, Burgess DJ, Tomazos I, Jain FC, Papadimitrakopoulos F. Technologies for continuous glucose monitoring: current problems and future promises. J Diabetes Sci Technol. 2010 Nov 1;4(6):1540-62. doi: 10.1177/193229681000400632."
+          },
+          {
+            "pmid": "10097898",
+            "type": "RESULT",
+            "citation": "Sovik O, Thordarson H. Dead-in-bed syndrome in young diabetic patients. Diabetes Care. 1999 Mar;22 Suppl 2:B40-2."
+          },
+          {
+            "pmid": "19049372",
+            "type": "RESULT",
+            "citation": "Zisser H, Robinson L, Bevier W, Dassau E, Ellingsen C, Doyle FJ, Jovanovic L. Bolus calculator: a review of four \"smart\" insulin pumps. Diabetes Technol Ther. 2008 Dec;10(6):441-4. doi: 10.1089/dia.2007.0284."
+          }
+        ],
+        "seeAlsoLinks": [
+          {
+            "label": "Project website",
+            "url": "http://www.pepper.eu.com/"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003922",
+            "term": "Diabetes Mellitus, Type 1"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D001327",
+            "term": "Autoimmune Diseases"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604239"
+}

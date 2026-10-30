@@ -1,0 +1,46 @@
+
+{% extends "base.html" %}
+{% block title %}Signal Intelligence | MOSAIC{% endblock %}
+{% block breadcrumb %}Signal Intelligence{% endblock %}
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">RESEARCH INTELLIGENCE</p>
+        <h1>Signal <span>Intelligence</span></h1>
+        <p class="page-description">Explore and investigate clinical trial integrity signals.</p>
+    </div>
+</section>
+
+<section class="content-card">
+    <div class="filter-bar">
+        <input id="signal-search" placeholder="Search by NCT ID or signal...">
+        <select id="agent-filter">
+            <option value="">All Agents</option>
+            <option value="broken_promises">Broken Promises</option>
+            <option value="missing_results">Missing Results</option>
+            <option value="track_record">Track Record</option>
+            <option value="pattern_finder">Pattern Finder</option>
+            <option value="side_effect">Side Effects</option>
+            <option value="timeline">Timeline</option>
+        </select>
+        <select id="type-filter">
+            <option value="">All Signal Types</option>
+            <option value="missing_results">Missing Results</option>
+            <option value="broken_promise">Broken Promise</option>
+        </select>
+        <button class="secondary-button" id="filter-signals">Filter</button>
+    </div>
+
+    <div class="table-container">
+        <table>
+            <thead><tr><th>TRIAL ID</th><th>AGENT</th><th>SIGNAL TYPE</th><th>SUMMARY</th><th>DETAILS</th></tr></thead>
+            <tbody id="signals-table">
+                <tr><td colspan="5" class="loading-cell">Loading signals...</td></tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', path='js/signals.js') }}"></script>
+{% endblock %}

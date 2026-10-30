@@ -1,0 +1,236 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03470506",
+      "orgStudyIdInfo": {
+        "id": "20154"
+      },
+      "organization": {
+        "fullName": "University of Virginia",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Study of the Relationship of Gut Microbial Composition and Stroke Outcome",
+      "officialTitle": "A Study of the Relationship of Gut Microbial Composition and Stroke Outcome",
+      "acronym": "GEMSTONE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-11",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-02-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-01-06",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2022-07-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2017-12-29",
+      "studyFirstSubmitQcDate": "2018-03-16",
+      "studyFirstPostDateStruct": {
+        "date": "2018-03-20",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-11-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-11-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Virginia",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Colorado, Denver",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to investigate the relationship between gut microbiome (bacteria in the gut), inflammation and the injured brain. It has been established that bacteria in the gut play key roles in digestion, nutrition absorption and immune response of the entire body. Human intestinal bacteria composition in the gut has been associated with several stroke risk factors including obesity, insulin resistance, diabetes and hypertension. If we can establish a relationship between gastrointestinal microbial community composition and ischemic stroke outcomes could lead to dietary interventions in the future to improve recovery after a stroke."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Ischemic Stroke"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "Fecal and blood samples will be collected. The biorepository will contain acute and convalescent samples: DNA (genetic and epigenetic), RNA (gene expression), serum/plasma (biomarker levels, proteomics), and fecal (microbiome) samples couple with clinical and research data."
+      },
+      "enrollmentInfo": {
+        "count": 300,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Ischemic stroke",
+          "description": "Diagnosed with an ischemic stroke by a Neurologist",
+          "interventionNames": [
+            "Other: Stool Samples"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Stool Samples",
+          "description": "Stool samples will be collected at baseline and 3 months to assess differences in microbiome composition between groups",
+          "armGroupLabels": [
+            "Ischemic stroke"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Measured differences in taxonomic make-up and the relative frequency of the gut microbial composition in relation to excellent vs. poor stroke outcome",
+          "description": "The primary outcome in this case-comparison design of those with excellent vs. non-excellent ischemic stroke outcomes at 3 months as measured by the National Institutes of Health Stroke Scale (NIHSS) is the taxonomic make up of the gut microbial composition. In other words, comprehensive microbiota survey results from 16S rRNA gene sequencing from individuals with excellent outcomes versus all other outcomes at 3 months are the outcome.",
+          "timeFrame": "Baseline, 3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Cogstate cognitive correlates and post-stroke microbial composition",
+          "description": "Descriptive analyses will be used to develop a preliminary understanding of microbiome composition in relation to measures of cognitive functioning as derived from Cogstate cognitive assessment results at baseline and 3 months post- ischemic stroke",
+          "timeFrame": "Baseline, 3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Men and women at least 18 years of age.\n2. Willing and able to attend all study visits.\n3. English speaking.\n4. Must have had a stroke that occurred within 48 hours of admission to the Stroke Unit as determined by a neurologist.\n\nExclusion Criteria:\n\n1. History of inflammatory bowel disease.\n2. Receiving antibiotics within 30 days of entry into the study.\n3. History of institutionalization for mental illness within the last year.\n4. Unable to consent and does not have a surrogate available to consent on their behalf.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Community probability sample of adults who have suffered an ischemic stroke within 48 hours of admission to UVA",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Sonya A Gunter, MS",
+          "role": "CONTACT",
+          "phone": "434-924-9664",
+          "email": "sag7bf@hscmail.mcc.virginia.edu"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Bradford Worrall, MD, MS",
+          "affiliation": "University of Virginia",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Virginia Health System",
+          "status": "ENROLLING_BY_INVITATION",
+          "city": "Charlottesville",
+          "state": "Virginia",
+          "zip": "22908",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.02931,
+            "lon": -78.47668
+          }
+        },
+        {
+          "facility": "Inova Health System",
+          "status": "RECRUITING",
+          "city": "Fairfax",
+          "state": "Virginia",
+          "zip": "22031",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Robert Lipsky, PhD",
+              "role": "CONTACT",
+              "phone": "571-472-0240",
+              "email": "robert.lipsky@inova.org"
+            }
+          ],
+          "geoPoint": {
+            "lat": 38.84622,
+            "lon": -77.30637
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000083242",
+          "term": "Ischemic Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

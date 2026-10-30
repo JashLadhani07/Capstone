@@ -1,0 +1,308 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00825526",
+      "orgStudyIdInfo": {
+        "id": "NA 6349"
+      },
+      "organization": {
+        "fullName": "Sunnybrook Health Sciences Centre",
+        "class": "OTHER"
+      },
+      "briefTitle": "HARMONY Study (Hypertension Analysis of Stress Reduction Using Mindfulness Meditation and Yoga)",
+      "officialTitle": "HARMONY Study (Hypertension Analysis of Stress Reduction Using Mindfulness Meditation and Yoga)",
+      "acronym": "HARMONY"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2012-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2008-07"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2012-03",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2009-01-19",
+      "studyFirstSubmitQcDate": "2009-01-20",
+      "studyFirstPostDateStruct": {
+        "date": "2009-01-21",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2012-05-31",
+      "lastUpdatePostDateStruct": {
+        "date": "2012-06-01",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Sheldon Tobe",
+        "investigatorTitle": "Medical Doctor",
+        "investigatorAffiliation": "Sunnybrook Health Sciences Centre"
+      },
+      "leadSponsor": {
+        "name": "Sunnybrook Health Sciences Centre",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University Health Network, Toronto",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine if Mindfulness Based Stress Reduction (MBSR) is an effective intervention for lowering blood pressure in early unmedicated hypertensives."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hypertension"
+      ],
+      "keywords": [
+        "Mindfulness Based Stress Reduction (MBSR)",
+        "Stress Reduction",
+        "hypertension",
+        "high blood pressure",
+        "ambulatory blood pressure monitoring"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 101,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Early Intervention, MBSR therapy",
+          "type": "EXPERIMENTAL",
+          "description": "Group that receives Mindfulness Based Stress Reduction Therapy immediately after randomization",
+          "interventionNames": [
+            "Behavioral: Mindfulness Based Stress Reduction (MBSR) Therapy"
+          ]
+        },
+        {
+          "label": "Delayed Treatment Arm, MBSR Therapy",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Group that receives Mindfulness Based Stress Reduction Therapy within 3 months of randomization",
+          "interventionNames": [
+            "Behavioral: Mindfulness Based Stress Reduction (MBSR) Therapy"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Mindfulness Based Stress Reduction (MBSR) Therapy",
+          "description": "The objectives of MBSR therapy are to 1) understand their personal response to stress and 2) develop techniques to change the way these patients respond and cope with stress",
+          "armGroupLabels": [
+            "Delayed Treatment Arm, MBSR Therapy",
+            "Early Intervention, MBSR therapy"
+          ],
+          "otherNames": [
+            "stress reduction therapy",
+            "Jon Kabat-Zinn",
+            "mindfulness meditation"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The primary outcome is the difference in 24-hour systolic and diastolic blood pressure between the treatment and wait-list group for the 12-week primary assessment period.",
+          "timeFrame": "12 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Changes in 24 hour ambulatory systolic and diastolic blood pressure at the end of the treatment assessment period compared to the beginning.",
+          "timeFrame": "12 weeks"
+        },
+        {
+          "measure": "Between and within group comparisons of MBSR on blood pressure at different times of the day including daytime, night time and work time.",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "The proportion of patients achieving blood pressure targets (24-hour ABPM<130/80 mmHg, daytime ABPM<135/85 mmHg) at the end of the Primary Outcome period",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "The effect of MBSR on ambulatory blood pressure by gender",
+          "timeFrame": "24 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 20 to 75 years\n2. Hypertension by ABPM at baseline (daytime \\> 135/85 mmHg or 24-hour ABPM \\> 130/80 mmHg)\n\nExclusion Criteria:\n\n1. Use of antihypertensive within 6 months of the screening ABPM.\n2. Screening office BP \\> 180/100 and ABPM \\> 160/100 mmHg.\n3. Diabetes\n4. Secondary hypertension\n5. Renal disease (GFR \\< 60 ml/min or overt nephropathy)\n6. History of heart attack\n7. Stroke or TIA or\n8. Re-vascularization procedure.\n9. Active malignant disease (except non-melanoma skin cancer)\n10. Epileptic seizure 6 months before the screening visit.\n11. Congestive heart failure\n12. Severe liver disease\n13. Pregnancy or lactation period\n14. Participation in a clinical trial or receipt of investigational compound or treatment in the 3 months prior to the initial screening visit.\n15. Planned elective surgery during the study period except for cataract surgery",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "20 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Sheldon Tobe, MD, FRCP(C)",
+          "affiliation": "Sunnybrook Health Sciences Centre",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Brian Baker, ChB, MB",
+          "affiliation": "University Health Network, Toronto",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Jane Irvine, D.Phil., C. Psych.",
+          "affiliation": "York University",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Susan Abbey, MD, FRCP(C)",
+          "affiliation": "University Health Network, Toronto",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Beth Abramson, MD, FRCPC, FACC",
+          "affiliation": "Unity Health Toronto",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Martin Myers, MD, FRCPC",
+          "affiliation": "Sunnybrook Health Sciences Centre",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Sunnybrook Health Sciences Centre",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M4N 3M5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "University Health Network",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 2N2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "24038797",
+          "type": "DERIVED",
+          "citation": "Blom K, Baker B, How M, Dai M, Irvine J, Abbey S, Abramson BL, Myers MG, Kiss A, Perkins NJ, Tobe SW. Hypertension analysis of stress reduction using mindfulness meditation and yoga: results from the HARMONY randomized controlled trial. Am J Hypertens. 2014 Jan;27(1):122-9. doi: 10.1093/ajh/hpt134. Epub 2013 Sep 14."
+        },
+        {
+          "pmid": "22396225",
+          "type": "DERIVED",
+          "citation": "Blom K, How M, Dai M, Baker B, Irvine J, Abbey S, Abramson BL, Myers M, Perkins N, Tobe SW. Hypertension Analysis of stress Reduction using Mindfulness meditatiON and Yoga (The HARMONY Study): study protocol of a randomised control trial. BMJ Open. 2012 Mar 5;2(2):e000848. doi: 10.1136/bmjopen-2012-000848. Print 2012."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Overview of MBSR program",
+          "url": "http://www.umassmed.edu/cfm/index.aspx"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000099024",
+          "term": "Mindfulness-Based Stress Reduction"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D064866",
+          "term": "Mindfulness"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D015928",
+          "term": "Cognitive Behavioral Therapy"
+        },
+        {
+          "id": "D001521",
+          "term": "Behavior Therapy"
+        },
+        {
+          "id": "D011613",
+          "term": "Psychotherapy"
+        },
+        {
+          "id": "D004191",
+          "term": "Behavioral Disciplines and Activities"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

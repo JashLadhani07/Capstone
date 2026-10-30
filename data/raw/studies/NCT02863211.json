@@ -1,0 +1,321 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02863211",
+      "orgStudyIdInfo": {
+        "id": "H2014:224"
+      },
+      "organization": {
+        "fullName": "St. Boniface Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease",
+      "officialTitle": "The Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-12",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-09"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-02",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2022-02",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2016-08-08",
+      "studyFirstSubmitQcDate": "2016-08-08",
+      "studyFirstPostDateStruct": {
+        "date": "2016-08-11",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2020-12-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-12-07",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Dr. Todd A Duhamel",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "St. Boniface Hospital"
+      },
+      "leadSponsor": {
+        "name": "St. Boniface Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Efforts to identify individuals at a higher risk for adverse cardiovascular outcomes focus on traditional risk factors, such as age, gender, smoking status, blood pressure, and cholesterol; however, this approach does not directly assess cardiovascular function and underestimates the risk of experiencing adverse cardiovascular outcomes in women. This prospective, observational trial will examine the ability of the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease screening protocol, a series of non-invasive procedures to identify middle-aged and older women who are at elevated risk for experiencing an adverse cardiovascular event in the five-year period after screening. The predictive value of the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol will also be compared to the Framingham Risk Score to determine if one method has better sensitivity for estimating risk for an adverse cardiovascular outcome.",
+      "detailedDescription": "Every seven minutes in Canada, there is a death due to heart disease or stroke. Up to 80% of cardiovascular disease (CVD) could be prevented by identifying and controlling for biological risk factors such as hypertension, high cholesterol, and diabetes, and behavioral risk factors such as physical inactivity, unhealthy diet, and smoking. Efforts to identify individuals at a higher risk for adverse cardiovascular events, such as the Framingham Disease Risk (FDR) score, focus on traditional risk factors, such as age, gender, smoking status, blood pressure, and cholesterol. While this approach does estimate 10-year risk for heart attacks,3 it remains suboptimal as it does not assess how well each individual's cardiovascular system is functioning. In fact, a previous study suggests that more than 80% of females evaluated with the FDR were identified as being at low risk, or not qualifying for medications known to lower cardiovascular risk before experiencing a myocardial infarction. Therefore, these data warrant the use of cardiovascular screening approaches that are more accurate in identifying the risk of adverse cardiovascular outcomes.\n\nThere is a common perception that CVD is a 'man's disease'; however, women tend to develop heart disease approximately 10-15 years later than men, with a prevalence rate similar between sexes after \u2265 60 years of age. Heart disease is the leading cause of death in women worldwide. Women are often under-represented in cardiovascular clinical trials, which is an issue because their clinical presentation and prognosis of cardiovascular disease differs from that of men. In fact, women who suffer an acute MI are more likely to die, have an increased risk of repeat MI, develop heart failure, or consequentially suffer sudden cardiac death, as compared to men. Although improvements in CVD management have led to decreased mortality rates, more women than men have died from causes related to CVD since 1980. It is also important to highlight that traditional risk factors assessed by FDR score underestimate the risk of experiencing an adverse cardiovascular event in women, as compared to men. Thus, it appears that there is a need to develop innovative screening tools to better detect early stages of CVD risk amongst women.\n\nThe Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease trial is a screening program designed to screen for cardiovascular risk in women. It was adapted from the 4-Test Rasmussen cardiovascular screening program, which was developed by Dr. Jay Cohn at the Center for Cardiovascular Disease Prevention, University of Minnesota. The 4-test screening approach utilizes non-invasive procedures to measure structural and functional changes in the large and small arteries, including elasticity of artery walls and blood pressure at rest and in response to 3-min of moderate intensity exercise. Tests are scored from 0-2 (0 = normal; 1 = borderline; 2 = abnormal) with a total RDS ranging from 0-8. Each participant is categorized based on risk (i.e. 0-2 = normal; 3-8 = abnormal). These simple, non-invasive procedures aim to detect early stages of CVD for individual asymptomatic patients. However, these tests are not yet available in the primary care setting and have not been used in a Canadian clinical context. Moreover, it is not known if this screening approach and other protocols are feasible and have sufficient predictive value within the context of the Canadian health care system, where health services in Canada are generally delivered by the private sector but funded by payments from provincial health insurance. The more comprehensive 10-test Rasmussen Disease Score (RDS), which uses, in addition to the 4-test approach, optic fundus imaging, a resting electrocardiogram, an ultrasound of the left ventricle and abdominal aorta, microalbumin, and brain natriuretic peptide, is better than the FDR at identifying individuals at risk for experiencing adverse cardiovascular events within 3-5 years.10 However, it is unknown whether the 4-test RDS (which will hereon in be referred to the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol) is a better predictor of future cardiac events than the FDR in women. It is also unknown if the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease screening protocol can predict future adverse cardiovascular events in women.\n\nThis prospective, observational study aims to: 1) determine if the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease screening protocol identifies middle-aged and older women who are at an elevated risk for experiencing adverse cardiovascular outcomes within a five-year period after screening; and, 2) compare the sensitivity and specificity value of the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol and the FDR for predicting future adverse cardiovascular outcomes in women. The investigators hypothesize that the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol will provide better diagnostic accuracy in identifying middle-aged and older women at an elevated risk for experiencing adverse cardiovascular outcomes in the five year period post-screening, as compared to the FDR.\n\nThe Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease Protocol:\n\nAfter patient enrollment and consent, the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol required participants to attend one appointment, which was scheduled for approximately 90 minutes. The Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol involves four measurements, as follows: 1) resting blood pressure; 2) systolic blood pressure response to 3-min of moderate intensity exercise; 3) large artery elasticity assessment; 4) small artery elasticity assessment. For these measurements, the HD/PulseWave\u2122 CR-2000 Research CardioVascular Profiling System (CV profiler) was used. This device is indicated for use in determining cardiovascular parameters in human subjects for research purposes only. Research staff were trained in the use of the HD/PulseWave\u2122 CR-2000 Research CardioVascular Profiling System and performed all of the testing. Below each of the measures involved in the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol are described.\n\nTest 1: Resting blood pressure A blood pressure cuff attached to the CV profiler is placed on the participant's arm while they are in a supine position. A resting blood pressure of less than 120/80 mmHg is considered normal (0 RDS points), 120-139/80-89 is considered pre-hypertensive (1 RDS point) with the potential for the development of high blood pressure (hypertension). Blood pressure greater than 140/90 is considered abnormal for adults (2 RDS points).\n\nTest 2: Systolic blood pressure response to exercise The magnitude of rise in blood pressure during exercise may be an indication of early risk for developing hypertension, even if the participant's resting blood pressure is normal. After the resting blood pressure is assessed, the participant is asked to perform 3 minutes of moderate exercise on a 2-step stool according to the Dundee Step Test, or on a treadmill for those who are unable to perform the step test. Both of these exercise procedures are performed at a 5 metabolic equivalent (MET) workload. The participant then has their blood pressure measured once again in a supine position immediately following the exercise protocol. A rise in systolic blood pressure of under 30 mmHg and less than 169 mmHg absolute blood pressure is considered normal (0 RDS points), a rise of 30-39 mmHg and an absolute resting blood pressure of 170-179 is considered borderline (1 RDS point), and a rise of 40 mmHg or more and an absolute resting blood pressure of 180 mmHg or high is considered abnormal (2 RDS points).\n\nTest 3 and 4: Large and small artery elasticity To measure artery elasticity a wrist stabilizer is placed on the participant's wrist while they are in a supine position. A piezoelectric transducer, or pulse wave sensor, is then placed on the location of strongest pulsation of the radial artery adjacent to the styloid process. The CV Profiler assesses the diastolic decay and waveform transmitted to it through the sensor. Based on the modified Windkessel model, the instrument can then determine small artery and large artery elasticity. Measures from this instrument have been shown to be reproducible, with one studying finding that intra-visit measurements five minutes apart only differed by 3% and inter-visit measures one to four weeks later only differed by 4%. Scoring of normal, borderline and abnormal results for large and small arterial elasticity are based on age and gender cutoffs.\n\nScoring the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol:\n\nEach of the tests in the 4-test RDS are scored as 0 for normal, 1 for borderline abnormal, and 2 for abnormal10. Total scores range from 0 to 8 and are used to stratify individuals into one of two risk groups: 0-2 = normal risk; \u2265 3 = moderate to high (abnormal) risk.\n\nAssessment of the Framingham Risk Score:\n\nFDR is determined based on the calculations described by D'Agostino et al. Information required for this calculation is acquired from a participant questionnaire, fasting blood sampling of high density lipoprotein and total cholesterol, and the resting blood pressure reading from the CV Profiler. Participants are asked to fast for the 12 hours prior to the blood draw at their appointment. Approximately 10 mL of blood is collected by a phlebotomist. The samples are then centrifuged so that the plasma can be separated and analyzed for total cholesterol, high-density lipoprotein, low-density lipoprotein, triglycerides, and fasting glucose.\n\nExploratory testing:\n\nA battery of additional validated cardiovascular related testing will be conducted in addition to the previously mentioned tests. Exploratory statistical analyses will examine different combinations of these test results combined with the resting blood pressure, exercise blood pressure response and arterial elasticity results in an attempt to improve the sensitivity and specificity of the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease screening protocol.\n\nQuestionnaires\n\nParticipants are instructed to fill out a series of questionnaires:\n\n1. physical activity behaviour is assessed using the International Physical Activity Questionnaire (IPAQ) short-version. This questionnaire measures the amount and intensity of physical activity completed by an individual;\n2. the Cardiovascular Health in Ambulatory Care Research Team (CANHEART) Health Index is used to assess cardiovascular health behavior and disease risk based on physical activity (from the IPAQ short-version), smoking status, fruit and vegetable consumption, body mass index, as well as presence of diabetes and high blood pressure;\n3. stage of change for health behaviors and stages of change specifically related to physical activity are assessed using the Transtheoretical Model of Change and the Physical Activity Stages of Change questionnaires, respectively;\n4. quality of life is assessed using the EuroQol Five Dimension Five Level questionnaire;\n5. presence and severity of depressive symptoms are assessed using the Patient Health Questionnaire-9.\n\nFried Frailty Phenotype A phenotype of frailty was assessed using the Modified Fried Criteria as previously described by Fried et al. Briefly, the Fried score classifies participants as frail if three or more of the following criteria are met: 1) unintentional weight loss; 2) self-reported exhaustion; 3) weakness; 4) slow walking speed; 5) low physical activity. Exhaustion is assessed by the Center for Epidemiologic Studies - Depression Scale. Physical activity levels are assessed by the Paffenbarger Physical Activity Scale23. Unintentional weight loss is determined via a questionnaire, while the weakness and slow walking speed are assessed using a grip strength dynamometer and a five meter gait speed test, respectively.\n\n6- Minute Walk Test Participants are instructed to walk as many lengths of a 30 meter track as possible during the 6 minute duration. Distance covered during the test is recorded. A study by Beatty et al. showed the prognostic value of the 6MWT for predicting cardiovascular events in patients with stable coronary heart disease.\n\nAdverse Cardiovascular Outcomes - 5-year follow-up Upon completion of the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease Protocol, each individual's Personal Health Information Number (PHIN) will be utilized to follow the study participants and to determine if they experienced an adverse cardiovascular outcome, as defined in Table 2, using the Manitoba Centre for Health Policy (MCHP) Population Health Research Data Repository. This linkage will be done at Manitoba Health, which will provide MCHP with the correct scrambled identifiers needed to follow-up all participants. MCHP data will be accessed through a number of different databases. Hospital separations abstracts, medical claims and the Drug Program Information Network will be examined to provide information on hospitalizations for cardiac diseases, cardiac procedures performed, cardiac-related and other medications used, and diagnoses with cardiac diseases. This information will help examine the diagnostic accuracy of the RDS versus the FDR. Vital statistics will also provide information on cause of death to allow for mortality rate tracking. This administrative health data will be used to compare adverse cardiovascular events with the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol results to determine if this cardiovascular screening approach predicted which individuals were at moderate to high risk of an adverse cardiovascular outcome over the five-year period after screening. The investigators' rationale to access all follow-up health information from the Repository at the MCHP is to obtain the most accurate information on healthcare service utilization, adverse cardiovascular events, demographics, etc. This method is much simpler, more complete and less invasive than repeated contact with participants.\n\nStatistical analysis Based on published data, the investigators predict that 36% of the screened population (i.e. 360 of the 1000 participants) will have an abnormal outcome based on the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease Protocol (i.e. a score of 3 or greater). This data indicates that approximately 7.7% (i.e. 28 of the 360 participants) of the people with an abnormal score will experience an adverse cardiovascular outcome in the 5-year period. Kaplan-Meier methods and Receiver Operating Characteristic curves will be conducted to estimate cumulative rates of adverse outcomes and to compare the sensitivity and specificity of the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol and the FDR score, respectively. A Cox Proportional Hazards model will be conducted, controlling for covariates identified through univariate analysis, such as age, that could be predictive of adverse cardiovascular outcomes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiovascular Diseases",
+        "Vascular Stiffness"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "5 Years",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "Participants are asked to fast for the 12 hours prior to the blood draw at their appointment. Approximately 10 mL of blood is collected by a phlebotomist. The samples are then centrifuged so that the plasma can be separated and analyzed for total cholesterol, high-density lipoprotein, low-density lipoprotein, triglycerides, and fasting glucose."
+      },
+      "enrollmentInfo": {
+        "count": 1000,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease",
+          "description": "One-thousand women 55 years of age or older will be recruited to be screened through the Assessment of Large and Small Artery Elasticity for the Early Detection of Cardiovascular Disease protocol. This involves the cardiovascular assessment of resting blood pressure, blood pressure response to 3-min of moderate intensity exercise and large and small arterial elasticity. The participants will be classified into risk categories based on these measures. The incidence of the following adverse cardiovascular outcomes will be assessed in the five-year period after screening in both groups: Ischemic heart disease, acute myocardial infarction, stroke, percutaneous coronary intervention, coronary bypass surgery, congestive heart failure, and hypertension."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Ischemic heart disease",
+          "description": "Each individual's Personal Health Information Number (PHIN) will be utilized to follow the study participants and to determine if they experienced an adverse cardiovascular outcome using the Manitoba Centre for Health Policy (MCHP) Population Health Research Data Repository. Hospital separations abstracts, medical claims and the Drug Program Information Network will be examined to provide information on hospitalizations for cardiac diseases, cardiac procedures performed, cardiac-related and other medications used, and diagnoses with cardiac diseases. Vital statistics will also provide information on cause of death to allow for mortality rate tracking. This administrative health data will be used to compare adverse cardiovascular events with participants recruited under the current protocol to determine if our cardiovascular screening approach predicted which individuals were at moderate to high risk of an adverse cardiovascular outcome over the five-year period after screening.",
+          "timeFrame": "5 years post-screening"
+        },
+        {
+          "measure": "Acute myocardial infarction",
+          "description": "Each individual's Personal Health Information Number (PHIN) will be utilized to follow the study participants and to determine if they experienced an adverse cardiovascular outcome using the Manitoba Centre for Health Policy (MCHP) Population Health Research Data Repository. Hospital separations abstracts, medical claims and the Drug Program Information Network will be examined to provide information on hospitalizations for cardiac diseases, cardiac procedures performed, cardiac-related and other medications used, and diagnoses with cardiac diseases. Vital statistics will also provide information on cause of death to allow for mortality rate tracking. This administrative health data will be used to compare adverse cardiovascular events with participants recruited under the current protocol to determine if our cardiovascular screening approach predicted which individuals were at moderate to high risk of an adverse cardiovascular outcome over the five-year period after screening.",
+          "timeFrame": "5 years post-screening"
+        },
+        {
+          "measure": "Stroke",
+          "description": "Each individual's Personal Health Information Number (PHIN) will be utilized to follow the study participants and to determine if they experienced an adverse cardiovascular outcome using the Manitoba Centre for Health Policy (MCHP) Population Health Research Data Repository. Hospital separations abstracts, medical claims and the Drug Program Information Network will be examined to provide information on hospitalizations for cardiac diseases, cardiac procedures performed, cardiac-related and other medications used, and diagnoses with cardiac diseases. Vital statistics will also provide information on cause of death to allow for mortality rate tracking. This administrative health data will be used to compare adverse cardiovascular events with participants recruited under the current protocol to determine if our cardiovascular screening approach predicted which individuals were at moderate to high risk of an adverse cardiovascular outcome over the five-year period after screening.",
+          "timeFrame": "5 years post-screening"
+        },
+        {
+          "measure": "Percutaneous coronary intervention",
+          "description": "Each individual's Personal Health Information Number (PHIN) will be utilized to follow the study participants and to determine if they experienced an adverse cardiovascular outcome using the Manitoba Centre for Health Policy (MCHP) Population Health Research Data Repository. Hospital separations abstracts, medical claims and the Drug Program Information Network will be examined to provide information on hospitalizations for cardiac diseases, cardiac procedures performed, cardiac-related and other medications used, and diagnoses with cardiac diseases. Vital statistics will also provide information on cause of death to allow for mortality rate tracking. This administrative health data will be used to compare adverse cardiovascular events with participants recruited under the current protocol to determine if our cardiovascular screening approach predicted which individuals were at moderate to high risk of an adverse cardiovascular outcome over the five-year period after screening.",
+          "timeFrame": "5 years post-screening"
+        },
+        {
+          "measure": "Coronary artery bypass surgery",
+          "description": "Each individual's Personal Health Information Number (PHIN) will be utilized to follow the study participants and to determine if they experienced an adverse cardiovascular outcome using the Manitoba Centre for Health Policy (MCHP) Population Health Research Data Repository. Hospital separations abstracts, medical claims and the Drug Program Information Network will be examined to provide information on hospitalizations for cardiac diseases, cardiac procedures performed, cardiac-related and other medications used, and diagnoses with cardiac diseases. Vital statistics will also provide information on cause of death to allow for mortality rate tracking. This administrative health data will be used to compare adverse cardiovascular events with participants recruited under the current protocol to determine if our cardiovascular screening approach predicted which individuals were at moderate to high risk of an adverse cardiovascular outcome over the five-year period after screening.",
+          "timeFrame": "5 years post-screening"
+        },
+        {
+          "measure": "Congestive heart failure",
+          "description": "Each individual's Personal Health Information Number (PHIN) will be utilized to follow the study participants and to determine if they experienced an adverse cardiovascular outcome using the Manitoba Centre for Health Policy (MCHP) Population Health Research Data Repository. Hospital separations abstracts, medical claims and the Drug Program Information Network will be examined to provide information on hospitalizations for cardiac diseases, cardiac procedures performed, cardiac-related and other medications used, and diagnoses with cardiac diseases. Vital statistics will also provide information on cause of death to allow for mortality rate tracking. This administrative health data will be used to compare adverse cardiovascular events with participants recruited under the current protocol to determine if our cardiovascular screening approach predicted which individuals were at moderate to high risk of an adverse cardiovascular outcome over the five-year period after screening.",
+          "timeFrame": "5 years post-screening"
+        },
+        {
+          "measure": "Hypertension",
+          "description": "Each individual's Personal Health Information Number (PHIN) will be utilized to follow the study participants and to determine if they experienced an adverse cardiovascular outcome using the Manitoba Centre for Health Policy (MCHP) Population Health Research Data Repository. Hospital separations abstracts, medical claims and the Drug Program Information Network will be examined to provide information on hospitalizations for cardiac diseases, cardiac procedures performed, cardiac-related and other medications used, and diagnoses with cardiac diseases. Vital statistics will also provide information on cause of death to allow for mortality rate tracking. This administrative health data will be used to compare adverse cardiovascular events with participants recruited under the current protocol to determine if our cardiovascular screening approach predicted which individuals were at moderate to high risk of an adverse cardiovascular outcome over the five-year period after screening.",
+          "timeFrame": "5 years post-screening"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* women aged 55 and older\n* possess a Manitoba Personal Health Information Number\n\nExclusion Criteria:\n\n* previous hospitalization for:\n* ischemic heart disease\n* acute myocardial infarction\n* stroke\n* percutaneous coronary intervention\n* coronary artery bypass surgery\n* congestive heart failure\n* peripheral artery disease",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "minimumAge": "55 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "One-thousand female participants 55 years of age or older will be recruited through a convenience sample method. Namely, we have utilized radio interviews on popular local stations to discuss the study as well as presentations at community events related to cardiovascular health. Poster advertisements have also been placed in key locations related to the Winnipeg Regional Health Authority. Potential study participants interested in participating will contact the research coordinator in person or via telephone.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Todd A Duhamel, PhD",
+          "affiliation": "University of Manitoba",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "St-Boniface Hospital Albrechtsen Research Center",
+          "city": "Winnipeg",
+          "state": "Manitoba",
+          "zip": "R2H 2A6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 49.8844,
+            "lon": -97.14704
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "18212285",
+          "type": "BACKGROUND",
+          "citation": "D'Agostino RB Sr, Vasan RS, Pencina MJ, Wolf PA, Cobain M, Massaro JM, Kannel WB. General cardiovascular risk profile for use in primary care: the Framingham Heart Study. Circulation. 2008 Feb 12;117(6):743-53. doi: 10.1161/CIRCULATIONAHA.107.699579. Epub 2008 Jan 22."
+        },
+        {
+          "pmid": "9603539",
+          "type": "BACKGROUND",
+          "citation": "Wilson PW, D'Agostino RB, Levy D, Belanger AM, Silbershatz H, Kannel WB. Prediction of coronary heart disease using risk factor categories. Circulation. 1998 May 12;97(18):1837-47. doi: 10.1161/01.cir.97.18.1837."
+        },
+        {
+          "pmid": "12742284",
+          "type": "BACKGROUND",
+          "citation": "Akosah KO, Schaper A, Cogbill C, Schoenfeld P. Preventing myocardial infarction in the young adult in the first place: how do the National Cholesterol Education Panel III guidelines perform? J Am Coll Cardiol. 2003 May 7;41(9):1475-9. doi: 10.1016/s0735-1097(03)00187-6."
+        },
+        {
+          "pmid": "19476585",
+          "type": "BACKGROUND",
+          "citation": "Yoon YE, Rivera JJ, Kwon DA, Chae IH, Jeong MH, Rha SW, Blumenthal RS, Nasir K, Chang HJ; other Korea Acute Myocardial Infarction Registry Investigators. National Cholesterol Education Panel III guidelines performance role in preventing myocardial infarction in a large cohort without a history of coronary artery disease: Korea Acute Myocardial Infarction Registry study. Prev Cardiol. 2009 Spring;12(2):109-13. doi: 10.1111/j.1751-7141.2009.00030.x."
+        },
+        {
+          "pmid": "18299654",
+          "type": "BACKGROUND",
+          "citation": "Dib JG, Alameddine Y, Geitany R, Afiouni F. National Cholesterol Education Panel III performance in preventing myocardial infarction in young adults. Ann Saudi Med. 2008 Jan-Feb;28(1):22-7. doi: 10.5144/0256-4947.2008.22."
+        },
+        {
+          "pmid": "21719371",
+          "type": "BACKGROUND",
+          "citation": "Duprez DA, Florea N, Zhong W, Grandits GA, Hawthorne CK, Hoke L, Cohn JN. Vascular and cardiac functional and structural screening to identify risk of future morbid events: preliminary observations. J Am Soc Hypertens. 2011 Sep-Oct;5(5):401-9. doi: 10.1016/j.jash.2011.05.001. Epub 2011 Jun 29."
+        },
+        {
+          "pmid": "23239837",
+          "type": "BACKGROUND",
+          "citation": "Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, Bravata DM, Dai S, Ford ES, Fox CS, Franco S, Fullerton HJ, Gillespie C, Hailpern SM, Heit JA, Howard VJ, Huffman MD, Kissela BM, Kittner SJ, Lackland DT, Lichtman JH, Lisabeth LD, Magid D, Marcus GM, Marelli A, Matchar DB, McGuire DK, Mohler ER, Moy CS, Mussolino ME, Nichol G, Paynter NP, Schreiner PJ, Sorlie PD, Stein J, Turan TN, Virani SS, Wong ND, Woo D, Turner MB; American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Heart disease and stroke statistics--2013 update: a report from the American Heart Association. Circulation. 2013 Jan 1;127(1):e6-e245. doi: 10.1161/CIR.0b013e31828124ad. Epub 2012 Dec 12. No abstract available."
+        },
+        {
+          "pmid": "20560011",
+          "type": "BACKGROUND",
+          "citation": "O'Callaghan KM. Solutions for disparities for women with heart disease. J Cardiovasc Transl Res. 2009 Dec;2(4):518-25. doi: 10.1007/s12265-009-9125-6. Epub 2009 Oct 2."
+        },
+        {
+          "pmid": "17719468",
+          "type": "BACKGROUND",
+          "citation": "Duprez DA, Florea ND, Jones K, Cohn JN. Beneficial effects of valsartan in asymptomatic individuals with vascular or cardiac abnormalities: the DETECTIV Pilot Study. J Am Coll Cardiol. 2007 Aug 28;50(9):835-9. doi: 10.1016/j.jacc.2007.03.065. Epub 2007 Aug 13."
+        },
+        {
+          "pmid": "10199879",
+          "type": "BACKGROUND",
+          "citation": "Singh JP, Larson MG, Manolio TA, O'Donnell CJ, Lauer M, Evans JC, Levy D. Blood pressure response during treadmill testing as a risk factor for new-onset hypertension. The Framingham heart study. Circulation. 1999 Apr 13;99(14):1831-6. doi: 10.1161/01.cir.99.14.1831."
+        },
+        {
+          "pmid": "10455473",
+          "type": "BACKGROUND",
+          "citation": "Lim P, Shiels P, Anderson J, MacDonald T. Dundee step test: a simple method of measuring the blood pressure response to exercise. J Hum Hypertens. 1999 Aug;13(8):521-6. doi: 10.1038/sj.jhh.1000869."
+        },
+        {
+          "pmid": "15691619",
+          "type": "BACKGROUND",
+          "citation": "Zimlichman R, Shargorodsky M, Boaz M, Duprez D, Rahn KH, Rizzoni D, Payeras AC, Hamm C, McVeigh G. Determination of arterial compliance using blood pressure waveform analysis with the CR-2000 system: Reliability, repeatability, and establishment of normal values for healthy European population--the seven European sites study (SESS). Am J Hypertens. 2005 Jan;18(1):65-71. doi: 10.1016/j.amjhyper.2004.08.013."
+        },
+        {
+          "pmid": "12900694",
+          "type": "BACKGROUND",
+          "citation": "Craig CL, Marshall AL, Sjostrom M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P. International physical activity questionnaire: 12-country reliability and validity. Med Sci Sports Exerc. 2003 Aug;35(8):1381-95. doi: 10.1249/01.MSS.0000078924.61453.FB."
+        },
+        {
+          "pmid": "24366893",
+          "type": "BACKGROUND",
+          "citation": "Maclagan LC, Park J, Sanmartin C, Mathur KR, Roth D, Manuel DG, Gershon A, Booth GL, Bhatia S, Atzema CL, Tu JV. The CANHEART health index: a tool for monitoring the cardiovascular health of the Canadian population. CMAJ. 2014 Feb 18;186(3):180-7. doi: 10.1503/cmaj.131358. Epub 2013 Dec 23."
+        },
+        {
+          "pmid": "6863699",
+          "type": "BACKGROUND",
+          "citation": "Prochaska JO, DiClemente CC. Stages and processes of self-change of smoking: toward an integrative model of change. J Consult Clin Psychol. 1983 Jun;51(3):390-5. doi: 10.1037//0022-006x.51.3.390. No abstract available."
+        },
+        {
+          "pmid": "21479777",
+          "type": "BACKGROUND",
+          "citation": "Herdman M, Gudex C, Lloyd A, Janssen M, Kind P, Parkin D, Bonsel G, Badia X. Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L). Qual Life Res. 2011 Dec;20(10):1727-36. doi: 10.1007/s11136-011-9903-x. Epub 2011 Apr 9."
+        },
+        {
+          "pmid": "11556941",
+          "type": "BACKGROUND",
+          "citation": "Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med. 2001 Sep;16(9):606-13. doi: 10.1046/j.1525-1497.2001.016009606.x."
+        },
+        {
+          "pmid": "11253156",
+          "type": "BACKGROUND",
+          "citation": "Fried LP, Tangen CM, Walston J, Newman AB, Hirsch C, Gottdiener J, Seeman T, Tracy R, Kop WJ, Burke G, McBurnie MA; Cardiovascular Health Study Collaborative Research Group. Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci. 2001 Mar;56(3):M146-56. doi: 10.1093/gerona/56.3.m146."
+        },
+        {
+          "pmid": "22710902",
+          "type": "BACKGROUND",
+          "citation": "Beatty AL, Schiller NB, Whooley MA. Six-minute walk test as a prognostic tool in stable coronary heart disease: data from the heart and soul study. Arch Intern Med. 2012 Jul 23;172(14):1096-102. doi: 10.1001/archinternmed.2012.2198."
+        },
+        {
+          "pmid": "32814098",
+          "type": "BACKGROUND",
+          "citation": "Boreskie KF, Rose AV, Hay JL, Kehler DS, Costa EC, Moffatt TL, Arora RC, Duhamel TA. Frailty status and cardiovascular disease risk profile in middle-aged and older females. Exp Gerontol. 2020 Oct 15;140:111061. doi: 10.1016/j.exger.2020.111061. Epub 2020 Aug 16."
+        },
+        {
+          "pmid": "32514128",
+          "type": "BACKGROUND",
+          "citation": "Costa EC, Boreskie KF, Scott Kehler D, Kent DE, Hay JL, Arora RC, Browne RAV, Duhamel TA. Immediate post-exercise blood pressure and arterial compliance in middle-aged and older normotensive females: A cross-sectional study. Sci Rep. 2020 Jun 8;10(1):9205. doi: 10.1038/s41598-020-66104-8."
+        },
+        {
+          "pmid": "32148104",
+          "type": "BACKGROUND",
+          "citation": "Semenchuk BN, Boreskie KF, Hay JL, Miller C, Duhamel TA, Strachan SM. Self-compassion and responses to health information in middle-aged and older women: An observational cohort study. J Health Psychol. 2021 Oct;26(12):2231-2247. doi: 10.1177/1359105320909860. Epub 2020 Mar 7."
+        },
+        {
+          "pmid": "32149879",
+          "type": "BACKGROUND",
+          "citation": "Costa EC, Kent DE, Boreskie KF, Hay JL, Kehler DS, Edye-Mazowita A, Nugent K, Papadopoulos J, Stammers AN, Oldfield C, Arora RC, Browne RAV, Duhamel TA. Acute Effect of High-Intensity Interval Versus Moderate-Intensity Continuous Exercise on Blood Pressure and Arterial Compliance in Middle-Aged and Older Hypertensive Women With Increased Arterial Stiffness. J Strength Cond Res. 2020 May;34(5):1307-1316. doi: 10.1519/JSC.0000000000003552."
+        },
+        {
+          "pmid": "32017952",
+          "type": "BACKGROUND",
+          "citation": "Boreskie KF, Oldfield CJ, Hay JL, Moffatt TL, Hiebert BM, Arora RC, Duhamel TA. Myokines as biomarkers of frailty and cardiovascular disease risk in females. Exp Gerontol. 2020 May;133:110859. doi: 10.1016/j.exger.2020.110859. Epub 2020 Feb 1."
+        },
+        {
+          "pmid": "30682391",
+          "type": "BACKGROUND",
+          "citation": "Boreskie KF, Kehler DS, Costa EC, Hiebert BM, Hamm NC, Moffatt TL, Hay JL, Stammers AN, Kimber DE, Kent DE, Cornish DE, Arora RC, Strachan SM, Semenchuk BN, Duhamel TA. Standardization of the Fried frailty phenotype improves cardiovascular disease risk discrimination. Exp Gerontol. 2019 May;119:40-44. doi: 10.1016/j.exger.2019.01.021. Epub 2019 Jan 23."
+        },
+        {
+          "pmid": "29101147",
+          "type": "DERIVED",
+          "citation": "Boreskie KF, Kehler DS, Costa EC, Cortez PC, Berkowitz I, Hamm NC, Moffatt TL, Stammers AN, Kimber DE, Hiebert BM, Kent DE, Cornish DE, Blewett H, Nguyen T, Arora RC, Strachan SM, Semenchuk BN, Hay JL, Cohn JN, Duhamel TA. Protocol for the HAPPY Hearts study: cardiovascular screening for the early detection of future adverse cardiovascular outcomes in middle-aged and older women: a prospective, observational cohort study. BMJ Open. 2017 Nov 3;7(11):e018249. doi: 10.1136/bmjopen-2017-018249."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "The anonymous information gathered from the data collection process will be summarized (e.g. means \u00b1 SD), disseminated into a report and shared with the St-Boniface Hospital Foundation, investigators of the study, and stakeholders involved in this study. The information may also be presented at conferences or published in peer-reviewed journals. Neither participants' names nor contact information will appear in any publications stemming from this research."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

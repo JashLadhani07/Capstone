@@ -1,0 +1,237 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00605787",
+      "orgStudyIdInfo": {
+        "id": "NSD18032"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NSD18032"
+        },
+        {
+          "id": "REKIII021.01"
+        },
+        {
+          "id": "SLV01-1232"
+        }
+      ],
+      "organization": {
+        "fullName": "Haukeland University Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "TTA in Treatment of Diabetes and Dyslipidemia",
+      "officialTitle": "TTA in Treatment of Diabetes and Dyslipidemia",
+      "acronym": "TODDY"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2008-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2002-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2003-06",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2007-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2008-01-17",
+      "studyFirstSubmitQcDate": "2008-01-17",
+      "studyFirstPostDateStruct": {
+        "date": "2008-01-31",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2008-01-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2008-01-31",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Professor Eystein S Husebye",
+        "oldOrganization": "University of Bergen"
+      },
+      "leadSponsor": {
+        "name": "Haukeland University Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Bergen",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The aim of the study is to evaluate the short-term effects of tetradecylthioacetic acid (TTA) on plasma lipids and glucose in male patients with type 2 diabetes mellitus and dyslipidemia",
+      "detailedDescription": "The tight linkage of obesity, insulin resistance (and frank diabetes), dyslipidemia, and hypertension has been widely observed and has been named syndrome X, or the metabolic syndrome. For many years metformin has been the only drug in clinical use with effects on insulin resistance. Recently, agonists of the peroxisome proliferator-activated receptors (PPARs) have been introduced in the treatment of type 2 diabetes. The different PPARs seem to be activated by a wide range of lipids and lipid mediators, including fatty acids. 2-tetradecylthioacetic acid (TTA) is a modified fatty acid with high affinity for the PPARgamma receptor. In animal models of obesity-related insulin resistance (obese Zucker rats and dietary manipulated Wistar rats), TTA has an insulin sensitizing effect by enhancing the insulin mediated uptake of glucose in peripheral tissues. TTA treatment promotes fatty acid catabolism in experimental animals and this could casually be linked to the improved glucose tolerance.\n\nThe protocol for the present study describes a safety assessment and therapeutic exploratory evaluation of TTA in a small subset of male type 2 diabetes patients for 4 weeks. The primary safety parameters will include general physical observational parameters, liver function test and hematological parameters. To goal is to assess the efficacy of TTA on selected metabolic parameters including fasting blood glucose and insulin, fasting plasma lipids, antioxidant status, and fibrinolytic parameters, weight, BMI and blood pressure."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 2 Diabetes Mellitus",
+        "Dyslipidemia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 16,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Single group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Single group all treated similarly, outcome evaluated as changes within individuals during intervention",
+          "interventionNames": [
+            "Drug: Tetradecylthioacetic acid (TTA)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tetradecylthioacetic acid (TTA)",
+          "description": "1000mg capsules once daily for 28 days",
+          "armGroupLabels": [
+            "Single group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Plasma lipids",
+          "timeFrame": "-28 days, baseline, 14 and 28 days of TTA"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Plasma glucose",
+          "timeFrame": "-28 days, baseline, 14 and 28 days of TTA"
+        },
+        {
+          "measure": "Safety blood parameters",
+          "timeFrame": "-28 days, baseline, 14 and 28 days of TTA"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* type 2 diabetes mellitus with HbA1c 8.0-12.0%,\n* fasting S-triacylglycerol 2.0-10.0 mmol/L,\n* body mass index 25-40 kg/m2 and/or waist/hip ratio \\> 0.90.\n\nExclusion Criteria:\n\n* fasting total cholesterol \\>10 mmol/L,\n* blood pressure 170/110 mmHg\n* other significant disease\n* Use of any corticosteroid, anticoagulant or lipid-lowering drug 2 weeks prior to inclusion.",
+      "healthyVolunteers": false,
+      "sex": "MALE",
+      "minimumAge": "30 Years",
+      "maximumAge": "60 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Eystein S Husebye, MD, PhD",
+          "affiliation": "Haukeland University Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Haukeland University Hospital",
+          "city": "Bergen",
+          "state": "Bergen",
+          "zip": "5021",
+          "country": "Norway",
+          "geoPoint": {
+            "lat": 60.39299,
+            "lon": 5.32415
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "19267708",
+          "type": "DERIVED",
+          "citation": "Lovas K, Rost TH, Skorve J, Ulvik RJ, Gudbrandsen OA, Bohov P, Wensaas AJ, Rustan AC, Berge RK, Husebye ES. Tetradecylthioacetic acid attenuates dyslipidaemia in male patients with type 2 diabetes mellitus, possibly by dual PPAR-alpha/delta activation and increased mitochondrial fatty acid oxidation. Diabetes Obes Metab. 2009 Apr;11(4):304-14. doi: 10.1111/j.1463-1326.2008.00958.x."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D050171",
+          "term": "Dyslipidemias"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D052439",
+          "term": "Lipid Metabolism Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C062078",
+          "term": "1-(carboxymethylthio)tetradecane"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

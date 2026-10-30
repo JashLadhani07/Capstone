@@ -1,0 +1,281 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04627636",
+      "orgStudyIdInfo": {
+        "id": "No: P.T.REC/012/002459"
+      },
+      "organization": {
+        "fullName": "October 6 University",
+        "class": "OTHER"
+      },
+      "briefTitle": "MTPr With Shockwave on Pain & Function of SHS in Stroke",
+      "officialTitle": "Myofascial Trigger Points Release With Shockwave Therapy on Pain and Function of Shoulder Hand Syndrome in Stroke Patients With Diabetic Neuropathy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-10-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-12-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-01-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-11-08",
+      "studyFirstSubmitQcDate": "2020-11-08",
+      "studyFirstPostDateStruct": {
+        "date": "2020-11-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-11-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-11-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Lama Saad El-Din Mahmoud",
+        "investigatorTitle": "Lecturer of physical therapy, Department of Neuromuscular disorders and its surgery, faculty of physical therapy, october 6 univerisity",
+        "investigatorAffiliation": "October 6 University"
+      },
+      "leadSponsor": {
+        "name": "October 6 University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Background: shoulder-hand syndrome is considered a significant reason for the reduction of upper limb functions after stroke. Purpose: To investigate the influence of Myofascial Trigger Points (MTrPs) release and shockwave therapy on pain and functions of the upper extremity in stroke patients with diabetic neuropathy.",
+      "detailedDescription": "Methods: two equal groups of thirty stroke patients, divided into, study group: which treated with MTrPs release combined with shockwave therapy and conventional program, while control group: treated with a conventional selected exercise program."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Stroke"
+      ],
+      "keywords": [
+        "Stroke",
+        "Diabetic Neuropathy",
+        "Shoulder hand syndrome"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "study group: which treated with MTrPs release combined with shockwave therapy and conventional program, while control group: treated with a conventional selected exercise program",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 30,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "study group",
+          "type": "EXPERIMENTAL",
+          "description": "which treated with MTrPs release combined with shockwave therapy and conventional program",
+          "interventionNames": [
+            "Other: Myofascial trigger points pressure (MTrP) release",
+            "Other: Shockwave therapy application",
+            "Other: conventional therapy"
+          ]
+        },
+        {
+          "label": "control group",
+          "type": "EXPERIMENTAL",
+          "description": "which treated with conventional physical therapy program",
+          "interventionNames": [
+            "Other: conventional therapy"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Myofascial trigger points pressure (MTrP) release",
+          "description": "Myofascial trigger points pressure (MTrP) release technique, the initial step was to recognize and find the trigger points (TP) , and The second step after TP palpation was the MTrP release technique, as follow, by one or both hands, the thumbs or four fingers of the therapist applied a maintained pressure, pushing internal toward the middle",
+          "armGroupLabels": [
+            "study group"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Shockwave therapy application",
+          "description": "The JEST-2000 (JOEUN Medical, Dae-Jeon, South Korea) was used for the ESWT. The application of pressure pulses of ESWT was centered around the flexor muscles with hypertonia",
+          "armGroupLabels": [
+            "study group"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "conventional therapy",
+          "description": "Passive ROM exercises performed by the therapist and Bobath Neurodevelopmental Approach (prolonged stretch): The Intervention methods for Bobath involved the activation of key points of control for the reduction of tone",
+          "armGroupLabels": [
+            "control group",
+            "study group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "- Complex Regional Pain Syndrome (CRPS) severity score",
+          "description": "It is a quantitative index and valid instrument to score and monitor the severity of CRPS and SHS.",
+          "timeFrame": "4 weeks"
+        },
+        {
+          "measure": "- Figure-of-Eight Method of Measuring Hand Size for hand swelling",
+          "description": "The figure-of-eight technique utilizing tape measurement for hand size",
+          "timeFrame": "4 weeks"
+        },
+        {
+          "measure": "- Visual analogue scale for pain (VAS-P) for pain assessment",
+          "description": "The VAS for pain is a valid and reliable assessment of pain intensity, as a straight horizontal line of fixed length (10 cm) considered the simplest VAS.",
+          "timeFrame": "4 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* stroke from 4:8 months\n* age ranging from 45:60 years\n* All the patients were identified with SHS as diagnosed by the Diagnostic criteria for SHS post-stroke 18 and were in stage I of syndrome evolution\n\nExclusion Criteria:\n\n* any other causes of shoulder pain in the hemiplegic side of the body\n* a cognitive impairment\n* structured joint deformity in the painful shoulder or hand\n* other musculoskeletal disorders of UE.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "45 Years",
+      "maximumAge": "60 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Lama S Mahmoud",
+          "city": "Al J\u012bzah",
+          "state": "Select State",
+          "country": "Egypt",
+          "geoPoint": {
+            "lat": 31.15035,
+            "lon": 30.19636
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D003929",
+          "term": "Diabetic Neuropathies"
+        },
+        {
+          "id": "D012019",
+          "term": "Reflex Sympathetic Dystrophy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010523",
+          "term": "Peripheral Nervous System Diseases"
+        },
+        {
+          "id": "D009468",
+          "term": "Neuromuscular Diseases"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D020918",
+          "term": "Complex Regional Pain Syndromes"
+        },
+        {
+          "id": "D001342",
+          "term": "Autonomic Nervous System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004322",
+          "term": "Drainage"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

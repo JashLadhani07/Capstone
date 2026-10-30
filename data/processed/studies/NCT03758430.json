@@ -1,0 +1,271 @@
+{
+  "nct_id": "NCT03758430",
+  "title": "Technology-supported, Meal-centric, Insulin Dosing for Optimized Post-prandial Glucose Control",
+  "sponsor": "Eli Lilly and Company",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Diabetes Mellitus, Type 1"
+  ],
+  "interventions": [
+    "Meal-Tagging App",
+    "Fitness Tracker"
+  ],
+  "primary_outcome": "Change from Baseline to Week 16 in Hemoglobin A1c (HbA1c)",
+  "secondary_outcomes": [
+    "Change from Baseline to Week 16 in Post-Prandial Glucose Concentrations Following Commonly Eaten Meals"
+  ],
+  "start_date": "2019-02-06",
+  "completion_date": "2020-08-07",
+  "results_posted": false,
+  "enrollment": 28,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03758430",
+        "orgStudyIdInfo": {
+          "id": "17111"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "F3Z-MC-IORA",
+            "type": "OTHER",
+            "domain": "Eli Lilly and Company"
+          }
+        ],
+        "organization": {
+          "fullName": "Eli Lilly and Company",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Study of Technology to Improve Glucose Control in Participants With Type 1 Diabetes",
+        "officialTitle": "Technology-supported, Meal-centric, Insulin Dosing for Optimized Post-prandial Glucose Control"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2020-08",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2019-02-06",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2020-08-07",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2020-08-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2018-11-27",
+        "studyFirstSubmitQcDate": "2018-11-27",
+        "studyFirstPostDateStruct": {
+          "date": "2018-11-29",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2020-08-20",
+        "lastUpdatePostDateStruct": {
+          "date": "2020-08-21",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Eli Lilly and Company",
+          "class": "INDUSTRY"
+        },
+        "collaborators": [
+          {
+            "name": "Joslin Diabetes Center",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The main purpose of this study is to determine whether combining meal, glucose, and insulin data in a web-based system will improve management of type 1 diabetes (T1D). No study drug will be given. The study will last about 18 weeks."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus, Type 1"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 28,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Combined Diabetes Management Data",
+            "description": "Participants with type 1 diabetes will use a meal tagging application (app) and fitness tracker. They will upload these data to a web portal where they will be matched with data from their continuous glucose monitor and insulin pump. Combined data will be used for diabetes management.",
+            "interventionNames": [
+              "Other: Meal-Tagging App",
+              "Device: Fitness Tracker"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "Meal-Tagging App",
+            "description": "Meal tagging app to capture frequently eaten meals and test meals for 16 weeks.",
+            "armGroupLabels": [
+              "Combined Diabetes Management Data"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Fitness Tracker",
+            "description": "Fitness tracker will be worn around the clock for 16 weeks.",
+            "armGroupLabels": [
+              "Combined Diabetes Management Data"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change from Baseline to Week 16 in Hemoglobin A1c (HbA1c)",
+            "description": "Change from Baseline to Week 16 in HbA1c",
+            "timeFrame": "Baseline to Week 16"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change from Baseline to Week 16 in Post-Prandial Glucose Concentrations Following Commonly Eaten Meals",
+            "description": "Change from Baseline to Week 16 in Post-Prandial Glucose Concentrations Following Commonly Eaten Meals",
+            "timeFrame": "Baseline to Week 16"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* T1D by clinical diagnosis for \\> 3 years\n* Insulin pump use \\> 3 months: must use one of the following pump types: Animas Ping and Vibe, Insulet Omnipod, Medtronic 523/723 and 530G, Tandem t:slim and t:flex\n* Continuous Glucose Monitor (CGM) \\> 3 months and current use of Dexcom G5 at least 6 out of 7 days per week\n* HbA1c 7.0-9.5%\n* Must have iPhone (meal-tagging app has been built on iOS)\n* Personal computer for uploading of pump and CGM devices\n* Willingness to follow study protocol including tagging food data\n* Comfort speaking, reading, and writing English\n\nExclusion Criteria:\n\n* Individuals currently using a hybrid closed-loop system (e.g., Medtronic 670G)\n* Individuals planning to follow a specific diet plan for weight loss\n* Inability to consume \"common meals\"\n* Gastroparesis;\n* Eating disorder\n* Evidence of missed insulin meal-time insulin boluses on pump download\n* Use of medications that can affect blood glucose levels (such as SGLT inhibitors, steroid, beta agonists)\n* Use of medications that affect gastric emptying (such as GLP agonists, pramlinitide)\n* Alcohol abuse\n* Pre-conception, pregnancy, or lactation",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Adults with T1D",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+            "affiliation": "Eli Lilly and Company",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Joslin Diabetes Center",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02215",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.35843,
+              "lon": -71.05977
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003922",
+            "term": "Diabetes Mellitus, Type 1"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D001327",
+            "term": "Autoimmune Diseases"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000072936",
+            "term": "Fitness Trackers"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D019719",
+            "term": "Diagnostic Equipment"
+          },
+          {
+            "id": "D004864",
+            "term": "Equipment and Supplies"
+          },
+          {
+            "id": "D000076251",
+            "term": "Wearable Electronic Devices"
+          },
+          {
+            "id": "D055615",
+            "term": "Electrical Equipment and Supplies"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604461"
+}

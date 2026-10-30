@@ -1,0 +1,453 @@
+{
+  "nct_id": "NCT06158633",
+  "title": "A Pilot, Observation and Feasibility Study of Prevora (DIN 02046245) Integrated Into Homecare Visits of Adults With COPD or CHF or on Dialysis or Other Chronic Metabolic Conditions Which Are Correlated With Chronic Oral Inflammation",
+  "sponsor": "CHX Technologies Inc.",
+  "phase": "NA",
+  "status": "UNKNOWN",
+  "conditions": [
+    "COPD (Chronic Obstructive Pulmonary Disease)",
+    "CHF (Congestive Heart Failure)",
+    "Dialysis",
+    "Chronic Metabolic Disorder"
+  ],
+  "interventions": [
+    "Prevora"
+  ],
+  "primary_outcome": "Mean Score Change by Categories of Bleeding on Probing",
+  "secondary_outcomes": [
+    "Mean Score Change by Categories of Pocket Probing Depth",
+    "Frequency Distribution Change of Study Participants by Categories of Pocket Probing Depth",
+    "Change in Number of Decayed, Missing and Filled Teeth",
+    "Change in Number of Teeth with Active Cavitated Lesions",
+    "Change in Level of Xerostomia",
+    "Mean Score Change in hsCRP (high sensitivity C-reactive protein)",
+    "Change in Frequency Distribution of hsCRP (high sensitivity C-reactive protein)",
+    "Mean Score Change in ESR (Erythrocyte Sedimentation Rate)",
+    "Change in Frequency Distribution of ESR (Erythrocyte Sedimentation Rate)",
+    "Mean Score Change in Cholesterol",
+    "Change in Frequency Distribution of Cholesterol",
+    "Mean Score Change in Blood Glucose",
+    "Change in Frequency Distribution of Blood Glucose",
+    "Mean Score Change in HbA1c",
+    "Change in Frequency Distribution of HbA1c",
+    "Change in Mean Scores of Subject Self-Reported Shortness of Breath using a Visual Analogue Scale in Chronic Obstructive Pulmonary Disease participants only.",
+    "Change in Frequency Distribution of Subject Self-Reported Shortness of Breath using a Visual Analogue Scale in Chronic Obstructive Pulmonary Disease participants only.",
+    "Change in Mean Scores of Subject Self-Reported Ankle Swelling using a Visual Analogue Scale in Congestive Heart Failure subjects only.",
+    "Change in Frequency Distribution of Subject Self-Reported Ankle Swelling using a Visual Analogue Scale in Congestive Heart Failure subjects only.",
+    "Change in Mean Scores of Subject Self-Reported Fatigue using a Visual Analogue Scale in Congestive Heart Failure subjects only.",
+    "Change in Frequency Distribution of Subject Self-Reported Fatigue using a Visual Analogue Scale in Congestive Heart Failure subjects only.",
+    "Change in Mean Scores of Subject Self-Reported Energy Level using a Visual Analogue Scale in subjects on dialysis only",
+    "Change in Frequency Distribution of Subject Self-Reported Energy Level using a Visual Analogue Scale in subjects on dialysis only.",
+    "Subject Self-Reported Tolerance to Study Intervention measured using a Visual Analogue Scale in all subjects Scale title: Visual Analogue Scale Assessment Acceptability Minimum Value: 0 Maximum Value: 100 Higher Score equals a better outcome",
+    "Subject Self-Reported General Well-being measured using a Visual Analogue Scale in all subjects",
+    "Subject Self-Reported Willingness to Continue Study Intervention, measured using a Visual Analogue Scale in all subjects",
+    "Mean time to administer Prevora by homecare provider",
+    "Adequacy, comprehension, competence and confidence of the homecare provider as measured by survey",
+    "Logistics of administering Prevora in the home as measured by survey",
+    "Percentage of subjects who are adherent to Prevora treatment regimen"
+  ],
+  "start_date": "2023-12",
+  "completion_date": "2024-09",
+  "results_posted": false,
+  "enrollment": 30,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06158633",
+        "orgStudyIdInfo": {
+          "id": "CHX2023-002"
+        },
+        "organization": {
+          "fullName": "CHX Technologies Inc.",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Pilot Observation and Feasibility Study of Prevora, Integrated Into Homecare Visits of High-risk Adults",
+        "officialTitle": "A Pilot, Observation and Feasibility Study of Prevora (DIN 02046245) Integrated Into Homecare Visits of Adults With COPD or CHF or on Dialysis or Other Chronic Metabolic Conditions Which Are Correlated With Chronic Oral Inflammation"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2023-12",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "NOT_YET_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2023-12",
+          "type": "ESTIMATED"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2024-09",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2024-10",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2023-10-10",
+        "studyFirstSubmitQcDate": "2023-12-04",
+        "studyFirstPostDateStruct": {
+          "date": "2023-12-06",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2023-12-04",
+        "lastUpdatePostDateStruct": {
+          "date": "2023-12-06",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "CHX Technologies Inc.",
+          "class": "INDUSTRY"
+        },
+        "collaborators": [
+          {
+            "name": "The Research Institute of St Joe's Hamilton",
+            "class": "UNKNOWN"
+          },
+          {
+            "name": "St. Joseph's Health System - Centre for Integrated Comprehensive Care",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Prevora is an antiseptic medication and dental treatment approved by Health Canada for reducing root decay (cavities) in adults at high risk of dental decay. An antiseptic kills germs and harmful bacteria. Prevora is applied to the teeth and gumline by a medical professional, takes about 10 minutes and is painless.\n\nParticipating site(s) have a homecare program and usual care includes offering patients home care services before discharge from the hospital for some chronic diseases. Usual care includes home visits by a nurse and or personal support worker (PSW).\n\nThe aim of this study is to explore the effectiveness, health benefits and feasibility of delivering preventive oral healthcare with Prevora, during a homecare visit by a nurse or PSW. All consenting and eligible subjects will continue with their usual care with the homecare program. The study is 5 months long. Subjects will have a Prevora treatment applied by the homecare nurse or PSW on Day 1, 14 days, 3 months and 4 months. The study includes several follow up visits which will be conducted in the patient's home and or by telephone or videoconferencing if needed. Oral exams, lab tests and subject completed questionnaires will be collected for the study. Changes in medications and any possible side effects will also be monitored during the study.",
+        "detailedDescription": "Poor oral health and specifically, inflammation of the gums is linked to respiratory problems, heart problems and inflammation through the body. Worsening oral health and inflammation of the gums occurs often in patients with chronic diseases who are hospitalized and often continues after discharge from the hospital. This can make health recovery more difficult for the patient.\n\nThis is a 5 month, prospective, single-arm, open-label, observational and feasibility, phase IV trial evaluating the efficacy and safety of Prevora and is focused on the integration of a preventive oral healthcare service into a hospital-based home healthcare program involving high-risk adults with COPD or CHF or on dialysis, and possibly other chronic metabolic conditions, which make the patient suitable for entry into a home care program. This study will be centrally coordinated by the Research Institute at St Joes and conducted in the homes of consenting and eligible participants in the greater Hamilton, Ontario area.\n\nApproximately 30 subjects will be enrolled in the study which is defined as starting the investigational product. All subjects will continue to receive the usual care that is provided as part of the respective home care program. After signed consent is obtained, subject screening and eligibility assessments will begin. Once a subject is confirmed to be eligible for study participation, investigational product treatment applications and study visits will be scheduled starting with Day 1.\n\nFollow up visits will occur 14 days, 1, 3, 4 and 5 months after Day 1. A delegated and trained homecare nurse or PSW will apply the investigational product during the study visits conducted on day 1, day 14, 3 and 4 months. Study visits will be scheduled at the same time as a standard of care (SOC) home visit or as a study visit only, independent of a SOC home visit. Study visits include evaluation of study outcomes/endpoints, subject completed questionnaires and measuring compliance. Changes in medications and any possible side effects will also be monitored during the study. Data will be captured in the case report form (CRF).\n\nTo qualify, men and women must be enrolled in the home healthcare services program. All participants will receive the study intervention (Prevora) and be followed for 5 months.\n\nThis study aims to demonstrate that in subjects who receive home healthcare visits and have COPD and/or CHF or on dialysis, and with moderate to severe forms of chronic oral inflammation, the investigational product (Prevora) will significantly decrease oral inflammation over time."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "COPD (Chronic Obstructive Pulmonary Disease)",
+          "CHF (Congestive Heart Failure)",
+          "Dialysis",
+          "Chronic Metabolic Disorder"
+        ],
+        "keywords": [
+          "Home healthcare services",
+          "Preventive oral care",
+          "Chronic oral inflammation"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 30,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Active Intervention",
+            "description": "All subjects will be in the active treatment group and receive the study intervention. The study intervention is Prevora.",
+            "interventionNames": [
+              "Drug: Prevora"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Prevora",
+            "description": "Prevora Stage 1, a topical, intra-oral solution of chlorhexidine acetate 100mg/ml followed immediately by Prevora Stage 2 which is a topical solution of polymethylmethacrylate. Prevora Stage 1 and Prevora Stage 2 are applied topically using a small brush and sequentially to the teeth and gum line of the patient/participant.\n\nAll subjects will receive at total 4 applications of Prevora 1 and 2. One on Day 1, 14 days, 3 months and 4 months.",
+            "armGroupLabels": [
+              "Active Intervention"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Mean Score Change by Categories of Bleeding on Probing",
+            "description": "To evaluate Prevora's ability to improve oral health in adults with COPD or CHF or on dialysis or with metabolic disorders correlated with chronic oral inflammation, who are receiving home healthcare services.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Frequency Distribution Change of Study Participants by Categories of Bleeding on Probing",
+            "description": "To evaluate Prevora's ability to improve oral health in adults with COPD or CHF or on dialysis or with metabolic disorders correlated with chronic oral inflammation, who are receiving home healthcare services.",
+            "timeFrame": "Month 0 to Month 5"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Mean Score Change by Categories of Pocket Probing Depth",
+            "description": "To further evaluate Prevora's ability to improve oral health in adults with COPD or CHF or on dialysis or with chronic metabolic disorders correlated with chronic oral inflammation, who are receiving home healthcare services.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Frequency Distribution Change of Study Participants by Categories of Pocket Probing Depth",
+            "description": "To further evaluate Prevora's ability to improve oral health in adults with COPD or CHF or on dialysis or with chronic metabolic disorders correlated with chronic oral inflammation, who are receiving home healthcare services.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Number of Decayed, Missing and Filled Teeth",
+            "description": "To assess the oral health status of study participants by way of an oral health examination conducted by a mobile independent hygienist in the home.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Number of Teeth with Active Cavitated Lesions",
+            "description": "To assess the oral health status of study participants by way of an oral health examination conducted by a mobile independent hygienist in the home.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Level of Xerostomia",
+            "description": "To assess the oral health status of study participants by way of an oral health examination conducted by a mobile independent hygienist in the home.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Mean Score Change in hsCRP (high sensitivity C-reactive protein)",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of hsCRP (high sensitivity C-reactive protein)",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Mean Score Change in ESR (Erythrocyte Sedimentation Rate)",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of ESR (Erythrocyte Sedimentation Rate)",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Mean Score Change in Cholesterol",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of Cholesterol",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Mean Score Change in Blood Glucose",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of Blood Glucose",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Mean Score Change in HbA1c",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of HbA1c",
+            "description": "To evaluate Prevora's ability to change blood-based markers of inflammation.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Change in Mean Scores of Subject Self-Reported Shortness of Breath using a Visual Analogue Scale in Chronic Obstructive Pulmonary Disease participants only.",
+            "description": "To evaluate Prevora's effect on self reported shortness of breath in COPD participants.\n\nScale title: Visual Analogue Scale Assessment for Degree of Breathlessness Minimum Value: 0 Maximum Value: 100 Higher Score equals a worse outcome",
+            "timeFrame": "Month 0, Day 1, 14 days, Month 3, 4 and 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of Subject Self-Reported Shortness of Breath using a Visual Analogue Scale in Chronic Obstructive Pulmonary Disease participants only.",
+            "description": "To evaluate Prevora's effect on self reported shortness of breath in COPD participants.\n\nScale title: Visual Analogue Scale Assessment for Degree of Breathlessness Minimum Value: 0 Maximum Value: 100 Higher Score equals a worse outcome",
+            "timeFrame": "Month 0, Day 1, 14 days, Month 3, 4 and 5"
+          },
+          {
+            "measure": "Change in Mean Scores of Subject Self-Reported Ankle Swelling using a Visual Analogue Scale in Congestive Heart Failure subjects only.",
+            "description": "To evaluate Prevora's effect on self reported ankle swelling in CHF participants.\n\nScale title: Visual Analogue Scale Assessment for Degree of Ankle Swelling Minimum Value: 0 Maximum Value: 100 Higher Score equals a worse outcome",
+            "timeFrame": "Month 0, Day 1, 14 days, Month 3, 4 and 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of Subject Self-Reported Ankle Swelling using a Visual Analogue Scale in Congestive Heart Failure subjects only.",
+            "description": "To evaluate Prevora's effect on self reported ankle swelling in CHF participants.\n\nScale title: Visual Analogue Scale Assessment for Degree of Ankle Swelling Minimum Value: 0 Maximum Value: 100 Higher Score equals a worse outcome",
+            "timeFrame": "Month 0, Day 1, 14 days, Month 3, 4 and 5"
+          },
+          {
+            "measure": "Change in Mean Scores of Subject Self-Reported Fatigue using a Visual Analogue Scale in Congestive Heart Failure subjects only.",
+            "description": "To evaluate Prevora's effect on self reported fatigue in CHF participants. Scale title: Visual Analogue Scale Assessment for Degree of Fatigue Minimum Value: 0 Maximum Value: 100 Higher Score equals a worse outcome",
+            "timeFrame": "Month 0, Day 1, 14 days, Month 3, 4 and 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of Subject Self-Reported Fatigue using a Visual Analogue Scale in Congestive Heart Failure subjects only.",
+            "description": "To evaluate Prevora's effect on self reported fatigue in CHF participants. Scale title: Visual Analogue Scale Assessment for Degree of Fatigue Minimum Value: 0 Maximum Value: 100 Higher Score equals a worse outcome",
+            "timeFrame": "Month 0, Day 1, 14 days, Month 3, 4 and 5"
+          },
+          {
+            "measure": "Change in Mean Scores of Subject Self-Reported Energy Level using a Visual Analogue Scale in subjects on dialysis only",
+            "description": "To evaluate Prevora's effect on self reported energy level in participants on dialysis.\n\nScale title: Visual Analogue Scale Assessment of Energy Levels Minimum Value: 0 Maximum Value: 100 Higher Score equals a better outcome",
+            "timeFrame": "Month 0, Day 1, 14 days, Month 3, 4 and 5"
+          },
+          {
+            "measure": "Change in Frequency Distribution of Subject Self-Reported Energy Level using a Visual Analogue Scale in subjects on dialysis only.",
+            "description": "To evaluate Prevora's effect on self reported energy level in participants on dialysis.\n\nScale title: Visual Analogue Scale Assessment of Energy Levels Minimum Value: 0 Maximum Value: 100 Higher Score equals a better outcome",
+            "timeFrame": "Month 0, Day 1, 14 days, Month 3, 4 and 5"
+          },
+          {
+            "measure": "Subject Self-Reported Tolerance to Study Intervention measured using a Visual Analogue Scale in all subjects Scale title: Visual Analogue Scale Assessment Acceptability Minimum Value: 0 Maximum Value: 100 Higher Score equals a better outcome",
+            "description": "To evaluate qualitative measures of Prevora's treatment effect in terms of a survey of participants for tolerability to treatment.\n\nScale title: Visual Analogue Scale Assessment Acceptability Minimum Value: 0 Maximum Value: 100 Higher Score equals a better outcome",
+            "timeFrame": "Month 5 only"
+          },
+          {
+            "measure": "Subject Self-Reported General Well-being measured using a Visual Analogue Scale in all subjects",
+            "description": "To evaluate qualitative measures of Prevora's treatment effect in terms of a survey of participants for general well-being.\n\nScale title: Visual Analogue Scale Assessment of Importance of Treatment Minimum Value: 0 Maximum Value: 100 Higher Score equals a better outcome",
+            "timeFrame": "Month 5 only"
+          },
+          {
+            "measure": "Subject Self-Reported Willingness to Continue Study Intervention, measured using a Visual Analogue Scale in all subjects",
+            "description": "To evaluate qualitative measures of Prevora's treatment effect in terms of a survey of participants for willingness to continue treatment.\n\nScale title: Visual Analogue Scale Assessment of Willingness to Continue Treatment Post-Study Minimum Value: 0 Maximum Value: 100 Higher Score equals a better outcome",
+            "timeFrame": "Month 5 only"
+          },
+          {
+            "measure": "Mean time to administer Prevora by homecare provider",
+            "description": "To evaluate the feasibility of integrating preventive oral health services into a home healthcare program, including training of the homecare provider, logistics, costs, and revenues so as to define best practices for integration.",
+            "timeFrame": "Day 1, 14 days, Months 3 and 4"
+          },
+          {
+            "measure": "Adequacy, comprehension, competence and confidence of the homecare provider as measured by survey",
+            "description": "To evaluate the feasibility of integrating preventive oral health services into a home healthcare program, including training of the homecare provider, logistics, costs, and revenues so as to define best practices for integration. Study intervention is applied by homecare providers. This survey is completed by homecare provider, not participants.",
+            "timeFrame": "At end of study or when homecare provider ends involvement with study"
+          },
+          {
+            "measure": "Logistics of administering Prevora in the home as measured by survey",
+            "description": "To evaluate the feasibility of integrating preventive oral health services into a home healthcare program, including training of the homecare provider, logistics, costs, and revenues so as to define best practices for integration. Study intervention is applied by homecare providers. This questionnaire is completed by homecare provider(s), not participants.",
+            "timeFrame": "At end of study or when homecare provider ends involvement with study"
+          },
+          {
+            "measure": "Percentage of subjects who are adherent to Prevora treatment regimen",
+            "description": "To determine adherence or compliance to investigational product.",
+            "timeFrame": "Day 1 to Month 4"
+          }
+        ],
+        "otherOutcomes": [
+          {
+            "measure": "Incidences of adverse events (AE)",
+            "description": "To determine the safety profile of Prevora in high-risk adults with CHF or COPD or on dialysis in a home health care setting.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Incidences of serious adverse events (SAE)",
+            "description": "To determine the safety profile of Prevora in high-risk adults with CHF or COPD or on dialysis in a home health care setting.",
+            "timeFrame": "Month 0 to Month 5"
+          },
+          {
+            "measure": "Number of subjects discontinuing investigational product due to AE/SAEs",
+            "description": "To determine the tolerability profile of Prevora in high-risk adults with CHF or COPD or on dialysis in a home health care setting.",
+            "timeFrame": "Month 0 to Month 5"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2265 18 years of age\n* Enrollment in the homecare COPD/CHF program or who possibly have other medical conditions such as on dialysis or chronic metabolic condition (e.g. diabetes, hypertension) suitable for entry into the home care program\n* Bleeding on probing at \u2265 12 sites at Screening\n* Minimum of 10 natural teeth\n* Willing and able to provide informed consent as per International Conference on Harmonization - Good Clinical Practices Guidelines (ICH-GCP E6(R2)) and applicable regulations.\n\nExclusion Criteria:\n\n* Currently smoking one or more cigarettes per day\n* Patients with a prosthetic heart valve\n* Active visual caries which, in the judgement of the investigators, could require surgical restoration or extraction, and referral to a dentist on an urgent basis\n* Severe periodontal disease which, in the judgement of the investigators, could require surgery or a level of periodontal scaling such that participation in the study will be delayed\n* Undergoing periodontal care by a dentist or hygienist which in the judgement of the investigators could confound the study results\n* Known allergies to the ingredients of the study medications (chlorhexidine, Sumatra benzoin, ethanol and polymethylmethacrylate)\n* Taking medications for periodontal conditions (e.g., Periostat, chlorhexidine rinse, PerioChip or Arestin).\n* Uncontrolled seizure disorder\n* A gag reflex\n* Cancer that is in an active stage of treatment or has been treated with chemotherapy and/or radiation in the past year or in the next 12 months\n* Behavioural disorders which in the judgement of the investigators threaten the patient's tolerance to treatment and participation in the study\n* Involved in another drug trial\n* Not able to complete subject reported, self-administered questionnaires or not able have a caregiver complete these questionnaires, or cannot fully understand all instructions in English",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Men and women, \u226518years old, who have COPD and/or CHF or on dialysis or with other chronic metabolic conditions (e.g., diabetes, hypertension) which are correlated with chronic oral inflammation, and which are suitable for homecare conducted by the Integrated Comprehensive Care program.",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Suzana Damjanovic",
+            "role": "CONTACT",
+            "phone": "365-833-8140",
+            "email": "DentalStudy@stjoes.ca"
+          },
+          {
+            "name": "Mackensey Bacon",
+            "role": "CONTACT",
+            "phone": "289-659-7241",
+            "email": "DentalStudy@stjoes.ca"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Carrie Beltzner",
+            "affiliation": "St. Joseph's Health System - Centre for Integrated Comprehensive Care",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D029424",
+            "term": "Pulmonary Disease, Chronic Obstructive"
+          },
+          {
+            "id": "D006333",
+            "term": "Heart Failure"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D008173",
+            "term": "Lung Diseases, Obstructive"
+          },
+          {
+            "id": "D008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D012140",
+            "term": "Respiratory Tract Diseases"
+          },
+          {
+            "id": "D002908",
+            "term": "Chronic Disease"
+          },
+          {
+            "id": "D020969",
+            "term": "Disease Attributes"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378597"
+}

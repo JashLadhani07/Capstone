@@ -1,0 +1,322 @@
+{
+  "nct_id": "NCT05971407",
+  "title": "The Effect of Chronic Remote Ischaemic Preconditioning on Blood Pressure in Older Adults",
+  "sponsor": "University of Nottingham",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Hypertension",
+    "Vascular Diseases"
+  ],
+  "interventions": [
+    "Remote Ischaemic Preconditioning",
+    "Sham Remote Ischaemic Preconditioning"
+  ],
+  "primary_outcome": "Clinic systolic blood pressure",
+  "secondary_outcomes": [
+    "Clinic diastolic blood pressure",
+    "Clinic Mean arterial pressure",
+    "24-hour systolic blood pressure",
+    "24-hour diastolic blood pressure",
+    "24-hour mean arterial pressure",
+    "Flow mediated dilatation (FMD)",
+    "Pulsewave velocity (PWV)",
+    "Serum biomarkers"
+  ],
+  "start_date": "2022-09-25",
+  "completion_date": "2024-12-31",
+  "results_posted": false,
+  "enrollment": 60,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05971407",
+        "orgStudyIdInfo": {
+          "id": "FMHS 34-0722"
+        },
+        "organization": {
+          "fullName": "University of Nottingham",
+          "class": "OTHER"
+        },
+        "briefTitle": "The Effect of Chronic Remote Ischaemic Preconditioning on Blood Pressure in Older Adults",
+        "officialTitle": "The Effect of Chronic Remote Ischaemic Preconditioning on Blood Pressure in Older Adults",
+        "acronym": "RIPCo"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-04",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2022-09-25",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2024-12-31",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2024-12-31",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2023-07-04",
+        "studyFirstSubmitQcDate": "2023-07-24",
+        "studyFirstPostDateStruct": {
+          "date": "2023-08-02",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-06-01",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-06-04",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Bethan Phillips",
+          "investigatorTitle": "Professor",
+          "investigatorAffiliation": "University of Nottingham"
+        },
+        "leadSponsor": {
+          "name": "University of Nottingham",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to assess whether remote ischaemic conditioning, applied chronically, improves vascular health in older adults",
+        "detailedDescription": "Hypertension and stroke remain leading causes of mortality across the world (1). Hypertension affects more than 1 in 4 adults and is the 3rd biggest risk factor for premature death and disability in the UK (2). Cerebrovascular disease is ranked 4th in the list of leading causes of death in the UK (3). At present, the treatment of these conditions largely involves chronic pharmacotherapy. In parallel, it is increasingly appreciated that polypharmacy poses a significant challenge to our older adult population. Guthrie et al showed that the number of people prescribed \\>5 medications in an area of the UK doubled between 1995 and 2010 (from 11.4% to 20.8%) (4). Age is significantly associated with polypharmacy, with an odds ratio of 118.3 when those aged 20-29 are compared to those \\>80. What's more, it has been estimated that adverse drug reactions account for 6.5% of hospital admissions (5), with age correlating significantly with admissions for this reason. Therefore, discovering a non-pharmacological intervention for hypertension and cerebrovascular disease could greatly benefit the population, particularly the elderly, both in terms of treating the diseases themselves and reducing the harmful effects of polypharmacy.\n\nRemote ischaemic preconditioning (RIPC) is the induction of non-lethal ischaemia in one organ or tissue, with the aim of conditioning a distant organ or tissue against ischaemic events. It is achieved via inflation of a blood pressure cuff to supra-systolic pressures for a short period of time. A recent meta-analysis showed that chronic RIC, but not acute RIC, significantly lowered diastolic and mean arterial blood pressure (6). The studies included in this review were small and performed in a younger population, hence larger studies are needed to clarify the effect of RIC in the field of hypertension and, importantly, the elderly."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Hypertension",
+          "Vascular Diseases"
+        ],
+        "keywords": [
+          "Remote Ischaemic Preconditioning",
+          "Non-pharmacological",
+          "Remote Ischaemic Conditioning",
+          "Randomised Controlled Trial"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "interventionModelDescription": "Participants complete a 6-week intervention period during which the participants receive either RIPC or sham. There is then a 6-week washout period, after which participants complete the other intervention",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "maskingDescription": "Participants are blinded to intervention. Assessors measuring outcomes are blinded to participant identity and intervention.",
+            "whoMasked": [
+              "PARTICIPANT",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 60,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Remote Ischaemic Preconditioning",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "RIPC is induced by 4 cycles of 5 minutes of healthy upper limb ischaemia followed by 5 minutes reperfusion. Ischaemia is induced by inflation of a blood pressure cuff to 20mmHg above systolic blood pressure. RIPC is conducted 3 times weekly for 6-weeks.",
+            "interventionNames": [
+              "Device: Remote Ischaemic Preconditioning"
+            ]
+          },
+          {
+            "label": "Sham remote ischaemic preconditioning",
+            "type": "SHAM_COMPARATOR",
+            "description": "Sham RIPC is induced by 4 cycles of 5 minutes of healthy upper limb ischaemia followed by 5 minutes reperfusion. Ischaemia is induced by inflation of a blood pressure cuff to 20mmHg. RIPC is conducted 3 times weekly for 6-weeks",
+            "interventionNames": [
+              "Device: Sham Remote Ischaemic Preconditioning"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Remote Ischaemic Preconditioning",
+            "description": "RIPC is induced by 4 cycles of 5 minutes of healthy upper limb ischaemia followed by 5 minutes reperfusion. Ischaemia is induced by inflation of a blood pressure cuff to 20mmHg above systolic blood pressure. RIPC is conducted 3 times weekly for 6-weeks. Clinic blood pressure is measured at weeks 0, 3 and 6. 24-hour blood pressure is measured at weeks 0 and 6.",
+            "armGroupLabels": [
+              "Remote Ischaemic Preconditioning"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Sham Remote Ischaemic Preconditioning",
+            "description": "Sham RIPC is induced by 4 cycles of 5 minutes of healthy upper limb ischaemia followed by 5 minutes reperfusion. Ischaemia is induced by inflation of a blood pressure cuff to 20mmHg. RIPC is conducted 3 times weekly for 6-weeks. Clinic blood pressure is measured at weeks 0, 3 and 6. 24-hour blood pressure is measured at weeks 0 and 6.",
+            "armGroupLabels": [
+              "Sham remote ischaemic preconditioning"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Clinic systolic blood pressure",
+            "description": "Changes in blood pressure measured by automated sphygmomanometer over 6 weeks. Measured after participants have rested for 10 minutes in a temperature controlled room.",
+            "timeFrame": "Measured at baseline, week 3 and week 6"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Clinic diastolic blood pressure",
+            "description": "Changes in blood pressure measured by automated sphygmomanometer over 6 weeks. Measured after participants have rested for 10 minutes in a temperature controlled room.",
+            "timeFrame": "Measured at baseline, week 3 and week 6"
+          },
+          {
+            "measure": "Clinic Mean arterial pressure",
+            "description": "Changes in blood pressure measured by automated sphygmomanometer over 6 weeks. Measured after participants have rested for 10 minutes in a temperature controlled room.",
+            "timeFrame": "Measured at baseline, week 3 and week 6"
+          },
+          {
+            "measure": "24-hour systolic blood pressure",
+            "description": "Changes in blood pressure measured by 24-hour blood pressure monitor.",
+            "timeFrame": "Measured at baseline and week 6"
+          },
+          {
+            "measure": "24-hour diastolic blood pressure",
+            "description": "Changes in blood pressure measured by 24-hour blood pressure monitor.",
+            "timeFrame": "Measured at baseline and week 6"
+          },
+          {
+            "measure": "24-hour mean arterial pressure",
+            "description": "Changes in blood pressure measured by 24-hour blood pressure monitor.",
+            "timeFrame": "Measured at baseline and week 6"
+          },
+          {
+            "measure": "Flow mediated dilatation (FMD)",
+            "description": "Flow mediated dilatation is measured by continuous ultrasound imaging of the brachial artery. Brachial artery diameter is measured using edge tracking software for one minute before distal occlusion is applied to the brachial artery for 5 minutes at 230mmHg using and automated vascular assessment pressure cuff. Following release of the distal occlusion, flow mediated dilatation is measured for 4 minutes using edge tracking software",
+            "timeFrame": "Measured at baseline, week 3 and week 6"
+          },
+          {
+            "measure": "Pulsewave velocity (PWV)",
+            "description": "Pulsewave velocity is measured using carotid and femoral artery transducers. Pulse transit time and the distance between transducers is then used to calculate PWV.",
+            "timeFrame": "Measured at baseline, week 3 and week 6"
+          },
+          {
+            "measure": "Serum biomarkers",
+            "description": "Biomarkers of RIC mechanism will be quantified by ELISA from plasma samples collected before and after intervention.",
+            "timeFrame": "Measured at baseline and week 6."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant is aged \\>65y and \\<85y.\n* Participant is willing and able to give informed consent for participation in the study.\n* Participant is physically able to perform RIPC.\n\nExclusion Criteria:\n\n* A BMI \\<18 or \\>35 kg/m2\n* Active cardiovascular, cerebrovascular or respiratory disease: e.g. uncontrolled hypertension (BP \\> 160/100), active angina, heart failure (class III/IV), arrhythmia, right to left cardiac shunt, recent cardiac event, COPD, pulmonary hypertension or recent (6 mo) stroke.\n* If history of hypertension, no recent alteration to antihypertensive medication (3 months).\n* A history of, or current neurological or musculoskeletal conditions (e.g. epilepsy)\n* Having taken part in a research study in the last 3 months involving invasive procedures or an inconvenience allowance",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "65 Years",
+        "maximumAge": "85 Years",
+        "stdAges": [
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Timothy England, MB ChB PhD",
+            "affiliation": "University of Nottingham",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Bethan Phillips, PhD",
+            "affiliation": "University of Nottingham",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "School of Medicine, Royal Derby Hospital Site, University of Nottingham",
+            "city": "Derby",
+            "state": "Derbyshire",
+            "zip": "DE22 3DT",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 52.92277,
+              "lon": -1.47663
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "33501848",
+            "type": "BACKGROUND",
+            "citation": "Virani SS, Alonso A, Aparicio HJ, Benjamin EJ, Bittencourt MS, Callaway CW, Carson AP, Chamberlain AM, Cheng S, Delling FN, Elkind MSV, Evenson KR, Ferguson JF, Gupta DK, Khan SS, Kissela BM, Knutson KL, Lee CD, Lewis TT, Liu J, Loop MS, Lutsey PL, Ma J, Mackey J, Martin SS, Matchar DB, Mussolino ME, Navaneethan SD, Perak AM, Roth GA, Samad Z, Satou GM, Schroeder EB, Shah SH, Shay CM, Stokes A, VanWagner LB, Wang NY, Tsao CW; American Heart Association Council on Epidemiology and Prevention Statistics Committee and Stroke Statistics Subcommittee. Heart Disease and Stroke Statistics-2021 Update: A Report From the American Heart Association. Circulation. 2021 Feb 23;143(8):e254-e743. doi: 10.1161/CIR.0000000000000950. Epub 2021 Jan 27."
+          },
+          {
+            "type": "BACKGROUND",
+            "citation": "Health matters: combating high blood pressure: Public Health England; 2017"
+          },
+          {
+            "type": "BACKGROUND",
+            "citation": "https://www.stroke.org.uk/what-is-stroke/stroke-statistics"
+          },
+          {
+            "pmid": "25889849",
+            "type": "BACKGROUND",
+            "citation": "Guthrie B, Makubate B, Hernandez-Santiago V, Dreischulte T. The rising tide of polypharmacy and drug-drug interactions: population database analysis 1995-2010. BMC Med. 2015 Apr 7;13:74. doi: 10.1186/s12916-015-0322-7."
+          },
+          {
+            "pmid": "15231615",
+            "type": "BACKGROUND",
+            "citation": "Pirmohamed M, James S, Meakin S, Green C, Scott AK, Walley TJ, Farrar K, Park BK, Breckenridge AM. Adverse drug reactions as cause of admission to hospital: prospective analysis of 18 820 patients. BMJ. 2004 Jul 3;329(7456):15-9. doi: 10.1136/bmj.329.7456.15."
+          },
+          {
+            "pmid": "33748739",
+            "type": "BACKGROUND",
+            "citation": "Baffour-Awuah B, Dieberg G, Pearson MJ, Smart NA. The effect of remote ischaemic conditioning on blood pressure response: A systematic review and meta-analysis. Int J Cardiol Hypertens. 2021 Feb 23;8:100081. doi: 10.1016/j.ijchy.2021.100081. eCollection 2021 Mar."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006973",
+            "term": "Hypertension"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792222"
+}

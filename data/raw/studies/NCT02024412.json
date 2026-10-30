@@ -1,0 +1,336 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02024412",
+      "orgStudyIdInfo": {
+        "id": "20131123"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "E2013109A",
+          "type": "OTHER",
+          "domain": "TianjinCIH"
+        }
+      ],
+      "organization": {
+        "fullName": "Tianjin Medical University Cancer Institute and Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Monosialotetrahexosylganglioside Sodium Injection for Prevention Neurotoxicity of mFOLFOX 6 in mCRC",
+      "officialTitle": "The Safety and Effect of Monosialotetrahexosylganglioside Sodium Injection for Prevention Neurotoxicity of mFOLFOX6 as First-line Chemotherapy for Advanced Colorectal Cancer"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-09",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2013-11"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2016-12",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2017-12",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2013-11-24",
+      "studyFirstSubmitQcDate": "2013-12-26",
+      "studyFirstPostDateStruct": {
+        "date": "2013-12-31",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-09-24",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-09-28",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Tianjin Medical University Cancer Institute and Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The morbidity of colorectal cancer(CRC) is 10%\uff5e15% in China.mFolfox6 has become one of the standard regimes for metastatic colorectal cancer (mCRC). Neutropenia and oxaliplatin-induced neurotoxicity are the most common adverse effects which even result in discontinue of chemotherapy, especially for patients suffered from heavily acute neurotoxicity. Monosialotetrahexosylganglioside is a component of membrane of nerve cells. Previous phase II clinical trial showed, it can reduce oxaliplatin-induced neurotoxicity(OIN). But it did not certificated by phase III trial. Investigators designed the phase III trial to investigate the effect and safety of monosialotetrahexosylganglioside Sodium Injection for prevention OIN at colorectal cancer.",
+      "detailedDescription": "it is a placebo controlled phase III trial. investigators plan to enroll 240 patients with 1:1 to A arm and B arm"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "keywords": [
+        "metastatic colorectal cancer",
+        "neurotoxicity",
+        "mFOLFOX6",
+        "monosialotetrahexosylganglioside Sodium Injection"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 240,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "monosialotetrahexosylganglioside Sodium",
+          "type": "EXPERIMENTAL",
+          "description": "arm A: monosialotetrahexosylganglioside Sodium Injection, 40mg,one hour before chemotherapy(mFOLFOX6), every two weeks until tumor progress or patients become intolerant",
+          "interventionNames": [
+            "Drug: monosialotetrahexosylganglioside Sodium"
+          ]
+        },
+        {
+          "label": "placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "arm B: equal saline as placebo ,one hour before chemotherapy(mFOLFOX6) every two weeks until tumor progress or intolerant",
+          "interventionNames": [
+            "Other: placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "monosialotetrahexosylganglioside Sodium",
+          "description": "it is a component extract from pig's brain,shenjie is the brand name",
+          "armGroupLabels": [
+            "monosialotetrahexosylganglioside Sodium"
+          ],
+          "otherNames": [
+            "shenjie"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "placebo",
+          "description": "saline of the same appearance as monosialotetrahexosylganglioside Sodium",
+          "armGroupLabels": [
+            "placebo"
+          ],
+          "otherNames": [
+            "saline"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The incidence of neurotoxicity including acute neurotoxicity and accumulating neurotoxicity",
+          "description": "Acute neurotoxicity will be assessed the first day of oxaliplatin at every cycle given;accumulating neurotoxicity will be assessed every two weeks from the second day of first cycle until the patients out of the study. The accumulating neurotoxicity will be assessed every four weeks for 12 months or one week before second-line chemotherapy",
+          "timeFrame": "From the first day of chemotherapy to 12 months after study or until one week before the patients receive second-line chemotherapy"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Objective response rate",
+          "description": "Investigators assess the effect every six weeks and objective response is recorded as complete response,partial response or stable disease according to Recist 1.1",
+          "timeFrame": "Eevery 6 weeks, up to 24 months"
+        },
+        {
+          "measure": "Progress Free Survival",
+          "description": "From date of randomization until the date of first documented progression",
+          "timeFrame": "investigators assess the effect of chemotherapy every 6 weeks ,up to 24 months"
+        },
+        {
+          "measure": "overall Survival",
+          "description": "the patients will be followed one month after progression ,then every 3 months,up to 100 months",
+          "timeFrame": "From date of randomization until the date of death from any cause, assessed up to 100 months"
+        },
+        {
+          "measure": "quality of life",
+          "description": "we use sf-36 to evaluated the quality of life",
+          "timeFrame": "evaluate 1 week before chemotherapy and every 6 weeks of study. And evaluate within 4 weeks after the patients out of the study"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients shall have normal organic function such as liver function, Cardiac function and renal function;\n2. age \\>18 years old;\n3. diagnosis mCRC with histology;\n4. Did not received first-line chemotherapy\n5. Karnofsky Performance scores \\>70 scores\n6. should have target lesions or non-target lesions\n7. For patients received oxaliplatin before, the residual neurotoxicity should less than grade 2\n8. For diabetes without neuropathy, blood glucose before meal should less than 8mmol/L and HBA1C\\<7.0%\n9. Patients should be expected to live no shorter than 3 months\n\nExclusion Criteria:\n\n1. patients who is receiving chemotherapy;\n2. WBC\\<4.0\u00d7109/L\uff0cANC\\<1.5\u00d7109/L,PLT\\<100\u00d7109/L\uff0cHb\\<90g/L,TBIL\\>1.5Limitation;BUN\uff09\\>1.5Limitation\uff1bCr\uff09\\>1.5Limitation\uff1bALT or AST\\>2.5Limitation\uff08without liver metastasis\uff09\uff1bALT or AST\uff09\\>5Limitation\uff08with liver metastasis\uff09;\n3. heart dysfunction;\n4. brain metastasis;\n5. peripheral nervous system or central nervous system abnormal including diabetes mellitus patients with neuropathy;\n6. patients who received Glutathione, acetylcysteine, calcium / magnesium, amifostine, carbamazepine, B vitamins, vitamin E within 30 days",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Yi Ba, MD PHD",
+          "role": "CONTACT",
+          "phone": "+86 02223340123-1051",
+          "email": "zhobualing123@163.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Yi Ba, MD.PHD",
+          "affiliation": "Tianjin Medical University Cancer Institute and Hospital",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Tianjin Medical University Cancer Institute and Hospital",
+          "status": "RECRUITING",
+          "city": "Tianjin",
+          "state": "Tianjin Municipality",
+          "zip": "300060",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "YI BA, MD PHD",
+              "role": "CONTACT",
+              "phone": "+8602223340123-1051",
+              "email": "zhoubaling123@163.com"
+            },
+            {
+              "name": "Likun Zhou, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "yi ba, MD PHD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.14222,
+            "lon": 117.17667
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015179",
+          "term": "Colorectal Neoplasms"
+        },
+        {
+          "id": "D020258",
+          "term": "Neurotoxicity Syndromes"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007414",
+          "term": "Intestinal Neoplasms"
+        },
+        {
+          "id": "D005770",
+          "term": "Gastrointestinal Neoplasms"
+        },
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D003108",
+          "term": "Colonic Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        },
+        {
+          "id": "D012002",
+          "term": "Rectal Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D011041",
+          "term": "Poisoning"
+        },
+        {
+          "id": "D064419",
+          "term": "Chemically-Induced Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D012965",
+          "term": "Sodium Chloride"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002712",
+          "term": "Chlorides"
+        },
+        {
+          "id": "D006851",
+          "term": "Hydrochloric Acid"
+        },
+        {
+          "id": "D017606",
+          "term": "Chlorine Compounds"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D017670",
+          "term": "Sodium Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

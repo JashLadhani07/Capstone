@@ -1,0 +1,233 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00699985",
+      "orgStudyIdInfo": {
+        "id": "132/11872"
+      },
+      "organization": {
+        "fullName": "Tehran University of Medical Sciences",
+        "class": "OTHER"
+      },
+      "briefTitle": "Psychological Symptoms in Patients With Behcet's Disease by SCL90-R",
+      "officialTitle": "Comparison of Psychological Symptoms in Patients With Behcet's Disease and Control Patients by Symptom Check List 90-Revised (SCL-90-R)",
+      "acronym": "SCL90-R"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2010-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2006-09"
+      },
+      "completionDateStruct": {
+        "date": "2007-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2008-06-17",
+      "studyFirstSubmitQcDate": "2008-06-17",
+      "studyFirstPostDateStruct": {
+        "date": "2008-06-18",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2010-08-13",
+      "lastUpdatePostDateStruct": {
+        "date": "2010-08-16",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Rheumatology Research Center",
+        "oldOrganization": "Bahar Sadeghi"
+      },
+      "leadSponsor": {
+        "name": "Tehran University of Medical Sciences",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "To find the overall psychological profile of patients with Behcet's Disease (BD) and compare it with Non-BD patients.patients were checked for psychological symptoms by Symptom Check List 90 Revised (SCL90-R)",
+      "detailedDescription": "200 BD and 200 Non-BD patients were checked for psychological symptoms by Symptom Check List 90 Revised (SCL90-R). BD diagnosis was based on the new International Criteria for Behcet's Disease (ICBD). Non-BD patients were patients mimicking BD. All patients were asked to complete the SCL90-R when they attended the clinic for their routine follow-up. The demographic information and disease manifestations including ocular and neurological involvement were registered. For those with visual impairment, SCL90-R was applied by an interviewer. Frequencies and descriptive analysis were measured in both BD and Non-BD groups. Means and standard deviations (SD) of visual acuity were calculated. Data collected from SCL90-R did not have normal distribution in any dimension. The mean values of raw numbers, global severity index (GSI), the positive symptoms total (PST) and the positive symptom distress index (PSDI), were compared by Mann-Whitney U (M-W U) test.).To detect any bias in results due to data collection method, self reported data and reviewer collected data were compared."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Behcet's Syndrome"
+      ],
+      "keywords": [
+        "Psychological Symptoms",
+        "Behcet's Disease"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "designInfo": {
+        "observationalModel": "CASE_CONTROL",
+        "timePerspective": "CROSS_SECTIONAL"
+      },
+      "enrollmentInfo": {
+        "count": 400,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "1",
+          "description": "Behcet's Disease patients that their diagnosis was based on the new International Criteria for Behcet's Disease (ICBD)."
+        },
+        {
+          "label": "2",
+          "description": "Non-Behcet's Disease patients were patients mimicking BD."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "secondaryOutcomes": [
+        {
+          "measure": "Total score of SCL90-R dimensions and global indexes",
+          "timeFrame": "22months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Behcet's disease patients that their diagnosis was based on the new International Criteria for Behcet's Disease (ICBD).\n* Non-Behcet's disease patients were patients mimicking BD.\n\nExclusion Criteria:\n\n* Probable Behcet's Disease",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "14 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "BD and Non-BD patients who attended the clinic for their routine follow-up.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Bahar Sadeghi, MD",
+          "affiliation": "Rheumatology Research Center, Tehran University for Medical Sciences",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Fereydoun Davatchi, MD",
+          "affiliation": "Rheumatology Research Center, Tehran University for Medical Sciences",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Maryam Noroozian, MD",
+          "affiliation": "Memory and Behavioral Department, Roozbeh Hospital, Tehran University for Medical Sciences",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Farhad Shahram, MD",
+          "affiliation": "Rheumatology Research Center, Tehran University for Medical Sciences",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Rheumatology Research Center, Shariati Hospital",
+          "city": "Tehran",
+          "state": "Tehran Province",
+          "zip": "14114",
+          "country": "Iran",
+          "geoPoint": {
+            "lat": 35.69439,
+            "lon": 51.42151
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001528",
+          "term": "Behcet Syndrome"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009059",
+          "term": "Mouth Diseases"
+        },
+        {
+          "id": "D009057",
+          "term": "Stomatognathic Diseases"
+        },
+        {
+          "id": "D014606",
+          "term": "Uveitis, Anterior"
+        },
+        {
+          "id": "D015864",
+          "term": "Panuveitis"
+        },
+        {
+          "id": "D014605",
+          "term": "Uveitis"
+        },
+        {
+          "id": "D014603",
+          "term": "Uveal Diseases"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        },
+        {
+          "id": "D014657",
+          "term": "Vasculitis"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D056660",
+          "term": "Hereditary Autoinflammatory Diseases"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D012873",
+          "term": "Skin Diseases, Genetic"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

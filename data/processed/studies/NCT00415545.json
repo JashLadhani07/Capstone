@@ -1,0 +1,329 @@
+{
+  "nct_id": "NCT00415545",
+  "title": "Improving Self Care Behavior and Outcomes in Rural Patients With Heart Failure",
+  "sponsor": "University of California, San Francisco",
+  "phase": "PHASE3",
+  "status": "COMPLETED",
+  "conditions": [
+    "Heart Failure, Congestive"
+  ],
+  "interventions": [
+    "Fluid Watchers LITE Educational Intervention",
+    "Fluid Watchers PLUS Educational Intervention"
+  ],
+  "primary_outcome": "Hospitalization for heart failure and cardiac mortality",
+  "secondary_outcomes": [
+    "Heart failure-related emergency department visits (without hospitalization)",
+    "Unplanned physician visits",
+    "Heart failure severity (New York Heart Association [NYHA] class and brain natriuretic peptide)",
+    "Quality of life"
+  ],
+  "start_date": "2007-01",
+  "completion_date": "2012-01",
+  "results_posted": false,
+  "enrollment": 614,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00415545",
+        "orgStudyIdInfo": {
+          "id": "423"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "R01HL083176",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/R01HL083176"
+          },
+          {
+            "id": "R01HL083176-01A1",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/R01HL083176-01A1"
+          }
+        ],
+        "organization": {
+          "fullName": "University of California, San Francisco",
+          "class": "OTHER"
+        },
+        "briefTitle": "Educational Program to Improve Heart Failure Outcomes in Adults Living in Rural Areas",
+        "officialTitle": "Improving Self Care Behavior and Outcomes in Rural Patients With Heart Failure",
+        "acronym": "REMOTE-HF"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2013-06",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2007-01"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2012-01",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2013-01",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2006-12-21",
+        "studyFirstSubmitQcDate": "2006-12-21",
+        "studyFirstPostDateStruct": {
+          "date": "2006-12-25",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2013-06-06",
+        "lastUpdatePostDateStruct": {
+          "date": "2013-06-07",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "University of California, San Francisco",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "National Heart, Lung, and Blood Institute (NHLBI)",
+            "class": "NIH"
+          },
+          {
+            "name": "National Institute of Nursing Research (NINR)",
+            "class": "NIH"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "Heart failure patients living in rural areas usually do not have adequate access to formal heart failure management programs. This study will compare two versions of an educational intervention aimed at improving self-care management techniques among individuals with heart failure who are living in rural areas.",
+        "detailedDescription": "Heart failure is a life-threatening condition in which the heart can no longer pump enough blood to the rest of the body. It is important for individuals with heart failure to closely monitor their symptoms and seek out medical attention when appropriate. Swelling and weight gain are common heart failure symptoms that indicate excess fluid buildup in the body and worsening heart function. Closely monitoring and responding to these symptoms can be a strategic way to prevent heart failure exacerbations. However, many patients ignore symptoms and are reluctant to seek care. Specialized monitoring programs can help heart failure patients to respond more appropriately to their symptoms.\n\nTraditionally, heart failure patients living in rural areas have had limited access to formal monitoring programs. Fluid Watchers is a program designed to help heart failure patients living in rural areas improve self-management of symptoms, specifically excess fluid buildup. The purpose of this study is to compare the effectiveness of two versions of Fluid Watchers at improving the hospitalization and death rates of individuals with heart failure who live in rural areas.\n\nIn this 2-year study, 710 participants will be randomly assigned to either the Fluid Watchers LITE program, the Fluid Watchers PLUS program, or a usual care control group. Individuals in both Fluid Watchers groups will attend a one-on-one educational session that will include heart failure counseling and information on self-monitoring and care-seeking strategies. Participants in the PLUS program will receive additional counseling, audio tapes, and follow-up telephone calls on a biweekly basis. All participants will record self-monitoring adherence and contact with healthcare providers. Outcome measures will be assessed during either clinic or home visits at study entry and Months 3, 12, and 24, and will include number of emergency department visits, number of physician visits, heart failure severity, and quality of life."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Heart Failure, Congestive"
+        ],
+        "keywords": [
+          "Heart Failure",
+          "Patient Education"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 614,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "1",
+            "type": "EXPERIMENTAL",
+            "description": "Fluid Watchers LITE program",
+            "interventionNames": [
+              "Behavioral: Fluid Watchers LITE Educational Intervention"
+            ]
+          },
+          {
+            "label": "2",
+            "type": "EXPERIMENTAL",
+            "description": "Fluid Watchers PLUS program",
+            "interventionNames": [
+              "Behavioral: Fluid Watchers PLUS Educational Intervention"
+            ]
+          },
+          {
+            "label": "3",
+            "type": "NO_INTERVENTION",
+            "description": "Usual care control group"
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Fluid Watchers LITE Educational Intervention",
+            "description": "Patients in Fluid Watchers LITE will receive counseling about HF and self-monitoring, and coaching on seeking care. They will receive written material, a diary, a scale and a telephone follow-up to answer any questions they might have about the educational session.",
+            "armGroupLabels": [
+              "1"
+            ]
+          },
+          {
+            "type": "BEHAVIORAL",
+            "name": "Fluid Watchers PLUS Educational Intervention",
+            "description": "Patients in Fluid Watchers PLUS will receive counseling about HF and self-monitoring, and coaching on seeking care. They will receive written materials, a diary, a scale, an audio tape of the session and telephone followup. Participants in the PLUS program will receive additional counseling, audio tapes, and follow-up telephone calls on a biweekly basis, as compared to participants in the LITE program.",
+            "armGroupLabels": [
+              "2"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Hospitalization for heart failure and cardiac mortality",
+            "timeFrame": "Measured at Year 2"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Heart failure-related emergency department visits (without hospitalization)",
+            "timeFrame": "Measured at Year 2"
+          },
+          {
+            "measure": "Unplanned physician visits",
+            "timeFrame": "Measured at Year 2"
+          },
+          {
+            "measure": "Heart failure severity (New York Heart Association [NYHA] class and brain natriuretic peptide)",
+            "timeFrame": "Measured at Year 2"
+          },
+          {
+            "measure": "Quality of life",
+            "timeFrame": "Measured at Year 2"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Hospitalized for heart failure in the 6 months prior to study entry\n* Able to read and write English\n* Lives independently\n\nExclusion Criteria:\n\n* Current participation in a heart failure management program\n* Impaired cognition\n* Serious co-morbidity",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Kathleen A. Dracup, DNSc",
+            "affiliation": "University of California, San Francisco",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of California, Davis",
+            "city": "Davis",
+            "state": "California",
+            "zip": "95817",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.54491,
+              "lon": -121.74052
+            }
+          },
+          {
+            "facility": "University of Kentucky",
+            "city": "Lexington",
+            "state": "Kentucky",
+            "zip": "40526",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.98869,
+              "lon": -84.47772
+            }
+          },
+          {
+            "facility": "Washoe Health Care System",
+            "city": "Reno",
+            "state": "Nevada",
+            "zip": "89523",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.52963,
+              "lon": -119.8138
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "16290977",
+            "type": "BACKGROUND",
+            "citation": "Caldwell MA, Peters KJ, Dracup KA. A simplified education program improves knowledge, self-care behavior, and disease severity in heart failure patients in rural settings. Am Heart J. 2005 Nov;150(5):983. doi: 10.1016/j.ahj.2005.08.005."
+          },
+          {
+            "pmid": "30663898",
+            "type": "DERIVED",
+            "citation": "Park LG, Dracup K, Whooley MA, McCulloch C, Lai S, Howie-Esquivel J. Sedentary lifestyle associated with mortality in rural patients with heart failure. Eur J Cardiovasc Nurs. 2019 Apr;18(4):318-324. doi: 10.1177/1474515118822967. Epub 2019 Jan 21."
+          },
+          {
+            "pmid": "30353706",
+            "type": "DERIVED",
+            "citation": "Howie-Esquivel J, Dracup K, Whooley MA, McCulloch C, Jin C, Moser DK, Clark RA, Pelter MM, Biddle M, Park LG. Rapid 5 lb weight gain is not associated with readmission in patients with heart failure. ESC Heart Fail. 2019 Feb;6(1):131-137. doi: 10.1002/ehf2.12370. Epub 2018 Oct 24."
+          },
+          {
+            "pmid": "29158435",
+            "type": "DERIVED",
+            "citation": "Park LG, Dracup K, Whooley MA, McCulloch C, Jin C, Moser DK, Clark RA, Pelter MM, Biddle M, Howie Esquivel J. Symptom Diary Use and Improved Survival for Patients With Heart Failure. Circ Heart Fail. 2017 Nov;10(11):e003874. doi: 10.1161/CIRCHEARTFAILURE.117.003874."
+          },
+          {
+            "pmid": "26721913",
+            "type": "DERIVED",
+            "citation": "Wu JR, Moser DK, DeWalt DA, Rayens MK, Dracup K. Health Literacy Mediates the Relationship Between Age and Health Outcomes in Patients With Heart Failure. Circ Heart Fail. 2016 Jan;9(1):e002250. doi: 10.1161/CIRCHEARTFAILURE.115.002250."
+          },
+          {
+            "pmid": "26230482",
+            "type": "DERIVED",
+            "citation": "Hwang B, Moser DK, Pelter MM, Nesbitt TS, Dracup K. Changes in Depressive Symptoms and Mortality in Patients With Heart Failure: Effects of Cognitive-Affective and Somatic Symptoms. Psychosom Med. 2015 Sep;77(7):798-807. doi: 10.1097/PSY.0000000000000221."
+          },
+          {
+            "pmid": "25146960",
+            "type": "DERIVED",
+            "citation": "Nesbitt T, Doctorvaladan S, Southard JA, Singh S, Fekete A, Marie K, Moser DK, Pelter MM, Robinson S, Wilson MD, Cooper L, Dracup K. Correlates of quality of life in rural patients with heart failure. Circ Heart Fail. 2014 Nov;7(6):882-7. doi: 10.1161/CIRCHEARTFAILURE.113.000577. Epub 2014 Aug 21."
+          },
+          {
+            "pmid": "24815499",
+            "type": "DERIVED",
+            "citation": "Dracup K, Moser DK, Pelter MM, Nesbitt TS, Southard J, Paul SM, Robinson S, Cooper LS. Randomized, controlled trial to improve self-care in patients with heart failure living in rural areas. Circulation. 2014 Jul 15;130(3):256-64. doi: 10.1161/CIRCULATIONAHA.113.003542. Epub 2014 May 9."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006333",
+            "term": "Heart Failure"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.791996"
+}

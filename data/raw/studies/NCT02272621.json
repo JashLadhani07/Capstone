@@ -1,0 +1,210 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02272621",
+      "orgStudyIdInfo": {
+        "id": "CMILE-bleeding"
+      },
+      "organization": {
+        "fullName": "Karolinska University Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Bleeding in Partial Upper Hemisternotomy Versus Full Sternotomy Aortic Valve Replacement"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2013-11",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-10",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-10-21",
+      "studyFirstSubmitQcDate": "2014-10-21",
+      "studyFirstPostDateStruct": {
+        "date": "2014-10-23",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2021-05-31",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-06-02",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Magnus Dal\u00e9n",
+        "investigatorTitle": "MD, PhD",
+        "investigatorAffiliation": "Karolinska University Hospital"
+      },
+      "leadSponsor": {
+        "name": "Karolinska University Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Karolinska Institutet",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a single-center, open-label, randomized controlled trial. Patients scheduled for aortic valve replacement (AVR) at Karolinska University Hospital in Stockholm, Sweden will be eligible. One-hundred patients will be randomly assigned to either partial upper sternotomy (50 patients) or full sternotomy AVR (50 patients). Inclusion criteria is severe aortic stenosis referred for medically indicated isolated aortic valve replacement. Exclusion criteria are inclusion in other trial, left ventricular ejection fraction less than 0.45, previous cardiac surgery, or urgent/emergent surgery.\n\nMechanical and bioprosthetic (stented or sutureless) aortic valves will be implanted. Clinical characteristics will be registered. Clinical postoperative outcomes including bleeding outcomes will be registered. Routine blood sampling will be performed pre- and postoperatively. All available data will be collected prospectively. Informed consent will be obtained from patients meeting the inclusion criteria before the initiation of any study-specific procedures."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Aortic Valve Stenosis",
+        "Heart Valve Diseases"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 100,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Partial upper hemisternotomy aortic valve replacement",
+          "type": "EXPERIMENTAL",
+          "description": "Partial upper hemisternotomy AVR will be performed according to current standard of care practices.",
+          "interventionNames": [
+            "Procedure: Minimally invasive aortic valve replacement"
+          ]
+        },
+        {
+          "label": "Full sternotomy aortic valve replacement",
+          "type": "EXPERIMENTAL",
+          "description": "Full sternotomy AVR through a standard median sternotomy will be performed according to current standard of care practices.",
+          "interventionNames": [
+            "Procedure: Full sternotomy aortic valve replacement"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Minimally invasive aortic valve replacement",
+          "armGroupLabels": [
+            "Partial upper hemisternotomy aortic valve replacement"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Full sternotomy aortic valve replacement",
+          "armGroupLabels": [
+            "Full sternotomy aortic valve replacement"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Universal definition of perioperative bleeding in adult cardiac surgery",
+          "timeFrame": "Within 3 days from surgery"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2265 18 years of age\n* Severe aortic stenosis defined as aortic valve area of less than 1 cm2 or index area of 0.6 cm2/m2 by echocardiography\n* Referred for medically indicated aortic valve replacement\n* Sinus rhythm\n* Provide written informed consent\n\nExclusion Criteria:\n\n* Inclusion in other trial\n* Left ventricular ejection fraction less than 0.45\n* Presence of any coexisting severe valvular disorder\n* Previous cardiac surgery\n* Urgent or emergent surgery",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Department of Cardiothoracic Surgery, Karolinska University Hospital",
+          "city": "Stockholm",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 59.32938,
+            "lon": 18.06871
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38907320",
+          "type": "DERIVED",
+          "citation": "Bratt S, Dimberg A, Kastengren M, Lilford RD, Svenarud P, Sartipy U, Franco-Cereceda A, Dalen M. Bleeding in minimally invasive versus conventional aortic valve replacement. J Cardiothorac Surg. 2024 Jun 21;19(1):349. doi: 10.1186/s13019-024-02667-1."
+        },
+        {
+          "pmid": "38054555",
+          "type": "DERIVED",
+          "citation": "Kirmani BH, Jones SG, Muir A, Malaisrie SC, Chung DA, Williams RJ, Akowuah E. Limited versus full sternotomy for aortic valve replacement. Cochrane Database Syst Rev. 2023 Dec 6;12(12):CD011793. doi: 10.1002/14651858.CD011793.pub3."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001024",
+          "term": "Aortic Valve Stenosis"
+        },
+        {
+          "id": "D006349",
+          "term": "Heart Valve Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000082862",
+          "term": "Aortic Valve Disease"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014694",
+          "term": "Ventricular Outflow Obstruction"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

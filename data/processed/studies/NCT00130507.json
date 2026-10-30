@@ -1,0 +1,434 @@
+{
+  "nct_id": "NCT00130507",
+  "title": "Randomized Trial to Assess the Benefit of Adding Trastuzumab to Capecitabine and Vinorelbine as Second Line for HER2positive Breast Cancer Patients With Locally Advanced or Metastatic Disease, Previously Treated With Trastuzumab and Taxanes",
+  "sponsor": "Spanish Breast Cancer Research Group",
+  "phase": "PHASE2",
+  "status": "TERMINATED",
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    "Vinorelbine",
+    "Capecitabine",
+    "Trastuzumab"
+  ],
+  "primary_outcome": "Clinical benefit rate",
+  "secondary_outcomes": [
+    "Time to progression (TTP)",
+    "Objective Response Rate (ORR)",
+    "Response Duration (RD)",
+    "The Number of Participants Who Experienced Adverse Events (AE)",
+    "Overall Survival (OS)"
+  ],
+  "start_date": "2005-11-04",
+  "completion_date": "2009-06",
+  "results_posted": false,
+  "enrollment": 14,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00130507",
+        "orgStudyIdInfo": {
+          "id": "GEICAM 2004-06"
+        },
+        "organization": {
+          "fullName": "Spanish Breast Cancer Research Group",
+          "class": "OTHER"
+        },
+        "briefTitle": "Benefit of Adding Trastuzumab to Second Line Chemotherapy in Breast Cancer Patients Previously Treated With Trastuzumab",
+        "officialTitle": "Randomized Trial to Assess the Benefit of Adding Trastuzumab to Capecitabine and Vinorelbine as Second Line for HER2positive Breast Cancer Patients With Locally Advanced or Metastatic Disease, Previously Treated With Trastuzumab and Taxanes"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2019-02",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "A new alternative treatment caused the decrease in the rhythm of recruitment.",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2005-11-04",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2009-06",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2009-07-25",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2005-08-12",
+        "studyFirstSubmitQcDate": "2005-08-12",
+        "studyFirstPostDateStruct": {
+          "date": "2005-08-15",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2019-02-25",
+        "lastUpdatePostDateStruct": {
+          "date": "2019-02-26",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Spanish Breast Cancer Research Group",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Hoffmann-La Roche",
+            "class": "INDUSTRY"
+          }
+        ]
+      },
+      "descriptionModule": {
+        "briefSummary": "Eligible patients must receive vinorelbine plus capecitabine, with or without trastuzumab, until disease progression or unbearable toxicity. Cycles will be administered every 3 weeks.Human epidermal growth factor receptor 2 (HER2) status must be locally assessed by immunohistochemistry (IHC). All 3+ patients are eligible. In 2+ patients, HER2 status must be confirmed by fluorescence in situ hybridization (FISH).",
+        "detailedDescription": "Principal outcome is clinical benefit (complete + partial responses + stable disease). Sample size in each arm has been estimated with the Fleming method. Previous data show a clinical benefit rate of vinorelbine plus capecitabine around 50%. The researchers assume trastuzumab can increase it by 20%. With an alpha error of 0.05 and 80% power, 37 patients per arm are needed.\n\nThis is a randomised phase II trial. With a minimum expected benefit rate of 50%, at least 36 patients are needed to choose, with a 90% of probability to be right, the best treatment arm, providing it increases benefit rate at least by 15%.\n\nAssuming a drop-out rate of 10%, the total number of patients needed is 82, 41 per treatment arm.\n\nPatients will be stratified as per investigational site, and presence of visceral metastatic lesion (liver, lung, pleura, heart, peritoneum, suprarenal glands). All patients must receive 2 cycles. If no disease progression is detected, treatment must continue until progression or unbearable toxicity."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Breast Cancer"
+        ],
+        "keywords": [
+          "HER2 positive breast cancer.",
+          "Progression to trastuzumab and taxanes."
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 14,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Arm A: VX",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Vinorelbine and capecitabine (VX): vinorelbine 25 mg/m2 iv, days 1 and 8 each cycle (21 days), followed of capecitabine 825 mg/m2, orally, twice a day, days 1-14 each cycle (21 days).",
+            "interventionNames": [
+              "Drug: Vinorelbine",
+              "Drug: Capecitabine"
+            ]
+          },
+          {
+            "label": "Arm B: VXH",
+            "type": "EXPERIMENTAL",
+            "description": "Vinorelbine, capecitabine and trastuzumab (VXH): vinorelbine 25 mg/m2 iv, days 1 and 8 each cycle (21 days), followed of capecitabine 825 mg/m2, orally, twice a day, days 1-14 each cycle (21 days) and trastuzumab 4 mg/kg iv (loading dose first week), followed by 2 mg/kg weekly.",
+            "interventionNames": [
+              "Drug: Vinorelbine",
+              "Drug: Capecitabine",
+              "Drug: Trastuzumab"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Vinorelbine",
+            "armGroupLabels": [
+              "Arm A: VX",
+              "Arm B: VXH"
+            ],
+            "otherNames": [
+              "Navelbine"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Capecitabine",
+            "armGroupLabels": [
+              "Arm A: VX",
+              "Arm B: VXH"
+            ],
+            "otherNames": [
+              "Xeloda"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Trastuzumab",
+            "armGroupLabels": [
+              "Arm B: VXH"
+            ],
+            "otherNames": [
+              "Herceptin"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Clinical benefit rate",
+            "description": "Clinical benefit rate is defined as the rate of objective responses (complete responses and partial responses to treatment) and stabilizations, with a minimum duration of 24 weeks.",
+            "timeFrame": "Through study completion, an average of 1 year"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Time to progression (TTP)",
+            "description": "Tumor assessments will be performed until disease progression in order to evaluate the TTP. TTP is defined as the time from the date of the first dose to the first date of objectively determined progressive disease. For patients not known to have objectively-determined progressive disease, TTP will be censored at the date of the last objective progression-free assessment. For patients who receive subsequent systemic anticancer therapy (after discontinuation from the study treatment) prior to objective disease progression, TTP will be censored at the date of last objective progression-free assessment prior to the initiation of postdiscontinuation systemic anticancer therapy.",
+            "timeFrame": "Through study completion, an average of 1 year"
+          },
+          {
+            "measure": "Objective Response Rate (ORR)",
+            "description": "Tumor response will be assessed using RECIST criteria. The best response across all treatment will be recorded. ORR is defined as the percentage of patients with a complete or partial response out of the patients who had measurable disease at baseline.",
+            "timeFrame": "Through study completion, an average of 1 year"
+          },
+          {
+            "measure": "Response Duration (RD)",
+            "description": "RD is defined as the time from the date when the measurement criteria are met for complete response (CR) or partial response (PR) (whichever status is recorded first) until the date of first observation of disease progression or death occurred. For responding patients not known to have died as of the data cut-off date and who do not have progression, duration of response will be censored at the date of last visit with adequate assessment. For responding patients who receive subsequent anticancer therapy (after discontinuation from the study treatment) prior to progression, duration of response will be censored at the date of last visit with adequate assessment prior to the initiation of post-discontinuation anticancer therapy.",
+            "timeFrame": "Through study completion, an average of 1 year"
+          },
+          {
+            "measure": "The Number of Participants Who Experienced Adverse Events (AE)",
+            "description": "All AE suffered by patients will be recorded and graduated by the NCI CTCAE v1.0.",
+            "timeFrame": "Through study completion, an average of 1 year"
+          },
+          {
+            "measure": "Overall Survival (OS)",
+            "description": "OS was defined as the time elapsed from first treatment until death from any cause.",
+            "timeFrame": "Through study completion, an average of 1 year"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Women older than 18 years old.\n* HER2 positive breast cancer with histological diagnoses.\n* Non-operable locally advanced or metastatic disease, previously treated with trastuzumab and taxanes.\n* Measurable or non-measurable disease as per Response Evaluation Criteria in Solid Tumors (RECIST).\n* Disease progression during or after treatment with trastuzumab and taxanes.\n* Maximum of 1 previous chemotherapy line for advanced or metastatic disease.\n* Previous radiotherapy is allowed if radiated area is not the only documented lesion.\n* At least 4 weeks since the last administration of antineoplastic treatment and all toxicities resolved.\n* Performance status Eastern Cooperative Oncology Group (ECOG) \\>=2.\n* Life expectancy of at least 12 weeks.\n* Left Ventricular Ejection Fraction (LVEF) evaluation (\\>=50%) in previous 4 weeks.\n* Hematology:\n\n  * neutrophils \\>=1.5 x 10e9/l;\n  * platelets \\>= 100 x 10e9/l;\n  * hemoglobin \\>= 10 mg/dl\n* Hepatic function:\n\n  * total bilirubin \\<= 1.5 x under normal limit (UNL);\n  * Aspartate aminotransferase (SGOT) and Alanine aminotransferase (SGPT) and alkaline phosphatase \\<= 2.5 x UNL, or \\<=5 x UNL if hepatic lesions present\n* Renal function:\n\n  * creatinine \\<= 175 \u00b5mol/l (2 mg/dl);\n  * creatinine clearance \\>= 60 ml/min.\n* Patients able to comply with treatment and follow-up.\n* Negative pregnancy test in the previous 14 days. Adequate contraceptive method during treatment and up to 3 months after finalised.\n* Brain metastatic lesions are allowed provided all other criteria are met.\n* Male who met inclusion criteria are eligible.\n\nExclusion Criteria:\n\n* History of hypersensitivity to vinorelbine, trastuzumab, rat proteins or trastuzumab components.\n* History of dyspnea at rest, or chronic oxygen therapy required.\n* Active infection.\n* Second malignancy, except for cervical in situ carcinoma, basal skin carcinoma, adequately treated. Previous malignancies with a 5 year disease free survival are allowed.\n* Pregnant or lactating women.\n* Any other serious medical pathology, such as congestive heart failure, unstable angina, history of myocardial infarction during the previous year, uncontrolled hypertension or high risk arrhythmias.\n* History of neurological or psychiatric disorders, which could preclude the patients to free informed consent.\n* Active uncontrolled infection.\n* Active peptic ulcer, unstable diabetes mellitus.\n* Concomitant treatment with other investigational products. Participation in other clinical trials with a non-marketed drug in the 30 previous days before randomization.\n* Concomitant treatment with other therapy for cancer.",
+        "healthyVolunteers": false,
+        "sex": "FEMALE",
+        "minimumAge": "18 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Study Director",
+            "affiliation": "Hospital Clinic i Provincial",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Spanish Breast Cancer Research Group (GEICAM)",
+            "city": "San Sebasti\u00e1n de los Reyes",
+            "state": "Madrid",
+            "zip": "28700",
+            "country": "Spain",
+            "geoPoint": {
+              "lat": 40.55555,
+              "lon": -3.62733
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "Click here for more information about this study.",
+            "url": "http://www.geicam.org"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001943",
+            "term": "Breast Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D001941",
+            "term": "Breast Diseases"
+          },
+          {
+            "id": "D012871",
+            "term": "Skin Diseases"
+          },
+          {
+            "id": "D017437",
+            "term": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000077235",
+            "term": "Vinorelbine"
+          },
+          {
+            "id": "D000069287",
+            "term": "Capecitabine"
+          },
+          {
+            "id": "D000068878",
+            "term": "Trastuzumab"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D014748",
+            "term": "Vinca Alkaloids"
+          },
+          {
+            "id": "D046948",
+            "term": "Secologanin Tryptamine Alkaloids"
+          },
+          {
+            "id": "D026121",
+            "term": "Indole Alkaloids"
+          },
+          {
+            "id": "D000470",
+            "term": "Alkaloids"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          },
+          {
+            "id": "D007211",
+            "term": "Indoles"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D054836",
+            "term": "Indolizidines"
+          },
+          {
+            "id": "D007212",
+            "term": "Indolizines"
+          },
+          {
+            "id": "D003841",
+            "term": "Deoxycytidine"
+          },
+          {
+            "id": "D003562",
+            "term": "Cytidine"
+          },
+          {
+            "id": "D011741",
+            "term": "Pyrimidine Nucleosides"
+          },
+          {
+            "id": "D011743",
+            "term": "Pyrimidines"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D005472",
+            "term": "Fluorouracil"
+          },
+          {
+            "id": "D014498",
+            "term": "Uracil"
+          },
+          {
+            "id": "D011744",
+            "term": "Pyrimidinones"
+          },
+          {
+            "id": "D003853",
+            "term": "Deoxyribonucleosides"
+          },
+          {
+            "id": "D009705",
+            "term": "Nucleosides"
+          },
+          {
+            "id": "D009706",
+            "term": "Nucleic Acids, Nucleotides, and Nucleosides"
+          },
+          {
+            "id": "D061067",
+            "term": "Antibodies, Monoclonal, Humanized"
+          },
+          {
+            "id": "D000911",
+            "term": "Antibodies, Monoclonal"
+          },
+          {
+            "id": "D000906",
+            "term": "Antibodies"
+          },
+          {
+            "id": "D007136",
+            "term": "Immunoglobulins"
+          },
+          {
+            "id": "D007162",
+            "term": "Immunoproteins"
+          },
+          {
+            "id": "D001798",
+            "term": "Blood Proteins"
+          },
+          {
+            "id": "D011506",
+            "term": "Proteins"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D012712",
+            "term": "Serum Globulins"
+          },
+          {
+            "id": "D005916",
+            "term": "Globulins"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628771"
+}

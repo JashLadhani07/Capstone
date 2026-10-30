@@ -1,0 +1,361 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04630743",
+      "orgStudyIdInfo": {
+        "id": "Uni-Koeln-0917"
+      },
+      "organization": {
+        "fullName": "University of Cologne",
+        "class": "OTHER"
+      },
+      "briefTitle": "Cognitive and Behavioral Intervention for the Management of Episodic Breathlessness in Patients With Advanced Disease",
+      "officialTitle": "Cognitive and Behavioral Intervention for the Management of Episodic Breathlessness in Patients With Advanced Disease: a Single-arm Therapeutic Exploratory Trial (Phase II)",
+      "acronym": "CoBeMEB"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-02-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-03-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-03-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-11-06",
+      "studyFirstSubmitQcDate": "2020-11-13",
+      "studyFirstPostDateStruct": {
+        "date": "2020-11-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-11-13",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-11-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Prof. Dr. Steffen Simon",
+        "investigatorTitle": "Prfessor Dr Steffen Simon MSc",
+        "investigatorAffiliation": "University of Cologne"
+      },
+      "leadSponsor": {
+        "name": "University of Cologne",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University Hospital of Cologne",
+          "class": "OTHER"
+        },
+        {
+          "name": "Bethanien Krankenhaus gGmbH",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Episodic breathlessness is a common and distressing symptom in patients with advanced disease such as cancer, chronic obstructive pulmonary disease (COPD) and chronic heart failure. Since the short duration of the majority of breathless episodes limits the effectiveness of pharmacological interventions (e.g. opioids), non-pharmacological management strategies play a major role. As non-pharmacological strategies patients use, for example, cognitive and behavioural methods such as breathing or relaxation techniques.\n\nThe aim of the study is to test a brief cognitive and behavioural intervention for an improved management of episodic breathlessness. Initially, a Delphi procedure with international experts has been used to develop the brief intervention consisting of various non-pharmacological strategies to enhance the management of breathless episodes.\n\nIn the single-arm therapeutic exploratory trial (phase II), the feasibility and potential effects of the brief intervention, such as patient-reported breathlessness mastery, episodic breathlessness characteristics, quality of life, symptom burden, caregivers' burden, and breathlessness in general will be examined. The results of the study form the basis for planning and implementing a subsequent confirmatory randomized control trial (phase III)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Dyspnea",
+        "Respiratory Insufficiency",
+        "Neoplasms",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Lung Diseases",
+        "Heart Failure",
+        "Lung Diseases, Interstitial",
+        "Palliative Care",
+        "Palliative Medicine",
+        "Breathlessness"
+      ],
+      "keywords": [
+        "Clinical Trial",
+        "Phase II",
+        "Cognitive Behavioral Therapy",
+        "Feasibility Studies"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "single-arm therapeutic exploratory trial",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 49,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Cognitive and Behavioral Intervention",
+          "type": "OTHER",
+          "description": "Non-pharmacological strategies for the Management of episodic breathlessness",
+          "interventionNames": [
+            "Behavioral: Cognitive and Behavioral intervention for the Management of Episodic Breathlessness"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Cognitive and Behavioral intervention for the Management of Episodic Breathlessness",
+          "description": "The cognitive and behavioral brief intervention comprises two parts: In a first module, the intervention and the study team is introduced, the definition of episodic breathlessness is given and the individual characteristics of breathlessness episodes are recorded. Goals of the intervention are discussed. In a subsequent module on patient education and the strategies, the patient and intervention executor discuss the patients' assumptions about episodic breathlessness including triggers and already used management strategies for breathlessness episodes. This follows the presentation of the non-pharmacological strategies: movement of air/ handheld fan, forward lean, diaphragmatic breathing, distraction, pursed lips breathing, long breaths out and relaxation training. The patient selects 2-3 strategies and trains them with the intervention executor.",
+          "armGroupLabels": [
+            "Cognitive and Behavioral Intervention"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Enrollment rate (Feasibility)",
+          "description": "Ratio of patients screened and patients that signed informed consent",
+          "timeFrame": "week 6"
+        },
+        {
+          "measure": "Study completion rate (Feasibility)",
+          "description": "Ratio of patients who signed the informed consent and filled out the final assessment",
+          "timeFrame": "week 6"
+        },
+        {
+          "measure": "Drop Outs (Feasibility)",
+          "description": "Withdrawal from the study at specific date (e.g. Intervention, refresher, Outcome at week 2/4/6)",
+          "timeFrame": "week 6"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Occurence of side-effects due to the brief cognitive and behavioral Intervention (Safety)",
+          "description": "closed-ended question (yes/no)",
+          "timeFrame": "week 6"
+        },
+        {
+          "measure": "Occurence of adverse events due to the brief cognitive and behavioral Intervention (Safety)",
+          "description": "closed-ended Question (yes/no)",
+          "timeFrame": "week 6"
+        },
+        {
+          "measure": "Occurence of adverse events due to the study procedure (Safety)",
+          "description": "closed-ended Question (yes/no)",
+          "timeFrame": "week 6"
+        },
+        {
+          "measure": "Satisfaction with the brief cognitive and behavioral intervention (Acceptability)",
+          "description": "closed-ended Questions",
+          "timeFrame": "week 6"
+        },
+        {
+          "measure": "Patients' experience with the Intervention and study procedure",
+          "description": "qualitative interview",
+          "timeFrame": "week 6"
+        },
+        {
+          "measure": "Potential effects of the brief cognitive and behavioral Intervention on Depression",
+          "description": "Hospital Anxiety and Depression Scale: the Depression Subscale (the higher the score, the worse the outcome)",
+          "timeFrame": "week 2, 4 and 6"
+        },
+        {
+          "measure": "Potential effects of the brief cognitive and behavioral Intervention on Anxiety",
+          "description": "Hospital Anxiety and Depression Scale: the Anxiety Subscale (the higher the score, the worse the outcome)",
+          "timeFrame": "week 2, 4 and 6"
+        },
+        {
+          "measure": "Potential effects of the brief cognitive and behavioral Intervention on breathlessness mastery",
+          "description": "Mastery Domain of the Chronic Respiratory Questionnaire (the higher the score, the better the outcome)",
+          "timeFrame": "week 2, 4 and 6"
+        },
+        {
+          "measure": "Potential effects of the brief cognitive and behavioral Intervention on Quality of Life",
+          "description": "Chronic Respiratory Questionnaire (the higher the score, the better the outcome)",
+          "timeFrame": "week 2, 4 and 6"
+        },
+        {
+          "measure": "Potential effects of the brief cognitive and behavioral Intervention on Palliative Care needs",
+          "description": "Integrated Palliative Care Outcome Scale (the higher the score, the worse the outcome)",
+          "timeFrame": "week 2, 4 and 6"
+        },
+        {
+          "measure": "Potential effects of the brief cognitive and behavioral Intervention on catastrophizing thoughts concerning dyspnea",
+          "description": "Dyspnea catastrophizing scale (the higher the score, the worse the outcome)",
+          "timeFrame": "week 2, 4 and 6"
+        },
+        {
+          "measure": "Informal caregivers' burdens while caring for breathlessness patients",
+          "description": "Zarid Burden Interview (the higher the score, the worse the Outcome)",
+          "timeFrame": "week 2, 4 and 6"
+        },
+        {
+          "measure": "Informal caregivers' experience with Intervention and study procedure",
+          "description": "qualitative interview",
+          "timeFrame": "week 6"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* In- and outpatients of the participating centers with episodic breathlessness due to a life-limiting progressive disease\n* Recurrent breathlessness episodes despite optimal treatment of the underlying disease\n* Eastern Cooperative Oncology Group (ECOG) status 0-3\n* Estimated life-expectancy should be at least 8 weeks as judged by the treating physician\n* Ability to understand, read, and respond to German language\n* Informed consent\n\nExclusion Criteria:\n\n* Episodic breathlessness due to reversible and treatable causes, such as acute pneumonia, pulmonary embolism, chronic hyperventilation syndrome, asthma or other reversible or unknown cause\n* Cognitive impairment\n* Severe current health impairments that do not allow participation after clinical evaluation by the treating physician",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Steffen Simon, Prof., M.Sc.",
+          "affiliation": "Center of palliative medicine",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University Hospital of Cologne",
+          "city": "Cologne",
+          "state": "North Rhine-Westphalia",
+          "zip": "50937",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.93333,
+            "lon": 6.95
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004417",
+          "term": "Dyspnea"
+        },
+        {
+          "id": "D012131",
+          "term": "Respiratory Insufficiency"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D029424",
+          "term": "Pulmonary Disease, Chronic Obstructive"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D006333",
+          "term": "Heart Failure"
+        },
+        {
+          "id": "D017563",
+          "term": "Lung Diseases, Interstitial"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012120",
+          "term": "Respiration Disorders"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D012818",
+          "term": "Signs and Symptoms, Respiratory"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D008173",
+          "term": "Lung Diseases, Obstructive"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001521",
+          "term": "Behavior Therapy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011613",
+          "term": "Psychotherapy"
+        },
+        {
+          "id": "D004191",
+          "term": "Behavioral Disciplines and Activities"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,412 @@
+{
+  "nct_id": "NCT02817152",
+  "title": "Low-level Laser Therapy in the Treatment of Chronic Periodontitis in Type 2 Diabetics: Split-mouth Double-blind Randomized Clinical Trial",
+  "sponsor": "Universidade Estadual Paulista J\u00falio de Mesquita Filho",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Chronic Periodontitis",
+    "Diabetes Mellitus"
+  ],
+  "interventions": [
+    "Periodontal ultrasonic debridement",
+    "Debridement plus low-level laser therapy"
+  ],
+  "primary_outcome": "Probing depth change from baseline to 30, 90, and 180 days through periodontal probing",
+  "secondary_outcomes": [
+    "Clinical attachment level change from baseline to 30, 90, and 180 days through periodontal probing",
+    "Gingival recession change from baseline to 30, 90, and 180 days through periodontal probing",
+    "Bleeding on probing change from baseline to 30, 90, and 180 days through periodontal probing",
+    "Plaque index change from baseline to 30, 90, and 180 days through periodontal probing"
+  ],
+  "start_date": "2014-02",
+  "completion_date": "2015-09",
+  "results_posted": false,
+  "enrollment": 20,
+  "protocol_amendments": [
+    {
+      "date": "N\u00eddia Cristina Castro dos Santos, DDS, MS, Universidade Estadual Paulista J\u00falio de Mesquita Filho",
+      "description": "{'unpostedResponsibleParty': 'N\u00eddia Cristina Castro dos Santos, DDS, MS, Universidade Estadual Paulista J\u00falio de Mesquita Filho', 'unpostedEvents': [{'type': 'RELEASE', 'date': '2016-11-30'}, {'type': 'RESET', 'date': '2017-01-24'}, {'type': 'RELEASE', 'date': '2017-01-25'}, {'type': 'RESET', 'date': '2017-03-14'}, {'type': 'RELEASE', 'date': '2019-04-22'}, {'type': 'RESET', 'date': '2019-05-13'}]}"
+    }
+  ],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02817152",
+        "orgStudyIdInfo": {
+          "id": "NCSlaser"
+        },
+        "organization": {
+          "fullName": "Universidade Estadual Paulista J\u00falio de Mesquita Filho",
+          "class": "OTHER"
+        },
+        "briefTitle": "Low-level Laser Therapy in the Treatment of Chronic Periodontitis in Type 2 Diabetics",
+        "officialTitle": "Low-level Laser Therapy in the Treatment of Chronic Periodontitis in Type 2 Diabetics: Split-mouth Double-blind Randomized Clinical Trial"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2016-07",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2014-02"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2015-09",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2015-09",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2016-06-10",
+        "studyFirstSubmitQcDate": "2016-06-28",
+        "studyFirstPostDateStruct": {
+          "date": "2016-06-29",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2016-07-08",
+        "lastUpdatePostDateStruct": {
+          "date": "2016-07-12",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "N\u00eddia Cristina Castro dos Santos",
+          "investigatorTitle": "DDS, MS",
+          "investigatorAffiliation": "Universidade Estadual Paulista J\u00falio de Mesquita Filho"
+        },
+        "leadSponsor": {
+          "name": "Universidade Estadual Paulista J\u00falio de Mesquita Filho",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior.",
+            "class": "OTHER_GOV"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The aim of this study was to investigate the local effect of adjunct low-level laser therapy (LLLT) for the treatment of moderate to severe chronic periodontitis in type 2 diabetic patients.",
+        "detailedDescription": "The aim of this study was to investigate the local effect of adjunct low-level laser therapy (LLLT) for the treatment of moderate to severe chronic periodontitis in type 2 diabetic patients. Twenty poorly-controlled type 2 diabetic patients with moderate to severe generalized chronic periodontitis were selected. Two periodontal pockets with Probing Depth (PD) and Clinical Attachment Level (CAL) \u2265 5mm received ultrasonic periodontal debridement (UPD) only (control group) or UPD with LLLT (test group). Clinical measures, such as PD, CAL, Gingival Recession (GR), Bleeding on Probing (BoP), and Plaque Index (PI), were collected and compared at baseline, 30, 90, and 180 days. The adjunct application of LLLT to UPD had no additional benefits for PD reduction and CAL gain, meaning that both investigated therapies were efficient for the treatment of chronic periodontitis in type 2 diabetics. Nevertheless, additional LLLT application showed better results for GR then UPD only."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Chronic Periodontitis",
+          "Diabetes Mellitus"
+        ],
+        "keywords": [
+          "periodontal treatment",
+          "low-level light therapy"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "whoMasked": [
+              "INVESTIGATOR",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 20,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Periodontal ultrasonic debridement",
+            "type": "SHAM_COMPARATOR",
+            "description": "Periodontal pockets received ultrasonic periodontal debridement intervention.",
+            "interventionNames": [
+              "Procedure: Periodontal ultrasonic debridement"
+            ]
+          },
+          {
+            "label": "Low-level laser therapy",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Periodontal pockets received ultrasonic periodontal debridement plus low-level laser therapy intervention.",
+            "interventionNames": [
+              "Procedure: Periodontal ultrasonic debridement",
+              "Device: Debridement plus low-level laser therapy"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Periodontal ultrasonic debridement",
+            "description": "Periodontal pockets received periodontal ultrasonic debridement intervention.",
+            "armGroupLabels": [
+              "Low-level laser therapy",
+              "Periodontal ultrasonic debridement"
+            ],
+            "otherNames": [
+              "periodontal debridement",
+              "ultrasonic debridement"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Debridement plus low-level laser therapy",
+            "description": "Ultrasonic debridement plus low-level laser therapy.",
+            "armGroupLabels": [
+              "Low-level laser therapy"
+            ],
+            "otherNames": [
+              "low-level light therapy",
+              "low-power laser therapy",
+              "low-intensity laser therapy"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Probing depth change from baseline to 30, 90, and 180 days through periodontal probing",
+            "timeFrame": "baseline, 30 days, 90 days, 180 days"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Clinical attachment level change from baseline to 30, 90, and 180 days through periodontal probing",
+            "timeFrame": "baseline, 30 days, 90 days, 180 days"
+          },
+          {
+            "measure": "Gingival recession change from baseline to 30, 90, and 180 days through periodontal probing",
+            "timeFrame": "baseline, 30 days, 90 days, 180 days"
+          },
+          {
+            "measure": "Bleeding on probing change from baseline to 30, 90, and 180 days through periodontal probing",
+            "timeFrame": "baseline, 30 days, 90 days, 180 days"
+          },
+          {
+            "measure": "Plaque index change from baseline to 30, 90, and 180 days through periodontal probing",
+            "timeFrame": "baseline, 30 days, 90 days, 180 days"
+          }
+        ],
+        "otherOutcomes": [
+          {
+            "measure": "Glycated hemoglobin",
+            "timeFrame": "Baseline, 180 days"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* age \u2265 35; diagnosis of type 2 diabetes for \u2265 5 years; diabetes treatment with oral hypoglycemic agents or insulin supplementation and diet; glycated hemoglobin (HbA1c) levels from 6.5% to 11%; at least 15 teeth (excluding third molars and teeth indicated for extraction); and moderate to severe generalized chronic periodontitis.\n\nExclusion Criteria:\n\n* The exclusion criteria were: medical conditions that required prophylactic antimicrobial coverage; periodontal mechanical therapy in the previous 6 months; antimicrobial therapies in the previous 6 months; anti-inflammatory therapies in the previous 6 months; systemic conditions other than diabetes that could affect the progression of chronic periodontitis; current use of medication that could interfere with periodontal response to treatment; pregnancy or lactation; and smoking.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "35 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Mauro P Santamaria, DDS, MS, PhD",
+            "affiliation": "UPECLIN HC FM Botucatu Unesp",
+            "role": "STUDY_DIRECTOR"
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "20932157",
+            "type": "RESULT",
+            "citation": "Aykol G, Baser U, Maden I, Kazak Z, Onan U, Tanrikulu-Kucuk S, Ademoglu E, Issever H, Yalcin F. The effect of low-level laser therapy as an adjunct to non-surgical periodontal treatment. J Periodontol. 2011 Mar;82(3):481-8. doi: 10.1902/jop.2010.100195. Epub 2010 Oct 8."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED"
+      }
+    },
+    "annotationSection": {
+      "annotationModule": {
+        "unpostedAnnotation": {
+          "unpostedResponsibleParty": "N\u00eddia Cristina Castro dos Santos, DDS, MS, Universidade Estadual Paulista J\u00falio de Mesquita Filho",
+          "unpostedEvents": [
+            {
+              "type": "RELEASE",
+              "date": "2016-11-30"
+            },
+            {
+              "type": "RESET",
+              "date": "2017-01-24"
+            },
+            {
+              "type": "RELEASE",
+              "date": "2017-01-25"
+            },
+            {
+              "type": "RESET",
+              "date": "2017-03-14"
+            },
+            {
+              "type": "RELEASE",
+              "date": "2019-04-22"
+            },
+            {
+              "type": "RESET",
+              "date": "2019-05-13"
+            }
+          ]
+        }
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29",
+        "submissionTracking": {
+          "estimatedResultsFirstSubmitDate": "2016-11-30",
+          "submissionInfos": [
+            {
+              "releaseDate": "2016-11-30",
+              "resetDate": "2017-01-24"
+            },
+            {
+              "releaseDate": "2017-01-25",
+              "resetDate": "2017-03-14"
+            },
+            {
+              "releaseDate": "2019-04-22",
+              "resetDate": "2019-05-13"
+            }
+          ]
+        }
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D055113",
+            "term": "Chronic Periodontitis"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D010518",
+            "term": "Periodontitis"
+          },
+          {
+            "id": "D010510",
+            "term": "Periodontal Diseases"
+          },
+          {
+            "id": "D009059",
+            "term": "Mouth Diseases"
+          },
+          {
+            "id": "D009057",
+            "term": "Stomatognathic Diseases"
+          },
+          {
+            "id": "D002908",
+            "term": "Chronic Disease"
+          },
+          {
+            "id": "D020969",
+            "term": "Disease Attributes"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D057747",
+            "term": "Periodontal Debridement"
+          },
+          {
+            "id": "D003646",
+            "term": "Debridement"
+          },
+          {
+            "id": "D028022",
+            "term": "Low-Level Light Therapy"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003777",
+            "term": "Dental Prophylaxis"
+          },
+          {
+            "id": "D010517",
+            "term": "Periodontics"
+          },
+          {
+            "id": "D003813",
+            "term": "Dentistry"
+          },
+          {
+            "id": "D013514",
+            "term": "Surgical Procedures, Operative"
+          },
+          {
+            "id": "D053685",
+            "term": "Laser Therapy"
+          },
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          },
+          {
+            "id": "D010789",
+            "term": "Phototherapy"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718648"
+}

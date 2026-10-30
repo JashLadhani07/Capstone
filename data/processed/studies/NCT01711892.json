@@ -1,0 +1,366 @@
+{
+  "nct_id": "NCT01711892",
+  "title": "A Randomized Controlled Clinical Trial on the Effects of Recreational Soccer Training in Men With Prostate Cancer Receiving Androgen Deprivation Therapy: The FC Prostate Study",
+  "sponsor": "University of Copenhagen",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Prostatic Neoplasms",
+    "Exercise",
+    "Soccer Training",
+    "Androgen Deprivation Therapy"
+  ],
+  "interventions": [
+    "Soccer training"
+  ],
+  "primary_outcome": "Baseline to post intervention (12 weeks) and follow-up (32 weeks) change in Body Composition.",
+  "secondary_outcomes": [
+    "Bone Mineral Density",
+    "Cardiorespiratory fitness (Vo2 peak)",
+    "Patient reported outcomes",
+    "Heart function",
+    "Glucose tolerance",
+    "Postural Balance",
+    "Physical function",
+    "Hip to waist ratio",
+    "Muscle Strength",
+    "Blood markers"
+  ],
+  "start_date": "2012-03",
+  "completion_date": "2013-12",
+  "results_posted": false,
+  "enrollment": 57,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01711892",
+        "orgStudyIdInfo": {
+          "id": "CIRE-04"
+        },
+        "organization": {
+          "fullName": "University of Copenhagen",
+          "class": "OTHER"
+        },
+        "briefTitle": "Health Effects of Soccer Training in Men With Prostate Cancer Receiving Androgen Deprivation Therapy",
+        "officialTitle": "A Randomized Controlled Clinical Trial on the Effects of Recreational Soccer Training in Men With Prostate Cancer Receiving Androgen Deprivation Therapy: The FC Prostate Study"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2014-04",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2012-03"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2013-12",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2013-12",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2012-10-17",
+        "studyFirstSubmitQcDate": "2012-10-18",
+        "studyFirstPostDateStruct": {
+          "date": "2012-10-22",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2014-04-16",
+        "lastUpdatePostDateStruct": {
+          "date": "2014-04-21",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Jacob Uth",
+          "investigatorTitle": "Project manager, Ph.d student, Master of Health Science",
+          "investigatorAffiliation": "University of Copenhagen"
+        },
+        "leadSponsor": {
+          "name": "University of Copenhagen",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Danish Cancer Society",
+            "class": "OTHER"
+          },
+          {
+            "name": "Novo Nordisk A/S",
+            "class": "INDUSTRY"
+          },
+          {
+            "name": "TrygFonden, Denmark",
+            "class": "INDUSTRY"
+          },
+          {
+            "name": "Beckett Foundation",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "Androgen Deprivation Therapy (ADT) is standard treatment for locally advanced or advanced Prostate Cancer (PC).\n\nThe musculoskeletal toxicity associated with ADT is well established, leading to a decrease in muscle mass, increased fat percentage, weight gain, sexual dysfunction and increased risk of depression, fatigue, diabetes, cardiovascular disease and reduced quality of life.\n\nNumerous studies have shown an association between physical activity, physical capacity and quality of life in cancer patients and recent epidemiological research suggest that regular, moderate-intensity physical activity may have a positive effect on survival in men with prostate cancer.\n\nWithin exercise physiology there is new evidence pointing to recreational soccer as a unique form of intermittent exercise that effectively stimulates aerobic and anaerobic energy delivery systems, leading to beneficial musculoskeletal, metabolic and cardiovascular adaptations of importance for health.\n\nIt is our overall hypothesis that 12 weeks of recreational soccer training 2-3 times per week will improve the health profile of PC patients receiving ADT treatment."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Prostatic Neoplasms",
+          "Exercise",
+          "Soccer Training",
+          "Androgen Deprivation Therapy"
+        ],
+        "keywords": [
+          "Prostatic Neoplasms",
+          "Prostate Cancer",
+          "Exercise",
+          "Soccer",
+          "Androgen Deprivation Therapy",
+          "Body Composition",
+          "Cardiovascular fitness",
+          "Bone Health",
+          "Health Related Quality of Life"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "SUPPORTIVE_CARE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 57,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Soccer Training",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "12 weeks of soccer training. (2 times per week for the first 8 weeks and 3 times per week in the last 4 weeks. Training will consist of 15 minutes warm-up and 2 x 15 minutes matches for the first 4 weeks and of 15 minutes warm-up and 3 x 15 minutes matches for the last 8 weeks). After 12 weeks assessments participants in the intervention group will continue bi-weekly supervised training for additional 20 weeks at the end of which tests will be repeated.",
+            "interventionNames": [
+              "Behavioral: Soccer training"
+            ]
+          },
+          {
+            "label": "Control group",
+            "type": "NO_INTERVENTION",
+            "description": "Usual care"
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Soccer training",
+            "armGroupLabels": [
+              "Soccer Training"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Baseline to post intervention (12 weeks) and follow-up (32 weeks) change in Body Composition.",
+            "description": "Changes in body composition assessed by Dual-energy X-ray absorptiometry(DXA)scan",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Bone Mineral Density",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Cardiorespiratory fitness (Vo2 peak)",
+            "description": "Change in maximal oxygen consumption (Vo2 peak) assessed directly during an incremental test on a cycle ergometer from baseline to post-intervention (12 weeks) and follow-up (32 weeks).",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Patient reported outcomes",
+            "description": "Changes in Psychological distress (Hospital Anxiety and Depression Scale, HADS), Quality of Life (EORTC QLQ C-30), general well-being (SF-36), disease specific symptoms and side-effects (EORTC PR-25)from baseline to post-intervention (12 weeks) and follow-up (32 weeks)",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Heart function",
+            "description": "Changes in Heart function measured by Echocardiography from baseline to post-intervention (12 weeks) and follow-up (32 weeks)",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Glucose tolerance",
+            "description": "Oral Glucose Tolerance Test",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Postural Balance",
+            "description": "Assessed standing on a force platform with feet in bilateral, unilateral and tandem position. Additionally assessed with a modified Flamingo balance test.",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Physical function",
+            "description": "Physical function will be assessed with sit to stand test (30s), stair climbing test and Counter Movement Jump (jump height)",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Hip to waist ratio",
+            "description": "Hip and waist circumference will be measured and the hip to waist ratio will be calculated",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Muscle Strength",
+            "description": "Muscle strength will be assessed with the 1Repetition Maximum test for knee extensors",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          },
+          {
+            "measure": "Blood markers",
+            "description": "Markers of inflammation and bone metabolism will be obtained after overnight fasting",
+            "timeFrame": "Change from baseline to post intervention (12 weeks) and follow-up (32 weeks)"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n\\- Patients with locally advanced or advanced prostate cancer being treated with androgen deprivation therapy (S-testosterone \\< 1.7) for at least 6 months at the time of inclusion\n\nExclusion Criteria:\n\n* WHO performance level above 1,symptomatic cardiovascular disorders, osteoporosis (T-score below -2.5)",
+        "healthyVolunteers": false,
+        "sex": "MALE",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Mikael R\u00f8rth, Professor",
+            "affiliation": "University of Copenhagen",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of Copenhagen, Centre of Integrated Rehabilitation of Cancer Patients",
+            "city": "Copenhagen",
+            "state": "Copenhagen",
+            "zip": "2100",
+            "country": "Denmark",
+            "geoPoint": {
+              "lat": 55.67594,
+              "lon": 12.56553
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "26620651",
+            "type": "DERIVED",
+            "citation": "Uth J, Hornstrup T, Christensen JF, Christensen KB, Jorgensen NR, Helge EW, Schmidt JF, Brasso K, Helge JW, Jakobsen MD, Andersen LL, Rorth M, Midtgaard J, Krustrup P. Football training in men with prostate cancer undergoing androgen deprivation therapy: activity profile and short-term skeletal and postural balance adaptations. Eur J Appl Physiol. 2016 Mar;116(3):471-80. doi: 10.1007/s00421-015-3301-y. Epub 2015 Nov 30."
+          },
+          {
+            "pmid": "26572756",
+            "type": "DERIVED",
+            "citation": "Uth J, Hornstrup T, Christensen JF, Christensen KB, Jorgensen NR, Schmidt JF, Brasso K, Jakobsen MD, Sundstrup E, Andersen LL, Rorth M, Midtgaard J, Krustrup P, Helge EW. Efficacy of recreational football on bone health, body composition, and physical functioning in men with prostate cancer undergoing androgen deprivation therapy: 32-week follow-up of the FC prostate randomised controlled trial. Osteoporos Int. 2016 Apr;27(4):1507-1518. doi: 10.1007/s00198-015-3399-0. Epub 2015 Nov 16."
+          },
+          {
+            "pmid": "24944135",
+            "type": "DERIVED",
+            "citation": "Bruun DM, Krustrup P, Hornstrup T, Uth J, Brasso K, Rorth M, Christensen JF, Midtgaard J. \"All boys and men can play football\": a qualitative investigation of recreational football in prostate cancer patients. Scand J Med Sci Sports. 2014 Aug;24 Suppl 1:113-21. doi: 10.1111/sms.12193."
+          },
+          {
+            "pmid": "24944134",
+            "type": "DERIVED",
+            "citation": "Uth J, Hornstrup T, Schmidt JF, Christensen JF, Frandsen C, Christensen KB, Helge EW, Brasso K, Rorth M, Midtgaard J, Krustrup P. Football training improves lean body mass in men with prostate cancer undergoing androgen deprivation therapy. Scand J Med Sci Sports. 2014 Aug;24 Suppl 1:105-12. doi: 10.1111/sms.12260."
+          },
+          {
+            "pmid": "24944128",
+            "type": "DERIVED",
+            "citation": "Krustrup P, Hansen PR, Nielsen CM, Larsen MN, Randers MB, Manniche V, Hansen L, Dvorak J, Bangsbo J. Structural and functional cardiac adaptations to a 10-week school-based football intervention for 9-10-year-old children. Scand J Med Sci Sports. 2014 Aug;24 Suppl 1:4-9. doi: 10.1111/sms.12277."
+          },
+          {
+            "pmid": "24330570",
+            "type": "DERIVED",
+            "citation": "Uth J, Schmidt JF, Christensen JF, Hornstrup T, Andersen LJ, Hansen PR, Christensen KB, Andersen LL, Helge EW, Brasso K, Rorth M, Krustrup P, Midtgaard J. Effects of recreational soccer in men with prostate cancer undergoing androgen deprivation therapy: study protocol for the 'FC Prostate' randomized controlled trial. BMC Cancer. 2013 Dec 13;13:595. doi: 10.1186/1471-2407-13-595."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D011471",
+            "term": "Prostatic Neoplasms"
+          },
+          {
+            "id": "D009043",
+            "term": "Motor Activity"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D005834",
+            "term": "Genital Neoplasms, Male"
+          },
+          {
+            "id": "D014565",
+            "term": "Urogenital Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D005832",
+            "term": "Genital Diseases, Male"
+          },
+          {
+            "id": "D000091662",
+            "term": "Genital Diseases"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D011469",
+            "term": "Prostatic Diseases"
+          },
+          {
+            "id": "D052801",
+            "term": "Male Urogenital Diseases"
+          },
+          {
+            "id": "D001519",
+            "term": "Behavior"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792231"
+}

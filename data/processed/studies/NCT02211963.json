@@ -1,0 +1,311 @@
+{
+  "nct_id": "NCT02211963",
+  "title": "Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Four Multiple Rising Oral Doses (50-800 mg b.i.d. or q.d. for 8 Days) of BI 44847 as Tablet in Female and Male Patients With Type 2 Diabetes",
+  "sponsor": "Boehringer Ingelheim",
+  "phase": "PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Diabetes Mellitus, Type 2"
+  ],
+  "interventions": [
+    "BI 44847",
+    "Placebo"
+  ],
+  "primary_outcome": "Number of patients with adverse events",
+  "secondary_outcomes": [
+    "Maximum concentration of the analyte in plasma for several time points (Cmax)",
+    "Time from dosing to maximum concentration for several time points (tmax)",
+    "Terminal half-life of the analyte in plasma for several time points (t1/2)",
+    "Terminal rate constant in plasma for several time points (\u03bbz)",
+    "Concentration of analyte in plasma for several time points",
+    "Area under the concentration-time curve of the analyte in plasma for several time points (AUC)",
+    "Amount of analyte that is eliminated in urine for several time points (Ae)",
+    "Fraction of analyte excreted unchanged in urine for several time points (fe)",
+    "Renal clearance of the analyte in plasma for several time points (CLR)",
+    "Apparent clearance of the analyte in the plasma for several time points (CL/F)",
+    "Apparent volume of distribution during the terminal phase \u03bbz following an extravascular dose for several time points (Vz/F)",
+    "Cmin,ss (minimum measured concentration of the analyte in plasma at steady state over a uniform dosing interval)",
+    "tmin,ss (time from dosing to minimum concentration during a dosing interval)",
+    "Predose concentration of the analyte in plasma at steady state immediately before administration of the next dose for several time points",
+    "MRTpo,ss (mean residence time of the analyte in the body after 11 administrations (b.i.d.) and 6 administrations (q.d.) respectively, at steady state)",
+    "Cavg (average concentration)",
+    "PTF (peak trough fluctuation)",
+    "Accumulation ratio (RA) based on Cmax",
+    "Accumulation ratio (RA) based on AUC",
+    "Plasma glucose levels",
+    "Amount of glucose excreted in urine"
+  ],
+  "start_date": "2007-02",
+  "completion_date": "2007-06",
+  "results_posted": false,
+  "enrollment": 48,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02211963",
+        "orgStudyIdInfo": {
+          "id": "1224.3"
+        },
+        "organization": {
+          "fullName": "Boehringer Ingelheim",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Multiple Rising Oral Doses of BI 44847 in Female and Male Patients With Type 2 Diabetes",
+        "officialTitle": "Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Four Multiple Rising Oral Doses (50-800 mg b.i.d. or q.d. for 8 Days) of BI 44847 as Tablet in Female and Male Patients With Type 2 Diabetes"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2014-08",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2007-02"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2007-06",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2014-08-07",
+        "studyFirstSubmitQcDate": "2014-08-07",
+        "studyFirstPostDateStruct": {
+          "date": "2014-08-08",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2014-08-12",
+        "lastUpdatePostDateStruct": {
+          "date": "2014-08-13",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Boehringer Ingelheim",
+          "class": "INDUSTRY"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "Study to investigate the safety, tolerability, pharmacokinetics, and pharmacodynamics of BI 44847 following administration of multiple rising oral doses over 8 days in patients with type 2 diabetes."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus, Type 2"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 48,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "BI 44847",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Drug: BI 44847"
+            ]
+          },
+          {
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "interventionNames": [
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "BI 44847",
+            "armGroupLabels": [
+              "BI 44847"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo",
+            "armGroupLabels": [
+              "Placebo"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Number of patients with adverse events",
+            "timeFrame": "up to 53 days"
+          },
+          {
+            "measure": "Number of patients with clinically significant findings in vital signs (blood pressure (BP), pulse rate (PR))",
+            "timeFrame": "up to 18 days"
+          },
+          {
+            "measure": "Number of patients with clinically relevant findings in 12-lead electrocardiogram (ECG)",
+            "timeFrame": "up to 18 days"
+          },
+          {
+            "measure": "Number of patients with clinically relevant laboratory findings",
+            "timeFrame": "up to 18 days"
+          },
+          {
+            "measure": "Assessment of tolerability by investigator on a 4-point scale",
+            "timeFrame": "Day 18"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Maximum concentration of the analyte in plasma for several time points (Cmax)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Time from dosing to maximum concentration for several time points (tmax)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Terminal half-life of the analyte in plasma for several time points (t1/2)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Terminal rate constant in plasma for several time points (\u03bbz)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Concentration of analyte in plasma for several time points",
+            "timeFrame": "12 and 24 hours after drug administration on day 1 and 9"
+          },
+          {
+            "measure": "Area under the concentration-time curve of the analyte in plasma for several time points (AUC)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Amount of analyte that is eliminated in urine for several time points (Ae)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Fraction of analyte excreted unchanged in urine for several time points (fe)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Renal clearance of the analyte in plasma for several time points (CLR)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Apparent clearance of the analyte in the plasma for several time points (CL/F)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Apparent volume of distribution during the terminal phase \u03bbz following an extravascular dose for several time points (Vz/F)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Cmin,ss (minimum measured concentration of the analyte in plasma at steady state over a uniform dosing interval)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "tmin,ss (time from dosing to minimum concentration during a dosing interval)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Predose concentration of the analyte in plasma at steady state immediately before administration of the next dose for several time points",
+            "timeFrame": "up to day 9"
+          },
+          {
+            "measure": "MRTpo,ss (mean residence time of the analyte in the body after 11 administrations (b.i.d.) and 6 administrations (q.d.) respectively, at steady state)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Cavg (average concentration)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "PTF (peak trough fluctuation)",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Accumulation ratio (RA) based on Cmax",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Accumulation ratio (RA) based on AUC",
+            "timeFrame": "up to 72 hours after drug administration"
+          },
+          {
+            "measure": "Plasma glucose levels",
+            "timeFrame": "up to 15 hours after drug administration"
+          },
+          {
+            "measure": "Amount of glucose excreted in urine",
+            "timeFrame": "up to 72 hours after drug administration"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Male and postmenopausal or hysterectomised female patients with proven diagnose of type 2 diabetes mellitus treated with diet and exercise only or with one oral hypoglycaemic agents besides glitazones\n* Glycosylated haemoglobin A1 (HbA1c) \u2264 8.5 % at screening for patients treated with diet and exercise and/or one oral hypoglycaemic agent\n* Age \u226521 and Age \u226470 years (female hysterectomised and male patients) Age \u226560 and Age \u226470 years (female postmenopausal patients)\n* BMI \u226518.5 and BMI \u226435 kg/m2 (Body Mass Index)\n* Signed and dated written informed consent prior to admission to the study in accordance with Good Clinical Practice and the local legislation\n\nExclusion Criteria:\n\n* Any finding of the medical examination (including BP, PR and ECG) deviating from normal and of not acceptable clinical relevance\n* Clinically relevant concomitant diseases like renal insufficiency (creatinine clearance \\< 80 ml/min/173m\\*\\*2), cardiac insufficiency New York Heart Association II-IV, myocardial infarction, other known cardiovascular diseases including hypertension \\> 160/95mmHg, stroke and Transient ischemic attack\n* Gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic, immunological or hormonal disorders besides type 2 diabetes, hyperlipidaemia and medically treated hypertension\n* Diseases of the central nervous system (such as epilepsy) or psychiatric disorders or relevant neurological disorders besides polyneuropathy\n* Chronic or relevant acute infections (e.g. HIV, Hepatitis)\n* History of relevant allergy/hypersensitivity (including allergy to drug or its excipients\n* Intake of drugs with a long half-life (\\> 24 hours) within at least one month or less than 10 half-lives of the respective drug prior to administration or during the trial except allowed co-medication\n* Use of drugs and/or food which might reasonably influence the results of the trial based on the knowledge at the time of protocol preparation within 10 days prior to administration or during the trial\n* Antidiabetic treatment with more than one oral hypoglycaemic agent or insulin or glitazones\n* Participation in another trial with an investigational drug within two months prior to administration or during the trial\n* Smoker (\\> 10 cigarettes or \\> 3 cigars or \\> 3 pipes/day)\n* Inability to refrain from smoking on trial days\n* Alcohol abuse (more than 40 g/day = 5 units/day)\n* Drug abuse\n* Blood donation (more than 100 mL within four weeks prior to administration or during the trial)\n* Excessive physical activities (within one week prior to administration or during the trial)\n* Use of drugs which might reasonably influence the results of the trial or that prolong the QT/QTc interval based on the knowledge at the time of protocol preparation within 10 days prior to administration or during the trial\n* Any laboratory value outside the reference range and the clinical relevance is not acceptable (or the value is more than three times higher than the upper limit of the normal range e.g. liver enzymes)\n* Change of drug dosing of allowed co-medication (anti-hypertensive agents, acetylic salicylic acid and statins) within the last 3 months\n* Fasted blood glucose \\> 240 mg/dl (\\>13.3 mmol/L) on two consecutive days during washout\n* Serum creatinine above upper limit of normal at screening\n* Male patients not willing to use adequate contraception (condom use plus another form of contraception e.g. spermicide, oral contraceptive taken by female partner, sterilisation, intrauterine device) during the whole study period from the time of the first intake of study drug until one month after the last intake\n* A marked baseline prolongation of QT/QTc interval (e.g., repeated demonstration of a QTc interval \\>450 ms)\n* A history of additional risk factors for torsade de pointes (e.g., heart failure, hypokalemia, family history of Long QT Syndrome)\n\nFor female patients:\n\n* Child bearing potential without hysterectomy\n* Positive pregnancy test\n* Lactation period",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "21 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604506"
+}

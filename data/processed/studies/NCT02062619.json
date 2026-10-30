@@ -1,0 +1,346 @@
+{
+  "nct_id": "NCT02062619",
+  "title": "Brain Mechanisms Underlying Reading Improvement in Central Alexia",
+  "sponsor": "University College, London",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Stroke",
+    "Brain Injuries",
+    "Aphasia"
+  ],
+  "interventions": [
+    "Computer-based behavioural word reading therapy",
+    "Real tDCS",
+    "Sham tDCS"
+  ],
+  "primary_outcome": "Change in word reading speed and accuracy for trained and untrained words",
+  "secondary_outcomes": [
+    "Change in spoken word repetition for trained / untrained words",
+    "Change in semantic word matching for trained / untrained words"
+  ],
+  "start_date": "2014-03",
+  "completion_date": "2016-07",
+  "results_posted": false,
+  "enrollment": 23,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02062619",
+        "orgStudyIdInfo": {
+          "id": "MR/K022563/1"
+        },
+        "organization": {
+          "fullName": "University College, London",
+          "class": "OTHER"
+        },
+        "briefTitle": "Brain Mechanisms Underlying Reading Improvement in Central Alexia",
+        "officialTitle": "Brain Mechanisms Underlying Reading Improvement in Central Alexia"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2016-04",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2014-03"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2016-07",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2016-09",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2014-02-12",
+        "studyFirstSubmitQcDate": "2014-02-12",
+        "studyFirstPostDateStruct": {
+          "date": "2014-02-13",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2016-11-03",
+        "lastUpdatePostDateStruct": {
+          "date": "2016-11-04",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "University College, London",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "Central alexia is a common reading disorder caused by stroke. Patients with central alexia (CA) are slow to read and make frequent errors, and have additional problems with their spoken language.\n\nThis study has 3 aims:\n\n1. Investigating the neural networks that support reading in patients with CA Despite being a relatively common syndrome, there have been no functional brain imaging studies of CA. This project will use magnetic resonance imaging (MRI) and magnetoencephalography (MEG) to understand which brain regions are damaged and whether preserved parts of the reading network can be encouraged by therapy to support reading recovery.\n2. Testing a new treatment for CA The research team has developed training software called 'iReadMore', which uses a crossmodal approach (written words paired with spoken words) to train reading. This therapy has been shown to be effective in patients with a similar form of reading disorder called pure alexia. The iReadMore software will be adapted to address the reading deficit in CA, and the research will test whether it significantly improves reading ability.\n3. Using brain stimulation to enhance behavioural training Transcranial direct current stimulation (tDCS) is a brain stimulation technique that has been shown to improve language performance in healthy controls and stroke patients. This study will test whether tDCS (delivered simultaneously with the 'iReadMore' therapy) significantly enhances reading rehabilitation. Patients will be split into two groups: one will receive a 4 week block of training plus real tDCS first, followed by a 4 week block of training plus sham tDCS\u037e the other group will receive the two therapy blocks in the opposite order. Both groups will ultimately receive the same amount of behavioural therapy and tDCS stimulation. Comparing the reading improvement over the real and sham tDCS blocks will demonstrate whether tDCS enhances the behavioural improvements in reading ability.\n\nHypothesis:\n\niReadMore reading therapy will significantly improve single word reading speed in patients with central alexia.\n\ntDCS brain stimulation will significantly enhance the effect of iReadMore therapy, compared to sham stimulation.",
+        "detailedDescription": "Central alexia is a common acquired reading disorder usually caused by stroke (Leff \\& Behrmann, 2008). Patients also have generalized language impairments (aphasia), distinguishing it from other acquired reading disorders such as pure alexia, where the reading deficit occurs in isolation. Aphasia is the second most common severe impairment caused by stroke (limb weakness is the first) and reading problems (central alexia) are often associated with it. An analysis of our local database (from which we will be recruiting patients) shows that of the 212 patients with aphasia 14 (66.5%) have central alexia. The severity of central alexia varies across patients but even mild central alexia has a strong detrimental impact on quality of life, preventing patients from returning to work, communicating via email, text or post, or simply reading for pleasure.\n\nCurrently, there is no standard treatment for central alexia. Despite its prevalence, few patients receive sufficient reading therapy through the NHS. Only a few computer-based therapies have been tested at the group level (Katz \\& Wertz, 1997; Cherney, 2010) and only one, a beta version of Oral Reading for Language in Aphasia (by Cherney), is currently available commercially for patients to use. We aim to test the efficacy of 'iReadMore', software designed to improve word reading speed for use in this patient group.\n\niReadMore is a cross-modal reading training method that was developed as a word reading therapy for patients with pure alexia in a previous study (Woodhead et al, 2013). iReadMore consists of audio-visual pairings of words. It was designed to strengthen orthographic processing of written words by boot-strapping them to auditory percepts and associated higher-order representations (lexical/semantic). Use of the 'iReadMore' software led to a significant improvement in word reading speed for trained words and significantly decreased the word length effect that is characteristic of pure alexia (Woodhead et al, 2013).\n\nThe mechanisms underlying the behavioural improvements following iReadMore training were investigated using magnetoencephalography (MEG), an imaging modality optimized to test connectivity-based hypotheses in the hundred millisecond temporal range. Dynamic Causal Modelling (DCM) analyses were used to test training-related changes in connectivity within the reading network comprising. Training strengthened connectivity in the left hemisphere, most notably feedback from left inferior frontal gyrus (IFG) to the visual cortex, a connection which we have shown to be involved early on (within 200ms) when healthy controls read (Woodhead et al, 2012). This led to the hypothesis that feedback from the left IFG drives reading recovery, and that tDCS stimulation of this region, with its connections to both ventral and dorsal temporal cortex, will enhance behavioural training improvements in patients with central alexia.\n\nAlthough this previous research has focused on pure alexia, a recent pilot study has provided promising evidence that iReadMore may also be beneficial for patients with central alexia. The results demonstrated that iReadMore training and tDCS produced a large, statistically significant improvement of around 600ms per word, a 28% reduction from baseline levels. This effect was observed for both trained and untrained items. Training continued for a further two weeks with sham tDCS with no further significant improvement. A planned fourth tDCS time-point was lost due to patient illness. Although not statistically significant, we observed a trend with performance on untrained items appearing to deteriorate over time. This is in accord with evidence that tDCS may well have a role in consolidation of practice rather than a simple effect on performance alone (Reis et al, 2009).\n\nSummary:\n\nPilot data has demonstrated that cross-modal iReadMore training is effective in patients with pure alexia; and that its effects are supported by feedback from the left IFG. This work led to the prediction that iReadMore may also be effective in treating the more prevalent and understudied condition of central alexia, and that targeted stimulation of the left IFG with tDCS may enhance the training efficacy. This prediction has already been supported by a preliminary case study, and the present study will expand this further into a group study looking at the effects and mechanisms of rehabilitation of central alexia."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Stroke",
+          "Brain Injuries",
+          "Aphasia"
+        ],
+        "keywords": [
+          "Stroke",
+          "Aphasia",
+          "Acquired reading disorders",
+          "Central alexia",
+          "Computer based rehabilitation",
+          "Transcranial direct current stimulation",
+          "tDCS",
+          "Magnetoencephalography",
+          "MEG",
+          "Magnetic Resonance Imaging",
+          "MRI"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 23,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Real tDCS",
+            "type": "EXPERIMENTAL",
+            "description": "Transcranial direct current stimulation (tDCS) administered concurrently with computer-based behavioural word reading therapy.\n\n2mA anodal direct current stimulation applied to the left inferior frontal gyrus (IFG) for first 20 minutes of therapy.",
+            "interventionNames": [
+              "Behavioral: Computer-based behavioural word reading therapy",
+              "Other: Real tDCS"
+            ]
+          },
+          {
+            "label": "Sham tDCS",
+            "type": "SHAM_COMPARATOR",
+            "description": "Transcranial direct current stimulation (tDCS) administered concurrently with computer-based behavioural word reading therapy.\n\nSham tDCS (periodical fade-in and fade-out stimulation routine) applied to the left inferior frontal gyrus (IFG) for first 20 minutes of therapy.",
+            "interventionNames": [
+              "Behavioral: Computer-based behavioural word reading therapy",
+              "Other: Sham tDCS"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Computer-based behavioural word reading therapy",
+            "description": "Each patient participates in two blocks of reading training (one with real tDCS, one with sham tDCS). Different words will be trained in each training block.\n\nEach training block comprises 10 hours of reading therapy per week for four weeks (three 1-hour sessions/week at research site; 1-hour of training/day at home)",
+            "armGroupLabels": [
+              "Real tDCS",
+              "Sham tDCS"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Real tDCS",
+            "description": "Real tDCS 20 minutes per session, three times per week",
+            "armGroupLabels": [
+              "Real tDCS"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Sham tDCS",
+            "description": "Sham tDCS, 20 minutes per session, 3 sessions per week",
+            "armGroupLabels": [
+              "Sham tDCS"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change in word reading speed and accuracy for trained and untrained words",
+            "description": "Word reading speed and accuracy will be assessed at multiple time-points:\n\nT1, T2: baseline assessments.\n\nT3: following 1 month no training.\n\nT4: following 1 month of iReadMore training with real / sham tDCS (crossover design).\n\nT5: following 1 month of iReadMore training with sham / real tDCS (crossover allocation reversed).\n\nT6: follow-up assessment after 3 months with no training.\n\nPlanned comparisons:\n\nT3 vs \\[average of T1 and T2\\]: spontaneous improvement in reading ability\n\nT4 vs T3 / T5 vs T4: comparison of improvement following iReadMore with real/sham tDCS\n\nT6 vs T5: maintenance of therapy benefits at follow-up assessment.",
+            "timeFrame": "Baseline and up to 3 months follow-up"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change in spoken word repetition for trained / untrained words",
+            "description": "Accuracy of spoken word repetition for trained and untrained words will be assessed at T1-T6 and analysed using the same comparisons as word reading (primary outcome measure)",
+            "timeFrame": "Baseline and up to 3 months follow-up"
+          },
+          {
+            "measure": "Change in semantic word matching for trained / untrained words",
+            "description": "Reading for meaning (rather than reading aloud) will be assessed using a written word semantic matching task.\n\nSpeed and accuracy of semantic matching for trained and untrained words will be assessed at T1-T6 and analysed using the same comparisons as word reading (primary outcome measure)",
+            "timeFrame": "Baseline and up to 3 months follow-up"
+          }
+        ],
+        "otherOutcomes": [
+          {
+            "measure": "Change in effective connectivity within the neural network involved in reading",
+            "description": "Magnetoencephalography (MEG) will be used to investigate effective connectivity within the neural network involved in reading, using Dynamic Causal Modelling (DCM).\n\nPatients will be scanned immediately before the first block of therapy (T3) and again immediately after the first block of therapy (T4).\n\nA within-subjects comparison of effective connectivity at T3 vs T4 will identify changes resulting from the reading therapy.\n\nA between-subjects comparison of change in effective connectivity (T3 vs T4) between patients receiving real tDCS vs patients receiving sham tDCS during the first training block will identify changes resulting from the tDCS brain stimulation.",
+            "timeFrame": "Baseline and up to 3 months follow-up"
+          },
+          {
+            "measure": "Change in grey matter or white matter volume",
+            "description": "Structural magnetic resonance imaging (MRI) before and after therapy will be analysed using Voxel Based Morphometry (VBM) to identify changes in grey matter or white matter volume as a result of reading therapy.\n\nPatients will be scanned immediately before the first block of therapy (T3) and again immediately after the first block of therapy (T4).\n\nA within-subjects comparison of brain volume at T3 vs T4 will identify changes resulting from the reading therapy.\n\nA between-subjects comparison of change in brain volume (T3 vs T4) between patients receiving real tDCS vs patients receiving sham tDCS during the first training block will identify changes resulting from the tDCS brain stimulation.",
+            "timeFrame": "Baseline and up to 3 months follow-up"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Over 18 years old\n* Left hemisphere stroke or other focal brain injury\n* English as a first language\n* At least one year post stroke\n* Impaired reading ability (defined according to screening with the Comprehensive Aphasia Test, CAT)\n* Mild to moderate aphasia (defined according to screening with the CAT)\n* Competent to give informed consent\n\nExclusion Criteria:\n\n* Hemorrhagic stroke\n* History of significant premorbid neurological or psychiatric illness\n* History of developmental reading or speech and language disability\n* Severe speech production deficit (defined according to screening with the CAT)\n* Damage to tDCS target region (left inferior frontal gyrus)\n* Contraindications to MRI scanning (e.g. presence of ferromagnetic implants or other metallic or electronic objects in the body; weight over 24 stone; claustrophobia or pregnancy).",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Alex Leff, MBBS, PhD",
+            "affiliation": "University College, London",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Institute of Neurology, University College London",
+            "city": "London",
+            "zip": "WC1N 3AR",
+            "country": "United Kingdom",
+            "geoPoint": {
+              "lat": 51.50853,
+              "lon": -0.12574
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "31085605",
+            "type": "DERIVED",
+            "citation": "Kerry SJ, Aguilar OM, Penny W, Crinion JT, Leff AP, Woodhead ZVJ. How Does iReadMore Therapy Change the Reading Network of Patients with Central Alexia? J Neurosci. 2019 Jul 17;39(29):5719-5727. doi: 10.1523/JNEUROSCI.1426-18.2019. Epub 2019 May 13."
+          },
+          {
+            "pmid": "29912350",
+            "type": "DERIVED",
+            "citation": "Woodhead ZVJ, Kerry SJ, Aguilar OM, Ong YH, Hogan JS, Pappa K, Leff AP, Crinion JT. Randomized trial of iReadMore word reading training and brain stimulation in central alexia. Brain. 2018 Jul 1;141(7):2127-2141. doi: 10.1093/brain/awy138."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D020521",
+            "term": "Stroke"
+          },
+          {
+            "id": "D001930",
+            "term": "Brain Injuries"
+          },
+          {
+            "id": "D001037",
+            "term": "Aphasia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002561",
+            "term": "Cerebrovascular Disorders"
+          },
+          {
+            "id": "D001927",
+            "term": "Brain Diseases"
+          },
+          {
+            "id": "D002493",
+            "term": "Central Nervous System Diseases"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D006259",
+            "term": "Craniocerebral Trauma"
+          },
+          {
+            "id": "D020196",
+            "term": "Trauma, Nervous System"
+          },
+          {
+            "id": "D014947",
+            "term": "Wounds and Injuries"
+          },
+          {
+            "id": "D013064",
+            "term": "Speech Disorders"
+          },
+          {
+            "id": "D007806",
+            "term": "Language Disorders"
+          },
+          {
+            "id": "D003147",
+            "term": "Communication Disorders"
+          },
+          {
+            "id": "D019954",
+            "term": "Neurobehavioral Manifestations"
+          },
+          {
+            "id": "D009461",
+            "term": "Neurologic Manifestations"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792101"
+}

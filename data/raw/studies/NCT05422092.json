@@ -1,0 +1,253 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05422092",
+      "orgStudyIdInfo": {
+        "id": "21YXYJ0111"
+      },
+      "organization": {
+        "fullName": "First Affiliated Hospital Xi'an Jiaotong University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Canagliflozin on Liver Inflammation Damage in Type 2 Diabetes Patients With Nonalcoholic Fatty Liver Disease",
+      "officialTitle": "Therapeutic Effects of Canagliflozin on the Liver Inflammation Damage and Lipoprotein Metabolism in Patients With Type 2 Diabetes Mellitus Combined With Nonalcoholic Fatty Liver Disease"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2022-07",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-09-20",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2023-12",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-06-09",
+      "studyFirstSubmitQcDate": "2022-06-13",
+      "studyFirstPostDateStruct": {
+        "date": "2022-06-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2022-09-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-09-21",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "First Affiliated Hospital Xi'an Jiaotong University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Type 2 diabetes mellitus (T2DM) is always accompanied with nonalcoholic fatty liver disease (NAFLD).This prospective, randomized controlled intervention study was designed to reveal the potential clinical application and underlying mechanisms of canagliflozin in the treatment of type 2 diabetes combined with nonalcoholic fatty liver disease.",
+      "detailedDescription": "Type 2 diabetes mellitus (T2DM) is one of the most important risk factors for nonalcoholic fatty liver disease (NAFLD), including nonalcoholic steatohepatitis (NASH). Thus far, there are no approved medicines to treat NAFLD/NASH and none of plasma biomarkers are sufficient to accurately and rapidly diagnose NASH in clinic. Canagliflozin is a sodium-glucose cotransporter 2 inhibitor that not only reduces glycemia, blood pressure and albuminuria, but also lowers body weight and improves dyslipidemia. However, whether canagliflozin can be used to treat NAFLD/NASH and its impacts on lipid and lipoprotein metabolism are still rather obscure. Based on findings from the previous studies, the investigators propose the following hypothesis: canagliflozin decreases body fat mass, in particular the visceral fat depots and liver fat content, thus alleviating hepatic steatosis, hepatic macrophage content and activation. Since the investigators have demonstrated for the first time that plasma cholesteryl ester transfer protein (CETP) is predominantly derived from hepatic macrophages, and CETP plays a pivotal role in regulating lipid and lipoprotein metabolism. Moreover, plasma CETP concentration and activity can be applied as an effective biomarker for hepatic steatosis and liver inflammation and damage. Collectively, in this study, 80 patients with T2DM combined with NAFLD, who have poor glycemic control response to metformin monotherapy, will be randomly assigned to receive canagliflozin or pioglitazone (as placebo control) on top of metformin. The primary outcome will be plasma CETP concentration and activity, as measurements of liver lipid content, hepatic steatosis, liver inflammation and damage. The secondary outcome will be nuclear magnetic resonance spectroscopy- based metabolomics, including lipoprotein profile, lipid species and metabolomic, to comprehensively evaluate the therapeutic effects of canagliflozin on lipids and lipoproteins. The investigators anticipate this prospective, randomized controlled intervention study will reveal the potential clinical application and underlying mechanisms of canagliflozin in the treatment of NAFLD/NASH, and also provide a theoretical basis for predicting its effect on cardiovascular disease events, thus having important economic value and scientific significance."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 2 Diabetes Mellitus With Complication"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "DIAGNOSTIC",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 80,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Canagliflozin treatment group",
+          "type": "EXPERIMENTAL",
+          "description": "Canagliflozin 100mg were given to the patients for 24 weeks",
+          "interventionNames": [
+            "Drug: Canagliflozin"
+          ]
+        },
+        {
+          "label": "Pioglitazone treatment group",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Pioglitazone 30mg were given to the patients and the dosage will be increased to 45mg 2 weeks later",
+          "interventionNames": [
+            "Drug: Pioglitazone"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Canagliflozin",
+          "description": "40 patients with T2DM combined with NAFLD, who have poor glycemic control response to metformin monotherapy, will be randomly assigned to receive canagliflozin on top of metformin as experimental group.",
+          "armGroupLabels": [
+            "Canagliflozin treatment group"
+          ],
+          "otherNames": [
+            "Canagliflozin tablets"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Pioglitazone",
+          "description": "40 patients with T2DM combined with NAFLD, who have poor glycemic control response to metformin monotherapy, will be randomly assigned to receive pioglitazone 45mg on top of metformin as placebo comparator group.",
+          "armGroupLabels": [
+            "Pioglitazone treatment group"
+          ],
+          "otherNames": [
+            "Pioglitazone Hydrochloride Tablets"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Plasma cholesteryl ester transfer protein(CETP) concentration in ug/mL",
+          "description": "Measurements of liver inflammation and damage",
+          "timeFrame": "24 weeks after the date of enrollment"
+        },
+        {
+          "measure": "The activity of CEPT in pmol/mL/min",
+          "description": "Measurements of liver inflammation and damage",
+          "timeFrame": "24 weeks after the date of enrollment"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Plasma cholesteryl ester transfer protein(CETP) concentration in ug/mL",
+          "description": "Measurements of liver inflammation and damage",
+          "timeFrame": "Baseline"
+        },
+        {
+          "measure": "The activity of CEPT in pmol/mL/min",
+          "description": "Measurements of liver inflammation and damage",
+          "timeFrame": "Baseline"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Meets the diagnostic criteria for type 2 diabetes(1999 WHO criteria).\n* Meets the diagnostic criteria for non-alcoholic fatty liver disease (2018 Chinese Medical Association Treatment Guidelines ), and liver ultrasound showed moderate or higher fatty liver.\n* Metformin monotherapy for 3 months, but with poor glycemic control (7.5%\u2264HbA1c\u226410.5%))\n* Obese or overweight when screening (BMI\\>24kg/m2);\n* 18 years old \u2264 age \u2264 70 years old;\n* Have a good follow-up compliance, with follow-up months \u2265 24 weeks;\n\nExclusion Criteria:\n\n* Non-type 2 diabetes: type 1 diabetes, gestational diabetes, or other specific types of diabetes;\n* Diabetes patients with acute and chronic complications and serious infections; Pregnant and lactating women;\n* Those who have allergies or toxic side effects or contraindications to canagliflozin, pioglitazone and other drugs;\n* Active sexually transmitted diseases such as viral hepatitis, AIDS and syphilis, and infectious diseases such as tuberculosis;\n* Have a weight change of more than 10% in the 3 months prior to screening;\n* Have used other drugs that may affect blood glucose metabolism in the past 2 months, including systemic glucocorticoids (except inhalation or topical use), growth hormone, etc.;\n* Have used any sodium-glucose cotransporter-2 (SGLT-2) inhibitor or thiazolidinediones;\n* History of more than 2 severe hypoglycemic episodes in the past 1 year;\n* History or condition of any of the following: decompensated cardiac insufficiency (NYHA class III or IV); history of unstable angina, myocardial infarction, coronary artery bypass grafting, or coronary stenting; uncontrolled or severe heart rhythm Disorders (such as long QT syndrome, etc.), and evaluated by the investigator to be unsuitable to participate in this clinical trial; currently accompanied by clinically significant urinary tract/reproductive infection, or a history of complicated urinary tract infection, or nearly 6 A history of recurrent urinary tract infections within a month;\n* Currently known to have severe osteoporosis, or a history of secondary fractures within the past 1 year;\n* Any laboratory tests meet the following criteria: fasting plasma/serum glucose \u2265 15 mmol/L; alanine aminotransferase or aspartate aminotransferase \\> 3 times the upper limit of normal or total bilirubin \\> 1.5 times normal Upper limit; hemoglobin \\<100 g/L; glomerular filtration rate (eGFR) \\< 60 mL/min/1.73m2; fasting triglycerides \\> 5.64 mmol/L (500 mg/dL);\n* Has received or is receiving any other experimental drug/trial device treatment within the past 3 months;\n* Other conditions deemed inappropriate by the investigator to participate in this trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "YAYI HE",
+          "role": "CONTACT",
+          "phone": "0086-15934880897",
+          "email": "008099@xjtufh.edu.cn"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "YAYI He",
+          "affiliation": "First Affiliated Hospital Xi'an Jiaotong University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000068896",
+          "term": "Canagliflozin"
+        },
+        {
+          "id": "D000077205",
+          "term": "Pioglitazone"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013876",
+          "term": "Thiophenes"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D005960",
+          "term": "Glucosides"
+        },
+        {
+          "id": "D006027",
+          "term": "Glycosides"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        },
+        {
+          "id": "D045162",
+          "term": "Thiazolidinediones"
+        },
+        {
+          "id": "D013844",
+          "term": "Thiazoles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

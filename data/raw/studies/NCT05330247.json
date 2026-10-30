@@ -1,0 +1,814 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05330247",
+      "orgStudyIdInfo": {
+        "id": "CutDM - The Meal Box Study"
+      },
+      "organization": {
+        "fullName": "Bispebjerg Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Cut Down on Carbohydrate in the Dietary Therapy of Type 2 Diabetes - The Meal Box Study",
+      "officialTitle": "Cut Down on Carbohydrate in the Dietary Therapy of Type 2 Diabetes Mellitus - The Meal Box Study",
+      "acronym": "CutDM-MealBox"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-09-27",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-01-29",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2026-01-29",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-03-23",
+      "studyFirstSubmitQcDate": "2022-04-08",
+      "studyFirstPostDateStruct": {
+        "date": "2022-04-15",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-07-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-07-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Thure Krarup",
+        "investigatorTitle": "MD, Professor, DMSc",
+        "investigatorAffiliation": "Bispebjerg Hospital"
+      },
+      "leadSponsor": {
+        "name": "Bispebjerg Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Copenhagen",
+          "class": "OTHER"
+        },
+        {
+          "name": "University of Aarhus",
+          "class": "OTHER"
+        },
+        {
+          "name": "The Danish Dairy Research Foundation, Denmark",
+          "class": "OTHER"
+        },
+        {
+          "name": "Arla Foods",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "The K\u00f8bmand Niels Erik Munk Pedersen Foundation",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Hvidovre University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "J. & E. Dreyer Grant",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The cornerstone in the initial treatment of type 2 diabetes (T2D) is lifestyle modification, involving-among other things-a healthy diet. However, scientific evidence regarding optimal nutrition therapy for patients with T2D is insufficient.\n\nThis clinical study will examine the effect of a carbohydrate-reduced high-protein (CRHP) diet compared to a conventional diabetes (CD) diet for 12 months on metabolic function and body weight in patients with T2D.\n\nThe hypothesis of the study is that the CRHP diet will improve metabolic control and the cardiovascular risk profile of patients with T2D to a greater extent than the CD diet. In particular, the expectation is that, compared with the CD diet, the CRHP diet will:\n\n* Reduce diurnal and postprandial glycemia measured by continuous glucose monitoring (CGM) and thereby facilitate a significant reduction of glycated hemoglobin (HbA1c)\n* Reduce body weight\n* Reduce ectopic fat deposition in the liver and the pancreas\n* Improve the blood lipid profile\n* Reduce or not affect blood pressure with no adverse effect on heart rate variability\n* Increase insulin sensitivity and secretion\n* Decrease inflammatory markers in the blood\n* Improve satiety\n* Reduce or not affect the need for antidiabetic, antihypertensive and/or lipid-lowering medications\n\nTo reinforce the results and knowledge generated from the primary study, participants will be invited to partake in a 12-month follow-up period after the initial 12 months of intervention.",
+      "detailedDescription": "Methods: This is a 12-month investigator-initiated, randomized, controlled, open-label, superiority trial with two parallel groups. The study examines the effect of a CRHP diet (which is reduced in carbohydrate and increased in protein and fat) compared with a CD diet (which follows the currently recommended macronutrient intake for patients with T2D). The study will include 100 T2D patients with overweight or obesity.\n\nThe CD diet and CRHP diet comprise 50 percentage of energy (E%) and 30 E% from carbohydrate, 17 E% and 30 E% from protein, and 33 E% and 40 E% from fat, respectively. The CD diet and the CRHP diet do not principally differ in the quality of carbohydrate, protein, and fat; they both comprise of nutritious, organic, and sustainable food items.\n\nParticipants will be randomized in a 1:1 ratio to either the CD diet or the CRHP diet for 12 months. About 2/3 of the total calculated energy requirements on both diets will be delivered to the participants free of charge, as meal box solutions containing breakfast meals, snack meals, and dinner meals to optimize compliance and adherence to the assigned diet.\n\nAfter 12 months of intervention with meal boxes, a 12-month follow-up period will be initiated for participants who wish to continue to follow the diet they were allocated to at baseline. During the 12-month follow-up period there will be no provision of meal boxes. Assistance is provided to help the participants adhere to the diet by regular counselling with RCD's and support via the Liva app.\n\nThe daily energy requirements for body weight maintenance will be calculated by multiplying resting energy expenditure using the Mifflin-St Jeor equation, with an estimated physical activity level (estimated by using a physical activity questionnaire at the beginning of the study). Based on the calculated daily energy requirements, participants will be divided into one of three energy level groups; in all groups, the amount of recommended total daily energy intake will exceed the amount required for weight maintenance and subjects will be instructed to consume the diets ad libitum until satiety is achieved.\n\nThe dietary interventions are implemented under the guidance of registered clinical dietitians (RCDs) in a free-living setting without any instruction or requirement for weight loss or increased physical activity level. Participants will be instructed to eat until satiety is achieved and allowed to consume alcoholic beverages within the recommendations from the Danish Health Authorities. Dietary advice and counselling regarding food choices and preparation of food concerning the allocated diet, especially the self-prepared lunch meals and how to navigate at special occasions, will be given under the guidance of RCDs.\n\nMedication will be kept unchanged during the study, if possible. Rescue medication will be commenced if a HbA1c target of 58 mmol/mol is not reached after six months. If study participants obtain a HbA1c below 48 mmol/mol antidiabetic medication will still be kept constant.\n\nDiurnal urine samples, fasting blood samples, dietary records and questionnaire responses will be collected every third month of the study. In addition, at baseline and 12 months, participants will undergo a standardized test battery including magnetic resonance imaging (MRI) and spectroscopy (MRS) for measurement of abdominal subcutaneous and visceral adipose tissue, and ectopic fat in the liver and pancreas, dual X-ray absorptiometry (DXA) scans for body composition, handgrip strength and 30-second chair-stand for muscle strength, oral glucose tolerance test (OGTT), continuous glucose monitoring (CGM), Holter-recording, diurnal blood pressure measurement, and dietary records.\n\nStatistical analysis plan:\n\nIntention-to-treat (ITT) analyses including all available data from all randomized participants will be conducted to estimate the effect of prescribing/encouraging a CRHP eating pattern but may differ from the actual effect of the eating pattern in presence of imperfect adherence to the diet by the participant. The treatment effect (CRHP vs CD) will be reported as an estimated marginal mean with corresponding two-sided 95% confidence interval (CI) and p-value and considered statistically significant if the 95% CI does not include zero.\n\nPrimary outcome A constrained linear mixed model (cLMM) will be used to model the mean HbA1c (including data in original form) over time within each diet group while adjusting for important covariates including sex, age, BMI, T2D duration, insulin resistance by the HOMA2IR index, and glucose-lowering medications (metformin, DPP-4 inhibitors, SGLT-2 inhibitors, and GLP-1 receptor agonists. The cLMM will include 9 mean parameters (a single at baseline and one for each group and follow-up timepoint) and an unstructured pattern stratified by treatment group to model the residual variance within individuals. Missing data is handled by the cLMM using a full information approach. The estimated marginal mean difference in changes from baseline to 12 months of follow-up between the two groups will be tested using a Wald test on the appropriate parameter of the cLMM (interaction group and 12 month).\n\nSecondary outcomes and exploratory outcomes Similar cLMMs as for the primary outcome will be used to model mean change in body weight and intrahepatic fat content over time while adjusting for covariates..\n\nAdditional exploratory outcomes will be analysed using the cLMM, similarly as for the primary outcome, when continuous or using Fischer's Exact test when categorical where the existence of an association between the outcome and the group variable will be assessed.\n\nSuperiority and non-inferiority testing Our statistical analyses test for superiority, but if they fail to reject the null hypothesis, non-inferiority tests will be conducted secondarily for the primary and secondary outcomes, using the non-inferiority margin of 3 mmol/mol for HbA1c change, 5 kg for weight loss, and 25% relative change in intrahepatic fat. No adjustment for multiple testing is needed when switching between superiority and non-inferiority testing.\n\nEthics and dissemination: The National Committee on Health Research Ethics of the Capitol Region of Denmark has approved the trial (H-21057605). The study will be conducted in accordance with the Declaration of Helsinki II.\n\nResults will be submitted for publication in international peer-reviewed scientific journals, regardless of being positive, negative or inconclusive."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus Type 2",
+        "Overweight and Obesity"
+      ],
+      "keywords": [
+        "Diabetes Mellitus Type 2",
+        "Nutrition Therapy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "maskingDescription": "The endocrinologists responsible for the pharmacological regulations during the study will be blinded to the allocation of the participants.\n\nIn addition, the bio-analysts performing laboratory analyses, the MR physicist responsible for evaluating MRI/MRS scans, and the individual performing DXA scans, handgrip strength and 30-second chair-stand tests will also be blinded to the allocated diet group.",
+          "whoMasked": [
+            "CARE_PROVIDER"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 100,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Therapeutic Diet: CRHP Diet",
+          "type": "EXPERIMENTAL",
+          "description": "Carbohydrate-reduced high-protein (CRHP) dietary intervention. Intervention: Therapeutic Diet: CRHP Diet.",
+          "interventionNames": [
+            "Other: Carbohydrate-reduced high-protein (CRHP) Diet"
+          ]
+        },
+        {
+          "label": "Therapeutic Diet: CD Diet",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Conventional diabetes (CD) dietary intervention. Intervention: Therapeutic Diet: CD Diet.",
+          "interventionNames": [
+            "Other: Conventional diabetes (CD) Diet"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Carbohydrate-reduced high-protein (CRHP) Diet",
+          "description": "Macronutrient intake of 30 percentage of energy from carbohydrate, 30 percentage of energy from protein and 40 percentage of energy from fat.",
+          "armGroupLabels": [
+            "Therapeutic Diet: CRHP Diet"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Conventional diabetes (CD) Diet",
+          "description": "Macronutrient intake of 50 percentage of energy from carbohydrate, 17 percentage of energy from protein and 33 percentage of energy from fat.",
+          "armGroupLabels": [
+            "Therapeutic Diet: CD Diet"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in glycated hemoglobin (HbA1c) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "HbA1c will be measured in fasting blood samples at baseline, 3, 6, 9 and 12 months. HbA1c will be expressed in mmol/mol.",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in total body weight after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Total body weight will be measured at baseline, 3, 6, 9 and 12 months. Total body weight will be expressed in kilograms (kg).",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in hepatic fat content after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Hepatic fat content will be assessed by magnetic resonance imaging/spectroscopy (MRI/MRS) at baseline and 12 months.",
+          "timeFrame": "Baseline and 12 months"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Change in glycemic variability (GV) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "GV will be assessed using 7-day continuous glucose monitoring (CGM) (FreeStyle Libre Pro from Abbott) at baseline and 12 months.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in diurnal glycemia after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Diurnal glycemia will be assessed using 7-day continuous glucose monitoring (CGM) (FreeStyle Libre Pro from Abbott) at baseline and 12 months. Diurnal glycemia will be expressed as mmol/L and evaluated as the area under the curve (AUC).",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in abdominal subcutaneous adipose tissue (SAT) and visceral adipose tissue (VAT) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "SAT and VAT will be assessed by magnetic resonance imaging/spectroscopy (MRI/MRS) at baseline and 12 months.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in pancreatic fat content after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Pancreatic fat content will be assessed by magnetic resonance imaging/spectroscopy (MRI/MRS) at baseline and 12 months.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in total lean body mass (LBM) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "LBM will be assessed by dual-energy X-ray absorptiometry (DXA) at baseline and 12 months. LBM will be expressed in kilograms (kg).",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in appendicular lean mass (ALM) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "ALM will be assessed by dual-energy X-ray absorptiometry (DXA) at baseline and 12 months. ALM will be expressed in kilograms (kg).",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in total fat mass (FM) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "FM will be assessed by dual-energy X-ray absorptiometry (DXA) at baseline and 12 months. FM will be expressed in kilograms (kg).",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in fasting serum triglycerides (TG) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "TG concentration will be measured in fasting blood samples at baseline, 3, 6, 9 and 12 months. TG will be expressed in mmol/L.",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in triglyceride (TG) response during 4-hour oral glucose tolerance test after 12 months on the CRHP diet compared with the CD diet",
+          "description": "TG response will be measured during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. TG will be expressed in mmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in lipid profile: total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein (HDL-C), non-high-density lipoprotein cholesterol (non-HDL-C) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "TC, LDL-C, HDL-C. and non-HDL-C will be measured in fasting blood samples at baseline, 3, 6, 9 and 12 months. TC, LDL-C, HDL-C and non-HDL-C will be expressed as mmol/L.",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in apolipoprotein A-1 and B after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Apolipoprotein A-1 and B will be measured in fasting blood samples at baseline, 3, 6, 9 and 12 months. Apolipoprotein A-1 and B will be expressed as g/L.",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in lipoprotein subfractions: low-density lipoprotein subclasses 1 to 5 (LDL1-5), high-density lipoprotein subclasses 1 to 5 (HDL1-5), and triacylglycerol-rich lipoprotein (TRL) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "LDL1-5, HDL1-5 and TRL will be measured in fasting blood samples at baseline, 3, 6, 9 and 12 months.",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in non-esterified fatty acids (NEFA) metabolism after 12 months on the CRHP diet compared with the CD diet",
+          "description": "NEFA metabolism will be assessed by using the minimal model technique based on a oral glucose tolerance test (OGTT) at baseline and 12 months. NEFA concentrations will be expressed in umol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in diurnal systolic blood pressure (BP) and diastolic BP after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Diurnal systolic and diastolic BP will be measured over 24 hours by a BP monitor (Ontrak 90227 from Spacelabs Healthcare) at baseline and 12 months. Diurnal systolic and diastolic BP will be expressed in mmHg.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in heart rate variability (HRV) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "HRV will be assessed by 48-hour Holter-monitoring (Faros 360 from Bittium) at baseline and 12 months.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in glucose concentrations after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Glucose will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. Glucose concentration will be expressed in mmol/L and evaluated as the area under the curve (AUC).",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in insulin sensitivity after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Insulin sensitivity will be assessed based on a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. Insulin sensitivity will be expressed as the Matsuda Index.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in insulin secretion after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Insulin secretion will be measured during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months, using C peptide deconvolution. Insulin concentration will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in C-peptide after 12 months on the CRHP diet compared with the CD diet",
+          "description": "C-peptide concentrations will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. C-peptide will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in beta-cell function after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Beta-cell function will be assessed based on a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. Beta-cell function will be expressed by the Insulinogenic Index and Disposition Index.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in Homeostasis Model Assessment (HOMA) of insulin resistance and beta-cell function after 12 months on the CRHP compared with the CD diet",
+          "description": "HOMA will be calculated at baseline and 12 months based on fasting glucose and insulin concentrations, and expressed as HOMA-IR (insulin resistance) and HOMA-beta (beta-cell function).",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in glucagon after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Glucagon concentration will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. Glucagon will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in glucagon-like-peptide-1 (GLP-1) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "GLP-1 concentration will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. GLP-1 will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in glucose-dependent insulinotropic polypeptide (GIP) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "GIP will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. GIP will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in growth hormone (GH) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "GH will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. GH will be expressed in ng/mL.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in insulin-like growth factor-binding protein 1 (IGFBP-1) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "IGFBP-1 will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. IGFBP-1 will be expressed in ng/mL.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in insulin-like growth factor-1 (IGF-1) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "IGF-1 will be measured in fasting blood samples at baseline and 12 months. IGF-1 will be expressed in ng/mL.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in peptide YY (PYY) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "PYY will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. PYY will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in cholecystokinin (CKK) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "CKK will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. CKK will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in gastrin after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Gastrin will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. Gastrin will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in ghrelin after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Ghrelin will be measured at fasting and during a 4-hour oral glucose tolerance test (OGTT) at baseline and 12 months. Ghrelin will be expressed in pmol/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in leptin after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Leptin will be measured in fasting blood samples at baseline and 12 months. Leptin will be expressed in ng/mL.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in adiponectin after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Adiponectin will be measured in fasting blood samples at baseline and 12 months. Adiponectin will be expressed in ug/mL.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in tumor necrosis factor alpha (TNF-alpha) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "TNF-alpha will be measured in fasting blood samples at baseline and 12 months. TNF-alpha will be expressed in pg/mL.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in interleukin-6 (IL-6) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "IL-6 will be measured in fasting blood samples at baseline and 12 months. IL-6 will be expressed in pg/mL.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in C-reactive protein (CRP) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "CRP will be measured by high-sensitivity CRP test in fasting blood samples at baseline and 12 months. CRP will be expressed in mg/L.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in renal function assessed from eGFR after 12 months on the CRHP diet compared with the CD diet",
+          "description": "eGFR will be assessed at baseline and 12 months. eGFR will be expressed in mL/min/1,73 m2.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in renal function assessed diurnal excretion of albumin after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Diurnal excretion of albumin will be assessed at baseline and 12 months. Diurnal excretion of albumin will be expressed in mg/day.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in urinary urea excretion after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Urinary urea excretion will be assessed at baseline, 3, 6, 9 and 12 months. Urinary urea excretion will be expressed in mmol/day.",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in metabolic syndrome severity Z-score (MetS-Z) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Higher MetS-Z-scores indicate increased severity of MetS. A score \u22651 will be yielded if: 1) waist circumference \\>94 cm (in men) and \\>80 cm (in women), 2) HDL-C \\<1,0 mmol/L (in men) and \\<1,3 mmol/L (in women), 3) triglycerides \u22651,7 mmol/L, 4) fasting glucose \u22655,6 mmol/L, 5) systolic blood pressure \u2265130 mmHg, or 6) diastolic blood pressure \u226585 mmHg. Participants will be classified as having MetS if three or more component thresholds were exceeded. MetS-Z will be assessed at baseline and 12 months.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in antidiabetic, antihypertensive and lipid-lowering medications after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Antidiabetic, antihypertensive and lipid-lowering medications will be assessed at baseline and after 3, 6, 9 and 12 months.",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in handgrip strength after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Handgrip strength will be measured with a SAEHAN hand dynamometer in both the right and the left hand at baseline and 12 months.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Change in muscle strength measured by 30-second chair-stand after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Muscle strength will be measured by 30-second chair-stand at baseline and 12 months. Participants will be asked to fold arms across the chest and to stand up and sit down on a chair as many times as possible for 30 seconds.",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Difference between calculated and advised energy intake in the CRHP diet compared with the CD diet after 12 months",
+          "description": "Energy intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at the beginning of the intervention and at 3, 6, 9, and 12 months. Energy intake will be expressed in kilocalories (kcal).",
+          "timeFrame": "Beginning of intervention, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Difference between calculated and advised macronutrient intake expressed in kilocalories (kcal) in the CRHP diet compared with the CD diet after 12 months",
+          "description": "Macronutrient (carbohydrate, added sugar, protein, fat and fatty acids) intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at the beginning of the intervention and at 3, 6, 9, and 12 months. Macronutrients will be expressed in kilocalories (kcal).",
+          "timeFrame": "Beginning of intervention, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Difference between calculated and advised macronutrient intake expressed in percentage of energy (E%) in the CRHP diet compared with the CD diet at beginning after 12 months",
+          "description": "Macronutrient (carbohydrate, added sugar, protein, fat and fatty acids) intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at the beginning of the intervention and at 3, 6, 9, and 12 months. Macronutrients will be expressed in percentage of energy (E%).",
+          "timeFrame": "Beginning of intervention, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Differences in dietary intake expressed in kilocalories (kcal) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Dietary intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at the beginning of the intervention and at 3, 6, 9, and 12 months. Dietary intake will be expressed in kilocalories (kcal).",
+          "timeFrame": "Beginning of intervention, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Differences in dietary intake expressed in percentage of energy (E%) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Dietary intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at the beginning of the intervention and at 3, 6, 9, and 12 months. Dietary intake will be expressed in percentage of energy (E%).",
+          "timeFrame": "Beginning of intervention, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Differences in dietary intake expressed in grams (g) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Dietary intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at the beginning of the intervention and at 3, 6, 9, and 12 months. Dietary intake will be expressed in grams (g).",
+          "timeFrame": "Beginning of intervention, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in diabetes-related emotional distress after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Diabetes-related emotional distress will be measured by the Danish version of The Problem Areas in Diabetes (PAID) Questionnaire. PAID contains 20 items that describe negative emotions related to diabetes (e.g. fear, anger, frustration) experienced by patients with diabetes.\n\nEach question has five possible answers with a value from 0 to 4, with 0 representing \"no problem\" and 4 \"a serious problem\". The scores are added up and multiplied by 1.25, generating a total score between 0-100. Patients scoring 40 or higher may be at the level of \"emotional burnout\" and warrant special attention. PAID scores in these patients may drop 10-15 points in response to educational and medical interventions. An extremely low score (0-10) combined with poor glycaemic control may be indicative for denial.\n\nDiabetes-related emotional distress will be measured at baseline, 6 and 12 months.",
+          "timeFrame": "Baseline, 6 and 12 months"
+        },
+        {
+          "measure": "Change in perceived dietary adherence after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Perceived dietary adherence will be measured by Perceived Dietary Adherence questionnaires which consists of questions structured to cover the CRHP diet and the CD diet, with responses on a seven-point Likert scale at 3, 6, 9 and 12 months.",
+          "timeFrame": "3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in health-related quality of life (HRQoL) after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'SF-36 Sp\u00f8rgeskema om Helbredstilstand' (Eng: SF-36 questionnaire about health condition). HRQoL will be assessed using a self-reported Short-Form (SF-36) health survey with 36 questions regarding different domains of HRQoL. Questions are answered via a 2-6 point categorical scales at baseline, 6 and 12 months. The following minimum and maximum values are used:\n\n* 2-point scale ranging from 1=Yes, 2=No\n* 3-point scale ranging from 1=Yes, very limited, to 3=No, not at all limited,\n* 5-point scales ranging from 1=Much better - 5=Much worse; 1=Not at all - 5=Very much; 1=All the time - 5=At no time; 1=Completely right - 5=Completely wrong\n* 6-point scales ranging from 1= No pain - 6=Very heavy pain; 1= All the time - 6=At no time For all question the better outcome very depending on the question in focus.",
+          "timeFrame": "Baseline, 6 and 12 months"
+        },
+        {
+          "measure": "Health Literacy after 9 months on the CRHP diet compared with the CD diet",
+          "description": "The Health Literacy Questionnaire (HLQ) consists of 44 items across 9 scales that identify profiles of health literacy strengths and needs of individuals and communities. The constructs are multidimensional and so each questionnaire comprises a range of scales to measure the range of dimensions in each of the overarching questionnaire constructs. The scales in each questionnaire function as independent questionnaires and, as such, the scales are scored separately. The HLQ will be measured at baseline and 9 months.",
+          "timeFrame": "Baseline and 9 months"
+        },
+        {
+          "measure": "Change in meal acceptance of 3 morning and 3 evening meals after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'Meal acceptance' (note: self-created scale). Meal acceptance will be measured by an 8-item self-reported questionnaire via visual analog scales (VAS), a 4-point categorical scale and an open-text reply field. Meal acceptance will be assessed at baseline, 3, 6, 9 and 12 months.\n\nThe following minimum and maximum values are used:\n\n* VAS scale with anchor points 'Dislike extremely' to 'Like Extremely', with 'dislike extremely meaning the better outcome\n* 4 point categorical scale with no minimum and maximum value, and no better/worse outcome",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in well-being after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'Well-being' (note: self-created scale). Well-being will be measured by a 9-item self-reported questionnaire using visual analog scales (VAS) and a categorical option. Well-being will be assessed at baseline, 3, 6, 9 and 12 months.\n\nThe following minimum and maximum values are used:\n\n\u2022 VAS scale with anchor points 'Extremely little' to 'Extremely much', with the better outcome varying depending on the question in focus",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in subjective satiating capacity of meals after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'Appetite' (note:self-created scale). Satiating capacity of meals will be measured after intake of 3 morning and 3 evening meals by an 18-item self-report questionnaire using visual analog scales (VAS) and a categorical option. Satiating capacity will be assessed at baseline, 3, 6, 9 and 12 months.\n\nThe following minimum and maximum values are used:\n\n* VAS scale with anchor points 'Not at all' to 'A very large amount', with no better/worse outcome\n* VAS scale with anchor points 'Extremely little' to 'Extremely much', with no better/worse outcome",
+          "timeFrame": "Baseline, 3, 6, 9 and 12 months"
+        },
+        {
+          "measure": "Change in food-related quality of life after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'Food-related Quality of Life'. Change in food-related quality of life will be measured by a 5-item self-reported questionnaire using a 5-point likert scale. Food-related quality of life will be assessed at baseline, 6 and 12 months.\n\nThe following minimum and maximum values are used:\n\n\u2022 5-point scale ranging from 1=Very much agree, to 5=Very much disagree, with 1 meaning the better outcome",
+          "timeFrame": "Baseline, 6 and 12 months"
+        },
+        {
+          "measure": "Change in variety-seeking behavior after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'VARSEEK'. Variety-seeking behavior will be measured using the 8-item Variety-seeking likert scale at baseline, 6 and 12 months. The following minimum and maximum values are used:\n\n\u2022 5-point scale ranging from 1=Very much agree, to 5=Very much disagree, with no better/worse outcome",
+          "timeFrame": "Baseline, 6 and 12 months"
+        },
+        {
+          "measure": "Change in emotional, retained and external eating behaviors after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'Dutch Eating Behavior Questionnaire'. Emotional, retained and external eating behaviors will be measured using the 32-item categorical Dutch Eating Behavior scale at baseline, 6 and 12 months. The following minimum and maximum values are used:\n\n\u2022 5-point scale ranging from 1=Never, to 5=Very often, with no better/worse outcome",
+          "timeFrame": "Baseline, 6 and 12 months"
+        },
+        {
+          "measure": "Change in drivers of food-related pleasure after 12 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'The Food Pleasure Scale'. Drivers of food-related pleasure will be measured using the 21-item categorical Food Pleasure Scale at baseline, 6 and 12 months. The following minimum and maximum values are used:\n\n* 2-point scale ranging from 1=Yes, to 5=No, with no better/worse outcome\n* 5-point scale ranging from 1=Not at all important, to 5=Extremely important, with no better/worse outcome",
+          "timeFrame": "Baseline, 6 and 12 months"
+        },
+        {
+          "measure": "Change in glycated hemoglobin (HbA1c) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "HbA1c will be measured during follow-up in fasting blood samples at 15, 18, 21 and 24 months and expressed in mmol/mol.",
+          "timeFrame": "15, 18, 21 and 24 months"
+        },
+        {
+          "measure": "Change in totalt body weight after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Total body weight will be measured during follow-up at 15, 18, 21 and 24 months and expressed in kilograms (kg).",
+          "timeFrame": "15, 18, 21 and 24 months"
+        },
+        {
+          "measure": "Change in hepatic fat content after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Hepatic fat content will be assessed by magnetic resonance imaging/spectroscopy (MRI/MRS) after follow-up at 24 months",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in glycemic variability (GV) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "GV will be assessed using 7-day continuous glucose monitoring (CGM) (FreeStyle Libre Pro from Abbott) after follow-up at 24 months",
+          "timeFrame": "24 months."
+        },
+        {
+          "measure": "Change in diurnal glycemia after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Diurnal glycemia will be assessed using 7-day continuous glucose monitoring (CGM) (FreeStyle Libre Pro from Abbott) at baseline and 12 months. Diurnal glycemia will be expressed as mmol/L and evaluated as the area under the curve (AUC)",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in abdominal subcutaneous adipose tissue (SAT) and visceral adipose tissue (VAT) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "SAT and VAT will be assessed by magnetic resonance imaging/spectroscopy (MRI/MRS) at 24 months",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in pancreatic fat content after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Pancreatic fat content will be assessed by magnetic resonance imaging/spectroscopy (MRI/MRS)",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in fasting serum triglycerides (TG) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "TG concentration will be measured in fasting blood samples at 15, 18, 21 and 24 months. TG will be expressed in mmol/L.",
+          "timeFrame": "15, 18, 21, and 24 months"
+        },
+        {
+          "measure": "Change in lipid profile: total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein (HDL-C), non-high-density lipoprotein cholesterol (non-HDL-C) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "TC, LDL-C, HDL-C. and non-HDL-C will be measured in fasting blood samples at 15, 18, 21 and 24 months. TC, LDL-C, HDL-C and non-HDL-C will be expressed as mmol/L",
+          "timeFrame": "15, 18, 21 and 24 months"
+        },
+        {
+          "measure": "Change in apolipoprotein A-1 and B after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Apolipoprotein A-1 and B will be measured in fasting blood samples at 15, 18, 21 and 24 months. Apolipoprotein A-1 and B will be expressed as g/L",
+          "timeFrame": "15, 18, 21 and 24 months"
+        },
+        {
+          "measure": "Change in lipoprotein subfractions: LDL1-5, HDL1-5, and TRL after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "LDL1-5, HDL1-5 and TRL will be measured in fasting blood samples at 15, 18, 21 and 24 months",
+          "timeFrame": "15, 18, 21 and 24 months"
+        },
+        {
+          "measure": "Change in non-esterified fatty acids (NEFA) metabolism after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "NEFA metabolism will be measured in fasting blood samples at 15, 18, 21 and 24 months. NEFA concentrations will be expressed in umol/L.",
+          "timeFrame": "15, 18, 21 and 24 months"
+        },
+        {
+          "measure": "Change in diurnal systolic blood pressure (BP) and diastolic BP after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Diurnal systolic and diastolic BP will be measured over 24 hours by a BP monitor (Ontrak 90227 from Spacelabs Healthcare) after follow-up at 24 months. Diurnal systolic and diastolic BP will be expressed in mmHg.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in Homeostasis Model Assessment (HOMA) of insulin resistance and beta-cell function after follow-up at 24 months on the CRHP compared with the CD diet",
+          "description": "HOMA will be calculated after follow-up at 24 months based on fasting glucose and insulin concentrations, and expressed as HOMA-IR (insulin resistance) and HOMA-beta (beta-cell function).",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in insulin-like growth factor-1 (IGF-1) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "IGF-1 will be measured in fasting blood samples after follow-up at 24 months. IGF-1 will be expressed in ng/mL.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in leptin after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Leptin will be measured in fasting blood samples after follow-up at 24 months. Leptin will be expressed in ng/mL.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in adiponectin after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Adiponectin will be measured in fasting blood samples after follow-up at 24 months. Adiponectin will be expressed in ug/mL.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in tumor necrosis factor alpha (TNF-alpha) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "TNF-alpha will be measured in fasting blood samples after follow-up at 24 months. TNF-alpha will be expressed in pg/mL.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in interleukin-6 (IL-6) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "IL-6 will be measured in fasting blood samples after follow-up at 24 months. IL-6 will be expressed in pg/mL.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in C-reactive protein (CRP) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "CRP will be measured by high-sensitivity CRP test in fasting blood samples after follow-up at 24 months. CRP will be expressed in mg/L.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in renal function assessed from eGFR after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "eGFR will be assessed after follow-up at 24 months. eGFR will be expressed in mL/min/1,73 m2.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in renal function assessed by diurnal excretion of albumin after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Diurnal excretion of albumin will be assessed after follow-up at 24 months. Diurnal excretion of albumin will be expressed in mg/day.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in urinary urea excretion after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Urinary urea excretion will be assessed at 18 and 24 months. Urinary urea excretion will be expressed in mmol/day.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in antidiabetic, antihypertensive and lipid-lowering medications after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Antidiabetic, antihypertensive and lipid-lowering medications will be assessed at 18 and 24 months",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Difference between calculated and advised energy intake in the CRHP diet compared with the CD diet after follow-up at 24 months",
+          "description": "Energy intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at 15, 18, 21, and 24 months. Energy intake will be expressed in kilocalories (kcal).",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Difference between calculated and advised macronutrient intake expressed in kilocalories (kcal) in the CRHP diet compared with the CD diet after follow-up at 24 months",
+          "description": "Macronutrient (carbohydrate, added sugar, protein, fat and fatty acids) intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at 15, 18, 21 and 24 months. Macronutrients will be expressed in kilocalories (kcal).",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Difference between calculated and advised macronutrient intake expressed in percentage of energy (E%) in the CRHP diet compared with the CD diet after follow-up at 24 months",
+          "description": "Macronutrient (carbohydrate, added sugar, protein, fat and fatty acids) intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at 15, 18, 21 and 24 months. Macronutrients will be expressed in percentage of energy (E%).",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Differences in dietary intake expressed in grams (g) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Dietary intake will be calculated from a three-day dietary record entered in the online diet calculation tool \"MADLOG\" at 15, 18, 21 and 24 months. Dietary intake will be expressed in grams (g).",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in diabetes-related emotional distress after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Diabetes-related emotional distress will be measured by the Danish version of The Problem Areas in Diabetes (PAID) Questionnaire. PAID contains 20 items that describe negative emotions related to diabetes (e.g. fear, anger, frustration) experienced by patients with diabetes.\n\nEach question has five possible answers with a value from 0 to 4, with 0 representing \"no problem\" and 4 \"a serious problem\". The scores are added up and multiplied by 1.25, generating a total score between 0-100. Patients scoring 40 or higher may be at the level of \"emotional burnout\" and warrant special attention. PAID scores in these patients may drop 10-15 points in response to educational and medical interventions. An extremely low score (0-10) combined with poor glycaemic control may be indicative for denial.\n\nDiabetes-related emotional distress will be measured at 18 and 24 months",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in perceived dietary adherence after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Perceived dietary adherence will be measured by Perceived Dietary Adherence questionnaires which consists of questions structured to cover the CRHP diet and the CD diet, with responses on a seven-point Likert scale at 15, 18, 21, and 24 months.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in health-related quality of life (HRQoL) after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "Scale title: 'SF-36 Sp\u00f8rgeskema om Helbredstilstand' (Eng: SF-36 questionnaire about health condition). HRQoL will be assessed using a self-reported Short-Form (SF-36) health survey with 36 questions regarding different domains of HRQoL. Questions are answered via a 2-6 point categorical scales at 24 months. The following minimum and maximum values are used:\n\n* 2-point scale ranging from 1=Yes, 2=No\n* 3-point scale ranging from 1=Yes, very limited, to 3=No, not at all limited,\n* 5-point scales ranging from 1=Much better - 5=Much worse; 1=Not at all - 5=Very much; 1=All the time - 5=At no time; 1=Completely right - 5=Completely wrong\n* 6-point scales ranging from 1= No pain - 6=Very heavy pain; 1= All the time - 6=At no time For all question the better outcome very depending on the question in focus.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Change in Health Literacy after follow-up at 24 months on the CRHP diet compared with the CD diet",
+          "description": "The Health Literacy Questionnaire (HLQ) consists of 44 items across 9 scales that identify profiles of health literacy strengths and needs of individuals and communities. The constructs are multidimensional and so each questionnaire comprises a range of scales to measure the range of dimensions in each of the overarching questionnaire constructs. The scales in each questionnaire function as independent questionnaires and, as such, the scales are scored separately. The HLQ will be measured at 24 months.",
+          "timeFrame": "24 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Men or postmenopausal women aged 18-75 years. Menopause is defined as \\>12 months without menses\n* Overweight or obesity with Body Mass Index (BMI) \\>25 kg/m2\n* Type 2 diabetes with HbA1c between 48 mmol/mol and 75 mmol/mol (6.5%-9.0%)\n* Treated with or without metformin, dipeptidyl peptidase 4 (DPP-4) inhibitors, sodium-glucose cotransporter 2 (SGLT-2) inhibitors and/or glucagon-like peptide 1 receptor agonists (GLP-1RA)\n* Nonsmokers or having quitted smoking \\>1 year before the study\n* Acceptance of regulation of antidiabetic, antihypertensive, and lipid-lowering medications by Cut-DM endocrinologists only\n\nExclusion Criteria:\n\n* Ongoing insulin or insulin analog therapy\n* Severe gut disease as evaluated by the principal investigator e.g. Crohn's disease, Ulcerative colitis, Celiac disease etc.\n* Extensive surgery to the gut e.g. bariatric surgery, colectomy etc.\n* Severe heart disease as evaluated by the principal investigator e.g. angina pectoris, coronary heart disease, congestive heart failure (NYHA III-IV)\n* Severe renal impairment (eGFR\\<45 ml/min/1.73 m2 or urine albumin / creatinine ratio \\> 300 mg/g)\n* Severe hepatic impairment as evaluated by the principal investigator (measure of alanine aminotransferase (ALT) and aspartate aminotransferase (AST))\n* Cancer within the last 5 years (except basal cell skin cancer or squamous cell skin cancer)\n* Psychiatric disease, e.g. a history of major depressive or other severe psychiatric disorders\n* Ongoing systemic corticosteroid treatment, e.g. prednisolone\n* Reported or documented food allergy, food intolerance, or currently following a particular eating pattern or strong food preferences, not compatible with study participation\n* Reported or documented alcohol consumption exceeding the recommendations from The Danish Health Authorities\n* Ongoing treatment with sulfonylureas and/or thiazolidinediones due to the risk of hypoglycemia unless discontinuation is possible, in which case a \\>3-month wash-out is mandatory\n* Hemoglobin \\<7 mmol/L for men and \\<6 mmol/L for women\n* Inability, physically and/or mentally, to comply with the procedures required by the study protocol, as evaluated by the principal investigator\n* Weight change \u22655% the preceding 3 months of screening\n* Participation in other on-going clinical trials",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Thure Krarup, MD, DMSc",
+          "affiliation": "Dept. of Endocrinology, Copenhagen University Hospital, Bispebjerg and Frederiksberg",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Luise H Kopp-Nilsson, MSc, RD",
+          "affiliation": "Dept. of Endocrinology, Copenhagen University Hospital, Bispebjerg and Frederiksberg",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Rasmus B Mainz Hansen, MD",
+          "affiliation": "Dept. of Endocrinology, Copenhagen University Hospital, Bispebjerg and Frederiksberg",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Bispebjerg Hospital",
+          "city": "Copenhagen",
+          "state": "Copenhagen NV",
+          "zip": "2400",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 55.67594,
+            "lon": 12.56553
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "39142677",
+          "type": "DERIVED",
+          "citation": "Kopp LHP, Sogaard-Hansen CM, Zachhau KM, Bastkjaer RM, Andersen BV, Budtz-Jorgensen E, Byrne DV, Chaaban N, Holst JJ, Klindt TB, Magkos F, Ozenne B, Samkani A, Skytte MJ, Madsbad S, Krarup T, Thomsen MN. Effects of a carbohydrate-reduced high-protein diet delivered with meal kits to Danish people with type 2 diabetes: protocol for a 12-month randomised controlled trial. BMJ Open. 2024 Aug 13;14(8):e084686. doi: 10.1136/bmjopen-2024-084686."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Individual participant data (IPD) may be shared by request to the corresponding author in accordance with the Danish Data Protection Agency."
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2026-02-05",
+          "uploadDate": "2026-02-10T08:38",
+          "filename": "SAP_000.pdf",
+          "size": 492659
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C486176",
+          "term": "CRIP2 protein, human"
+        },
+        {
+          "id": "D004032",
+          "term": "Diet"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009747",
+          "term": "Nutritional Physiological Phenomena"
+        },
+        {
+          "id": "D000066888",
+          "term": "Diet, Food, and Nutrition"
+        },
+        {
+          "id": "D010829",
+          "term": "Physiological Phenomena"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

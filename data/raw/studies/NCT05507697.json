@@ -1,0 +1,311 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05507697",
+      "orgStudyIdInfo": {
+        "id": "WuhanCH"
+      },
+      "organization": {
+        "fullName": "Wuhan Central Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Treatment With Human Umbilical Cord Mesenchymal Stem Cells for Refractory Diabetic Peripheral Neuropathy",
+      "officialTitle": "Clinical Study of Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Refractory Diabetic Peripheral Neuropathy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2022-08",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-05-19",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-18",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-08-12",
+      "studyFirstSubmitQcDate": "2022-08-16",
+      "studyFirstPostDateStruct": {
+        "date": "2022-08-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2022-08-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-08-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Shi Zhao",
+        "investigatorTitle": "Principle Investigator, Clinical Professor",
+        "investigatorAffiliation": "Wuhan Central Hospital"
+      },
+      "leadSponsor": {
+        "name": "Wuhan Central Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Wuhan Optics Valley Vcanbio Cell & Gene Technology Co., Ltd., Hubei, China",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Wuhan Optics Valley Zhongyuan Pharmaceutical Co., Ltd., Hubei, China",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Diabetic Peripheral Neuropathy (DPN) is one of the most common chronic complications in type 2 diabetes, conventional drug therapy can only target a single pathogenesis but not treat Diabetic Peripheral Neuropathy (DPN) fundamentally. As a novel technique, stem cell transplantation provides a new option for patients with DPN. In 2012, Wuhan Central Hospital, took the lead in carrying out clinical research on the treatment of DPN with autologous bone marrow stem cells in China, and patients were significantly relieved. Based on this research, our clinical trial is to evaluate the safety and efficacy of HUC-MSCs in the treatment of refractory diabetic peripheral neuropathy (DPN) by formulating standard operating procedures (SOP) and quality standards (QS) to explore the possible mechanism of HUC-MSCs in the treatment of DPN.",
+      "detailedDescription": "As Diabetes is becoming a health problem of global concern rapidly, DPN, one of the common chronic complications in Diabetes is also getting more and more attention. The result of a survey of 5 regions in Southeast Asia showed that 39-72% of patients with DPN had severe or very severe impact on their quality of life. For the treatment of DPN, conventional drug therapy can almost only target a single pathogenesis and cannot treat it fundamentally. Therefore, new safe and effective treatment options for DPN are particularly important.\n\nBoth here and abroad, large number of experimental studies have shown that Bone Marrow or Umbilical Cord Mesenchymal Stem Cells have a significant therapeutic effect on diabetic peripheral neuropathy. In 2012, the Department of Endocrinology of Wuhan Central Hospital took the lead in conducting a clinical study of Autologous Bone Marrow Stem Cells in the treatment of DPN in China. The results of the study showed that the nerve conduction velocity of the lower extremities in most patients was improved within 3 months after treatment compared with before treatment. No serious adverse events occurred during the period. Based on this research of our own. The clinical trial is to evaluate the safety and efficacy of HUC-MSCs in the treatment of refractory diabetic peripheral neuropathy (DPN) by formulating standard operating procedures (SOP) and quality standards (QS) to explore the possible mechanism of HUC-MSCs in the treatment of DPN.\n\nThe investigators will do a Single center, randomization, open trial, controlled clinical trials design to assess treatment with the MSCs compared with the control group. 42 patients with DPN will be recruited in China. 21 patients receive i. m. HUC-MSCs both lower extremities (5 \u00d7 10\\^6 cells/mL, 1 mL per injection, each injection point is 2 cm apart ,1.0-1.5 cm deep, total amount of injection is estimated based on the surface area of the patient's lower limbs). 21 patients in the control group received i.v. Lipoic Acid Injection (600 mg/d for 15 consecutive days). Both efficacy and Adverse Event (AE) during the 96 weeks follow up."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetic Peripheral Neuropathy Type 2"
+      ],
+      "keywords": [
+        "Diabetic Peripheral Neuropathy",
+        "Stem Cell",
+        "TCSS",
+        "Type 2 diabetes mellitus"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 42,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Experimental",
+          "type": "EXPERIMENTAL",
+          "description": "MSCs Participants will received i. m. HUC-MSCs both lower extremities",
+          "interventionNames": [
+            "Biological: HUC-MSCs"
+          ]
+        },
+        {
+          "label": "Comparator",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "The control group will receive i.v Lipoic Acid Injection",
+          "interventionNames": [
+            "Biological: Lipoic Acid"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "HUC-MSCs",
+          "description": "5 \u00d7 10\\^6 cells/mL, 1 mL per injection, each injection point is 2 cm apart ,1.0-1.5 cm deep, total amount of injection is estimated based on the surface area of the patient's lower limb",
+          "armGroupLabels": [
+            "Experimental"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Lipoic Acid",
+          "description": "Lipoic Acid Injection\uff0c600 mg/d for 15 consecutive days",
+          "armGroupLabels": [
+            "Comparator"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change of TCSS scale",
+          "description": "1. Excellent: TCSS score decreased by \\>30% compared with the baseline value after treatment;\n2. Effective: TCSS score decreased by 30%-15% compared with the baseline value after treatment;\n3. Ineffective: Those who did not achieve the standards above after treatment.",
+          "timeFrame": "Change from Baseline TCSS scale at week 24"
+        },
+        {
+          "measure": "Change of nerve conduction velocities in the lower extremity",
+          "description": "1. Excellent: after treatment, the lower extremity nerve conduction velocity and amplitude increased by more than 15% compared with the baseline value;\n2. Effective: after treatment, the lower extremity nerve conduction velocity and amplitude increased by 15%-5% compared with the baseline value;\n3. Ineffective: Those who did not achieve the standards above after treatment.",
+          "timeFrame": "Change from Baseline nerve conduction velocities in the lower extremity at week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change of serum inflammatory factors",
+          "description": "Observe the changes during the study period",
+          "timeFrame": "Baseline, week 4, week 12, week 24, week 36, week 48, week 96"
+        },
+        {
+          "measure": "Change of growth factors (GF)",
+          "description": "Observe the changes during the study period",
+          "timeFrame": "Baseline, week 4, week 12, week 24, week 36, week 48, week 96"
+        },
+        {
+          "measure": "Change of fasting plasma glucose (FPG)",
+          "description": "Observe the changes during the study period",
+          "timeFrame": "Baseline, week 12, week 24, week 36, week 48, week 96"
+        },
+        {
+          "measure": "Change of glycosylated hemoglobin (HbA1c)",
+          "description": "Observe the changes during the study period",
+          "timeFrame": "Baseline, week 12, week 24, week 36, week 48, week 96"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Ages at 18-55 years (including 18 and 55 years), regardless of gender;\n* Understand and sign the ICF before proceeding with any steps related to this study, comply with the requirements, and do not to participate in other clinical studies during this research;\n* T2DM patients defined by the 2013 American Diabetes Association (ADA) standards;\n* Meet the diagnostic criteria for diabetic peripheral neuropathy: \u2460 A clear history of diabetes; \u2461 Neuropathy that occurs on or after the diagnosis of diabetes; \u2462Clinical symptoms and signs are consistent with DPN; \u2463 People with clinical symptoms (pain, numbness, abnormal sensation, etc.), had any 1 of the 5 items of ankle reflex, acupuncture pain, vibration, pressure and temperature in abnormal; people without clinical symptoms had any 2 of the 5 items were abnormal;\n* The evaluation of symptoms and signs of neuropathy is at severe level (TCSS score \u226512);\n* For conventional standard drug treatment (combined use of Lipoic Acid Capsules, Methyl cobalamin Tablets, and Epalrestat Tablets) at least 6 months and TCSS score decrease \u226430%;\n\nExclusion Criteria:\n\n* Diseases that the investigator believes that it may interfere with subject compliance, including any uncontrolled diseases like in urinary, circulatory, respiratory, nervous, mental, digestive, endocrine, immune, and other system;\n* Pregnant women, breastfeeding women or those who have a childbearing plan soon;\n* Patients who are known to be allergic to cell products;\n* People with various types of malignancies or hematological diseases;\n* Complicated with severe lower extremity arterial disease (ankle-brachial index \\< 0.9)\n* Complicated with foot ulcers, infections, or lower extremity amputation;\n* Combined with neuropathy caused by other causes, such as lumbar spondylosis, cerebral infarction, Guillain-Barre Syndrome, excluding severe arteriovenous vascular disease, application of some chemotherapy drugs or renal insufficiency, etc. Nerve damage disease;\n* Those who are unable or unwilling to provide informed consent or fail to comply with research requirements;\n* Participated in other stem cell clinical researches before enrollment;\n* Participated in other clinical trials within 3 months before enrollment.\n* Patients with positive serum HIV antibodies;\n* Patients with a history of alcohol and drug abuse and failed to abstain effectively",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "55 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "WEI WEI",
+          "role": "CONTACT",
+          "phone": "+8615927268614",
+          "email": "vivi880614@163.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "SHI ZHAO",
+          "affiliation": "Wuhan Central Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "The Central Hospital of Wuhan",
+          "status": "RECRUITING",
+          "city": "Wuhan",
+          "state": "Hubei",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Shi Zhao",
+              "role": "CONTACT",
+              "phone": "+86 13707172291",
+              "email": "zhaoshiwuhan@126.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 30.58333,
+            "lon": 114.26667
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "After approval from the steering committee and the Human Genetic Resources Administration of China, this trial data can be shared with qualifying researchers who submit a proposal with a valuable research question. A contract should be signed."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008063",
+          "term": "Thioctic Acid"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D013876",
+          "term": "Thiophenes"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D003067",
+          "term": "Coenzymes"
+        },
+        {
+          "id": "D045762",
+          "term": "Enzymes and Coenzymes"
+        },
+        {
+          "id": "D005227",
+          "term": "Fatty Acids"
+        },
+        {
+          "id": "D008055",
+          "term": "Lipids"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

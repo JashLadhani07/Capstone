@@ -1,0 +1,28 @@
+{
+  "pmid": "25417902",
+  "title": "Phase I study of the MEK inhibitor trametinib in combination with the AKT inhibitor afuresertib in patients with solid tumors and multiple myeloma.",
+  "abstract": "To identify the maximum tolerated dose (MTD) and recommended Phase II dose of MEK/AKT inhibitor combination of trametinib and afuresertib. Eligibility criteria were advanced solid tumors, 18 years or older, Eastern Cooperative Oncology Group performance status 0 or 1, and adequate organ function. Exclusion criteria included Type 1 diabetes, active GI disease, leptomeningeal disease, or current evidence/risk of retinal venous occlusion/central serous retinopathy. Clinical safety parameters and response were evaluated and analyzed. Twenty patients were enrolled. Dose-limiting toxicities (Grade 2 esophagitis; Grade 3 aspartate aminotransferase increased, mucosal inflammation and hypokalemia) were reported at starting dose (1.5 mg trametinib/50 mg afuresertib once daily continuously), exceeding the MTD. Subsequent de-escalation cohorts (1.5 mg/25 mg or 1.0 mg/50 mg trametinib/afuresertib) were defined as MTDs for continuous dosing. Intermittent dosing schedule [1.5 mg trametinib (continuous)/50 mg afuresertib (Days 1-10 every 28 days)] was evaluated and considered tolerable. No patients were enrolled in Phase II. The most common adverse events reported (\u226510 % of all patients) included: diarrhea (60 %), dermatitis acneiform (55 %), maculo-papular rash (45 %), fatigue (30 %), dry skin (25 %), nausea (25 %), dyspnea (20 %), and vomiting (20 %). One partial response (BRAF wild-type melanoma) was reported; four patients had stable disease as best response. Continuous daily dosing of trametinib/afuresertib combination was poorly tolerated. Evaluation of intermittent dose schedule showed greater tolerability. Given the interest in combination treatment regimens of MAPK and PI3K/AKT pathway inhibitors, further study of intermittent dose schedule or combination of trametinib with more selective inhibitors may be warranted.",
+  "journal": "Cancer chemotherapy and pharmacology",
+  "pub_date": "2015-Jan",
+  "authors": [
+    "Tolcher, Anthony W",
+    "Patnaik, Amita",
+    "Papadopoulos, Kyriakos P",
+    "Rasco, Drew W",
+    "Becerra, Carlos R",
+    "Allred, Alicia J",
+    "Orford, Keith",
+    "Aktan, Gursel",
+    "Ferron-Brady, Geraldine",
+    "Ibrahim, Nageatte",
+    "Gauvin, Jennifer",
+    "Motwani, Monica",
+    "Cornfeld, Mark"
+  ],
+  "nct_ids_referenced": [
+    "NCT01476137"
+  ],
+  "source": "pubmed",
+  "word_count": 253,
+  "parsed_at": "2026-10-30T10:31:08.311024"
+}

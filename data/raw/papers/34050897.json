@@ -1,0 +1,28 @@
+{
+  "pmid": "34050897",
+  "title": "A Guideline-Based Decision Tree Achieves Better Glucose Control with Less Hypoglycemia at 3 Months in Chinese Diabetic Patients.",
+  "abstract": "China has the world's largest diabetes epidemic and has been facing a serious shortage of primary care providers for chronic diseases including diabetes. To help primary care physicians follow guidelines and mitigate the workload in primary care communities in China, we developed a guideline-based decision tree. This study aimed to validate it at 3\u00a0months with real-world data. The decision tree was developed based on the 2017 Chinese Type 2 Diabetes (T2DM) guideline and 2018 guideline for primary care. It was validated with the data from two registry studies: the NEW2D and ORBIT studies. Patients' data were divided into two groups: the compliance and non-compliance group, depending on whether the physician's prescription was consistent with the decision tree or not. The primary outcome was the difference of change in HbA1c from baseline to 3\u00a0months between the two groups. The secondary outcomes included the difference in the proportion of patients achieving HbA1c\u2009<\u20097% at 3\u00a0months between the two groups, the incidence of self-reported hypoglycemia at 3\u00a0months, and the proportion of patients (baseline HbA1c\u2009\u2265\u20097%) with a HbA1c reduction\u2009\u2265\u20090.3%. The statistical analysis was performed using linear or logistic regression with inverse probability of treatment weighting with adjustments of confounding factors. There was a 0.9% reduction of HbA1c in the compliance group and a 0.8% reduction in the non-compliance group (P\u2009<\u20090.001); 61.1% of the participants in the compliance group and 44.3% of the participants in the non-compliance group achieved a HbA1c level < 7% at 3\u00a0months (P\u2009<\u20090.001). The hypoglycemic events occurred in 7.1% of patients in the compliance group vs. 9.4% in the non-compliance group (P\u2009<\u20090.001). The decision tree can help physicians to treat their patients so that they achieve their glycemic targets with fewer hypoglycemic risks. ( http://www.clinicaltrials.gov NCT01525693 & NCT01859598).",
+  "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
+  "pub_date": "2021-Jul",
+  "authors": [
+    "Luo, Yingying",
+    "Wu, Hong",
+    "Liao, Xiyang",
+    "Zhao, Tingting",
+    "Cui, Nan",
+    "Li, Aihua",
+    "Sun, Xingzhi",
+    "Zhang, Puhong",
+    "Huang, Yahua",
+    "Zhang, Xia",
+    "Yin, Huiqiu",
+    "Ji, Linong"
+  ],
+  "nct_ids_referenced": [
+    "NCT01525693",
+    "NCT01859598"
+  ],
+  "source": "pubmed",
+  "word_count": 303,
+  "parsed_at": "2026-10-30T13:38:30.809701"
+}

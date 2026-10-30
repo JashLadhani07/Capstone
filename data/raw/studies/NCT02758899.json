@@ -1,0 +1,681 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02758899",
+      "orgStudyIdInfo": {
+        "id": "201309048"
+      },
+      "organization": {
+        "fullName": "Washington University School of Medicine",
+        "class": "OTHER"
+      },
+      "briefTitle": "Diabetes and Glycosylation in Cervical Spondylosis",
+      "officialTitle": "The Effects of Diabetes and Glycosylation Profile on Outcomes in the Surgical Treatment of Cervical Spondylosis"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-02",
+      "overallStatus": "TERMINATED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2014-03"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2016-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2016-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-04-26",
+      "studyFirstSubmitQcDate": "2016-04-27",
+      "studyFirstPostDateStruct": {
+        "date": "2016-05-03",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2019-04-23",
+      "resultsFirstSubmitQcDate": "2020-08-03",
+      "resultsFirstPostDateStruct": {
+        "date": "2020-08-18",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-02-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-02-10",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Washington University School of Medicine",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine the relevant significance of diabetes on cervical disc degeneration, and correlate diabetic control (HgbA1C) with disc glycosylation profile in patients undergoing anterior cervical discectomy and fusion for cervical spondylosis. Additionally, to compare the level of degenerative cervical disc glycosylation in patients with and without diabetes.\n\nHypothesis: Patients with diabetes and degenerative cervical disc disease have higher levels of disc tissue glycosylation, and higher levels of glycosylation are correlated with poor outcomes.",
+      "detailedDescription": "Spine surgery has increased substantially in the U.S. during the past decade, with an estimated 100,000 patients undergoing cervical procedures annually. As the demographics of an aging population begin to increase their utilization of healthcare resources, surgeons will undoubtedly be faced with an increasing number of high-risk patients. A number of factors including smoking, obesity, and diabetes significantly contribute to surgical complications following spinal arthrodesis. Nicotine has a direct inhibitory effect on autologous cancellous bone graft revascularization, significantly increasing the rate of bony non-union. Similarly, obesity has been demonstrated to represent a significant risk factor for subsequent pseudoarthrosis and has been linked to nearly a 100% higher in-hospital complication rate. Spine instrumentation in the setting of diabetes has been linked to reduced incidence of bony fusion, increased surgical site infection9, and higher hospital costs.\n\nAchieving solid bony fusion following cervical arthrodesis has long been considered the most important primary outcome measure and is highly correlated with patient reported outcome measures. Non-union or pseudoarthrosis following cervical instrumentation can lead to persistent neck pain and/or recurrence of myeloradiculopathy. The incidence of bony fusion is affected by both patient systemic factors and local biologic environment. Significant resources have been invested into studying local environment following spinal arthrodesis, with a particular focus on high-risk patients. Animal studies have suggested diabetes is a significant risk factor for disc degeneration, yet corresponding human studies are lacking. Understanding the mechanism by which diabetes contributes to disc degeneration is the first requisite step in designing therapies to prevent diabetes associated disc degeneration."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes",
+        "Cervical Myelopathy",
+        "Cervical Spondylosis"
+      ],
+      "keywords": [
+        "Anterior cervical discectomy",
+        "Anterior cervical fusion"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 21,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Diabetic Patients",
+          "description": "Patients with diagnosis of type I or type II diabetes, in addition to clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+        },
+        {
+          "label": "Control Patients",
+          "description": "Patients with no diagnosis of diabetes, with a clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Absolute Disc Glycosylation Levels",
+          "description": "After extraction during surgery, the intervertebral disc will be sent in saline to the lab for glycosylation analysis. Glycosylation refers to the chemical bonds of blood glucose to the red blood cells. Normally, only a small percentage of blood glucose, usually between 4.5%- 6%, is covalently linked to the red blood cells in hemoglobin of the non diabetes population.",
+          "timeFrame": "One-time, measured at time of surgery"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Neck Disability Index (NDI)",
+          "description": "Questionnaire to determine how subject's neck pain has affected their ability to manage in everyday life. Scores are calculated. Low scores indicate less pain/less disability. High scores indicate more pain/more disability. Scores range from 0-100.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Rates of Fusion",
+          "description": "Rate of fusion will be assessed by flexion extension X-rays at routine follow-up, translation method (\\<2mm) and/or by computed tomography (CT) scan at 2 year post- operatively.",
+          "timeFrame": "24 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18-75\n* A diagnosis of type I or type II diabetes mellitus (diabetes cohort only)\n* Clinical diagnosis of cervical myelopathy or cervical spondylosis\n* Requiring anterior cervical discectomy and fusion\n* Able to cooperate in the completion of standardized outcome measures (NDI)\n* Willing and able to comply with study protocol\n* Control patients will fulfill all eligibility criteria with the exception of diagnosis of diabetes.\n\nExclusion Criteria:\n\n* Pre-existent neurologic disorder or mental disorder that would preclude accurate evaluation (psychiatric disease, Parkinson's disease, Alzheimer's disease)\n* History of previous anterior cervical fusion adjacent to the operative site\n* Osteoporosis\n* Rheumatoid arthritis\n* Pregnancy\n* Active malignancy\n* History of previous posterior cervical decompression",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients with a clinical diagnosis of cervical myelopathy or cervical spondylosis that require an anterior cervical discectomy and fusion.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Wilson Z Ray, MD",
+          "affiliation": "Washington University School of Medicine",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Diabetic Patients",
+          "description": "Patients with diagnosis of type I or type II diabetes, in addition to clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+        },
+        {
+          "id": "FG001",
+          "title": "Control Patients",
+          "description": "Patients with no diagnosis of diabetes, with a clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "There were 11 diabetic patients consented, but 2 were withdrawn. One declined surgery and the other, we could not collect sample due to emergent surgery. Therefore, we have results on 9 diabetic pts. Controls - we started with 10. No sample was collected on one subject, so we ended with 9. This explains difference in participant flow numbers.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Diabetic Patients",
+          "description": "Patients with diagnosis of type I or type II diabetes, in addition to clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+        },
+        {
+          "id": "BG001",
+          "title": "Control Patients",
+          "description": "Patients with no diagnosis of diabetes, with a clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "9"
+            },
+            {
+              "groupId": "BG001",
+              "value": "9"
+            },
+            {
+              "groupId": "BG002",
+              "value": "18"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Absolute Disc Glycosylation Levels",
+          "description": "After extraction during surgery, the intervertebral disc will be sent in saline to the lab for glycosylation analysis. Glycosylation refers to the chemical bonds of blood glucose to the red blood cells. Normally, only a small percentage of blood glucose, usually between 4.5%- 6%, is covalently linked to the red blood cells in hemoglobin of the non diabetes population.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "R2 of glycosylation in the disc",
+          "timeFrame": "One-time, measured at time of surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Diabetic Patients",
+              "description": "Patients with diagnosis of type I or type II diabetes, in addition to clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+            },
+            {
+              "id": "OG001",
+              "title": "Control Patients",
+              "description": "Patients with no diagnosis of diabetes, with a clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.0528"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.44065"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Neck Disability Index (NDI)",
+          "description": "Questionnaire to determine how subject's neck pain has affected their ability to manage in everyday life. Scores are calculated. Low scores indicate less pain/less disability. High scores indicate more pain/more disability. Scores range from 0-100.",
+          "populationDescription": "Neck Disability Index questionnaires were given to all patients in the study pre-operatively and at set intervals post-operatively. The study ended earlier than originally anticipated. The number of questionnaires that were completed were not enough to do a thorough analysis.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "24 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Diabetic Patients",
+              "description": "Patients with diagnosis of type I or type II diabetes, in addition to clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+            },
+            {
+              "id": "OG001",
+              "title": "Control Patients",
+              "description": "Patients with no diagnosis of diabetes, with a clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Rates of Fusion",
+          "description": "Rate of fusion will be assessed by flexion extension X-rays at routine follow-up, translation method (\\<2mm) and/or by computed tomography (CT) scan at 2 year post- operatively.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "24 months",
+          "denomUnitsSelected": "Participants"
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse Events were collected for 2 years after surgery.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Diabetic Patients",
+          "description": "Patients with diagnosis of type I or type II diabetes, in addition to clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 9,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 9,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 9
+        },
+        {
+          "id": "EG001",
+          "title": "Control Patients",
+          "description": "Patients with no diagnosis of diabetes, with a clinical diagnosis of cervical myelopathy or cervical spondylosis requiring anterior cervical discectomy and fusion.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 9,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 9,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 9
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Wilson Z. Ray",
+        "organization": "Washington University",
+        "email": "rayz@wustl.edu",
+        "phone": "314-747-6145"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D055009",
+          "term": "Spondylosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D013122",
+          "term": "Spinal Diseases"
+        },
+        {
+          "id": "D001847",
+          "term": "Bone Diseases"
+        },
+        {
+          "id": "D009140",
+          "term": "Musculoskeletal Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

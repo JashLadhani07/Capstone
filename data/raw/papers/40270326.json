@@ -1,0 +1,32 @@
+{
+  "pmid": "40270326",
+  "title": "Association Between Circulating Gremlin 2 and \u03b2-Cell Function Among Participants With Prediabetes and Type 2 Diabetes.",
+  "abstract": "Circulating Gremlin 2 (Grem2) has recently been linked to human obesity, but its role in type 2 diabetes (T2D) remains unclear. This study aims to explore the association of circulating Grem2 with \u03b2-cell function. A post hoc analysis was conducted using data from three clinical trials, in which all participants underwent the oral glucose tolerance test (OGTT). Circulating Grem2 levels were measured at 0, 1, and 2\u2009h during the OGTT. In Trial 1, Grem2 levels were compared between participants with T2D (n\u2009=\u200959) and without T2D (n\u2009=\u2009119). We further examined changes in Grem2 levels in response to oral antidiabetic drugs in participants with T2D in Trial 2 (n\u2009=\u200967) and calorie restriction in participants with prediabetes in Trial 3 (n\u2009=\u2009231). The relationship between Grem2 levels and \u03b2-cell function was analyzed across all trials. Fasting and 1-h Grem2 levels were lower in participants with T2D compared with those without T2D (728\u2009\u00b1\u200925 vs. 649\u2009\u00b1\u200931\u2009pg/mL, p\u2009=\u20090.020; 631\u2009\u00b1\u200926 vs. 537\u2009\u00b1\u200931\u2009pg/mL, p\u2009=\u20090.007). Fasting Grem2 levels were restored after antidiabetic treatment (550\u2009\u00b1\u200912 vs. 575\u2009\u00b1\u200912\u2009pg/mL, p\u2009=\u20090.019), and 1-h Grem2 levels increased following calorie restriction (1118\u2009\u00b1\u200989 vs. 1144\u2009\u00b1\u200990 vs. 1253\u2009\u00b1\u200989\u2009pg/mL, p for trend\u2009=\u20090.002). The 1-h Grem2 levels were positively associated with \u03b2-cell function assessed by the oral disposition index and HOMA-\u03b2. Reduced circulating Grem2 levels are associated with impaired \u03b2-cell function in T2D, and could be restored through antidiabetic interventions. ClinicalTrials.gov: NCT01959984, NCT01758471, NCT03856762.",
+  "journal": "Journal of diabetes",
+  "pub_date": "2025-Apr",
+  "authors": [
+    "Ni, Mengshan",
+    "Chen, Yanru",
+    "Gu, Weiqiong",
+    "Zhang, Yifei",
+    "Xu, Min",
+    "Gu, Yanyun",
+    "Chen, Yufei",
+    "Zhu, Yinmeng",
+    "Wang, Xiao",
+    "Luo, Yaogan",
+    "Xu, Yu",
+    "Lin, Xu",
+    "Zeng, Yi Arial",
+    "Liu, Ruixin",
+    "Wang, Jiqiu"
+  ],
+  "nct_ids_referenced": [
+    "NCT03856762",
+    "NCT01758471",
+    "NCT01959984"
+  ],
+  "source": "pubmed",
+  "word_count": 263,
+  "parsed_at": "2026-10-30T13:38:40.389934"
+}

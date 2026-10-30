@@ -1,0 +1,24 @@
+{
+  "pmid": "20962157",
+  "title": "Increased hepatic fat in overweight Hispanic youth influenced by interaction between genetic variation in PNPLA3 and high dietary carbohydrate and sugar consumption.",
+  "abstract": "Recently, a genetic variant (rs738409; C\u2192G) of the PNPLA3 gene was identified to be associated with increased hepatic fat deposition, and the effect was more pronounced in Hispanics. Animal models have also shown that PNPLA3 expression can be regulated by dietary carbohydrate. The aim of this study was to examine whether the influence of PNPLA3 genotype on hepatic fat is modulated by dietary factors in Hispanic children. PNPLA3 was genotyped in 153 Hispanic children (75% female, ages 8-18 y) by using the TaqMan method. Dietary intake was assessed by using three 24-h dietary recalls or diet records. Visceral adipose tissue (VAT), subcutaneous abdominal adipose tissue (SAAT), and hepatic fat fraction (HFF) were assessed in multiple abdominal slices by magnetic resonance imaging. Analysis of covariance was used to assess the diet \u00d7 genotype interaction in liver fat, with the following a priori covariates: sex, age, energy, VAT, and SAAT. HFF was influenced by a significant interaction between genotype and diet (genotype \u00d7 carbohydrate, P = 0.04; genotype \u00d7 total sugar, P = 0.01). HFF was positively related to carbohydrate (r = 0.31, P = 0.04) and total sugar (r = 0.34, P = 0.02) intakes but only in the GG group, independent of covariates. Dietary variables were not related to HFF in the CC or CG group or to other fat depots in all genotype groups. These findings suggest that Hispanic children carrying the GG genotype are susceptible to increased hepatic fat when dietary carbohydrate intake, specifically sugar, is high. Specific dietary interventions based on genetic predisposition in this population may lead to more effective therapeutic outcomes for fatty liver. This trial was registered at clinicaltrials.gov as NCT00697580, 195-1642394A1, and NCT00693511.",
+  "journal": "The American journal of clinical nutrition",
+  "pub_date": "2010-Dec",
+  "authors": [
+    "Davis, Jaimie N",
+    "L\u00ea, Kim-Anne",
+    "Walker, Ryan W",
+    "Vikman, Susanna",
+    "Spruijt-Metz, Donna",
+    "Weigensberg, Marc J",
+    "Allayee, Hooman",
+    "Goran, Michael I"
+  ],
+  "nct_ids_referenced": [
+    "NCT00693511",
+    "NCT00697580"
+  ],
+  "source": "pubmed",
+  "word_count": 280,
+  "parsed_at": "2026-10-30T13:37:51.694419"
+}

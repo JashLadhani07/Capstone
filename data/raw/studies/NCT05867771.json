@@ -1,0 +1,208 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05867771",
+      "orgStudyIdInfo": {
+        "id": "PM1022-AB001M-ST-R"
+      },
+      "organization": {
+        "fullName": "BioNTech SE",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of PM1022 in Patients With Advanced Tumors",
+      "officialTitle": "A Phase I/IIa Study to Evaluate the Tolerance, Safety, Pharmacokinetic Characteristics and Preliminary Efficacy of PM1022 in Patients With Advanced Tumors"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-05",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-04-11",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-10",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2025-04-10",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-05-04",
+      "studyFirstSubmitQcDate": "2023-05-10",
+      "studyFirstPostDateStruct": {
+        "date": "2023-05-22",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-05-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-05-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Biotheus Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study incluces a phase I study to evaluate the tolerance, safety, pharmacokinetic characteristics and preliminary efficacy of PM1022 in patients with advanced tumors and a phase IIa study to investigate the efficacy of PM1022 in patients with advanced tumors.",
+      "detailedDescription": "PM1022 is a recombinant humanized anti-PDL1 and anti-TIGIT bispecific antibody. This Phase 1/2, multicenter, first-in-human, open-label, dose-escalation, dose expansion, and clinical expansion study will evaluate the safety, tolerability, pharmacokinetics, and preliminary anti-tumor efficacy of PM1022 administered as a single-agent by IV infusion every 3 weeks to patients with locally advanced or metastatic solid malignancies, who have failed or are intolerant to standard therapy, or for whom no standard therapy is available."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Advanced Tumors"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SEQUENTIAL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 200,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "PM1022",
+          "type": "EXPERIMENTAL",
+          "description": "PM1022 Injection",
+          "interventionNames": [
+            "Drug: PM1022"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "PM1022",
+          "description": "PM1022 Injection",
+          "armGroupLabels": [
+            "PM1022"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Adverse events",
+          "description": "To evaluate the safety and tolerability of PM1022 in treatment of advanced tumors.",
+          "timeFrame": "Up to 30 days after last treatment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Voluntary participation in clinical study; fully understand the study and sign informed consent voluntarily; willing to follow and able to complete all test procedures;\n* No gender limit, aged 18 to 75 years (boundary values included);\n* Subjects with malignant tumor confirmed by histology or cytology;\n* Adequate organ function;\n* Eastern Cooperative Oncology Group score was 0-1;\n* Expected survival \\>=12 weeks;\n* According to RECIST V1.1, there are at least one evaluable or measurable tumor lesion;\n* All subjects should undergo biopsy of tumor lesions during the screening; if biopsy is not possible, formalin-fixed-paraffin-embedded (FFPE)-processed tumor samples closest to the start of study treatment should be provided for biomarker analysis;\n* Pre-menopausal female subjects with negative blood pregnancy results within 7 days prior to the study treatment, and agree to abstain from sex or use medically approved effective contraceptive measures for 5 months from the date of signing the informed consent form to the end of the last medication;\n* Male subjects are willing to remain abstinent from sex or use medically approved highly effective contraception from the time of signing the informed consent to 5 months after the end of the last medication, and do not donate sperm during this period.\n\nExclusion Criteria:\n\n* History of severe allergic, severe allergy to drugs or known allergy to any component of the drug in this study;\n* Previous exposure to immune costimulatory molecule agonists or immune checkpoint inhibitors of patients in phase I;\n* Patients who have grade \\>=3 immune-mediated adverse event (AE) that associated with a prior immunotherapy;\n* Adverse reactions to previous antitumor therapy have not recovered to NCI-CTCAE V5.0 rating \\<= 1;\n* Current definite interstitial lung disease or non-infectious pneumonitis, except for local radiotherapy;\n* Received the following treatments or medications before starting treatment:\n\n  1. Underwent major organ surgery (excluding needle biopsy) within 28 days before starting study treatment, or required elective surgery during the trial;\n  2. Live attenuated vaccine was administered within 28 days before the study began;\n  3. Received anti-tumor therapy within 4 weeks before the first dose;\n  4. Received systemic glucocorticoids within 14 days prior to study initiation;\n* Cerebral parenchymal metastasis or meningeal metastasis with clinical symptoms were deemed unsuitable for inclusion by the investigator;\n* Patients with active autoimmune disease or a history of autoimmune disease with potential for relapse;\n* Patients with other active malignancies within 5 years prior to initiation of study treatment;\n* History of severe cardiovascular and cerebrovascular diseases;\n* Patients with uncontrolled tumor-related pain;\n* Current presence of uncontrolled pleural, pericardial, and peritoneal effusions;\n* Unexplained fever \\>38.5\u00b0C during the screening or before the initiation of study treatment (fever caused by tumor can be included according to the investigator);\n* History of allogeneic hematopoietic stem cell transplantation or allogeneic organ transplantation;\n* History of alcohol, psychotropic substance or drug abuse;\n* History of psychiatric disorders or poor compliance;\n* History of immunodeficiency, including a positive HIV antibody test;\n* Patients with active syphilis infection;\n* Patients with active hepatitis B or C;\n* According to the investigator, the underlying condition of the patient may increase the risk of receiving the investigational drug, or cause confusion for the interpretation of the toxic reaction and AE.\n* Pregnant or lactating patients;\n* Other conditions considered unsuitable for this study by investigator.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Ye Guo",
+          "role": "CONTACT",
+          "phone": "+86 13501678472",
+          "email": "Pattrickguo@gmail.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Ye Guo",
+          "affiliation": "Shanghai East Hospital (South Campus)",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Yan Zhang",
+          "status": "RECRUITING",
+          "city": "Jinan",
+          "state": "Shandong",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Yan Zhang",
+              "role": "CONTACT",
+              "phone": "+86 13853110681",
+              "email": "zhangyan0681@163.com"
+            },
+            {
+              "name": "Yan Zhang",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Xudong Hu",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 36.66833,
+            "lon": 116.99722
+          }
+        },
+        {
+          "facility": "Ye Guo",
+          "status": "RECRUITING",
+          "city": "Shanghai",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Ye Guo",
+              "role": "CONTACT",
+              "phone": "+8613501678472",
+              "email": "Pattrickguo@gmail.com"
+            },
+            {
+              "name": "Ye Guo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 31.22222,
+            "lon": 121.45806
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    }
+  },
+  "hasResults": false
+}

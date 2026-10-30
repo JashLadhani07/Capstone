@@ -1,0 +1,304 @@
+{
+  "nct_id": "NCT07822555",
+  "title": "Tiny Hooves, Big Impact - A Feasibility Study of Miniature Equine-Assisted Diabetes Education for Children With Diabetes",
+  "sponsor": "Nemours Children's Clinic",
+  "phase": "NA",
+  "status": "NOT_YET_RECRUITING",
+  "conditions": [
+    "Diabetes (Insulin-requiring, Type 1 or Type 2)",
+    "Pediatric Diabetes",
+    "Diabetes (DM)"
+  ],
+  "interventions": [
+    "Diabetes & Equine Empowerment Program (DEEP)"
+  ],
+  "primary_outcome": "Participant Recruitment Rate",
+  "secondary_outcomes": [
+    "Change in Diabetes Distress Assessed by the Problem Areas in Diabetes Questionnaires (PAID-C/PAID-T)",
+    "Change in Diabetes Self-Management Behaviors Assessed by the Self-Care Inventory-Updated (SCI-U)",
+    "Routine Diabetes Appointment Attendance Assessed by Electronic Health Record Review",
+    "Diabetes Technology Initiation Assessed by Electronic Health Record Review"
+  ],
+  "start_date": "2026-10-01",
+  "completion_date": "2027-10-01",
+  "results_posted": false,
+  "enrollment": 50,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07822555",
+        "orgStudyIdInfo": {
+          "id": "MOD00002923"
+        },
+        "organization": {
+          "fullName": "Nemours Children's Clinic",
+          "class": "OTHER"
+        },
+        "briefTitle": "A Novel Miniature Equine-Assisted Diabetes Education Program for Youth: Evaluating the Diabetes Equine Empowerment Program (DEEP).",
+        "officialTitle": "Tiny Hooves, Big Impact - A Feasibility Study of Miniature Equine-Assisted Diabetes Education for Children With Diabetes",
+        "acronym": "DEEP"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-09",
+        "overallStatus": "NOT_YET_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2026-10-01",
+          "type": "ESTIMATED"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-10-01",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2028-10-01",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2026-08-18",
+        "studyFirstSubmitQcDate": "2026-09-11",
+        "studyFirstPostDateStruct": {
+          "date": "2026-09-16",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-09-11",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-09-16",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Jennifer Pfieffer",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "Nemours Children's Health System"
+        },
+        "leadSponsor": {
+          "name": "Nemours Children's Clinic",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The Diabetes \\& Equine Empowerment Program (DEEP) is a research study evaluating a novel diabetes education program that combines hands-on interactions with miniature horses and evidence-based diabetes self-management education for youth ages 8-20 years with diabetes. Participants and their caregivers attend four structured educational sessions led by a diabetes specialist and a certified equine specialist. Topics include diabetes self-management, coping skills, problem-solving, self-advocacy, and transition readiness. Researchers will evaluate whether the program is feasible to deliver, acceptable to participants and families, and helpful in supporting engagement in diabetes care. Participants will be followed for up to six months after the program, and study outcomes include satisfaction, diabetes-related distress, self-care behaviors, clinic attendance, and diabetes technology use.\n\nIn simple terms, this study is exploring whether learning about diabetes through guided activities with miniature horses can help children, adolescents, and young adults feel more confident in managing their diabetes, improve self-care skills, and become more engaged in their health care. The goal is to determine whether this innovative educational approach is practical to offer and valued by patients, families, and health care providers.",
+        "detailedDescription": "Youth with diabetes often face challenges related to self-management, problem-solving, coping with the daily demands of diabetes, and developing the skills needed for increasing independence. Innovative approaches that promote engagement and active participation may help address these challenges while supporting diabetes education and self-confidence.\n\nThe Diabetes \\& Equine Empowerment Program (DEEP) was developed to integrate experiential learning with diabetes education through structured interactions with miniature horses. The program is designed to create a supportive, interactive environment in which participants can practice communication, goal setting, self-advocacy, and problem-solving while reinforcing key diabetes self-management concepts. Educational content is tailored to developmental level and incorporates activities intended to enhance engagement, self-efficacy, and readiness for independent diabetes management.\n\nThis single-arm feasibility study will evaluate the implementation of the DEEP program among youth with diabetes and their caregivers. Participants will complete a series of structured sessions facilitated by a diabetes specialist and a certified equine specialist. The study will examine the practicality of recruitment strategies, participant retention, attendance, and completion of study activities. Acceptability of the intervention will be assessed through participant and caregiver feedback regarding satisfaction, perceived value, and willingness to recommend the program to others.\n\nIn addition to feasibility and acceptability outcomes, exploratory measures will assess potential changes in diabetes-related psychosocial and behavioral outcomes, including diabetes distress, self-management behaviors, healthcare engagement, and diabetes technology utilization. Data collected through participant-reported measures and medical record review will be used to inform future research and the potential development of larger controlled studies evaluating equine-assisted diabetes education interventions. Participants will be followed for up to six months after program completion."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes (Insulin-requiring, Type 1 or Type 2)",
+          "Pediatric Diabetes",
+          "Diabetes (DM)"
+        ],
+        "keywords": [
+          "Pediatric Diabetes",
+          "Young Adults with Diabetes",
+          "Self-Management Education for Diabetes",
+          "Equine -Assisted Therapy",
+          "Eqauine-Assisted Learning",
+          "Diabetes Education",
+          "Patient Engagement"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "interventionModelDescription": "Single Group Assignment. All enrolled participants receive the DEEP intervention, a structured miniature equine-assisted diabetes education program. The study is designed as a single-arm feasibility and acceptability trial with no randomization or comparison group. Participants and caregivers complete four educational sessions that integrate experiential learning with diabetes self-management education. Outcomes are collected longitudinally to evaluate feasibility, acceptability, participant satisfaction, and exploratory psychosocial and behavioral measures.",
+          "primaryPurpose": "SUPPORTIVE_CARE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 50,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Diabetes & Equine Empowerment Program (DEEP)",
+            "type": "EXPERIMENTAL",
+            "description": "Participants in this single-arm intervention will receive the Diabetes \\& Equine Empowerment Program (DEEP), a miniature equine-assisted diabetes education program. Participants and their caregivers will attend four structured sessions led by a diabetes specialist and a certified equine specialist. Sessions combine experiential learning activities with diabetes education focused on self-management, coping skills, problem-solving, self-advocacy, and transition readiness. The study will evaluate feasibility, acceptability, participant satisfaction, and exploratory psychosocial and behavioral outcomes.",
+            "interventionNames": [
+              "Behavioral: Diabetes & Equine Empowerment Program (DEEP)"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Diabetes & Equine Empowerment Program (DEEP)",
+            "description": "The Diabetes \\& Equine Empowerment Program (DEEP) is a behavioral and educational intervention that combines evidence-based diabetes self-management education with structured, hands-on interactions involving miniature horses. Youth with diabetes and their caregivers participate in four facilitated sessions led by a diabetes specialist and a certified equine specialist. Session activities are designed to reinforce diabetes self-management skills, coping strategies, problem-solving, communication, self-advocacy, and transition readiness through experiential learning. The intervention aims to improve participant engagement, confidence in diabetes management, and readiness for increasing independence while providing a supportive and interactive learning environment. The program is being evaluated for feasibility, acceptability, participant satisfaction, and potential effects on psychosocial and behavioral outcomes.",
+            "armGroupLabels": [
+              "Diabetes & Equine Empowerment Program (DEEP)"
+            ],
+            "otherNames": [
+              "DEEP",
+              "Miniature Equine-Assisted Diabetes Education"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Participant Recruitment Rate",
+            "description": "Recruitment feasibility will be assessed by the proportion of eligible participants who enroll in the four-session miniature equine-assisted diabetes education program, as documented in study enrollment records.",
+            "timeFrame": "From study initiation through completion of enrollment (approximately 9 months)"
+          },
+          {
+            "measure": "Participant Retention Rate",
+            "description": "Retention feasibility will be assessed by the proportion of enrolled participants who remain in the study and complete scheduled study assessments, as documented in study records.",
+            "timeFrame": "From enrollment through completion of study participation (approximately 9 months)"
+          },
+          {
+            "measure": "Program Attendance Rate",
+            "description": "Attendance feasibility will be assessed by the proportion of scheduled miniature equine-assisted diabetes education sessions attended by participants, as documented in program attendance logs.",
+            "timeFrame": "From enrollment through completion of study participation (approximately 9 months)"
+          },
+          {
+            "measure": "Program Completion Rate",
+            "description": "Completion feasibility will be assessed by the proportion of enrolled participants who complete all four miniature equine-assisted diabetes education sessions.",
+            "timeFrame": "From enrollment through completion of study participation (approximately 9 months)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change in Diabetes Distress Assessed by the Problem Areas in Diabetes Questionnaires (PAID-C/PAID-T)",
+            "description": "Change in diabetes-related emotional distress among youth participants as measured by the Problem Areas in Diabetes questionnaires, including the PAID-C for participants ages 8-12 years and the PAID-T for participants ages 13-17 years. Higher scores indicate greater diabetes-related distress",
+            "timeFrame": "Baseline to immediately after completion of the four-session DEEP program"
+          },
+          {
+            "measure": "Change in Diabetes Self-Management Behaviors Assessed by the Self-Care Inventory-Updated (SCI-U)",
+            "description": "Change in diabetes self-management behaviors as measured by the Self-Care Inventory-Updated (SCI-U), a validated self-report questionnaire that assesses adherence to diabetes self-care activities, including blood glucose monitoring, medication administration, and diabetes-related self-management tasks. Higher scores indicate better adherence to the diabetes care plan.",
+            "timeFrame": "Baseline to immediately after completion of the four-session DEEP program"
+          },
+          {
+            "measure": "Routine Diabetes Appointment Attendance Assessed by Electronic Health Record Review",
+            "description": "Change in routine diabetes clinic appointment attendance as assessed through electronic health record review. Attendance will be evaluated by comparing the proportion of scheduled diabetes clinic visits attended before participation and following completion of the DEEP program",
+            "timeFrame": "Six months before participation through six months after program completion"
+          },
+          {
+            "measure": "Diabetes Technology Initiation Assessed by Electronic Health Record Review",
+            "description": "The number of participants who initiate diabetes technology, including continuous glucose monitoring and/or insulin pump therapy, within six months following program completion, as documented through electronic health record review.",
+            "timeFrame": "Program completion through six months after program completion"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 8 to 20 years\n* Diagnosis of type 1 or type 2 diabetes\n* Most recent HbA1c greater than 9.0% OR no diabetes clinic follow-up for more than 6 months\n* English-speaking participant and caregiver\n* Receiving diabetes care at the participating study site\n* Willing and able to participate in the DEEP intervention\n* Able to attend all four study sessions\n* Able to provide informed consent/assent, as applicable\n* Caregiver willing to participate in study activities and assessments\n\nExclusion Criteria:\n\n* Non-English-speaking participant or caregiver\n* Medical, physical, cognitive, or behavioral condition that would prevent safe participation in study activities\n* Significant fear of horses that would limit participation\n* Allergy to horses that would limit participation\n* Previous participation in the DEEP intervention\n* Inability or unwillingness to complete study procedures or follow-up assessments\n* Any condition that, in the opinion of the investigators, would make participation unsafe or interfere with study completion",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "8 Years",
+        "maximumAge": "20 Years",
+        "stdAges": [
+          "CHILD",
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Jennifer E Pfieffer, APRN, PCNS-BC, ESMHL",
+            "role": "CONTACT",
+            "phone": "904-697-3600",
+            "email": "Jennifer.Pfieffer@nemours.org"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Susana Patton, PhD, ABPP, CDCES",
+            "affiliation": "Nemours Children's Health",
+            "role": "STUDY_DIRECTOR"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED",
+        "description": "Individual participant data (IPD) sharing plans have not yet been determined. Because this is an early-stage feasibility study with a small sample size, data sharing considerations will be evaluated following completion of the study and analysis of the results. Any future sharing of de-identified data will be considered in accordance with applicable regulations, institutional policies, participant privacy protections, and informed consent provisions."
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot_SAP",
+            "hasProtocol": true,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Study Protocol and Statistical Analysis Plan",
+            "date": "2026-03-28",
+            "uploadDate": "2026-09-04T13:11",
+            "filename": "Prot_SAP_000.pdf",
+            "size": 4107890
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D010358",
+            "term": "Patient Participation"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D010342",
+            "term": "Patient Acceptance of Health Care"
+          },
+          {
+            "id": "D000074822",
+            "term": "Treatment Adherence and Compliance"
+          },
+          {
+            "id": "D015438",
+            "term": "Health Behavior"
+          },
+          {
+            "id": "D001519",
+            "term": "Behavior"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604444"
+}

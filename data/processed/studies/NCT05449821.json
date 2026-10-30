@@ -1,0 +1,276 @@
+{
+  "nct_id": "NCT05449821",
+  "title": "Serum and Saliva Asprosin Levels Are Associated With Periodontitis",
+  "sponsor": "Ataturk University",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Periodontitis",
+    "Obesity",
+    "Diabetes Mellitus"
+  ],
+  "interventions": [
+    "Serum and salivary samples will be collected. Asprosin levels will be determined by biochemical analysis"
+  ],
+  "primary_outcome": "Asprosin Levels",
+  "secondary_outcomes": [],
+  "start_date": "2022-01-01",
+  "completion_date": "2022-11-01",
+  "results_posted": false,
+  "enrollment": 65,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05449821",
+        "orgStudyIdInfo": {
+          "id": "MIC2"
+        },
+        "organization": {
+          "fullName": "Ataturk University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Investigation of Asprosin a Novel Adipokine in Periodontitis",
+        "officialTitle": "Serum and Saliva Asprosin Levels Are Associated With Periodontitis"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2023-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2022-01-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2022-11-01",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2022-12-01",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2022-07-05",
+        "studyFirstSubmitQcDate": "2022-07-05",
+        "studyFirstPostDateStruct": {
+          "date": "2022-07-08",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2023-01-31",
+        "lastUpdatePostDateStruct": {
+          "date": "2023-02-01",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Sema Nur Sevinc",
+          "investigatorTitle": "Assistant Professor",
+          "investigatorAffiliation": "Ataturk University"
+        },
+        "leadSponsor": {
+          "name": "Ataturk University",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Asprosin, a recently discovered glucogenic adipokine, is mainly synthesized by white adipose tissue and released during fasting. Appetite, glucose metabolism, insulin resistance, cell apoptosis, etc. asprosin is associated with diseases such as diabetes, obesity, polycystic ovary syndrome, and cardiovascular diseases. Periodontal tissue may act as a source of endocrine-like inflammatory mediators (such as TNF-\u03b1, IL-6 and IL-1) that are important in periodontal inflammation and can affect glucose and lipid metabolism. Production of TNF-\u03b1 and IL-6 in adipose tissues strengthens the relationship between obesity, T2DM and periodontitis.we postulated that asprosin may be candidate for explaining the triangular relationship among obesity, T2DM, and periodontal disease.",
+        "detailedDescription": "Periodontal disease is a chronic, multifactorial, and infectious disease caused by bacteria. It is characterized by the formation of an inflammatory response in the supporting bone and connective tissue against microbial dental plaque, and the nature of the resulting inflammatory response determines the course of periodontal disease. Type 2 Diabetes Mellitus (T2DM), obesity, and periodontal disease are closely related, presenting a triad association. Obesity is the crucial cause of T2DM and periodontitis is the sixth complication of diabetes. Asprosin circulates in the blood at nanomolar levels and is taken to the liver, where it activates the G protein-cAMP-PKA pathway, causing rapid glucose release into the circulation. Insulin-resistant humans and mice have been reported to have pathologically elevated plasma asprosin levels. It will be investigated whether asprosin, which we know to be effective on glucose metabolism, is affected by the periodontal condition."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Periodontitis",
+          "Obesity",
+          "Diabetes Mellitus"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "CASE_CONTROL",
+          "timePerspective": "CROSS_SECTIONAL"
+        },
+        "bioSpec": {
+          "retention": "SAMPLES_WITHOUT_DNA",
+          "description": "saliva and plasma samples"
+        },
+        "enrollmentInfo": {
+          "count": 65,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Periodontitis group",
+            "description": "35 subjects had periodontitis. Periodontitis will be staged by including patients with a periodontal pocket (PD) measurement of 4 mm and above, accompanied by attachment loss and radiographic bone loss.",
+            "interventionNames": [
+              "Diagnostic Test: Serum and salivary samples will be collected. Asprosin levels will be determined by biochemical analysis"
+            ]
+          },
+          {
+            "label": "Healthy group",
+            "description": "30 subjects had healthy periodontal tissue.Healthy controls included volunteers with clinically healthy gingiva on an intact periodontium who had BOP \\< 10% and PD \u2264 3 mm, no sites with attachment loss, no radiographic sign of alveolar bone destruction, and no history of periodontitis.",
+            "interventionNames": [
+              "Diagnostic Test: Serum and salivary samples will be collected. Asprosin levels will be determined by biochemical analysis"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "Serum and salivary samples will be collected. Asprosin levels will be determined by biochemical analysis",
+            "description": "Serum and saliva samples will be collected from both groups for biochemical analysis.",
+            "armGroupLabels": [
+              "Healthy group",
+              "Periodontitis group"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Asprosin Levels",
+            "description": "Determination of asprosin levels by making biochemical analyzes from serum and saliva samples obtained",
+            "timeFrame": "two weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria: -\n\n* All individuals were generally healthy,\n* non-smoking\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding women\n* None had undergone periodontal therapy and/or antibiotic therapy in the past 6 months.\n* None has a contagious disease such as HIV or AIDS",
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "60 Years",
+        "stdAges": [
+          "ADULT"
+        ],
+        "studyPopulation": "All systemically healthy individuals between the ages of 18-60, who applied to the Atat\u00fcrk University Faculty of Dentistry for periodontal examination, will be evaluated in the study. Patients who consent to participate in the study on a randomized basis and comply with the inclusion criteria will be divided into periodontitis and healthy groups after the periodontal examination. Body mass index will also be evaluated",
+        "samplingMethod": "PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Didem \u00d6zkal Emino\u011flu, Asist. Prof.",
+            "affiliation": "Atat\u00fcrk University, Faculty of Dentistry",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Atat\u00fcrk University Faculty of Dentistry",
+            "city": "Erzurum",
+            "zip": "25240",
+            "country": "Turkey (T\u00fcrkiye)",
+            "geoPoint": {
+              "lat": 39.90861,
+              "lon": 41.27694
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "27087445",
+            "type": "BACKGROUND",
+            "citation": "Romere C, Duerrschmid C, Bournat J, Constable P, Jain M, Xia F, Saha PK, Del Solar M, Zhu B, York B, Sarkar P, Rendon DA, Gaber MW, LeMaire SA, Coselli JS, Milewicz DM, Sutton VR, Butte NF, Moore DD, Chopra AR. Asprosin, a Fasting-Induced Glucogenic Protein Hormone. Cell. 2016 Apr 21;165(3):566-79. doi: 10.1016/j.cell.2016.02.063. Epub 2016 Apr 14."
+          },
+          {
+            "pmid": "32153505",
+            "type": "BACKGROUND",
+            "citation": "Yuan M, Li W, Zhu Y, Yu B, Wu J. Asprosin: A Novel Player in Metabolic Diseases. Front Endocrinol (Lausanne). 2020 Feb 19;11:64. doi: 10.3389/fendo.2020.00064. eCollection 2020."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D010518",
+            "term": "Periodontitis"
+          },
+          {
+            "id": "D009765",
+            "term": "Obesity"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D010510",
+            "term": "Periodontal Diseases"
+          },
+          {
+            "id": "D009059",
+            "term": "Mouth Diseases"
+          },
+          {
+            "id": "D009057",
+            "term": "Stomatognathic Diseases"
+          },
+          {
+            "id": "D050177",
+            "term": "Overweight"
+          },
+          {
+            "id": "D044343",
+            "term": "Overnutrition"
+          },
+          {
+            "id": "D009748",
+            "term": "Nutrition Disorders"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D001835",
+            "term": "Body Weight"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718709"
+}

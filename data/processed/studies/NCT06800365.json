@@ -1,0 +1,318 @@
+{
+  "nct_id": "NCT06800365",
+  "title": "Assessing Accuracy of the Freestyle Libre Pro Glucose Monitoring in Patients With Diabetes in a Critical Care Setting",
+  "sponsor": "Hennepin Healthcare Research Institute",
+  "phase": "NA",
+  "status": "TERMINATED",
+  "conditions": [
+    "Diabetes Mellitus",
+    "Critical Illness",
+    "Continuous Glucose Monitoring"
+  ],
+  "interventions": [
+    "Sensor"
+  ],
+  "primary_outcome": "Determination of numerical accuracy of Freestyle Libre Pro sensor glucose monitoring by calculation of the mean absolute relative difference",
+  "secondary_outcomes": [
+    "Hypoglycemic events",
+    "Time in range",
+    "Patient satisfaction: survey",
+    "Nursing staff satisfaction and acceptability: survey",
+    "Adverse event monitoring"
+  ],
+  "start_date": "2021-04-06",
+  "completion_date": "2021-09-21",
+  "results_posted": false,
+  "enrollment": 10,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06800365",
+        "orgStudyIdInfo": {
+          "id": "HSR #19-4700"
+        },
+        "organization": {
+          "fullName": "Hennepin Healthcare Research Institute",
+          "class": "OTHER"
+        },
+        "briefTitle": "Assessing Accuracy of the Freestyle Libre Pro Glucose Monitoring in Patients With Diabetes in a Critical Care Setting",
+        "officialTitle": "Assessing Accuracy of the Freestyle Libre Pro Glucose Monitoring in Patients With Diabetes in a Critical Care Setting"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-01",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "Given the increased strain on nursing staff during the COVID-19 pandemic, Libre sensors were repeatedly being mistakenly removed and discarded by nursing staff prior to data collection.",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-04-06",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2021-09-21",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2021-09-21",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2020-03-10",
+        "studyFirstSubmitQcDate": "2025-01-23",
+        "studyFirstPostDateStruct": {
+          "date": "2025-01-30",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-01-23",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-01-30",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Laura Lafave",
+          "investigatorTitle": "Principal Investigator, Staff Endocrinologist",
+          "investigatorAffiliation": "Hennepin Healthcare Research Institute"
+        },
+        "leadSponsor": {
+          "name": "Hennepin Healthcare Research Institute",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "University of Minnesota",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": true,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Currently, the standard of care for monitoring sugar levels in patients with diabetes in the intensive care unit is to use finger stick blood sugar monitoring. Finger stick blood sugar monitoring can be uncomfortable and time consuming. An alternate way to monitor sugar levels to use a sugar sensor, as part of the Abbott Freestyle Libre Flash glucose monitoring system, which has been approved for use outside of the hospital. The goal of the current research is to see whether using the sugar sensor gives accurate sugar readings in patients that are ill enough to be in the intensive care unit. If research confirms that the sensor is accurate, the investigators could potentially need to do fewer of those uncomfortable and time consuming blood sugar finger sticks.\n\nAt this time, the Freestyle Libre Flash Glucose Monitoring system is not available for purchase without a specific prescription for each individual patient and also is not available for purchase for research use from the manufacturer, Abbott Laboratories. However, the Freestyle Libre Pro sensor is available and uses the same measurement technology to measure interstitial glucose as the Libre Flash Glucose Monitoring system sensor (but does not require sensor scanning to retain glucose data). As such, the Libre Pro sensor will be utilized for the current study.\n\nWhen a participant is enrolled in this study, they will have a Abbott Freestyle Libre Pro sensor applied to the back of their arm. They will continue to have finger stick glucoses checked as determined by their primary medical ICU team just as if they would if not enrolled in the study.\n\nAfter the participant leaves the hospital, the data from their finger stick glucoses and from the Libre will be compared by a statistical analysis to see how similar or different the glucose readings from the finger stick glucoses are as compared to the Libre sensor data.",
+        "detailedDescription": "This will be a single center, prospective, single arm study including 40 adult patients with Type I or II diabetes, 18 years of age or older, admitted to the Medical Intensive Care Unit (MICU) at the Hennepin County Medical Center during a 4 month time-frame with an expected MICU admission duration of at least 48 hours.\n\nOnce patients are deemed eligible based on inclusion and exclusion criteria, patients or their legal authorized representative (LAR) decision makers (if patient is unable to consent) will be approached by the PI or co-investigators. The consent form will be read out loud clearly to the patient or LAR. They will be given an opportunity to read it themselves if they so choose and also ask clarification questions as needed. Patients or LAR will be asked to recall details of the study to confirm understanding and assess capacity to consent. If patient or LAR accepts to be part of the study, the investigators will ask that a consent form be signed. The patient will be provided a copy of the consent and the original copy will be provided to the Health Information Management (HIM) department for secure storage.\n\nOnce the consenting process is completed, investigators will place the Libre pro sensor on the back of one of the arms of the patient using the applicator provided with the Libre monitor (see appendix). Investigators will confirm that the device is operational.\n\nThe sensor will remain in place for the duration of the patient's hospital stay and be removed prior to discharge. Sensors last a total of 14 days. If a patient remains in the hospital for greater than 14 days, the sensor will be collected on day 14 of hospitalization and will not be replaced with a new sensor. The sensor does need to be removed for CT scans, MRI scans or diathermy. If the sensor is removed for these reasons, a new sensor will be placed after completion of the imaging or procedure. Patients will be followed during their hospitalization in the MICU and after they have been transferred out of the MICU. If a patient discharges during normal business hours of 8AM to 5PM, study investigators will remove and store the monitor and sensor for future data analysis in a locked cabinet. If a patient discharges at any other time (nights and weekends), nurses will remove the sensors. Sensors are easy to remove and nurses will not require special training to remove the sensors. Nurses will store the sensor in a labeled plastic bag and then place the bag in the nursing station medication room. This room requires badge access. The sensor will be picked up by study investigators the following business day.\n\nNurses or medical assistants will conduct standard of care (SOC) capillary fingerstick glucose monitoring per hospital protocol for patients with diabetes. Nurse decision making will be based on capillary fingerstick glucose monitoring (SOC) alone. FGM glucose level will not be obtained prior to sensor removal. As such, FGM glucose levels will not be available for decision making. Nurses, medical assistants, and clinician researchers will be blinded to glucose data collected via FGM until the study concludes and data analysis begins.\n\nThe patient satisfaction and nurse acceptance surveys will be administered on the day of discharge or the day prior to discharge if the patient is expected to be discharged the next morning. If a patient is discharged before completing the survey, investigators may contact the patient by phone to complete the survey. There will otherwise be no follow up after discharge."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Mellitus",
+          "Critical Illness",
+          "Continuous Glucose Monitoring"
+        ],
+        "keywords": [
+          "Diabetes Mellitus",
+          "Critical Illness",
+          "Continuous glucose monitoring",
+          "Flash glucose monitoring"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "interventionModelDescription": "The study will be a single arm, single center, prospective trial. Patients admitted to the medical ICU will be screened for eligibility criteria and enrollment will be offered if criteria are met.",
+          "primaryPurpose": "DIAGNOSTIC",
+          "maskingInfo": {
+            "masking": "NONE",
+            "maskingDescription": "No masking of whether participant is enrolled will take place. Data from sensor will be masked from the participant, care provider and investigator during sensor use."
+          }
+        },
+        "enrollmentInfo": {
+          "count": 10,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Sensor arm",
+            "type": "EXPERIMENTAL",
+            "description": "Sensor arm patients will have a glucose sensor applied to their physical arm.",
+            "interventionNames": [
+              "Device: Sensor"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Sensor",
+            "description": "The FreeStyle Libre Pro sensor is a device whereby a sensor is inserted into subcutaneous tissue (upper arm) and measures the interstitial blood glucose which is then available for later download. It comes pre-calibrated meaning that no fingerstick glucose monitoring is required to improve accuracy of the sensor.",
+            "armGroupLabels": [
+              "Sensor arm"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Determination of numerical accuracy of Freestyle Libre Pro sensor glucose monitoring by calculation of the mean absolute relative difference",
+            "description": "Numerical accuracy will be defined by the mean absolute relative difference (MARD)",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          },
+          {
+            "measure": "Determination of numerical accuracy of Freestyle Libre Pro sensor glucose monitoring by use of the Bland-Altman method",
+            "description": "Numerical accuracy will be defined by the Bland-Altman method",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          },
+          {
+            "measure": "Determination of numerical accuracy of Freestyle Libre Pro sensor glucose monitoring by assessing adherence to International Organization for Standardization (ISO) criteria",
+            "description": "Numerical accuracy will be informed by whether the International Organization for Standardization (ISO) criteria are met",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          },
+          {
+            "measure": "Determination of numerical accuracy of Freestyle Libre Pro sensor glucose monitoring by assessing adherence to the Clinical and Laboratory Standards Institute Point of Care Testing (CLSI-POCT) criteria",
+            "description": "Numerical accuracy will be informed by whether the Clinical and Laboratory Standards Institute Point of Care Testing (CLSI-POCT) criteria are met",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          },
+          {
+            "measure": "Determination of clinical accuracy of Freestyle Libre Pro sensor glucose monitoring by Surveillance Error Grid (SEG) analyses",
+            "description": "Clinical accuracy will be defined by Surveillance Error Grid (SEG) analyses.",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          },
+          {
+            "measure": "Determination of clinical accuracy of Freestyle Libre Pro sensor glucose monitoring by Clarke Error Grid (CEG) analyses",
+            "description": "Clinical accuracy will be defined by Clarke Error Grid (CEG) analyses.",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Hypoglycemic events",
+            "description": "To determine the number of hypoglycemic events (55-70 mg/dl, 40-55 mg/dl, and \\< 40 mg/dl) detected by sensor and POC testing.",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          },
+          {
+            "measure": "Time in range",
+            "description": "To determine the percentage of BG readings within target BG of 70 and 180 mg/dl per on fingerstick glucose checks and total time in range per glucose sensor.",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          },
+          {
+            "measure": "Patient satisfaction: survey",
+            "description": "Evaluate patient satisfaction with having the sensor in place using a qualitative Patient Satisfaction survey.",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          },
+          {
+            "measure": "Nursing staff satisfaction and acceptability: survey",
+            "description": "Evaluate how nurses predict acceptability and satisfaction of nursing staff use of the Freestyle Libre Flash Glucose monitoring system using a qualitative Nurse Acceptance Survey",
+            "timeFrame": "Surveys to be administered to nursing staff at time of sensor removal from participant. Sensor removal takes place at time of patient discharge from hospital or when sensor has been in place for 14 days, whichever time point occurs first."
+          },
+          {
+            "measure": "Adverse event monitoring",
+            "description": "Evaluate the tolerability and safety of the FGM in critically ill patients; i.e outline any adverse outcomes from its use.",
+            "timeFrame": "From sensor placement to sensor removal (i.e 14 days or time of patient discharge, whichever comes first)"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Males or females age 18 and older. There is no upper age limit.\n* English speakers.\n* History of Type 1 or Type 2 diabetes (noted in electronic medical record or confirmed by patient or LAR).\n* Admission to the medical intensive care unit with expected stay of at least 48 hours\n\nExclusion Criteria:\n\n* New diagnosis or no known history of type 1 or type 2 diabetes.\n* Patients with documentation stating desire not to participate in research.\n* Prisoners.\n* Documented allergy to adhesives or tape.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Laura Lafave, MD",
+            "affiliation": "Hennepin County Medical Center, Minneapolis",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Hennepin Healthcare",
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "zip": "55415",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 44.97997,
+              "lon": -93.26384
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D016638",
+            "term": "Critical Illness"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D020969",
+            "term": "Disease Attributes"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002138",
+            "term": "Calibration"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D014894",
+            "term": "Weights and Measures"
+          },
+          {
+            "id": "D008919",
+            "term": "Investigative Techniques"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718464"
+}

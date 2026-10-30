@@ -1,0 +1,27 @@
+{
+  "pmid": "25146960",
+  "title": "Correlates of quality of life in rural patients with heart failure.",
+  "abstract": "There is abundant research indicating poor physical, psychological, and social functioning of patients with chronic heart failure (HF), a reality that can lead to poor health-related quality of life (QoL). Little is known about the experience of rural patients with HF. This study was part of a randomized clinical trial titled Rural Education to Improve Outcomes in Heart Failure (REMOTE-HF) designed to test an education and counseling intervention to improve self-care in patients with HF. We evaluated 612 rural patients. Multiple validated questionnaires were administered to assess patient perceptions of health and health literacy. Baseline factors were collected and compared with baseline QoL measures only. Patients' health-related QoL was assessed using the Minnesota Living with Heart Failure scale. The data were analyzed using a general linear model to test the association of various patient characteristics with QoL in rural patients with HF. Patients were 65.8 (+12.9) years of age. The majority were men (58.7%), married (56.4%), and had completed a high-school education (80.9%). Factors associated with reduced QoL among this population include geographic location, younger age, male sex, higher New York Heart Association class, worse HF knowledge, poorer perceived control, and symptoms of depression or anxiety. The data provided no evidence of an association between left ventricular ejection fraction and QoL. This study of rural patients with HF confirms previously identified factors associated with perceptions of QoL. However, further study is warranted with an urban control group. http://www.clinicaltrials.gov. Unique identifier: NCT00415545.",
+  "journal": "Circulation. Heart failure",
+  "pub_date": "2014-Nov",
+  "authors": [
+    "Nesbitt, Thomas",
+    "Doctorvaladan, Sahar",
+    "Southard, Jeffrey A",
+    "Singh, Satinder",
+    "Fekete, Anne",
+    "Marie, Kate",
+    "Moser, Debra K",
+    "Pelter, Michelle M",
+    "Robinson, Susan",
+    "Wilson, Machelle D",
+    "Cooper, Lawton",
+    "Dracup, Kathleen"
+  ],
+  "nct_ids_referenced": [
+    "NCT00415545"
+  ],
+  "source": "pubmed",
+  "word_count": 241,
+  "parsed_at": "2026-10-30T10:31:10.596100"
+}

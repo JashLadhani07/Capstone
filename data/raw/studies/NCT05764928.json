@@ -1,0 +1,227 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05764928",
+      "orgStudyIdInfo": {
+        "id": "RGC-1501-001"
+      },
+      "organization": {
+        "fullName": "Rgene Corporation",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Evaluate the Safety and Efficacy of BLEX 404 Oral Liquid Combined With Pemetrexed + Cisplatin Therapy",
+      "officialTitle": "A Phase I/II, Open Label Study to Evaluate the Safety and Efficacy of BLEX 404Oral Liquid Combined With Pemetrexed + Cisplatin Therapy in Patients With Advanced Inoperable or Metastatic EGFR Wild-type Non-Small Cell Lung Cancer Patients"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-04",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2026-12-01",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2028-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-02-17",
+      "studyFirstSubmitQcDate": "2023-02-28",
+      "studyFirstPostDateStruct": {
+        "date": "2023-03-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-04-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-04-20",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Rgene Corporation",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "American BriVision Corporation",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Maitake is reported with immunomodulatory functions against tumor growth in terms of its unique molecular structure, \u03b2-glucan polysaccharides within 1, 6 main chain having 1, 3 branches and a 1, 3 main chain having 1, 6 branches configuration. The \u03b2-glucan is identified as a main component of BLEX 404. Not only with therapeutic potential on several types of cancer, BLEX 404 has also shown the potential to improve hematopoiesis, granulocyte colony stimulating factor (G-CSF) production, and the cytotoxicity activity of immune cells in recent animal studies. Its antitumor effect on tumor-bearing mice is exerted by enhancing the immune system through activation of macrophages, T cells, and natural killer (NK) cells.\n\nThe activation of antigen presenting cells (APCs) such as macrophages, dendritic cells (DCs) via BLEX 404 administration is in response to secretion of interleukin-12 (IL-12). BLEX 404 has been found to enhance the activity of immunocompetent cells such as helper T cells, cytotoxic T cells, and NK cells either by i.p injection or oral intake, therefore, it stimulates innate and adaptive immunity. BLEX 404 enhances hematopoiesis by increasing mouse bone marrow cell and human cord blood cell differentiation into granulocytes-macrophages (GMs), granulopoiesis and mobilization of granulocytes, and granulocyte macrophage colony-stimulating factor (GM-CSF) or G-CSF production. One related phase I healthy human trial by treating with Maitake D-fraction was examined in Italy. The published data of trial for solid tumor patients was in the year 2003 in Japan, and another for breast cancer patients was in the year 2009 in the United States executed by Memorial Sloan Kettering Cancer Center (MSKCC). Lately, same team amended IND for myelodysplastic syndromes (MDS) human trial. All those human experiences are the fundamental of developing BLEX 404 Oral Liquid."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Nonsquamous Nonsmall Cell Neoplasm of Lung"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "interventionModelDescription": "Phase I: A 3+3 design with dose escalation to determine the dose-limiting toxicity (DLT) and recommended dose level (RDL) in the first cycle of combination use with Pemetrexed + Cisplatin Therapy.\n\nPhase II: A following study to determine the efficacy while using the RDL of BLEX 404 Oral Liquid combined with Pemetrexed + Cisplatin Therapy in a total of 20 stage-IV or recurrent non-small cell lung cancer patients.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 32,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Phase I: 1.5 mg/kg BLEX404",
+          "type": "EXPERIMENTAL",
+          "description": "Oral administration BID",
+          "interventionNames": [
+            "Drug: BLEX 404"
+          ]
+        },
+        {
+          "label": "Phase I: 3.0 mg/kg BLEX404",
+          "type": "EXPERIMENTAL",
+          "description": "Oral administration BID",
+          "interventionNames": [
+            "Drug: BLEX 404"
+          ]
+        },
+        {
+          "label": "Phase I: 6.0 mg/kg BLEX404",
+          "type": "EXPERIMENTAL",
+          "description": "Oral administration BID",
+          "interventionNames": [
+            "Drug: BLEX 404"
+          ]
+        },
+        {
+          "label": "Phase II: RDL of BLEX 404",
+          "type": "EXPERIMENTAL",
+          "description": "Oral administration BID",
+          "interventionNames": [
+            "Drug: BLEX 404"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BLEX 404",
+          "description": "BLEX 404 Oral Liquid, PO, BID",
+          "armGroupLabels": [
+            "Phase I: 1.5 mg/kg BLEX404",
+            "Phase I: 3.0 mg/kg BLEX404",
+            "Phase I: 6.0 mg/kg BLEX404",
+            "Phase II: RDL of BLEX 404"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "DLT determination",
+          "description": "To determine the dose-limiting toxicity (DLT) in the first cycle of combination use",
+          "timeFrame": "end of 21 days"
+        },
+        {
+          "measure": "RDL Determination",
+          "description": "To determine the recommended dose level (RDL) in the first cycle of combination use",
+          "timeFrame": "end of 21 days"
+        },
+        {
+          "measure": "Overall response rate (PR + CR) after 4 cycles of combination use",
+          "description": "Overall response rate (PR + CR) after 4 cycles of combination use in BLEX 404\n\n\\+ Pemetrexed \\& Cisplatin Therapy.",
+          "timeFrame": "end of 84 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Overall response rate (PR + CR) after at least 1 cycle of combination use",
+          "description": "Overall response rate (PR + CR) after at least 1 cycle of combination use in BLEX 404\n\n\\+ Pemetrexed \\& Cisplatin Therapy.",
+          "timeFrame": "end of 126 days"
+        },
+        {
+          "measure": "Rate of grade 3/4 hematological toxicity",
+          "description": "AEs that occur during the study will be rated by using the grades defined in Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. There are 5 grades, includes Grade 1 (Mild), Grade 2 (Moderate), Grade 3 (Severe), Grade 4 (Life threatening) and Grade 5 (Death).",
+          "timeFrame": "end of 126 days"
+        },
+        {
+          "measure": "Effect on Quality of Life by EORTC QLQ-C30",
+          "description": "EORTC QLQ-C30 is a questionnaire that rates the overall quality of life in cancer participants. The first 28 questions use a 4-point scale (1=not at all to 4=very much) for evaluating function (physical, role, social, cognitive, emotional), symptoms (diarrhea, fatigue, dyspnea, appetite loss, insomnia, nausea/vomiting, constipation, and pain) and financial difficulties. The last 2 questions use a 7-point scale (1=very poor to 7=excellent) to evaluate overall health and quality of life. Scores were transformed to a range of 0 to 100 using a standard EORTC algorithm. A negative change from baseline values indicated deterioration in health status or functioning and positive changes indicated improvement.",
+          "timeFrame": "end of 126 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients aged 20 - 70 years old at the time of signing the ICF.\n2. Na\u00efve patients with histologically or pathologically diagnosed with Advanced Inoperable or Metastatic non-small cell lung cancer and intended for first line treatment.\n3. Patients with histologically or pathologically diagnosed with nonsquamous non-small cell lung cancer who are: EGFR wild-type (no EGFR gene mutation)\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2.\n5. Adequate hematologic function defined as: absolute neutrophil count (ANC)\n\n   \u2265 2,000/\u03bcL; platelets count \u2265 100,000/\u03bcL; hemoglobin must be \u226510 g/dL (can be corrected by growth factor or transfusion).\n6. Adequate hepatic function defined as: serum total bilirubin \u2264 1.5-fold upper limit of normal (ULN); aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase (ALP) \u2264 3-fold ULN (5- fold ULN if liver metastasis is observed).\n7. Adequate renal function: calculated creatinine clearance \u2265 60 mL/minute according to the Cockcroft and Gault formula.\n8. At least one measurable disease according to the Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n9. Women must be either of non-childbearing potential, or women with child- bearing potential agree to use effective a highly contraceptive method or a contraceptive implant, exception of hormonal contraception (estrogen/progesterone), during treatment from time of Screening Visit and after cessation of therapy at least 3 months.\n10. Planning to receive Pemetrexed + Cisplatin Therapy.\n11. Willing and able to comply with all aspects of the treatment protocol.\n12. Provide written informed consent.\n\nExclusion Criteria:\n\n1. Women who are pregnant or breast feeding.\n2. Patients with brain metastasis but asymptomatic need not be excluded.\n3. Patients with autoimmune disease that requires systemic steroids or immunosuppression agents.\n4. Current enrollment in another clinical study or used any investigational drug or device within the past 28 days preceding informed consent.\n5. Patients with following treatment prior to Pemetrexed + Cisplatin Therapy: chemotherapy, immunotherapy, or biologic systemic anticancer therapy within 21 days of study entry (42 days for mitomycin and nitrosoureas); prior received taxanes in adjuvant therapy within 12 months; prior received polysaccharide-based drugs within 6 months; radiation therapy within 28 days (90 days for bone marrow exposure 20%); hormonal therapy within 28 days.\n6. Known history of human immunodeficiency virus (HIV) infection.\n7. Existing anticancer treatment-related toxicities of Grades \u2265 2 (except for alopecia and neuropathy) according to Common Terminology Criteria for Adverse Events (CTCAE v5.0).\n8. Patients with Grade \\> 2 neuropathy.\n9. Patients with an active infection requiring systemic therapy.\n10. Patients with active liver disease, such as hepatitis C virus (HCV) carriers, and/or those with active viral disease which is defined as hepatitis B virus (HBV)carriers with HBV DNA \\> 2,000 IU/ml plus AST and ALT \\> 3-fold ULN, other liver viral disease or autoimmune liver disease.\n11. History of concomitant medical conditions or infectious diseases that, in the opinion of the investigator, would compromise the patient's ability to safely complete the study.\n12. Clinically significant electrocardiogram (ECG) abnormality, including a marked baseline prolonged QT/QTc (\\[QT interval/corrected QT interval\\] of a QTc interval \\>450 ms. (referred to Subject enrollment 2.1.1 E14 clinical Evaluation of QT/QTC).\n13. Ascertained hypersensitivity to investigational product, Pemetrexed or any of the excipients used in the study.\n14. Uncontrolled nausea or vomiting or any symptom that would prevent the ability to comply with daily BLEX 404 Oral Liquid treatment.\n15. Judged to be not applicable to this study by investigator such as difficulty of follow-up observation, psychiatric disorder, with any other serious diseases/medical history.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "20 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Uttam Patil, Ph.D.",
+          "role": "CONTACT",
+          "phone": "+886-2-25642839",
+          "phoneExt": "211",
+          "email": "uttampatil23@biorgene.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Taipei Veteran General Hospital",
+          "city": "Taipei",
+          "country": "Taiwan",
+          "contacts": [
+            {
+              "name": "Yung-Hung Luo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    }
+  },
+  "hasResults": false
+}

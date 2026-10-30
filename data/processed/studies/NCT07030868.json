@@ -1,0 +1,1281 @@
+{
+  "nct_id": "NCT07030868",
+  "title": "A Phase 2, Parallel-Group, Double-Blind 4-arm Study to Investigate the Effects of Treatment With LY3549492 Tablets Compared With Placebo in an Obese or Overweight Population With Type-2 Diabetes (T2D)",
+  "sponsor": "Eli Lilly and Company",
+  "phase": "PHASE2",
+  "status": "TERMINATED",
+  "conditions": [
+    "Obesity",
+    "Overweight",
+    "Type 2 Diabetes"
+  ],
+  "interventions": [
+    "LY3549492",
+    "Placebo"
+  ],
+  "primary_outcome": "Percent Change From Baseline in Body Weight",
+  "secondary_outcomes": [
+    "Change From Baseline in Body Weight",
+    "Percentage of Participants Who Achieve \u22655% Body Weight Reduction",
+    "Percentage of Participants Who Achieve \u226510% Body Weight Reduction",
+    "Change From Baseline in Hemoglobin A1c (HbA1c)",
+    "Pharmacokinetics (PK): Average Concentration of LY3549492"
+  ],
+  "start_date": "2025-06-19",
+  "completion_date": "2025-07-29",
+  "results_posted": true,
+  "enrollment": 1,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07030868",
+        "orgStudyIdInfo": {
+          "id": "27321"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "W8M-MC-GN02",
+            "type": "OTHER",
+            "domain": "Eli Lilly and Company"
+          },
+          {
+            "id": "W8M-MC-CWMM",
+            "type": "OTHER",
+            "domain": "Eli Lilly and Company"
+          }
+        ],
+        "organization": {
+          "fullName": "Eli Lilly and Company",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Study of LY3549492 in Adults With Obesity or Overweight With Type 2 Diabetes",
+        "officialTitle": "A Phase 2, Parallel-Group, Double-Blind 4-arm Study to Investigate the Effects of Treatment With LY3549492 Tablets Compared With Placebo in an Obese or Overweight Population With Type-2 Diabetes (T2D)"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-08",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "Study terminated for strategic business reasons",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2025-06-19",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2025-07-29",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2025-07-29",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2025-06-13",
+        "studyFirstSubmitQcDate": "2025-06-13",
+        "studyFirstPostDateStruct": {
+          "date": "2025-06-22",
+          "type": "ACTUAL"
+        },
+        "resultsFirstSubmitDate": "2026-07-29",
+        "resultsFirstSubmitQcDate": "2026-08-25",
+        "resultsFirstPostDateStruct": {
+          "date": "2026-08-31",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-08-25",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-08-31",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Eli Lilly and Company",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The main purpose of this study, performed under the master protocol W8M-MC-CWMM (NCT06143956), is to evaluate the effects of treatment with LY3549492 compared to placebo in adult participants with obesity or who are overweight with type 2 diabetes.\n\nParticipation in the study will last about 11 months."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Obesity",
+          "Overweight",
+          "Type 2 Diabetes"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 1,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "LY3549492 Low Dose",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will receive LY3549492 orally",
+            "interventionNames": [
+              "Drug: LY3549492"
+            ]
+          },
+          {
+            "label": "LY3549492 High Dose with Fast Titration",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will receive LY3549492 orally",
+            "interventionNames": [
+              "Drug: LY3549492"
+            ]
+          },
+          {
+            "label": "LY3549492 High Dose with Slow Titration",
+            "type": "EXPERIMENTAL",
+            "description": "Participants will receive LY3549492 orally",
+            "interventionNames": [
+              "Drug: LY3549492"
+            ]
+          },
+          {
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "Participants will receive placebo orally",
+            "interventionNames": [
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "LY3549492",
+            "description": "Administered orally",
+            "armGroupLabels": [
+              "LY3549492 High Dose with Fast Titration",
+              "LY3549492 High Dose with Slow Titration",
+              "LY3549492 Low Dose"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo",
+            "description": "Administered orally",
+            "armGroupLabels": [
+              "Placebo"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Percent Change From Baseline in Body Weight",
+            "description": "Percent change from baseline in body weight at Week 32. Body weight was intended to be measured in kilograms, and percent change was to be calculated relative to baseline.",
+            "timeFrame": "Baseline, Week 32"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change From Baseline in Body Weight",
+            "description": "Change from baseline in body weight at Week 32. Body weight was intended to be measured in kilograms, and absolute change from baseline was to be calculated.",
+            "timeFrame": "Baseline, Week 32"
+          },
+          {
+            "measure": "Percentage of Participants Who Achieve \u22655% Body Weight Reduction",
+            "description": "Percentage of participants who achieved at least 5% reduction in body weight from baseline to Week 32.",
+            "timeFrame": "Baseline, Week 32"
+          },
+          {
+            "measure": "Percentage of Participants Who Achieve \u226510% Body Weight Reduction",
+            "description": "Percentage of participants who achieved at least 10% reduction in body weight from baseline to Week 32.",
+            "timeFrame": "Baseline, Week 32"
+          },
+          {
+            "measure": "Change From Baseline in Hemoglobin A1c (HbA1c)",
+            "description": "Change from baseline in hemoglobin A1c (HbA1c) at Week 32. HbA1c was intended to be measured as a percentage and reflects average blood glucose levels over approximately 3 months.",
+            "timeFrame": "Baseline, Week 32"
+          },
+          {
+            "measure": "Pharmacokinetics (PK): Average Concentration of LY3549492",
+            "description": "Average plasma concentration of LY3549492. Pharmacokinetic samples were intended to be collected at multiple timepoints, including pre-dose and post-dose intervals, to evaluate the pharmacokinetic profile of LY3549492 over time.",
+            "timeFrame": "Week 0 and Week 24 (6-18 hours post-dose); Weeks 3, 9, 15, and 18 (1-3 hours post-dose); Weeks 6 and 21 (3-6 hours post-dose); Week 12 (1-6 hours post-dose); and Weeks 30 and 32 (pre-dose)."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\nW8M-MC-GN02:\n\n* Assigned male at birth\n* Assigned female at birth, who are of non-childbearing potential\n* Have type 2 diabetes\n\nW8M-MC-CWMM:\n\n* Have a BMI \u226527 kilograms per square meter (kg/m\u00b2)\n* Have had a stable body weight for the 3 months prior to randomization (\\<5% body weight gain and/or loss\n\nExclusion Criteria:\n\nW8M-MC-GN02:\n\n* Individuals who are of childbearing potential\n* Have a history of acute or chronic pancreatitis\n* Have any of the following cardiovascular conditions within 6 months prior to screening:\n\n  * acute myocardial infarction\n  * cerebrovascular accident (stroke)\n  * unstable angina, or\n  * hospitalization due to congestive heart failure.\n\nW8M-MC-CWMM:\n\n* Have a prior or planned surgical treatment for obesity, except prior liposuction or abdominoplasty, if performed \\>1 year prior to screening\n* Have type 1 diabetes mellitus, latent autoimmune diabetes in adults, or history of ketoacidosis or hyperosmolar coma\n* Have poorly controlled hypertension\n* Have signs and symptoms of any liver disease other than nonalcoholic fatty liver disease\n* Have a history of symptomatic gallbladder disease within the past 2 years\n* Have a lifetime history of suicide attempts",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+            "affiliation": "Eli Lilly and Company",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "HOPE Research Institute",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85032",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.44838,
+              "lon": -112.07404
+            }
+          },
+          {
+            "facility": "Headlands Research - Scottsdale",
+            "city": "Scottsdale",
+            "state": "Arizona",
+            "zip": "85260",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.50921,
+              "lon": -111.89903
+            }
+          },
+          {
+            "facility": "NorCal Medical Research, Inc",
+            "city": "Greenbrae",
+            "state": "California",
+            "zip": "94904",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.94854,
+              "lon": -122.5247
+            }
+          },
+          {
+            "facility": "Velocity Clinical Research, Huntington Park",
+            "city": "Huntington Park",
+            "state": "California",
+            "zip": "90255",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.98168,
+              "lon": -118.22507
+            }
+          },
+          {
+            "facility": "Peninsula Research Associates",
+            "city": "Rolling Hills Estates",
+            "state": "California",
+            "zip": "90274",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.78779,
+              "lon": -118.35813
+            }
+          },
+          {
+            "facility": "Diablo Clinical Research, Inc.",
+            "city": "Walnut Creek",
+            "state": "California",
+            "zip": "94598",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.90631,
+              "lon": -122.06496
+            }
+          },
+          {
+            "facility": "Stamford Therapeutics Consortium",
+            "city": "Stamford",
+            "state": "Connecticut",
+            "zip": "06905",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.05343,
+              "lon": -73.53873
+            }
+          },
+          {
+            "facility": "Northeast Research Institute (NERI)",
+            "city": "Fleming Island",
+            "state": "Florida",
+            "zip": "32003",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.0933,
+              "lon": -81.71898
+            }
+          },
+          {
+            "facility": "Indago Research & Health Center, Inc",
+            "city": "Hialeah",
+            "state": "Florida",
+            "zip": "33012",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.8576,
+              "lon": -80.27811
+            }
+          },
+          {
+            "facility": "New Horizon Research Center",
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33165",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.77427,
+              "lon": -80.19366
+            }
+          },
+          {
+            "facility": "Suncoast Clinical Research, Inc.",
+            "city": "New Port Richey",
+            "state": "Florida",
+            "zip": "34652",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.24418,
+              "lon": -82.71927
+            }
+          },
+          {
+            "facility": "Charter Research - Winter Park",
+            "city": "Orlando",
+            "state": "Florida",
+            "zip": "32803",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.53834,
+              "lon": -81.37924
+            }
+          },
+          {
+            "facility": "Charter Research - Lady Lake",
+            "city": "The Villages",
+            "state": "Florida",
+            "zip": "32162",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.93408,
+              "lon": -81.95994
+            }
+          },
+          {
+            "facility": "Medical Research Partners",
+            "city": "Ammon",
+            "state": "Idaho",
+            "zip": "83406",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.46964,
+              "lon": -111.96664
+            }
+          },
+          {
+            "facility": "Great Lakes Clinical Trials - Ravenswood",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60640",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.85003,
+              "lon": -87.65005
+            }
+          },
+          {
+            "facility": "Iowa Diabetes and Endocrinology Research Center",
+            "city": "West Des Moines",
+            "state": "Iowa",
+            "zip": "50266",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.57721,
+              "lon": -93.71133
+            }
+          },
+          {
+            "facility": "Cotton O'Neil Diabetes & Endocrinology",
+            "city": "Topeka",
+            "state": "Kansas",
+            "zip": "66606",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.04833,
+              "lon": -95.67804
+            }
+          },
+          {
+            "facility": "Knownwell",
+            "city": "Needham",
+            "state": "Massachusetts",
+            "zip": "02492",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.28343,
+              "lon": -71.23283
+            }
+          },
+          {
+            "facility": "Lucida Clinical Trials",
+            "city": "New Bedford",
+            "state": "Massachusetts",
+            "zip": "02740",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.63526,
+              "lon": -70.92701
+            }
+          },
+          {
+            "facility": "Headlands Research - Detroit",
+            "city": "Southfield",
+            "state": "Michigan",
+            "zip": "48034",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.47337,
+              "lon": -83.22187
+            }
+          },
+          {
+            "facility": "Arcturus Healthcare , PLC, Troy Internal Medicine Research Division",
+            "city": "Troy",
+            "state": "Michigan",
+            "zip": "48098",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.60559,
+              "lon": -83.14993
+            }
+          },
+          {
+            "facility": "Clinvest Headlands Llc",
+            "city": "Springfield",
+            "state": "Missouri",
+            "zip": "65807",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.21533,
+              "lon": -93.29824
+            }
+          },
+          {
+            "facility": "Las Vegas Medical Research",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip": "89128",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.17497,
+              "lon": -115.13722
+            }
+          },
+          {
+            "facility": "Velocity Clinical Research, Syracuse",
+            "city": "East Syracuse",
+            "state": "New York",
+            "zip": "13057",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.06534,
+              "lon": -76.07853
+            }
+          },
+          {
+            "facility": "Rochester Clinical Research, LLC",
+            "city": "Rochester",
+            "state": "New York",
+            "zip": "14609",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.15478,
+              "lon": -77.61556
+            }
+          },
+          {
+            "facility": "Monroe Biomedical Research",
+            "city": "Monroe",
+            "state": "North Carolina",
+            "zip": "28112",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.98543,
+              "lon": -80.54951
+            }
+          },
+          {
+            "facility": "Lucas Research, Inc",
+            "city": "Morehead City",
+            "state": "North Carolina",
+            "zip": "28557",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.72294,
+              "lon": -76.72604
+            }
+          },
+          {
+            "facility": "Lucas Research, Inc.",
+            "city": "New Bern",
+            "state": "North Carolina",
+            "zip": "28562",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.10849,
+              "lon": -77.04411
+            }
+          },
+          {
+            "facility": "Quality Medical Research",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "zip": "37211",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.16589,
+              "lon": -86.78444
+            }
+          },
+          {
+            "facility": "IMA Clinical Research Austin",
+            "city": "Austin",
+            "state": "Texas",
+            "zip": "78745",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.26715,
+              "lon": -97.74306
+            }
+          },
+          {
+            "facility": "Velocity Clinical Research, Dallas",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75230",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "FutureSearch Trials of Dallas",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75251",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "PlanIt Research, PLLC",
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77079",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.76328,
+              "lon": -95.36327
+            }
+          },
+          {
+            "facility": "Tekton Research - Fredericksburg Road",
+            "city": "San Antonio",
+            "state": "Texas",
+            "zip": "78229",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.42412,
+              "lon": -98.49363
+            }
+          },
+          {
+            "facility": "Endeavor Clinical Trials",
+            "city": "San Antonio",
+            "state": "Texas",
+            "zip": "78240",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.42412,
+              "lon": -98.49363
+            }
+          },
+          {
+            "facility": "Texas Valley Clinical Research",
+            "city": "Weslaco",
+            "state": "Texas",
+            "zip": "78596",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 26.15952,
+              "lon": -97.99084
+            }
+          },
+          {
+            "facility": "Spectrum Medical, Inc.",
+            "city": "Danville",
+            "state": "Virginia",
+            "zip": "24541",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.58597,
+              "lon": -79.39502
+            }
+          },
+          {
+            "facility": "Central Washington Health Services Association d/b/a Confluence Health",
+            "city": "Wenatchee",
+            "state": "Washington",
+            "zip": "98801",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 47.42346,
+              "lon": -120.31035
+            }
+          },
+          {
+            "facility": "Centro M\u00e9dico Viamonte",
+            "city": "Buenos Aires",
+            "state": "Buenos Aires F.D.",
+            "zip": "C1120AAC",
+            "country": "Argentina",
+            "geoPoint": {
+              "lat": -34.61315,
+              "lon": -58.37723
+            }
+          },
+          {
+            "facility": "Consultorio de Investigaci\u00f3n Cl\u00ednica EMO SRL",
+            "city": "Buenos Aires",
+            "state": "Buenos Aires F.D.",
+            "zip": "C1405BUB",
+            "country": "Argentina",
+            "geoPoint": {
+              "lat": -34.61315,
+              "lon": -58.37723
+            }
+          },
+          {
+            "facility": "Centro Medico Dra. Laura Maffei- Investigacion Clinica Aplicada",
+            "city": "Buenos Aires",
+            "state": "Buenos Aires F.D.",
+            "zip": "C1425AGC",
+            "country": "Argentina",
+            "geoPoint": {
+              "lat": -34.61315,
+              "lon": -58.37723
+            }
+          },
+          {
+            "facility": "Centro de Investigaciones Metab\u00f3licas (CINME)",
+            "city": "Buenos Aires",
+            "zip": "C1056ABI",
+            "country": "Argentina",
+            "geoPoint": {
+              "lat": -34.61315,
+              "lon": -58.37723
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "A Study of LY3549492 in Adults With Obesity or Overweight With Type 2 Diabetes",
+            "url": "https://trials.lilly.com/en-US/trial/619929"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.",
+        "infoTypes": [
+          "STUDY_PROTOCOL",
+          "SAP",
+          "CSR"
+        ],
+        "timeFrame": "Data are available 6 months after the primary publication or approval of the indication studied in the US and EU, whichever is later. Data will be indefinitely available for requesting.",
+        "accessCriteria": "A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.",
+        "url": "https://vivli.org/"
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "recruitmentDetails": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no outcome measures or safety data were collected, and no analyses could be performed.",
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+            "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination."
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  }
+                ]
+              },
+              {
+                "type": "Received at Least One Dose of Study Drug",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "populationDescription": "All enrolled participants.",
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+            "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination."
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Categorical",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "calculatePct": false,
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "<=18 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Between 18 and 65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": ">=65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "calculatePct": false,
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Ethnicity (NIH/OMB)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "calculatePct": false,
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Hispanic or Latino",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Not Hispanic or Latino",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Race (NIH/OMB)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "calculatePct": false,
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "American Indian or Alaska Native",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Asian",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Native Hawaiian or Other Pacific Islander",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Black or African American",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "White",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "More than one race",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Percent Change From Baseline in Body Weight",
+            "description": "Percent change from baseline in body weight at Week 32. Body weight was intended to be measured in kilograms, and percent change was to be calculated relative to baseline.",
+            "populationDescription": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no outcome measures data was collected and no analyses could be performed.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Baseline, Week 32",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+                "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Change From Baseline in Body Weight",
+            "description": "Change from baseline in body weight at Week 32. Body weight was intended to be measured in kilograms, and absolute change from baseline was to be calculated.",
+            "populationDescription": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no outcome measures data was collected and no analyses could be performed.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Baseline, Week 32",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+                "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Percentage of Participants Who Achieve \u22655% Body Weight Reduction",
+            "description": "Percentage of participants who achieved at least 5% reduction in body weight from baseline to Week 32.",
+            "populationDescription": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no outcome measures data was collected and no analyses could be performed.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Baseline, Week 32",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+                "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Percentage of Participants Who Achieve \u226510% Body Weight Reduction",
+            "description": "Percentage of participants who achieved at least 10% reduction in body weight from baseline to Week 32.",
+            "populationDescription": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no outcome measures data was collected and no analyses could be performed.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Baseline, Week 32",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+                "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Change From Baseline in Hemoglobin A1c (HbA1c)",
+            "description": "Change from baseline in hemoglobin A1c (HbA1c) at Week 32. HbA1c was intended to be measured as a percentage and reflects average blood glucose levels over approximately 3 months.",
+            "populationDescription": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no outcome measures data was collected and no analyses could be performed.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Baseline, Week 32",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+                "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Pharmacokinetics (PK): Average Concentration of LY3549492",
+            "description": "Average plasma concentration of LY3549492. Pharmacokinetic samples were intended to be collected at multiple timepoints, including pre-dose and post-dose intervals, to evaluate the pharmacokinetic profile of LY3549492 over time.",
+            "populationDescription": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no outcome measures data was collected and no analyses could be performed.",
+            "reportingStatus": "POSTED",
+            "timeFrame": "Week 0 and Week 24 (6-18 hours post-dose); Weeks 3, 9, 15, and 18 (1-3 hours post-dose); Weeks 6 and 21 (3-6 hours post-dose); Week 12 (1-6 hours post-dose); and Weeks 30 and 32 (pre-dose).",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+                "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "0",
+        "timeFrame": "All-Cause Mortality, Serious, and Other (Not Including Serious) Adverse Events data were not collected/assessed in this study",
+        "description": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no safety data was collected and no analyses could be performed.",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "LY3549492 or Placebo (Randomised, Not Treated)",
+            "description": "One participant was randomized to one of the planned study interventions (LY3549492 low dose, LY3549492 high dose with fast titration, LY3549492 high dose with slow titration, or placebo).\n\nThe study was terminated after enrollment of the participant. The participant did not receive any study treatment and did not undergo any post-baseline efficacy or safety assessments prior to study termination.",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 0,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 0,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 0
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "limitationsAndCaveats": {
+          "description": "The study was terminated for strategic business reasons after the enrollment of 1 participant. The enrolled participant did not receive any study intervention and did not undergo any post-baseline assessments prior to study termination. Therefore, no outcome measures or safety data were collected, and no analyses could be performed."
+        },
+        "certainAgreement": {
+          "piSponsorEmployee": false,
+          "restrictionType": "GT60",
+          "restrictiveAgreement": true
+        },
+        "pointOfContact": {
+          "title": "Chief Medical Officer",
+          "organization": "Eli Lilly and Company",
+          "email": "ClinicalTrials.gov@lilly.com",
+          "phone": "08005455979"
+        }
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "noSap": true,
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot",
+            "hasProtocol": true,
+            "hasSap": false,
+            "hasIcf": false,
+            "label": "Study Protocol",
+            "date": "2025-04-02",
+            "uploadDate": "2026-07-27T16:57",
+            "filename": "Prot_000.pdf",
+            "size": 30302780
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29",
+        "submissionTracking": {
+          "firstMcpInfo": {
+            "postDateStruct": {
+              "date": "2026-08-20",
+              "type": "ACTUAL"
+            }
+          }
+        }
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009765",
+            "term": "Obesity"
+          },
+          {
+            "id": "D050177",
+            "term": "Overweight"
+          },
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044343",
+            "term": "Overnutrition"
+          },
+          {
+            "id": "D009748",
+            "term": "Nutrition Disorders"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D001835",
+            "term": "Body Weight"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T10:29:01.718875"
+}

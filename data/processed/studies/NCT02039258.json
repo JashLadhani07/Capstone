@@ -1,0 +1,238 @@
+{
+  "nct_id": "NCT02039258",
+  "title": "A Single-Dose, Open-Label, Randomized, 2-Period Crossover Study to Assess the Effect of Food Coadministration on the Pharmacokinetics of a Fixed Dose Combination Tablet of Canagliflozin (JNJ-28431754) and Metformin Extended Release in Healthy Subjects",
+  "sponsor": "Janssen Research & Development, LLC",
+  "phase": "PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Healthy Volunteers"
+  ],
+  "interventions": [
+    "CANA/MET XR FDC"
+  ],
+  "primary_outcome": "Plasma concentration of canagliflozin following the single dose of CANA/MET XR FDC after fed and fasted conditions",
+  "secondary_outcomes": [
+    "Percentage of participants with adverse events as a measure of safety and tolerability"
+  ],
+  "start_date": "2014-01",
+  "completion_date": "2014-03",
+  "results_posted": false,
+  "enrollment": 24,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02039258",
+        "orgStudyIdInfo": {
+          "id": "CR103259"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "28431754DIA1064",
+            "type": "OTHER",
+            "domain": "Janssen Research & Development, LLC"
+          }
+        ],
+        "organization": {
+          "fullName": "Janssen Research & Development, LLC",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Pharmacokinetics of a Fixed Dose Combination of Canagliflozin/Metformin Coadministered With Food",
+        "officialTitle": "A Single-Dose, Open-Label, Randomized, 2-Period Crossover Study to Assess the Effect of Food Coadministration on the Pharmacokinetics of a Fixed Dose Combination Tablet of Canagliflozin (JNJ-28431754) and Metformin Extended Release in Healthy Subjects"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2014-07",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2014-01"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2014-03",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2014-03",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2014-01-15",
+        "studyFirstSubmitQcDate": "2014-01-15",
+        "studyFirstPostDateStruct": {
+          "date": "2014-01-17",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2014-07-11",
+        "lastUpdatePostDateStruct": {
+          "date": "2014-07-14",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Janssen Research & Development, LLC",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to assess the effect of coadministration of a high-fat meal on the oral bioavailability of a fixed dose combination of Canagliflozin/extended release Metformin (CANA/MET XR) tablet, containing 150 mg CANA and 1,000 mg extended release MET in healthy participants.",
+        "detailedDescription": "This is a randomized (a sequence of fasted and fed periods accompanying study drug intake will be assigned by chance), open-label (physicians and participants know the identity of the assigned treatment), single-center, single-dose, 2-period, 2-sequence, crossover study of Canagliflozin/extended release Metformin (CANA/MET XR) fixed dose combination (FDC) tablet of 150 mg/1,000 mg. Approximately 24 healthy adult participants will be enrolled to ensure that at least 20 complete the study.\n\nAfter a screening period, participants will be randomly assigned to 1 of the 2 treatment sequences (AB or BA) on Day 1 of Period 1. Treatment A means a participant will receive a single 150/1,000 mg CANA/MET XR FDC tablet under fasted conditions, and Treatment B means that a participant will receive the same drug under fed conditions. Participants will need to remain at the study center for 4 days (72 hours postdose) after the drug administration for collection of blood samples in each treatment period. There will be a 10- to 14-day washout period between Period 1 and Period 2. On Day 4 (72 hours postdose) of Period 2, when participants are discharged from the study center, they will be given instructions to return for a follow-up visit 7 to 10 days later. For Treatment B (in fed state), participants will be provided with a standardized high-fat breakfast. Participants' safety will be monitored throughout the study."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Healthy Volunteers"
+        ],
+        "keywords": [
+          "Healthy Volunteers",
+          "Canagliflozin",
+          "Metformin",
+          "INVOKANA\u00ae",
+          "Type 2 diabetes mellitus"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 24,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Sequence AB",
+            "type": "EXPERIMENTAL",
+            "description": "A single dose of CANA/MET XR FDC tablet of 150 mg/1,000 mg under fasted conditions (treatment A) followed by the same single dose under fed conditions (treatment B).",
+            "interventionNames": [
+              "Drug: CANA/MET XR FDC"
+            ]
+          },
+          {
+            "label": "Sequence BA",
+            "type": "EXPERIMENTAL",
+            "description": "A single dose of CANA/MET XR FDC tablet of 150 mg/1,000 mg under fed conditions (treatment B) followed by the same single dose under fasted conditions (treatment A).",
+            "interventionNames": [
+              "Drug: CANA/MET XR FDC"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "CANA/MET XR FDC",
+            "description": "Canagliflozin/extended release Metformin (CANA/MET XR) fixed dose combination (FDC) tablet of 150 mg/1,000 mg",
+            "armGroupLabels": [
+              "Sequence AB",
+              "Sequence BA"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Plasma concentration of canagliflozin following the single dose of CANA/MET XR FDC after fed and fasted conditions",
+            "description": "Plasma concentrations of canagliflozin are used to evaluate how long canagliflozin stays in the body.",
+            "timeFrame": "Predose, (before tablet intake) up to 72 hours afterdose"
+          },
+          {
+            "measure": "Plasma concentration of metformin following the single dose of CANA/MET XR FDC after fed and fasted conditions",
+            "description": "Plasma concentrations of metformin are used to evaluate how long metformin stays in the body.",
+            "timeFrame": "Predose, up to 72 hours afterdose"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Percentage of participants with adverse events as a measure of safety and tolerability",
+            "timeFrame": "Screening, up to Day 10 of the follow-up period"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Must sign an informed consent document indicating they understand the purpose of the study and procedures\n* Must have a body mass index (BMI) of between 18 and 30 kg/m\u00b2, inclusive\n* Must have a body weight of not less than 50 kg\n* Must have a blood pressure between 90 and 140 mmHg inclusive, systolic, and no higher than 90 mmHg diastolic at screening\n* Must have normal renal function and no evidence of kidney damage (including abnormalities in blood or urine tests)\n\nExclusion Criteria:\n\n* History of or current clinically significant medical illness\n* Use of any prescription or nonprescription medication (including vitamins and herbal supplements)\n* History of clinically significant allergies, especially known hypersensitivity or intolerance to lactose- Known allergy to heparin or history of heparin induced thrombocytopenia\n* History of smoking or use of nicotine-containing substances within the previous 2 months",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "55 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Janssen Research & Development, LLC Clinical Trial",
+            "affiliation": "Janssen Research & Development, LLC",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "city": "Lincoln",
+            "state": "Nebraska",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.8,
+              "lon": -96.66696
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718830"
+}

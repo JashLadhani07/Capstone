@@ -1,0 +1,35 @@
+{
+  "pmid": "29101147",
+  "title": "Protocol for the HAPPY Hearts study: cardiovascular screening for the early detection of future adverse cardiovascular outcomes in middle-aged and older women: a prospective, observational cohort study.",
+  "abstract": "Efforts to identify individuals at a higher risk for adverse cardiovascular outcomes focus on traditional risk factors, such as age, sex, smoking status, blood pressure and and cholesterol; however, this approach does not directly assess cardiovascular function and may underestimate the risk of experiencing adverse cardiovascular outcomes in women. This prospective, observational cohort study will examine the ability of the Heart Attack Prevention Program for You (HAPPY) Hearts screening protocol, a series of non-invasive procedures to identify middle-aged and older women who are at an elevated risk for experiencing an adverse cardiovascular event in the 5-year period after screening. The predictive value of the HAPPY Hearts protocol will also be compared with the Framingham Risk Score to determine the sensitivity for estimating risk for an adverse cardiovascular outcome. One thousand women 55 years of age or older will be recruited to be screened by the HAPPY Hearts protocol. This involves the cardiovascular assessment of resting blood pressure, blood pressure response to 3\u2009min of moderate intensity exercise and large and small arterial elasticity. The participants will be classified into risk categories based on these measures. The incidence of the following adverse cardiovascular outcomes will be assessed in the 5-year period after screening in both groups: ischaemic heart disease, acute myocardial infarction, stroke, percutaneous coronary intervention, coronary bypass surgery, congestive heart failure and new hypertension. Information gathered in this research will be published in peer-reviewed journals and presented in a programme evaluation report to inform Manitoba Health and key stakeholders about the outcomes of the study. The University of Manitoba Health Research Ethics Board has approved the study protocol V.2.0, dated 29 September 2014 (H2014:224). NCT02863211.",
+  "journal": "BMJ open",
+  "pub_date": "2017-Nov",
+  "authors": [
+    "Boreskie, Kevin F",
+    "Kehler, D Scott",
+    "Costa, Eduardo C",
+    "Cortez, Pedro C",
+    "Berkowitz, Ivan",
+    "Hamm, Naomi C",
+    "Moffatt, Teri L",
+    "Stammers, Andrew N",
+    "Kimber, Dustin E",
+    "Hiebert, Brett M",
+    "Kent, David E",
+    "Cornish, Denise E",
+    "Blewett, Heather",
+    "Nguyen, Thang",
+    "Arora, Rakesh C",
+    "Strachan, Shaelyn M",
+    "Semenchuk, Brittany N",
+    "Hay, Jacqueline L",
+    "Cohn, Jay N",
+    "Duhamel, Todd A"
+  ],
+  "nct_ids_referenced": [
+    "NCT02863211"
+  ],
+  "source": "pubmed",
+  "word_count": 275,
+  "parsed_at": "2026-10-30T10:31:41.024894"
+}

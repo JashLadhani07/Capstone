@@ -1,0 +1,748 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01266811",
+      "orgStudyIdInfo": {
+        "id": "CR017743"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "CNTO328MMY3001",
+          "type": "OTHER",
+          "domain": "Centocor, Inc."
+        }
+      ],
+      "organization": {
+        "fullName": "Centocor, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Phase 3 Study of Siltuximab or Placebo in Combination With Velcade and Dexamethasone in Patients With Relapsed or Refractory Multiple Myeloma",
+      "officialTitle": "A Phase 3, Randomized, Double-blind Study of Siltuximab (Anti-IL-6 Monoclonal Antibody) or Placebo in Combination With VELCADE and Dexamethasone for the Treatment of Subjects With Relapsed or Refractory Multiple Myeloma"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2013-01",
+      "overallStatus": "WITHDRAWN",
+      "whyStopped": "Study canceled based on results of different study with similar hypothesis, investigational agent, \\& patient",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2011-07"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2014-04",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2014-12",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2010-12-23",
+      "studyFirstSubmitQcDate": "2010-12-23",
+      "studyFirstPostDateStruct": {
+        "date": "2010-12-24",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2013-01-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2013-01-28",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Centocor, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine if there is an improvement in progression-free survival (length of time during and after treatment in which a patient is living with a disease that does not get worse) when siltuximab is added to VELCADE and dexamethasone in subjects with relapsed or refractory multiple myeloma.",
+      "detailedDescription": "This is a research study with an experimental drug called siltuximab (also known as CNTO 328). Siltuximab is being developed to see if it may be useful in treating multiple myeloma, including multiple myeloma that has returned after (relapsed) or did not respond (refractory) to previous treatment. Multiple myeloma is a type of cancer that affects the blood and bone marrow. The cancer cells in the bone marrow can cause the normal bone marrow cells to breakdown. This can result in low levels of red blood cells (which may make the patient feel tired or fatigued), low levels of white blood cells (which may increase the patient's chances of infections) or low levels of platelets (which may increase risk of bleeding). The cancer cells can cause damage to the normal bone. This can cause bone pain, bone fractures, and can increase the level of calcium in the blood. The cancer cells also make proteins (called M-proteins), which can result in damage to other organs, especially the kidneys. Siltuximab is a chimeric (part mouse and part human) antibody (immunoglobulin that is important for fighting infection). Siltuximab blocks another small protein called Interleukin 6 (IL-6). The body makes IL-6 naturally, and at normal levels it is important for the inflammatory response. But high levels of IL-6 can help cancer cells grow and interfere with chemotherapy drugs killing cancer cells. Cancer-related sicknesses such as weight loss, bone weakening, and depression have been linked to high levels of IL-6. This study tests the effectiveness and safety of siltuximab when it is taken together with Velcade and dexamethasone. There are two treatment groups, Arm A and Arm B. To try to make sure the groups are similar, patients will be put into Arm A or Arm B, randomly (by chance), like flipping a coin. Patients in Arm A will receive siltuximab plus Velcade and dexamethasone. Patients in Arm B will receive placebo plus Velcade and dexamethasone. About 500 patients will participate in the study. Velcade, also known as bortezomib, is injected directly into the vein all at once. This is called an intravenous (IV) push. Siltuximab or placebo is given as a 1 hour IV infusion through a small tube that goes directly into the vein. Dexamethasone is given orally. The treatment period is divided into cycles lasting about 21 days which will last until the patient's multiple myeloma gets worse, side effects that are not acceptable happen or when the patient decides to withdraw consent for treatment, whichever occurs first. Siltuximab 11mg/kg or placebo will be given on Day 1 of every cycle. Velcade 1.3 mg/m2 will be given on Days 1, 4, 8 and 11 for Cycles 1-8, and on Days 1 and 8 for Cycles 9 and higher. Dexamethasone 20 mg will be given on the day of and the day after each Velcade dose. Safety assessments will be performed throughout the study and include obtaining and evaluating laboratory tests, vital signs (e.g. blood pressure), and checking the occurrence and severity of adverse events. Disease assessments will also be performed and include obtaining and evaluating blood and 24 hour urine samples, bone marrow aspirate and/or biopsy samples and clinical and radiologic evaluations. After treatment, patients will enter the follow-up period, which includes visits up to 12 weeks after the last dose and checks every three months until death or the end of the study. Patients who stop treatment before their multiple myeloma gets worse will have disease assessments until their disease gets worse, they start a new multiple myeloma treatment, they decide to withdraw consent for study participation or the end of the study, whichever happens first. Siltuximab or placebo plus Velcade and dexamethasone will be given in 21-day treatment cycles until worsening of disease (progression), unacceptable toxicity or withdrawal of consent for treatment, whichever comes first. Siltuximab 11 mg/kg or placebo will be given on Day 1 of every cycle. Velcade 1.3 mg/m2 will be given on Days 1, 4, 8 and 11 for Cycles 1-8, and on Days 1 and 8 for Cycles 9 and higher. Dexamethasone 20 mg will be given on the day of and the day after each Velcade dose."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Multiple Myeloma"
+      ],
+      "keywords": [
+        "dexamethasone",
+        "Siltuximab",
+        "CNTO 328",
+        "IL-6",
+        "Monoclonal Antibody",
+        "Multiple Myeloma",
+        "Relapsed or Refractory",
+        "Velcade",
+        "bortezomib"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 0,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "001",
+          "type": "EXPERIMENTAL",
+          "description": "Siltuximab Velcade and dexamethasone Given in 21-day treatment cycles Siltuximab 11 mg/kg as 1 hour IV infusion on Day 1 of every cycle Velcade 1.3 mg/m2 IV push on Days 1 4 8 and 11 for Cycles 1-8 and on Days 1 and 8 for Cycles 9 and higher Dexamethasone 20 mg orally on the day of and the day after each Velcade dose",
+          "interventionNames": [
+            "Biological: Siltuximab, Velcade and dexamethasone"
+          ]
+        },
+        {
+          "label": "002",
+          "type": "OTHER",
+          "description": "Placebo Velcade and dexamethasone Given in 21-day treatment cycles Placebo as 1-hour IV infusion on Day 1 of every cycle Velcade 1.3 mg/m2 IV push on Days 1 4 8 and 11 for Cycles 1-8 and on Days 1 and 8 for Cycles 9 and higher Dexamethasone 20 mg orally on the day of and the day after each Velcade dose",
+          "interventionNames": [
+            "Drug: Placebo, Velcade and dexamethasone"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Placebo, Velcade and dexamethasone",
+          "description": "Siltuximab 11 mg/kg as 1 hour IV infusion on Day 1 of every cycle",
+          "armGroupLabels": [
+            "002"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Siltuximab, Velcade and dexamethasone",
+          "description": "Given in 21-day treatment cycles",
+          "armGroupLabels": [
+            "001"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Progression-free survival (PFS)",
+          "timeFrame": "Event driven, i.e. every 3-4 weeks until progression, death, or end of study (5 years after first patient is dosed)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Overall survival",
+          "timeFrame": "Every 3 months until death or end of study (5 years after 1st patient is dosed)"
+        },
+        {
+          "measure": "Overall response rate",
+          "timeFrame": "Every 3 weeks until disease progression or end of study (5 years after 1st patient is dosed)"
+        },
+        {
+          "measure": "Siltuximab pharmacokinetic evaluations (Cmin, Cmax) to provide information on the pharmacokinetic profile of siltuximab",
+          "timeFrame": "Day 1 of Cycles 1, 2, 3, 5, 7, 11, 15, and 19 and during the follow-up period (12 weeks after last dose)"
+        },
+        {
+          "measure": "Dexamethasone pharmacokinetic evaluations (Cmin, AUC[t1-t2]) from approx. 30 patients from each treatment arm to provide information on the pharmacokinetic profile of dexamethasone",
+          "timeFrame": "Pre-dose on Day 1 of Cycles 1, 2 and 3; at Cycle 3 measured 1, 2, 4, 6 and 24 hours after dose"
+        },
+        {
+          "measure": "Number of adverse events as a measure of safety and tolerability",
+          "timeFrame": "Routinely until 30 days after last dose at a minimum, or until end of study"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of multiple myeloma requiring treatment\n* Measurable secretory disease, defined as either serum M-protein \\>=1 g/dL or urine M-protein (light chain) \\>=\u00bf200 mg/24 hours\n* Must have received 1 to 3 lines of prior treatment for multiple myeloma\n* Must have achieved a response (Minimal Response or better) to at least 1 prior line of treatment\n* Must have progressed on or been refractory (defined as \\< Minimal Response or disease progression within 60 days of last dose) to the most recent line of treatment\n* Must not be refractory to any previous line of treatment that included a proteasome inhibitor\n* Qualifying hematology and chemistry laboratory results.\n\nExclusion Criteria:\n\n* Diagnosis of primary amyloidosis, plasma cell leukemia, or other conditions in which a paraprotein is present in the absence of a clonal plasma cell infiltration with lytic bone lesions\n* Grade 1 peripheral neuropathy with pain or Grade 2 or higher peripheral neuropathy\n* Allogeneic bone marrow transplantation within 28 days\n* Bone marrow transplant planned within 12 months after study start\n* Chemotherapy or radiation therapy within 21 days\n* Clinically significant infection, including known HIV or hepatitis C infection, or known hepatitis B surface antigen positivity\n* Major surgery within 21 days before or planned during the study\n* Subjects who the investigator believes would not tolerate starting doses of VELCADE or dexamethasone\n* Significant cardiac disease or myocardial infarction within 6 months\n* Vaccination with live attenuated vaccines within 4 weeks\n* Prior exposure to agents targeting IL-6 or the IL-6 receptor\n* Received any investigational agent within 30 days\u00bf",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Centocor, Inc. Clinical Trial",
+          "affiliation": "Centocor, Inc.",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "city": "Iowa City",
+          "state": "Iowa",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66113,
+            "lon": -91.53017
+          }
+        },
+        {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "city": "Toledo",
+          "state": "Ohio",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66394,
+            "lon": -83.55521
+          }
+        },
+        {
+          "city": "Willow Grove",
+          "state": "Pennsylvania",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.144,
+            "lon": -75.11573
+          }
+        },
+        {
+          "city": "Milwaukee",
+          "state": "Wisconsin",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.0389,
+            "lon": -87.90647
+          }
+        },
+        {
+          "city": "Adelaide",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -34.92866,
+            "lon": 138.59863
+          }
+        },
+        {
+          "city": "Camperdown",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -33.88965,
+            "lon": 151.17642
+          }
+        },
+        {
+          "city": "Heidelberg",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.75,
+            "lon": 145.06667
+          }
+        },
+        {
+          "city": "Parkville",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.78333,
+            "lon": 144.95
+          }
+        },
+        {
+          "city": "Prahran",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.85114,
+            "lon": 144.99318
+          }
+        },
+        {
+          "city": "Edegem",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.15662,
+            "lon": 4.44504
+          }
+        },
+        {
+          "city": "Li\u00e8ge",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.63373,
+            "lon": 5.56749
+          }
+        },
+        {
+          "city": "Turnhout",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.32254,
+            "lon": 4.94471
+          }
+        },
+        {
+          "city": "Yvoir",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.3279,
+            "lon": 4.88059
+          }
+        },
+        {
+          "city": "Plovdiv",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.15387,
+            "lon": 24.75001
+          }
+        },
+        {
+          "city": "Sofia",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.69751,
+            "lon": 23.32415
+          }
+        },
+        {
+          "city": "Varna",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 43.21912,
+            "lon": 27.91024
+          }
+        },
+        {
+          "city": "Toronto",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "city": "Hradec Kr\u00e1lov\u00e9",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.20923,
+            "lon": 15.83277
+          }
+        },
+        {
+          "city": "Liberec",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.76711,
+            "lon": 15.05619
+          }
+        },
+        {
+          "city": "Prague",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "city": "Gandhinagar Guiarat",
+          "country": "India"
+        },
+        {
+          "city": "Apeldoorn",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.21,
+            "lon": 5.96944
+          }
+        },
+        {
+          "city": "Deventer",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.255,
+            "lon": 6.16389
+          }
+        },
+        {
+          "city": "Zwolle",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.5125,
+            "lon": 6.09444
+          }
+        },
+        {
+          "city": "Christchurch",
+          "country": "New Zealand",
+          "geoPoint": {
+            "lat": -43.53333,
+            "lon": 172.63333
+          }
+        },
+        {
+          "city": "Grafton",
+          "country": "New Zealand",
+          "geoPoint": {
+            "lat": -36.86029,
+            "lon": 174.76566
+          }
+        },
+        {
+          "city": "Nz 9 Takapuna Auckland",
+          "country": "New Zealand"
+        },
+        {
+          "city": "Palmerston North",
+          "country": "New Zealand",
+          "geoPoint": {
+            "lat": -40.35636,
+            "lon": 175.61113
+          }
+        },
+        {
+          "city": "Brzoz\u00f3w",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 49.69501,
+            "lon": 22.01926
+          }
+        },
+        {
+          "city": "Gdansk",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "city": "Lodz",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "city": "Opole",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.67119,
+            "lon": 17.92604
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.10286,
+            "lon": 17.03006
+          }
+        },
+        {
+          "city": "Hwasun Gun",
+          "country": "South Korea"
+        },
+        {
+          "city": "Seoul",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "city": "Ankara",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 39.91987,
+            "lon": 32.85427
+          }
+        },
+        {
+          "city": "Bursa",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 40.19559,
+            "lon": 29.06013
+          }
+        },
+        {
+          "city": "Edirne",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.67719,
+            "lon": 26.55597
+          }
+        },
+        {
+          "city": "Cherkassy",
+          "country": "Ukraine",
+          "geoPoint": {
+            "lat": 49.44452,
+            "lon": 32.05738
+          }
+        },
+        {
+          "city": "Dnipro",
+          "country": "Ukraine",
+          "geoPoint": {
+            "lat": 48.46664,
+            "lon": 35.04066
+          }
+        },
+        {
+          "city": "Kharkiv",
+          "country": "Ukraine",
+          "geoPoint": {
+            "lat": 49.98177,
+            "lon": 36.25475
+          }
+        },
+        {
+          "city": "Khmelnitskiy",
+          "country": "Ukraine"
+        },
+        {
+          "city": "Kiev",
+          "country": "Ukraine",
+          "geoPoint": {
+            "lat": 50.45466,
+            "lon": 30.5238
+          }
+        },
+        {
+          "city": "Odesa",
+          "country": "Ukraine",
+          "geoPoint": {
+            "lat": 46.48572,
+            "lon": 30.74383
+          }
+        },
+        {
+          "city": "Simferopol",
+          "country": "Ukraine",
+          "geoPoint": {
+            "lat": 44.95719,
+            "lon": 34.11079
+          }
+        },
+        {
+          "city": "Vinnitsa",
+          "country": "Ukraine",
+          "geoPoint": {
+            "lat": 49.84639,
+            "lon": 37.71861
+          }
+        },
+        {
+          "city": "Nottingham",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.9536,
+            "lon": -1.15047
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29",
+      "removedCountries": [
+        "Brazil",
+        "Israel",
+        "Portugal",
+        "Russia",
+        "Spain"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009101",
+          "term": "Multiple Myeloma"
+        },
+        {
+          "id": "D012008",
+          "term": "Recurrence"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D054219",
+          "term": "Neoplasms, Plasma Cell"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D020141",
+          "term": "Hemostatic Disorders"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010265",
+          "term": "Paraproteinemias"
+        },
+        {
+          "id": "D001796",
+          "term": "Blood Protein Disorders"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D006474",
+          "term": "Hemorrhagic Disorders"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069286",
+          "term": "Bortezomib"
+        },
+        {
+          "id": "D003907",
+          "term": "Dexamethasone"
+        },
+        {
+          "id": "C504234",
+          "term": "siltuximab"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001897",
+          "term": "Boronic Acids"
+        },
+        {
+          "id": "D000148",
+          "term": "Acids, Noncarboxylic"
+        },
+        {
+          "id": "D000143",
+          "term": "Acids"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D001896",
+          "term": "Boron Compounds"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D011719",
+          "term": "Pyrazines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D011246",
+          "term": "Pregnadienetriols"
+        },
+        {
+          "id": "D011245",
+          "term": "Pregnadienes"
+        },
+        {
+          "id": "D011278",
+          "term": "Pregnanes"
+        },
+        {
+          "id": "D013256",
+          "term": "Steroids"
+        },
+        {
+          "id": "D000072473",
+          "term": "Fused-Ring Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D013259",
+          "term": "Steroids, Fluorinated"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,388 @@
+{
+  "nct_id": "NCT02114528",
+  "title": "Antiarrhythmic Therapy Versus Catheter Ablation as First Line Treatment for AICD Shock Prevention: A Randomized Vanguard Pilot Trial",
+  "sponsor": "Ottawa Heart Institute Research Corporation",
+  "phase": "PHASE4",
+  "status": "TERMINATED",
+  "conditions": [
+    "Ventricular Tachycardia",
+    "Ventricular Arrhythmia"
+  ],
+  "interventions": [
+    "Antiarrhythmic Drug Therapy",
+    "Catheter ablation"
+  ],
+  "primary_outcome": "Appropriate ICD therapy",
+  "secondary_outcomes": [
+    "Composite Safety Endpoint"
+  ],
+  "start_date": "2014-10",
+  "completion_date": "2015-11",
+  "results_posted": false,
+  "enrollment": 3,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02114528",
+        "orgStudyIdInfo": {
+          "id": "20130425"
+        },
+        "organization": {
+          "fullName": "Ottawa Heart Institute Research Corporation",
+          "class": "OTHER"
+        },
+        "briefTitle": "Anti-arrhythmic Therapy vs Catheter Ablation as First Line Treatment for AICD Shock Prevention",
+        "officialTitle": "Antiarrhythmic Therapy Versus Catheter Ablation as First Line Treatment for AICD Shock Prevention: A Randomized Vanguard Pilot Trial",
+        "acronym": "AVATAR"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2015-11",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "Low recruitment. Pilot trial.",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2014-10"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2015-11",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2015-11",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2014-04-04",
+        "studyFirstSubmitQcDate": "2014-04-11",
+        "studyFirstPostDateStruct": {
+          "date": "2014-04-15",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2026-05-01",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-05-04",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Ottawa Heart Institute Research Corporation",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to determine whether catheter based ablation is better than conventional anti-arrhythmic drug (AAD) therapy for reducing recurrent shocks in patients with an implantable cardioverter defibrillator (ICD). The second purpose of the study is to determine the safety of catheter-based ablation and the effect on quality of life of patients.\n\nThe study hypothesis is that catheter ablation is superior to AAD therapy in preventing recurrent ventricular arrhythmia in such subjects. This is a pilot trial which will provide data regarding recruitment potential and the feasibility of conducting a larger trial.",
+        "detailedDescription": "AAD and catheter ablation have been shown to reduce the incidence of recurrent AICD shocks. The disadvantages of AAD include side effects from medications and the lack of compliance during long-term therapy. Previous trials have demonstrated the feasibility, safety and efficacy of catheter ablation as \"first-line\" treatment for reducing recurrent ventricular arrhythmia and AICD shocks in this subject population. However, these catheter ablation trials did not systematically compare the efficacy of catheter ablation with AAD therapy. While both treatment strategies have been shown to be effective in this setting it is unclear how they compare with each other in preventing AICD shocks.\n\nThis is a single centre, parallel group, two-arm, unblinded randomized vanguard pilot trial comparing catheter ablation with AAD therapy for preventing recurrent AICD shocks.\n\nEligible and consenting subjects will be equally randomized to receive either AAD therapy or a catheter ablation procedure.\n\nA 30-day treatment period will be provided to allow for adequate time to implement the two treatments.\n\nSubjects randomized to the antiarrhythmic therapy arm will receive clinically effective loading doses of either sotalol, mexiletine, procainamide or amiodarone (oral or IV) alone or in combination, as chosen by the study investigator.\n\nSubjects randomized to the catheter ablation arm will undergo the procedure within the 30 treatment period. Concomitant antiarrhythmic therapy with amiodarone or other AAD will be avoided if possible in the ablation group. However, AAD may be used to suppress ventricular arrhythmia resulting in AICD shocks or anti-tachycardia pacing (ATP) while waiting for the catheter ablation procedure.\n\nSubjects will be seen for a baseline randomization visit, then at 3, 6, 9 and 12 months after enrollment and every 3 months thereafter until the end of the study. Subjects will be followed up for a minimum of 12 months and a maximum of 24 months.\n\nQuality of life questionnaires will be done at each visit. Standard of care blood work, chest x-ray, and ECG will be done in the AAD arm depending on the AAD chosen as treatment. ICD programming will be standardized for all subjects."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Ventricular Tachycardia",
+          "Ventricular Arrhythmia"
+        ],
+        "keywords": [
+          "Ventricular Tachycardia",
+          "Ventricular Arrhythmia",
+          "Anti-arrhythmic drugs",
+          "Catheter Ablation",
+          "ICD Shocks"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE4"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT"
+        },
+        "enrollmentInfo": {
+          "count": 3,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Anti-arrhythmic drug therapy",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Oral and/or intravenous loading doses of Sotalol, mexiletine, procainamide or amiodarone as first line therapy. Drug chosen is preference of the treating physician. May use single or combination of AAD. Loading doses as per standard dosing guidelines for VT. Subjects on amiodarone should receive oral maintenance dose of at least 200 mg/day.",
+            "interventionNames": [
+              "Drug: Antiarrhythmic Drug Therapy"
+            ]
+          },
+          {
+            "label": "Catheter ablation",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Ventricular tachycardia (VT) Catheter ablation, using a standardized VT ablation procedure protocol.",
+            "interventionNames": [
+              "Procedure: Catheter ablation"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Antiarrhythmic Drug Therapy",
+            "description": "Either one or more of the following antiarrhythmic drugs: sotalol, mexiletine, procainamide, or amiodarone.",
+            "armGroupLabels": [
+              "Anti-arrhythmic drug therapy"
+            ],
+            "otherNames": [
+              "Betapace (sotalol), Mexitil (mexiletine), Pronestyl (procainamide), Cordarone (amiodarone)"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Catheter ablation",
+            "description": "Ventricular tachycardia catheter ablation.",
+            "armGroupLabels": [
+              "Catheter ablation"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Appropriate ICD therapy",
+            "description": "Appropriate AICD therapy after the 30 day treatment period; defined as \u2265 1 appropriate Shock or ATP that needs further intervention in the form of catheter ablation or AAD therapy.",
+            "timeFrame": "After 30 day treatment period"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Composite Safety Endpoint",
+            "description": "1. Catheter ablation arm- procedure related complications, need for concomitant use of AAD (sotalol, mexiletine, propafenone or amiodarone) and/or death.\n2. Antiarrhythmic arm- medication side effects, discontinuation of AAD and death, inappropriate shocks from AICD.\n3. Slow VT below AICD tachyarrhythmia detection threshold that leads to hospitalization or necessitates catheter ablation\n4. Mortality\n5. Quality of life score in each treatment arm using the EQ-5D questionnaire\n6. Health care resource utilization",
+            "timeFrame": "Up to 24 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2265 18 and \u2264 85 years old\n* Able to provide informed consent\n* AICD implanted for primary prophylaxis against sudden cardiac death\n* AICD implanted for secondary prophylaxis against spontaneous or inducible sustained VT without any reversible causes\n* CAD with prior myocardial infarction (\\>60 days prior to enrollment)\n* AICD or ECG documentation of ventricular arrhythmia responsible for appropriate AICD therapy (\\> 3 ATP or \u2265 1 appropriate Shock)\n\nExclusion Criteria:\n\n* Contraindication or allergy to contrast media, routine procedural medications or catheter materials\n* Contraindication to an interventional procedure\n* Current or previous (within 3 months) antiarrhythmic therapy\n* Absolute contraindication to amiodarone or other AAD\n* New York Heart Association (NYHA) functional class IV\n* Stroke within the past 90 days\n* Unstable angina\n* Hypertrophic cardiomyopathy, Non-ischemic dilated cardiomyopathy, Arrhythmogenic Right Ventricular Dysplasia, Brugada Syndrome, Catecholamine sensitive polymorphic VT or long QT syndrome\n* Subjects with active ischemia that are eligible for revascularization\n* Life expectancy less than 6 months\n* Incessant or multiple episodes of VT requiring immediate therapy with medications or ablation\n* Untreated hypothyroidism or hyperthyroidism. Subjects who are euthyroid on thyroid hormone replacement therapy are acceptable.\n* Current enrollment in another investigational drug or device study.\n* Presence of any other condition that the investigator feels would be problematic or would restrict or limit the participation of the Subject for the entire study period.\n* Absolute contra-indication to the use of heparin and or warfarin.\n* Documented intra-atrial thrombus, ventricular thrombus (\\< 6 months after detection of thrombus), tumor, or another abnormality, which precludes catheter introduction.\n* Previous VT ablation\n* Are pregnant.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "85 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Girish Nair, MD",
+            "affiliation": "Ottawa Heart Institute Research Corporation",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of Ottawa Heart Institute",
+            "city": "Ottawa",
+            "state": "Ontario",
+            "zip": "K1Y 4W7",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 45.41117,
+              "lon": -75.69812
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D017180",
+            "term": "Tachycardia, Ventricular"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D013610",
+            "term": "Tachycardia"
+          },
+          {
+            "id": "D001145",
+            "term": "Arrhythmias, Cardiac"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D000075224",
+            "term": "Cardiac Conduction System Disease"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D013015",
+            "term": "Sotalol"
+          },
+          {
+            "id": "D008801",
+            "term": "Mexiletine"
+          },
+          {
+            "id": "D011342",
+            "term": "Procainamide"
+          },
+          {
+            "id": "D000638",
+            "term": "Amiodarone"
+          },
+          {
+            "id": "D017115",
+            "term": "Catheter Ablation"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D004983",
+            "term": "Ethanolamines"
+          },
+          {
+            "id": "D000605",
+            "term": "Amino Alcohols"
+          },
+          {
+            "id": "D000438",
+            "term": "Alcohols"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D000588",
+            "term": "Amines"
+          },
+          {
+            "id": "D011437",
+            "term": "Propylamines"
+          },
+          {
+            "id": "D010647",
+            "term": "Phenyl Ethers"
+          },
+          {
+            "id": "D010636",
+            "term": "Phenols"
+          },
+          {
+            "id": "D001555",
+            "term": "Benzene Derivatives"
+          },
+          {
+            "id": "D006841",
+            "term": "Hydrocarbons, Aromatic"
+          },
+          {
+            "id": "D006844",
+            "term": "Hydrocarbons, Cyclic"
+          },
+          {
+            "id": "D006838",
+            "term": "Hydrocarbons"
+          },
+          {
+            "id": "D001549",
+            "term": "Benzamides"
+          },
+          {
+            "id": "D000577",
+            "term": "Amides"
+          },
+          {
+            "id": "D062366",
+            "term": "para-Aminobenzoates"
+          },
+          {
+            "id": "D062365",
+            "term": "Aminobenzoates"
+          },
+          {
+            "id": "D001565",
+            "term": "Benzoates"
+          },
+          {
+            "id": "D000146",
+            "term": "Acids, Carbocyclic"
+          },
+          {
+            "id": "D002264",
+            "term": "Carboxylic Acids"
+          },
+          {
+            "id": "D001572",
+            "term": "Benzofurans"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          },
+          {
+            "id": "D000078703",
+            "term": "Radiofrequency Ablation"
+          },
+          {
+            "id": "D000078702",
+            "term": "Radiofrequency Therapy"
+          },
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          },
+          {
+            "id": "D055011",
+            "term": "Ablation Techniques"
+          },
+          {
+            "id": "D013514",
+            "term": "Surgical Procedures, Operative"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378733"
+}

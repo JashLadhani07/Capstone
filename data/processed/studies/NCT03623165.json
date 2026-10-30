@@ -1,0 +1,283 @@
+{
+  "nct_id": "NCT03623165",
+  "title": "An Observational, Prospective, Single Arm, Multi-Center Registry to Evaluate the Cordella\u2122 Heart Failure System in New York Heart (NYHA) Class III Heart Failure Patients (PRODIGY Registry)",
+  "sponsor": "Endotronix, Inc.",
+  "phase": "NA",
+  "status": "TERMINATED",
+  "conditions": [
+    "Heart Failure NYHA Class III"
+  ],
+  "interventions": [
+    "Cordella\u2122 Heart Failure System"
+  ],
+  "primary_outcome": "Kansas City Cardiomyopathy Questionnaire (KCCQ) change from baseline to 6 month",
+  "secondary_outcomes": [
+    "Percentage of device success",
+    "Frequency of Adverse Events",
+    "Heart Failure Hospitalizations",
+    "Device/system-related complications",
+    "Adherence to regular myCordella\u2122 Peripherals measurements",
+    "Heart Failure Related Medication Changes",
+    "Health Economic Questionnaire & Cost Effectiveness Analysis",
+    "Kansas City Cardiomyopathy Questionnaire (KCCQ) change from baseline to 12 month"
+  ],
+  "start_date": "2018-08-01",
+  "completion_date": "2019-08-15",
+  "results_posted": false,
+  "enrollment": 7,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03623165",
+        "orgStudyIdInfo": {
+          "id": "ETX-HFS-CHFS-01"
+        },
+        "organization": {
+          "fullName": "Endotronix, Inc.",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "PRODIGY Registry in NYHA Class III Heart Failure Patients",
+        "officialTitle": "An Observational, Prospective, Single Arm, Multi-Center Registry to Evaluate the Cordella\u2122 Heart Failure System in New York Heart (NYHA) Class III Heart Failure Patients (PRODIGY Registry)"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2019-05",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "same information will be collected in upcoming IDE trial",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2018-08-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2019-08-15",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2019-08-15",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2018-06-27",
+        "studyFirstSubmitQcDate": "2018-08-06",
+        "studyFirstPostDateStruct": {
+          "date": "2018-08-09",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2019-08-15",
+        "lastUpdatePostDateStruct": {
+          "date": "2019-08-19",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Endotronix, Inc.",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is an observational, prospective, single arm, multi-center registry to evaluate the Cordella\u2122 Heart Failure System (CHFS) in up to 250 NYHA Class III HF patients .",
+        "detailedDescription": "The subjects in this registry will participate in the Screening Visit, and Follow-Up Visits. After the Screening Visit, eligible subjects will be trained on at-home use of the CHFS to measure BP, HR, SpO2, weight and optional ECG.\n\nThey will be instructed to perform daily measurements of the parameters which will all be wirelessly transmitted to a secure website for review using the myCordella\u2122 Patient Management Portal (PMP). Clinicians will be able to view Blood Pressure (BP), Heart Rate (HR), peripheral capillary oxygen saturation (SpO2), weight and Electrocardiogram (ECG) (optional) data through the myCordella\u2122 PMP.\n\nSubjects will return for follow up visits at 3, 6, and 12 months after enrollment or until study termination.\n\nAt Month 6, the primary endpoint will be assessed through evaluation of the subjects Quality of Life using the completed KCCQ Questions.\n\nAssessment of secondary endpoints will be performed throughout the study duration, including evaluation of adverse events, and heart failure-related hospitalizations and medication changes. Additionally, Health Economics will be assessed per subject and per site via a detailed site questionnaire."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Heart Failure NYHA Class III"
+        ],
+        "keywords": [
+          "Heart Failure",
+          "NYHA Class III"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": true,
+        "targetDuration": "12 Months",
+        "designInfo": {
+          "observationalModel": "CASE_ONLY",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 7,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Arm",
+            "description": "Cordella\u2122 Heart Failure System",
+            "interventionNames": [
+              "Device: Cordella\u2122 Heart Failure System"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Cordella\u2122 Heart Failure System",
+            "description": "The Cordella\u2122 Heart Failure System electronically transfers communications and data from a set of medical devices in a heart failure patient's home to a database for storage, retrieval, and display to healthcare providers.",
+            "armGroupLabels": [
+              "Arm"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Kansas City Cardiomyopathy Questionnaire (KCCQ) change from baseline to 6 month",
+            "description": "The KCCQ is a 23-item, self-administered instrument that quantifies physical function, symptoms (frequency, severity and recent change), social function, self-efficacy and knowledge, and quality of life. An overall summary score can be derived from the physical function, symptom (frequency and severity), social function and quality of life domains. For each domain, the validity, reproducibility, responsiveness and interpretability have been independently established. Scores are transformed to a range of 0-100, in which higher scores reflect better health status. For brevity, only the performance characteristics of the overall summary score are presented in this discussion.The answers patients give to the KCCQ's questions are used to calculate scores in ten scales: Physical Limitation, Symptom Stability, Symptom Frequency, Symptom Burden, Total Symptom, Social Limitation, Self-Efficacy, Quality of Life, Clinical Summary, Overall Summary",
+            "timeFrame": "Baseline- 6 month"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Percentage of device success",
+            "description": "Percentage of device success as documented by ability of the System to successfully transmit data (BP, HR, SpO2, weight and optional ECG) to a secure database.",
+            "timeFrame": "12 months post Enrollment"
+          },
+          {
+            "measure": "Frequency of Adverse Events",
+            "description": "Frequency and rates of adverse events(AEs) throughout the study",
+            "timeFrame": "12 months post Enrollment"
+          },
+          {
+            "measure": "Heart Failure Hospitalizations",
+            "description": "Number of HF hospitalizations, HF treatments in a hospital day-care setting, or urgent outpatient clinic HF visits",
+            "timeFrame": "12 months post Enrollment"
+          },
+          {
+            "measure": "Device/system-related complications",
+            "description": "Incidence of Device/system-related complications",
+            "timeFrame": "12 months post Enrollment"
+          },
+          {
+            "measure": "Adherence to regular myCordella\u2122 Peripherals measurements",
+            "description": "Compliance in using myCordella\u2122 at minimum 5 out of 7 days",
+            "timeFrame": "12 months post Enrollment"
+          },
+          {
+            "measure": "Heart Failure Related Medication Changes",
+            "description": "Changes to Heart Failure Related Medication from Baseline through 12 month post Enrollment",
+            "timeFrame": "12 months post Enrollment"
+          },
+          {
+            "measure": "Health Economic Questionnaire & Cost Effectiveness Analysis",
+            "description": "Cost Effectiveness of treating Complex Chronic Care Management (CCM) patients with Heart Failure using the Cordella\u2122 Heart Failure System will be assessed with a questionnaire generated by a Health Economics expert from sponsor. Analyses will include: CCM billing practices, overall economic costs for: hospitalizations (including length of stay), treatment in day-care settings, treatment in urgent care, medication costs, as well as indriect costs (missed days at work, caregiver support, etc.)",
+            "timeFrame": "12 months post Enrollment"
+          },
+          {
+            "measure": "Kansas City Cardiomyopathy Questionnaire (KCCQ) change from baseline to 12 month",
+            "description": "The KCCQ is a 23-item, self-administered instrument that quantifies physical function, symptoms (frequency, severity and recent change), social function, self-efficacy and knowledge, and quality of life. An overall summary score can be derived from the physical function, symptom (frequency and severity), social function and quality of life domains. For each domain, the validity, reproducibility, responsiveness and interpretability have been independently established. Scores are transformed to a range of 0-100, in which higher scores reflect better health status. For brevity, only the performance characteristics of the overall summary score are presented in this discussion.The answers patients give to the KCCQ's questions are used to calculate scores in ten scales: Physical Limitation, Symptom Stability, Symptom Frequency, Symptom Burden, Total Symptom, Social Limitation, Self-Efficacy, Quality of Life, Clinical Summary, Overall Summary",
+            "timeFrame": "12 months post Enrollment"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subject has given written informed consent\n2. Male or female complex CCM eligible patients or equivalent and at least 18 years of age\n3. Diagnosis of HF \u2265 3 months and NYHA Class III HF at the time of Screening\n4. Subject fluent in English (written and oral) and with sufficient eyesight, hearing, and mental capacity to respond to the Cordella\u2122 Heart Failure System audio/visual cues and operate the Cordella\u2122 Heart Failure System\n5. Subject has sufficient Cellular and/ or Wi- Fi Internet coverage at home\n6. Subject agrees:\n\n   1. that the treating Investigator is their solely complex CCM physician\n   2. to return to the treating Investigator for all scheduled follow up visits and can return to the hospital for follow up\n\nExclusion Criteria:\n\n1. Subjects enrolled in another investigational trial.\n2. Subjects who are unwilling or deemed by the Investigator to be unwilling to comply with the study protocol, or subjects with a history of non-compliance\n3. Severe illness, other than heart disease, which would limit survival to \\<1 year",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Subjects in this study will be male or female Complex Chronic Care Management (CCM) eligible patients with a diagnosis of NYHA Class III heart failure. Subjects must be diagnosed with heart failure for a minimum of 3 months at time of screening.",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Andrea Sauerland",
+            "affiliation": "Endotronix, Inc.",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "USC Keck School of Medicine",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90033",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.05223,
+              "lon": -118.24368
+            }
+          },
+          {
+            "facility": "UCSF Medical Center",
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.77493,
+              "lon": -122.41942
+            }
+          },
+          {
+            "facility": "Dartmouth-Hitchcock Medical Center",
+            "city": "Lebanon",
+            "state": "New Hampshire",
+            "zip": "03756",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.64229,
+              "lon": -72.25176
+            }
+          },
+          {
+            "facility": "Craig Cardiovascular Center",
+            "city": "Gonzales",
+            "state": "Texas",
+            "zip": "78679",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.50163,
+              "lon": -97.45249
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006333",
+            "term": "Heart Failure"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792118"
+}

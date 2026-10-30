@@ -1,0 +1,215 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01154244",
+      "orgStudyIdInfo": {
+        "id": "113417"
+      },
+      "organization": {
+        "fullName": "GlaxoSmithKline",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Insulin Resistance as Primary Pathogenesis in Newly Diagnosed, Drug na\u00efve Type 2 Diabetes Patients in Korea",
+      "officialTitle": "Insulin Resistance as Primary Pathogenesis in Newly Diagnosed, Drug na\u00efve Type 2 Diabetes Patients in Korea",
+      "acronym": "SURPRISE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2011-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2009-09"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2010-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2010-07",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2010-06-29",
+      "studyFirstSubmitQcDate": "2010-06-29",
+      "studyFirstPostDateStruct": {
+        "date": "2010-06-30",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2011-01-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2011-01-25",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "E.D. Derilus; Clinical Disclosure Advisor",
+        "oldOrganization": "GSK Clinical Disclosure"
+      },
+      "leadSponsor": {
+        "name": "GlaxoSmithKline",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is investigating the clinical characteristics of newly diagnosed, drug na\u00efve type 2 diabetic patients according to insulin secretion and insulin resistance.",
+      "detailedDescription": "Primary Objective:To investigate whether insulin resistance or insulin deficiency is primary in the pathogenesis of type 2 diabetes mellitus in Korea Secondary Objectives:To investigate proportion of patients with severe insulin deficiency at diagnosis,To investigate proportion of metabolic syndrome in patients with newly diagnosed, drug-na\u00efve type 2 diabetes mellitus,To investigate proportion of obesity in patients with newly diagnosed, drug-na\u00efve type 2 diabetes mellitus"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus, Type 2"
+      ],
+      "keywords": [
+        "Insulin resistance",
+        "Insulin deficiency",
+        "HOMA-IR",
+        "Drug naive",
+        "Diabetes mellitus, type II"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "designInfo": {
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 1439,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Drug naive type II DM",
+          "description": "Newly diagnosed type II Diabetes Mellitus",
+          "interventionNames": [
+            "Other: HOMA-IR"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "HOMA-IR",
+          "description": "Blood sampling for HOMA-IR and HbA1C, fasting glucose, C-peptide, Lipid profile",
+          "armGroupLabels": [
+            "Drug naive type II DM"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "insulin resistance assessed using HOMA-IR",
+          "timeFrame": "within 3months after DM diagnosis"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "proportion of patients with severe insulin deficiency assessed using C-peptide",
+          "timeFrame": "within 3months after DM diagnosis"
+        },
+        {
+          "measure": "proportion of metabolic syndrome in patients",
+          "timeFrame": "within 3months after DM diagnosis"
+        },
+        {
+          "measure": "proportion of obesity in patients",
+          "timeFrame": "within 3months after DM diagnosis"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:Newly diagnosed, drug na\u00efve type 2 DM patients who gave informed consent, Diagnosis of type 2 DM will be made according to ADA guideline 2009 Exclusion Criteria:Patients age under 18 years",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Newly diagnosed Type II DM, Drug naive",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "GSK Clinical Trials",
+          "affiliation": "GlaxoSmithKline",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bucheon-si",
+          "zip": "150-713",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.49889,
+            "lon": 126.78306
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Seoul",
+          "zip": "110-749",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D007333",
+          "term": "Insulin Resistance"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D006946",
+          "term": "Hyperinsulinism"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

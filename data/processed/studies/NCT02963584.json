@@ -1,0 +1,264 @@
+{
+  "nct_id": "NCT02963584",
+  "title": "A Pilot Randomized Trial of a Decision Aid in CTO Patients",
+  "sponsor": "The First Affiliated Hospital of Dalian Medical University",
+  "phase": "NA",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Coronary Occlusion"
+  ],
+  "interventions": [
+    "decision aid"
+  ],
+  "primary_outcome": "patient knowledge regarding CTO of PCI or medication (risk and benefit)",
+  "secondary_outcomes": [
+    "quality of the decision making process for both the study subjects",
+    "subjects acceptability with the decision aid",
+    "rate of PCI or medication",
+    "ability to recruit participants"
+  ],
+  "start_date": "2016-11",
+  "completion_date": "2016-12",
+  "results_posted": false,
+  "enrollment": 160,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02963584",
+        "orgStudyIdInfo": {
+          "id": "LCKY2015-22-2"
+        },
+        "organization": {
+          "fullName": "The First Affiliated Hospital of Dalian Medical University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Decision Aid in Chronic Total Occlusion (CTO) Patients",
+        "officialTitle": "A Pilot Randomized Trial of a Decision Aid in CTO Patients"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2016-10",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "NOT_YET_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2016-11"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2016-12",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2016-12",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2016-10-27",
+        "studyFirstSubmitQcDate": "2016-11-14",
+        "studyFirstPostDateStruct": {
+          "date": "2016-11-15",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2016-11-14",
+        "lastUpdatePostDateStruct": {
+          "date": "2016-11-15",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "The First Affiliated Hospital of Dalian Medical University",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Beijing Anzhen Hospital",
+            "class": "OTHER"
+          },
+          {
+            "name": "First Hospital of China Medical University",
+            "class": "OTHER"
+          },
+          {
+            "name": "Guangdong Provincial People's Hospital",
+            "class": "OTHER"
+          },
+          {
+            "name": "Nanfang Hospital, Southern Medical University",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The aim of this study is to assess the feasibility and validity of patient-level randomization (vs. cluster randomization) in pilot trials of decision aid efficacy.",
+        "detailedDescription": "This is a parallel, 2-arm, randomized trial to compare an intervention group receiving CTO Choice (decision aid) to a control group receiving usual primary care. 100 patients and 60 cardiologists will be randomize by computer. The investigators will measure the effect of CTO Choice on five outcomes: (a) patient knowledge regarding CTO of PCI or medication (risk and benefit); (b) quality of the decision making process for both the patient and clinician; (c) patient and clinician acceptability and satisfaction with the decision aid; (d) rate of percutaneous coronary intervention (PCI) or medication; and (e) trial processes (e.g., ability to recruit participants, collect patient outcomes). To capture these outcomes, the investigators will use patient and clinician surveys following each visit and video recordings of the clinical encounters. These video recordings will also allow us to determine the extent to which clinicians exposed to the decision aid were able to recreate elements of the decision aid which control patients."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Coronary Occlusion"
+        ],
+        "keywords": [
+          "chronic total occlusion",
+          "decision aid"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "SUPPORTIVE_CARE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 160,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "intervention group",
+            "type": "EXPERIMENTAL",
+            "description": "Patients in this group will receive CTO Choice (decision aid).",
+            "interventionNames": [
+              "Other: decision aid"
+            ]
+          },
+          {
+            "label": "control group",
+            "type": "NO_INTERVENTION",
+            "description": "Patients in this group will receive usual primary care."
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "decision aid",
+            "description": "The related information about CTO and PCI procedures will be told to the patients thoroughly.",
+            "armGroupLabels": [
+              "intervention group"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "patient knowledge regarding CTO of PCI or medication (risk and benefit)",
+            "timeFrame": "within the first 3 days after survey"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "quality of the decision making process for both the study subjects",
+            "timeFrame": "within the first 3 days after survey"
+          },
+          {
+            "measure": "subjects acceptability with the decision aid",
+            "timeFrame": "within the first 3 days after survey"
+          },
+          {
+            "measure": "rate of PCI or medication",
+            "timeFrame": "within the first 3 days after survey"
+          },
+          {
+            "measure": "ability to recruit participants",
+            "timeFrame": "within the first 3 days after survey"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Patient:\n\nInclusion Criteria:\n\n1. At least one lesion occluding the coronary artery detected by angiography or MSCTA.\n2. left ventricular ejection fraction \u2265 40% on transthoracic echocardiography measurement.\n3. No major barriers to provide written consent.\n\nExclusion Criteria:\n\n1. Severe coexisting conditions, such as severe renal insufficiency (GFR \\< 30 ml/min\u20221.73m2), severe hepatic dysfunction \\[elevated glutamic-pyruvic transaminase or glutamic-oxal acetic transaminase level by more than three-fold of the normal limitation\\], acute or chronic heart failure (NYHA III-IV), acute infectious diseases, immune disorders, malignancy, etc.\n2. Patients with cognitive impairment, severe hearing loss, or visual impairment who could not complete the survey.\n\nCardiologist:\n\nInclusion Criteria:\n\n1. Doctors who work in the department of Cardiology for more than 1 years.\n2. No major barriers to provide written consent.\n\nExclusion Criteria:\n\nNone.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Rongchong Huang, M.D.",
+            "role": "CONTACT",
+            "phone": "+86 411 83635963",
+            "phoneExt": "7127",
+            "email": "rchuang@dlmedu.edu.cn"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Rongchong Huang, M.D.",
+            "affiliation": "The First Affiliated Hospital of Dalian Medical University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D054059",
+            "term": "Coronary Occlusion"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003327",
+            "term": "Coronary Disease"
+          },
+          {
+            "id": "D017202",
+            "term": "Myocardial Ischemia"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003661",
+            "term": "Decision Support Techniques"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D008919",
+            "term": "Investigative Techniques"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378586"
+}

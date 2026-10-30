@@ -1,0 +1,675 @@
+{
+  "nct_id": "NCT01543581",
+  "title": "Placebo-controlled, Double Blind Study to Assess Efficacy and Safety of Oral Vismodegib for the Treatment of Basal Cell Carcinoma Preceding Excision by Mohs Micrographic Surgery (MMS)",
+  "sponsor": "Abel Torres, MD",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Basal Cell Carcinoma"
+  ],
+  "interventions": [
+    "Vismodegib",
+    "Placebo"
+  ],
+  "primary_outcome": "Mohs Micrographic Surgery (MMS)",
+  "secondary_outcomes": [
+    "Complete Response Rate"
+  ],
+  "start_date": "2012-05",
+  "completion_date": "2013-06",
+  "results_posted": true,
+  "enrollment": 3,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01543581",
+        "orgStudyIdInfo": {
+          "id": "5110325"
+        },
+        "organization": {
+          "fullName": "Loma Linda University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Vismodegib for Treatment of Basal Cell Carcinoma",
+        "officialTitle": "Placebo-controlled, Double Blind Study to Assess Efficacy and Safety of Oral Vismodegib for the Treatment of Basal Cell Carcinoma Preceding Excision by Mohs Micrographic Surgery (MMS)",
+        "acronym": "Erivedge"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2014-09",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2012-05"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2013-06",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2013-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2012-02-14",
+        "studyFirstSubmitQcDate": "2012-02-27",
+        "studyFirstPostDateStruct": {
+          "date": "2012-03-05",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2013-09-19",
+        "resultsFirstSubmitQcDate": "2014-09-24",
+        "resultsFirstPostDateStruct": {
+          "date": "2014-09-26",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2014-09-24",
+        "lastUpdatePostDateStruct": {
+          "date": "2014-09-26",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Abel Torres, MD",
+          "investigatorTitle": "Abel Torres, M.C.,J.D, Chairman and Professor of Dermatology",
+          "investigatorAffiliation": "Loma Linda University"
+        },
+        "leadSponsor": {
+          "name": "Abel Torres, MD",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The primary objectives of this study are to assess, using Mohs micrographic surgery (MMS) at the end of treatment, the efficacy (primary) and safety (secondary) of vismodegib compared to placebo in the oral adjunctive pre surgical treatment of basal cell carcinoma. A secondary objective is to assess how often and in what types of lesions does pre surgical treatment with vismodegib result in complete eradication of the tumor.",
+        "detailedDescription": "Basal cell carcinoma (BCC) is the most common cutaneous malignancy. In the United States alone, the incidence of these tumors approaches or exceeds one million cases each year, and continues to increase. Actinic damage is the primary causal factor, and 85% of all lesions are located in cosmetically-sensitive areas such as the face, head, and neck. Although these tumors do not usually metastasize, their high prevalence and morbidity have established them as a significant public health problem. In addition a small percentage can cause significant morbidity or mortality.\n\nTreatment goals for BCC focus on complete tumor removal and minimization of cosmetic and functional defects. Among the multiple therapeutic options available, including both excisional and ablative approaches, MMS is the most definitive treatment modality. MMS involves excision of the clinically apparent neoplastic lesion, processing and staining of horizontal frozen sections, stepwise microscopic analysis, meticulous mapping, and re-excision of residual neoplasm until tumor-free margins are obtained. Unlike all other excisional techniques, MMS allows visualization of the entire surgical margin, thus ensuring complete removal of the lesion while maximally preserving the surrounding normal skin.\n\nUnfortunately, because many tumors show significant sub clinical extension, the resulting surgical defect after completion of MMS can be significantly larger than the presenting lesion, often necessitating complex, costly, and time-consuming repairs, and compromising the final cosmetic appearance or function. In addition, tumors in low-risk locations, which typically undergo simple excisions, nonetheless can require significant circumferential margins of normal tissue to ensure complete removal, again impacting cosmesis, function and or cost. Likewise, aggressive tumors such as sclerosing/morpheaform or recurrent BCC's can result in significant post surgical defects and associated morbidity and decreased function.\n\nPresently, the treatment of BCC, whether by excisional or ablative means, incurs an estimated annual cost in excess of $600 million. An effective oral agent for the treatment of BCC could serve as an adjunct modality in the removal of primary or recurrent lesions and may be expected to significantly decrease cosmetic disfigurement as well as reduce treatment-associated costs. In fact, studies such as this one may ultimately show that oral treatment results in complete elimination of selected neoplastic lesions, thereby eliminating altogether the need for surgery in some lesions.\n\nVismodegib, (GDC-0449) is an orally delivered small molecule hedgehog pathway inhibitor. In tumor growth Hedgehog binding to PCTH1 (Patched) stops PCTH1 from inhibiting SMO (smoothened) signaling. In the absence of PCTH1 (e.g. loss of PCTH1 mutations) SMO signaling occurs constitutively, stimulating GLI1 (Glioma-Associated Oncogene-1) thus promoting tumor growth. Vismodegib inhibits SMO signaling through direct interaction with SMO thus preventing the activation of GLI1 and thus inhibiting tumor growth in Basal Cell Carcinomas. The investigators anticipate our study to demonstrate the feasibility, efficacy, and safety of Vismodegib in the oral treatment of BCC.\n\nThe safety, preliminary efficacy, and pharmacokinetics of Vismodegib was assessed in an open-label, multicenter, two-stage Phase I trial1. Patients had solid tumors refractory to therapy. An expansion cohort was included for patients with locally advanced or metastatic BCC (n=33). Patients received continuous administration of Vismodegib at 150 mg/day (n=17), 270 mg/day (n=15), or 540 mg/day (n=1) beginning on Day 1. Patients were treated until disease progression, intolerable toxicities, or withdrawal from the study. Response assessments for radiologically measurable disease, RECIST version 1.0 was used. CR or PR determined on 2 consecutive occasions \u22654 weeks apart. Locally advanced tumors assessed on Dermatological Examination. CR defined as disappearance of a palpable or visible tumor; PR defined as a reduction of \\>50% in tumor diameter. Results from this pilot study demonstrated that oral vismodegib could clear or reduce the tumor burden of BCCs with a CR in 2, PR in 16, SD in 11 and PD in 4 in patients followed over a 20 month period. No dose-limiting toxic events or grade 5 events were observed with a single grade 4 adverse event (asymptomatic hyponatremia) reported. The more significant and frequent adverse events were GI related with dysgeusia and muscle spasm reported.\n\nRecently, one Phase II single-arm, non-randomized trial of single-agent vismodegib at 150 mg/day to progression or intolerance with 104 patients enrolled: (33 mBCC, 71 LA BCC) using the primary endpoint: Independent Review Facility (IRF) assessed overall response rate (ORR) and the secondary endpoints: Investigator-assessed ORR, progression-free survival (PFS), overall survival (OS), duration of response, and safety was also recently completed and it was announced that the study met its primary endpoint (ORR) and showed shrinkage of tumors in a pre-defined percentage of patients2. A preliminary safety assessment showed the most common adverse events were consistent with previous experience with vismodegib. The most common adverse events were muscle spasms, hair loss, altered taste sensation, weight loss, fatigue, nausea, decreased appetite and diarrhea. A detailed safety assessment is ongoing.\n\nSince these are slow-growing tumors which are expected to respond favorably to treatment, and since all lesions will be surgically excised by MMS within 6 months of initial consultation, this study will not affect the current standard of care in the management of BCC.\n\nAfter target tumor site is identified guided by either the plastic template or tattoo performed pre treatment the original lesion will be delineated using the template and concentric circles of two millimeters drawn around the central target area. A punch biopsy of the center of the lesion will then be performed and thereafter the lesion will be excised using standard Mohs procedures, with the excised tissue evaluated histologically to confirm the presence or absence of tumor. If there is residual tumor found histologically or there is scarring or there is significant inflammation present histologically additional layers will be performed using the 2mm concentric circles as a guide until all tumor is deemed to have been removed. The final wound size at the completion of Mohs surgery (i.e., upon reaching tumor-free tissue margins) will then be determined using the pre-treatment concentric margins, and compared to the lesion size at the initiation of treatment both for treatment and placebo areas. In addition, the histological extent of the lesion will be compared to the expected sub clinical extension as documented by Wolf and Zitelli as previously noted. Any subject who discontinued treatment prematurely should be encouraged to return to the clinic for the excision. Only subjects who have no histological evidence of BCC will be considered complete responders. Note that post excision antibiotics and analgesics administered to the subject prophylactically for infection and pain at the excision site must be recorded on the concomitant medication page of the CRF."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Basal Cell Carcinoma"
+        ],
+        "keywords": [
+          "Basal Cell Carcinoma",
+          "Treatment of Skin Cancer"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 3,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Vismodegib",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Oral vismodegib, 150mg per day for 12 weeks.",
+            "interventionNames": [
+              "Drug: Vismodegib"
+            ]
+          },
+          {
+            "label": "Inactive placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "Those to whom the inactive placebo is given.",
+            "interventionNames": [
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Vismodegib",
+            "description": "Oral vismodegib, 150mg per day for 12 weeks.",
+            "armGroupLabels": [
+              "Vismodegib"
+            ],
+            "otherNames": [
+              "Erivedge"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo",
+            "armGroupLabels": [
+              "Inactive placebo"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Mohs Micrographic Surgery (MMS)",
+            "description": "The final wound size taken immediately after the completion of Mohs surgery (i.e., upon reaching tumor-free tissue margins) was determined using pre treatment lesion outlined plus one additional concentric 2mm margin removed to establish an objective consistent measure for wound size. The diameter of the final wound size was measured in mm.",
+            "timeFrame": "The Mohs surgical excision of the target tumor was performed within two weeks, after the last day of treatment."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Complete Response Rate",
+            "description": "A secondary variable is the complete response rate, defined as the proportion of patients with no histological evidence of basal cell carcinoma on the post treatment MMS excision of the target tumor area. For this analysis, the placebo data will be pooled together to calculate the complete response rate for the placebo group.",
+            "timeFrame": "12 to 14 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1. Willing and able to give informed consent.\n2. At least 18 years of age.\n3. Have a confirmed BCC at one of listed anatomical sites which must be biopsy-confirmed at the study site and meets this criteria:\n\n   * non-infected\n   * minimum tumor area of 0.5 cm2 in an anatomic location at risk for significant deformity or functional impairment with surgery.\n   * macroscopically (clinically) consistent with BCC\n   * histologically consistent with BCC\n   * suitable for treatment with Mohs surgical excision\n   * identifiable by subject or reliable subject representative\n4. Free of any significant physical abnormalities (e.g., tattoos) at treatment site.\n5. Willing and able to participate in the study as an outpatient, making frequent visits to clinic during treatment and follow-up periods and comply with study requirements, including:\n\n   * Consenting to biopsy of the lesion at baseline, if needed, before beginning study drug treatment\n   * Attend all scheduled clinic visits during pre-study, treatment, and follow-up periods\n   * Will delay excision of the target tumor site until time mandated in the protocol, unless evidence of disease progression or lack of drug tolerability\n   * Post-excisional follow-up visits until the area is healed to investigator's satisfaction\n6. Female of reproductive potential must use 2 forms of acceptable contraception (including one acceptable barrier method with spermicide) during therapy and for 7 months after completing therapy.\n7. Male patients must use condoms at all times, with spermicide, even after vasectomy, during sexual intercourse with females during treatment and for 2 months after the last dose.\n8. Agrees not to donate blood or blood products during the study and for 7 months after last dose.\n\nExclusion Criteria:\n\n1. Prior treatment with GDC-0449 or any HH Pathway Inhibitor\n2. Have evidence of clinically significant, unstable cardiovascular or immunosuppressive, hematologic, hepatic, neurologic, renal, endocrine, collagen-vascular, or gastrointestinal abnormalities or disease. Subjects with clinically stable medical conditions including, but not limited to, controlled hypertension, diabetes mellitus type II, hypercholesterolemia, or osteoarthritis, will be allowed to enter the study.\n3. Have any dermatological disease at treatment site that may be exacerbated by treatment with vismodegib or cause difficulty with examination (e.g., psoriasis, eczema).\n4. Inability or unwillingness to swallow capsules\n5. Pregnancy or lactation\n6. Have a desire to conceive in the future.\n7. Patients with known Gorlin's (basal cell nevus) syndrome or clinical suspicion of Gorlin's Syndrome)\n8. Recent (i.e., within the past 28 days), current, or planned participation in another experimental drug study\n9. Have active chemical dependency or alcoholism..\n10. Have received following treatments for BCC in the treatment area within designated time period before study treatment initiation:\n\n    Treatment Time Period:\n\n    Prescribed topical retinoids 4 weeks Surgical excision 4 weeks Curettage 4 weeks Cryo destruction or chemo destruction 4 weeks\n11. Received treatment for non-melanoma skin cancer or precancerous condition \\[squamous cell carcinoma (SCC), or actinic keratosis (AK)\\] within treatment area within 4 weeks of study treatment initiation, or currently have SCC, malignant melanoma (MM), or any other dermatological condition in treatment area that requires treatment.\n12. Received any cancer chemotherapy within 6 months before study treatment initiation (subject must not currently have any evidence of cancer, other than skin cancer).\n13. Received any of the following treatments within 4 weeks before study treatment initiation:\n\n    * Interferon or interferon inducers\n    * Immunomodulators or immunosuppressive therapies\n    * Cytotoxic drugs\n    * Investigational drugs\n    * Drugs known to have major organ toxicity\n    * Oral corticosteroids\n    * Inhaled corticosteroids (\\> 1200 Xg/day for beclomethasone, or \\> 600 Xg/day for fluticasone)\n    * Topical steroids in treatment area",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Abel Torres, MD",
+            "affiliation": "Professor and Chairman, Department of Dermatology",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ]
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "preAssignmentDetails": "One subject signed the consent and was enrolled and completed the study. Two others signed the consent but were unable to continue their enrollment as one found out that he had Parkinsons Disease and the other could not arrange for transportation.",
+        "recruitmentDetails": "The dates of the recruitment period in this study were Dec. 12,2011 through November 2012. Prospective subjects were seen in Loma Linda University Dermatology Clinic and were also seen prior to being referred to Loma Linda at Riverside County Regional Medical Clinic.",
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Vismodegib",
+            "description": "Those to whom the drug is given."
+          },
+          {
+            "id": "FG001",
+            "title": "Inactive Placebo",
+            "description": "Those to whom the inactive placebo is given."
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "0"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Vismodegib",
+            "description": "Oral vismodegib, 150mg per day for 12 weeks."
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Categorical",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "<=18 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "00"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Between 18 and 65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "title": ">=65 years",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "00"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "United States",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Mohs Micrographic Surgery (MMS)",
+            "description": "The final wound size taken immediately after the completion of Mohs surgery (i.e., upon reaching tumor-free tissue margins) was determined using pre treatment lesion outlined plus one additional concentric 2mm margin removed to establish an objective consistent measure for wound size. The diameter of the final wound size was measured in mm.",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "mm",
+            "timeFrame": "The Mohs surgical excision of the target tumor was performed within two weeks, after the last day of treatment.",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Vismodegib",
+                "description": "Oral vismodegib, 150mg per day for 12 weeks."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "1"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Complete Response Rate",
+            "description": "A secondary variable is the complete response rate, defined as the proportion of patients with no histological evidence of basal cell carcinoma on the post treatment MMS excision of the target tumor area. For this analysis, the placebo data will be pooled together to calculate the complete response rate for the placebo group.",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "timeFrame": "12 to 14 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Vismodegib",
+                "description": "Those to whom the drug is given."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "1"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "0",
+        "timeFrame": "10 months",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Vismodegib",
+            "description": "Oral vismodegib, 150mg per day for 12 weeks.",
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 1,
+            "otherNumAffected": 1,
+            "otherNumAtRisk": 1
+          },
+          {
+            "id": "EG001",
+            "title": "Inactive Placebo",
+            "description": "Those to whom the inactive placebo is given.",
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 0,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 0
+          }
+        ],
+        "otherEvents": [
+          {
+            "term": "Chest Cold",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 1
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 0
+              }
+            ]
+          },
+          {
+            "term": "Elevated AST",
+            "organSystem": "Blood and lymphatic system disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 1
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 0
+              }
+            ]
+          },
+          {
+            "term": "MRSA recurrence",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 1
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 0
+              }
+            ]
+          },
+          {
+            "term": "Upper Respiratory Infection",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 1
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 0
+              }
+            ]
+          },
+          {
+            "term": "hair loss",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 1
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 0
+              }
+            ]
+          },
+          {
+            "term": "leg cramps",
+            "organSystem": "Musculoskeletal and connective tissue disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 1
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 0
+              }
+            ]
+          },
+          {
+            "term": "loss of taste sensation",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 1
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 0,
+                "numAffected": 0,
+                "numAtRisk": 0
+              }
+            ]
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": true
+        },
+        "pointOfContact": {
+          "title": "Dr. Abel Torres, PI",
+          "organization": "Loma Linda University Health, Department of Dermatology",
+          "email": "atorres@llu.edu",
+          "phone": "(909) 558-2055"
+        }
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29",
+        "removedCountries": [
+          "United States"
+        ]
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002280",
+            "term": "Carcinoma, Basal Cell"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002277",
+            "term": "Carcinoma"
+          },
+          {
+            "id": "D009375",
+            "term": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D018295",
+            "term": "Neoplasms, Basal Cell"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C538724",
+            "term": "HhAntag691"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T10:30:03.628673"
+}

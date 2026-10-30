@@ -1,0 +1,473 @@
+{
+  "nct_id": "NCT02627911",
+  "title": "DIABELOOP WP6.2 : Crossover Evaluation of Glycemic Control Provided for Three Days by the Artificial Pancreas Diabeloop Compared to Conventional Treatment by External Insulin Pump in Patients With Type 1 Diabetes in Sedentary Position, Outstanding Meals and Physical Activity .",
+  "sponsor": "Centre d'Etudes et de Recherche pour l'Intensification du Traitement du Diab\u00e8te",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Closed Loop",
+    "Diabetes Mellitus, Type 1"
+  ],
+  "interventions": [
+    "Diabeloop System",
+    "Continuous Glucose Monitoring",
+    "Accelerometer and heart rate monitor",
+    "Meals"
+  ],
+  "primary_outcome": "Percentage of time spent in the tight glycemic control area 80-140 mg / dl during the night, continuously measured for 3 days with CGM",
+  "secondary_outcomes": [
+    "Percentage of time spent in the area glycemic reference 70-180 mg / dl during the night measured continuously for 3 days with CGM",
+    "Percentage of time spent in the glycemic range 70-180 mg / dl at d3 versus d1 during closed-loop period comparing with d3 versus d1 during open-loop period",
+    "Measurement of time spent in blood glucose <70 mg / dl and blood glucose > 180 mg / dl",
+    "Average blood glucose levels throughout the period and sub- periods: sedentarity, prandial and physical activity.",
+    "Calculated risks of hypo- and hyperglycemia ( LBGI , HBGI ) throughout the period and sub- periods: physical inactivity, prandial and physical activity",
+    "Measuring the oral carbohydrates intake",
+    "Number of hypoglycemic events , defined by any threshold crossing 70 mg / dL ( 3.9 mml / L) , and < 54 mg / dL ( 3 mmol / l ) measured by the CGM",
+    "Total supplies of insulin during tests (total unit of insulin)",
+    "Average peak postprandial glycemic according meals and delays occurred",
+    "Number of technical problems causing interruptions of the closed loop",
+    "Comparison of postprandial blood glucose sensor 2h , 3h and 4h and AUC in identical conditions of meals, to evaluate the efficacy and safety ( time spent in hypoglycemia, hyperglycemia and euglycemia )",
+    "Nadir glycemic means after physical activity and time of occurrence.",
+    "Measurement of AUC during physical activity , the two hours, then to lunch time , during dinner and throughout the night"
+  ],
+  "start_date": "2015-11",
+  "completion_date": "2016-08",
+  "results_posted": false,
+  "enrollment": 36,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02627911",
+        "orgStudyIdInfo": {
+          "id": "2015-A01294-45"
+        },
+        "organization": {
+          "fullName": "Centre d'Etudes et de Recherche pour l'Intensification du Traitement du Diab\u00e8te",
+          "class": "OTHER"
+        },
+        "briefTitle": "Diabeloop WP6.2 : Crossover Evaluation of Glycemic Control",
+        "officialTitle": "DIABELOOP WP6.2 : Crossover Evaluation of Glycemic Control Provided for Three Days by the Artificial Pancreas Diabeloop Compared to Conventional Treatment by External Insulin Pump in Patients With Type 1 Diabetes in Sedentary Position, Outstanding Meals and Physical Activity .",
+        "acronym": "WP6-2"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2016-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2015-11"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2016-08",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2016-11",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2015-12-07",
+        "studyFirstSubmitQcDate": "2015-12-09",
+        "studyFirstPostDateStruct": {
+          "date": "2015-12-11",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2016-11-18",
+        "lastUpdatePostDateStruct": {
+          "date": "2016-11-21",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Centre d'Etudes et de Recherche pour l'Intensification du Traitement du Diab\u00e8te",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The study will be conducted in crossover trial, with two 72-hour hospitalization separated by a period Wash-out of at least one week. Each hospitalization is a period of treatment. According to randomization, patients will be provided with either Diabeloop system or the usual system.\n\nIn both treatment periods:\n\n* patients in a situation of sedentarity or physical activity, will be equipped with ActiGraph (measuring motricity) and a ActiHeart ( measuring heart rate)\n* meals and physical activities will be similar in both periods\n* the same blood glucose meter will be used throughout the duration of the study.\n* the capillary blood glucose will be performed : before bolus and 2 hours after a meal, before exercise, in case of hypo or hyper-glycemic episodes and when the patient and / or investigator deem it necessary."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Closed Loop",
+          "Diabetes Mellitus, Type 1"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 36,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Usual System (open-loop)",
+            "type": "OTHER",
+            "description": "In open loop, the patient will be provided with its usual pump and a CGM. To estimate rest and physical activity in patients being sedentary situation ( Centers : Caen, Nancy \\& Strasbourg) or in situations of physical activity ( Centers : CHSF Marseille and Besancon ) , the usual system will be complemented by an accelerometer \" ActiGraph \" and a \" ActiHeart \" heart rate monitor.",
+            "interventionNames": [
+              "Device: Continuous Glucose Monitoring",
+              "Device: Accelerometer and heart rate monitor",
+              "Dietary Supplement: Meals"
+            ]
+          },
+          {
+            "label": "DIABELOOP System (closed-loop)",
+            "type": "EXPERIMENTAL",
+            "description": "In the closed loop, the patient's pump will be replaced by the Diabeloop system consisting of insulin pump Cellnovo driven by remote control augmented by Diabeloop software and connected to the CGM.",
+            "interventionNames": [
+              "Device: Diabeloop System",
+              "Device: Continuous Glucose Monitoring",
+              "Device: Accelerometer and heart rate monitor",
+              "Dietary Supplement: Meals"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Diabeloop System",
+            "description": "Insulin delivery",
+            "armGroupLabels": [
+              "DIABELOOP System (closed-loop)"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Continuous Glucose Monitoring",
+            "armGroupLabels": [
+              "DIABELOOP System (closed-loop)",
+              "Usual System (open-loop)"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Accelerometer and heart rate monitor",
+            "description": "Monitoring and measurement of physical activity",
+            "armGroupLabels": [
+              "DIABELOOP System (closed-loop)",
+              "Usual System (open-loop)"
+            ]
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Meals",
+            "description": "Calibrated meals for all patients and outstanding dinners for patients being in outstanding meals situation (Centers : Grenoble, Toulouse, Montpellier)",
+            "armGroupLabels": [
+              "DIABELOOP System (closed-loop)",
+              "Usual System (open-loop)"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Percentage of time spent in the tight glycemic control area 80-140 mg / dl during the night, continuously measured for 3 days with CGM",
+            "timeFrame": "during the night for 3 days for each period"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Percentage of time spent in the area glycemic reference 70-180 mg / dl during the night measured continuously for 3 days with CGM",
+            "timeFrame": "during the night for 3 days for each period"
+          },
+          {
+            "measure": "Percentage of time spent in the glycemic range 70-180 mg / dl at d3 versus d1 during closed-loop period comparing with d3 versus d1 during open-loop period",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Measurement of time spent in blood glucose <70 mg / dl and blood glucose > 180 mg / dl",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Average blood glucose levels throughout the period and sub- periods: sedentarity, prandial and physical activity.",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Calculated risks of hypo- and hyperglycemia ( LBGI , HBGI ) throughout the period and sub- periods: physical inactivity, prandial and physical activity",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Measuring the oral carbohydrates intake",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Number of hypoglycemic events , defined by any threshold crossing 70 mg / dL ( 3.9 mml / L) , and < 54 mg / dL ( 3 mmol / l ) measured by the CGM",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Total supplies of insulin during tests (total unit of insulin)",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Average peak postprandial glycemic according meals and delays occurred",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Number of technical problems causing interruptions of the closed loop",
+            "timeFrame": "during 3 days for the closed loop period"
+          },
+          {
+            "measure": "Comparison of postprandial blood glucose sensor 2h , 3h and 4h and AUC in identical conditions of meals, to evaluate the efficacy and safety ( time spent in hypoglycemia, hyperglycemia and euglycemia )",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Nadir glycemic means after physical activity and time of occurrence.",
+            "timeFrame": "during 3 days for each period"
+          },
+          {
+            "measure": "Measurement of AUC during physical activity , the two hours, then to lunch time , during dinner and throughout the night",
+            "timeFrame": "during 3 days for each period"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Type 1 diabetic patient for at least one year, treated by external insulin pump for at least 6 months\n* Patient with 7.5 % \\< HbA1c \\< 9.5 %\n* Patient practicing functional insulin therapy\n* In the situation of physical activity , the patient must be able to perform one or more daily physical activities for 3 days in each treatment session\n* Patient aged over 18 years\n* Patient affiliated to Social Security\n* Patient who agreed to participate in the study and who signed an informed consent\n\nExclusion Criteria:\n\n* Type 2 diabetic patients\n* Any serious illness that may impair study participation\\*\n* Patient with insulin resistance defined in insulin requirements \\> 1.5 U / kg / day\n* Patient no longer sensing his hypoglycemia\n* Patient enjoying a measure of legal protection\n* Pregnant woman or likely to be",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "H\u00f4pital Jean Minjoz",
+            "city": "Besan\u00e7on",
+            "zip": "25030",
+            "country": "France",
+            "geoPoint": {
+              "lat": 47.24878,
+              "lon": 6.01815
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire",
+            "city": "Caen",
+            "zip": "14033",
+            "country": "France",
+            "geoPoint": {
+              "lat": 49.18585,
+              "lon": -0.35912
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Sud-Francilien",
+            "city": "Corbeil-Essonnes",
+            "zip": "91100",
+            "country": "France",
+            "geoPoint": {
+              "lat": 48.60603,
+              "lon": 2.48757
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire",
+            "city": "Grenoble",
+            "zip": "38700",
+            "country": "France",
+            "geoPoint": {
+              "lat": 45.17869,
+              "lon": 5.71479
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire",
+            "city": "Marseille",
+            "zip": "13000",
+            "country": "France",
+            "geoPoint": {
+              "lat": 43.29695,
+              "lon": 5.38107
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire",
+            "city": "Montpellier",
+            "zip": "34295",
+            "country": "France",
+            "geoPoint": {
+              "lat": 43.61093,
+              "lon": 3.87635
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire",
+            "city": "Nancy",
+            "zip": "54000",
+            "country": "France",
+            "geoPoint": {
+              "lat": 48.68439,
+              "lon": 6.18496
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire",
+            "city": "Strasbourg",
+            "zip": "67000",
+            "country": "France",
+            "geoPoint": {
+              "lat": 48.58392,
+              "lon": 7.74553
+            }
+          },
+          {
+            "facility": "Centre Hospitalier Universitaire",
+            "city": "Toulouse",
+            "zip": "31400",
+            "country": "France",
+            "geoPoint": {
+              "lat": 43.60426,
+              "lon": 1.44367
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003922",
+            "term": "Diabetes Mellitus, Type 1"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D001327",
+            "term": "Autoimmune Diseases"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000095583",
+            "term": "Continuous Glucose Monitoring"
+          },
+          {
+            "id": "D000070276",
+            "term": "Heart Rate Determination"
+          },
+          {
+            "id": "D062407",
+            "term": "Meals"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001774",
+            "term": "Blood Chemical Analysis"
+          },
+          {
+            "id": "D019963",
+            "term": "Clinical Chemistry Tests"
+          },
+          {
+            "id": "D019411",
+            "term": "Clinical Laboratory Techniques"
+          },
+          {
+            "id": "D019937",
+            "term": "Diagnostic Techniques and Procedures"
+          },
+          {
+            "id": "D003933",
+            "term": "Diagnosis"
+          },
+          {
+            "id": "D003940",
+            "term": "Diagnostic Techniques, Endocrine"
+          },
+          {
+            "id": "D008991",
+            "term": "Monitoring, Physiologic"
+          },
+          {
+            "id": "D008919",
+            "term": "Investigative Techniques"
+          },
+          {
+            "id": "D006334",
+            "term": "Heart Function Tests"
+          },
+          {
+            "id": "D003935",
+            "term": "Diagnostic Techniques, Cardiovascular"
+          },
+          {
+            "id": "D010808",
+            "term": "Physical Examination"
+          },
+          {
+            "id": "D005502",
+            "term": "Food"
+          },
+          {
+            "id": "D000066888",
+            "term": "Diet, Food, and Nutrition"
+          },
+          {
+            "id": "D010829",
+            "term": "Physiological Phenomena"
+          },
+          {
+            "id": "D019602",
+            "term": "Food and Beverages"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718474"
+}

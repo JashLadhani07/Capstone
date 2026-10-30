@@ -1,0 +1,250 @@
+{
+  "nct_id": "NCT00353691",
+  "title": "Glimepiride Versus Metformin as Monotherapy in Pediatric Subjects With Type 2 Diabetes Mellitus: A Single Blind Comparison Study",
+  "sponsor": "Sanofi",
+  "phase": "PHASE3",
+  "status": "COMPLETED",
+  "conditions": [
+    "Type 2 Diabetes Mellitus"
+  ],
+  "interventions": [
+    "glimepiride",
+    "metformin"
+  ],
+  "primary_outcome": "Change in HbA1c from baseline to Week 24 or last evaluable ontreatment value.",
+  "secondary_outcomes": [
+    "Change in HbA1c from baseline to Week 12",
+    "Responder rate, defined as proportion of subjects with HbA1c < 7.0% at Week 24 or last evaluable on-therapy observation",
+    "Mean change in fasting SMBG from baseline to each visit at weeks 4, 8, 12, 18 and 24 or last evaluable on-treatment value.",
+    "Mean change in fasting plasma glucose (FPG) from baseline to each visit at weeks 4, 8, 12, 18 and 24 or last evaluable on-treatment value.",
+    "Percent completers, defined as subjects who continued study medication until completion of all requirements of Visit 6 (Week 18)",
+    "Mean change in lipid levels (total cholesterol, HDL cholesterol, LDL cholesterol, and triglycerides) from baseline to Wk 24 or last evaluable on-treatment value.",
+    "Mean change in body mass index (BMI) from baseline to Wk 12 and Wk 24 or last evaluable on-treatment value"
+  ],
+  "start_date": "2002-10",
+  "completion_date": "2004-11",
+  "results_posted": false,
+  "enrollment": 100,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00353691",
+        "orgStudyIdInfo": {
+          "id": "HOE490_4038"
+        },
+        "organization": {
+          "fullName": "Sanofi",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Glimepiride vs Metformin as Monotherapy in Pediatric Subjects With Type 2 Diabetes Mellitus",
+        "officialTitle": "Glimepiride Versus Metformin as Monotherapy in Pediatric Subjects With Type 2 Diabetes Mellitus: A Single Blind Comparison Study"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2011-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2002-10"
+        },
+        "completionDateStruct": {
+          "date": "2004-11"
+        },
+        "studyFirstSubmitDate": "2006-07-17",
+        "studyFirstSubmitQcDate": "2006-07-17",
+        "studyFirstPostDateStruct": {
+          "date": "2006-07-19",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2011-01-10",
+        "lastUpdatePostDateStruct": {
+          "date": "2011-01-11",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {
+          "name": "Sanofi",
+          "class": "INDUSTRY"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "To compare the change in glycemic control from baseline to endpoint (last available posttreatment assessment) as measured by HbA1c in pediatric subjects with type 2 diabetes receiving either glimepiride or metformin as monotherapy."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes Mellitus"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "SINGLE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 100
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "glimepiride"
+          },
+          {
+            "type": "DRUG",
+            "name": "metformin"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change in HbA1c from baseline to Week 24 or last evaluable ontreatment value."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change in HbA1c from baseline to Week 12"
+          },
+          {
+            "measure": "Responder rate, defined as proportion of subjects with HbA1c < 7.0% at Week 24 or last evaluable on-therapy observation"
+          },
+          {
+            "measure": "Mean change in fasting SMBG from baseline to each visit at weeks 4, 8, 12, 18 and 24 or last evaluable on-treatment value."
+          },
+          {
+            "measure": "Mean change in fasting plasma glucose (FPG) from baseline to each visit at weeks 4, 8, 12, 18 and 24 or last evaluable on-treatment value."
+          },
+          {
+            "measure": "Percent completers, defined as subjects who continued study medication until completion of all requirements of Visit 6 (Week 18)"
+          },
+          {
+            "measure": "Mean change in lipid levels (total cholesterol, HDL cholesterol, LDL cholesterol, and triglycerides) from baseline to Wk 24 or last evaluable on-treatment value."
+          },
+          {
+            "measure": "Mean change in body mass index (BMI) from baseline to Wk 12 and Wk 24 or last evaluable on-treatment value"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "INCLUSION CRITERIA:\n\n1. Subjects who had type 2 diabetes treated with diet and exercise only for at least 2 weeks prior to randomization, or who were previously or currently treated with an oral agent and had not responded to diet, exercise, and oral therapy for at least 3 months (documented by an HbA1c \\>7.5%).\n2. Subjects who completed glimepiride pharmacokinetic Study HOE 490/4045 at preselected sites within 3 weeks prior to the screening period were also permitted to enroll.\n3. Subjects were required to be negative for islet cell antigen (ICA) and glutamic acid decarboxylase (GAD) autoantibodies and to have a C-peptide level at 90 minutes of \u2265 1.5 ng/mL. The HbA1c was required to be \\>7.1% at screening and \\<12.0% on the day of randomization.\n\nEXCLUSION CRITERIA:\n\nSubjects meeting any of the following criteria were not to be included in the study:\n\n1. A history of an acute metabolic complication such as diabetic ketoacidosis within 3 months before screening\n2. On insulin therapy, or had received insulin for \\>6 weeks, 3 months prior to randomization\n3. On weight-reduction medication\n4. Known hypersensitivity to biguanides, sulfonamides, or insulin\n5. Pregnant or lactating females\n6. Clinically significant renal (serum creatinine level \\>1.0 mg/dL) or hepatic disease (alanine aminotransferase \\[ALT\\] or aspartate aminotransferase \\[AST\\] \\>2.5 times the upper limits of normal \\[ULN\\])\n7. GI disorders that may interfere with the absorption of the study drugs\n8. Chronic use of medications known to affect glucose levels such as intermittent use of systemic corticosteroids or large dose of inhaled steroids\n9. Clinically significant laboratory abnormality on screening laboratory tests or any medical condition that in the opinion of the investigator would affect the outcome of the study\n10. History of drug or alcohol abuse\n11. Treatment with any investigational product in the last 3 months before study entry\n12. History of noncompliance with regard to follow-up medical care\n13. Any disease or condition that in the opinion of the investigator and/or sponsor may interfere with completion of the study",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "8 Years",
+        "maximumAge": "17 Years",
+        "stdAges": [
+          "CHILD"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Karen Barch, B.S.",
+            "affiliation": "Sanofi",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Sanofi-Aventis",
+            "city": "Bridgewater",
+            "state": "New Jersey",
+            "zip": "08807",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.60079,
+              "lon": -74.64815
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "17392540",
+            "type": "DERIVED",
+            "citation": "Gottschalk M, Danne T, Vlajnic A, Cara JF. Glimepiride versus metformin as monotherapy in pediatric patients with type 2 diabetes: a randomized, single-blind comparative study. Diabetes Care. 2007 Apr;30(4):790-4. doi: 10.2337/dc06-1554."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C057619",
+            "term": "glimepiride"
+          },
+          {
+            "id": "D008687",
+            "term": "Metformin"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001645",
+            "term": "Biguanides"
+          },
+          {
+            "id": "D006146",
+            "term": "Guanidines"
+          },
+          {
+            "id": "D000578",
+            "term": "Amidines"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718803"
+}

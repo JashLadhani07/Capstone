@@ -1,0 +1,512 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04786418",
+      "orgStudyIdInfo": {
+        "id": "UoL001503"
+      },
+      "organization": {
+        "fullName": "University of Liverpool",
+        "class": "OTHER"
+      },
+      "briefTitle": "Low-Calorie Diet in People With Prediabetes/Metabolic Syndrome",
+      "officialTitle": "Metabolic, Multi-organ and Microvascular Effects of a Low-calorIe Diet in Younger Obese With Prediabetes and/or Metabolic Syndrome",
+      "acronym": "CALIBRATE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-06-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-12-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-31",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-01-21",
+      "studyFirstSubmitQcDate": "2021-03-05",
+      "studyFirstPostDateStruct": {
+        "date": "2021-03-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-27",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Liverpool",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Surrey",
+          "class": "OTHER"
+        },
+        {
+          "name": "Perspectum",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Significant weight reduction, achieved by low-calorie diet (LCD), will mobilise ectopic fat (visceral and particularly liver fat), improving insulin sensitivity and other metabolic syndrome components, with secondary beneficial effects on cardiac structure and function.\n\nThis CALIBRATE study (metabolic, multi-organ and effects of low-calorie diet in younger obese patients with pre-diabetes) will compare the effects of a safe and effective 12-month weight management intervention, initially using a low-calorie, liquid replacement diet for 12 weeks, anticipating at least 10% reduction in body weight. The investigators will examine how much the weight loss improves the metabolic abnormalities that precede type 2 diabetes (T2D), and in reversing the pre-clinical/subtle clinical abnormalities of the liver and heart that precede liver and cardiovascular disease (CVD).\n\nThis study will compare the effects of a safe and effective 12-month weight management intervention, initially using a low-calorie, liquid replacement diet for 12 weeks, followed by a weight maintenance phase. The investigators will examine how much the weight loss improves the metabolic and neuropathic abnormalities that precede and accompany type 2 diabetes (T2D), and in reversing the pre-clinical/subtle clinical abnormalities of the liver and heart that precede liver and cardiovascular disease. In an additional optional sub-study, the investigators will additionally assess how the weight loss impacts upon appetite regulation within the brain with functional MRI (fMRI).",
+      "detailedDescription": "Prediabetes affects up to 35% of the population. It is defined as an intermediate metabolic state of glucose dysregulation between normoglycaemia and type 2 diabetes (T2D). Prediabetic individuals have 3-12 times higher annual incidence of type 2 diabetes than the general population. Further, these individuals have a considerable increased risk of cardiovascular disease (CVD), (myocardial infarction, stroke, CV death) and even in the absence of coronary artery disease, an increased risk of heart failure. Individuals with prediabetes manifest the same clustering of cardiovascular risk factors (dysglycaemia, dyslipidaemia, hypertension, obesity, physical inactivity, insulin resistance, pro-coagulant state, endothelial dysfunction, inflammation) that confer the high risk for macrovascular complications in type 2 diabetes. For example, 37% and 51% of individuals with prediabetes have hypertension and dyslipidaemia.\n\nResults of large randomised control trials focusing on diabetes management have shown improvements in cardiovascular and renal outcomes and treatments for patients with established type 2 diabetes. Studies examining cardiovascular and renal burdens in patients with prediabetes have demonstrated that the same therapeutic benefits have not been observed in adults with prediabetes. This study focuses on a younger age group considering the aggressive phenotype of young-onset type 2 diabetes as it provides the opportunity to address and effectively manage the associated cardio-metabolic risk factors, prevent progression from prediabetes to type 2 diabetes and reduce the burden of cardiovascular disease, heart failure and liver-related burden.\n\nLiver fat predicts both cardiovascular disease and type 2 diabetes independent of obesity. NAFLD is a growing clinical problem which has become the most prevalent chronic liver disease in Western society. It can be associated with isolated hepatic triglyceride accumulation (steatosis), through steatosis plus hepatocellular damage with inflammation and fibrosis (non-alcoholic steatohepatitis (NASH), which may ultimately progress to liver fibrosis/cirrhosis and hepatocellular carcinoma.\n\nNon-Alcoholic Fatty Liver Disease (NAFLD) is considered the hepatic manifestation of the metabolic syndrome and is commonly associated with insulin-resistant states including obesity, a higher prevalence of prediabetes and type 2 diabetes (T2D).\n\nNAFLD has a bi-directional relationship with prediabetes and T2D being a risk factor for Non-Alcoholic Fatty Liver Disease but conversely, individuals with prediabetes and type 2 diabetes have significantly increased liver fat versus non-diabetic control subjects with a higher risk of NAFLD than Body Mass Index (BMI) -matched non-diabetic controls.\n\nNAFLD is associated with a metabolic phenotype similar to that observed in T2D: hepatic and peripheral insulin resistance with reduced skeletal muscle glucose uptake and increased non-esterified fatty acid (NEFA) release from adipose tissue lipolysis. Once liver fat accumulates in the liver, insulin is unable to inhibit glucose and very-low-density lipoprotein (VLDL) production resulting in overproduction of glucose and very-low-density lipoprotein (VLDL) particles leading to hypertriglyceridaemia and low high-density lipoprotein (HDL)-cholesterol concentrations.\n\nNAFLD is associated with an increased risk of cardiovascular disease with CVD now representing the leading cause of death in NAFLD. While it remains contentious whether the increased risk of CVD in NAFLD is explained by the combination of common risk factors shared by both NAFLD and CVD, most epidemiological studies evaluating CVD risk in NAFLD suggest the risk occurs independently of associated risk factors. These studies have relied upon biochemical and imaging surrogate markers of NAFLD (e.g. serum liver enzymes, abdominal ultrasound). Using more detailed assessment of NAFLD e.g. assessment of fibrosis with fibrosis panels, with Magnetic Resonance Imaging (MRI) or even biopsy-based.\n\nClinical studies have shown that sustained moderate weight loss of around 5-10%, achieved through lifestyle intervention lowers blood pressure, improves glucose control, prevents diabetes, and improves dyslipidaemia, as well as improving haemostatic and fibrinolytic factors. The effects of weight reduction on progression to T2D has been studied in pre-diabetes in the Diabetes Prevention Programme study (US) study. A 1 kg of weight loss is associated with a 16% reduction in the progression of pre-diabetes to T2D.\n\nMetabolic surgery is associated with remission of T2D. There is overwhelming evidence that LCDs have a useful role in T2D resulting in substantial weight loss (mean difference in weight vs. controls after 3 months was 7.38 kg (CI: 16.2, 1.5) with high levels of adherence. They can potentially cause profound weight loss of 15-20% of body weight in severe and medically complicated obesity. The weight loss is associated with significant reductions in hepatic and pancreatic fat with associated improvements in insulin sensitivity and pancreatic \u00df-cell function resulting in remission of T2D in many cases. This dramatic dietary intervention, initially believed to be unmanageable and difficult to maintain, has been demonstrated to be implementable and highly efficacious even when delivered through primary care settings.\n\nIn one primary care study, using LCD in T2D patients recorded a weight loss of 15kg or more in 24% of patients after 12 months. It is unsurprising that 46% of the participants achieved remission of their T2D. LCD produces bariatric type weight loss and improves glycaemic control in diabetes and results in remission of T2D in the majority of patients, however the impact on complications, remains to be determined particularly in obese people without diabetes. One non-pharmacological strategy to improve cardio-metabolic health in obesity, pre-diabetes and type 2 diabetes mellitus (T2DM) includes the application of a low-calorie diet (LCD), utilising reduced daily energy intake (\\<800kcal).\n\nTo this extent, the purpose of this study is to examine the impact of intensive weight management on metabolic, liver and cardiac health, measures on neuropathy and on appetite regulation. The investigators will study younger (\\<55y) obese people with pre-diabetes and/or metabolic syndrome who exhibit early or pre-clinical evidence of metabolic and cardiovascular complications. The investigators will investigate the effects of a low-calorie diet (LCD) as one of the most effective and least invasive mechanism by which these various factors can be improved."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Obesity",
+        "NAFLD",
+        "Fatty Liver",
+        "Pre Diabetes",
+        "Metabolic Syndrome"
+      ],
+      "keywords": [
+        "Obesity",
+        "Metabolic Syndrome",
+        "Pre Diabetes",
+        "NAFLD",
+        "Fatty Liver",
+        "Low-calorie diet",
+        "functional magnetic resonance imaging",
+        "skin biopsy",
+        "appetite regulation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "There are two study groups: Control groups and low-calorie diet intervention group running alongside.",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 44,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Control group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants will be given standard advice about healthy eating, physical activity and management of weight during the study visit, in line with current NHS practice. There will be a total of 9 study visits for this group.",
+          "interventionNames": [
+            "Other: Standard of care"
+          ]
+        },
+        {
+          "label": "Low-calorie diet intervention group",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will received a special diet involving 25 regular visits and intensive management. Participants will be given a supply of especially formulated soups and shakes, a special diet in a form of powder that need to be mixed with 200 ml water.",
+          "interventionNames": [
+            "Dietary Supplement: Low-calorie diet"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Standard of care",
+          "description": "Participants allocated to the control group will be given standard clinical information regarding healthy eating, physical activity and management of weight, in line with current NHS practise.",
+          "armGroupLabels": [
+            "Control group"
+          ]
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Low-calorie diet",
+          "description": "The LCD intervention group, will received a well validated, commercially available, intensive weight management protocol Counterweight-Plus.",
+          "armGroupLabels": [
+            "Low-calorie diet intervention group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Changes in liver fat >5 percent, determined by MRI, from baseline to after 12 months of intervention.",
+          "description": "For liver fat, diagnosis of NAFLD is based on a threshold of a value \\>5.5 percent. The investigators anticipate having a 45 percent difference in the proportion in whom liver fat percentage reduces by at least 5 percent between the groups (50 percent of LCD will have an absolute reduction in liver fat of 5 percent vs. 5 percent of controls). The investigators chose an absolute reduction of liver fat of 5 percent as this reduction is clinically meaningful.",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Body Mass Index",
+          "description": "Weight (kg) and height (cm) to measure body mass index (BMI) and to assess the changes in body mass index (BMI).",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Body weight",
+          "description": "Body weight (kg) and to assess the changes in body weight (kg).",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Waist Circumference",
+          "description": "To access changes of waist circumference that is correlated with visceral (abdominal) adiposity (cm).",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Blood pressure",
+          "description": "Systolic and Diastolic (mmHg)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Liver biochemistry: Alanine transaminase",
+          "description": "To access liver function tests of ALT (u/L).",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Changes in HbA1c",
+          "description": "Changes of HbA1c of 6 mmol/mol in approximately 50 percent of the LCD intervention group vs. 5 percent in the control group. The investigators believe the application of thresholds in looking at the changes in HbA1c are justified based on the diagnostic thresholds used in the diagnosis of normal glucose tolerance (NGT) (HbA1c\\<42 mmol/mol), prediabetes (42-47 mmol/mol) and type 2 diabetes (T2D) (\\>48 mmol/mol). By using a threshold of HbA1c reduction of 6 mmol/mol, all participants, irrespective of their baseline HbA1c would have remission of prediabetes to NGT. The investigators avoided categorising individuals as moving from prediabetes to NGT would capture small changes in HbA1c that were less clinically significant (e.g. an individual who goes from 43 to 41 mmol/mol).",
+          "timeFrame": "Changes will be measured at baseline, at 12 weeks, at 24 week and at 12 months."
+        },
+        {
+          "measure": "Lipid profile",
+          "description": "LDL, HDL, total cholesterol and triglycerides (mmol/L)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Metabolic measures of fatty liver",
+          "description": "Fatty liver index (FLI) score:\n\n\\<30/Low/Fatty liver ruled out (LR- = 0.2)\n\n30 to \\<60/Indeterminate/Fatty liver neither ruled in nor ruled out\n\n\u226560/High/Fatty liver ruled in (LR+ = 4.3)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Markers of fibrosis in liver",
+          "description": "FIB-4 Score (Approximate fibrosis stage\\*) \\<1.45 = 0-1\n\n1.45-3.25 = 2-3\n\n3.25 = 4-6",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "The NAFLD scoring screening tool",
+          "description": "NAFLD fibrosis score\n\n= -1.675 + 0.037 \u00d7 age (years) + 0.094 \u00d7 BMI (kg/m2) + 1.13 \u00d7 IFG/diabetes (yes = 1, no = 0) + 0.99 \u00d7 AST/ALT ratio - 0.013 \u00d7 platelet (\u00d7109/l) - 0.66 \u00d7 albumin (g/dl).\n\n\\< -1.455: predictor of absence of significant fibrosis (F0-F2 fibrosis) \u2264 -1.455 to \u2264 0.675: indeterminate score 0.675: predictor of presence of significant fibrosis (F3-F4 fibrosis)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Peripheral insulin sensitivity",
+          "description": "Oral Glucose Tolerance Test (mmol/L)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Changes in hepatic insulin sensitivity",
+          "description": "Hepatic insulin sensitivity",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Changes in insulin secretion",
+          "description": "Pancreatic beta cell function",
+          "timeFrame": "Changes will be measured at baseline and at 12 months.."
+        },
+        {
+          "measure": "Changes in fatty acid metabolism",
+          "description": "Fatty acid handling",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Measures of neuropathy: Change in intra-epidermal nerve fibres densities, length and branch densities.",
+          "description": "1. Change in corneal nerve fibre density (CNFD) - Number of major nerves/ mm2 of corneal tissue.\n2. Change in corneal nerve fibre length (CNFL) - Length of nerves/ mm2 of corneal tissue.\n3. Change in corneal nerve branch density (CNBD) - Number of nerve branches/mm2 of corneal tissue.",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Measures of neuropathy: Change in sural nerve velocity",
+          "description": "Velocity (m/s)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Measures of neuropathy: Change in sural nerve amplitude",
+          "description": "Amplitude (mV)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Functional MRI",
+          "description": "Changes in brain signals in response to food cues",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Appetite measurement",
+          "description": "Visual Analog Score for Appetite: Scale range from 0 to 10 (not at all to extremely)\n\nHungry : 0 (Not at all hungry) - 10 (Extremely hungry)\n\nFullness: 0 (Not at all full) - 1- (Extremely full)\n\nSatisfied: 0 (Not at all satisfied) - 10 (Extremely satisfied)\n\nStrong desire to eat: 0 (not at all strong) - 10 (Extremely strong)\n\nHow much food you could eat : 0 (Not at all) - 10 (a large amount)\n\nThirsty: 0( not at all thirsty) - 10 (Extremely thirsty)\n\nNauseous: 0 (not at all nauseous) - 10 (Extremely nauseous)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "MRI-derived fat volumes",
+          "description": "Subcutaneous and visceral fat content (litres)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Cardiac structure (volumes)",
+          "description": "Cardiac chamber volumes at various phases in cardiac cycle (LVESV, LVEDV)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Cardiac health: cardiac magnetic resonance imaging",
+          "description": "LV mass (g)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Cardiac health: LV Mass Indexed to Body Surface Area",
+          "description": "LV Mass Indexed to Body Surface Area (g/m2)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Cardiac health: Multi-parametric cardiac MRI",
+          "description": "LV Mass: volume ratio (LVM/LVEDV)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Changes in early diastolic strain rate by cardiovascular magnetic resonance",
+          "description": "Peak early diastolic strain rate (s-1)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Changes in load and contractility of the cardiac function",
+          "description": "Peak systolic strain (percent)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Charcterisation of organ fat content",
+          "description": "Liver, pancreas, kidney, skeletal muscle",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Multi-organ MRI measure for pancreas, spleen and kidney",
+          "description": "Fibrosis score cT1 (ms)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Multi organs pancreas, spleen and kidney volume",
+          "description": "Volumes (cm3)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        },
+        {
+          "measure": "Multi organs pancreas, spleen and kidney fat content",
+          "description": "Fat content (percent)",
+          "timeFrame": "Changes will be measured at baseline and at 12 months."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* The investigators shall recruit participants with the following characteristics:\n\n  * Men and women\n  * aged 18-55 years\\*,\n  * BMI 30-40 kg/m2 , BMI\\>27 kg/m2 for Chinese/South Asians\n  * Any one of the following three metabolic criteria:\n\n    1. a diagnosis of prediabetes (HbA1c 42-47 mmol/mol), OR\n    2. NAFLD (based on fatty liver index, FLI \\>60). FLI will be determined using waist circumference, BMI, serum triglyceride and GGT (gamma-glutamyltransferase). OR\n    3. a diagnosis of metabolic syndrome using the IDF metabolic syndrome criteria (see below,\n\nExclusion criteria:\n\n* Individuals with normal glucose tolerance (NGT) or type 1 or type 2 diabetes (T2D).\n* Anyone engaged in active weight loss (\\>5kg weight loss in the last 6 months), currently engaged with weight management service, previous bariatric surgery, on weight-lowering medications (e.g. orlistat or liraglutide) or with a history of an eating disorder.\n* planning pregnancy/6 months post-partum,\n* known structural cardiac disease or anyone with major atherosclerotic disease\n* history of stroke within the last 3 months\n* Active mental health illness (e.g. severe depression, bipolar disorder, schizophrenia or other psychotic disorders). Use of drug with known major effects on bodyweight (e.g. corticosteroid, anti-psychotic, anticonvulsants etc).\n* Planning pregnancy within the next 6 months and until \\>6 months post-partum or breastfeeding\n* Substance abuse e.g. drugs/alcohol.\n* Eating disorder, previous bariatric surgery, currently taking weight loss drugs or already engaged with weight management service\n* Learning difficulties\n* A contraindication to magnetic resonance scanning will exclude the patient from the MRI component of the study",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "55 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Daniel Cuthbertson",
+          "affiliation": "University of Liverpool",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Liverpool University Hospital NHS Foundation Trust are an NHS organisation",
+          "city": "Liverpool",
+          "zip": "L97AL",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.41058,
+            "lon": -2.97794
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "26879684",
+          "type": "RESULT",
+          "citation": "Leslie WS, Ford I, Sattar N, Hollingsworth KG, Adamson A, Sniehotta FF, McCombie L, Brosnahan N, Ross H, Mathers JC, Peters C, Thom G, Barnes A, Kean S, McIlvenna Y, Rodrigues A, Rehackova L, Zhyzhneuskaya S, Taylor R, Lean ME. The Diabetes Remission Clinical Trial (DiRECT): protocol for a cluster randomised trial. BMC Fam Pract. 2016 Feb 16;17:20. doi: 10.1186/s12875-016-0406-2."
+        }
+      ],
+      "availIpds": [
+        {
+          "type": "Study Protocol",
+          "url": "http://www.directclinicaltrial.org.uk"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        },
+        {
+          "id": "D065626",
+          "term": "Non-alcoholic Fatty Liver Disease"
+        },
+        {
+          "id": "D005234",
+          "term": "Fatty Liver"
+        },
+        {
+          "id": "D018149",
+          "term": "Glucose Intolerance"
+        },
+        {
+          "id": "D024821",
+          "term": "Metabolic Syndrome"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D008107",
+          "term": "Liver Diseases"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D006943",
+          "term": "Hyperglycemia"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D007333",
+          "term": "Insulin Resistance"
+        },
+        {
+          "id": "D006946",
+          "term": "Hyperinsulinism"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D059039",
+          "term": "Standard of Care"
+        },
+        {
+          "id": "D031204",
+          "term": "Caloric Restriction"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D019984",
+          "term": "Quality Indicators, Health Care"
+        },
+        {
+          "id": "D011787",
+          "term": "Quality of Health Care"
+        },
+        {
+          "id": "D006298",
+          "term": "Health Services Administration"
+        },
+        {
+          "id": "D017530",
+          "term": "Health Care Quality, Access, and Evaluation"
+        },
+        {
+          "id": "D004035",
+          "term": "Diet Therapy"
+        },
+        {
+          "id": "D044623",
+          "term": "Nutrition Therapy"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D002149",
+          "term": "Energy Intake"
+        },
+        {
+          "id": "D004032",
+          "term": "Diet"
+        },
+        {
+          "id": "D009747",
+          "term": "Nutritional Physiological Phenomena"
+        },
+        {
+          "id": "D000066888",
+          "term": "Diet, Food, and Nutrition"
+        },
+        {
+          "id": "D010829",
+          "term": "Physiological Phenomena"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

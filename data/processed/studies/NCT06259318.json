@@ -1,0 +1,296 @@
+{
+  "nct_id": "NCT06259318",
+  "title": "Feasibility of Kanasina Gulabi, a Pilot Peer Support Intervention for Young Adults With Type 2 Diabetes in Mysore District, South India",
+  "sponsor": "Duke University",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Type 2 Diabetes",
+    "Quality of Life",
+    "Depression",
+    "Stigma, Social",
+    "Behavior, Health"
+  ],
+  "interventions": [
+    "Kanasina Gulabi"
+  ],
+  "primary_outcome": "Reach",
+  "secondary_outcomes": [],
+  "start_date": "2023-06-21",
+  "completion_date": "2023-10-26",
+  "results_posted": false,
+  "enrollment": 31,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06259318",
+        "orgStudyIdInfo": {
+          "id": "2023-0247"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "2023-03-11-77",
+            "type": "OTHER",
+            "domain": "Public Health Research Institute of India"
+          }
+        ],
+        "organization": {
+          "fullName": "Duke University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Feasibility of Kanasina Gulabi, a Pilot Peer Support Intervention for Young Adults With Type 2 Diabetes in Mysore District, South India",
+        "officialTitle": "Feasibility of Kanasina Gulabi, a Pilot Peer Support Intervention for Young Adults With Type 2 Diabetes in Mysore District, South India"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-02",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2023-06-21",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2023-10-26",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2023-10-26",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2024-01-29",
+        "studyFirstSubmitQcDate": "2024-02-06",
+        "studyFirstPostDateStruct": {
+          "date": "2024-02-14",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-02-06",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-02-14",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Duke University",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Public Health Research Institute of India",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to evaluate a pilot peer support intervention, entitled \"Kanasina Gulabi\" (Translation \"My Dream Rose\" in Kannada), designed to improve quality of life and diabetes management among young adults living with type 2 diabetes. The intervention, delivered by non-specialist providers - trained young adult peer navigators who are also managing type 2 diabetes - is expected to improve physical and mental health outcomes among participants. The sample includes young adults aged 18-40 with a diagnosis of type 2 diabetes in Mysore district, South India. Participants were quasi-randomly allocated to the intervention or control group. With the support of their peer navigators, intervention participants will develop action plans to improve their physical and mental health outcomes. This study plans to assess the feasibility, acceptability, and preliminary effectiveness of the intervention."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes",
+          "Quality of Life",
+          "Depression",
+          "Stigma, Social",
+          "Behavior, Health"
+        ],
+        "keywords": [
+          "Young Adult",
+          "India"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "interventionModelDescription": "This study is a Hybrid Type 2 Effectiveness-Implementation Trial of a pilot, 2-arm, parallel-group, quasi-randomized trial.",
+          "primaryPurpose": "SUPPORTIVE_CARE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 31,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Intervention",
+            "type": "EXPERIMENTAL",
+            "interventionNames": [
+              "Behavioral: Kanasina Gulabi"
+            ]
+          },
+          {
+            "label": "Control",
+            "type": "NO_INTERVENTION"
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Kanasina Gulabi",
+            "description": "Kanasina Gulabi is a theory-driven, educational-behavioral intervention designed to improve the quality of life and diabetes management among young adults living with type 2 diabetes in Mysore district, South India. In this intervention, young adults with type 2 diabetes were matched to non-specialist peer navigators -- trained young adult peers who were also managing type 2 diabetes -- and developed action plans to improve their physical and mental health outcomes. Intervention components included group education, mindfulness activities, self care activity tracking, and phone follow-ups to address knowledge gaps and misinformation about type 2 diabetes, build self-efficacy for type 2 diabetes-related self care activities, and provide emotional support for diabetes management.",
+            "armGroupLabels": [
+              "Intervention"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Reach",
+            "description": "The absolute number, proportion, and representativeness of individuals who are willing to participate in the quasi-experimental study for Kanasina Gulabi.",
+            "timeFrame": "Week 0 - 5, Week 12"
+          },
+          {
+            "measure": "Glycemic Control",
+            "description": "Percentage of measured hemoglobin A1c (HbA1c) that represents average blood sugar levels over the past 3 months, used to measure diabetes management and glycemic control.",
+            "timeFrame": "Week 0, Week 12"
+          },
+          {
+            "measure": "Diabetes Knowledge",
+            "description": "Diabetes Knowledge Questionnaire (DKQ-24). 24 self-report items to assess overall diabetes knowledge. Responses are measured as true, false, or don't know. One composite score is calculated (range: 0 - 24); higher scores reflect better diabetes knowledge.",
+            "timeFrame": "Week 0, Week 5, Week 12"
+          },
+          {
+            "measure": "Diabetes Distress",
+            "description": "Type 2 Diabetes Distress Assessment System (T2-DDAS). 8 self-report items to assess diabetes-related emotional distress in adults with type 2 diabetes. Responses are endorsed on a 5-point scale and refer to the past month. One composite mean score is calculated (range: 0 - 5); higher scores reflect more diabetes distress.",
+            "timeFrame": "Week 0, Week 5, Week 12"
+          },
+          {
+            "measure": "Diabetes-Related Stigma",
+            "description": "Type 2 Diabetes Stigma Assessment Scale (DSAS-2). 19 self-report items to assess perceived and experienced stigma for adults with type 2 diabetes. Responses are endorsed on a 5-point scale and refer to the past two weeks. One composite score is calculated (range: 19 - 95); higher scores reflect more experiences of stigma.",
+            "timeFrame": "Week 0, Week 5, Week 12"
+          },
+          {
+            "measure": "Depressive Symptoms",
+            "description": "Patient Health Questionnaire (PHQ-9). 9 self-report items to screen for depression and assess degree of severity. Responses are endorsed on a 4-point scale and refer to the past two weeks. One composite score is calculated (range: 0 - 27); higher scores reflect more depressive symptoms.",
+            "timeFrame": "Week 0, Week 5, Week 12"
+          },
+          {
+            "measure": "Optimism",
+            "description": "Revised Life Orientation Test (LOT-R). 10 self-report items to measure positive and negative expectations strongly linked to the future. Responses are endorsed on a 5-point scale. One composite score is calculated (range: 0 - 24); higher scores reflect higher dispositional optimism.",
+            "timeFrame": "Week 0, Week 5, Week 12"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* aged 18 - 40 years old\n* self-reported to have type 2 diabetes\n* living in Mysore district\n* able to speak English or Kannada\n* and able to access a cellular phone during the study period\n\nExclusion Criteria:\n\n* pregnant\n* living with a serious medical or psychological disorder that would impede study procedure",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "40 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Eve S Puffer, PhD",
+            "affiliation": "Duke University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Sumedha Ariely, PhD",
+            "affiliation": "Duke University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Public Health Research Institute of India",
+            "city": "Mysore",
+            "state": "Karnataka",
+            "country": "India",
+            "geoPoint": {
+              "lat": 12.29791,
+              "lon": 76.63925
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "id": "D003863",
+            "term": "Depression"
+          },
+          {
+            "id": "D057545",
+            "term": "Social Stigma"
+          },
+          {
+            "id": "D015438",
+            "term": "Health Behavior"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D001526",
+            "term": "Behavioral Symptoms"
+          },
+          {
+            "id": "D001519",
+            "term": "Behavior"
+          },
+          {
+            "id": "D012919",
+            "term": "Social Behavior"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718682"
+}

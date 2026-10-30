@@ -1,0 +1,425 @@
+{
+  "nct_id": "NCT01476137",
+  "title": "An Open-Label, Two Part, Phase I/II Study to Investigate the Safety, Pharmacokinetics, Pharmacodynamics, and Clinical Activity of the MEK Inhibitor GSK1120212 in Combination With the AKT Inhibitor GSK2110183 in Subjects With Solid Tumors and Multiple Myeloma",
+  "sponsor": "GlaxoSmithKline",
+  "phase": "PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    "GSK1120212",
+    "GSK2110183"
+  ],
+  "primary_outcome": "Part 1: Safety and tolerability in first 4 weeks as determined by the number of patients with adverse events, serious adverse events, dose reductions or delays, withdrawals due to toxicities and changes in lab values and vital signs from baseline",
+  "secondary_outcomes": [
+    "Part 1: Profile of pharmacokinetic parameters following repeat-dose administration of GSK1120212 and GSK2110183 in combination versus repeat-dose administration of monotherapy GSK2110183 and GSK1120212",
+    "Part 2A: Number of patients whose disease responds to study drugs, as shown by PFS; duration of response; change from baseline measures in biomarkers in the PI3K/ATK and MAPK pathways; genetic alterations in PI3K/AKT/RAS/RAF pathway",
+    "Part 2B: Number of patients whose disease responds to study drugs, as shown by PFS; duration of response; change from baseline measures in biomarkers in the PI3K/ATK and MAPK pathways; genetic alterations in PI3K/AKT/RAS/RAF pathway"
+  ],
+  "start_date": "2011-10-26",
+  "completion_date": "2013-03-12",
+  "results_posted": false,
+  "enrollment": 335,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01476137",
+        "orgStudyIdInfo": {
+          "id": "115829"
+        },
+        "organization": {
+          "fullName": "GlaxoSmithKline",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "A Study of the Safety and Activity of the MEK Inhibitor Given Together With the AKT Inhibitor to Patients With Multiple Myeloma or Solid Tumor Cancers",
+        "officialTitle": "An Open-Label, Two Part, Phase I/II Study to Investigate the Safety, Pharmacokinetics, Pharmacodynamics, and Clinical Activity of the MEK Inhibitor GSK1120212 in Combination With the AKT Inhibitor GSK2110183 in Subjects With Solid Tumors and Multiple Myeloma"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2017-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2011-10-26",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2013-03-12",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2013-03-12",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2011-10-13",
+        "studyFirstSubmitQcDate": "2011-11-17",
+        "studyFirstPostDateStruct": {
+          "date": "2011-11-22",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2017-11-08",
+        "lastUpdatePostDateStruct": {
+          "date": "2017-11-13",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "GlaxoSmithKline",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to determine whether the MEK inhibitor and the AKT inhibitor can be given in combination and if the combination is effective treatment for patients with solid tumors, including breast cancer and endometrial cancer, and for patients with multiple myeloma.",
+        "detailedDescription": "This is an open-label, two part, Phase I/II study to investigate the safety, pharmacokinetics, pharmacodynamics, and clinical activity of the MEK inhibitor GSK1120212 administered in combination with the AKT inhibitor GSK2110183 in subjects with solid tumors and multiple myeloma.\n\nIn Part 1, the safety and tolerability of a range of doses for GSK1120212 and GSK2110183 dosed in combination will be investigated; pharmacokinetics will also be analyzed to determine whether there is a drug-drug interaction between GSK1120212 and GSK2110183 when dosed in combination.\n\nThe second part of the study will focus on evaluation of the clinical efficacy of the combination as well as the pharmacodynamic response in subjects with proteasome-refractory multiple myeloma (Part 2A) or solid tumors, putatively endometrial and triple negative breast cancer (Part 2B)."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Cancer"
+        ],
+        "keywords": [
+          "oncology",
+          "solid tumors",
+          "multiple myeloma",
+          "AKT inhibitor",
+          "MEK inhibitor"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 335,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Part 2A and 2B: GSK1120212 + GSK2110183 Dose Combination 1",
+            "type": "EXPERIMENTAL",
+            "description": "One of two dose combination levels (GSK1120212+GSK2110183) based on data from Part 1 of the trial",
+            "interventionNames": [
+              "Drug: GSK1120212",
+              "Drug: GSK2110183"
+            ]
+          },
+          {
+            "label": "Part 2A and 2B: GSK1120212 + GSK2110183 Dose Combination 2",
+            "type": "EXPERIMENTAL",
+            "description": "One of two dose combination levels (GSK1120212+GSK2110183) based on data from Part 1 of the trial",
+            "interventionNames": [
+              "Drug: GSK1120212",
+              "Drug: GSK2110183"
+            ]
+          },
+          {
+            "label": "Part 1: Cohort 1",
+            "type": "EXPERIMENTAL",
+            "description": "GSK1120212 1.5mg + GSK2110183 50mg",
+            "interventionNames": [
+              "Drug: GSK1120212",
+              "Drug: GSK2110183"
+            ]
+          },
+          {
+            "label": "Part 1: Cohort 2",
+            "type": "EXPERIMENTAL",
+            "description": "GSK1120212 1.5mg + GSK2110183 100mg",
+            "interventionNames": [
+              "Drug: GSK1120212",
+              "Drug: GSK2110183"
+            ]
+          },
+          {
+            "label": "Part 1: Cohort 3a",
+            "type": "EXPERIMENTAL",
+            "description": "GSK1120212 2mg + GSK2110183 100mg",
+            "interventionNames": [
+              "Drug: GSK1120212",
+              "Drug: GSK2110183"
+            ]
+          },
+          {
+            "label": "Part 1: Cohort 3b",
+            "type": "EXPERIMENTAL",
+            "description": "GSK1120212 1.5mg + GSK2110183 125mg",
+            "interventionNames": [
+              "Drug: GSK1120212",
+              "Drug: GSK2110183"
+            ]
+          },
+          {
+            "label": "Part 1: Cohort 4a",
+            "type": "EXPERIMENTAL",
+            "description": "GSK1120212 2mg + GSK2110183 125mg",
+            "interventionNames": [
+              "Drug: GSK1120212",
+              "Drug: GSK2110183"
+            ]
+          },
+          {
+            "label": "Part 2A: GSK1120212 2mg",
+            "type": "EXPERIMENTAL",
+            "description": "Maximum tolerated dose of GSK1120212 as determined in prior single-agent trials",
+            "interventionNames": [
+              "Drug: GSK1120212"
+            ]
+          },
+          {
+            "label": "Part 2A; GSK2110183 125mg",
+            "type": "EXPERIMENTAL",
+            "description": "GSK2110183 125mg",
+            "interventionNames": [
+              "Drug: GSK2110183"
+            ]
+          },
+          {
+            "label": "Part 2A: GSK2110183 MTD",
+            "type": "EXPERIMENTAL",
+            "description": "Maximum tolerated dose (MTD) as determined in ongoing single agent trial PKB115340",
+            "interventionNames": [
+              "Drug: GSK2110183"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "GSK1120212",
+            "description": "MEK inhibitor",
+            "armGroupLabels": [
+              "Part 1: Cohort 1",
+              "Part 1: Cohort 2",
+              "Part 1: Cohort 3a",
+              "Part 1: Cohort 3b",
+              "Part 1: Cohort 4a",
+              "Part 2A and 2B: GSK1120212 + GSK2110183 Dose Combination 1",
+              "Part 2A and 2B: GSK1120212 + GSK2110183 Dose Combination 2",
+              "Part 2A: GSK1120212 2mg"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "GSK2110183",
+            "description": "AKT inhibitor",
+            "armGroupLabels": [
+              "Part 1: Cohort 1",
+              "Part 1: Cohort 2",
+              "Part 1: Cohort 3a",
+              "Part 1: Cohort 3b",
+              "Part 1: Cohort 4a",
+              "Part 2A and 2B: GSK1120212 + GSK2110183 Dose Combination 1",
+              "Part 2A and 2B: GSK1120212 + GSK2110183 Dose Combination 2",
+              "Part 2A: GSK2110183 MTD",
+              "Part 2A; GSK2110183 125mg"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Part 1: Safety and tolerability in first 4 weeks as determined by the number of patients with adverse events, serious adverse events, dose reductions or delays, withdrawals due to toxicities and changes in lab values and vital signs from baseline",
+            "description": "Adverse events, serious adverse events, dose reductions or delays, withdrawals due to toxicities and changes in laboratory values and vital signs",
+            "timeFrame": "Weekly during first four weeks."
+          },
+          {
+            "measure": "Part 2A: Number of patients whose disease responds to study drugs, as determined by Overall Response Rate (ORR)",
+            "description": "Defined as stringent complete response, complete response, very good partial response, or partial response, using the International Myeloma Working Group (IMWG) Uniform Response Criteria for Multiple Myeloma",
+            "timeFrame": "Every four weeks for up to one year."
+          },
+          {
+            "measure": "Part 2B: Number of patients whose disease responds to study drugs, as determined by Overall response rate (ORR)",
+            "description": "Defined as confirmed complete response or confirmed partial response rate, using Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1",
+            "timeFrame": "Until disease progression or for up to one year."
+          },
+          {
+            "measure": "Part 1: Safety and tolerability in continuation as determined by the number of patients with adverse events, serious adverse events, dose reductions or delays, withdrawals due to toxicities and changes in lab values and vital signs from baseline",
+            "description": "Adverse events, serious adverse events, dose reductions or delays, withdrawals due to toxicities and changes in laboratory values and vital signs",
+            "timeFrame": "Every four weeks for up to one year."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Part 1: Profile of pharmacokinetic parameters following repeat-dose administration of GSK1120212 and GSK2110183 in combination versus repeat-dose administration of monotherapy GSK2110183 and GSK1120212",
+            "description": "Parameters include: AUC(0-tau), Ctau, Cmax, and tmax",
+            "timeFrame": "Day 15 and Day 29 at predose and 1h, 2h, 3h, 4h, 6h, 8h 11h, 18h and 24h postdose"
+          },
+          {
+            "measure": "Part 2A: Number of patients whose disease responds to study drugs, as shown by PFS; duration of response; change from baseline measures in biomarkers in the PI3K/ATK and MAPK pathways; genetic alterations in PI3K/AKT/RAS/RAF pathway",
+            "description": "Progression-free survival (PFS) is defined as the interval between date of randomization and the earliest date of disease progression or death due to any cause; duration of response is defined as the time from first documented evidence of response until time of first documented disease progression; biomarkers in the PI3K/AKT and MAPK pathways, eg pS6RP, pAKT, p-ERK, pRAS40, as measured in bone marrow aspirates/biopsies.",
+            "timeFrame": "Every 4 weeks"
+          },
+          {
+            "measure": "Part 2B: Number of patients whose disease responds to study drugs, as shown by PFS; duration of response; change from baseline measures in biomarkers in the PI3K/ATK and MAPK pathways; genetic alterations in PI3K/AKT/RAS/RAF pathway",
+            "description": "PFS is defined as the interval between date of randomization and the earliest date of disease progression or death due to any cause; duration of response is defined as the time from first documented evidence of complete or partial response until time of first documented disease progression or death due to any cause; biomarkers in the PI3K/AKT and MAPK pathways, eg phosphS6RP, p-ERK, pPRAS40, pAKT measured in tumor tissue.",
+            "timeFrame": "Every 8 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria for Part 1:\n\n* Male or female, at least 18 years of age at the time of signing informed consent form and capable of giving written informed consent, which includes willingness to comply with the requirements and restrictions listed in the consent form.\n* Histologically or cytologically confirmed diagnosis of a solid tumor malignancy with one of the following characteristics that is not responsive to standard therapies or for which there is no approved or curative therapy or for subjects which refuse standard therapy: breast cancer, colorectal cancer, pancreatic cancer, endometrial cancer, non-small cell lung cancer, ovarian cancer, melanoma, renal cell carcinoma, head and neck cancer, prostate cancer, gastric cancer, hepatocellular cancer, or bladder cancer.\n* At Screening, archived tissue must be requested. If archived tissue is not available, a fresh biopsy is required.\n* Subjects diagnosed previously with Type 2 diabetes must have been diagnosed at least 6 months prior to enrollment.\n* All prior treatment-related toxicities must be less than or equal to Grade 1 according to NCI-CTCAE (version 4.0) at the time of treatment allocation, or are less than or equal to Grade 2 and stable for 4 weeks or longer at the time of screening evaluation.\n* Adequate organ system function: absolute neutrophil count (ANC) greater than or equal to 1.5X10\\^9/L, hemoglobin greater than or equal to 9g/dL, , platelets greater than or equal to 75X10\\^9/L, PT/INR and PTT less than or equal to 1.5Xupper limit of normal (ULN); total bilirubin less than or equal to 1.5XULN, AST and ALT less than or equal to 2.5XULN, albumin greater than or equal to 2.5g/dL; creatinine less than 2.5mg/dL or calculated or 24-hour urine creatining clearance greater than or equal to 30mL/min; fasting serum glucose less than 126mg/dL (7mmol/L), HbA1C less than or equal to 8% and cardiac ejection fraction greater than or equal to the lower limit of normal (LLN) by echocardiography.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.\n* All subjects enrolled in the serial PK cohorts must agree to serial PK sampling.\n* Must agree to collection of samples for evaluation of circulating free DNA (cfDNA).\n* Able to swallow and retain orally administered medication.\n* Women of childbearing potential and men with reproductive potential must be willing to practice acceptable methods of birth control. Additionally, women of childbearing potential must have a negative serum pregnancy test within 14 days prior to the first dose of study medication.\n\nInclusion Criteria for Part 2A only:\n\n* As listed for Part 1 with the exception of criterion 2 which should be replaced with the following:\n\nHistologically confirmed diagnosis of secretory multiple myeloma (must have measurable M protein in serum or urine) with at least one of the following: serum M protein greater than or equal to 1g/dL, urine M protein greater than or equal to 200mg/24hours, serum Free Light Chain (FLC) assay- involved FLC level greater than or equal to 10mg/dL and an abnormal serum FLC ratio (\\<0.26 or \\>1.65), biopsy-proven plasmacytoma within 28 days of screening visit.\n\n* Adequate organ system function, defined as ANC greater than or equal to 1X10\\^9/L, hemoglobin greater than or equal to 8g/dL, platelets greater than or equal to 50X10\\^9/L, PT/INR and PTT less than or equal to 1.5XULN, total bilirubin less than or equal to 1.5XULN, AST and ALT less than or equal to 2.5XULN, albumin greater than or equal to 2.5g/dL, creatinine less than or equal to 2.5mg/dL or calculated or 24-hour urine creatinine clearance greater than or equal to 30mL/min; fasting serum glucose less than 126mg/dL, HbA1C less than or equal to 8%, calcium less than or equal to 12.5mg/dL (3.126mmol/L), cardiac ejection fraction greater than or equal to LLN by echocardiography.\n* Subjects with a history of autologous stem cell transplant, provided these eligibility criteria are met: transplant was \\> 100 days prior to study enrollment, no active infection, subject meets remainder of eligibility criteria outlined in the protocol.\n* Only those subjects with proteasome inhibitor-refractory multiple myeloma may be enrolled (Part 2A). Refractory is defined as failure to respond to last proteasome inhibitor therapy or progression within 60 days after stopping last proteasome inhibitor therapy.\n* Subjects must agree to pre-, and in some cases, post-dose bone marrow aspirates and biopsies.\n* Subjects with prior exposure to an AKT inhibitor or MEK inhibitor are not eligible. Perifosine is not considered an AKT inhibitor.\n\nInclusion Criteria for Part 2B only:\n\n* As listed for Part 1, with the exception of criterion 2 which should be replaced with the following:\n\nHistologically or cytologically confirmed diagnosis of:\n\n1. endometrial cancer with less than or equal to 2 prior cytotoxic chemotherapies in the relapsed or metastatic setting. For the purposes of this study, targeted agents like bevacizumab are not considered cytotoxic chemotherapy.\n\n   OR\n2. ER-/PR-/HER2- breast cancer in the locally advanced or metastatic setting that has been previously treated with an anthracycline and taxane in any setting, greater than or equal to 2 but less than or equal to 5 prior therapies with cytotoxic agents in the metastatic setting. For purposes of this study, targeted agents like bevacizumab are not considered cytotoxic chemotherapy.\n\nNote: central confirmation of ER and/or PgR and/or HER2 negativity is not required for eligibility, but documentation of the local result must be available in the source document.\n\n* Subjects must have measurable disease per RECIST version 1.1.\n* A select subset of subjects must agree to pre- and post-dose tumor biopsies.\n* Subjects with prior exposure to an AKT inhibitor or MEK inhibitor are not eligible. Perifosine is not considered an AKT inhibitor.\n\nSubjects with alternative tumor histologies and/or molecular profiles (eg KRAS mutant colorectal cancer) may be enrolled in Part 2B cohorts if emerging data suggest they would be likely to respond to therapy.\n\nExclusion Criteria:\n\n* Chemotherapy, radiotherapy, immunotherapy or other anti-cancer therapy including investigational drugs within 14 days prior to the first dose of any one of the investigational drugs described in this study.\n* History of an allogenic stem cell transplant. Subjects with a history of an autologous stem cell transplant are NOT excluded from Part 2A if they meet Part 2A inclusion criteria.\n* Current use of prohibited medication during treatment with GSK1120212 and/ or GSK 2110183.\n* History of Type 1 diabetes.\n* Anticoagulants are permitted only if the subject meets PTT and INR entry criteria. Their use must be monitored in accordance with local institutional practice.\n* Presence of active gastrointestinal disease or other condition that could affect gastrointestinal absorption (eg, malabsorption syndrome) or predispose subject to gastrointestinal ulceration.\n* Evidence of mucosal or internal bleeding.\n* Any major surgery within the last 4 weeks.\n* Any serious or unstable pre-existing medical, psychiatric, or other condition (including lab abnormalities) that could interfere with the subject's safety or providing informed consent.\n* Known active infection requiring parenteral or oral anti-infective treatment.\n* Evidence of severe or uncontrolled systemic diseases (eg, unstable or uncompensated respiratory, hepatic, renal or cardiac disease, unstable hypertension).\n* Subjects with brain metastases are excluded if their brain metastases are: symptomatic, treated (surgery, radiation therapy) but not clinically and radiologically stable one month after therapy (as assessed by at least 2 distinct contrast enhanced MRI or CT scans over at least a one month period) OR asymptomatic and untreated but \\> 1 cm in the longest dimension.\n\nSubjects with small (less than or equal to 1cm in the longest dimension), asymptomatic brain metastases that do not need immediate therapy can be enrolled. Subjects with solid tumors on a stable (ie, unchanged) dose of corticosteroids for more than one month, or those who have been off corticosteroids for at least 2 weeks can be enrolled. Subjects must also be off of enzyme-inducing anticonvulsants for more than 4 weeks.\n\n* Subjects with leptomeningeal disease are excluded.\n* QTcF interval greater than or equal to 470msecs.\n* Subjects with bundle branch block (BBB) or pacemaker.\n* Other clinically significant ECG abnormalities including 2nd degree (Type II) or 3rd degree atrioventricular (AV) block.\n* History of myocardial infarction, acute coronary syndromes (including unstable angina), coronary angioplasty, or stenting or bypass grafting within 6 months of Screening.\n* Class II, III or IV heart failure as defined by the New York Heart Association (NYHA) functional classification system.\n* Known hypersensitivity to any of the components of the study treatment.\n* Pregnant or lactating female.\n* Any malignancy related to HIV or solid organ transplant; history of known HIV, history of known HBV surface antigen positivity (subjects with documented laboratory evidence of HBV clearance may be enrolled) or positive HCV antibody.\n* History or current evidence/ risk of retinal vein occlusion (RVO) or central serous retinopathy (CSR): history of RVO or CSR, or predisposing factors to RVO or CSR at the time of screening (eg, uncontrolled glaucoma or ocular hypertension, uncontrolled systemic disease such as hypertension, diabetes mellitus, or history of hyperviscosity or hypercoagulability syndromes); visible retinal pathology as assessed by ophthalmic exam that is considered a risk factor for RVO or CSR, such as evidence of new optic disc cupping, evidence of new visual field defects, intraocular pressure (IOP) \\> 24mmHg.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "GSK Clinical Trials",
+            "affiliation": "GlaxoSmithKline",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "GSK Investigational Site",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75246",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "GSK Investigational Site",
+            "city": "San Antonio",
+            "state": "Texas",
+            "zip": "78229",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.42412,
+              "lon": -98.49363
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "25417902",
+            "type": "DERIVED",
+            "citation": "Tolcher AW, Patnaik A, Papadopoulos KP, Rasco DW, Becerra CR, Allred AJ, Orford K, Aktan G, Ferron-Brady G, Ibrahim N, Gauvin J, Motwani M, Cornfeld M. Phase I study of the MEK inhibitor trametinib in combination with the AKT inhibitor afuresertib in patients with solid tumors and multiple myeloma. Cancer Chemother Pharmacol. 2015 Jan;75(1):183-9. doi: 10.1007/s00280-014-2615-5. Epub 2014 Nov 25."
+          }
+        ],
+        "seeAlsoLinks": [
+          {
+            "label": "Results for study 115829 can be found on the GSK Clinical Study Register.",
+            "url": "https://gsk-clinicalstudyregister.com/study/115829?search=study&study_ids=115829#rs"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D009101",
+            "term": "Multiple Myeloma"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D054219",
+            "term": "Neoplasms, Plasma Cell"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D020141",
+            "term": "Hemostatic Disorders"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D010265",
+            "term": "Paraproteinemias"
+          },
+          {
+            "id": "D001796",
+            "term": "Blood Protein Disorders"
+          },
+          {
+            "id": "D006402",
+            "term": "Hematologic Diseases"
+          },
+          {
+            "id": "D006425",
+            "term": "Hemic and Lymphatic Diseases"
+          },
+          {
+            "id": "D006474",
+            "term": "Hemorrhagic Disorders"
+          },
+          {
+            "id": "D008232",
+            "term": "Lymphoproliferative Disorders"
+          },
+          {
+            "id": "D007160",
+            "term": "Immunoproliferative Disorders"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C560077",
+            "term": "trametinib"
+          },
+          {
+            "id": "C000595148",
+            "term": "GSK2110183"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.791986"
+}

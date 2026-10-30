@@ -1,0 +1,322 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05935709",
+      "orgStudyIdInfo": {
+        "id": "DANIVAS"
+      },
+      "organization": {
+        "fullName": "University of Aarhus",
+        "class": "OTHER"
+      },
+      "briefTitle": "DANIsh VASculitis Database (DANIVAS)",
+      "officialTitle": "Disease Stratification in GCA and PMR to Inform Management and Reduce Disease and Treatment-related Damage",
+      "acronym": "DANIVAS"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-04",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-11-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2034-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2051-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-06-01",
+      "studyFirstSubmitQcDate": "2023-06-28",
+      "studyFirstPostDateStruct": {
+        "date": "2023-07-07",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-01-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-01-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Aarhus University Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Regionshospitalet Horsens",
+          "class": "OTHER"
+        },
+        {
+          "name": "Aalborg University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Odense University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Esbjerg Hospital - University Hospital of Southern Denmark",
+          "class": "OTHER"
+        },
+        {
+          "name": "Holbaek Sygehus",
+          "class": "OTHER"
+        },
+        {
+          "name": "Copenhagen University Hospital, Rigshospitalet",
+          "class": "OTHER"
+        },
+        {
+          "name": "Zealand University Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The aim of this national pragmatic observational study is to investigate whether the use of new diagnostic imaging modalities facilitates disease stratification that can potentially predict treatment response, relapse risk and complications and hence guide management strategies to improve disease control and reduce disease and treatment related damage.",
+      "detailedDescription": "BACKGROUND Giant cell arteritis (GCA) is the most common vasculitis of the elderly. The concomitant disease polymyalgia rheumatica (PMR) is characterised by pain of the proximal muscles, general symptoms, and raised inflammatory markers. Only limited research has previously been performed nationally and internationally in GCA and PMR. To explore clinical practice, biomarkers, disease subsets, comorbidities, and long-term effectiveness of new treatments the establishment of large registries are highly warranted.\n\nOBJECTIVES Primary objective: To compare cumulative GC doses in patients with c-GCA as compared to Large vessel (LV) -GCA\n\nKey secondary objectives:\n\n1. To compare cumulative GC doses in patients with pure PMR compared to PMR patients with subclinical LV-GCA\n2. To compare the incidence of aortic dilatation 2 years after diagnosis in patients with c-GCA as compared to LV-GCA\n3. In the subpopulation of patients whom a diagnostic Fluor-Deoxy-Glucose Positron Emissions Tomography ( FDG- PET)/CT was performed, to evaluate the risk of aortic complications (aneurisms and dissections) in GCA patients with aortic involvement as compared to patients without aortic involvement.\n\nOnce the database is established nationally, the database will be the basis for additional research projects in the future.\n\nMETHODS Using RedCap database infrastructure, clinical data including imaging will be documented in the individual Case Report Form developed by the project steering group.\n\nThe study population can be enrolled at any point during disease course and registered as either incidents ( up until 3 months from diagnosis) or prevalent. The treatment and follow up will be performed according to the National Danish GCA and PMR guidelines. At some of the visits data entry to the database will be performed: Enrollment visit, response visit(after 2 months), routine visit(after 6 months for incident patients and every year following), screening visit(2 years after diagnosis) and withdrawal visits. The aim is to include all rheumatic departments in Denmark.\n\nData audit to secure a high completeness will be performed regularly by a project manager the first two years and thereafter by a datamanager. Linkage of data across nationwide medical and administrative registries at the individual level will be performed. Blood samples will be collected by the infrastructure of the clinical biobank Danish ReumaBiobank (DRB)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Giant Cell Arteritis",
+        "Polymyalgia Rheumatica"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "10 Years",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "blood samples"
+      },
+      "enrollmentInfo": {
+        "count": 3000,
+        "type": "ESTIMATED"
+      }
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Cumulative glucocorticoid doses compared between patients with cranial GCA and patients with Large Vessel-GCA",
+          "description": "based on redeemed prescriptions",
+          "timeFrame": "From date of diagnosis with GCA until one year after. Assessed yearly up to 120 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Comparison of cumulative glucocorticoid doses in patients with pure PMR compared to PMR with subclinical LV-GCA",
+          "description": "based on redeemed prescriptions",
+          "timeFrame": "From date of diagnosis with PMR until one year after. Assessed yearly up to 120 months"
+        },
+        {
+          "measure": "Incidence of aortic dilatation in patients with c-GCA as compared to LV-GCA",
+          "description": "Aortic dilatation is defined as diameters above the 90th percentile of the respective aortic region.The angiography can be performed as either CT or MR angiography and will be performed according to local set-up and imaging acquisition protocols.",
+          "timeFrame": "2 years after diagnosis"
+        },
+        {
+          "measure": "Risk of aortic complications (aneurisms and dissections) in GCA patients with aortic involvement as compared to patients without aortic involvement.",
+          "description": "The PET/CT scan at diagnosis compared to scan at year 2",
+          "timeFrame": "2 years after diagnosis"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Are diagnosed with GCA or PMR within the last 5 years\n* Diagnosis is established by or confirmed by a rheumatologist (clinical expert opinion)\n* Speak and understand Danish\n* Are able to give signed and dated informed consent\n\nExclusion Criteria:\n\n* Denies or are not able to give informed consent\n* Are diagnosed with other systemic autoimmune diseases that out-rules the diagnosis of GCA or PMR",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "50 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients can be included at any time during the disease course. Patients will be registered as either incident (newly diagnosed within the last 3 months) or prevalent (included during routine follow-up \\> 3 months after diagnosis) cases.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Agnete Overgaard Donskov, MD",
+          "role": "CONTACT",
+          "phone": "+4530225709",
+          "email": "agnead@rm.dk"
+        },
+        {
+          "name": "Kresten Krarup Keller, Ass prof",
+          "role": "CONTACT",
+          "email": "kreskell@rm.dk"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Berit Dalsgaard Nielsen, Ass prof",
+          "affiliation": "Led og Bindev\u00e6v, Aarhus University Hospital, Palle Juul-Jensens Boulevard 59, 8200 Aarhus N, DK",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Led og Bindev\u00e6vssygdomme, Aarhus University Hospital",
+          "status": "RECRUITING",
+          "city": "Aarhus",
+          "zip": "8200",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Kresten Krarup Keller, Ass Prof",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 56.15674,
+            "lon": 10.21076
+          }
+        },
+        {
+          "facility": "Medicinsk klinik 2, Regionshospitalet Horsens",
+          "status": "RECRUITING",
+          "city": "Horsens",
+          "zip": "8700",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Berit Dalsgaard Nielsen, Ass Prof",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.86066,
+            "lon": 9.85034
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "39026552",
+          "type": "DERIVED",
+          "citation": "Nielsen BD, Kristensen S, Donskov A, Terslev L, Dreyer LW, Colic A, Hetland ML, Hojgaard P, Ellingsen T, Hauge EM, Chrysidis S, Keller KK. The DANIsh VASculitis cohort study: protocol for a national multicenter prospective study including incident and prevalent patients with giant cell arteritis and polymyalgia rheumatica. Front Med (Lausanne). 2024 Jul 3;11:1415076. doi: 10.3389/fmed.2024.1415076. eCollection 2024."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D013700",
+          "term": "Giant Cell Arteritis"
+        },
+        {
+          "id": "D011111",
+          "term": "Polymyalgia Rheumatica"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020293",
+          "term": "Vasculitis, Central Nervous System"
+        },
+        {
+          "id": "D020274",
+          "term": "Autoimmune Diseases of the Nervous System"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D001167",
+          "term": "Arteritis"
+        },
+        {
+          "id": "D014657",
+          "term": "Vasculitis"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D009135",
+          "term": "Muscular Diseases"
+        },
+        {
+          "id": "D009140",
+          "term": "Musculoskeletal Diseases"
+        },
+        {
+          "id": "D012216",
+          "term": "Rheumatic Diseases"
+        },
+        {
+          "id": "D003240",
+          "term": "Connective Tissue Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

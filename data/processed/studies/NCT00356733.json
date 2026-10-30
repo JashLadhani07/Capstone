@@ -1,0 +1,330 @@
+{
+  "nct_id": "NCT00356733",
+  "title": "Mechanisms of Erythropoietin Action in the Cardiorenal Syndrome",
+  "sponsor": "UMC Utrecht",
+  "phase": "PHASE3",
+  "status": "COMPLETED",
+  "conditions": [
+    "Heart Failure, Congestive",
+    "Renal Insufficiency, Chronic"
+  ],
+  "interventions": [
+    "Erythropoietin administration"
+  ],
+  "primary_outcome": "changes in gene-arrays, EPC and biomarkers panels",
+  "secondary_outcomes": [
+    "cardiac performance and renal function",
+    "QoL"
+  ],
+  "start_date": "2007-01",
+  "completion_date": "2011-07",
+  "results_posted": false,
+  "enrollment": 62,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00356733",
+        "orgStudyIdInfo": {
+          "id": "NHS-2005B192"
+        },
+        "organization": {
+          "fullName": "UMC Utrecht",
+          "class": "OTHER"
+        },
+        "briefTitle": "Mechanisms of Erythropoietin Action in the Cardiorenal Syndrome",
+        "officialTitle": "Mechanisms of Erythropoietin Action in the Cardiorenal Syndrome"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2011-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2007-01"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2011-07",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2011-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2006-07-25",
+        "studyFirstSubmitQcDate": "2006-07-25",
+        "studyFirstPostDateStruct": {
+          "date": "2006-07-26",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2011-11-30",
+        "lastUpdatePostDateStruct": {
+          "date": "2011-12-02",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "G.B. Braam",
+          "investigatorTitle": "Associate Professor of Medicine",
+          "investigatorAffiliation": "University of Alberta"
+        },
+        "leadSponsor": {
+          "name": "UMC Utrecht",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Dutch Heart Foundation",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "descriptionModule": {
+        "briefSummary": "Erythropoietin (EPO) treatment in patients with the severe cardiorenal syndrome increases cardiac performance and decreases progression of renal failure by dampening the main driving forces of the cardiorenal syndrome in part via non-erythropoietic pathways.\n\nI. Does EPO administration to patients with the severe cardiorenal syndrome increase cardiac performance and decrease progression of renal disease?\n\nII. Does EPO treatment affect the main driving forces of the cardiorenal connection, that is, dampen the activated renin-angiotensin system (RAS), attenuate increased reactive oxygen species (ROS), normalize increased sympathetic activity, and decrease inflammation?\n\nIII. Does EPO treatment positively affect the cell function of patients with the cardiorenal syndrome:\n\n1. are gene expression signatures of leukocytes positively influenced by EPO treatment,\n2. does EPO shift the Jak/STAT pathway to a less pro-inflammatory profile in monocytes, and\n3. are function and number of endothelial progenitor cells (EPCs) affected by treatment with EPO in the cardiorenal syndrome?\n\nIV. Can the direct actions of EPO be differentiated from the effects on hemoglobin levels?",
+        "detailedDescription": "The combination of renal and cardiac failure is associated with an extraordinary cardiovascular morbidity and mortality. We propose that the severe cardiorenal syndrome (SCRS), the pathophysiological condition in which there is combined cardiac and renal dysfunction, amplifies the progression of the failure of the individual organ. Central in the pathogenesis of the cardiorenal syndrome is enhanced oxidative stress, inflammation and enhanced activation of the renin-angiotensin and sympathetic nervous system. Chronic renal failure is further accompanied by anemia due to a gradual decline in erythropoietin (EPO) formation by the diseased kidneys and/or by EPO resistance. Recently, the interest in EPO is increasing since it serves not only as a hematopoietic factor, but also has been shown to increase the number of endothelial progenitor cells (EPCs) in end-stage renal disease (ESRD) patients. Moreover, EPO is involved in signaling via Akt to support NO release and may act as an anti-apoptotic. Some evidence supports the idea that EPO improves cardiac and renal function in the syndrome; however, no information is available about the mechanisms. The hypothesis of the present proposal is that EPO treatment in patients with the severe cardiorenal syndrome increases cardiac performance and decreases progression of renal failure in part via non-erythropoietic pathways. The questions are whether EPO administration to patients with the severe cardiorenal syndrome:\n\n1. increases cardiac performance and decreases progression of renal disease,\n2. dampens the activated RAS and sympathetic nervous system, attenuates increased ROS and decreases signs of inflammation and\n3. positively influences cell function of leukocytes (assessed by gene expression signatures), of monocytes (shifts to a less pro-inflammatory Jak/Stat signaling) and of EPC (number and function).\n\nThis will be addressed in a two-part clinical study in patients with combined moderate chronic renal failure and heart failure (New York Heart Association \\[NYHA\\] II-III). First, patients will be treated with EPO for 12 months, and hemoglobin levels will be kept constant at initial levels or will be allowed to increase; another group will be left untreated. Besides cardiac and renal function, the RAS, the SNS, and ROS/NOS balance and inflammatory parameters will be assessed. Furthermore, cell function of leukocytes (gene expression signatures), monocytes (Jak/STAT activation) and EPCs (number and function) will be studied. Taken together, central in the proposal is that combined heart-kidney failure is accompanied by relative or absolute EPO dysfunction, disproportional to the degree of renal failure and that treatment with EPO improves cardiac performance and renal function."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Heart Failure, Congestive",
+          "Renal Insufficiency, Chronic"
+        ],
+        "keywords": [
+          "cardiorenal syndrome",
+          "erythropoietin",
+          "Heart Failure, Congestive",
+          "Renal Insufficiency, Chronic"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "FACTORIAL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 62,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "EPO rise",
+            "type": "EXPERIMENTAL",
+            "description": "EPO administration",
+            "interventionNames": [
+              "Drug: Erythropoietin administration"
+            ]
+          },
+          {
+            "label": "EPO stable",
+            "type": "EXPERIMENTAL",
+            "description": "EPO and stable Hemoglobin",
+            "interventionNames": [
+              "Drug: Erythropoietin administration"
+            ]
+          },
+          {
+            "label": "control",
+            "type": "NO_INTERVENTION",
+            "description": "standard treatment"
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Erythropoietin administration",
+            "description": "50 IU/kg/week EPO to a target haemoglobin level of 13.7 g/dL for men and 13.4 g/dL for women (group A) or to a target comparable to starting hemoglobin level (group B)",
+            "armGroupLabels": [
+              "EPO rise",
+              "EPO stable"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "changes in gene-arrays, EPC and biomarkers panels",
+            "timeFrame": "14 days, 6 and 12 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "cardiac performance and renal function",
+            "timeFrame": "6 and 12 months"
+          },
+          {
+            "measure": "QoL",
+            "timeFrame": "6 and 12 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with moderate renal failure (glomerular filtration rate \\[GFR\\] by Cockroft formula of 20-70 ml/min)\n* Patients with heart failure NYHA class II-III-IV\n* Hemoglobin (Hb) between 6.4 - 7.8 mmol/L in men and between 6.0 - 7.4 mmol/L in women\n* Age \\> 18 years, \\< 80 years\n* Written informed consent must be obtained from the subject or legally accepted representative before study-specific procedures, including screening procedures, are performed.\n\nExclusion Criteria:\n\n* Therapy within 1 year before randomisation or any planned erythropoietic therapy between randomisation and study day 1\n* Known intolerance to EPO administration\n* Previously suspected of or confirmed to have neutralizing antibodies to recombinant human erythropoietin (rHuEPO)\n* Uncontrolled hypertension (RR \\> 160 systolic, \\>100 diastolic)\n* Forms of secondary hypertension other than renal hypertension\n* Uncontrolled diabetes (HbA1c \\> 8.0 %)\n* Primary dyslipidemia\n* Kidney transplantation\n* Proteinuria \\> 3.5 g/L\n* Acute renal failure or rapidly progressive glomerulonephritis\n* Hyperparathyroidism (parathyroid hormone \\[PTH\\] \\> 40)\n* Bleeding or haemolysis as a cause of anaemia\n* Deficiency of iron, folate, and/or vitamin B12\n* Presence of chronic inflammatory disease or clinically significant infection\n* Haematologic malignancy or solid tumour \\< 5 years ago\n* Chronic liver disease\n* Haemoglobinopathies\n* Alcohol and/or drug abuse\n* Enrolment in another study\n* Child bearing potential (pre-menopausal woman who is not using adequate contraceptive precautions)\n* Any kind of disorder that compromises the ability of the subject to give written informed consent and/or to comply with study procedures",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "80 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Branko Braam, MD, PhD",
+            "affiliation": "UMC Utrecht, The Netherlands",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Carlo AJ Gaillard, MD, PhD",
+            "affiliation": "Meander Medical Center Amersfoort, The Netherlands",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Pieter AF Doevendans, MD, PhD",
+            "affiliation": "UMC Utrecht, The Netherlands",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Meander Medical Center Amersfoort",
+            "city": "Amersfoort",
+            "state": "Utrecht",
+            "zip": "3800 BM",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.155,
+              "lon": 5.3875
+            }
+          },
+          {
+            "facility": "Univ. Medical Center Utrecht",
+            "city": "Utrecht",
+            "state": "Utrecht",
+            "zip": "3508 GA",
+            "country": "Netherlands",
+            "geoPoint": {
+              "lat": 52.09083,
+              "lon": 5.12222
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "36791280",
+            "type": "DERIVED",
+            "citation": "Chung EY, Palmer SC, Saglimbene VM, Craig JC, Tonelli M, Strippoli GF. Erythropoiesis-stimulating agents for anaemia in adults with chronic kidney disease: a network meta-analysis. Cochrane Database Syst Rev. 2023 Feb 13;2(2):CD010590. doi: 10.1002/14651858.CD010590.pub3."
+          },
+          {
+            "pmid": "31423921",
+            "type": "DERIVED",
+            "citation": "Eisenga MF, Emans ME, van der Putten K, Cramer MJ, Diepenbroek A, Velthuis BK, Doevendans PA, Verhaar MC, Joles JA, Bakker SJL, Nolte IM, Braam B, Gaillard CAJM. Epoetin Beta and C-Terminal Fibroblast Growth Factor 23 in Patients With Chronic Heart Failure and Chronic Kidney Disease. J Am Heart Assoc. 2019 Aug 20;8(16):e011130. doi: 10.1161/JAHA.118.011130. Epub 2019 Aug 17."
+          },
+          {
+            "pmid": "22989293",
+            "type": "DERIVED",
+            "citation": "Emans ME, van der Putten K, Velthuis BK, de Vries JJ, Cramer MJ, America YG, Hillege HL, Meiss L, Doevendans PA, Braam B, Gaillard CA. Atherosclerotic renal artery stenosis is prevalent in cardiorenal patients but not associated with left ventricular function and myocardial fibrosis as assessed by cardiac magnetic resonance imaging. BMC Cardiovasc Disord. 2012 Sep 18;12:76. doi: 10.1186/1471-2261-12-76."
+          },
+          {
+            "pmid": "20383871",
+            "type": "DERIVED",
+            "citation": "van der Putten K, Jie KE, Emans ME, Verhaar MC, Joles JA, Cramer MJ, Velthuis BK, Meiss L, Kraaijenhagen RJ, Doevendans PA, Braam B, Gaillard CA. Erythropoietin treatment in patients with combined heart and renal failure: objectives and design of the EPOCARES study. J Nephrol. 2010 Jul-Aug;23(4):363-8."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006333",
+            "term": "Heart Failure"
+          },
+          {
+            "id": "D051436",
+            "term": "Renal Insufficiency, Chronic"
+          },
+          {
+            "id": "D059347",
+            "term": "Cardio-Renal Syndrome"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D051437",
+            "term": "Renal Insufficiency"
+          },
+          {
+            "id": "D007674",
+            "term": "Kidney Diseases"
+          },
+          {
+            "id": "D014570",
+            "term": "Urologic Diseases"
+          },
+          {
+            "id": "D052776",
+            "term": "Female Urogenital Diseases"
+          },
+          {
+            "id": "D005261",
+            "term": "Female Urogenital Diseases and Pregnancy Complications"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D052801",
+            "term": "Male Urogenital Diseases"
+          },
+          {
+            "id": "D002908",
+            "term": "Chronic Disease"
+          },
+          {
+            "id": "D020969",
+            "term": "Disease Attributes"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378627"
+}

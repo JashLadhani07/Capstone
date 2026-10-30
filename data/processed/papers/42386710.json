@@ -1,0 +1,30 @@
+{
+  "pmid": "42386710",
+  "title": "Zanubrutinib combined with R-CHOP in previously untreated diffuse large B-cell lymphoma with specific gene alteration: a phase II study.",
+  "abstract": "Diffuse large B-cell lymphoma (DLBCL) remains clinically heterogeneous, and outcomes with R-CHOP are suboptimal in patients carrying high-risk genomic alterations such as MYD88, CD79B, NOTCH1, TP53 mutations or MYC rearrangements. Many of these lesions are associated with aberrant BCR signaling, and prior studies in relapsed disease have suggested a degree of sensitivity to BTK inhibitors. These observations provided the rationale for evaluating zanubrutinib in the frontline setting for genomically defined high-risk disease. We conducted a prospective, single-center phase II study in previously untreated DLBCL patients aged 18-75 years with one or more of the above molecular features. To accommodate molecular testing time, patients received one initial cycle of R-CHOP, followed by five cycles of zanubrutinib plus R-CHOP (ZR-CHOP). Response was assessed using Lugano 2014 criteria. Primary endpoint is 3-year PFS; key secondary endpoints include ORR, OS, EFS, and safety. From February 2022 to April 2024, 59 patients were enrolled; 58 were evaluable for efficacy. Molecular subtyping identified 25 MCD-like, 16 A53-like, 3 N1-like, 10 other subtypes, and 4 MYC-rearranged cases. The ORR was 91.4% (53/58), with a CMR rate of 79.3% (46/58). MCD-like patients showed particularly favorable responses, with 84% achieving CMR. After a median follow-up of 30.1 months, the estimated 3-year PFS and OS were 80.3% (95%CI 70.5-91.5%) and 89.1% (95%CI 81.2-97.8%), respectively. MCD-like subgroup showed a 3-year OS of 100%, whereas N1-like had markedly poorer survival (2-year OS 33.3%). AEs occurred in 56/59 patients, mostly grade 1-2. Grade \u2265 3 events occurred in 57.6%, most commonly myelosuppression. No atrial fibrillation or other cardiac toxicities were observed. ZR-CHOP demonstrates encouraging activity and acceptable safety in molecularly selected high-risk DLBCL, particularly in the MCD-like subgroup. (ClinicalTrials.gov number, NCT05290337).",
+  "journal": "Blood cancer journal",
+  "pub_date": "2026-Jul",
+  "authors": [
+    "Zhang, Qunling",
+    "Jiang, Shiyu",
+    "Wei, Ran",
+    "Zhang, Wenhao",
+    "Bao, Longlong",
+    "Liu, Yizhen",
+    "Jin, Jia",
+    "Lv, Fangfang",
+    "Liu, Chuanxu",
+    "Liu, Xiaojian",
+    "Sun, Hui",
+    "Wang, Jiachen",
+    "Tao, Rong",
+    "Zhou, Xiaoyan",
+    "Cao, Junning"
+  ],
+  "nct_ids_referenced": [
+    "NCT05290337"
+  ],
+  "source": "pubmed",
+  "word_count": 278,
+  "parsed_at": "2026-10-30T10:30:11.135073"
+}

@@ -1,0 +1,218 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03815552",
+      "orgStudyIdInfo": {
+        "id": "IIT-FNH-01"
+      },
+      "organization": {
+        "fullName": "Kinderkrankenhaus auf der Bult",
+        "class": "OTHER"
+      },
+      "briefTitle": "Evaluation of the Eversense Continuous Glucose Monitoring System in Type I Diabetic Youth",
+      "officialTitle": "An Investigator Initiated Pilot Study to Evaluate the Impact on Glucose Control and Safety of the Eversense Continuous Glucose Monitoring System in Children and Adolescents",
+      "acronym": "FNH"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-10-08",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-09-11",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-09-11",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-01-21",
+      "studyFirstSubmitQcDate": "2019-01-21",
+      "studyFirstPostDateStruct": {
+        "date": "2019-01-24",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-10-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-10-15",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Kinderkrankenhaus auf der Bult",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Senseonics, Inc.",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this clinical investigation is to provide pilot clinical data to direct pivotal study development for the pediatric indication of the Senseonics Continuous Glucose Monitoring System (CGM) measurements when compared with finger stick blood glucose monitoring in an outpatient setting. (The investigation will also evaluate safety of the Senseonics CGM System usage, get feedback regarding subject and caregiver acceptability of the device and the mobile medical application (MMA).",
+      "detailedDescription": "This is a non-randomized, non-blinded, prospective, single-arm, single-center pilot study, enrolling up to 15 pediatric subjects in two cohorts (5 subjects age 6-12 and 10 subjects age 13-17) with diabetes mellitus for up to 180 days. Study will evaluate the system at home with comparison to SMBG with clinic check visits and downloading of stored data every 30 days. Subjects will have one Sensor inserted subcutaneous by trained Investigators. The System will be set to provide real-time glucose information, including alarms and alerts in the home settings. The system is for adjunctive use. All diabetes care decisions will be based on SMBG values rather than System CGM results."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Self Care"
+      ],
+      "keywords": [
+        "type 1 diabetes",
+        "pediatrics",
+        "blood sugar devices"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 15,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Eversense Continuous Glucose Monitoring",
+          "type": "EXPERIMENTAL",
+          "description": "The Eversense Continuous Glucose Monitoring System is a glucose monitoring device intended to continually measure interstitial fluid glucose levels in individuals with type 1 Diabetes.The System will be set to provide realtime glucose information, including alarms and alerts in the home settings f\u00fcr 180 days.",
+          "interventionNames": [
+            "Device: Eversense Continuous Glucose Monitoring"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Eversense Continuous Glucose Monitoring",
+          "description": "The Eversense Continuous Glucose Monitoring System is a glucose monitoring device intended to continually measure interstitial fluid glucose levels in individuals with diabetes for the operating life of the sensor.The System comprises a sensor and a transmitter. The small sensor will be subcutaneously inserted in the arm.The transmitter reads glucose data from the subcutaneous sensor.",
+          "armGroupLabels": [
+            "Eversense Continuous Glucose Monitoring"
+          ],
+          "otherNames": [
+            "Senseonics Continuous Glucose Monitoring System"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "time in range",
+          "description": "Reduction of time in range of Glucose \\< 70-mg/dL when using the Senseonics CGM System",
+          "timeFrame": "90 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "time of hypoglycemia",
+          "description": "Percentage time of hypoglycemia (Glucose \\<70 mg/dL",
+          "timeFrame": "three weeks of the blinded phase compared to the last three weeks before 90 days visit"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Pediatric subjects \u22656 and \\< 18 years with Type 1 Diabetes\n2. HbA1c \\< 11 % at Screening\n3. Subject/legal guardian has signed an informed consent form before any study related activities and is willing to comply with protocol requirements\n4. Clinically confirmed diagnosis of diabetes mellitus for \u2265 1 year\n5. Pretreated with CSII or ICT with a minimum duration of 3 month\n6. Patient and parents are physically and mental able to exercise as determined the \"Eversense\" System\n7. Patient must be willing to document every diabetes relevant information (meals, carbs, physical activity, extraordinary stress,\u2026)\n8. Patient is willing to follow protocol and procedures for study\n9. Patient has the possibility to use a smartphone which is compatible with the system in daily life\n\nExclusion Criteria:\n\n1. Patients are unwilling to follow the study procedures\n2. Patient is absent for a longer time (no possibility for visits)\n3. Patient is unable to tolerate tape adhesive in the area of sensor placement\n4. Patient has any unresolved adverse skin condition in the area of sensor placement (e.g. atopic dermatitis, psoriasis, rash,\u2026)\n5. Patient is allergic to components of sensor material (Polymethylmethacrylate, dexamethasone, local anesthesia)\n6. Eating disorder: e.g. bulimia, anorexia\n7. Infections with hepatitis B, C or HIV\n8. Coagulation disorder, wound healing disorder\n9. Pregnancy\n10. Mental incapacity or psychiatric disorders (Major Depression, anxiety disorders, schizophrenia)\n11. Language barriers\n12. Medication which is influencing metabolic control as systemic steroids, other non-Routine hormones\n13. Medication influencing coagulation as Marcumar or systemic Xa-Antagonists as well as known bleeding disorders\n14. People known to M. Addison\n15. Untreated coeliac disease (Transglutaminase at screening elevated 2x\\>upper limit)\n16. Severe diseases as cancer, heart failure, M. Parkinson, diabetic nephropathy or neuropathy or cardiomyopathy\n17. Severe hypoglycemia in the past 3 months (defined as seizure or loss of consciousness)\n18. Alcohol or drug abuse other than nicotine\n19. Precluding adequate understanding or cooperation\n20. A condition requiring or likely to require magnetic resonance imaging (MRI) during the study duration.\n21. Any condition that in the investigator's opinion would make the subject unable to complete the study\n22. Participation in another clinical investigation within 30 days or intent to participate during the study period\n23. Patients with Diabetes mellitus Type 2.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "6 Years",
+      "maximumAge": "18 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Thomas Danne, MD",
+          "affiliation": "Kinder- und Jugendkrankenhaus AUF DER BULT",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Kinder- und Jugendkrankenhaus AUF DER BULT",
+          "city": "Hanover",
+          "state": "Lower Saxony",
+          "zip": "30173",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.37052,
+            "lon": 9.73322
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

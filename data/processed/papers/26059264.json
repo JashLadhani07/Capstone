@@ -1,0 +1,36 @@
+{
+  "pmid": "26059264",
+  "title": "Feasibility and impact of implementing a private care system's diabetes quality improvement intervention in the safety net: a cluster-randomized trial.",
+  "abstract": "Integrated health care delivery systems devote considerable resources to developing quality improvement (QI) interventions. Clinics serving vulnerable populations rarely have the resources for such development but might benefit greatly from implementing approaches shown to be effective in other settings. Little trial-based research has assessed the feasibility and impact of such cross-setting translation and implementation in community health centers (CHCs). We hypothesized that it would be feasible to implement successful QI interventions from integrated care settings in CHCs and would positively impact the CHCs. We adapted Kaiser Permanente's successful intervention, which targets guideline-based cardioprotective prescribing for patients with diabetes mellitus (DM), through an iterative, stakeholder-driven process. We then conducted a cluster-randomized pragmatic trial in 11 CHCs in a staggered process with six \"early\" CHCs implementing the intervention one year before five \"'late\" CHCs. We measured monthly rates of patients with DM currently prescribed angiotensin converting enzyme (ACE)-inhibitors/statins, if clinically indicated. Through segmented regression analysis, we evaluated the intervention's effects in June 2011-May 2013. Participants included ~6500 adult CHC patients with DM who were indicated for statins/ACE-inhibitors per national guidelines. Implementation of the intervention in the CHCs was feasible, with setting-specific adaptations. One year post-implementation, in the early clinics, there were estimated relative increases in guideline-concordant prescribing of 37.6 % (95 % confidence interval (CI); 29.0-46.2 %) among patients indicated for both ACE-inhibitors and statins and 38.7 % (95 % CI; 23.2-54.2 %) among patients indicated for statins. No such increases were seen in the late (control) clinics in that period. To our knowledge, this was the first clinical trial testing the translation and implementation of a successful QI initiative from a private, integrated care setting into CHCs. This proved feasible and had significant impact but required considerable adaptation and implementation support. These results suggest the feasibility of adapting diverse strategies developed in integrated care settings for implementation in under-resourced clinics, with important implications for efficiently improving care quality in such settings. CLINICALTRIALS.gov: NCT02299791 .",
+  "journal": "Implementation science : IS",
+  "pub_date": "2015-Jun",
+  "authors": [
+    "Gold, Rachel",
+    "Nelson, Christine",
+    "Cowburn, Stuart",
+    "Bunce, Arwen",
+    "Hollombe, Celine",
+    "Davis, James",
+    "Muench, John",
+    "Hill, Christian",
+    "Mital, Meena",
+    "Puro, Jon",
+    "Perrin, Nancy",
+    "Nichols, Greg",
+    "Turner, Ann",
+    "Mercer, MaryBeth",
+    "Jaworski, Victoria",
+    "Howard, Colleen",
+    "Abiles, Emma",
+    "Shah, Amit",
+    "Dudl, James",
+    "Chan, Wiley",
+    "DeVoe, Jennifer"
+  ],
+  "nct_ids_referenced": [
+    "NCT02299791"
+  ],
+  "source": "pubmed",
+  "word_count": 323,
+  "parsed_at": "2026-10-30T10:29:23.844165"
+}

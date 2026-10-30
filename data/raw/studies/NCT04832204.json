@@ -1,0 +1,268 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04832204",
+      "orgStudyIdInfo": {
+        "id": "BeijingHY2020-02-07"
+      },
+      "organization": {
+        "fullName": "Beijing Hospital",
+        "class": "OTHER_GOV"
+      },
+      "briefTitle": "Apatinib Combined With SHR-1210 as Second-line Treatment in Solid Tumors With Only Liver Metastases",
+      "officialTitle": "An Exploratory Study of Apatinib Combined With SHR-1210 as Second-line Treatment in Solid Tumors With Only Liver Metastases"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-04",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-03-25",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-04-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2024-04",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-04-02",
+      "studyFirstSubmitQcDate": "2021-04-02",
+      "studyFirstPostDateStruct": {
+        "date": "2021-04-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-04-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-04-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Yingying Huang",
+        "investigatorTitle": "Associate Chief Physician",
+        "investigatorAffiliation": "Beijing Hospital"
+      },
+      "leadSponsor": {
+        "name": "Beijing Hospital",
+        "class": "OTHER_GOV"
+      },
+      "collaborators": [
+        {
+          "name": "Chinese Society of Clinical Oncology",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Apatinib and SHR-1210 are new drugs produced by jiangsu hengrui pharmaceutical co., LTD. Both are listed in China. The investigators want to design a trial to explore the efficacy and safety of Apatinib and SHR-1210 in patients with solid tumors with only liver metastasis (as second-line treatment). The main purpose is to evaluate the disease progression-free survival (PFS) of Apatinib and SHR-1210 in patients with solid tumors with only liver metastasis (progress after first-line treatment). The secondary purpose is to compare the total survival period (OS); 1-year survival rate, 2-year survival rate; evaluation of drug safety; exploration of related biomarkers in specific subgroups to predict effectiveness or adverse reactions.",
+      "detailedDescription": "Any solid tumor in the presence of liver metastasis indicates poor prognosis, short overall survival, immunotherapy combination with anti-tumor angiogenesis agents have some curative effection according to recent studies. It seems there has been clinical evidence to improve the immune microenvironment of the tumor, while in the case of only liver metastasis, the tumor's characteristics may not be consistent with other tumors. This study was to investigate the efficacy and safety of such patients by combining Apatinib and SHR-1210. This study will include approximately 20 patients with solid tumors with only liver metastases (progression after first-line treatment). The investigators will evaluate the efficacy and safety of Apatinib combined with SHR-1210 in these patients. If possible we would check the patients' ctDNA and some infection factors."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Solid Tumor"
+      ],
+      "keywords": [
+        "After first-line treatment failed",
+        "only liver metastases"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "solid tumor with only liver metastases after first line treatment",
+          "type": "EXPERIMENTAL",
+          "description": "Apatinib 250mg, Qd, oral administration,SHR-1210 200mg, q3w one week later, intravenous administration, continuous administration until the disease progresses or an intolerable adverse reaction occurs.",
+          "interventionNames": [
+            "Drug: Apatinib and Camrelizumab for Injection"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Apatinib and Camrelizumab for Injection",
+          "description": "Apatinib 250mg, Qd, oral administration,SHR-1210 200mg, q3w one week later, intravenous administration, continuous administration until the disease progresses or an intolerable adverse reaction occurs.",
+          "armGroupLabels": [
+            "solid tumor with only liver metastases after first line treatment"
+          ],
+          "otherNames": [
+            "Apatinib and SHR-1210"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "progression-free survival",
+          "description": "From date of registration until the date of disease progresssion or death resulting from any cause.",
+          "timeFrame": "Patients will be followed for an average period of 1 year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "overall survival",
+          "description": "From date of registration until the date of death from any cause or the last follow-up visit.",
+          "timeFrame": "Patients will be followed for an average period of 1 year"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "1-year survival rate",
+          "description": "Percentage of patients alive at 1 year.",
+          "timeFrame": "12 months"
+        },
+        {
+          "measure": "2-year survival rate",
+          "description": "Percentage of patients alive at 2 year.",
+          "timeFrame": "24 months"
+        },
+        {
+          "measure": "Safety and tolerability as measured by number and grade of toxicity events",
+          "description": "Overall Safety Profile by CTCAE V4.0",
+          "timeFrame": "12 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. age: \u226518 years old, both male and female;\n2. after pathological diagnosis and first-line treatment failure of advanced solid tumor with liver metastasis only after consultation by MDT team, the patient had measurable lesions (helical CT scan \u226510mm, meeting the RECIST 1.1 standard);\n3. ECOG PS: 0 \\~ 1;\n4. subjects' baseline blood routine and biochemical indicators shall meet the following standards: Hemoglobin \u226580g/L, Absolute neutrophils count (ANC) \u22651.5\u00d7109/L, Platelet \u226590\u00d7109/L, ALT and AST\u22642.5 times normal upper limit, and liver metastasis \u22645 times normal upper limit Serum total bilirubin \u22641.5 times normal upper limit, Serum creatinine \u22641.5 times normal upper limit, Serum albumin \u226530g/L;\n\n6\\) expected survival period \u22653 months; 7) women of child-bearing age must undergo a pregnancy test (serum or urine) within 7 days prior to enrollment and the result is negative, and be willing to use appropriate methods of contraception during the trial and 8 weeks after the last dose of the test drug.For men, either surgical sterilization or consent to appropriate methods of contraception during the trial and 8 weeks after the last administration of the trial drug; 8) subjects voluntarily joined the study and signed the informed consent, with good compliance and follow-up.\n\nExclusion Criteria:\n\n1. proven allergic to apatinib and/or its excipients;\n2. patients with hypertension and unable to reduce to the normal range after antihypertensive drug treatment (systolic blood pressure \\>140 mmHg, diastolic blood pressure \\>90 mmHg), coronary heart disease at or above grade I, grade I arrhythmia (including QTc interphase prolonging \\> 450 ms in males and \\> 470 ms in females) and grade I cardiac dysfunction;Patients with positive urinary protein;\n3. there are multiple factors affecting oral drugs (such as inability to swallow, nausea, vomiting, chronic diarrhea and intestinal obstruction, etc.);\n4. patients with a clear tendency of gastrointestinal bleeding, including the following: local active ulcer lesions, and fecal occult blood (++) is not included in the group;A history of black stool or hematemesis within 2 months;For patients with fecal occult blood (+) and no surgical resection of the primary gastric tumor, gastroscopy is required.\n5. abnormal coagulation function (INR\\>1.5, APTT\\>1.5 ULN), with bleeding tendency;\n6. patients with central nervous system metastasis;\n7. pregnant or nursing women;\n8. patients with other malignant tumors within 5 years;\n9. patients who have a history of psychotropic substance abuse and cannot be cured or have mental disorders;\n10. patients who have participated in clinical trials of other drugs within 4 weeks;\n11. according to the judgment of the researcher, patients with concomitant diseases that seriously endanger the safety of patients or affect the completion of the study;\n12. not suitable for inclusion.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Yingying Huang",
+          "role": "CONTACT",
+          "phone": "86-10-85136715",
+          "email": "xiaoyudianhh@126.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Yingying Huang",
+          "affiliation": "Beijing Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Beijing Hospital",
+          "status": "RECRUITING",
+          "city": "Beijing",
+          "state": "Beijing Municipality",
+          "zip": "100005",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "yingying huang",
+              "role": "CONTACT",
+              "phone": "86 01085136715",
+              "email": "xiaoyudianhh@126.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        },
+        {
+          "facility": "Beijing Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Beijing",
+          "state": "Beijing Municipality",
+          "zip": "100730",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Yingying Huang",
+              "role": "CONTACT",
+              "phone": "86-10-85136715",
+              "email": "xiaoyudianhh@126.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C553458",
+          "term": "apatinib"
+        },
+        {
+          "id": "C000631724",
+          "term": "camrelizumab"
+        },
+        {
+          "id": "D007267",
+          "term": "Injections"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D004333",
+          "term": "Drug Administration Routes"
+        },
+        {
+          "id": "D004358",
+          "term": "Drug Therapy"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

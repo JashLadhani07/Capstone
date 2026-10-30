@@ -1,0 +1,307 @@
+{
+  "nct_id": "NCT05101109",
+  "title": "A Phase 1 Dose Escalation and Expansion Study of ABL501, a Bispecific Antibody of PD-L1 and LAG-3 as a Single Agent in Subjects With Any Progressive, Locally Advanced (Unresectable) or Metastatic Solid Tumors",
+  "sponsor": "ABL Bio, Inc.",
+  "phase": "PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    "ABL501"
+  ],
+  "primary_outcome": "Number of subjects with dose-limiting toxicities (DLT)",
+  "secondary_outcomes": [
+    "Pharmacokinetic profile of ABL501",
+    "Objective Response Rate (ORR)",
+    "number of subject with anti-drug antibodies (ADAs)"
+  ],
+  "start_date": "2021-10-06",
+  "completion_date": "2024-05-14",
+  "results_posted": false,
+  "enrollment": 24,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05101109",
+        "orgStudyIdInfo": {
+          "id": "ABL501-1001"
+        },
+        "organization": {
+          "fullName": "ABL Bio, Inc.",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Study to Evaluate the Safety and Tolerability of ABL501, and to Determine the Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (RP2D) of ABL501 in Subjects With Any Progressive, Locally Advanced (Unresectable) or Metastatic Solid Tumors",
+        "officialTitle": "A Phase 1 Dose Escalation and Expansion Study of ABL501, a Bispecific Antibody of PD-L1 and LAG-3 as a Single Agent in Subjects With Any Progressive, Locally Advanced (Unresectable) or Metastatic Solid Tumors"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-07",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-10-06",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2024-05-14",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2024-05-14",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2021-10-06",
+        "studyFirstSubmitQcDate": "2021-10-19",
+        "studyFirstPostDateStruct": {
+          "date": "2021-11-01",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-07-29",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-07-31",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "ABL Bio, Inc.",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is a first-in-human (FIH) phase 1 open-label, multicenter, multiple-dose, dose-escalation and dose-expansion study of ABL501 to evaluate the safety, tolerability, MTD and/or RP2D, PK, immunogenicity, preliminary anti-tumor activity, and the PD effect of ABL501 in subjects with any progressive locally advanced (unresectable) or metastatic solid tumors. This study included 2 parts; a dose-escalation part and a dose expansion part.",
+        "detailedDescription": "This is consisted with dose-escalation and dose-expansion study of ABL501 to evaluate the safety, tolerability, MTD and/or RP2D, PK, immunogenicity, anti-tumor activity, and the PD effect of ABL501 in subjects with any progressive locally advanced (unresectable) or metastatic solid tumors."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Advanced Solid Tumor"
+        ],
+        "keywords": [
+          "LAG-3",
+          "PD-L1",
+          "Immune oncology",
+          "solid tumor",
+          "bispecific antibody"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "interventionModelDescription": "Drug: ABL501",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 24,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "ABL501",
+            "type": "EXPERIMENTAL",
+            "description": "ABL501 will be administered biweekly of every 28-day cycle in the dose-escalation.",
+            "interventionNames": [
+              "Drug: ABL501"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "ABL501",
+            "description": "ABL501 will be administered biweekly of every 28-day cycle in the dose-escalation. The dosing interval to be used in the dose-expansion part will be re-evaluated based on the emerging safety and PK data from the dose-escalation part of the study.",
+            "armGroupLabels": [
+              "ABL501"
+            ],
+            "otherNames": [
+              "Bispecific antibody for LAG-3 and PD-L1"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Number of subjects with dose-limiting toxicities (DLT)",
+            "description": "Number of subject with dose-limiting toxicities (DLT)",
+            "timeFrame": "from Day 1 until Day 28"
+          },
+          {
+            "measure": "Number of subjects who experience with TEAEs, SAEs, irAEs and IRRs",
+            "description": "Number of subjects who experience with Treatment-emergent adverse events (TEAEs), Serious adverse events (SAEs), immune-related adverse events (irAEs) and infusion related reactions (IRRs)",
+            "timeFrame": "From Day 1 until confirmed CR, disease progression, unacceptable toxicity or subject/investigator's decision to terminate the study participation, assessed up to 24 months"
+          },
+          {
+            "measure": "Number of subjects who experience with treatment-related TEAEs, SAEs, irAEs and IRRs",
+            "description": "Number of subjects who experience with treatment-related Treatment-emergent adverse events (TEAEs), Serious adverse events (SAEs), immune-related adverse events (irAEs) and infusion related reactions (IRRs)",
+            "timeFrame": "From Day 1 until confirmed CR, disease progression, unacceptable toxicity or subject/investigator's decision to terminate the study participation, assessed up to 24 months"
+          },
+          {
+            "measure": "Number of subjects who experience with clinically significant changes in laboratory values",
+            "description": "Number of subjects who experience with clinically significant changes in laboratory values",
+            "timeFrame": "From Day 1 until confirmed CR, disease progression, unacceptable toxicity or subject/investigator's decision to terminate the study participation, assessed up to 24 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Pharmacokinetic profile of ABL501",
+            "description": "serum concentration of ABL501 will be collected and analyzed to evaluate the PK of ABL501",
+            "timeFrame": "From Day 1 until confirmed CR, disease progression, unacceptable toxicity or subject/investigator's decision to terminate the study participation, assessed up to 24 months"
+          },
+          {
+            "measure": "Objective Response Rate (ORR)",
+            "description": "Proportion of subjects with best overall response of complete response (CR) or partial response (PR) per RECIST v1.1",
+            "timeFrame": "From Day 1 until confirmed CR, disease progression, unacceptable toxicity or subject/investigator's decision to terminate the study participation, assessed up to 24 months"
+          },
+          {
+            "measure": "number of subject with anti-drug antibodies (ADAs)",
+            "description": "Incidence of anti-drug antibodies (ADAs) will be analyzed to evaluate the immunogenicity of ABL501",
+            "timeFrame": "From Day 1 until confirmed CR, disease progression, unacceptable toxicity or subject/investigator's decision to terminate the study participation, assessed up to 24 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically and/or cytologically confirmed any progressive, locally advanced (unresectable), or metastatic solid tumors that have relapsed or are refractory following the last line of treatment and for which prior standard therapy has been ineffective, standard therapy does not exist, or is not considered appropriate.\n* Subjects with adverse events(AEs) excluding alopecia or Grade 2 toxicities that are deemed stable or irreversible (e.g., peripheral neuropathy) from prior therapy that have improved to Grade 1 or the baseline grade more than 14 days prior to the first administration of study drug.\n* Subject with adequate hematologic, hepatic, and renal functions confirmed based on the screening laboratory test within 7 days prior to the first administration of ABL501\n\nExclusion Criteria:\n\n* Subjects has received prior anticancer monoclonal antibody treatment or investigational therapy within 28 days prior to the first administration of ABL501 or who has recovered (i.e., =\\<Grade 1 or at baseline grade) from AEs due to previously administered agent more than 14 days prior to ABL501 administration.\n* Subject has had prior chemotherapy or radiation therapy within 2 weeks or targeted small molecule therapy within 5 half-lives prior to the first administration of study drug or has not recovered (i.e., =\\<Grade 1 or at baseline grade) from AEs due to previously administered agent more than 14 days prior to ABL501 administration\n* Subject discontinued from prior immunomodulatory therapy due to any intolerable immune-related AE(s) (irAEs) requiring systemic steroid treatment.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Sangmi Lee",
+            "affiliation": "Clinical development team",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Seoul National University Bundang Hospital",
+            "city": "Seoul",
+            "zip": "03080",
+            "country": "South Korea",
+            "geoPoint": {
+              "lat": 37.566,
+              "lon": 126.9784
+            }
+          },
+          {
+            "facility": "Severance Hospital",
+            "city": "Seoul",
+            "zip": "03722",
+            "country": "South Korea",
+            "geoPoint": {
+              "lat": 37.566,
+              "lon": 126.9784
+            }
+          },
+          {
+            "facility": "Asan Medical Center",
+            "city": "Seoul",
+            "zip": "05505",
+            "country": "South Korea",
+            "geoPoint": {
+              "lat": 37.566,
+              "lon": 126.9784
+            }
+          },
+          {
+            "facility": "Samsung Medical Center",
+            "city": "Seoul",
+            "zip": "06351",
+            "country": "South Korea",
+            "geoPoint": {
+              "lat": 37.566,
+              "lon": 126.9784
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "35526096",
+            "type": "DERIVED",
+            "citation": "Sung E, Ko M, Won JY, Jo Y, Park E, Kim H, Choi E, Jung UJ, Jeon J, Kim Y, Ahn H, Choi DS, Choi S, Hong Y, Park H, Lee H, Son YG, Park K, Won J, Oh SJ, Lee S, Kim KP, Yoo C, Song HK, Jin HS, Jung J, Park Y. LAG-3xPD-L1 bispecific antibody potentiates antitumor responses of T cells through dendritic cell activation. Mol Ther. 2022 Aug 3;30(8):2800-2816. doi: 10.1016/j.ymthe.2022.05.003. Epub 2022 May 6."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D018033",
+            "term": "Antibodies, Bispecific"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D000906",
+            "term": "Antibodies"
+          },
+          {
+            "id": "D007136",
+            "term": "Immunoglobulins"
+          },
+          {
+            "id": "D007162",
+            "term": "Immunoproteins"
+          },
+          {
+            "id": "D001798",
+            "term": "Blood Proteins"
+          },
+          {
+            "id": "D011506",
+            "term": "Proteins"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D012712",
+            "term": "Serum Globulins"
+          },
+          {
+            "id": "D005916",
+            "term": "Globulins"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256687"
+}

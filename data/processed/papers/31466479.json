@@ -1,0 +1,39 @@
+{
+  "pmid": "31466479",
+  "title": "Internal Versus External Electrical Cardioversion of Atrial Arrhythmia in Patients With Implantable Cardioverter-Defibrillator: A Randomized Clinical Trial.",
+  "abstract": "Atrial arrhythmias are common in patients with implantable cardioverter-defibrillator (ICD). External shocks and internal cardioversion through commanded ICD shock for electrical cardioversion are used for rhythm-control. However, there is a paucity of data on efficacy of external versus internal cardioversion and on the risk of lead and device malfunction. We hypothesized that external cardioversion is noninferior to internal cardioversion for safety, and superior for successful restoration of sinus rhythm. Consecutive patients with ICD undergoing elective cardioversion for atrial arrhythmias at 13 centers were randomized in 1:1 fashion to either internal or external cardioversion. The primary safety end point was a composite of surrogate events of lead or device malfunction. Conversion of atrial arrhythmia to sinus rhythm was the primary efficacy end point. Myocardial damage was studied by measuring troponin release in both groups. N=230 patients were randomized. Shock efficacy was 93% in the external cardioversion group and 65% in the internal cardioversion group ( This is the first randomized trial on external vs internal cardioversion in patients with ICDs. External cardioversion was superior for the restoration of sinus rhythm. The unmasking of silent lead malfunction in the internal cardioversion group suggests that an internal shock attempt may be reasonable in selected ICD patients presenting for electrical cardioversion. URL: https://www.clinicaltrials.gov. Unique identifier: NCT03247738.",
+  "journal": "Circulation",
+  "pub_date": "2019-Sep",
+  "authors": [
+    "L\u00fcker, Jakob",
+    "Kuhr, Kathrin",
+    "Sultan, Arian",
+    "N\u00f6lker, Georg",
+    "Omran, Hazem",
+    "Willems, Stephan",
+    "Andri\u00e9, Ren\u00e9",
+    "Schrickel, Jan W",
+    "Winter, Stefan",
+    "Vollmann, Dirk",
+    "Tilz, Roland R",
+    "Jobs, Alexander",
+    "Heeger, Christian-H",
+    "Metzner, Andreas",
+    "Meyer, Sven",
+    "Mischke, Karl",
+    "Napp, Andreas",
+    "Fahrig, Andreas",
+    "Steinhauser, Susanne",
+    "Brachmann, Johannes",
+    "Baldus, Stephan",
+    "Mahajan, Rajiv",
+    "Sanders, Prashanthan",
+    "Steven, Daniel"
+  ],
+  "nct_ids_referenced": [
+    "NCT03247738"
+  ],
+  "source": "pubmed",
+  "word_count": 212,
+  "parsed_at": "2026-10-30T13:31:58.799921"
+}

@@ -1,0 +1,249 @@
+{
+  "nct_id": "NCT00776243",
+  "title": "Short-term Effect of Intensive Insulin Therapy on Incretin Secretion",
+  "sponsor": "The Catholic University of Korea",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Type 2 Diabetes"
+  ],
+  "interventions": [],
+  "primary_outcome": "Difference of incretin secretion before and after intensive insulin therapy",
+  "secondary_outcomes": [
+    "Difference in incretin secretion according to the duration of diabetes",
+    "Factors affecting incretin secretion"
+  ],
+  "start_date": "2008-10",
+  "completion_date": "2009-12",
+  "results_posted": false,
+  "enrollment": 30,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00776243",
+        "orgStudyIdInfo": {
+          "id": "KCMC08MI168"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "VCMC08OT066"
+          }
+        ],
+        "organization": {
+          "fullName": "The Catholic University of Korea",
+          "class": "OTHER"
+        },
+        "briefTitle": "Short-term Effect of Intensive Insulin Therapy on Incretin Secretion",
+        "officialTitle": "Short-term Effect of Intensive Insulin Therapy on Incretin Secretion"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2009-10",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2008-10"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2009-12",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2009-12",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2008-10-20",
+        "studyFirstSubmitQcDate": "2008-10-20",
+        "studyFirstPostDateStruct": {
+          "date": "2008-10-21",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2010-05-10",
+        "lastUpdatePostDateStruct": {
+          "date": "2010-05-12",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "oldNameTitle": "Kun-Ho Yoon",
+          "oldOrganization": "Kangnam St.Mary's hospital"
+        },
+        "leadSponsor": {
+          "name": "The Catholic University of Korea",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "In type 2 diabetic patients, abnormality in secretion or action of incretin(GLP-1, GIP) is observed. Although controversy still exists, the secretion of GLP-1 is thought to be reduced by 20-30% while GIP secretion is normal or slightly elevated, in type 2 diabetic patients. Various parameters such as the duration of diabetes, the amount of meal and their constitution, gastric bypass surgery, and some antidiabetic drugs affect the secretion of incretin. However, the secretion of GLP-1 and GIP in glucotoxic condition and whether they recover after improvement of glycemic status is not known. The investigators aim to study the effect of intensive insulin treatment in uncontrolled diabetic patients."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes"
+        ],
+        "keywords": [
+          "incretin",
+          "GLP-1",
+          "GIP",
+          "intensive insulin therapy"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "designInfo": {
+          "observationalModel": "CASE_CONTROL",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "bioSpec": {
+          "retention": "SAMPLES_WITHOUT_DNA",
+          "description": "plasma serum"
+        },
+        "enrollmentInfo": {
+          "count": 30,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "wDM",
+            "description": "Early diabetes"
+          },
+          {
+            "label": "pDM",
+            "description": "Poorly controlled diabetic patients"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Difference of incretin secretion before and after intensive insulin therapy",
+            "timeFrame": "2 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Difference in incretin secretion according to the duration of diabetes",
+            "timeFrame": "basal"
+          },
+          {
+            "measure": "Factors affecting incretin secretion",
+            "timeFrame": "basal"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* type 2 diabetic patients with disease duration of less than 15years\n* age of 20-70 years\n* BMI 22-27\n* HbA1c 9-13%\n* patients willing to receive intensive glucose control\n* patients who are able to monitor their glucose level at home\n\n  * for normal glucose tolerance group : NGT subjects with same range of age and BMI\n  * for early diabetes group : patients with diabetic duration of less than 5 years and HbA1c level less than 7.5% for at least last 6 months\n\nExclusion Criteria:\n\n* previous history of insulin treatment\n* patients taking alpha-glucosidase inhibitor or thiazolidinedione\n* serum creatinine \\>= 1.5 mg/dL\n* hemoglobin \\< 10 g/dL\n* AST/ALT greater than 3 times normal range\n* ischemic heart disease, congestive heart failure (NYHA grade \\>=2)\n* chronic renal failure, proliferative diabetic retinopathy, CVA\n* patients with gastroparesis or taking medications altering gastric motility\n* usage of steroid or other agents affecting glucose metabolism\n* pregnant or breast-feeding women",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "20 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "1. Subjects with normal glucose tolerance\n2. Early diabetic patients with disease duration of less than 5years\n3. Uncontrolled diabetic patients",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Kun-Ho Yoon, M.D., Ph.D.",
+            "affiliation": "The Catholic University of Korea",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Division of Endocrinology and Metabolism, St.Vincent's Hospital",
+            "city": "Suwon",
+            "state": "Kyonggi-do",
+            "zip": "442-723",
+            "country": "South Korea",
+            "geoPoint": {
+              "lat": 37.27818,
+              "lon": 127.03164
+            }
+          },
+          {
+            "facility": "Division of Endocrinology and Metabolism, Kangnam St.Mary's Hospital",
+            "city": "Seoul",
+            "zip": "137-701",
+            "country": "South Korea",
+            "geoPoint": {
+              "lat": 37.566,
+              "lon": 126.9784
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "18725906",
+            "type": "BACKGROUND",
+            "citation": "Meier JJ, Nauck MA. Is secretion of glucagon-like peptide-1 reduced in type 2 diabetes mellitus? Nat Clin Pract Endocrinol Metab. 2008 Nov;4(11):606-7. doi: 10.1038/ncpendmet0946. Epub 2008 Aug 26. No abstract available."
+          },
+          {
+            "pmid": "18057091",
+            "type": "BACKGROUND",
+            "citation": "Vollmer K, Holst JJ, Baller B, Ellrichmann M, Nauck MA, Schmidt WE, Meier JJ. Predictors of incretin concentrations in subjects with normal, impaired, and diabetic glucose tolerance. Diabetes. 2008 Mar;57(3):678-87. doi: 10.2337/db07-1124. Epub 2007 Dec 5."
+          },
+          {
+            "pmid": "15561910",
+            "type": "BACKGROUND",
+            "citation": "Nauck MA, Baller B, Meier JJ. Gastric inhibitory polypeptide and glucagon-like peptide-1 in the pathogenesis of type 2 diabetes. Diabetes. 2004 Dec;53 Suppl 3:S190-6. doi: 10.2337/diabetes.53.suppl_3.s190."
+          },
+          {
+            "pmid": "11502801",
+            "type": "BACKGROUND",
+            "citation": "Toft-Nielsen MB, Damholt MB, Madsbad S, Hilsted LM, Hughes TE, Michelsen BK, Holst JJ. Determinants of the impaired secretion of glucagon-like peptide-1 in type 2 diabetic patients. J Clin Endocrinol Metab. 2001 Aug;86(8):3717-23. doi: 10.1210/jcem.86.8.7750."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718666"
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "20383871",
+  "title": "Erythropoietin treatment in patients with combined heart and renal failure: objectives and design of the EPOCARES study.",
+  "abstract": "Anemia is common in patients with the combination of chronic heart failure and chronic kidney disease and is associated with increased mortality. Recent clinical studies suggest that recombinant human erythropoietin (EPO) treatment has desirable as well as undesirable effects, related to its hematopoietic or nonhematopoietic effects. Therefore a translational study is needed to elucidate mechanistic aspects of EPO treatment. In this open-label randomized 12-month trial (the Mechanisms of Erythropoietin Action in the Cardiorenal Syndrome [EPOCARES]), patients with the combination of chronic heart failure and chronic kidney disease (glomerular filtration rate 20-70 ml/min) and mild anemia (hemoglobin 10.3-12.6 g/dL in men, and 10.3-11.9 g/dL in women) are being randomized into 3 groups: 1 group (n=25) receives a fixed dose of 50 IU/kg per week EPO to increase hemoglobin level to a maximum of 13.7 g/dL for men and 13.4 g/dL for women; another group (n=25) is treated with 50 IU/kg per week EPO maintaining baseline hemoglobin levels for the first 6 months by phlebotomy. The control group (n=25) receives standard care without EPO. Cardiac and renal function as well as a panel of biomarkers and iron parameters are being assessed. Furthermore, the effects of EPO on monocyte gene expression profiles and on endothelial progenitor cells are being evaluated. This translational study is designed primarily to discern hematopoietic from nonhematopoietic effects of EPO in cardiorenal patients. The study will add insights into the mechanisms that could explain the fragile balance between desirable and undesirable effects of EPO (Trial registration: ClinicalTrials.gov identifier NCT00356733).",
+  "journal": "Journal of nephrology",
+  "pub_date": "2010-01",
+  "authors": [
+    "van der Putten, Karien",
+    "Jie, Kim E",
+    "Emans, Mireille E",
+    "Verhaar, Marianne C",
+    "Joles, Jaap A",
+    "Cramer, Maarten Jan M",
+    "Velthuis, Birgitta K",
+    "Meiss, Louis",
+    "Kraaijenhagen, Rob J",
+    "Doevendans, Pieter A F M",
+    "Braam, Branko",
+    "Gaillard, Carlo A J M"
+  ],
+  "nct_ids_referenced": [
+    "NCT00356733"
+  ],
+  "source": "pubmed",
+  "word_count": 250,
+  "parsed_at": "2026-10-30T13:31:48.792571"
+}

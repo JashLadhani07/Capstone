@@ -1,0 +1,26 @@
+{
+  "pmid": "22025430",
+  "title": "Shared electronic vascular risk decision support in primary care: Computerization of Medical Practices for the Enhancement of Therapeutic Effectiveness (COMPETE III) randomized trial.",
+  "abstract": "Computerized decision support systems (CDSSs) linked with electronic medical records (EMRs) are promoted as an effective means of improving patient care. However, very few high-quality studies are set in routine, community-based clinical care, and no consistent evidence of an effect on patient outcomes has been found. A randomized controlled trial among EMR-using primary care practices in Ontario, Canada. Patients 55 years or older with previous vascular events, diabetes mellitus, hypertension, or hypercholesterolemia were randomized to the Computerization of Medical Practices for the Enhancement of Therapeutic Effectiveness (COMPETE III) CDSS intervention or to usual care. The intervention included personally tailored electronic vascular risk monitoring and treatment advice shared between the physician and patient, risk calculation, and a clinical resource. The primary outcome was a composite score of 8 recommended process outcomes at 1 year. Data collectors were blinded to group allocation. Analysis used the intention-to-treat principle with multiple imputation for missing data. We randomized and included in the analysis 1102 patients in 49 community-based physician practices (53.4% female; mean age, 69.1 years; 28.0% with a previous vascular event). The intervention group (545 [49.5%]) had a significantly greater improvement in mean process composite, with a difference of 4.70 (P < .001) on a 27-point scale. Intervention patients had significantly higher odds of rating their continuity of care (4.18; P < .001) and their ability to improve their vascular health (3.07; P < .001) as improved. Despite this improvement, the clinical outcomes-vascular events, clinical variables, and quality of life-were not improved. Despite favorable reviews and important improvements in the complex processes required to reduce vascular risk, clinical outcomes remain unchanged.",
+  "journal": "Archives of internal medicine",
+  "pub_date": "2011-Oct",
+  "authors": [
+    "Holbrook, Anne",
+    "Pullenayegum, Eleanor",
+    "Thabane, Lehana",
+    "Troyan, Sue",
+    "Foster, Gary",
+    "Keshavjee, Karim",
+    "Chan, David",
+    "Dolovich, Lisa",
+    "Gerstein, Hertzel",
+    "Demers, Catherine",
+    "Curnew, Greg"
+  ],
+  "nct_ids_referenced": [
+    "NCT00132145"
+  ],
+  "source": "pubmed",
+  "word_count": 267,
+  "parsed_at": "2026-10-30T10:31:18.404153"
+}

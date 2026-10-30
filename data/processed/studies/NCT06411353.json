@@ -1,0 +1,344 @@
+{
+  "nct_id": "NCT06411353",
+  "title": "The Relationship Between Blood Flow Conditions and Sounds in Arteriovenous Fistulae for Hemodialysis",
+  "sponsor": "Mario Negri Institute for Pharmacological Research",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "End Stage Renal Disease"
+  ],
+  "interventions": [
+    "MRI acquisition",
+    "US examination"
+  ],
+  "primary_outcome": "Correlation coefficient between LHPR and the vein's surface area with OSI > 0.1",
+  "secondary_outcomes": [],
+  "start_date": "2025-03-01",
+  "completion_date": "2028-02",
+  "results_posted": false,
+  "enrollment": 15,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06411353",
+        "orgStudyIdInfo": {
+          "id": "APOLLO"
+        },
+        "organization": {
+          "fullName": "Mario Negri Institute for Pharmacological Research",
+          "class": "OTHER"
+        },
+        "briefTitle": "Blood Flow Conditions and Sounds in AVFs",
+        "officialTitle": "The Relationship Between Blood Flow Conditions and Sounds in Arteriovenous Fistulae for Hemodialysis",
+        "acronym": "APOLLO"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-08",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2025-03-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2028-02",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2028-02",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2024-05-08",
+        "studyFirstSubmitQcDate": "2024-05-08",
+        "studyFirstPostDateStruct": {
+          "date": "2024-05-13",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-08-27",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-09-04",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Mario Negri Institute for Pharmacological Research",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is a prospective non-pharmacological interventional study aimed at investigating the relationship between the blood flow condition and the arteriovenous fistula (AVF) sound, with the ultimate aim of predicting the AVF clinical, in patients with end-stage renal disease (ESRD) who require the creation of a vascular access for extracorporeal circulation.",
+        "detailedDescription": "The native arteriovenous fistula (AVF) is the lifeline for patients on hemodialysis treatment, but it is still affected by high non-maturation and early failure rates, requiring in most of the cases, the creation of a new vascular access.\n\nDespite the exact mechanism underlying stenosis development and consequent AVF failure remains tentative, there is a general consensus that hemodynamic conditions play a key role. The hemodynamic conditions can be studied using computational fluid dynamic simulations (CFD), advanced computational techniques that allow to simulate blood flowing in virtual 3D models generated from medical images. The current gold standard in the clinical studies with CFD is to obtain reliable 3D AVF models from non-contrast enhanced MRI and our group developed a novel MRI protocol for this purpose. However, recent studies performed by other groups suggest that US technique can also provide accurate and reliable models and the hit on the market, and the tUS Piur Device, which was recently made available to the investigators' research group, offers new avenues for non-invasive and inexpensive 3D patient-specific AVF model generation. Previous computational fluid dynamics investigations inside patient-specific AVF models conducted by the investigators revealed transitional turbulent-like flow in the vein. In particular, the investigators evaluated the venous surface areas occupied by high values of the Oscillatory Shear Index (OSI), a well-accepted hemodynamic metric for the identification of disturbed flow conditions, and they found that wide areas of the venous segment of AVFs are characterized by OSI \\> 0.1. More recently, by using fluid structure interaction simulations, the investigators have shown that such turbulent-like blood flow conditions cause the venous wall to vibrate at high frequencies and that wall vibrations phenotypically collocate with typical regions of stenosis formation. The investigators' hypothesis is that flow-induced vibrations are transmitted to the skin surface of the patient and then result in those palpable thrills and audible bruits that, over the years, nurses and nephrologists got used to qualitatively evaluate using their stethoscopes. However, up to now sound evaluation has only been qualitative and therefore very subjective, but it may provide a strong indication of aberrant hemodynamic conditions and could have a potential as a non-invasive and unexpensive surveillance method.\n\nTherefore, studies aimed at clarifying the relationship between the blood flow conditions and the AVF sound will help advancing the knowledge in the field, providing indications on the role of hemodynamics in AVF failure and bringing out novel methods such as sound analysis for AVF surveillance."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "End Stage Renal Disease"
+        ],
+        "keywords": [
+          "Arteriovenous fistula",
+          "Computational modelling",
+          "Hemodynamic conditions",
+          "Stenosis"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "DIAGNOSTIC",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 15,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Patients",
+            "type": "EXPERIMENTAL",
+            "description": "Patients will first undergo visit V1 (screening and enrolment). On day 0 they will have the surgery for VA creation (V2) and then the study follow-up visits will take place i.e., between 0 and 14 days, at 3 months, 6 months, 1 year and 2 years after VA surgery (V3-V7).",
+            "interventionNames": [
+              "Diagnostic Test: MRI acquisition",
+              "Diagnostic Test: US examination"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "MRI acquisition",
+            "description": "Non-contrast enhanced acquisitions will be performed using a whole-body MRI scanner operating at 1.5 Tesla or greater.",
+            "armGroupLabels": [
+              "Patients"
+            ]
+          },
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "US examination",
+            "description": "A complete assessment of the AVF vessels is performed using advanced 3D US procedures.",
+            "armGroupLabels": [
+              "Patients"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Correlation coefficient between LHPR and the vein's surface area with OSI > 0.1",
+            "description": "LHPR: ratio between the amplitude of maximum peak in the range of low-frequency (100-250 Hz) and the amplitude of the maximum peak at high frequency (500-750 Hz). OSI: oscillatory shear index, common metric for disturbed blood flow.",
+            "timeFrame": "At each established study visit (i.e., at day 14, at months 3, 6, 12, 24)"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Provision of informed consent prior to any study specific procedures.\n* Female and/or male aged between 18 and 90 years.\n* Patients in HD treatment who need a new VA or patients who entered the pre-dialysis program because of ESRD. In all cases, the first-choice treatment is the surgical creation of an autogenous AVF in patient's forearm.\n\nExclusion Criteria:\n\n* Contraindications for the creation of an autogenous AVF.\n* Presence of a previously failed AVF in the same arm selected for surgery.\n* Patients with contraindications to MRI including: pregnancy, claustrophobia, cardiac pacemakers or other MRI-incompatible prostheses.\n* Patients already on HD treatment through a catheter or a graft.\n* Patients undergoing peritoneal dialysis.\n* Patients with a life expectancy of less than 2 years.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "90 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Michela Bozzetto",
+            "role": "CONTACT",
+            "phone": "+3903545351",
+            "email": "michela.bozzetto@marionegri.it"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Simona Zerbi, MD",
+            "affiliation": "ASST Papa Giovanni XXIII",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "A.O. Papa Giovanni XXIII - U.O. Nefrologia e Dialisi",
+            "status": "RECRUITING",
+            "city": "Bergamo",
+            "state": "Bergamo",
+            "zip": "20147",
+            "country": "Italy",
+            "contacts": [
+              {
+                "name": "Piero Ruggenenti, MD",
+                "role": "CONTACT",
+                "email": "pruggenenti@hpg23.it"
+              }
+            ],
+            "geoPoint": {
+              "lat": 45.69601,
+              "lon": 9.66721
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "19002516",
+            "type": "BACKGROUND",
+            "citation": "Antiga L, Piccinelli M, Botti L, Ene-Iordache B, Remuzzi A, Steinman DA. An image-based modeling framework for patient-specific computational hemodynamics. Med Biol Eng Comput. 2008 Nov;46(11):1097-112. doi: 10.1007/s11517-008-0420-1. Epub 2008 Nov 11."
+          },
+          {
+            "pmid": "21771751",
+            "type": "BACKGROUND",
+            "citation": "Ene-Iordache B, Remuzzi A. Disturbed flow in radial-cephalic arteriovenous fistulae for haemodialysis: low and oscillating shear stress locates the sites of stenosis. Nephrol Dial Transplant. 2012 Jan;27(1):358-68. doi: 10.1093/ndt/gfr342. Epub 2011 Jul 18."
+          },
+          {
+            "pmid": "25045278",
+            "type": "BACKGROUND",
+            "citation": "Santoro D, Benedetto F, Mondello P, Pipito N, Barilla D, Spinelli F, Ricciardi CA, Cernaro V, Buemi M. Vascular access for hemodialysis: current perspectives. Int J Nephrol Renovasc Dis. 2014 Jul 8;7:281-94. doi: 10.2147/IJNRD.S46643. eCollection 2014."
+          },
+          {
+            "pmid": "28288599",
+            "type": "BACKGROUND",
+            "citation": "Bozzetto M, Rota S, Vigo V, Casucci F, Lomonte C, Morale W, Senatore M, Tazza L, Lodi M, Remuzzi G, Remuzzi A. Clinical use of computational modeling for surgical planning of arteriovenous fistula for hemodialysis. BMC Med Inform Decis Mak. 2017 Mar 14;17(1):26. doi: 10.1186/s12911-017-0420-x."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007676",
+            "term": "Kidney Failure, Chronic"
+          },
+          {
+            "id": "D001164",
+            "term": "Arteriovenous Fistula"
+          },
+          {
+            "id": "D003251",
+            "term": "Constriction, Pathologic"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D051436",
+            "term": "Renal Insufficiency, Chronic"
+          },
+          {
+            "id": "D051437",
+            "term": "Renal Insufficiency"
+          },
+          {
+            "id": "D007674",
+            "term": "Kidney Diseases"
+          },
+          {
+            "id": "D014570",
+            "term": "Urologic Diseases"
+          },
+          {
+            "id": "D052776",
+            "term": "Female Urogenital Diseases"
+          },
+          {
+            "id": "D005261",
+            "term": "Female Urogenital Diseases and Pregnancy Complications"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D052801",
+            "term": "Male Urogenital Diseases"
+          },
+          {
+            "id": "D002908",
+            "term": "Chronic Disease"
+          },
+          {
+            "id": "D020969",
+            "term": "Disease Attributes"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D001165",
+            "term": "Arteriovenous Malformations"
+          },
+          {
+            "id": "D054079",
+            "term": "Vascular Malformations"
+          },
+          {
+            "id": "D018376",
+            "term": "Cardiovascular Abnormalities"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D016157",
+            "term": "Vascular Fistula"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D000013",
+            "term": "Congenital Abnormalities"
+          },
+          {
+            "id": "D009358",
+            "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+          },
+          {
+            "id": "D005402",
+            "term": "Fistula"
+          },
+          {
+            "id": "D020763",
+            "term": "Pathological Conditions, Anatomical"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.791940"
+}

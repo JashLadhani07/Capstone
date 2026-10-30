@@ -1,0 +1,21 @@
+{
+  "pmid": "30663898",
+  "title": "Sedentary lifestyle associated with mortality in rural patients with heart failure.",
+  "abstract": "The incidence of mortality five years after the onset of symptomatic heart failure is about 50%. Lifestyle behaviors differ substantially and likely lead to prognostic differences. We sought to determine the factors associated with all-cause mortality in patients with heart failure, particularly the impact of a sedentary lifestyle on mortality. This is a secondary analysis of a randomized controlled trial (REMOTE-HF) to improve self-care through education and counseling ( N=602). We conducted an unadjusted Cox proportional hazards regression analysis with sedentary lifestyle as a predictor of mortality, then added depressive symptoms as a confounder. A Kaplan-Meier survival analysis assessed time to event comparing sedentary lifestyle. Cox models included variables of clinical relevance as well as all significant variables from baseline characteristics associated with all-cause mortality. The mean \u00b1 SD age was 66 \u00b1 12.4 years, 41% were women, and 90% were of white race. There were 125 all-cause deaths over 24 months. Sedentary lifestyle was associated with a 75% increase in the expected hazard of all-cause mortality (hazards ratio 1.75; p = 0.003; 95% CI 1.21-2.54) after adjusting for moderate to severe depressive symptoms. Two Cox models showed an 89 and 95% increase, respectively, in all-cause mortality in sedentary participants holding all other variables constant. Sedentary lifestyle is strongly associated with all-cause mortality, independent of having moderate to severe depressive symptoms. Clinicians and researchers have an important role in promoting sustained and safe physical activity to improve survival. Other important modifiable targets to improve survival include depressive symptoms, low literacy, and low body mass index. Clinical Trial Registration- URL: https://www.clinicaltrials.gov . Unique Identifier: NCT00415545.",
+  "journal": "European journal of cardiovascular nursing",
+  "pub_date": "2019-Apr",
+  "authors": [
+    "Park, Linda G",
+    "Dracup, Kathleen",
+    "Whooley, Mary A",
+    "McCulloch, Charles",
+    "Lai, Sonia",
+    "Howie-Esquivel, Jill"
+  ],
+  "nct_ids_referenced": [
+    "NCT00415545"
+  ],
+  "source": "pubmed",
+  "word_count": 264,
+  "parsed_at": "2026-10-30T10:31:10.595712"
+}

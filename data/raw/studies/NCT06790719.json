@@ -1,0 +1,338 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06790719",
+      "orgStudyIdInfo": {
+        "id": "72466"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "V4421",
+          "type": "OTHER_GRANT",
+          "domain": "Great Ormond Street Hospital Charity"
+        }
+      ],
+      "organization": {
+        "fullName": "University of Southampton",
+        "class": "OTHER"
+      },
+      "briefTitle": "Paediatric Breakthrough Pain Assessment",
+      "officialTitle": "Development and Validation of a Paediatric Breakthrough Pain Assessment Tool",
+      "acronym": "BEACON"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-01",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-01-20",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-12",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2025-12",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-01-10",
+      "studyFirstSubmitQcDate": "2025-01-17",
+      "studyFirstPostDateStruct": {
+        "date": "2025-01-24",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-01-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-01-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Southampton",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Great Ormond Street Hospital for Children NHS Foundation Trust",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Many children and young people with life-limiting and life-threatening illnesses get sudden bursts of pain called breakthrough pain. At the moment, there aren't any good ways to measure this pain in children and young people. The investigators are developing two questionnaires to help: one for patients to fill out themselves and another for parents or healthcare professionals to complete for younger children and young people who cannot explain their pain for themselves.\n\nThe investigators plan to work with 210 people across hospitals and hospices in England and Wales. This includes children and young people with life-limiting and life-threatening illnesses, their caregivers, and healthcare professionals. The investigators have already made a first version of the questionnaires.\n\nThe project has three main Studies:\n\nIn Study 1, the investigators will talk to 5-10 young patients and 5-10 caregivers about their experiences with breakthrough pain. The investigators will use their feedback to improve the questionnaires.\n\nIn Study 2, the investigators will ask 5-10 patients, 5-10 caregivers, and 5-10 healthcare professionals to fill out the questionnaires while speaking their thoughts out loud. This will help the investigators find any parts that are confusing or difficult to understand.\n\nIn Study 3, the investigators will test how well the questionnaires works. 80 patients, 40 caregivers, and 40 healthcare professionals will complete the questionnaires three different times to make sure they measure breakthrough pain as accurately as possible.\n\nThese questionnaire will be useful for hospitals and hospices across England and Wales to help them better manage pain, including breakthrough pain, in patients aged 3 months to 25 years who have life-limiting and life-threatening illnesses.",
+      "detailedDescription": "Children and young people (CYP) with life-limiting conditions (LLCs) and life-threatening conditions (LTCs) can experience various forms of pain, including breakthrough pain (BTP). BTP can be characterized as a sudden, temporary increase in pain severity that occurs above the pre-existing baseline level of pain. This type of pain is particularly challenging to assess and manage due to its unpredictable nature and the lack of a universally agreed-upon definition, leading to difficulties in controlling pain effectively.\n\nAvailable data indicates that BTP is highly prevalent in CYP, with one study reporting that 57% of paediatric patients experienced at least one episode of BTP within a 24-hour period. Despite this, much of the existing research on BTP primarily focuses on adult populations, resulting in insufficient clinical information on the prevalence and management of BTP in CYP with LLCs or LTCs. Furthermore, BTP can significantly impact quality of life for patients and their families, yet no research has explored the lived experience of BTP in CYP, and research involving parents and caregivers remains limited. Moreover, research has found the absence of a validated questionnaire to assess BTP, further complicating the ability to consistently assess and manage this type of pain in paediatric palliative care settings. Developing a reliable and validated questionnaire to assess BTP in CYP crucial for improving pain management and quality of life.\n\nThe aim of this study is to develop a reliable, validated, multidimensional questionnaire to assess breakthrough pain in 3-months-25-year-olds. Two versions of the questionnaire will be developed: a self-report form and a form for caregivers/healthcare professionals (for pre- or non-verbal children).\n\nThis is a mixed-methods study comprising three separate studies. The investigators have developed a first draft (alpha version) of the paediatric BTP questionnaire using standard, approved methodology. In the first study (Study 1), the investigators will carry out interviews with children and young people (CYP) with life-limiting or life-threatening conditions (LLCs or LTCs) and their caregivers to explore their experiences of BTP. Using the findings, the investigators will modify the questionnaire if needed, to make sure the participants experiences are represented within it.\n\nNext, the investigators will develop the second draft of the questionnaire (the beta version) and ask the steering group and additional pain experts for feedback. The investigators will modify the questionnaire again following this. For Study 2, the investigators will conduct cognitive interviews with CYP with LLCs or LTCs, their caregivers, and healthcare professionals. The investigators will ask participants to complete the questionnaire and 'think aloud' as they do this i.e. to say aloud everything they are thinking as they answer the questions. The investigators will use the findings to check if the questionnaire is easy to understand and to modify it if needed.\n\nFor Study 3, the investigators will check if the final version of the questionnaire can accurately characterize paediatric BTP by asking CYP with LLCs or LTCs, their caregivers, and healthcare professionals to complete it at three time points.\n\nTime 1: Participants will complete the BTP questionnaire, another pain intensity questionnaire and a quality-of-life questionnaire. Participants will also be asked additional questions about their pain/the CYP's pain. A doctor responsible for the CYP's care will assess the presence/absence of BTP in the last week. The doctor will be blinded to the participant's responses in the BTP questionnaire and the pain intensity questionnaire.\n\nTime 2: Participants will complete the questionnaire 24 hours after Time 1.\n\nTime 3: Participants will complete the BTP questionnaire, another pain intensity questionnaire and a quality-of-life questionnaire 4 weeks after Time 1. Participants will also be asked additional questions about their pain/the CYP's pain.\n\nThe results will be looked at in detail to explore the validity, reliability and responsiveness of the final versions of the BTP assessment questionnaire and ensure the questionnaire accurately assesses BTP.\n\nThe final questionnaire i.e., the Breakthrough Pain Assessment Questionnaire (BTPAQ) will be used in healthcare settings in England to help improve pain control in 3-month-25-year-olds."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Breakthrough Pain",
+        "Palliative Medicine",
+        "Oncology Pain",
+        "Pediatric ALL",
+        "Young People"
+      ],
+      "keywords": [
+        "Breakthrough pain",
+        "paediatrics",
+        "paediatric pain",
+        "palliative care",
+        "pain assessment"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "OTHER",
+        "timePerspective": "OTHER"
+      },
+      "enrollmentInfo": {
+        "count": 210,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Children and young people",
+          "description": "Children and young people with life limiting or life threatening conditions aged between 8 to 25 years"
+        },
+        {
+          "label": "Parents and caregivers",
+          "description": "Parents and carers of children and young people with life limiting or life threatening conditions aged between 3 months and 25 years"
+        },
+        {
+          "label": "Healthcare professionals",
+          "description": "Healthcare professionals caring for children and young people with life limiting or life threatening conditions aged between 3 months and 25 years"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Diagnostic accuracy of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "Kappa statistic will be calculated to assess agreement between the Breakthrough Pain Assessment Questionnaire (BTPAQ) algorithm's BTP diagnoses and the diagnoses made by doctors responsible for CYP care at Time 1. A kappa value of \u22650.61 will indicate good agreement.",
+          "timeFrame": "From participant enrollment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Test-retest reliability of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "Intraclass correlation coefficients between Time 1 and Time 2 scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) will be calculated, with coefficients above 0.8 indicating good test-retest reliability.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the second assessment 24 hours later"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Internal consistency of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "Cronbach's alpha coefficients will be calculated for the Breakthrough Pain Assessment Questionnaire (BTPAQ) items, with values \\>0.7 indicating good internal consistency.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Construct validity of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "Scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) from CYP with participant-rated adequately controlled BTP will be compared to those with inadequately controlled BTP using independent t-tests. Significant group differences (p\\<0.05) will indicate construct validity.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Discriminant validity of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "Correlation coefficients will be calculated between scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) and unrelated demographic variables (e.g., sex), with low values indicating discriminant validity.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Responsiveness of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "The minimally important difference (MID) on the Breakthrough Pain Assessment Questionnaire (BTPAQ) will be calculated to determine the smallest value that represents a clinically relevant change in BTP over time. The investigators will calculate the mean difference in BTPAQ scores between Time 1 and Time 3 for all CYP. The MID will be determined by comparing the mean score differences between participants who reported their BTP as \"improved\" versus those who reported it as \"unchanged\" from Time 1 to Time 3.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Acceptability of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "The percentage of missing data on the Breakthrough Pain Assessment Questionnaire (BTPAQ) will be calculated to assess acceptability, with less than 5% missing data deemed acceptable.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Convergent validity of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "For typically developing participants aged 2-3 years, Pearson correlation coefficients will be used to compare scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) with scores on the Face, Legs, Activity, Cry, Consolability Scale (FLACC).",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Convergent validity of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "For typically developing participants aged 4-7 years, Pearson correlation coefficients will be used to compare scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) with scores on the Faces Pain Scale-Revised.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Convergent validity of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "For typically developing participants aged 8-25 years, Pearson correlation coefficients will be used to compare scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) with scores on the Verbal Numerical Rating Scale.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Convergent validity of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "For participants aged 3 months to 25 years with cognitive impairment, Pearson correlation coefficients will be used to compare scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) with scores on the Face, Legs, Activity, Cry, Consolability Scale (FLACC) Revised.",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Convergent validity of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "Based on participant age, Pearson correlation coefficients will be used to compare scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) with scores on the age-appropriate version of the Pediatric Quality of Life Inventory (PedsQL) 4.0.\n\nThe specific versions are:\n\n* PedsQL 4.0 Young Child Report for typically developing children aged 5-7 years\n* PedsQL 4.0 Child Report for typically developing children aged 8-12 years\n* PedsQL 4.0 Teen Report for typically developing adolescents aged 13-18 years\n* PedsQL 4.0 Young Adult Report for typically developing young adults aged 18-25 years",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        },
+        {
+          "measure": "Convergent validity of the Breakthrough Pain Assessment Questionnaire (BTPAQ)",
+          "description": "Based on participant age, Pearson correlation coefficients will be used to compare scores on the Breakthrough Pain Assessment Questionnaire (BTPAQ) with scores on the age-appropriate version of the Pediatric Quality of Life Inventory (PedsQL) 4.0.\n\nThe specific versions are:\n\n* PedsQL 4.0 Parent Report for typically developing 2-4 year-olds\n* PedsQL 4.0 Parent Report for 5-7 year-olds\n* PedsQL 4.0 Parent Report for 8-12 year-olds\n* PedsQL 4.0 Parent Report for 13-25 year-olds",
+          "timeFrame": "From participant enrolment in Study 3 through completion of the final assessment up to 4 weeks later"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Children and young people aged 8-25 years who have experienced 1) background pain related to a life limiting or life threatening condition and 2) around-the-clock analgesia prescribed for the previous week, as confirmed by their healthcare team (Studies 1, 2, and 3).\n* Children and young people must be able to communicate and read in English at a level close to, or in line with their chronological age.\n* For study 1, non-verbal children and young people, or those with limited verbal ability, will be recruited if they are happy to participate using the Microsoft Teams chat function.\n* Parents and caregivers of children and young people aged 3-month-25-years who have experienced 1) background pain related to a life limiting or life threatening condition and 2) around-the-clock analgesia prescribed for the previous week, as confirmed by their healthcare team. (Studies 1, 2, and 3).\n* Caregivers can be caring for verbal, non-verbal, or pre-verbal children with or without cognitive or developmental difficulties of any level.\n* Parents and caregivers must have self-reported full or partial responsibility for assessing the child or young person's pain.\n* Healthcare professionals in primary, secondary and tertiary care who are involved in the care of children and young people with life limiting or life threatening conditions (Studies 2 and 3).\n\nExclusion Criteria:\n\n* \u2022 Children, young people, parents and caregivers with limited ability to communicate and read in English.\n\n  * Children and young people judged by caregivers or healthcare professionals to lack capacity to take part, who are too unwell, or might find it too distressing.\n  * Parents and caregivers judged by healthcare professionals to lack capacity to consent, or to be 'struggling' too much. However, if they wish to take part, they can send an email or text message to the study email account or mobile phone.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "8 Years",
+      "maximumAge": "99 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "This multicenter study will recruit participants from primary care, pediatric oncology, and palliative care settings across England and Wales, as well as from community settings in the UK.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Georgia Turner, BSc",
+          "role": "CONTACT",
+          "phone": "+44 23 8059 9660",
+          "email": "beacon@soton.ac.uk"
+        },
+        {
+          "name": "Christina Liossi, DPsych",
+          "role": "CONTACT",
+          "phone": "+44 2380 594645",
+          "email": "cliossi@soton.ac.uk"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Christina Liossi, DPsych",
+          "affiliation": "University of Southampton",
+          "role": "STUDY_CHAIR"
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "33933619",
+          "type": "RESULT",
+          "citation": "Liossi C, Greenfield K, Schoth DE, Mott C, Jassal S, Fraser LK, Rajapakse D, Howard RF, Johnson M, Anderson AK, Harrop E. A Systematic Review of Measures of Breakthrough Pain and Their Psychometric Properties. J Pain Symptom Manage. 2021 Nov;62(5):1041-1064. doi: 10.1016/j.jpainsymman.2021.04.018. Epub 2021 Apr 30."
+        },
+        {
+          "pmid": "38751563",
+          "type": "RESULT",
+          "citation": "Greenfield K, Schoth DE, Hain R, Bailey S, Mott C, Rajapakse D, Harrop E, Renton K, Anderson AK, Carter B, Johnson M, Liossi C. A rapid systematic review of breakthrough pain definitions and descriptions. Br J Pain. 2024 Jun;18(3):215-226. doi: 10.1177/20494637231208093. Epub 2023 Dec 25."
+        },
+        {
+          "pmid": "38671702",
+          "type": "RESULT",
+          "citation": "Dawson E, Greenfield K, Carter B, Bailey S, Anderson AK, Rajapakse D, Renton K, Mott C, Hain R, Harrop E, Johnson M, Liossi C. Definition and Assessment of Paediatric Breakthrough Pain: A Qualitative Interview Study. Children (Basel). 2024 Apr 18;11(4):485. doi: 10.3390/children11040485."
+        },
+        {
+          "pmid": "32229524",
+          "type": "RESULT",
+          "citation": "Greenfield K, Holley S, Schoth DE, Bayliss J, Anderson AK, Jassal S, Rajapakse D, Fraser LK, Mott C, Johnson M, Wong I, Howard R, Harrop E, Liossi C. A protocol for a systematic review and meta-analysis to identify measures of breakthrough pain and evaluate their psychometric properties. BMJ Open. 2020 Mar 29;10(3):e035541. doi: 10.1136/bmjopen-2019-035541."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Study participants with rare diseases may be identifiable due to their unique conditions."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D059390",
+          "term": "Breakthrough Pain"
+        },
+        {
+          "id": "D000072716",
+          "term": "Cancer Pain"
+        },
+        {
+          "id": "D054198",
+          "term": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D007945",
+          "term": "Leukemia, Lymphoid"
+        },
+        {
+          "id": "D007938",
+          "term": "Leukemia"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D008206",
+          "term": "Lymphatic Diseases"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

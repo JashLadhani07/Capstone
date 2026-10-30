@@ -1,0 +1,309 @@
+{
+  "nct_id": "NCT01910558",
+  "title": "The Effect of Oral Alpha-Cyclodextrin on Fecal Fat Excretion",
+  "sponsor": "Pennington Biomedical Research Center",
+  "phase": "NA",
+  "status": "WITHDRAWN",
+  "conditions": [
+    "Obesity",
+    "Cardiovascular Disease"
+  ],
+  "interventions": [
+    "Alpha-cyclodextrin and digestible starch",
+    "Alpha-cyclodextrin",
+    "Digestible starch"
+  ],
+  "primary_outcome": "Fecal Fat Excretion compared at three time periods.",
+  "secondary_outcomes": [
+    "Adverse events"
+  ],
+  "start_date": "2013-10",
+  "completion_date": "2013-10",
+  "results_posted": false,
+  "enrollment": 0,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01910558",
+        "orgStudyIdInfo": {
+          "id": "PBRC 2013-043"
+        },
+        "organization": {
+          "fullName": "Pennington Biomedical Research Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "The Effect of Oral Alpha-Cyclodextrin on Fecal Fat Excretion",
+        "officialTitle": "The Effect of Oral Alpha-Cyclodextrin on Fecal Fat Excretion",
+        "acronym": "FAT ABSORBER"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2016-04",
+        "overallStatus": "WITHDRAWN",
+        "whyStopped": "Cancelled by Sponsor",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2013-10"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2013-10",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2013-10",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2013-07-22",
+        "studyFirstSubmitQcDate": "2013-07-25",
+        "studyFirstPostDateStruct": {
+          "date": "2013-07-29",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2016-04-25",
+        "lastUpdatePostDateStruct": {
+          "date": "2016-04-27",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Frank Greenway",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "Pennington Biomedical Research Center"
+        },
+        "leadSponsor": {
+          "name": "Pennington Biomedical Research Center",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Quest Nutrition LLC",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "Saturated fat leading to elevated low density lipoprotein (LDL) cholesterol is considered a cardiovascular risk factor. The properties associated with \u03b1- cyclodextrin, allow it to selectively reduce saturated fat and calories which will have a medically beneficial effect on LDL cholesterol and obesity. The purpose of the research is to evaluate this effect of \u03b1- cyclodextrin. It is hypothesized that alpha cyclodextrin supplementation will increase fecal fat on a high saturated fat diet compared to the same diet supplemented with a digestible carbohydrate control",
+        "detailedDescription": "Alpha-cyclodextrin which functions as a soluble dietary fiber, has been shown to a form a stable emulsion with dietary fat in the ratio of 1:9, with a higher affinity for saturated fat compared to unsaturated fat. In humans, supplementation with \u03b1-cyclodextrin has been shown to lead to a significant weight loss regardless of whether energy intake was maintained or increased.The aim of this study is to evaluate the results of a 72 hour fecal fat test using stool markers on the last three days of each of three six-day feeding periods. Subjects will be served a weight maintaining diet containing 40% fat (of which 40% will be saturated), 30% protein and 30% carbohydrate for 18 days. Subjects will also consume 1 gram alpha cyclodextrin with 1 gram of starch, 2 grams of alpha cyclodextrin, or 2 grams of starch in capsule form before breakfast, lunch, and dinner every day in each of the three six-day feeding periods. At this dose, alpha-cyclodextrin is recognized as safe by the FDA. All stools will be collected over a 72 hour period at the end of each feeding period and analyzed for fecal fat excretion."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Obesity",
+          "Cardiovascular Disease"
+        ],
+        "keywords": [
+          "Alpha-cyclodextrin",
+          "Dietary fiber",
+          "Fecal fat",
+          "Saturated fat"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 0,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Alpha-cyclodextrin and digestible starch",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Supplementation with three grams alpha cyclodextrin with three grams of digestible starch",
+            "interventionNames": [
+              "Dietary Supplement: Alpha-cyclodextrin"
+            ]
+          },
+          {
+            "label": "Alpha-cyclodextrin",
+            "type": "EXPERIMENTAL",
+            "description": "Supplementation with six grams of alpha-cyclodextrin",
+            "interventionNames": [
+              "Dietary Supplement: Alpha-cyclodextrin and digestible starch"
+            ]
+          },
+          {
+            "label": "Digestible Starch",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "Supplementation with six grams of digestible starch",
+            "interventionNames": [
+              "Dietary Supplement: Digestible starch"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Alpha-cyclodextrin and digestible starch",
+            "description": "Weight maintaining diet (40% fat, 30% protein, and 30% carbohydrate) supplemented with 3 gram alpha-cyclodextrin and 3 gram of starch",
+            "armGroupLabels": [
+              "Alpha-cyclodextrin"
+            ]
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Alpha-cyclodextrin",
+            "description": "Weight maintaining diet (40% fat, 30% protein, and 30% carbohydrate) supplemented with 6 grams alpha-cyclodextrin",
+            "armGroupLabels": [
+              "Alpha-cyclodextrin and digestible starch"
+            ]
+          },
+          {
+            "type": "DIETARY_SUPPLEMENT",
+            "name": "Digestible starch",
+            "description": "Weight maintaining diet (40% fat, 30% protein, and 30% carbohydrate) supplemented with 6 grams digestible starch",
+            "armGroupLabels": [
+              "Digestible Starch"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Fecal Fat Excretion compared at three time periods.",
+            "description": "Each subject will consume a different product every six consecutive days which is called a feeding period. On the fourth, fifth, and sixth day of each feeding period, a comparison of fat excretion will be measured through a stool sample. These feeding periods will occur for three consecutive six days totaling eighteen days of feeding. 6+6+6=18",
+            "timeFrame": "Assessment of change at each fourth, fifth, and sixth day of each feeding period."
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Adverse events",
+            "description": "Subjects will be asked if they experienced any adverse events. All adverse events will be recorded and evaluated.",
+            "timeFrame": "The duration of the 18 days in the study."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* BMI between 20 and 30 kg/m2 inclusive\n* Weight \u2265 65 kg for females, and \u2265 55 kg for males\n\nExclusion Criteria:\n\n* Pregnant or nursing.\n* Diabetes Mellitus\n* Any medication to reduce lipids\n* History of gastrointestinal surgery, except for cholecystectomy or appendectomy\n* History of malabsorption",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "60 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Frank L Greenway, M.D.",
+            "affiliation": "Pennington Biomedical Research Center",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Pennington Biomedical Research Center",
+            "city": "Baton Rouge",
+            "state": "Louisiana",
+            "zip": "70808",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.44332,
+              "lon": -91.18747
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "21127475",
+            "type": "BACKGROUND",
+            "citation": "Comerford KB, Artiss JD, Jen KL, Karakas SE. The beneficial effects of alpha-cyclodextrin on blood lipids and weight loss in healthy humans. Obesity (Silver Spring). 2011 Jun;19(6):1200-4. doi: 10.1038/oby.2010.280. Epub 2010 Dec 2."
+          },
+          {
+            "pmid": "17013969",
+            "type": "BACKGROUND",
+            "citation": "Grunberger G, Jen KL, Artiss JD. The benefits of early intervention in obese diabetic patients with FBCx: a new dietary fibre. Diabetes Metab Res Rev. 2007 Jan;23(1):56-62. doi: 10.1002/dmrr.687."
+          },
+          {
+            "pmid": "16423626",
+            "type": "BACKGROUND",
+            "citation": "Artiss JD, Brogan K, Brucal M, Moghaddam M, Jen KL. The effects of a new soluble dietary fiber on weight gain and selected blood parameters in rats. Metabolism. 2006 Feb;55(2):195-202. doi: 10.1016/j.metabol.2005.08.012."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009765",
+            "term": "Obesity"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D050177",
+            "term": "Overweight"
+          },
+          {
+            "id": "D044343",
+            "term": "Overnutrition"
+          },
+          {
+            "id": "D009748",
+            "term": "Nutrition Disorders"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D001835",
+            "term": "Body Weight"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C032613",
+            "term": "alpha-cyclodextrin"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378698"
+}

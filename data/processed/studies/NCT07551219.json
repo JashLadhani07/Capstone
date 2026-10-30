@@ -1,0 +1,236 @@
+{
+  "nct_id": "NCT07551219",
+  "title": "Effects of Ondansetron on Hemodynamic Changes Induced by Spinal Anesthesia in Geriatric Urologic Surgery Patients",
+  "sponsor": "Ankara City Hospital Bilkent",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Hypotension",
+    "Bradycardia",
+    "Hypotension During Surgery",
+    "Spinal Anesthesia Induced Hemodynamic Change"
+  ],
+  "interventions": [],
+  "primary_outcome": "Incidence of Spinal Anesthesia-Induced Hypotension",
+  "secondary_outcomes": [
+    "Ephedrine Requirement",
+    "Atropine Requirement"
+  ],
+  "start_date": "2024-12-18",
+  "completion_date": "2025-04-18",
+  "results_posted": false,
+  "enrollment": 140,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07551219",
+        "orgStudyIdInfo": {
+          "id": "TABED1-24-840"
+        },
+        "organization": {
+          "fullName": "Ankara City Hospital Bilkent",
+          "class": "OTHER"
+        },
+        "briefTitle": "Effects of Ondansetron on Hemodynamic Changes After Spinal Anesthesia in Geriatric Urologic Surgery",
+        "officialTitle": "Effects of Ondansetron on Hemodynamic Changes Induced by Spinal Anesthesia in Geriatric Urologic Surgery Patients"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-04",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2024-12-18",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2025-04-18",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2025-04-18",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2026-04-20",
+        "studyFirstSubmitQcDate": "2026-04-20",
+        "studyFirstPostDateStruct": {
+          "date": "2026-04-24",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-04-20",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-04-24",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "K\u00fcbra Deniz",
+          "investigatorTitle": "Anesthesiology Resident",
+          "investigatorAffiliation": "Ankara City Hospital Bilkent"
+        },
+        "leadSponsor": {
+          "name": "Ankara City Hospital Bilkent",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Spinal anesthesia is frequently used in urologic surgery in geriatric patients; however, it may cause significant hemodynamic changes such as hypotension and bradycardia. These changes can be more pronounced in elderly patients due to age-related physiological alterations. Ondansetron, a 5-HT3 receptor antagonist commonly used for the prevention of postoperative nausea and vomiting, has been suggested to attenuate spinal anesthesia-induced hemodynamic instability by modulating vagal reflexes.\n\nThis prospective observational study aimed to evaluate the effects of ondansetron on hemodynamic changes following spinal anesthesia in geriatric patients undergoing urologic surgery. Hemodynamic parameters were recorded during the intraoperative period, and the incidence of hypotension, bradycardia, and vasopressor requirements were assessed.",
+        "detailedDescription": "This study was designed as a prospective observational study conducted in geriatric patients undergoing urologic surgery under spinal anesthesia. Patient enrollment and data collection were performed prospectively between December 18, 2024, and April 18, 2025. The study protocol was approved by the TABED Ethics Committee (Approval No: 1-24-840, December 18, 2024).\n\nOndansetron was administered according to routine clinical practice. Hemodynamic parameters, including mean arterial pressure and heart rate, were recorded at predefined time points following spinal anesthesia. The incidence of spinal anesthesia-induced hypotension, bradycardia, and the need for vasopressor support were evaluated.\n\nAlthough patient enrollment and data collection were conducted prospectively, the study was registered retrospectively at ClinicalTrials.gov due to delayed trial registration."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Hypotension",
+          "Bradycardia",
+          "Hypotension During Surgery",
+          "Spinal Anesthesia Induced Hemodynamic Change"
+        ],
+        "keywords": [
+          "ondansetron",
+          "spinal anesthesia",
+          "geriatric patients",
+          "hemodynamic instability",
+          "urologic surgery"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 140,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Ondansetron Group",
+            "description": "Geriatric patients undergoing urologic surgery under spinal anesthesia who received intravenous ondansetron as part of routine clinical practice prior to spinal block. Patients were observed without investigator-directed intervention."
+          },
+          {
+            "label": "Control Group",
+            "description": "Geriatric patients undergoing urologic surgery under spinal anesthesia who did not receive ondansetron prior to spinal block and were managed according to routine clinical practice."
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Incidence of Spinal Anesthesia-Induced Hypotension",
+            "description": "The occurrence of spinal anesthesia-induced hypotension, defined as a decrease in mean arterial pressure of 20% or more from baseline during the intraoperative period.",
+            "timeFrame": "rom induction of spinal anesthesia until the end of surgery"
+          },
+          {
+            "measure": "Incidence of Spinal Anesthesia-Induced Bradycardia",
+            "description": "The occurrence of spinal anesthesia-induced bradycardia, defined as a decrease in heart rate of 20% or more from baseline during the intraoperative period.",
+            "timeFrame": "From induction of spinal anesthesia until the end of surgery"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Ephedrine Requirement",
+            "description": "The need for intraoperative ephedrine administration to treat hypotension following spinal anesthesia.",
+            "timeFrame": "From induction of spinal anesthesia until the end of surgery"
+          },
+          {
+            "measure": "Atropine Requirement",
+            "description": "The need for intraoperative atropine administration to treat bradycardia following spinal anesthesia.",
+            "timeFrame": "From induction of spinal anesthesia until the end of surgery"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 65 years and older Patients scheduled for elective urologic surgery under spinal anesthesia American Society of Anesthesiologists (ASA) physical status I-III Patients who received routine perioperative management, with or without ondansetron administration Patients who provided written informed consent\n\nExclusion Criteria:\n\n* Refusal or contraindication to spinal anesthesia Known hypersensitivity or contraindication to ondansetron Preexisting severe cardiac conduction abnormalities (e.g., high-grade atrioventricular block, sick sinus syndrome) Baseline bradycardia (heart rate \\< 50 beats per minute) Chronic use of medications significantly affecting heart rate or blood pressure (e.g., beta-blockers, calcium channel blockers, antiarrhythmic drugs) Emergency surgery Incomplete perioperative hemodynamic data",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "65 Years",
+        "stdAges": [
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "The study population consists of geriatric patients aged 65 years and older undergoing elective urologic surgery under spinal anesthesia. Patients were managed according to routine clinical practice, with or without prophylactic ondansetron administration. Perioperative hemodynamic parameters, including blood pressure and heart rate, were prospectively recorded during the intraoperative period.",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Zeynep Nur Ak\u00e7aboy, MD",
+            "affiliation": "Department of Anesthesiology, Ankara City Hospital",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Ankara Bilkent City Hospital",
+            "city": "Ankara",
+            "state": "Ankara",
+            "country": "Turkey (T\u00fcrkiye)",
+            "geoPoint": {
+              "lat": 39.91987,
+              "lon": 32.85427
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007022",
+            "term": "Hypotension"
+          },
+          {
+            "id": "D001919",
+            "term": "Bradycardia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D001145",
+            "term": "Arrhythmias, Cardiac"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378741"
+}

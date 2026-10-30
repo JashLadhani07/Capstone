@@ -1,0 +1,27 @@
+{
+  "pmid": "40166973",
+  "title": "Phase II Trial of Chemotherapy, Cetuximab, and Erlotinib in Patients With Metastatic or Recurrent Squamous Cell Carcinoma of the Head and Neck.",
+  "abstract": "Prognosis for patients with recurrent/metastatic (R/M) head and neck squamous cell cancer (HNSCC) remains poor. We hypothesized that the addition of an epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) to standard therapy would improve responses by inhibiting nuclear translocation of EGFR and designed a phase 2 trial of chemotherapy, cetuximab, and erlotinib in patients with R/M HNSCC. A 24 patients were enrolled and treated with carboplatin, paclitaxel, and cetuximab administered in 21-day\u2009cycles. Erlotinib was added with cycle 2. The primary end point was the objective response rate (ORR). The secondary end points were toxicity, overall survival (OS) and laboratory correlates. Median age was 65.5\u2009years. Median duration on treatment was 4.6\u2009months. ORR with cycle 1 of treatment was 33.3%, and for cycle 2 and beyond was 58.3%. Median progression-free survival (PFS) was 6.2\u2009months, and median OS was 10.6\u2009months. Most common treatment-related adverse events included anemia, neutropenia, skin rash, diarrhea, and hypomagnesemia. Dual EGFR blockade was tolerable and efficacious in this small patient sample. With an ORR of 58.3%, the study met its primary endpoint. PFS and OS were comparable to historical controls. Dual EGFR targeting without the chemotherapy backbone is worthy of further study. Trail Registration: ClinicalTrials.gov identifier: NCT01316757.",
+  "journal": "Head & neck",
+  "pub_date": "2025-Sep",
+  "authors": [
+    "Bhatia, Aarti",
+    "Mehra, Ranee",
+    "Bauman, Jessica",
+    "Khan, Saad A",
+    "Wei, Wei",
+    "Neumeister, Veronique",
+    "Sandoval-Schaefer, Teresa",
+    "Alpaugh, R Katherine",
+    "Lango, Miriam",
+    "Rimm, David L",
+    "Ridge, John A",
+    "Burtness, Barbara"
+  ],
+  "nct_ids_referenced": [
+    "NCT01316757"
+  ],
+  "source": "pubmed",
+  "word_count": 205,
+  "parsed_at": "2026-10-30T10:30:23.349188"
+}

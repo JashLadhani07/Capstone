@@ -1,0 +1,303 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00551538",
+      "orgStudyIdInfo": {
+        "id": "7505"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "F3Z-MC-IOOM"
+        }
+      ],
+      "organization": {
+        "fullName": "Eli Lilly and Company",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "24 Hour Plasma Glucose Profiles Comparing Lispro Mix 75/25 vs. Glargine",
+      "officialTitle": "Twenty-Four-Hour Plasma Glucose Profiles Observed in Patients With Type 2 Diabetes During Therapy Consisting of Oral Agent(s) Plus Twice-Daily Insulin Lispro Low Mixture or Once-Daily Insulin Glargine"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2010-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2003-05"
+      },
+      "completionDateStruct": {
+        "date": "2004-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2007-10-29",
+      "studyFirstSubmitQcDate": "2007-10-29",
+      "studyFirstPostDateStruct": {
+        "date": "2007-10-31",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2010-10-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2010-10-13",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "leadSponsor": {
+        "name": "Eli Lilly and Company",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine if twice-daily Lispro low mixture (75/25) will result in lower post prandial blood glucose readings versus once-daily glargine plus oral diabetic medications.",
+      "detailedDescription": "The primary objective of this study is to test the hypothesis that a twice daily insulin regimen consisting of insulin lispro (mix 75/25)plus OAMs will result in a lower 2 hour postprandial plasma glucose, averaged across the morning and evening meals, compared with once daily insulin glargine plus OAMs at bedtime following 12 weeks of treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "keywords": [
+        "Diabetes",
+        "Diabetic",
+        "Insulin",
+        "Glargine",
+        "Lispro"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 15,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "1",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Lispro mixture 75/25 twice-daily, SC injection, given in conjunction with oral antidiabetic medications.",
+          "interventionNames": [
+            "Drug: Lispro mix 75/25"
+          ]
+        },
+        {
+          "label": "2",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Glargine, once-daily, SC injection, given in conjunction with oral antidiabetic medications.",
+          "interventionNames": [
+            "Drug: Glargine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lispro mix 75/25",
+          "description": "Lispro mix 75/25 twice-daily, SC injection, given in conjunction with oral antidiabetic medications.",
+          "armGroupLabels": [
+            "1"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Glargine",
+          "description": "SC injection, once-daily, given in conjunction with oral antidiabetic medications.",
+          "armGroupLabels": [
+            "2"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Combined morning and evening mean 2 hour postprandial plasma glucose during each 24 hour inpatient period.",
+          "timeFrame": "At end of treatment arm or 3 months."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "HbA1c",
+          "timeFrame": "At end of treatment arm or 3 months."
+        },
+        {
+          "measure": "2 hour plasma glucose excursions, plasma glucose AUC, and plasma glucose AUC excursions after the three main test meals combined",
+          "timeFrame": "At end of treatment arm or 3 months."
+        },
+        {
+          "measure": "Plasma glucose AUC excursions during a 24 hours when plasma glucose exceeds the following: greater than or equal to 7.5 mmol/L (135 mg/dL), greater than or equal to 7.8 mmol/L (140 mg/dL), and greater than or equal to 10.0 mmol/L (180 mg/dL)",
+          "timeFrame": "At end of treatment arm or 3 months."
+        },
+        {
+          "measure": "The number of patients with increased plasma glucose during the last 2 hours of each inpatient period",
+          "timeFrame": "At end of treatment arm or 3 months."
+        },
+        {
+          "measure": "The mean amplitude of glycemic excursion",
+          "timeFrame": "At end of treatment arm or 3 months."
+        },
+        {
+          "measure": "Concentration of plasma triglycerides and free fatty acids",
+          "timeFrame": "At end of treatment arm or 3 months."
+        },
+        {
+          "measure": "Self blood glucose monitoring parameters: fasting, premeal, 2 hour postprandial, 2 hour postprandial excursion, bedtime, and overall daily blood glucose value",
+          "timeFrame": "At end of treatment arm or 3 months."
+        },
+        {
+          "measure": "Insulin dose and body weight",
+          "timeFrame": "At end of treatment arm or 3 months."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Have type 2 diabetes\n* Have inadequate overall glycemic control (hemoglobin A1c greater than or equal to 7.0% and less than or equal to 12.0%) at or within 4 weeks prior to Visit 1\n* Have used:\n\n  * single or multiple OAMs for at least 3 months immediately prior to entering the study, including metformin, sulfonylurea, meglitinides (repaglinide, nateglinide), or alpha glucosidase inhibitors (acarbose, miglitol); or\n  * insulin (once or twice daily) for at least 3 months immediately prior to entering the study; or\n  * a combination of the above.\n* Are greater than or equal to 21 and less than 80 years of age\n* As determined by the investigator, are capable and willing to:\n\n  * comply with their prescribed diet and medication regimen,\n  * perform self blood glucose monitoring,\n  * use the patient diary as required for this protocol,\n  * participate in two 24 hour inpatient assessments\n\nExclusion Criteria:\n\n* Have used a thiazolidinedione (pioglitazone or rosiglitazone) during the 3 months prior to entry into the study\n* Are currently treated with a meglitinide without sulfonylurea\n* Have a known allergy or intolerance to insulin lispro mix 75/25, insulin glargine, or metformin\n* Have plasma creatinine greater than or equal to 1.5 mg/dL (for males) or greater than or equal to 1.4 mg/dL (for females) for patients who will be treated with metformin or; greater than 2 mg/dL for patients treated with other OAMs, as determined by a local laboratory\n* Have received chronic (lasting longer than 2 weeks), systemic glucocorticoid therapy (excluding topical and inhaled preparations) within 4 weeks immediately prior to Visit 1",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "21 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon-Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+          "affiliation": "Eli Lilly and Company",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST), or speak with your personal physician.",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "16842478",
+          "type": "RESULT",
+          "citation": "Roach P, Malone JK. Comparison of insulin lispro mixture 25/75 with insulin glargine during a 24-h standardized test-meal period in patients with Type 2 diabetes. Diabet Med. 2006 Jul;23(7):743-9. doi: 10.1111/j.1464-5491.2006.01895.x."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Lilly Clinical Trial Registry",
+          "url": "http://www.lillytrials.com"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D007333",
+          "term": "Insulin Resistance"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D006946",
+          "term": "Hyperinsulinism"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069036",
+          "term": "Insulin Glargine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D049528",
+          "term": "Insulin, Long-Acting"
+        },
+        {
+          "id": "D061385",
+          "term": "Insulins"
+        },
+        {
+          "id": "D010187",
+          "term": "Pancreatic Hormones"
+        },
+        {
+          "id": "D036361",
+          "term": "Peptide Hormones"
+        },
+        {
+          "id": "D006728",
+          "term": "Hormones"
+        },
+        {
+          "id": "D006730",
+          "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

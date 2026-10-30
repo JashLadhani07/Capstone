@@ -1,0 +1,268 @@
+{
+  "nct_id": "NCT06262932",
+  "title": "Effectiveness of Repeated Amiodarone Dosing Regimen Versus Standard Dosing Regimen in Atrial Fibrillation Patient With Rapid Ventricular Response",
+  "sponsor": "Police General Hospital, Thailand",
+  "phase": "PHASE4",
+  "status": "COMPLETED",
+  "conditions": [
+    "Atrial Fibrillation"
+  ],
+  "interventions": [
+    "Amiodarone"
+  ],
+  "primary_outcome": "Heart rate",
+  "secondary_outcomes": [
+    "Normal sinus rhythm at 24 hours",
+    "Heart rate",
+    "Major adverse cardiovascular events",
+    "Phlebitis",
+    "Changed in heart rate"
+  ],
+  "start_date": "2024-05-01",
+  "completion_date": "2024-12-31",
+  "results_posted": false,
+  "enrollment": 24,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06262932",
+        "orgStudyIdInfo": {
+          "id": "RADS regimen"
+        },
+        "organization": {
+          "fullName": "Police General Hospital, Thailand",
+          "class": "OTHER"
+        },
+        "briefTitle": "Effectiveness of Repeated Amiodarone Dosing Regimen Versus Standard Dosing Regimen in Atrial Fibrillation Patient With Rapid Ventricular Response",
+        "officialTitle": "Effectiveness of Repeated Amiodarone Dosing Regimen Versus Standard Dosing Regimen in Atrial Fibrillation Patient With Rapid Ventricular Response"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2024-05-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2024-12-31",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2024-12-31",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2024-02-08",
+        "studyFirstSubmitQcDate": "2024-02-08",
+        "studyFirstPostDateStruct": {
+          "date": "2024-02-16",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-01-19",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-01-22",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Chawit Lopimpisuth",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "Police General Hospital, Thailand"
+        },
+        "leadSponsor": {
+          "name": "Police General Hospital, Thailand",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The goal of this clinical trial is to compare in atrial fibrillation patient with rapid ventricular response. The main question it aims to answer are Effectiveness of Repeated Amiodarone dosing regimen versus standard dosing regimen in Atrial fibrillation patient with rapid ventricular response Participants will receive Amiodarone iv treatment with different regimen\n\n* Repeated dosing regimen\n* Standard dosing regimen"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Atrial Fibrillation"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE4"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 24,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Repeated amiodarone bolus dosing regimen",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "An Initial 150 mg IV amiodarone bolus should be given over a 15-minute period. If the heart rate is still over 110 minutes after the initial treatment, provide an additional 150 mg IV amiodarone bolus over a 15-minute period. During the first 24 hours, this bolus may be administered up to three times in total. Within 24 hours of finishing the first bolus dosage, 900 mg of amiodarone will be administered intravenously.",
+            "interventionNames": [
+              "Drug: Amiodarone"
+            ]
+          },
+          {
+            "label": "Standard dosing regimen",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "An Initial 150 mg IV amiodarone bolus should be given over a 15-minute period, then a 24-hour amiodarone loading infusion 900 mg over 24 hours",
+            "interventionNames": [
+              "Drug: Amiodarone"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Amiodarone",
+            "description": "Assess the effectiveness of repeated bolus dosing strategies of amiodarone.",
+            "armGroupLabels": [
+              "Repeated amiodarone bolus dosing regimen",
+              "Standard dosing regimen"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Heart rate",
+            "description": "Percentage of patients who have Atrial fibrillation with rapid ventricular response, the percentage of patients who have heart rate below 110 bpms at 6 hours after receiving a repeated amiodarone bolus and loading dose regimen to the percentage of patients who have heart rate below 110 bpms at 6 hour after a conventional amiodarone IV loading dose regimen",
+            "timeFrame": "6-hours after receiving amiodarone bolus"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Normal sinus rhythm at 24 hours",
+            "description": "Percentage of patients who develop Atrial fibrillation with rapid ventricular response, the percentage of patients who have converted to sinus rhythm at 24-hours after receiving a repeated amiodarone bolus and loading dose regimen to the percentage of patients who have converted to sinus rhythm after a conventional amiodarone IV loading dose regimen",
+            "timeFrame": "24-hours after receiving amiodarone bolus"
+          },
+          {
+            "measure": "Heart rate",
+            "description": "Percentage of patients who have Atrial fibrillation with rapid ventricular response, the percentage of patients who have heart rate below 110 bpms at 24 hours after receiving a repeated amiodarone bolus and loading dose regimen to the percentage of patients who have heart rate below 110 bpms at 6 hour after a conventional amiodarone IV loading dose regimen",
+            "timeFrame": "24-hours after receiving amiodarone bolus"
+          },
+          {
+            "measure": "Major adverse cardiovascular events",
+            "description": "Number of MACE \\[MACE defined as acute myocardial infarction (AMI), stroke, or cardiovascular death\\]",
+            "timeFrame": "30 days after receiving amiodarone bolus"
+          },
+          {
+            "measure": "Phlebitis",
+            "description": "Rate of phlebitis complication during amiodarone infusion",
+            "timeFrame": "24-hours after receiving amiodarone bolus"
+          },
+          {
+            "measure": "Changed in heart rate",
+            "description": "Compare number of total heart rate induction in patients who received a repeated amiodarone bolus and loading dose regimen and a conventional amiodarone IV loading dose regimen at 24 hrs",
+            "timeFrame": "24-hours after receiving amiodarone bolus"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Age above 18 years old\n* Atrial fibrillation with rapid ventricular response patient (ventricular rate \\> 110)\n\nExclusion Criteria:\n\n* Baseline EKG Corrected QT interval (QTc) \\< 500 msec\n* History of pulmonary fibrosis\n* History of Cirrhosis\n* Cardiac Index \\<2.2 L/min/m2 or Cardiogenic shock\n* Unstable arrhythmia\n* Receive amiodarone within 3 months prior to present illness\n* Pregnancy\n* Amiodarone or Iodine allergy",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Police general hospital",
+            "city": "Bangkok",
+            "zip": "10330",
+            "country": "Thailand",
+            "geoPoint": {
+              "lat": 13.75398,
+              "lon": 100.50144
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001281",
+            "term": "Atrial Fibrillation"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001145",
+            "term": "Arrhythmias, Cardiac"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000638",
+            "term": "Amiodarone"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001572",
+            "term": "Benzofurans"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792397"
+}

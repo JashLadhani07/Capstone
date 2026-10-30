@@ -1,0 +1,310 @@
+{
+  "nct_id": "NCT05180214",
+  "title": "The Effect of Adding Ketorolac to Bupivacaine in Superficial Cervical Plexus Block in Thyroid Surgery.",
+  "sponsor": "Sohag University",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Thyroid Goiter",
+    "Thyroid Nodule"
+  ],
+  "interventions": [
+    "Bupivacain",
+    "Ketorolac"
+  ],
+  "primary_outcome": "1st analgesic requirement",
+  "secondary_outcomes": [
+    "analgesic consumption",
+    "postoperative pain"
+  ],
+  "start_date": "2021-01-17",
+  "completion_date": "2021-08-19",
+  "results_posted": false,
+  "enrollment": 46,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05180214",
+        "orgStudyIdInfo": {
+          "id": "2006"
+        },
+        "organization": {
+          "fullName": "Sohag University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Analgesia for Thyroidectomy Using Bilateral Superficial Cervical Plexus Block With Bupivacaine Only or Adding Ketorolac to it.",
+        "officialTitle": "The Effect of Adding Ketorolac to Bupivacaine in Superficial Cervical Plexus Block in Thyroid Surgery."
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2022-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-01-17",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2021-08-19",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2021-09-15",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2021-12-17",
+        "studyFirstSubmitQcDate": "2021-12-17",
+        "studyFirstPostDateStruct": {
+          "date": "2022-01-06",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2022-01-06",
+        "lastUpdatePostDateStruct": {
+          "date": "2022-01-21",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Fouad Soliman",
+          "investigatorTitle": "Lectuerer of Anesthesia and ICU",
+          "investigatorAffiliation": "Sohag University"
+        },
+        "leadSponsor": {
+          "name": "Sohag University",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Thyroidectomy is considered a common operation with moderate to severe postoperative pain in some patients. Patients are divided into two groups. Bupivacaine group received bilateral superficial cervical plexus block (BSCPB) with 10 ml of bupivacaine (0.25%) and 1 ml of normal saline on each side and the Bupivacaine Ketorolac group received (BSCPB) with 10 ml of bupivacaine (0.25%) and 1 ml of ketorolac (15 mg) on each side."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Thyroid Goiter",
+          "Thyroid Nodule"
+        ],
+        "keywords": [
+          "ketorolac, superficial cervical plexus block, thyroidectomy"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+          "maskingInfo": {
+            "masking": "QUADRUPLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER",
+              "INVESTIGATOR",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 46,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "bupivacaine",
+            "type": "ACTIVE_COMPARATOR",
+            "interventionNames": [
+              "Drug: Bupivacain"
+            ]
+          },
+          {
+            "label": "bupivacaine and ketorolac",
+            "type": "ACTIVE_COMPARATOR",
+            "interventionNames": [
+              "Drug: Bupivacain",
+              "Drug: Ketorolac"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Bupivacain",
+            "description": "analgesic",
+            "armGroupLabels": [
+              "bupivacaine",
+              "bupivacaine and ketorolac"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Ketorolac",
+            "description": "analgesia",
+            "armGroupLabels": [
+              "bupivacaine and ketorolac"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "1st analgesic requirement",
+            "description": "The first time of supplemental analgesic need postoperatively",
+            "timeFrame": "24 hours"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "analgesic consumption",
+            "description": "total analgesic consumption",
+            "timeFrame": "24 hours"
+          },
+          {
+            "measure": "postoperative pain",
+            "description": "visual analogue scale(0-10) 0=no pain and 10=severe intolerable pain",
+            "timeFrame": "24 hours"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 20-50 years\n* ASA I-II patients\n* Patients going to do thyroid surgeries under general anesthesia\n\nExclusion Criteria:\n\n* Patient refusal\n* Known history of sensitivity to the drug used in the study\n* Drug abuse\n* Infection at the site of the block\n* Presence of coagulopathy",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "20 Years",
+        "maximumAge": "50 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Sohag University Faculty of Medicine",
+            "city": "Sohag",
+            "zip": "52514",
+            "country": "Egypt",
+            "geoPoint": {
+              "lat": 26.55695,
+              "lon": 31.69478
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006042",
+            "term": "Goiter"
+          },
+          {
+            "id": "D016606",
+            "term": "Thyroid Nodule"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D013959",
+            "term": "Thyroid Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D013964",
+            "term": "Thyroid Neoplasms"
+          },
+          {
+            "id": "D004701",
+            "term": "Endocrine Gland Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D006258",
+            "term": "Head and Neck Neoplasms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002045",
+            "term": "Bupivacaine"
+          },
+          {
+            "id": "D020910",
+            "term": "Ketorolac"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D000813",
+            "term": "Anilides"
+          },
+          {
+            "id": "D000577",
+            "term": "Amides"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D000814",
+            "term": "Aniline Compounds"
+          },
+          {
+            "id": "D000588",
+            "term": "Amines"
+          },
+          {
+            "id": "D007213",
+            "term": "Indomethacin"
+          },
+          {
+            "id": "D007211",
+            "term": "Indoles"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256845"
+}

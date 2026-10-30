@@ -1,0 +1,266 @@
+{
+  "nct_id": "NCT05701930",
+  "title": "The Effect of Education Provided With Pecha Kucha Method on Cancer Patients Receiving Chemotherapy on Symptom Management and Quality of Life",
+  "sponsor": "Ataturk University",
+  "phase": "NA",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Symptom Management",
+    "Life Quality"
+  ],
+  "interventions": [
+    "symptom management"
+  ],
+  "primary_outcome": "Edmonton Symptom Diagnostic Scale",
+  "secondary_outcomes": [],
+  "start_date": "2023-01-18",
+  "completion_date": "2023-05-20",
+  "results_posted": false,
+  "enrollment": 60,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05701930",
+        "orgStudyIdInfo": {
+          "id": "2022/ 16- 14"
+        },
+        "organization": {
+          "fullName": "Ataturk University",
+          "class": "OTHER"
+        },
+        "briefTitle": "The Effect of Education Provided With Pecha Kucha Method on Cancer Patients Receiving Chemotherapy on Symptom Management and Quality of Life",
+        "officialTitle": "The Effect of Education Provided With Pecha Kucha Method on Cancer Patients Receiving Chemotherapy on Symptom Management and Quality of Life"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-01",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2023-01-18",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2023-05-20",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2024-02-25",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2023-01-19",
+        "studyFirstSubmitQcDate": "2023-01-26",
+        "studyFirstPostDateStruct": {
+          "date": "2023-01-27",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-01-30",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-01-31",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "G\u00fclcan Bah\u00e7ecio\u011flu Turan",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "Ataturk University"
+        },
+        "leadSponsor": {
+          "name": "Ataturk University",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Cancer; It is defined as a large group of diseases that can start in any organ or tissue of the body, occur with the uncontrolled growth of abnormal cells, and occur when these abnormal cells go beyond their normal limits and spread to neighboring tissues and other organs.\n\nThe leading goal of cancer treatment is to eradicate the cancer. Cancer treatments are divided into two basic groups as local and systemic.Systemic treatments include chemotherapy, hormone therapy, targeted molecular therapy, and immunotherapy.\n\nThe use of drugs that slow down, control, stop and destroy cancer cells in the treatment are called chemotherapy, and the drugs used for this purpose are called chemotherapeutics (cytostatics) or antineoplastic drugs.\n\nQuality of life is personal well-being and is an expression of subjective satisfaction in different areas of life. This concept includes family, work life and socio-economic conditions. It includes the difference between the ideals, expectations and dreams of individuals and the reality, that is, the perception of satisfaction and well-being that the individual receives from his daily life. In the medical field, it is the expression of the individual's physical, emotional and social well-being.\n\nThe symptoms that cancer patients encounter both in cancer and in the treatment process affect the quality of life of the patient and cause the treatment to be interrupted. Therefore, symptom management is very important in order not to hinder treatment and to stop the risk of morbidity and mortality. Most of the symptoms of advanced cancer patients can be managed with pharmacological or non-pharmacological methods, and this management is an expected skill for all clinicians who take care of patients with cancer.\n\nPecha Kucha (PK), meaning \"chat voice\" or \"chat\" in Japanese, refers to a well-crafted, fast and concise presentation format. In a PK presentation, each presenter is only allowed to show 20 PowerPoint slides for 20 seconds each on a timer. In other words, the presenter has only 20 seconds to discuss each slide before the next slide appears, and the presentation time is limited to 6 minutes and 40 seconds. Ideas are explained visually with pictures and graphics, and there is little text on the slides.",
+        "detailedDescription": "The patients in the experimental group will be trained by the pecha kucha method using a computer with powepoint presentation. Those in the control group will be trained with classical lessons. The training content will be composed of information that will help in the diagnosis and management of symptoms of cancer patients and increase their quality of life. Symptom diagnosis and quality of life scales will be used as data collection tools in education. All patients in the groups will be trained without changing the content of the training. Only the training method will be different. Data will be collected from cancer patients in both experimental and control groups before, immediately after, and 3 months after training. Both face-to-face theoretical explanation and question-answer method will be used as training techniques for the control group. Pecha kucha presentation will be used as a training technique for the experimental group. The training will be prepared in visual density and minimal text in accordance with the pecha kucha technique and will be composed of 20 slides with a powerpoint presentation. The presentation will last 6 minutes and 40 seconds. After the training, a feedback and question-answer session will be held for both the experimental and control groups."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Symptom Management",
+          "Life Quality"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "SEQUENTIAL",
+          "interventionModelDescription": "pecha kucha training",
+          "primaryPurpose": "SUPPORTIVE_CARE",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "maskingDescription": "Single (Participant) symptom management, life quality",
+            "whoMasked": [
+              "PARTICIPANT"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 60,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Experimental:",
+            "type": "EXPERIMENTAL",
+            "description": "pecha kucha will be practiced",
+            "interventionNames": [
+              "Behavioral: symptom management"
+            ]
+          },
+          {
+            "label": "control",
+            "type": "NO_INTERVENTION",
+            "description": "Routine maintenance will be applied."
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "symptom management",
+            "description": "pecha kucha training",
+            "armGroupLabels": [
+              "Experimental:"
+            ],
+            "otherNames": [
+              "life quality"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Edmonton Symptom Diagnostic Scale",
+            "description": "It was developed to evaluate nine symptoms seen in cancer patients. The scale includes pain, fatigue, nausea, sadness, anxiety, insomnia, loss of appetite, well-being and\n\nshortness of breath. In scale; The severity of each symptom is evaluated with numerical scores from 0 to 10. The most important rule in the evaluation of the symptom is to mark the number indicating the severity of the symptom according to the patient's own expression. The patient is asked to match the symptoms he or she is experiencing with a number from 0 to 10 that he thinks is most suitable for him. A score of 0 in the scale indicates the absence of symptoms, while a score of 10 indicates that the symptom is experienced very severely.",
+            "timeFrame": "1 hours"
+          },
+          {
+            "measure": "EORTC QLQ-C 30 Quality of Life Scale",
+            "description": "This scale was developed by the European cancer treatment and research organization in 1987 to evaluate the quality of life of patients with cancer.",
+            "timeFrame": "1 hours"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Being 18 years or older,\n* Not having a verbal communication disability (hearing and speaking),\n* Being a Cancer Patient in the second or third stage\n\nExclusion Criteria:\n\n\\-",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "G\u00fclcan B.TURAN, PHD",
+            "role": "CONTACT",
+            "phone": "05065576086",
+            "email": "glcnbah@hotmail.com"
+          },
+          {
+            "name": "Fatma G\u00fcrcan, STD",
+            "role": "CONTACT",
+            "phone": "05438433879",
+            "email": "F.gurcan1@gmail.com"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "G\u00fclcan B.Turan",
+            "status": "RECRUITING",
+            "city": "El\u00e2z\u0131\u011f",
+            "state": "Merkez",
+            "zip": "23000",
+            "country": "Turkey (T\u00fcrkiye)",
+            "contacts": [
+              {
+                "name": "Fatma",
+                "role": "CONTACT"
+              }
+            ],
+            "geoPoint": {
+              "lat": 38.67431,
+              "lon": 39.22321
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D010166",
+            "term": "Palliative Care"
+          },
+          {
+            "id": "D011788",
+            "term": "Quality of Life"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D005791",
+            "term": "Patient Care"
+          },
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          },
+          {
+            "id": "D006296",
+            "term": "Health Services"
+          },
+          {
+            "id": "D005159",
+            "term": "Health Care Facilities Workforce and Services"
+          },
+          {
+            "id": "D006304",
+            "term": "Health Status"
+          },
+          {
+            "id": "D003710",
+            "term": "Demography"
+          },
+          {
+            "id": "D015991",
+            "term": "Epidemiologic Measurements"
+          },
+          {
+            "id": "D011634",
+            "term": "Public Health"
+          },
+          {
+            "id": "D004778",
+            "term": "Environment and Public Health"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628691"
+}

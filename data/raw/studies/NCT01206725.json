@@ -1,0 +1,263 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01206725",
+      "orgStudyIdInfo": {
+        "id": "4.2009.365"
+      },
+      "organization": {
+        "fullName": "Norwegian University of Science and Technology",
+        "class": "OTHER"
+      },
+      "briefTitle": "Exercise Study on Cardiac Function in Patients With Diabetes Mellitus Type 2 and Diastolic Dysfunction",
+      "officialTitle": "The Effect of Aerobic Interval Training on Cardiac Function in Patients With Diabetes Mellitus Type 2 and Diastolic Dysfunction"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2018-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2010-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2012-11",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2013-05",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2010-09-06",
+      "studyFirstSubmitQcDate": "2010-09-21",
+      "studyFirstPostDateStruct": {
+        "date": "2010-09-22",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2018-01-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2018-01-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Norwegian University of Science and Technology",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The aim of the study is to compare the effects of aerobic interval training and the IDF recommendations on physical activity on cardiac function and CV risk factors in patients with diabetes. The hypothesis is that AIT more than MCT, will improve myocardial dysfunction in patients with subclinical LV disease, improve both endothelial function and VO2max and thus reducing CV risk factors and CV disease. HbA1c will be more stable.\n\nThe aims of this study are to address the exercise prescription recommendations for patients with (T2DM) who have subclinical heart disease. The prescription recommendations will be assessed by randomising T2DM patients with subclinical heart disease to one of the following 2 groups for 3 months followed by a 9 month home-based program:\n\nModerate Intensity Exercise Group (ME). Home exercise equivalent to the present exercise recommendations of the International Diabetes Federation.\n\nAerobic interval training (AIT). Exercise equivalent to the current guidelines achieved through high-intensity interval training.",
+      "detailedDescription": "The investigators primary hypotheses are that in patients with type 2 diabetes and subclinical heart disease:\n\nModerate Intensity Exercise will:\n\nNot significantly improve myocardial function compared to controls,\n\nDespite significant improvement (compared to controls) in:\n\nGlycaemic control (HbA1c) Cardiorespiratory fitness (VO2max) Body composition (DXA)\n\nAerobic Interval Training Group will:\n\nSignificantly improve myocardial function compared to controls,\n\nSignificantly improve (compared to moderate intensity exercise group):\n\nGlycaemic control (HbA1c) Cardiorespiratory fitness (VO2max) Body composition (DXA)"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Type 2"
+      ],
+      "keywords": [
+        "Diabetes type 2",
+        "exercise",
+        "tissue Doppler velocity"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 47,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": ". Moderate Intensity Exercise Group",
+          "type": "OTHER",
+          "description": "Exercise equivalent to the current exercise guidelines. In total 210 minutes per week of continuous moderate intensity (70% HRmax) exercise. Home based training.",
+          "interventionNames": [
+            "Other: Exercise"
+          ]
+        },
+        {
+          "label": "Aerobic interval training",
+          "type": "OTHER",
+          "description": "Exercise equivalent to the current guidelines achieved through high-intensity interval training.The exercise starts with warming-up for 10-min at 70% of HRmax before performing 4x4min intervals at 90-95% of HRmax, with 3-min active recovery at 70% of HRmax between each interval, and a 5-min cool-down period, giving a total of 40-min.",
+          "interventionNames": [
+            "Other: Exercise"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Exercise",
+          "description": "1. Moderate Intensity Exercise Group (ME). Exercise equivalent to the current exercise guidelines. In total 210 minutes per week of continuous moderate intensity (70% HRmax) exercise. Home based training.\n2. Aerobic interval training (AIT). Exercise equivalent to the current guidelines achieved through high-intensity interval training.The exercise starts with warming-up for 10-min at 70% of HRmax before performing 4x4min intervals at 90-95% of HRmax, with 3-min active recovery at 70% of HRmax between each interval, and a 5-min cool-down period, giving a total of 40-min.",
+          "armGroupLabels": [
+            ". Moderate Intensity Exercise Group",
+            "Aerobic interval training"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Early diastolic tissue velocity (e')",
+          "timeFrame": "3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Early diastolic tissue velocity (e')",
+          "timeFrame": "1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients 20-60 years with diagnose diabetes mellitus type 2 (without insulin) for less than 10 years and with diastolic dysfunction (E'\\<8), will be included.\n\nExclusion Criteria:\n\n* Overt CV disease\n* History of CAD\n* Moderate to severe valvular disease (AI MI 3-4, AS peak gradient \\> 15 mmHg=2m/s)\n* Atrial fibrillation or other severe arrhythmia\n* Congenital heart disease\n* Untreated hypertension \\>140/90\n* LVH\n* Retinopathy\n* Neuropathy\n* Micro or macroalbuminuria\n* EF \\< 40%\n* BMI \\>35\n* Ischemia at exercise echocardiography\n* Disease or disability making training difficult.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "20 Years",
+      "maximumAge": "60 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Charlotte B Ingul, PhD",
+          "affiliation": "NTNU, Det medisinske fakultet, Institutt for sirkulasjon og bildediagnostikk",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Institutt for sirkulasjon og bildediagnostikk, Det medisinske fakultet,NTNU, Postboks 8905",
+          "city": "Trondheim",
+          "state": "S\u00f8r-Tr\u00f8ndelag",
+          "zip": "7491",
+          "country": "Norway",
+          "geoPoint": {
+            "lat": 63.43049,
+            "lon": 10.39506
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "25323267",
+          "type": "RESULT",
+          "citation": "Hollekim-Strand SM, Bjorgaas MR, Albrektsen G, Tjonna AE, Wisloff U, Ingul CB. High-intensity interval exercise effectively improves cardiac function in patients with type 2 diabetes mellitus and diastolic dysfunction: a randomized controlled trial. J Am Coll Cardiol. 2014 Oct 21;64(16):1758-60. doi: 10.1016/j.jacc.2014.07.971. No abstract available."
+        },
+        {
+          "pmid": "28392340",
+          "type": "RESULT",
+          "citation": "Mallard AR, Hollekim-Strand SM, Coombes JS, Ingul CB. Exercise intensity, redox homeostasis and inflammation in type 2 diabetes mellitus. J Sci Med Sport. 2017 Oct;20(10):893-898. doi: 10.1016/j.jsams.2017.03.014. Epub 2017 Mar 21."
+        },
+        {
+          "pmid": "26948543",
+          "type": "RESULT",
+          "citation": "Hollekim-Strand SM, Hoydahl SF, Follestad T, Dalen H, Bjorgaas MR, Wisloff U, Ingul CB. Exercise Training Normalizes Timing of Left Ventricular Untwist Rate, but Not Peak Untwist Rate, in Individuals with Type 2 Diabetes and Diastolic Dysfunction: A Pilot Study. J Am Soc Echocardiogr. 2016 May;29(5):421-430.e2. doi: 10.1016/j.echo.2016.01.005. Epub 2016 Mar 3."
+        },
+        {
+          "pmid": "32693740",
+          "type": "DERIVED",
+          "citation": "Mallard AR, Hollekim-Strand SM, Ingul CB, Coombes JS. High day-to-day and diurnal variability of oxidative stress and inflammation biomarkers in people with type 2 diabetes mellitus and healthy individuals. Redox Rep. 2020 Dec;25(1):64-69. doi: 10.1080/13510002.2020.1795587."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015444",
+          "term": "Exercise"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        },
+        {
+          "id": "D009068",
+          "term": "Movement"
+        },
+        {
+          "id": "D009142",
+          "term": "Musculoskeletal Physiological Phenomena"
+        },
+        {
+          "id": "D055687",
+          "term": "Musculoskeletal and Neural Physiological Phenomena"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

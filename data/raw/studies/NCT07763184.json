@@ -1,0 +1,201 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07763184",
+      "orgStudyIdInfo": {
+        "id": "NFEC-2026-512"
+      },
+      "organization": {
+        "fullName": "Nanfang Hospital, Southern Medical University",
+        "class": "OTHER"
+      },
+      "briefTitle": "mNGS for IFD in Patients With Hematological Malignancies",
+      "officialTitle": "Application of Peripheral Blood Pathogen Metagenomic Next-Generation Sequencing in the Diagnosis of Invasive Fungal Disease in Patients With Hematological Malignancies"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-08",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2026-08-10",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-09-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-08-02",
+      "studyFirstSubmitQcDate": "2026-08-09",
+      "studyFirstPostDateStruct": {
+        "date": "2026-08-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-08-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-08-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Nanfang Hospital, Southern Medical University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Invasive fungal disease (IFD) refers to an infectious disease caused by fungi invading the human body, growing and reproducing in tissues, organs, or blood, and leading to inflammatory responses and tissue damage. Due to the suppression of immune system function during the disease and its treatment process, patients with hematological malignancies are prone to opportunistic infections, including IFD, with the lungs being the most common site of infection. In patients with hematological malignancies, IFD is often difficult to diagnose and progresses rapidly. Some patients become critically ill, which severely affects their prognosis. With the rapid development of molecular biology techniques, metagenomic next-generation sequencing (mNGS) of pathogenic microorganisms-as a broad-coverage, highly sensitive diagnostic tool with a short reporting cycle-has been widely applied in the etiological diagnosis of clinical infectious diseases. However, its clinical value in the diagnosis of IFD remains to be explored. This study is a single-center, single-arm, open-label clinical study to to explore the clinical performance of peripheral blood mNGS in the diagnosis and treatment of IFD in patients with hematological malignancies."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hematological Malignancies",
+        "Invasive Fungal Disease"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 50,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Patients with hematological malignancies who are suspected of having IFD",
+          "interventionNames": [
+            "Diagnostic Test: metagenomic next-generation sequencing"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "metagenomic next-generation sequencing",
+          "description": "The peripheral blood of the anticipants will be collected and sent to Tianjin Concord Bojing Medical Diagnostic Technology Co., Ltd. for mNGS testing.",
+          "armGroupLabels": [
+            "Patients with hematological malignancies who are suspected of having IFD"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The sensitivity and specificity of peripheral blood mNGS in diagnosing IFD",
+          "timeFrame": "up to 14 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Voluntarily signed the Informed Consent Form (ICF);\n* Diagnosed with a hematological malignancy and receiving necessary treatment according to clinical medical orders;\n* Presenting with clinical symptoms, signs, or imaging features suspected of IFD. Clinical symptoms or signs include fever, cough, expectoration, chest pain, skin and soft tissue infectious lesions, or symptoms related to other deep tissue involvement. Imaging features vary depending on the site of infection, including: if involving the lower respiratory tract/lungs, a CT scan showing at least the presence of dense, well-defined lesions (with or without a halo sign), air crescent sign, cavity, wedge-shaped/segmental or lobar consolidations, reversed halo sign, etc.; if involving the central nervous system (CNS), an MRI/CT scan indicating meningeal enhancement; or corresponding imaging features for the involvement of other deep tissues.\n\nExclusion Criteria:\n\n* Unable to undergo necessary conventional microbiological testing or imaging examinations;\n* Deemed unsuitable to participate in this study by the investigator.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "The study population for this research consists of patients with hematological malignancies who are suspected of having IFD.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Ren Lin",
+          "role": "CONTACT",
+          "phone": "+86-20-61641615",
+          "email": "lansinglinren@163.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Nanfang Hospital, Southern Medical University",
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "zip": "510515",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Ren Lin",
+              "role": "CONTACT",
+              "phone": "+86-20-61641615",
+              "email": "lansinglinren@163.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 23.11667,
+            "lon": 113.25
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D019337",
+          "term": "Hematologic Neoplasms"
+        },
+        {
+          "id": "D000072742",
+          "term": "Invasive Fungal Infections"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D009181",
+          "term": "Mycoses"
+        },
+        {
+          "id": "D001423",
+          "term": "Bacterial Infections and Mycoses"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

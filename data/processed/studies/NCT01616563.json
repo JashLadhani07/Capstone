@@ -1,0 +1,1221 @@
+{
+  "nct_id": "NCT01616563",
+  "title": "Canadian Health Advanced By Nutrition and Graded Exercise: CHANGE Health Paradigm",
+  "sponsor": "Daren K. Heyland",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Metabolic Syndrome"
+  ],
+  "interventions": [
+    "Dietary Intervention",
+    "Exercise Prescription and Fitness Program"
+  ],
+  "primary_outcome": "Feasibility of the Diet Intervention",
+  "secondary_outcomes": [
+    "Percentage of Participants With Improvements in at Least One Individual Components of Metabolic Syndrome",
+    "Change From Baseline in Diet Quality-Canadian Healthy Eating Index",
+    "Change From Baseline in Diet Quality-Mediterranean Diet Score",
+    "Change From Baseline in Aerobic Capacity",
+    "Changes in Risk of Myocardial Infarction and Cardiac Events",
+    "Changes in Continuous Metabolic Syndrome Risk Score"
+  ],
+  "start_date": "2012-10",
+  "completion_date": "2016-02",
+  "results_posted": true,
+  "enrollment": 305,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01616563",
+        "orgStudyIdInfo": {
+          "id": "CHANGE"
+        },
+        "organization": {
+          "fullName": "Clinical Evaluation Research Unit at Kingston General Hospital",
+          "class": "OTHER"
+        },
+        "briefTitle": "Canadian Health Advanced By Nutrition and Graded Exercise",
+        "officialTitle": "Canadian Health Advanced By Nutrition and Graded Exercise: CHANGE Health Paradigm",
+        "acronym": "CHANGE"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2021-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2012-10",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2016-02",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2016-02",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2012-06-07",
+        "studyFirstSubmitQcDate": "2012-06-11",
+        "studyFirstPostDateStruct": {
+          "date": "2012-06-12",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2020-09-01",
+        "resultsFirstSubmitQcDate": "2021-01-28",
+        "resultsFirstPostDateStruct": {
+          "date": "2021-02-21",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2021-01-28",
+        "lastUpdatePostDateStruct": {
+          "date": "2021-02-21",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Daren K. Heyland",
+          "investigatorTitle": "Director of the Clinical Evaluation research Unit",
+          "investigatorAffiliation": "Clinical Evaluation Research Unit at Kingston General Hospital"
+        },
+        "leadSponsor": {
+          "name": "Daren K. Heyland",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "St. Joseph's Healthcare Hamilton",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The overall objective of the CHANGE initiative is to change the delivery of care in primary care clinics to treat disease by reducing reliance on drugs and hospitals through the promotion of scientifically validated nutritional concepts and exercise. Specifically, the objective is to identify patients from primary care clinics with metabolic syndrome who are not morbidly obese and use diet and exercise interventions to reverse the changes, reduce reliance on pharmacotherapy and prevent progression to diabetes and cardiovascular disease.",
+        "detailedDescription": "Hypertension, cardiovascular disease, strokes, diabetes and their complications including renal failure and neuropathy are major contributors to healthcare costs1. Metabolic Syndrome, a widespread genetic trait refers to a group of factors that increase risk for these diseases. Progression of the components of the metabolic syndrome can be significantly reduced by dietary manipulation and exercise.\n\nThe aging population, with both metabolic syndrome and muscular weakness, is going to result in an enormous social and financial burden not only for medical care but also for families caring for such patients. Existing knowledge would suggest that dietary modification and exercise training would substantially reduce the costs and complications of these medical conditions.\n\nThe Canadian Guidelines for the diagnosis and management of cardiometabolic risk identify patients with metabolic syndrome who have an increased risk of cardiac and vascular disease and diabetes but the application of these results to prevent disease has been a dismal failure in general and in particular, in our country.\n\nThe current model of advice about preventive care is through family doctors (FD) in the primary care setting. FDs tend not to advise their patients about diet and exercise for a variety of reasons including a lack of education about these modalities, a lack of support from professionals qualified to assess and advise about diet and exercise, the belief that drugs are better, lack of time and a lack of reimbursement in addition to patient barriers to adoption. Although other factors, such has smoking, hypercoagulability and increased expression of proinflammatory cytokines increase cardiometabolic risk, these changes are closely related to the metabolic syndrome. \"Health behavior interventions\" are identified as critical to preventing the occurrence of cardiovascular disease and diabetes. These interventions can be associated with appropriate pharmacotherapy where required. The guidelines recommend a multidisciplinary team to manage these interventions. In addition it is also recommended that ethnicity be considered in these interventions.\n\nThe various traits associated with the metabolic syndrome are strongly influenced by genetic factors, i.e. the heritability of abdominal obesity and insulin resistance are estimated to be as high as 70%. Accordingly, the investigators propose to examine numerous genetic polymorphisms (also referred to as markers) that have been linked to the various traits associated with metabolic syndrome in a sub study. It is hypothesized that these markers can be used as a means to better predict the variable responses observed in individuals following a lifestyle intervention. Several companies have begun to commercialize direct-to-consumer genetic-testing to provide nutritional counseling to individuals based on the analysis of a small subset of polymorphisms11; however, there is an absence of scientific research to either support or refute the value of genetic markers for predicting an individual's response. Considering common genetic markers in a lifestyle intervention study will enable us to assess their value for predicting response."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Metabolic Syndrome"
+        ],
+        "keywords": [
+          "central obesity",
+          "abdominal obesity",
+          "hypertension",
+          "cardiovascular disease",
+          "high cholesterol",
+          "high triglycerides",
+          "insulin resistance",
+          "diabetes mellitus"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 305,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Diet and exercise",
+            "type": "EXPERIMENTAL",
+            "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support",
+            "interventionNames": [
+              "Behavioral: Dietary Intervention",
+              "Behavioral: Exercise Prescription and Fitness Program"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Dietary Intervention",
+            "description": "Nutrition assessment, review of the basic principles of dietary intervention for metabolic syndrome with an emphasis on the clinical risk factors identified for each individual, joint goal setting to determine what dietary changes are feasible, considering intention and barriers to dietary behaviour change.",
+            "armGroupLabels": [
+              "Diet and exercise"
+            ],
+            "otherNames": [
+              "Nutrition therapy",
+              "Dietary counselling",
+              "Behavioural therapy"
+            ]
+          },
+          {
+            "type": "BEHAVIORAL",
+            "name": "Exercise Prescription and Fitness Program",
+            "description": "Exercise tests (aerobic fitness, muscular and flexibility tests) recommended by the Canadian Society of Exercise Physiology (CSEP), followed by an individualized exercise plan including fitness assessments.",
+            "armGroupLabels": [
+              "Diet and exercise"
+            ],
+            "otherNames": [
+              "Exercise plan",
+              "physical activity intervention"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Feasibility of the Diet Intervention",
+            "description": "Percentage of the prescribed diet visits visits attended over 12 months. Each participant was to attend a total of 21 prescribed diet visits over 12 months.",
+            "timeFrame": "At 12 months"
+          },
+          {
+            "measure": "Feasibility of the Exercise Intervention",
+            "description": "Percentage of the prescribed exercise visits attended over 12 months. Each participant was to attend a total of 21 prescribed exercise visits over 12 months.",
+            "timeFrame": "At 12 months"
+          },
+          {
+            "measure": "Number of Participants That Have Reversal of Metabolic Syndrome",
+            "description": "Metabolic syndrome is defined as having 3/5 of the following: elevated blood pressure (or on medication), elevated blood sugars (or on medication), elevated triglycerides (or on medication), low HDL-C and a large waist circumference. Reversal of metabolic syndrome is defined as having less than 3/5 criteria",
+            "timeFrame": "At 12 months compared to baseline measures"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Percentage of Participants With Improvements in at Least One Individual Components of Metabolic Syndrome",
+            "description": "Improvements in blood pressure (or elimination of medication), blood sugars (or elimination of medication), triglycerides (or elimination of medication), HDL-C and waist circumference",
+            "timeFrame": "At 12 months compared to baseline"
+          },
+          {
+            "measure": "Change From Baseline in Diet Quality-Canadian Healthy Eating Index",
+            "description": "Canadian Health Eating Index (HEI-C) is reported on a 100 point score with a higher score indicating a better outcome. A higher score means a better outcome. HEI-C is on a 100 point score.",
+            "timeFrame": "Change at 12 months compared to baseline"
+          },
+          {
+            "measure": "Change From Baseline in Diet Quality-Mediterranean Diet Score",
+            "description": "Mediterranean Diet Score (MDS) is reported on a 0-14 point score with a higher score indicating a better outcome.",
+            "timeFrame": "Change at 12 months compared to baseline"
+          },
+          {
+            "measure": "Change From Baseline in Aerobic Capacity",
+            "description": "Estimated maximal oxygen consumption (VO2 max) standardized to age and sex",
+            "timeFrame": "Change at 12 months compared to baseline"
+          },
+          {
+            "measure": "Changes in Risk of Myocardial Infarction and Cardiac Events",
+            "description": "Changes in PROCAM score, which estimates the risk of a myocardial infarction or dying from an acute coronary event within the next 10 years. Similar to Framingham risk score but for metabolic syndrome. A lower score means a better outcome. PROCAM score varies from 0-87,0 means there are no risk factors (pt is younger than 39), while 87 means the patient is a smoker and older than 60 years and presents all risk factors",
+            "timeFrame": "Change at 12 months compared to baseline"
+          },
+          {
+            "measure": "Changes in Continuous Metabolic Syndrome Risk Score",
+            "description": "Metabolic syndrome risk score is a composite continuous score that measures the severity of metabolic syndrome as a continuous variable rather than dichotomized with arbitrary cut-points . The score is the principal component of waist circumference, glucose, systolic blood pressure, triglycerides. It has a mean of 0 and a standard deviation of 1 with higher score meaning greater risk. Reference Hillier TA, et al., Practical way to assess metabolic syndrome using a continuous score obtained from principal components analysis. Diabetologia (2006) 49:1528-1535",
+            "timeFrame": "Change at 12 months compared to baseline"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>/= 18 years old\n* Fasting Blood Glucose \\>/= 5.6 mmol/L or receiving pharmacotherapy\n* Blood Pressure of \\>/= 130/85 mm Hg or receiving pharmacotherapy\n* Triglyceride of \\>/= 1.7 mmol/L or receiving pharmacotherapy\n* HDL-C \\< 1.0 mmol/L Males and \\< 1.3 mmol/L females\n* Abdominal circumference as determined by a pre-specified technique:\n* Europids/Whites/sub-Saharan Africans/Mediterranean/middle east \\>/= 94 cm Males, \\>/= 80 cm Female.\n* Asian and South Central Americans \\>/= 90 cm males and \\>/=80 cm females\n* US and Canadian Whites \\>/= 102 cm males, \\>/=88 cm females.\n\nExclusion Criteria:\n\n* Inability to speak, read or understand English and/or French for the Laval University participants.\n* Having a medical or physical condition that makes moderate intensity physical activity difficult or unsafe.\n* Diagnosis of Type 1 Diabetes Mellitus\n* Type 2 diabetes mellitus only if any one of the following are present\n\n  1. Proliferative diabetic retinopathy\n  2. Nephropathy (Suggested parameters: serum creatinine \\> 160 \u00b5mol/L)\n  3. Clinically manifest neuropathy defined as absent ankle jerks\n  4. Severe fasting hyperglycemia \\> 11 mmol/L\n  5. Peripheral vascular disease\n* Significant medical co-morbidities, including uncontrolled metabolic disorders (e.g., thyroid, renal , liver), heart disease, stroke and ongoing substance abuse\n* Clinically significant renal failure\n* Diagnosis of psychiatric disorders (cognitive impairment) that would limit adequate informed consent or ability to comply with study protocol\n* Diagnosis of cancer (other than non-melanoma skin cancer) that was active or treated with radiation or chemotherapy within the past 2 years\n* Diagnosis of a terminal illness and/or in hospice care\n* Pregnant, lactating or planning to become pregnant during the study period\n* Investigator discretion for clinical safety or protocol adherence reasons\n* Chronic inflammatory diseases\n* Body Mass Index \\> 35",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Khush Jeejeebhoy, MD",
+            "affiliation": "University of Toronto",
+            "role": "STUDY_DIRECTOR"
+          },
+          {
+            "name": "Paula Brauer",
+            "affiliation": "University of Guelph",
+            "role": "STUDY_CHAIR"
+          },
+          {
+            "name": "Angelo Tremblay",
+            "affiliation": "Laval University",
+            "role": "STUDY_CHAIR"
+          },
+          {
+            "name": "David Mutch, PhD",
+            "affiliation": "University of Guelph",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Doug Klein, MD",
+            "affiliation": "University of Alberta, Edmonton, Alberta",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Lew Pliamm, MD",
+            "affiliation": "Canadian Phase Onward",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          },
+          {
+            "name": "Caroline Rheaume",
+            "affiliation": "Laval University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Edmonton Oliver Primary Care Network",
+            "city": "Edmonton",
+            "state": "Alberta",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 53.55014,
+              "lon": -113.46871
+            }
+          },
+          {
+            "facility": "Canadian Phase Onward Inc.",
+            "city": "Toronto",
+            "state": "Ontario",
+            "zip": "M3H 5S4",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 43.70643,
+              "lon": -79.39864
+            }
+          },
+          {
+            "facility": "Clinique de kin\u00e9siologie de l'Universit\u00e9 Laval",
+            "city": "Qu\u00e9bec",
+            "zip": "G1K 7P4",
+            "country": "Canada",
+            "geoPoint": {
+              "lat": 46.81228,
+              "lon": -71.21454
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "17211012",
+            "type": "BACKGROUND",
+            "citation": "Mensah GA, Brown DW. An overview of cardiovascular disease burden in the United States. Health Aff (Millwood). 2007 Jan-Feb;26(1):38-48. doi: 10.1377/hlthaff.26.1.38."
+          },
+          {
+            "pmid": "11832527",
+            "type": "BACKGROUND",
+            "citation": "Knowler WC, Barrett-Connor E, Fowler SE, Hamman RF, Lachin JM, Walker EA, Nathan DM; Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002 Feb 7;346(6):393-403. doi: 10.1056/NEJMoa012512."
+          },
+          {
+            "pmid": "21059972",
+            "type": "BACKGROUND",
+            "citation": "Balducci S, Zanuso S, Nicolucci A, De Feo P, Cavallo S, Cardelli P, Fallucca S, Alessi E, Fallucca F, Pugliese G; Italian Diabetes Exercise Study (IDES) Investigators. Effect of an intensive exercise intervention strategy on modifiable cardiovascular risk factors in subjects with type 2 diabetes mellitus: a randomized controlled trial: the Italian Diabetes and Exercise Study (IDES). Arch Intern Med. 2010 Nov 8;170(20):1794-803. doi: 10.1001/archinternmed.2010.380."
+          },
+          {
+            "pmid": "21947643",
+            "type": "BACKGROUND",
+            "citation": "Gouveri ET, Tzavara C, Drakopanagiotakis F, Tsaoussoglou M, Marakomichelakis GE, Tountas Y, Diamantopoulos EJ. Mediterranean diet and metabolic syndrome in an urban population: the Athens Study. Nutr Clin Pract. 2011 Oct;26(5):598-606. doi: 10.1177/0884533611416821."
+          },
+          {
+            "pmid": "21392646",
+            "type": "BACKGROUND",
+            "citation": "Kastorini CM, Milionis HJ, Esposito K, Giugliano D, Goudevenos JA, Panagiotakos DB. The effect of Mediterranean diet on metabolic syndrome and its components: a meta-analysis of 50 studies and 534,906 individuals. J Am Coll Cardiol. 2011 Mar 15;57(11):1299-313. doi: 10.1016/j.jacc.2010.09.073."
+          },
+          {
+            "pmid": "10459869",
+            "type": "BACKGROUND",
+            "citation": "Engstrom G, Hedblad B, Janzon L. Hypertensive men who exercise regularly have lower rate of cardiovascular mortality. J Hypertens. 1999 Jun;17(6):737-42. doi: 10.1097/00004872-199917060-00003."
+          },
+          {
+            "pmid": "21734589",
+            "type": "BACKGROUND",
+            "citation": "Rubenfire M, Mollo L, Krishnan S, Finkel S, Weintraub M, Gracik T, Kohn D, Oral EA. The metabolic fitness program: lifestyle modification for the metabolic syndrome using the resources of cardiac rehabilitation. J Cardiopulm Rehabil Prev. 2011 Sep-Oct;31(5):282-9. doi: 10.1097/HCR.0b013e318220a7eb."
+          },
+          {
+            "pmid": "21459257",
+            "type": "BACKGROUND",
+            "citation": "Cardiometabolic Risk Working Group: Executive Committee; Leiter LA, Fitchett DH, Gilbert RE, Gupta M, Mancini GB, McFarlane PA, Ross R, Teoh H, Verma S, Anand S, Camelon K, Chow CM, Cox JL, Despres JP, Genest J, Harris SB, Lau DC, Lewanczuk R, Liu PP, Lonn EM, McPherson R, Poirier P, Qaadri S, Rabasa-Lhoret R, Rabkin SW, Sharma AM, Steele AW, Stone JA, Tardif JC, Tobe S, Ur E. Cardiometabolic risk in Canada: a detailed analysis and position paper by the cardiometabolic risk working group. Can J Cardiol. 2011 Mar-Apr;27(2):e1-e33. doi: 10.1016/j.cjca.2010.12.054."
+          },
+          {
+            "pmid": "19173724",
+            "type": "BACKGROUND",
+            "citation": "Fung CS, Mercer SW. A qualitative study of patients' views on quality of primary care consultations in Hong Kong and comparison with the UK CARE Measure. BMC Fam Pract. 2009 Jan 27;10:10. doi: 10.1186/1471-2296-10-10."
+          },
+          {
+            "pmid": "18852695",
+            "type": "BACKGROUND",
+            "citation": "Lusis AJ, Attie AD, Reue K. Metabolic syndrome: from epidemiology to systems biology. Nat Rev Genet. 2008 Nov;9(11):819-30. doi: 10.1038/nrg2468."
+          },
+          {
+            "pmid": "21159896",
+            "type": "BACKGROUND",
+            "citation": "Imai K, Kricka LJ, Fortina P. Concordance study of 3 direct-to-consumer genetic-testing services. Clin Chem. 2011 Mar;57(3):518-21. doi: 10.1373/clinchem.2010.158220. Epub 2010 Dec 15."
+          },
+          {
+            "pmid": "39354341",
+            "type": "DERIVED",
+            "citation": "Maitland SB, Brauer P, Mutch DM, Royall D, Klein D, Tremblay A, Rheaume C, Jeejeebhoy K. Exploratory analysis of the variable response to an intensive lifestyle change program for metabolic syndrome. BMC Prim Care. 2024 Oct 1;25(1):357. doi: 10.1186/s12875-024-02608-w."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "recruitmentDetails": "A total of 305 patients were recruited from 3 participating primary care clinics from Oct 2012 to December 2014. Of these, 12 patients were excluded, 10 that no longer met the inclusion criteria and 2 that met an exclusion criteria by the time the study started. A total of 293 patients were included in the analysis.",
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Diet and Exercise Intervention",
+            "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "293"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "253"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "40"
+                  }
+                ]
+              }
+            ],
+            "dropWithdraws": [
+              {
+                "type": "Lost to Follow-up",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "40"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Diet and Exercise Intervention",
+            "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "293"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Continuous",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "years",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "59.1",
+                        "spread": "9.7"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "152"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "141"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Region of Enrollment",
+            "paramType": "NUMBER",
+            "unitOfMeasure": "participants",
+            "classes": [
+              {
+                "title": "Canada",
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "293"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Body Mass Index",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "kg/m^2",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "31.9",
+                        "spread": "3.3"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "PROCAM risk %",
+            "description": "PROCAM Risk score is a predictor of 10-year risk of developing coronary events (Assman et al 2002 Circulation). It is similar to the Framingham risk score but for metabolic syndrome.",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "%",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "8.2",
+                        "spread": "6.4"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Estimated V02 Max percentile",
+            "description": "Age-sex standard population-based percentiles of aerobic capacity as measured by estimated V02 max",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "%",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "46.8",
+                        "spread": "24"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Healthy Eating Index-Canadian",
+            "description": "The HEI-Canadian measures the adequacy of diet and the moderation of diet according to Canada's Food Guide on a scale of 0-100 points. Adequacy of diet ranges from a scale of 0-60 points; 0 points are assigned for a minimum or less, 5 or 10 points for maximum or more, and proportional for amounts between minimum and maximum. Moderation of diet ranges from a score of 0-40 points; 10 or 20 points are assigned for minimum or less, 0 points are assigned for maximum or more, and proportional for amounts between minimum and maximum. A higher HEI-Canadian score indicates a higher diet quality.",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "units on a scale",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "57.9",
+                        "spread": "14.2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Mediterranean Diet Score",
+            "description": "Mediterranean Diet Score (MDS) is a validated questionnaire that measures the adherence to the Mediterranean diet on a scale of 0-14 points. There are 14 criteria relating to the different aspects of the Mediterranean diet, each one is assigned 1 point. A higher MDS score indicates a higher diet quality.",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "units on a scale",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "4.7",
+                        "spread": "1.6"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Feasibility of the Diet Intervention",
+            "description": "Percentage of the prescribed diet visits visits attended over 12 months. Each participant was to attend a total of 21 prescribed diet visits over 12 months.",
+            "reportingStatus": "POSTED",
+            "paramType": "COUNT_OF_UNITS",
+            "unitOfMeasure": "prescribed diet visits",
+            "timeFrame": "At 12 months",
+            "typeUnitsAnalyzed": "prescribed diet visits",
+            "denomUnitsSelected": "prescribed diet visits",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "253"
+                  }
+                ]
+              },
+              {
+                "units": "prescribed diet visits",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "5313"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "4782"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PRIMARY",
+            "title": "Feasibility of the Exercise Intervention",
+            "description": "Percentage of the prescribed exercise visits attended over 12 months. Each participant was to attend a total of 21 prescribed exercise visits over 12 months.",
+            "reportingStatus": "POSTED",
+            "paramType": "COUNT_OF_UNITS",
+            "unitOfMeasure": "prescribed exercise visits",
+            "timeFrame": "At 12 months",
+            "typeUnitsAnalyzed": "prescribed exercise visits",
+            "denomUnitsSelected": "prescribed exercise visits",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "253"
+                  }
+                ]
+              },
+              {
+                "units": "prescribed exercise visits",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "5313"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "4038"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PRIMARY",
+            "title": "Number of Participants That Have Reversal of Metabolic Syndrome",
+            "description": "Metabolic syndrome is defined as having 3/5 of the following: elevated blood pressure (or on medication), elevated blood sugars (or on medication), elevated triglycerides (or on medication), low HDL-C and a large waist circumference. Reversal of metabolic syndrome is defined as having less than 3/5 criteria",
+            "populationDescription": "Combined diet and exercise program",
+            "reportingStatus": "POSTED",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "timeFrame": "At 12 months compared to baseline measures",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "253"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "48"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Percentage of Participants With Improvements in at Least One Individual Components of Metabolic Syndrome",
+            "description": "Improvements in blood pressure (or elimination of medication), blood sugars (or elimination of medication), triglycerides (or elimination of medication), HDL-C and waist circumference",
+            "populationDescription": "% participants that had improvement in metabolic syndrome components",
+            "reportingStatus": "POSTED",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "timeFrame": "At 12 months compared to baseline",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "253"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "106"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Change From Baseline in Diet Quality-Canadian Healthy Eating Index",
+            "description": "Canadian Health Eating Index (HEI-C) is reported on a 100 point score with a higher score indicating a better outcome. A higher score means a better outcome. HEI-C is on a 100 point score.",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "score on a scale out of 100",
+            "timeFrame": "Change at 12 months compared to baseline",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "209"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "9.6",
+                        "lowerLimit": "7.6",
+                        "upperLimit": "11.6"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Change From Baseline in Diet Quality-Mediterranean Diet Score",
+            "description": "Mediterranean Diet Score (MDS) is reported on a 0-14 point score with a higher score indicating a better outcome.",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "score on a scale out of 14",
+            "timeFrame": "Change at 12 months compared to baseline",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "209"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "1.4",
+                        "lowerLimit": "1.1",
+                        "upperLimit": "1.6"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Change From Baseline in Aerobic Capacity",
+            "description": "Estimated maximal oxygen consumption (VO2 max) standardized to age and sex",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "percentile",
+            "timeFrame": "Change at 12 months compared to baseline",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "182"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "15.6",
+                        "lowerLimit": "13.3",
+                        "upperLimit": "17.9"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Changes in Risk of Myocardial Infarction and Cardiac Events",
+            "description": "Changes in PROCAM score, which estimates the risk of a myocardial infarction or dying from an acute coronary event within the next 10 years. Similar to Framingham risk score but for metabolic syndrome. A lower score means a better outcome. PROCAM score varies from 0-87,0 means there are no risk factors (pt is younger than 39), while 87 means the patient is a smoker and older than 60 years and presents all risk factors",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "percentage",
+            "timeFrame": "Change at 12 months compared to baseline",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "206"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "1.4",
+                        "lowerLimit": "0.9",
+                        "upperLimit": "2.0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Changes in Continuous Metabolic Syndrome Risk Score",
+            "description": "Metabolic syndrome risk score is a composite continuous score that measures the severity of metabolic syndrome as a continuous variable rather than dichotomized with arbitrary cut-points . The score is the principal component of waist circumference, glucose, systolic blood pressure, triglycerides. It has a mean of 0 and a standard deviation of 1 with higher score meaning greater risk. Reference Hillier TA, et al., Practical way to assess metabolic syndrome using a continuous score obtained from principal components analysis. Diabetologia (2006) 49:1528-1535",
+            "reportingStatus": "POSTED",
+            "paramType": "MEAN",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "z-score",
+            "timeFrame": "Change at 12 months compared to baseline",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Diet and Exercise Intervention",
+                "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "206"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "0.4",
+                        "lowerLimit": "0.3",
+                        "upperLimit": "0.5"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "0",
+        "timeFrame": "Adverse events were not monitored/assessed",
+        "description": "Adverse events were not monitored/assessed as the intervention was tailored to meet patient's abilities and needs. Hence the number of participants at risk is none.",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Diet and Exercise Intervention",
+            "description": "A combined diet and exercise program tailored to individuals incorporating behavioural modification support\n\nDietary Intervention: Nutrition assessment, review of the basic principles of dietary intervention for metabolic syndrome with an emphasis on the clinical risk factors identified for each individual, joint goal setting to determine what dietary changes are feasible, considering intention and barriers to dietary behaviour change.\n\nExercise Prescription and Fitness Program: Exercise tests (aerobic fitness, muscular and flexibility tests) recommended by the Canadian Society of Exercise Physiology (CSEP), followed by an individualized exercise plan including fitness assessments.",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 0,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 0,
+            "otherNumAffected": 0,
+            "otherNumAtRisk": 0
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "limitationsAndCaveats": {
+          "description": "Lack of a control group however the intent of this study was to show feasibility in real life settings. Generalization of the findings as only 3 centers and selection bias when enrolling participants."
+        },
+        "certainAgreement": {
+          "piSponsorEmployee": false,
+          "restrictiveAgreement": false
+        },
+        "pointOfContact": {
+          "title": "Rupinder Dhaliwal",
+          "organization": "Metabolic Syndrome Canada",
+          "email": "rupinder.dhaliwal@metsc.ca",
+          "phone": "613 484 3830"
+        }
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D024821",
+            "term": "Metabolic Syndrome"
+          },
+          {
+            "id": "D056128",
+            "term": "Obesity, Abdominal"
+          },
+          {
+            "id": "D006973",
+            "term": "Hypertension"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D006937",
+            "term": "Hypercholesterolemia"
+          },
+          {
+            "id": "D015228",
+            "term": "Hypertriglyceridemia"
+          },
+          {
+            "id": "D007333",
+            "term": "Insulin Resistance"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006946",
+            "term": "Hyperinsulinism"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D009765",
+            "term": "Obesity"
+          },
+          {
+            "id": "D050177",
+            "term": "Overweight"
+          },
+          {
+            "id": "D044343",
+            "term": "Overnutrition"
+          },
+          {
+            "id": "D009748",
+            "term": "Nutrition Disorders"
+          },
+          {
+            "id": "D001835",
+            "term": "Body Weight"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D006949",
+            "term": "Hyperlipidemias"
+          },
+          {
+            "id": "D050171",
+            "term": "Dyslipidemias"
+          },
+          {
+            "id": "D052439",
+            "term": "Lipid Metabolism Disorders"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D004035",
+            "term": "Diet Therapy"
+          },
+          {
+            "id": "D044623",
+            "term": "Nutrition Therapy"
+          },
+          {
+            "id": "D001521",
+            "term": "Behavior Therapy"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          },
+          {
+            "id": "D011613",
+            "term": "Psychotherapy"
+          },
+          {
+            "id": "D004191",
+            "term": "Behavioral Disciplines and Activities"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T13:37:30.604525"
+}

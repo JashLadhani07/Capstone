@@ -1,0 +1,295 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00871065",
+      "orgStudyIdInfo": {
+        "id": "0165-08-FB"
+      },
+      "organization": {
+        "fullName": "University of Nebraska",
+        "class": "OTHER"
+      },
+      "briefTitle": "Safety Study of Sildenafil in Treatment of Cerebral Aneurysm Vasospasm",
+      "officialTitle": "Safety and Efficacy Trial of Sildenafil Citrate in Attenuation of Cerebral Vasospasm Following Aneurysmal Subarachnoid Hemorrhage"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-08",
+      "overallStatus": "WITHDRAWN",
+      "whyStopped": "PI decision",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2008-07",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2009-02-25",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2009-02-25",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2009-03-26",
+      "studyFirstSubmitQcDate": "2009-03-26",
+      "studyFirstPostDateStruct": {
+        "date": "2009-03-30",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2023-08-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-08-15",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Nebraska",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Rupture of a cerebral aneurysm is a serious medical condition that may result in permanent disability or even death just related to the aneurysm rupture itself. Patients who undergo successful surgical treatment of their aneurysm will rarely experience problems related to that specific aneurysm in the future. However, blood that is on the surface of the brain from the initial aneurysm rupture is very irritating to other blood vessels that it comes in contact with. When these blood vessels become irritated, they spasm and become narrower. This narrowing restricts blood flow through the vessel, and if severe can result in a stroke that is caused by inadequate blood flow through the vessel. Depending on location and severity, this condition of vessel spasm (cerebral vasospasm) may result in permanent disability or death. Treatment to prevent cerebral vasospasm decreases the risk of stroke. This research is trying to see if a medication that is FDA approved for the treatment of lung disease and sexual dysfunction can be used to prevent and/or treat cerebral vasospasm.",
+      "detailedDescription": "When a cerebral aneurysm ruptures, the surface of the brain and its blood vessels are covered with clotted blood. This condition is called subarachnoid hemorrhage (SAH). Subarachnoid hemorrhage secondary to rupture of a cerebral aneurysm is a medical condition associated with a high morbidity and mortality; approximately 10-15% of patients die before reaching medical care, and overall mortality is approximately 45%. Of those that survive, 30% suffer permanent disability graded as moderate to severe, and two-thirds of survivors never return to the same quality of life as they had prior to their hemorrhage. A large number of patients (30-70%) who are able to make it to the hospital and have successful treatment of their aneurysm will develop delayed cerebral vasospasm that is related to the blood clot from their initial aneurysm rupture. Of patients that survive their initial aneurysm rupture, vasospasm results in an additional 7% mortality and another 7% of severe disabilities secondary to ischemic strokes from severe spasm of cerebral arteries.\n\nThe pathogenesis of cerebral vasospasm has been a topic of significant research. The occurrence and severity are directly related to the volume of hemorrhage and the thickness of the blood clot encasing the arteries. Arterial vasospasm and impaired vasodilation are delayed processes that have a gradual onset, typically starting no earlier than 3 days post-hemorrhage and clinically resolving within 12 days of the initial aneurysm rupture. Breakdown of the clotted subarachnoid blood impairs the normal vasodilator and constrictor mechanisms of the cerebral arteries by altering the levels of several molecules including nitric oxide (NO), a vasodilator. Nitric oxide is normally produced by vascular endothelial cells and leads to vasodilation by stimulating the enzyme soluble guanylate cyclase. This enzyme catalyzes the production of cyclic guanosine monophosphate (cGMP), which is responsible for vasodilation through both direct and indirect actions. Selective deactivation of cGMP is accomplished by the enzyme phosphodiesterase subtype V (PDE-V). Studies have revealed elevated levels of PDE-V and diminished levels of cGMP in animals with experimentally induced SAH, while levels of nitric oxide synthase remain stable after hemorrhage. This prior research points toward SAH causing an enhancement in PDE-V activity, subsequently decreasing cGMP levels and impairing normal vasodilation.\n\nPapaverine, a nonselective phosphodiesterase inhibitor, is beneficial and selectively used for treatment of active vasospasm. Its use is limited by its short duration of action, and its nonspecific nature results in systemic vasodilation and subsequent hypotension. Sildenafil citrate, a selective PDE-V inhibitor, has been shown to enhance the reactivity of the cerebral vasculature in normal healthy adults and has been shown to decrease the severity of vasospasm in animals with experimentally induced SAH. These effects have been noted with minimal effects on systemic hemodynamics. Given that sildenafil citrate has safely demonstrated the expected clinical effect of cerebral arterial dilation in normal healthy humans as well as animals with and without induced SAH, the aim of this study is to determine if this medicine shows efficacy in humans with SAH secondary to ruptured aneurysm."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cerebral Vasospasm",
+        "Subarachnoid Hemorrhage"
+      ],
+      "keywords": [
+        "Cerebral Vasospasm",
+        "Vasospasm",
+        "Subarachnoid Hemorrhage",
+        "Sildenafil citrate",
+        "Aneurysm",
+        "Intracranial aneurysm"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 0,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Sildenafil Treatment of Cerebral Aneurysm Vasospasm",
+          "type": "EXPERIMENTAL",
+          "description": "Trial Arm (single arm study)",
+          "interventionNames": [
+            "Drug: Sildenafil citrate"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Sildenafil citrate",
+          "description": "20 mg tablet orally every 8 hours until Day 14 post-hemorrhage",
+          "armGroupLabels": [
+            "Sildenafil Treatment of Cerebral Aneurysm Vasospasm"
+          ],
+          "otherNames": [
+            "Viagra",
+            "Revatio"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Onset of cerebral vasospasm",
+          "description": "Onset of cerebral vasospasm, defined as transcranial Doppler velocity exceeding 120 cm/sec.",
+          "timeFrame": "Daily measurements for 12 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Long-term participant functional outcome",
+          "description": "Long-term outcome as measured by the Glasgow Outcome Scale: 1 (Dead) to 8 (Upper Good Recovery)",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Long-term participant activities of daily living outc",
+          "description": "Long-term outcome as measured by the Barthel Index: 0 - 100 (0-20 total dependency, 21-60 severe dependency, 61-90 moderate dependency, 100 no dependency",
+          "timeFrame": "6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Subarachnoid Hemorrhage (Fisher Grade 3)\n* Cerebral Aneurysm documented by computed tomography angiography (CTA)/magnetic resonance angiography (MRA)/Cerebral Angiogram\n* Enrollment within 48 hours of symptom onset\n\nExclusion Criteria:\n\n* Hypersensitivity to Sildenafil\n* Pregnancy\n* Age less than 19 years\n* Concurrent use of nitrates or alpha-blockers\n* Aneurysm related to an arteriovenous malformation\n* Delayed enrollment past 48 hours\n* Subarachnoid hemorrhage that is not Fisher Grade 3",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "19 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "William E Thorell, MD",
+          "affiliation": "University of Nebraska",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Guy A Music, MD",
+          "affiliation": "University of Nebraska",
+          "role": "STUDY_DIRECTOR"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30",
+      "removedCountries": [
+        "United States"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020301",
+          "term": "Vasospasm, Intracranial"
+        },
+        {
+          "id": "D013345",
+          "term": "Subarachnoid Hemorrhage"
+        },
+        {
+          "id": "D000783",
+          "term": "Aneurysm"
+        },
+        {
+          "id": "D002532",
+          "term": "Intracranial Aneurysm"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D020300",
+          "term": "Intracranial Hemorrhages"
+        },
+        {
+          "id": "D006470",
+          "term": "Hemorrhage"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D020765",
+          "term": "Intracranial Arterial Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000068677",
+          "term": "Sildenafil Citrate"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013449",
+          "term": "Sulfonamides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D013450",
+          "term": "Sulfones"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D010879",
+          "term": "Piperazines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D011687",
+          "term": "Purines"
+        },
+        {
+          "id": "D006574",
+          "term": "Heterocyclic Compounds, 2-Ring"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

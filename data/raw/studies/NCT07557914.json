@@ -1,0 +1,384 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07557914",
+      "orgStudyIdInfo": {
+        "id": "kelunshen\u30102025\u30112025-861-2"
+      },
+      "organization": {
+        "fullName": "First Hospital of China Medical University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Epalrestat Combined With HAIC, Donafenib and Tislelizumab as First-line Treatment for Patients With Unresectable HCC and Diabetes",
+      "officialTitle": "A Multicenter, Prospective, Single-arm Clinical Study Evaluating the Efficacy and Safety of Epalrestat Combined With Hepatic Arterial Chemotherapy Infusion (HAIC), Donafenib and Tislelizumab as First-line Treatment for Patients With Unresectable Hepatocellular Carcinoma and Diabetes"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-04",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2026-10",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2029-02",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2029-02",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-04-22",
+      "studyFirstSubmitQcDate": "2026-04-22",
+      "studyFirstPostDateStruct": {
+        "date": "2026-04-30",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-09-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-09-21",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Haibo Shao",
+        "investigatorTitle": "Professor, MD, PhD",
+        "investigatorAffiliation": "First Hospital of China Medical University"
+      },
+      "leadSponsor": {
+        "name": "Haibo Shao",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "First Hospital of China Medical University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Liaoning Cancer Hospital & Institute",
+          "class": "OTHER"
+        },
+        {
+          "name": "The General Hospital of Northern Theater Command",
+          "class": "OTHER"
+        },
+        {
+          "name": "The Affiliated Hospital of Yanbian University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Harbin Medical University Third Affiliated Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate the comprehensive therapeutic efficacy and safety profile of the epalrestat combined with hepatic artery infusion chemotherapy (HAIC), donafenib and tislelizumab quadruple regimen in patients with unresectable hepatocellular carcinoma (HCC) and diabetes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "HCC - Hepatocellular Carcinoma",
+        "Diabetes"
+      ],
+      "keywords": [
+        "hepatic arterial infusion chemotherapy",
+        "Donafenib",
+        "Tislelizumab",
+        "HCC - Hepatocellular Carcinoma",
+        "Diabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 32,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Epalrestat plus HAIC, donafenib and tislelizumab",
+          "type": "EXPERIMENTAL",
+          "description": "Epalrestat 50mg tid, donafenib 0.2g bid, tislelizumab 200mg per 21days, HAIC (FOLFOX or RALOX) per 21days",
+          "interventionNames": [
+            "Drug: Epalrestat",
+            "Drug: Donafenib + Tislelizumab",
+            "Procedure: HAIC"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Epalrestat",
+          "description": "For the first 6 patients in the safety lead-in period, the starting dose of epalrestat was 50 mg, three times per day. If dose-limiting toxicity (DLT) occurred in the first 6 patients, the dose for the second round of 6 patients in the safety lead-in period would be adjusted to 50 mg, twice per day. If DLT occurred in the second round of 6 patients, the dose for the third round of 6 patients in the safety lead-in period would be adjusted to 50 mg, once per day.",
+          "armGroupLabels": [
+            "Epalrestat plus HAIC, donafenib and tislelizumab"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Donafenib + Tislelizumab",
+          "description": "donafenib 0.2g BID, tislelizumab 200mg/21days",
+          "armGroupLabels": [
+            "Epalrestat plus HAIC, donafenib and tislelizumab"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "HAIC",
+          "description": "Include FOLFOX and RALOX.",
+          "armGroupLabels": [
+            "Epalrestat plus HAIC, donafenib and tislelizumab"
+          ],
+          "otherNames": [
+            "hepatic artery infusion chemotherapy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "12-month Event-free survival (EFS) Rate",
+          "description": "The proportion of patients who have remained event-free from the start of treatment until the 12-month time point.(Predefined events include: progression of disease, death for any reason, terminate the treatment due to intolerable AEs.)",
+          "timeFrame": "From treatment to the first occurrence of a predefined event (progression of disease, death for any reason, terminate the treatment due to intolerable AEs), assessed up to 2 years."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Event-free survival (EFS)",
+          "description": "Defined as the time from treatment to the first occurrence of a predefined event (progression of disease, death for any reason, terminate the treatment due to intolerable AEs).",
+          "timeFrame": "From treatment to the first occurrence of a predefined event (progression of disease, death for any reason, terminate the treatment due to intolerable AEs), assessed up to 2 years."
+        },
+        {
+          "measure": "Overall survival (OS)",
+          "description": "The OS is defined as the time from the enrollment to death due to any cause.",
+          "timeFrame": "Up to approximately 2 years"
+        },
+        {
+          "measure": "Progression free survival(PFS) (Overall)",
+          "description": "The PFS is defined as the time from the enrollment to the first documented progressive disease (according to mRECIST) or death due to any cause, whichever occurs first.",
+          "timeFrame": "From enrollment to progressive disease (according to mRECIST) or death due to any cause, up to 2 years."
+        },
+        {
+          "measure": "Progression free survival(PFS) of intra-hepatic lesions",
+          "description": "The PFS is defined as the time from the enrollment to the first documented progressive disease of intra-hepatic lesions or death due to any cause, whichever occurs first.",
+          "timeFrame": "From the enrollment to the first documented progressive disease of intra-hepatic lesions or death due to any cause, up to 2 years."
+        },
+        {
+          "measure": "Progression free survival(PFS) of extra-hepatic lesions",
+          "description": "The PFS is defined as the time from the enrollment to the first documented appearance of extra-hepatic lesions or death due to any cause, whichever occurs first.",
+          "timeFrame": "From the enrollment to the first documented appearance of extra-hepatic lesions or death due to any cause, up to 2 years."
+        },
+        {
+          "measure": "Objective response rate(ORR) per RESCIST 1.1",
+          "description": "The ORR is defined as the proportion of patients with a documented complete response(CR) or partial response(PR) per RECIST 1.1.",
+          "timeFrame": "Up to approximately 2 years"
+        },
+        {
+          "measure": "ORR per mRECIST",
+          "description": "The ORR is defined as the proportion of patients with a documented CR or PR per mRECIST.",
+          "timeFrame": "Up to approximately 2 years"
+        },
+        {
+          "measure": "PVTT response rate per mRECIST",
+          "description": "The PVTT response rate is defined as the proportion of patients with a documented CR or PR of PVTT.\n\nAccording to the Vp classification:\n\nCR: PVTT disappears or the portal vein becomes completely unobstructed. PR: Decrease in VP classification. SD: Without PR and PD. PD: Increase in VP classification.",
+          "timeFrame": "Up to approximately 2 years"
+        },
+        {
+          "measure": "Disease control rate(DCR) per RESCIST 1.1",
+          "description": "The DCR is defined as the proportion of patients with a documented complete response(CR), partial response(PR) or stable disease(SD) per RECIST 1.1.",
+          "timeFrame": "Up to approximately 2 years"
+        },
+        {
+          "measure": "DCR per mRECIST",
+          "description": "The DCR is defined as the proportion of patients with a documented complete response(CR), partial response(PR) or stable disease(SD) per mRECIST.",
+          "timeFrame": "Up to approximately 2 years"
+        },
+        {
+          "measure": "Adverse event(AE) per Common Terminology Criteria for Adverse Events(CTCAE) 5.0",
+          "description": "The percentage and degree of patients who experience at least one AE, whether or not considered related to the treatment, according to CTCAE version 5.0.",
+          "timeFrame": "Up to approximately 2 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diabetes mellitus combined with unresectable advanced HCC (BCLC stage C);\n2. Patients who have the need for treatment, prevention and improvement of diabetic neuropathy;\n3. Liver function at Child-Pugh grade A or B (\u2264 7 points), ECOG PS 0-1;\n4. Age 18-80 years old. Confirmed as unrectable HCC through pathological or imaging diagnosis;\n\nExclusion Criteria:\n\n1. Severe liver dysfunction: Child-Pugh C grade (\u2265 8 points) or active hepatic encephalopathy Illness;\n2. Extensive extrahepatic metastases (e.g., lung, bone, or peritoneum metastases);\n3. Severe cardiovascular diseases: Uncontrolled heart failure, recent myocardial infarction;\n4. Renal failure: Creatinine clearance rate \\< 30 mL/min;\n5. Thrombocytopenia (less than 50\u00d710\u2079/L) or coagulation dysfunction (INR greater than 1.5);\n6. Active infection (such as uncontrolled hepatitis B virus replication with HBV-DNA \\> 2000 IU/mL);\n7. ECOG PS \u2265 2 or extremely poor overall condition;\n8. Diabetic patients with acute ketoacidosis or during the period of severe infection;\n9. Pregnant and lactating women;\n10. Known history of other malignancy.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Hongbin Zou",
+          "role": "CONTACT",
+          "phone": "+8618040026871",
+          "email": "hongbinzou300@gmail.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Haibo Shao",
+          "affiliation": "First Hospital of China Medical University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Tao Han",
+          "affiliation": "First Hospital of China Medical University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "The First Hospital of China Medical University",
+          "city": "Shenyang",
+          "state": "Liaoning",
+          "zip": "110000",
+          "country": "China",
+          "contacts": [
+            {
+              "name": "Haibo Shao",
+              "role": "CONTACT",
+              "phone": "+8613840150051",
+              "email": "haiboshao@aliyun.com"
+            },
+            {
+              "name": "Tao Han",
+              "role": "CONTACT",
+              "phone": "8617790995045",
+              "email": "than1984@sina.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.79222,
+            "lon": 123.43278
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Consent and privacy: Participants usually only agreed to data use in the original study. Sharing IPD may violate that agreement. And we want to protect our academic credit and avoid misuse of the data."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006528",
+          "term": "Carcinoma, Hepatocellular"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000230",
+          "term": "Adenocarcinoma"
+        },
+        {
+          "id": "D002277",
+          "term": "Carcinoma"
+        },
+        {
+          "id": "D009375",
+          "term": "Neoplasms, Glandular and Epithelial"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D008113",
+          "term": "Liver Neoplasms"
+        },
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D008107",
+          "term": "Liver Diseases"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C038131",
+          "term": "epalrestat"
+        },
+        {
+          "id": "C000710249",
+          "term": "donafenib"
+        },
+        {
+          "id": "C000707970",
+          "term": "tislelizumab"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,67 @@
+
+{% extends "base.html" %}
+{% block title %}Agent Monitor | MOSAIC{% endblock %}
+{% block breadcrumb %}Agent Monitor{% endblock %}
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">MULTI-AGENT SYSTEM</p>
+        <h1>Agent <span>Monitor</span></h1>
+        <p class="page-description">Inspect the specialist agents and their execution order.</p>
+    </div>
+</section>
+
+<div class="dashboard-grid">
+    <section class="content-card">
+        <div class="card-header">
+            <div>
+                <h3>Execution Pipeline</h3>
+                <p>Sequential LangGraph workflow</p>
+            </div>
+            <span class="status-label">Execution events unavailable</span>
+        </div>
+
+        <div class="agent-list">
+            {% set agents = [
+                ('Supervisor', 'Routes the investigation and compiles the final brief.', 'violet'),
+                ('Broken Promises', 'Investigates unmet commitments and trial discrepancies.', 'orange'),
+                ('Missing Results', 'Identifies completed trials without posted results.', 'cyan'),
+                ('Track Record', 'Examines sponsor and investigator history.', 'green'),
+                ('Pattern Finder', 'Identifies patterns across trial records.', 'violet'),
+                ('Side Effects', 'Investigates safety and adverse-event signals.', 'orange'),
+                ('Timeline', 'Examines trial timelines and date inconsistencies.', 'cyan')
+            ] %}
+            {% for name, description, color in agents %}
+            <a href="#" class="action-item">
+                <span class="action-icon {{ color }}">{{ loop.index }}</span>
+                <div><h4 style="margin:0">{{ name }}</h4><p style="margin:0">{{ description }}</p></div>
+                <span class="status-label" style="font-size: 0.7rem; padding: 2px 8px;">Not running</span>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+
+    <section class="content-card">
+        <div class="card-header">
+            <div>
+                <h3>System Capabilities</h3>
+                <p>Agent cognitive functions</p>
+            </div>
+        </div>
+        <div class="action-list">
+            <div class="action-item" style="pointer-events: none; opacity: 0.8;">
+                <span class="action-icon violet">◈</span>
+                <div><h4 style="margin:0">Pattern Recognition</h4><p style="margin:0">Cross-trial discrepancy detection</p></div>
+            </div>
+            <div class="action-item" style="pointer-events: none; opacity: 0.8;">
+                <span class="action-icon orange">◈</span>
+                <div><h4 style="margin:0">Timeline Analysis</h4><p style="margin:0">Temporal inconsistency auditing</p></div>
+            </div>
+            <div class="action-item" style="pointer-events: none; opacity: 0.8;">
+                <span class="action-icon cyan">◈</span>
+                <div><h4 style="margin:0">Signal Aggregation</h4><p style="margin:0">Multi-agent intelligence synthesis</p></div>
+            </div>
+        </div>
+    </section>
+</div>
+{% endblock %}

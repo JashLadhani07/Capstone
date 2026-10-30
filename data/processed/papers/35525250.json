@@ -1,0 +1,31 @@
+{
+  "pmid": "35525250",
+  "title": "Tenecteplase versus alteplase for the management of acute ischaemic stroke in Norway (NOR-TEST 2, part A): a phase 3, randomised, open-label, blinded endpoint, non-inferiority trial.",
+  "abstract": "Tenecteplase is a modified tissue plasminogen activator with pharmacological and practical advantages over alteplase-which is currently the only approved thrombolytic drug for ischaemic stroke. The NOR-TEST trial showed that 0\u00b74 mg/kg tenecteplase had an efficacy and safety profile similar to that of a standard dose (0\u00b79 mg/kg) of alteplase, albeit in a patient population with a high prevalence of minor stroke. The aim of NOR-TEST 2 was to establish the non-inferiority of tenecteplase 0\u00b74 mg/kg to alteplase 0\u00b79 mg/kg for patients with moderate or severe ischaemic stroke. This phase 3, randomised, open-label, blinded endpoint, non-inferiority trial was performed at 11 hospitals with stroke units in Norway. Patients with suspected acute ischaemic stroke with a National Institutes of Health Stroke Scale score of 6 or more who were eligible for thrombolysis and admitted within 4\u00b75 h of symptom onset were consecutively included. Random assignment, done by a computer with a block size of 4 and with allocations placed into opaque envelopes to be opened consecutively, was 1:1 between intravenous tenecteplase (0\u00b74 mg/kg) or standard dose alteplase (0\u00b79 mg/kg). Doctors and nurses providing acute care were not masked to treatment, but primary outcome assessment at 3 months was masked. The primary outcome was favourable functional outcome defined as a modified Rankin Scale score of 0-1 at 3 months, assessed in the modified intention-to-treat analysis (excluding patients who did not qualify for thrombolysis after randomisation or who withdrew informed consent). The non-inferiority margin was 3%. This trial (NOR-TEST 2) is registered with EudraCT (number 2018-003090-95) and ClinicalTrials.gov (NCT03854500). The trial was stopped early for safety reasons and is designated part A for analysis. Part B is ongoing with a lower dose of tenecteplase (0\u00b725 mg/kg). Between Oct 28, 2019, and Sept 26, 2021, 216 patients were enrolled. Patient enrolment was stopped after a per-protocol safety review showed an imbalance in the rates of symptomatic intracranial haemorrhage between the treatment groups, which surpassed the prespecified criteria for stopping the trial. Of 204 patients entering the modified intention-to-treat analysis, 100 were randomly allocated tenecteplase and 104 were allocated alteplase. All patients were followed up within 14 days of the end of the 3-months' follow-up period. A favourable functional outcome was reported less frequently in patients receiving tenecteplase (31 [32%] of 96 patients) compared with alteplase (52 [51%] of 101 patients; unadjusted OR 0\u00b745 [95% CI 0\u00b725-0\u00b780]; p=0\u00b70064). Any intracranial haemorrhage was significantly more frequent with tenecteplase (21 [21%] of 100 patients) than with alteplase (seven [7%] of 104 patients; unadjusted OR 3\u00b768 [95% CI 1\u00b749-9\u00b711]; p=0\u00b70031). Mortality at 3 months was also significantly higher with tenecteplase (15 [16%] of 96 patients) than with alteplase (five [5%] of 101 patients; unadjusted OR 3\u00b756 [95% CI 1\u00b724-10\u00b721]; p=0\u00b7013). Numerically more cases of symptomatic intracranial haemorrhage were reported with tenecteplase (six [6%] of 100 patients) than with alteplase (one [1%] of 104 patients; unadjusted OR 6\u00b757 [95% CI 0\u00b778-55\u00b762]; p=0\u00b7061). In this prematurely terminated study (terminated to fulfil the prespecified safety criteria), tenecteplase at a dose of 0\u00b74 mg/kg yielded worse safety and functional outcomes compared with alteplase. Our study consequently could not show that 0\u00b74 mg/kg tenecteplase is non-inferior to alteplase in moderate and severe ischaemic stroke. Future stroke trials should assess a lower dose of tenecteplase versus alteplase in patients with moderate or severe stroke. The Norwegian National Programme for Clinical Therapy Research.",
+  "journal": "The Lancet. Neurology",
+  "pub_date": "2022-Jun",
+  "authors": [
+    "Kvistad, Christopher Elnan",
+    "N\u00e6ss, Halvor",
+    "Helleberg, Bernt H",
+    "Idicula, Titto",
+    "Hagberg, Guri",
+    "Nordby, Linn Marie",
+    "Jenssen, Kristian N",
+    "Tobro, H\u00e5kon",
+    "R\u00f6rholt, Dag M",
+    "Kaur, Kamaljit",
+    "Eltoft, Agnethe",
+    "Evensen, Kristin",
+    "Haasz, Judit",
+    "Singaravel, Guruparan",
+    "Fromm, Annette",
+    "Thomassen, Lars"
+  ],
+  "nct_ids_referenced": [
+    "NCT03854500"
+  ],
+  "source": "pubmed",
+  "word_count": 557,
+  "parsed_at": "2026-10-30T10:31:33.248053"
+}

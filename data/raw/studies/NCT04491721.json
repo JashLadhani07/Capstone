@@ -1,0 +1,208 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04491721",
+      "orgStudyIdInfo": {
+        "id": "NCC2288"
+      },
+      "organization": {
+        "fullName": "ChineseAMS",
+        "class": "UNKNOWN"
+      },
+      "briefTitle": "Follow-up the OS and PFS of Rituximab Biosimilar HLX01 and MabThera, in Untreated Subjects With CD20+ DLBCL",
+      "officialTitle": "Long-term Follow-up the OS and PFS of Rituximab Biosimilar HLX01 and MabThera in Combination With CHOP, in Previously Untreated Subjects With CD20+ DLBCL"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-07",
+      "overallStatus": "ENROLLING_BY_INVITATION",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-07",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-06",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-07",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2020-07-25",
+      "studyFirstSubmitQcDate": "2020-07-25",
+      "studyFirstPostDateStruct": {
+        "date": "2020-07-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-07-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-07-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Shi Yuankai",
+        "investigatorTitle": "chief physician",
+        "investigatorAffiliation": "Chinese Academy of Medical Sciences"
+      },
+      "leadSponsor": {
+        "name": "Chinese Academy of Medical Sciences",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The main objective of this study is to observe the overall survival of Rituximab Biosimilar HLX01 and MabThera in Combination With CHOP, in previously untreated subjects with CD20+ DLBCL. The secondary objective of this study is to observe the progression-free survival of Rituximab Biosimilar HLX01 and MabThera in Combination With CHOP, in previously untreated subjects with CD20+ DLBCL.",
+      "detailedDescription": "1. Enrollment:407 subjects.\n2. The inclusion criteria of this study: subjects who have participated in Phase III clinical trials.Phase III clinical trial\uff08NCT02787239\uff09 has ended.\n3. The exclusion criteria: \u2460Subjects died; \u2461Subjects are unwilling to participate in follow-up study; \u2462 the investigator judges that the subject is not suitable for participating the study.\n4. Duration and method of follow-up: 2-10 years (2020-2027)after the end of the Phase III trial and follow up the subjects by the phone.\n5. Statistical analysis method: For progression-free survival and overall survival (OS), the median time and its 95% confidence intervals will be calculated by the Kaplan-Meier method.The Log-Rank test will be used for finding the difference between groups. The efficacy will be analyzed by SAS9.4 , and all hypothesis tests are two-sided. The confidence level of all confidence intervals is 95%. P value less than 0.05 was regarded as statistically significant."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diffuse Large B Cell Lymphoma"
+      ],
+      "keywords": [
+        "rituximab",
+        "overall survival",
+        "progression-free survival"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "3 Months",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 407,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Rituximab Biosimilar HLX01 in Combination With CHOP",
+          "description": "Rituximab Biosimilar HLX01 in Combination With CHOP,in Previously Untreated Subjects With CD20+ DLBCL."
+        },
+        {
+          "label": "MabThera in Combination With CHOP",
+          "description": "MabThera in Combination With CHOP\uff0cin Previously Untreated Subjects With CD20+ DLBCL."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "overall survival",
+          "description": "The main objective of this study is to observe the overall survival of Rituximab Biosimilar HLX01 and MabThera in Combination With CHOP, in previously untreated subjects with CD20+ DLBCL.",
+          "timeFrame": "up to 8 years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "progression-free survival",
+          "description": "The secondary objective of this study is to observe the progression-free survival of Rituximab Biosimilar HLX01 and MabThera in Combination With CHOP, in previously untreated subjects with CD20+ DLBCL.",
+          "timeFrame": "up to 8 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects who have participated in Phase III study\uff08NCT02787239\uff09.\n\nExclusion Criteria:\n\n* \u2460Subjects died; \u2461Subjects are unwilling to participate in follow-up study; \u2462 the investigator judges that the subject is not suitable for participating the study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Subjects who have participated in Phase III study. Phase III study\uff08NCT02787239\uff09was rituximab biosimilar HLX01 and MabThera in patients with diffuse large B-cell lymphoma.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Yuankai Shi, Doctor",
+          "affiliation": "Chinese Academy of Medical Sciences",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Cancer Institute/Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College",
+          "city": "Beijing",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016403",
+          "term": "Lymphoma, Large B-Cell, Diffuse"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D016393",
+          "term": "Lymphoma, B-Cell"
+        },
+        {
+          "id": "D008228",
+          "term": "Lymphoma, Non-Hodgkin"
+        },
+        {
+          "id": "D008223",
+          "term": "Lymphoma"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D008206",
+          "term": "Lymphatic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

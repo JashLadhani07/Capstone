@@ -1,0 +1,372 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07405333",
+      "orgStudyIdInfo": {
+        "id": "UOB-NUR-2026-01"
+      },
+      "organization": {
+        "fullName": "University of Baghdad",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of Coughing Exercises Versus Incentive Spirometry on Respiratory Function and Recovery in Children After Cardiac Surgery.",
+      "officialTitle": "Effect of Coughing Exercises Versus Incentive Spirometry on Respiratory Outcomes and Postoperative Recovery Among Children Undergoing Cardiac Surgery.",
+      "acronym": "CEXIS"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-05",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-12-07",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-08-07",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-10-07",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-01-22",
+      "studyFirstSubmitQcDate": "2026-02-04",
+      "studyFirstPostDateStruct": {
+        "date": "2026-02-12",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-05-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-05-12",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Rusul Khalid Kadim",
+        "investigatorTitle": "Graduate Student / Principal Investigator",
+        "investigatorAffiliation": "University of Baghdad"
+      },
+      "leadSponsor": {
+        "name": "University of Baghdad",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study examines the effects of coughing exercises and incentive spirometry (IS) on lung function and recovery in children who undergo heart surgery. The main goals are to see:\n\nHow coughing exercises and IS affect breathing and lung function after surgery? How these exercises influence overall recovery after surgery? Children who participate will be randomly assigned to one of three groups: coughing exercises, IS, or standard care. Those in the exercise groups will perform their assigned breathing exercises every 3 hours for the first 3 days after surgery. Daily check-ups will be conducted to monitor their progress, lung function, and oxygen levels.\n\nThe study will measure breathing ability, oxygen levels, and recovery milestones to find out which method is most effective in preventing lung complications and helping children recover faster.",
+      "detailedDescription": "This clinical trial evaluates the effects of coughing exercises and incentive spirometry (IS) on postoperative respiratory outcomes and recovery in children undergoing elective cardiac surgery with cardiopulmonary bypass.\n\nThe study aims to answer:\n\nHow do coughing exercises and IS influence lung function and breathing after surgery? How do they affect overall recovery, including physical comfort, oxygenation, and prevention of pulmonary complications?\n\nEligible children aged 6 to 18 years will be randomly assigned to one of three groups:\n\nCoughing exercises group Incentive spirometry group Standard care group Children in the intervention groups will perform the assigned exercises every 3 hours for the first 3 days after surgery. All participants will receive daily monitoring, including vital signs, oxygen saturation, lung function assessment, and observation of postoperative recovery indicators such as feeding tolerance and mobility.\n\nThe study will assess primary outcomes such as postoperative respiratory function using a standardized respiratory score, and secondary outcomes including postoperative recovery indicators (quality of recovery scores), incidence of pulmonary complications, and length of stay in the pediatric intensive care unit (ICU).\n\nThis research will help identify the most effective method for improving respiratory outcomes, reducing complications, and supporting faster recovery in children after cardiac surgery."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Congenital Heart Disease (CHD)",
+        "Postoperative Respiratory Dysfunction",
+        "Postoperative Recovery After Cardiac Surgery"
+      ],
+      "keywords": [
+        "Coughing Exercises",
+        "Incentive Spirometry",
+        "Congenital Heart Disease",
+        "Respiratory Function",
+        "Recovery",
+        "cardiac surgery",
+        "pediatric"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "this is a parallel-assignment randomized interventional study with three arms: coughing exercises, incentive spirometry, and standard care. Participants will remain in their assigned group throughout the study period, receiving the allocated intervention along with standard postoperative care",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 99,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Coughing Exercises",
+          "type": "EXPERIMENTAL",
+          "description": "participants in this arm will receive structured postoperative coughing exercises under professional supervision. The exercises include deep breathing followed by effective coughing techniques to enhance airway clearance, promote lung expansion, and prevent postoperative pulmonary complications. The intervention will be performed every 3 hours for three days after cardiac surgery in addition to standard postoperative care.",
+          "interventionNames": [
+            "Behavioral: Coughing Exercises"
+          ]
+        },
+        {
+          "label": "Incentive Spirometry (IS)",
+          "type": "EXPERIMENTAL",
+          "description": "Participants in this arm will receive postoperative incentive spirometry under professional supervision. Children will be instructed to perform slow, deep inhalations using an incentive spirometer to promote lung expansion, improve ventilation. The intervention will be performed 15 times every 3 hours for three days after cardiac surgery in addition to standard postoperative care.",
+          "interventionNames": [
+            "Device: Incentive Spirometry"
+          ]
+        },
+        {
+          "label": "Standard Postoperative Care",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants in this arm will receive standard postoperative care following cardiac surgery without additional structured respiratory physiotherapy interventions. Standard care includes routine medical and nursing management according to hospital protocols, such as oxygen therapy, pain management, monitoring of vital signs, and general postoperative mobilization as tolerated.",
+          "interventionNames": [
+            "Other: Standard Postoperative Care"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Coughing Exercises",
+          "description": "participants will receive structured postoperative coughing exercises supervised by trained healthcare professionals. The intervention includes instruction on effective deep breathing followed by directed coughing to enhance airway clearance and prevent secretion retention. Exercises will be performed every 3 hours for three consecutive days after cardiac surgery, in addition to standard postoperative care.",
+          "armGroupLabels": [
+            "Coughing Exercises"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "Incentive Spirometry",
+          "description": "participants will perform postoperative incentive spirometry using a standard incentive spirometer under professional supervision. Children will be instructed to perform slow, deep inspirations with visual feedback to promote lung expansion and alveolar recruitment. The intervention will be conducted 15 times every 3 hours for three days after surgery, alongside standard postoperative care.",
+          "armGroupLabels": [
+            "Incentive Spirometry (IS)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard Postoperative Care",
+          "description": "Participants will receive routine postoperative care according to institutional protocols following cardiac surgery. This includes standard medical and nursing management such as oxygen therapy, pain control, monitoring of vital signs, and mobilization as tolerated, without additional structured respiratory physiotherapy interventions.",
+          "armGroupLabels": [
+            "Standard Postoperative Care"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Respiratory Function Score.",
+          "description": "A composite postoperative respiratory function score assessed using standardized pediatric respiratory severity score, including respiratory rate (breaths/min), oxygen saturation measured by pulse oximetry (SpO\u2082, %), presence of wheezing (yes/no), use of accessory respiratory muscles (yes/no), and feeding tolerance. Higher scores indicate better respiratory function.",
+          "timeFrame": "Baseline, 1 hour after intervention, 3 hours, 6 hours, 24 hours, 48 hours, and 72 hours."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Postoperative Recovery Indicators Assessed by Clinical and Functional Parameters",
+          "description": "Postoperative quality of recovery assessed using the Pediatric Quality of Recovery (PQoR) scale, which evaluates postoperative pain, comfort, emotional status, physical activity, and feeding tolerance through age-appropriate assessment and caregiver reporting. Higher scores indicate better postoperative recovery.",
+          "timeFrame": "Baseline, postoperative day 1, and postoperative day 7"
+        },
+        {
+          "measure": "Length of Intensive Care Unit (ICU) Stay",
+          "description": "The duration of stay in the pediatric intensive care unit following cardiac surgery, calculated in days from ICU admission to ICU discharge based on hospital medical records..",
+          "timeFrame": "From ICU admission after surgery until ICU discharge, up to postoperative day 14"
+        },
+        {
+          "measure": "Arterial Blood Gas (ABG) Parameters",
+          "description": "Arterial blood gas analysis will be used to evaluate changes in oxygenation and ventilation status following the cough exercise and incentive spirometry intervention. The measured parameters include partial pressure of oxygen (PaO\u2082), partial pressure of carbon dioxide (PaCO\u2082), bicarbonate (HCO\u2083-), and oxygen saturation (SaO\u2082). Measurements will be obtained using standard arterial sampling procedures and analyzed according to hospital laboratory protocols.",
+          "timeFrame": "Baseline (prior to intervention) and 24, and 48 hours after intervention"
+        },
+        {
+          "measure": "postoperative complications",
+          "description": "Assessment of postoperative complications among pediatric patients following cardiac surgery, including atelectasis, pneumonia, pleural effusion, pneumothorax, respiratory distress, and others during the postoperative period.",
+          "timeFrame": "From the first postoperative day until hospital discharge (up to 7 postoperative days)."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Crit\n\n* Children aged 6 to 18 years scheduled for elective cardiac surgery.\n* Postoperative extubation within 24 hours and judged clinically stable to begin respiratory therapy.\n* Hemodynamically stable.\n\nExclusion Criteria:\n\n* Pre-existing moderate-to-severe chronic lung disease requiring baseline oxygen therapy.\n* Neuromuscular disorders significantly impairing cough/inspiratory effort.\n* Emergency surgery, ongoing major bleeding.\n* Prolonged mechanical ventilation \\>72 hours or tracheostomy on admission.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "6 Years",
+      "maximumAge": "18 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "rusul khalid khadim, MSc",
+          "role": "CONTACT",
+          "phone": "96407702612183",
+          "email": "rusal.khaled1606a@conursing.uobaghdad.edu.iq"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Ibn Al-Bitar Specialized Hospital for Cardiac Surgery",
+          "status": "RECRUITING",
+          "city": "Baghdad",
+          "state": "Baghdad Governorate",
+          "country": "Iraq",
+          "contacts": [
+            {
+              "name": "rusul khalid khadim",
+              "role": "CONTACT",
+              "phone": "96407702612183",
+              "email": "asokhalid1234@gmail.com"
+            },
+            {
+              "name": "rusul",
+              "role": "CONTACT",
+              "email": "asokhalid1234@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.34058,
+            "lon": 44.40088
+          }
+        },
+        {
+          "facility": "Ibn Al-Nafis Hospital for Cardiac, Thoracic and Vascular Surgery",
+          "status": "RECRUITING",
+          "city": "Baghdad",
+          "state": "Baghdad Governorate",
+          "country": "Iraq",
+          "contacts": [
+            {
+              "name": "rusul khalid khadim",
+              "role": "CONTACT",
+              "phone": "96407702612183",
+              "email": "asokhalid1234@gmail.com"
+            },
+            {
+              "name": "rusul",
+              "role": "CONTACT",
+              "email": "asokhalid1234@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.34058,
+            "lon": 44.40088
+          }
+        },
+        {
+          "facility": "Iraqi Center for Heart Diseases",
+          "status": "RECRUITING",
+          "city": "Baghdad",
+          "state": "Baghdad Governorate",
+          "country": "Iraq",
+          "contacts": [
+            {
+              "name": "rusul khalid khadim",
+              "role": "CONTACT",
+              "phone": "96407702612183",
+              "email": "asokhalid1234@gmail.com"
+            },
+            {
+              "name": "rusul",
+              "role": "CONTACT",
+              "email": "asokhalid1234@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.34058,
+            "lon": 44.40088
+          }
+        },
+        {
+          "facility": "Imam Al-Hassan Al-Mujtaba Hospital",
+          "status": "RECRUITING",
+          "city": "Karbala",
+          "state": "Karbala Governorate",
+          "country": "Iraq",
+          "contacts": [
+            {
+              "name": "rusul khalid khadim",
+              "role": "CONTACT",
+              "phone": "96407702612183",
+              "email": "asokhalid1234@gmail.com"
+            },
+            {
+              "name": "rusul",
+              "role": "CONTACT",
+              "email": "asokhalid1234@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 32.61603,
+            "lon": 44.02488
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Individual participant data will not be shared due to the sensitive nature of pediatric health information and to protect participant confidentiality. The study involves children undergoing cardiac surgery, and sharing detailed clinical data could risk identification of participants despite de-identification measures. Additionally, no institutional approval has been obtained for secondary use of these data.."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006330",
+          "term": "Heart Defects, Congenital"
+        },
+        {
+          "id": "D053120",
+          "term": "Respiratory Aspiration"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D018376",
+          "term": "Cardiovascular Abnormalities"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D000013",
+          "term": "Congenital Abnormalities"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D012120",
+          "term": "Respiration Disorders"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,270 @@
+{
+  "nct_id": "NCT03452085",
+  "title": "Artificial Saliva in Diabetes Type II: a Randomized Registry Cross Over Study",
+  "sponsor": "Certmedica International GmbH",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Xerostomia Due to Hyposecretion of Salivary Gland",
+    "Diabetes Mellitus, Type 2"
+  ],
+  "interventions": [
+    "artificial saliva spray (AS)",
+    "maritime throat spray (TT)"
+  ],
+  "primary_outcome": "xerostomia",
+  "secondary_outcomes": [
+    "stimulated salivary flow",
+    "antioxidant capacity of saliva (SAT test)",
+    "patients preference for treatment AS or TT"
+  ],
+  "start_date": "2017-09-23",
+  "completion_date": "2017-11-04",
+  "results_posted": false,
+  "enrollment": 21,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03452085",
+        "orgStudyIdInfo": {
+          "id": "IAPSSAPP"
+        },
+        "organization": {
+          "fullName": "Certmedica International GmbH",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "The Artificial Saliva Spray Reduces Xerostomia in Diabetes Type II",
+        "officialTitle": "Artificial Saliva in Diabetes Type II: a Randomized Registry Cross Over Study"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2018-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2017-09-23",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2017-11-04",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2018-01-16",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2018-02-03",
+        "studyFirstSubmitQcDate": "2018-02-28",
+        "studyFirstPostDateStruct": {
+          "date": "2018-03-02",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2018-02-28",
+        "lastUpdatePostDateStruct": {
+          "date": "2018-03-02",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Certmedica International GmbH",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "In diabetes Type II the xerostomia is a quite frequent symptom. In evaluating the activity of an artificial saliva spray compared to a water gel in patients with Diabetes Type II patients had to follow a three day treatment with each product. Whereas after the first treatment period the two groups had to follow a wash out period of three days before the second treatment period could begin.\n\nThe artificial saliva spray reduced the xerostomia and the inflammation or the oral tissue.",
+        "detailedDescription": "In diabetes Type II the xerostomia is a quite frequent symptom. The trial was conducted at a single center. Designed and implementing UNI EN ISO 14155:2012, STROBE statement Version 4 and was in conformity with the guidelines of the Declaration of Helsinki.\n\nThe type of study was a randomized, cross over clinical trial to compare two treatments (artificial saliva spray (aldiamed(R) mouth spray) AS vs. (Tonimer(R) Throat Spray) TT .\n\nTwenty one subjects that were part of the epidemiological screening for asymptomatic vascular diseases conducted in the Irwin Lab3 of Spoltore (PE / Italy) The degree of xerostomia for the admission had to be at least \\> 2 according to a semi-quantal scale (ranging from 0 to 6) and patients already under treatment for xerostomia or with xerostomia score \\< 2, suffering from obesity, cancer, drug addiction or alcoholism were excluded.\n\nThe patients had to follow a three day treatment with each product. Whereas after the first treatment period the two groups had to follow a wash out period of three days before the second treatment period could begin.\n\nThe study consisted of a preliminary selection during screening, the measurement of xerostomia and random allocation, first treatment period, wash out period and finally the second treatment period."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Xerostomia Due to Hyposecretion of Salivary Gland",
+          "Diabetes Mellitus, Type 2"
+        ],
+        "keywords": [
+          "xerostomia",
+          "diabetes type II",
+          "salivary flow",
+          "antioxidant capacity of saliva",
+          "aldiamed"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "interventionModelDescription": "Patients were randomized to two groups, whereas one group starts treatment with AS and the other group starts treatment with TT (control).\n\nAfter a wash out phase of 3 days, the patients have to take the other product for also 3 days.\n\n(e. g. randomized patient takes AS for 3 days, after a wash out period of 3 days he takes TT also for three days.)",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "NONE",
+            "maskingDescription": "The two types of pump-spray had a different bottle design but the bottles were blank with no identification"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 21,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "artificial saliva spray (AS)",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "The randomized part of the participants who started first with the artificial saliva spray taking it three times a day for a three days treatment, followed by a wash out phase of 3 days.\n\nAfter wash out phase they take for three days the marine water throat spray taking it three times a day for a three days treatment.",
+            "interventionNames": [
+              "Device: artificial saliva spray (AS)",
+              "Other: maritime throat spray (TT)"
+            ]
+          },
+          {
+            "label": "maritime throat spray (TT)",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "The randomized part of the participants who started first with the marine water throat spray taking it three times a day for a three days treatment, followed by a wash out phase of 3 days.\n\nAfter wash out phase they take for three days the artificial saliva spray taking it three times a day for a three days treatment.",
+            "interventionNames": [
+              "Device: artificial saliva spray (AS)",
+              "Other: maritime throat spray (TT)"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "artificial saliva spray (AS)",
+            "description": "cross over design",
+            "armGroupLabels": [
+              "artificial saliva spray (AS)",
+              "maritime throat spray (TT)"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "maritime throat spray (TT)",
+            "description": "cross over design",
+            "armGroupLabels": [
+              "artificial saliva spray (AS)",
+              "maritime throat spray (TT)"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "xerostomia",
+            "description": "xerostomia was measured according to a semi-quantal visual scale (or VAS; visual analogue scale) ranging from 0 to 6 with intervals of 1 point",
+            "timeFrame": "first day before treatment; change to third day after treatment (day 1+3; 7+9)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "stimulated salivary flow",
+            "description": "Subject was asked to chew a standard square of medical cotton for one minute rolling the cotton in the mouth in order to collect the saliva. The measure of the flow consisted in weighing the cotton before and after the chewing",
+            "timeFrame": "first day before treatment; change to third day after treatment (day 1+3; 7+9)"
+          },
+          {
+            "measure": "antioxidant capacity of saliva (SAT test)",
+            "description": "The test utilizes the capacity of thiocyanate (SCN) to react with iron (Fe3+) causing the formation of FE((SCN)6)3-.",
+            "timeFrame": "first day before treatment; changes to third day after treatment (day 1+3; 7+9)"
+          },
+          {
+            "measure": "patients preference for treatment AS or TT",
+            "description": "question in regard to the preference",
+            "timeFrame": "third day after finalization of the treatment period (day 3; 9)"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* suffering xerostomia\n* degree of xerostomia at least \\> 2 according to a semiquantal scare ranging from 0 to 6\n* diabetes Type II \\> one year, with stabilized oral hypoglycemic therapy from at least 6 months.\n* concomitant chronic diseases pertaining to dyslipidemia, cardiovascular and/or gastrointestinal diseases, and anxiety/depression were accepted provided under adequate therapy since at least 6 months.\n\nExclusion Criteria:\n\n* under treatment for xerostomia or with xerostomia score \\< 2\n* suffering from obesity (BMI \\> 30 kg/m2),\n* cancer of any type\n* drug addiction and alcoholism",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "30 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Irwin Labs, University of Chieti",
+            "city": "Chieti",
+            "state": "PE",
+            "zip": "65010",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 42.34827,
+              "lon": 14.16494
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "id": "D014987",
+            "term": "Xerostomia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D012466",
+            "term": "Salivary Gland Diseases"
+          },
+          {
+            "id": "D009059",
+            "term": "Mouth Diseases"
+          },
+          {
+            "id": "D009057",
+            "term": "Stomatognathic Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718857"
+}

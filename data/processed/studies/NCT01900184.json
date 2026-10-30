@@ -1,0 +1,490 @@
+{
+  "nct_id": "NCT01900184",
+  "title": "Part 1: Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Ascending Single Dose and Food Influence Study of QGC001 Administered Orally To Healthy Adult Subjects, Part 2: Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Ascending Multiple Dose Study of QGC001 Administered Orally To Healthy Adult Subjects.",
+  "sponsor": "Quantum Genomics SA",
+  "phase": "PHASE1",
+  "status": "COMPLETED",
+  "conditions": [
+    "Essential Hypertension"
+  ],
+  "interventions": [
+    "QGC001 [(3S,3'S)-4,4'-dithiobis (3-aminobutane-1-sulfonic acid)]",
+    "Placebo"
+  ],
+  "primary_outcome": "Adverse events",
+  "secondary_outcomes": [
+    "Maximum observed plasma concentration (Cmax) of QGC001",
+    "Time at which Cmax is observed (tmax) of QGC001",
+    "Elimination rate constant (\u03bbz) of QGC001",
+    "Terminal half-life (t1/2,z) of QGC001",
+    "Area Under the Concentration-time curve (AUClast and AUC0-\u221e) of QGC001",
+    "Maximum observed plasma concentration (MRCmax) of metabolic ratios",
+    "Area Under the Concentration-time curve (MRAUC) of metabolic ratios",
+    "Cumulative amount eliminated (Ae)",
+    "Fraction recovered (Fe)",
+    "Renal clearance (CLR)",
+    "Plasma renin",
+    "Plasma aldosterone",
+    "Plasma cortisol",
+    "Plasma copeptin",
+    "Urinary aldosterone",
+    "Urinary cortisol",
+    "Urinary sodium",
+    "Urinary potassium",
+    "Urinary creatinine",
+    "Systolic and Diastolic Blood Pressure",
+    "Heart Rate"
+  ],
+  "start_date": "2012-12",
+  "completion_date": "2013-03",
+  "results_posted": false,
+  "enrollment": 69,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01900184",
+        "orgStudyIdInfo": {
+          "id": "QGC001/1QG2"
+        },
+        "organization": {
+          "fullName": "Quantum Genomics SA",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Study of the Product QGC001 as a Single Dose and Multiple Doses Administered Orally to Healthy Adult Subjects",
+        "officialTitle": "Part 1: Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Ascending Single Dose and Food Influence Study of QGC001 Administered Orally To Healthy Adult Subjects, Part 2: Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Ascending Multiple Dose Study of QGC001 Administered Orally To Healthy Adult Subjects."
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2013-07",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2012-12"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2013-03",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2013-03",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2013-06-27",
+        "studyFirstSubmitQcDate": "2013-07-11",
+        "studyFirstPostDateStruct": {
+          "date": "2013-07-16",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2013-07-11",
+        "lastUpdatePostDateStruct": {
+          "date": "2013-07-16",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Quantum Genomics SA",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "1QG2 is a Phase 1 study aiming to assess the safety and tolerability of ascending single/multiple oral doses (SAD \\& MAD) in healthy young subjects, the preliminary food interaction and the effect of QGC001 on blood pressure and heart rate, but also to determine pharmacokinetic preliminary profiles of QGC001 and its metabolite EC33 and pharmacodynamic preliminary profiles of QGC001 and its metabolite EC33 especially effects on the renin-angiotensin-aldosterone and copeptin systems."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Essential Hypertension"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "maskingInfo": {
+            "masking": "TRIPLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "INVESTIGATOR",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 69,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "500 mg bid of QGC001",
+            "type": "EXPERIMENTAL",
+            "description": "Each dose of QGC001 will be administered in solution with 200 mL of purified water.",
+            "interventionNames": [
+              "Drug: QGC001 [(3S,3'S)-4,4'-dithiobis (3-aminobutane-1-sulfonic acid)]"
+            ]
+          },
+          {
+            "label": "750 mg bid of QGC001",
+            "type": "EXPERIMENTAL",
+            "description": "Each dose of QGC001 will be administered in solution with 200 mL of purified water.",
+            "interventionNames": [
+              "Drug: QGC001 [(3S,3'S)-4,4'-dithiobis (3-aminobutane-1-sulfonic acid)]"
+            ]
+          },
+          {
+            "label": "1,000 mg bid of QGC001",
+            "type": "EXPERIMENTAL",
+            "description": "Each dose of QGC001 will be administered in solution with 200 mL of purified water.",
+            "interventionNames": [
+              "Drug: QGC001 [(3S,3'S)-4,4'-dithiobis (3-aminobutane-1-sulfonic acid)]"
+            ]
+          },
+          {
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "description": "The placebo will be administered in solution with 200 mL of purified water.",
+            "interventionNames": [
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "QGC001 [(3S,3'S)-4,4'-dithiobis (3-aminobutane-1-sulfonic acid)]",
+            "armGroupLabels": [
+              "1,000 mg bid of QGC001",
+              "500 mg bid of QGC001",
+              "750 mg bid of QGC001"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Placebo",
+            "description": "Contains magnesium stearate, silica dental type, anhydrous lactose",
+            "armGroupLabels": [
+              "Placebo"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Adverse events",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Red blood cell count",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Haemoglobin",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Haematocrit",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "White blood cell count with differential",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Platelet count",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma sodium",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma potassium",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma calcium",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma total bilirubin",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma conjugated bilirubin",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma Aspartate Amino Transferase (ASAT)",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma Alanine Amino Transferase (ALAT)",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma Gamma Glutamyl Transferase (GGT)",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma alkaline phosphatases",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma total protein",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma Creatine PhosphoKinase (CPK)",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma creatinine",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma glucose",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma cholesterol",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Plasma triglycerides",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Urinary pH",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Urinary protein",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Urinary glucose",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Urinary leukocytes",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Urinary nitrites",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Urinary ketones",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Urinary blood",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Weight assessment (kg)",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Body temperature (\u00b0C)",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Supine and orthostatic (systolic and diastolic) blood pressure",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "Heart rate",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          },
+          {
+            "measure": "12-lead ECG",
+            "timeFrame": "up to 4 weeks for SAD, 5 weeks for FI and 6 weeks for MAD"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Maximum observed plasma concentration (Cmax) of QGC001",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 3 days for SAD and FI, up to 9 days for MAD"
+          },
+          {
+            "measure": "Time at which Cmax is observed (tmax) of QGC001",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 3 days for SAD and FI, up to 9 days for MAD"
+          },
+          {
+            "measure": "Elimination rate constant (\u03bbz) of QGC001",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 3 days for SAD and FI, up to 9 days for MAD"
+          },
+          {
+            "measure": "Terminal half-life (t1/2,z) of QGC001",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 3 days for SAD and FI, up to 9 days for MAD"
+          },
+          {
+            "measure": "Area Under the Concentration-time curve (AUClast and AUC0-\u221e) of QGC001",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 3 days for SAD and FI, up to 9 days for MAD"
+          },
+          {
+            "measure": "Maximum observed plasma concentration (MRCmax) of metabolic ratios",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 3 days for SAD and FI, up to 9 days for MAD"
+          },
+          {
+            "measure": "Area Under the Concentration-time curve (MRAUC) of metabolic ratios",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 3 days for SAD and FI, up to 9 days for MAD"
+          },
+          {
+            "measure": "Cumulative amount eliminated (Ae)",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Fraction recovered (Fe)",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Renal clearance (CLR)",
+            "description": "Cohorts SAD 1 to 4 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Plasma renin",
+            "description": "Determination of renin in blood samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Plasma aldosterone",
+            "description": "Determination of aldosterone in blood samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Plasma cortisol",
+            "description": "Determination of cortisol in blood samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Plasma copeptin",
+            "description": "Determination of copeptin in blood samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Urinary aldosterone",
+            "description": "Aldosterone analysis in urine samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Urinary cortisol",
+            "description": "Cortisol analysis in urine samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Urinary sodium",
+            "description": "Sodium analysis in urine samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Urinary potassium",
+            "description": "Potassium analysis in urine samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Urinary creatinine",
+            "description": "Creatinine analysis in urine samples. Cohorts SAD 1 to 3 and MAD 1 to 3.",
+            "timeFrame": "up to 2 days for SAD and FI, up to 8 days for MAD"
+          },
+          {
+            "measure": "Systolic and Diastolic Blood Pressure",
+            "description": "Cohorts MAD 1 to 3.",
+            "timeFrame": "up to 8 days for MAD"
+          },
+          {
+            "measure": "Heart Rate",
+            "description": "Cohorts MAD 1 to 3.",
+            "timeFrame": "up to 8 days for MAD"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Caucasian, male healthy subjects of 18 to 45 years of age (inclusive).\n* Body weight \u226550 kg, with a body mass index calculated as weight in kg/(height in m2) from 18 to 27 kg/m2 at screening.\n* Subjects will sign and date an informed consent form before any study-specific screening procedure is performed.\n* Healthy, as determined by the investigator on the basis of medical history, physical examination findings, clinical laboratory test results, vital sign measurements, and digital 12 lead ECG readings.\n* Non-smoker or smoker of fewer than 5 cigarettes per day as determined by history. Must be able to abstain from smoking during the inpatient stay.\n* Have a high probability for compliance with and completion of the study.\n\nExclusion Criteria:\n\n* Any significant cardiovascular, hepatic, renal, respiratory, gastrointestinal, endocrine, immunologic, dermatological, haematological, neurologic, psychiatric disease or history of any clinically important drug allergy.\n* Acute disease state within 7 days before study day 1.\n* History of drug abuse within 1 year before study day 1.\n* History of alcoholism within 1 year before day 1. Consumption of more than 50 g of ethanol per day.\n* Positive serologic findings for human immunodeficiency virus antibodies, hepatitis B surface antigen, and/or hepatitis C virus antibodies.\n* Positive findings of urine drug screen (e.g., amphetamines, barbiturates, benzodiazepines, cannabinoids, cocaine, methadone, opiates, MDMA)\n* History of any clinically important drug allergy.\n* Prohibited Treatments: use of any investigational drug within 90 days or prescription drug within 30 days before investigational medical product administration.\n* Consumption of any caffeine-containing products in excess of 6 cups per day (or equivalent), of grapefruit, grapefruit-containing products, or alcoholic beverages within 24 hours before study day 1.\n* Use of any over-the-counter drugs including herbal supplements (except for the occasional use of acetaminophen \\[paracetamol\\], aspirin and vitamins \u2264100% recommended daily allowance) within 7 days before investigational medicinal product administration.\n* Donation of blood (i.e. 450 ml) within 90 days before study day 1.",
+        "healthyVolunteers": true,
+        "sex": "MALE",
+        "minimumAge": "18 Years",
+        "maximumAge": "45 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Biotrial PARIS",
+            "city": "Rueil-Malmaison",
+            "zip": "92502",
+            "country": "France",
+            "geoPoint": {
+              "lat": 48.8765,
+              "lon": 2.18967
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "33027067",
+            "type": "DERIVED",
+            "citation": "Khosla J, Aronow WS, Frishman WH. Firibastat: An Oral First-in-Class Brain Aminopeptidase A Inhibitor for Systemic Hypertension. Cardiol Rev. 2022 Jan-Feb 01;30(1):50-55. doi: 10.1097/CRD.0000000000000360."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000075222",
+            "term": "Essential Hypertension"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006973",
+            "term": "Hypertension"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378609"
+}

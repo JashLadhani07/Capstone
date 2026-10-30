@@ -1,0 +1,257 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02737215",
+      "orgStudyIdInfo": {
+        "id": "PAFOS01"
+      },
+      "organization": {
+        "fullName": "University of Pernambuco",
+        "class": "OTHER"
+      },
+      "briefTitle": "Prevention of Atrial Fibrillation After Coronary Artery Bypass Grafting in Patients With Obstructive Sleep Apnea",
+      "officialTitle": "Prevention of Atrial Fibrillation After Coronary Artery Bypass Grafting in Patients With Obstructive Sleep Apnea: a Multicenter Study",
+      "acronym": "PAFOS"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-05-02",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-04-10",
+      "studyFirstSubmitQcDate": "2016-04-10",
+      "studyFirstPostDateStruct": {
+        "date": "2016-04-13",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2021-12-01",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-12-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Rodrigo Pinto Pedrosa",
+        "investigatorTitle": "MD, PhD",
+        "investigatorAffiliation": "University of Pernambuco"
+      },
+      "leadSponsor": {
+        "name": "Rodrigo Pinto Pedrosa",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Background. Atrial fibrillation is one of the most common complications in the postoperative period of coronary artery bypass grafting (CABG) surgery and usually associated with increased length of hospital stay and higher hospital costs. Among the main mechanisms involved, excessive sympathetic activation, oxidative stress and inflammation are fundamental elements in the pathophysiology of obstructive sleep apnea. Objectives. To evaluate the effects of continuous positive airway pressure (CPAP) in reduction of atrial fibrillation after CABG in patients with obstructive sleep apnea. Methodological procedures: A multicenter randomized controlled study to compare the incidence of atrial fibrillation between the intervention group and the control group, both monitored seven days with Holter."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atrial Fibrillation",
+        "Obstructive Sleep Apnea",
+        "Coronary Artery Bypass Grafting"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 144,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "CPAP group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "patients will receive CPAP therapy for the first 7 days after extubation from CABG",
+          "interventionNames": [
+            "Device: CPAP"
+          ]
+        },
+        {
+          "label": "Control Group",
+          "type": "NO_INTERVENTION",
+          "description": "Patients will receive usal care"
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "CPAP",
+          "description": "patients will receive CPAP therapy with Auto-CPAP",
+          "armGroupLabels": [
+            "CPAP group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "atrial fibrillation",
+          "description": "will be verified by holter monitoring",
+          "timeFrame": "first 7 days after CABG"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* apnea-hypopnea index \\> 15 events/hour\n\nExclusion Criteria:\n\n* ejection fraction \\< 45%\n* chronic atrial fibrillation\n* periprocedural instability (haemodynamic, neurological)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "30 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Pronto Socorro Cardiol\u00f3gico de Pernambuco - Procape",
+          "city": "Recife",
+          "state": "Pernambuco",
+          "zip": "50.100-060",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -8.05389,
+            "lon": -34.88111
+          }
+        },
+        {
+          "facility": "Instituto de Medicina Integral Prof Fernando Figueira - Imip",
+          "city": "Recife",
+          "state": "Pernambuco",
+          "zip": "50070-550",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -8.05389,
+            "lon": -34.88111
+          }
+        },
+        {
+          "facility": "INCOR - Instituto do Cora\u00e7\u00e3o da Faculdade de Medicina da Universidade de S\u00e3o Paulo",
+          "city": "S\u00e3o Paulo",
+          "state": "S\u00e3o Paulo",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "35549838",
+          "type": "DERIVED",
+          "citation": "Chalegre ST, Barros MM, Silva BPG, Furlan SF, Giampa SQC, Marques JN, Albuquerque ALT, Monteiro VS, Drager LF, Pedrosa RP. Impact of Continuous Positive Airway Pressure on Postoperative Atrial Fibrillation in Patients with Obstructive Sleep Apnea Undergoing Coronary Artery Bypass Graft Surgery: An Exploratory Randomized Multicenter Study. Am J Respir Crit Care Med. 2022 Aug 1;206(3):358-360. doi: 10.1164/rccm.202112-2669LE. No abstract available."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001281",
+          "term": "Atrial Fibrillation"
+        },
+        {
+          "id": "D020181",
+          "term": "Sleep Apnea, Obstructive"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001145",
+          "term": "Arrhythmias, Cardiac"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012891",
+          "term": "Sleep Apnea Syndromes"
+        },
+        {
+          "id": "D001049",
+          "term": "Apnea"
+        },
+        {
+          "id": "D012120",
+          "term": "Respiration Disorders"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D020919",
+          "term": "Sleep Disorders, Intrinsic"
+        },
+        {
+          "id": "D020920",
+          "term": "Dyssomnias"
+        },
+        {
+          "id": "D012893",
+          "term": "Sleep Wake Disorders"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

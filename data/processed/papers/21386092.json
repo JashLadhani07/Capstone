@@ -1,0 +1,29 @@
+{
+  "pmid": "21386092",
+  "title": "Pharmacodynamic effects of different aspirin dosing regimens in type 2 diabetes mellitus patients with coronary artery disease.",
+  "abstract": "Patients with type 2 diabetes mellitus (T2DM) have reduced aspirin-induced pharmacodynamic effects. This may be attributed to increased platelet turnover rates resulting in an increased proportion of non-aspirin-inhibited platelets during the daily dosing interval. The hypothesis of this study was that an increase in the frequency of drug administration [twice daily (bid) versus once daily (od)] may provide more effective platelet inhibition in T2DM patients. T2DM patients with stable coronary artery disease were prospectively recruited. Patients modified their aspirin regimen on a weekly basis according to the following scheme: 81 mg/od, 81 mg/bid, 162 mg/od, 162 mg/bid, and 325 mg/od. Pharmacodynamic assessments included light-transmittance aggregometry after arachidonic acid, collagen and adenosine diphosphate stimuli; VerifyNow-Aspirin assay; and serum thromboxane B(2) (TXB(2)) levels. Twenty patients were analyzed. All patients were sensitive and compliant to aspirin irrespective of dose, as assessed by arachidonic acid-induced aggregation. When aspirin was administered once daily, there was no significant effect on platelet reactivity by increasing the once-daily dosing using aspirin-sensitive assays (collagen-induced aggregation and VerifyNow-Aspirin). An increase in aspirin dose by means of a second daily administration was associated with a significant reduction in platelet reactivity assessed by collagen-induced aggregation and VerifyNow-Aspirin between 81 mg/od and 81 mg/bid (P<0.05 for both assays) and between 81 mg/od and 162 mg/bid (P<0.05 for both assays). There was no impact of aspirin dosing regimens on adenosine diphosphate-induced aggregation. A dose-dependent effect of aspirin was observed on serum TXB(2) levels (P=0.003). Aspirin dosing regimens are associated with different pharmacodynamic effects in platelets from T2DM patients and stable coronary artery disease, with a twice-daily, low-dose aspirin administration resulting in greater platelet inhibition than once-daily administration as assessed by aspirin-sensitive assays and a dose-dependent effect on serum TXB(2) levels. The clinical implications of a modified aspirin regimen tailored to T2DM patients warrant further investigation. URL: http://www.clinicaltrials.gov. Unique identifier: NCT01201785.",
+  "journal": "Circulation. Cardiovascular interventions",
+  "pub_date": "2011-Apr",
+  "authors": [
+    "Capodanno, Davide",
+    "Patel, Aasita",
+    "Dharmashankar, Kodlipet",
+    "Ferreiro, Jos\u00e9 Luis",
+    "Ueno, Masafumi",
+    "Kodali, Murali",
+    "Tomasello, Salvatore D",
+    "Capranzano, Piera",
+    "Seecheran, Naveen",
+    "Darlington, Andrew",
+    "Tello-Montoliu, Antonio",
+    "Desai, Bhaloo",
+    "Bass, Theodore A",
+    "Angiolillo, Dominick J"
+  ],
+  "nct_ids_referenced": [
+    "NCT01201785"
+  ],
+  "source": "pubmed",
+  "word_count": 306,
+  "parsed_at": "2026-10-30T10:29:58.732683"
+}

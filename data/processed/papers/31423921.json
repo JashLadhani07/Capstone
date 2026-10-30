@@ -1,0 +1,28 @@
+{
+  "pmid": "31423921",
+  "title": "Epoetin Beta and C-Terminal Fibroblast Growth Factor 23 in Patients With Chronic Heart Failure and Chronic Kidney Disease.",
+  "abstract": "Background In patients with chronic heart failure and chronic kidney disease, correction of anemia with erythropoietin-stimulating agents targeting normal hemoglobin levels is associated with an increased risk of cardiovascular morbidity and mortality. Emerging data suggest a direct effect of erythropoietin on fibroblast growth factor 23 (FGF23), elevated levels of which have been associated with adverse outcomes. We investigate effects of erythropoietin-stimulating agents in patients with both chronic heart failure and chronic kidney disease focusing on FGF23. Methods and Results In the EPOCARES (Erythropoietin in CardioRenal Syndrome) study, we randomized 56 anemic patients (median age 74 [interquartile range 69-80] years, 66% male) with both chronic heart failure and chronic kidney disease into 3 groups, of which 2 received epoetin beta 50\u00a0IU/kg per week for 50\u00a0weeks, and the third group served as control. Measurements were performed at baseline and after 2, 26, and 50\u00a0weeks. Data were analyzed using linear mixed-model analysis. After 50\u00a0weeks of erythropoietin-stimulating agent treatment, hematocrit and hemoglobin levels increased. Similarly, C-terminal FGF23 levels, in contrast to intact FGF23 levels, rose significantly due to erythropoietin-stimulating agents as compared with the controls. During median follow-up for 5.7 (2.0-5.7) years, baseline C-terminal FGF23 levels were independently associated with increased risk of mortality (hazard ratio 2.20; 95% CI, 1.35-3.59; P=0.002). Conclusions Exogenous erythropoietin increases C-terminal FGF23 levels markedly over a period of 50\u00a0weeks, elevated levels of which, even at baseline, are significantly associated with an increased risk of mortality. The current results, in a randomized trial setting, underline the strong relationship between erythropoietin and FGF23 physiology in patients with chronic heart failure and chronic kidney disease. Clinical Trial Registration URL: http://www.clinicaltrials.gov. Unique identifier: NCT00356733.",
+  "journal": "Journal of the American Heart Association",
+  "pub_date": "2019-Aug",
+  "authors": [
+    "Eisenga, Michele F",
+    "Emans, Mireille E",
+    "van der Putten, Karien",
+    "Cramer, Maarten J",
+    "Diepenbroek, Adry",
+    "Velthuis, Birgitta K",
+    "Doevendans, Pieter A",
+    "Verhaar, Marianne C",
+    "Joles, Jaap A",
+    "Bakker, Stephan J L",
+    "Nolte, Ilja M",
+    "Braam, Branko",
+    "Gaillard, Carlo A J M"
+  ],
+  "nct_ids_referenced": [
+    "NCT00356733"
+  ],
+  "source": "pubmed",
+  "word_count": 276,
+  "parsed_at": "2026-10-30T13:31:48.792432"
+}

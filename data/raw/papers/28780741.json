@@ -1,0 +1,23 @@
+{
+  "pmid": "28780741",
+  "title": "Channeling in the Use of Nonprescription Paracetamol and Ibuprofen in an Electronic Medical Records Database: Evidence and Implications.",
+  "abstract": "Over-the-counter analgesics such as paracetamol and ibuprofen are among the most widely used, and having a good understanding of their safety profile is important to public health. Prior observational studies estimating the risks associated with paracetamol use acknowledge the inherent limitations of these studies. One threat to the validity of observational studies is channeling bias, i.e. the notion that patients are systematically exposed to one drug or the other, based on current and past comorbidities, in a manner that affects estimated relative risk. The aim of this study was to examine whether evidence of channeling bias exists in observational studies that compare paracetamol with ibuprofen, and, if so, the extent to which confounding adjustment can mitigate this bias. In a cohort of 140,770 patients, we examined whether those who received any paracetamol (including concomitant users) were more likely to have prior diagnoses of gastrointestinal (GI) bleeding, myocardial infarction (MI), stroke, or renal disease than those who received ibuprofen alone. We compared propensity score distributions between drugs, and examined the degree to which channeling bias could be controlled using a combination of negative control disease outcome models and large-scale propensity score matching. Analyses were conducted using the Clinical Practice Research Datalink. The proportions of prior MI, GI bleeding, renal disease, and stroke were significantly higher in those prescribed any paracetamol versus ibuprofen alone, after adjusting for sex and age. We were not able to adequately remove selection bias using a selected set of covariates for propensity score adjustment; however, when we fit the propensity score model using a substantially larger number of covariates, evidence of residual bias was attenuated. Although using selected covariates for propensity score adjustment may not sufficiently reduce bias, large-scale propensity score matching offers a novel approach to consider to mitigate the effects of channeling bias.",
+  "journal": "Drug safety",
+  "pub_date": "2017-Dec",
+  "authors": [
+    "Weinstein, Rachel B",
+    "Ryan, Patrick",
+    "Berlin, Jesse A",
+    "Matcho, Amy",
+    "Schuemie, Martijn",
+    "Swerdel, Joel",
+    "Patel, Kayur",
+    "Fife, Daniel"
+  ],
+  "nct_ids_referenced": [
+    "NCT02830178"
+  ],
+  "source": "pubmed",
+  "word_count": 298,
+  "parsed_at": "2026-10-30T10:32:00.692229"
+}

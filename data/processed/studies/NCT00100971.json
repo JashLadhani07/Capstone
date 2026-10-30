@@ -1,0 +1,205 @@
+{
+  "nct_id": "NCT00100971",
+  "title": "Dendritic/Leukemic Fusion Cell Vaccine Therapy For AML Patients In First Remission; A Phase I Clinical Trial",
+  "sponsor": "Boston Medical Center",
+  "phase": "PHASE1",
+  "status": "TERMINATED",
+  "conditions": [
+    "Leukemia"
+  ],
+  "interventions": [
+    "autologous tumor cell vaccine",
+    "therapeutic autologous dendritic cells",
+    "tumor cell-derivative vaccine therapy"
+  ],
+  "primary_outcome": "",
+  "secondary_outcomes": [],
+  "start_date": "2004-04",
+  "completion_date": "2007-03",
+  "results_posted": false,
+  "enrollment": 9,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00100971",
+        "orgStudyIdInfo": {
+          "id": "CDR0000404382"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "BUMC-2003-099"
+          }
+        ],
+        "organization": {
+          "fullName": "Boston Medical Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "Vaccine Therapy in Treating Patients With Acute Myeloid Leukemia",
+        "officialTitle": "Dendritic/Leukemic Fusion Cell Vaccine Therapy For AML Patients In First Remission; A Phase I Clinical Trial"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2013-01",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "Protocol is withdrawn due to inadequate accrual",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2004-04"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2007-03",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2007-03",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2005-01-07",
+        "studyFirstSubmitQcDate": "2005-01-07",
+        "studyFirstPostDateStruct": {
+          "date": "2005-01-10",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2013-01-03",
+        "lastUpdatePostDateStruct": {
+          "date": "2013-01-04",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {
+          "name": "Boston Medical Center",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "RATIONALE: Vaccines made from a person's white blood cells and cancer cells may make the body build an effective immune response to kill cancer cells.\n\nPURPOSE: This phase I trial is studying the side effects and best dose of vaccine therapy in treating patients with acute myeloid leukemia.",
+        "detailedDescription": "OBJECTIVES:\n\nPrimary\n\n* Determine the maximum tolerated dose of autologous dendritic and leukemic fusion cell vaccine in patients with acute myeloid leukemia.\n* Determine the toxicity of this vaccine in these patients.\n\nSecondary\n\n* Determine whether cellular immunity can be induced by this vaccine in these patients.\n\nOUTLINE: This is a dose-escalation study.\n\nAt the time of diagnosis, patients undergo tumor cell harvest. Patients also undergo bone marrow aspiration to collect mononuclear cells to obtain dendritic cells (DC). If insufficient DCs are obtained, patients undergo leukapheresis to obtain a sufficient number of peripheral blood mononuclear cells (PBMC). The PBMC are treated in the laboratory with sargramostim (GM-CSF) and interleukin-4 for 5-7 days to produce DC. Leukemic blasts are fused to DC to generate the dendritic/leukemic fusion cell vaccine.\n\nPatients then undergo standard induction chemotherapy to obtain a remission, followed by standard consolidation chemotherapy.\n\nAfter completing consolidation chemotherapy, patients receive autologous dendritic and leukemic fusion cell vaccine subcutaneously every 2 weeks for a total of 4 doses in the absence of disease progression or unacceptable toxicity.\n\nCohorts of 3 patients receive escalating doses of autologous dendritic and leukemic fusion cell vaccine until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 patients experience dose-limiting toxicity.\n\nPatients are followed every 3 months for 5 years.\n\nPROJECTED ACCRUAL: A total of 3-9 patients will be accrued for this study."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Leukemia"
+        ],
+        "keywords": [
+          "adult acute myeloid leukemia with 11q23 (MLL) abnormalities",
+          "adult acute myeloid leukemia with inv(16)(p13;q22)",
+          "adult acute myeloid leukemia with t(15;17)(q22;q12)",
+          "adult acute myeloid leukemia with t(16;16)(p13;q22)",
+          "adult acute myeloid leukemia with t(8;21)(q22;q22)",
+          "secondary acute myeloid leukemia"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "primaryPurpose": "TREATMENT"
+        },
+        "enrollmentInfo": {
+          "count": 9
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "autologous tumor cell vaccine"
+          },
+          {
+            "type": "DRUG",
+            "name": "therapeutic autologous dendritic cells"
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "tumor cell-derivative vaccine therapy"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute myeloid leukemia (AML) by bone marrow biopsy\n\n  * Newly diagnosed\n* Must have adequate dendritic cells and AML blasts isolated from bone marrow and/or peripheral blood\n* No clinical evidence of CNS leukemia\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* HIV negative\n* No clinically significant autoimmune disease\n* No other active malignancy except nonmelanoma skin cancer\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* More than 3 months since prior immunotherapy\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Adam Lerner, MD",
+            "affiliation": "Boston Medical Center",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Cancer Research Center at Boston Medical Center",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02118",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.35843,
+              "lon": -71.05977
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007938",
+            "term": "Leukemia"
+          },
+          {
+            "id": "D000013",
+            "term": "Congenital Abnormalities"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D006402",
+            "term": "Hematologic Diseases"
+          },
+          {
+            "id": "D006425",
+            "term": "Hemic and Lymphatic Diseases"
+          },
+          {
+            "id": "D009358",
+            "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C573235",
+            "term": "FANG vaccine"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628863"
+}

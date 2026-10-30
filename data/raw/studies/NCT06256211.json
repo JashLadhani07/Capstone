@@ -1,0 +1,256 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06256211",
+      "orgStudyIdInfo": {
+        "id": "Patent Ductus Arteriosus"
+      },
+      "organization": {
+        "fullName": "Assiut University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Assessment of Therapeutic Effect of Rectal Vs. Intravenous Paracetamol in The Treatment of Patent Ductus Arteriosus (PDA) in Neonates",
+      "officialTitle": "Assessment of Therapeutic Effect of Rectal Vs. Intravenous Paracetamol in The Treatment of Patent Ductus Arteriosus (PDA) in Neonates"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-02",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-03-01",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-11-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-11-10",
+      "studyFirstSubmitQcDate": "2024-02-10",
+      "studyFirstPostDateStruct": {
+        "date": "2024-02-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-02-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-02-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Soha mahmoud Hussien mahdy",
+        "investigatorTitle": "Assistant Lecturer",
+        "investigatorAffiliation": "Assiut University"
+      },
+      "leadSponsor": {
+        "name": "Soha mahmoud Hussien mahdy",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Assiut University",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To compare the effectiveness of rectal vs. intravenous paracetamol in the medical treatment of significant PDA in neonates.",
+      "detailedDescription": "The ductus arteriosus (DA) is a vascular channel between the aorta and the pulmonary artery (PA). It diverts blood away from the lungs and directs it to systemic circulation during pregnancy.1 Therefore, its opening is necessary for the life of the fetus, but after birthing its closure is necessary. During pregnancy, the DA and the placenta produce vasodilators that keep the DA open, but, in term infants, as they are born, the number of contractile factors increases, the sensitivity of DA to prostaglandins decreases, and sensitivity to oxygen increases which causes ductal constriction. In contrast, in premature infants, DA sensitivity to vasodilators increases, although this sensitivity decreases with increasing neonatal age. Patent ductus arteriosus (PDA) is a major life-threatening problem in premature and low birth weight infants. In 60% to 70% of preterm and low birth weight infants, the DA remains open.\n\nThe choice of treatment depends on factors like PDA size, patient age, health status, and symptomatology. The types of treatment for Patent Ductus Arteriosus (PDA) include medical treatment involving medications to encourage closure, catheter-based intervention using minimally invasive procedures to block the ductus arteriosus, and surgical closure through a small chest incision.\n\nRegarding the medical treatment, non-specific cyclooxygenase (COX) inhibitors (indomethacin, ibuprofen). These drugs work by inhibiting cyclooxygenase and stopping the synthesis of prostaglandins E2, F2a, I2, and thromboxane A2. This is followed by vascular smooth muscle constriction, local ischemia, angiogenesis, DA intima regeneration, wall fibrosis, and DA closure. Ibuprofen and indomethacin are standard treatments for PDA closure, but due to possible side effects in the gastrointestinal tract, kidney, chronic lung disease, thrombocytopenia, and hyperbilirubinemia, it is preferable to use acetaminophen/paracetamol with fewer side effects.\n\nIn addition, PDA closure may be associated with complications such as chronic lung disease, heart disease, neurodevelopmental disorder, and retinopathy of prematurity (ROP).1 Therefore, it is desirable to prescribe drugs with no contraindications and fewer side effects to close PDA. The effect of acetaminophen/paracetamol on PDA closure was first reported in 2011,6 and extensive studies on its effects have been performed since then.6,7,8 Due to its properties such as safety, availability, low price, lack of side effects related to nonsteroidal anti-inflammatory drugs (NSAIDs), and the fact that this drug has been used as an anti-inflammatory and analgesic treatment in infants for many years, acetaminophen will gradually replace NSAIDs for PDA medical closure.\n\nSurgery for PDA closure is performed when treatment with COX inhibitors is contraindicated or unsuccessful.\n\nRectal administration of paracetamol involves inserting a suppository into the rectum for absorption into the bloodstream, offering the advantages of being less invasive and suitable for limited vascular access, while potentially causing slower and variable absorption; intravenous (IV) paracetamol, delivered directly into the bloodstream through a vein, ensures accurate dosing, rapid absorption, and consistent drug delivery, but requires established intravenous access and vigilant monitoring for potential adverse effects, with both methods having potential systemic side effects and varying efficacy in promoting PDA closure."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Patent Ductus Arteriosus"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Neonates with PDA",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "maskingDescription": "Assessment of Therapeutic Effect of Rectal Vs. Intravenous Paracetamol in The Treatment of Patent Ductus Arteriosus (PDA) in Neonates",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 100,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group has treated by Intravenous Paracetamol",
+          "type": "OTHER",
+          "description": "* Intravenous paracetamol dose 15 mg/kg body weight every 6 hours for 3 days (12 doses in total).\n* After the 3-day follow up echocardiogram will be done.",
+          "interventionNames": [
+            "Drug: Paracetamol"
+          ]
+        },
+        {
+          "label": "Group has treated by Rectal Paracetamol",
+          "type": "OTHER",
+          "description": "* Rectal paracetamol at a dose of 25 mg/kg body weight with started and then continued at a dose of 15 mg/kg body weight every 8 hours for 3 days (ten doses in total) in neonates weighing more than 1000 gm.\n* The patient's weight is less than 1000 gm, the initial dose was 15 mg/kg body weight, and the suspense doses are 7.5 mg/kg body weight every 8 hours for 3 days (10 doses in total).",
+          "interventionNames": [
+            "Drug: Paracetamol"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Paracetamol",
+          "description": "All cases will be randomized simply by opaque closed envelop and treated with either rectal or intravenous paracetamol according to the following doses.\n\n* Rectal dose\n\n  * Rectal paracetamol at a dose of 25 mg/kg body weight with started and then continued at a dose of 15 mg/kg body weight every 8 hours for 3 days (ten doses in total) in neonates weighing more than 1000 gm.11\n  * The patient's weight is less than 1000 gm, the initial dose was 15 mg/kg body weight, and the suspense doses are 7.5 mg/kg body weight every 8 hours for 3 days (10 doses in total).11\n* Intravenous dose\n\n  * Intravenous paracetamol dose 15 mg/kg body weight every 6 hours for 3 days (12 doses in total).12\n  * After the 3-day follow up echocardiogram will be done.12 This will be the end of randomization for the purpose of the study.",
+          "armGroupLabels": [
+            "Group has treated by Intravenous Paracetamol",
+            "Group has treated by Rectal Paracetamol"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Assessment the rate of efficiency of Rectal and Intravenous Paracetamol in The Treatment of Patent Ductus Arteriosus (PDA) in Neonates",
+          "description": "using clinical by decrease signs and symptoms caused by PDA and using echocardiography to detect decreasing size pf PDA",
+          "timeFrame": "1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* All the neonates with hemodynamic significance PDA10,13 that is indicated for closure.\n\nExclusion Criteria:\n\n* Neonates with the following criteria are excluded.\n\n  * Without PDA.\n  * With insignificant PDA.\n  * Rectosigmoid abnormalities.\n  * Neutropenia less than 1500 cells/ml.\n  * Platelets less than 30000 cells/ml.\n  * Liver failure or elevated liver enzymes.\n  * Hypovolemic or septic shock.\n  * Renal failure.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "1 Day",
+      "maximumAge": "28 Days",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Soha Ma Hussein, Msc. student",
+          "role": "CONTACT",
+          "phone": "+2001061554768",
+          "email": "sohamahdy25@gmail.com"
+        },
+        {
+          "name": "Zeinab Mo Mohieldeen Mohamed, Professor",
+          "role": "CONTACT",
+          "phone": "+2001149913112",
+          "email": "ZeinabMohieldeen1993@aun.edu.eg"
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "26951240",
+          "type": "RESULT",
+          "citation": "Sivanandan S, Agarwal R. Pharmacological Closure of Patent Ductus Arteriosus: Selecting the Agent and Route of Administration. Paediatr Drugs. 2016 Apr;18(2):123-38. doi: 10.1007/s40272-016-0165-5."
+        },
+        {
+          "pmid": "19217726",
+          "type": "RESULT",
+          "citation": "Chiruvolu A, Jaleel MA. Therapeutic management of patent ductus arteriosus. Early Hum Dev. 2009 Mar;85(3):151-5. doi: 10.1016/j.earlhumdev.2008.12.007. Epub 2009 Feb 14."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004374",
+          "term": "Ductus Arteriosus, Patent"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006330",
+          "term": "Heart Defects, Congenital"
+        },
+        {
+          "id": "D018376",
+          "term": "Cardiovascular Abnormalities"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D000013",
+          "term": "Congenital Abnormalities"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000082",
+          "term": "Acetaminophen"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000083",
+          "term": "Acetanilides"
+        },
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Agent Knowledge | MOSAIC{% endblock %}
+{% block breadcrumb %}Agent Knowledge{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">PROCEDURAL MEMORY</p>
+        <h1>Agent <span>Knowledge</span></h1>
+        <p class="page-description">The current reasoning rules and learned procedures for each specialist agent.</p>
+    </div>
+</section>
+
+<section class="content-card">
+    <div class="card-header">
+        <div>
+            <h3>Specialist Procedures</h3>
+            <p>Default and learned rules extracted from episodic memory</p>
+        </div>
+    </div>
+    <div id="rules-container">
+        <p class="loading-cell">Loading agent rules...</p>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', path='js/history.js') }}"></script>
+{% endblock %}

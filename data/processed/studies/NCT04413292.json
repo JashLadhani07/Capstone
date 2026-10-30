@@ -1,0 +1,226 @@
+{
+  "nct_id": "NCT04413292",
+  "title": "Circulating and Local Expression Levels of Survivin and Fibulin-3 in Benign and Malignant Respiratory Diseases",
+  "sponsor": "South Valley University",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Bronchial Neoplasm Benign"
+  ],
+  "interventions": [
+    "ELISA assays and Westren blot analysis of survivin and fibulin-3 expression"
+  ],
+  "primary_outcome": "analyze the local and circulating expression levels of both biomarkers in various benign and malignant lung and pleural diseases",
+  "secondary_outcomes": [],
+  "start_date": "2017-01-01",
+  "completion_date": "2019-12-30",
+  "results_posted": false,
+  "enrollment": 93,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04413292",
+        "orgStudyIdInfo": {
+          "id": "SVU-QFM-100"
+        },
+        "organization": {
+          "fullName": "South Valley University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Survivin and Fibulin-3 in Benign and Malignant Respiratory Diseases",
+        "officialTitle": "Circulating and Local Expression Levels of Survivin and Fibulin-3 in Benign and Malignant Respiratory Diseases"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2020-06",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2017-01-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2019-12-30",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2020-04-01",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2020-05-28",
+        "studyFirstSubmitQcDate": "2020-05-28",
+        "studyFirstPostDateStruct": {
+          "date": "2020-06-02",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2020-06-02",
+        "lastUpdatePostDateStruct": {
+          "date": "2020-06-04",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Mohammed H. Hassan",
+          "investigatorTitle": "Associate Professor of Medical Biochemistry, Faculty of Medicine , South Valley University",
+          "investigatorAffiliation": "South Valley University"
+        },
+        "leadSponsor": {
+          "name": "South Valley University",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Purpose: Survivin is a common member of the inhibitors of the apoptosis protein (IAP) family with a dual role in promoting cell proliferation and preventing apoptosis. Fibulin-3, a matrix glycoprotein, was recently presented as a promising novel biomarker for malignant pleural mesothelioma. The aim of this study was to validate the expression levels of survivin and fibulin-3 in benign and malignant respiratory diseases.\n\nPatients and methods: The study included 73 patients, with various benign and malignant respiratory diseases. For validation of the data, a control group including 20 healthy subjects was chosen. The clinical and radiological assessments of the included individuals were done. The serum survivin and fibulin-3 levels were measured using ELISA assays kits, while their local expressions in the lung and pleura were assessed using western blot analysis.",
+        "detailedDescription": "Study design and participants The current prospective cohort study has been conducted with 73 patients of both sexes, with recently diagnosed benign and malignant respiratory diseases recruited from Cardio-Thoracic Surgery and Oncology Departments, Qena University Hospitals, South Valley University, Egypt. The included patients were categorized into 4 groups. Group A included 21 patients with lung cancer, group B included 21 patients with various benign lung diseases, group D included 15 patients with malignant pleural mesothelioma (MPM) and group E included 16 patients having various benign pleural diseases. In addition, 20 age and sex matched unrelated healthy subjects serve as the control group (group C). Patients with renal failure, hepatic failure, severe cardiopulmonary compromise, coagulopathy or hemodynamically unstable were excluded The study was approved by the Ethics committee of the Faculty of Medicine, South Valley University, Qena, Egypt, and it was conducted in accordance with the Declaration of Helsinki. Informed written consent has been obtained from every included subject. The study duration was two years from January 1st, 2017 to December 30th, 2019.\n\nData collection Full history, thorough clinical examinations were taken for every included patient. Additionally, radiological assessments by plain CXR and CT, and routine laboratory investigations (serum lactate dehydrogenase (LDH), total protein, albumin, liver and kidney functions, ESR and CBC) were performed. Multiple lung biopsies were taken and sent for histopathological examination when indicated. Thoracentesis was done for cases with proved pleural effusion. The standard pleural fluid analysis was done including: pH, biochemical testing of pleura/serum (LDH, glucose, albumin and Adenosine deaminase (ADA), cytology and microbiological testing (Z-N, L-J culture) and differential cell count) and Light's original criteria (ratio of pleural fluid/serum protein \\>0.5, ratio of pleural/serum LDH \\>0.6 or pleural fluid LDH more than two-thirds of the upper limit of normal serum value) to discriminate exudative from transudative pleural effusions. Thoracoscope was done for patients with indecisive cytology or pleural fluid analysis, and multiple pleural biopsies were taken for histopathological examination. The malignant pleural effusion was diagnosed if pleural fluid cytology or pleural biopsy findings were positive for malignancy.\n\nStaging of MPM was done using van Meerbeeck et al, while that of lung cancer was assessed according to Lim et al.\n\nBlood samples and pleural effusion fluid collections Five mls of venous blood was withdrawn from every included subject using serum separator gel tubes and was allowed to clot at room temperature for 30 minutes and then centrifuged for 15 minutes at 1000g. The separated sera were stored into aliquots using 1 ml cryotubes at -800C for later biochemical assays of survivin and fibulin-3. Additionally, 10 ml of pleural fluids from the included patients were centrifuged for 15 minutes at 1000g and stored into aliquots using 1 ml cryotubes at -800C for later molecular assays of survivin and fibulin-3 expression levels using western blot analysis.\n\nELISA assays of IGF-I and survivin Quantitative determinations of serum survivin and fibulin-3 were achieved using commercially available ELISA assay kits supplied by Chongqing Biospes Co., Ltd, China with catalog numbers BYE3519 and BYEK2017 respectively. The assays were performed using microplate ELISA reader (EMR 500, USA), according to manufacture protocol.\n\nWestern blotting assessments of survivin and fibulin-3 expression levels Lung and pleural biopsies were homogenized in ice-cold RIPA lysis buffer(Sigma-Aldrich, Milan, Italy), containing 1% protease inhibitor cocktail (Cell Signaling Technology, Inc., MA, USA) using Potter-Elvehjem rotor-stator homogenizer (glass/teflon homogenizer), fitted with a Teflon pestle and stored frozen at -70 \u00b0C for subsequent assessment of tissue nuclear survivin and fibulin-3 expressions by Western blotting technique.\n\nProteins in each corresponding lung , pleural tissue homogenates or pleural effusion sample were denatured at 95 \u00b0C for 5 minutes in 2\u00d7 Laemmli buffer followed by addition of 5% 2-mercaptoethanol. SDS-PAGE electrophoresis was achieved by loading 50 \u00b5g protein per lane at 75 volts through resolving gel (18% for survivin and 15% for fibulin-3) followed by 125 volts during approximately 2 hours and transferred to a PVDF membrane using T-77 ECL semidry transfer unit (Amersham BioSciences UK Ltd) for 2 hours. Immunoblotting was performed by incubating the PVDF membrane in TBS buffer containing 0.1% Tween and 5% non fat milk for one hour at 4\u00b0C, followed by overnight incubation at 4\u00b0C with rabbit anti-survivin polyclonal antibody (Bioss Inc., Massachusetts, USA) and rabbit anti-fibulin-3 polyclonal antibody (Novus Biologicals, LLC, Littleton, CO, USA) at a dilution of 1:1500. After being washed three times with TBST buffer, each membrane was incubated for 1 hour at room temperature with an alkaline phosphatase-conjugated goat anti-mouse secondary antibody (Novus Biologicals, LLC, Littleton, CO, USA) at a dilution of 1:5000. After being washed four times in TBST, the membrane bound antibody was detected with a commercially available BCIP/NBT substrate detection Kit (Genemed Biotechnologies, Inc., CA, USA). Equivalent protein loading for each lane was confirmed by stripping and re-blotting each membrane at 4\u00b0C against mouse monoclonal anti \u03b2-actin antibody (Santa Cruz Biotechnology, Inc., CA, USA) at a dilution of 1:5000. The analysis was repeated 3 times to assure the reproducibility of results. Quantification was performed using ImageJ software and expressed as the band density relative to that of \u03b2-actin.\n\nStatistical analysis Data entry and data analysis were done using SPSS version 19 (Statistical Package for Social Science). Data were presented as a number, percentage, the mean and standard deviation for parametric data. Chi-square test and Fisher exact test were used to compare qualitative variables. Independent t-test was used to compare quantitative variables between two groups. Pearson correlation was done to measure the correlation between quantitative variable. Medcalc Program was used to calculate sensitivity, specificity, positive and negative predictive values with calculation of the AUC (95% CI). P-value was considered statistically significant when \\<0.05."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Bronchial Neoplasm Benign"
+        ],
+        "keywords": [
+          "Survivin; Fibulin-3; Lung cancer; MPM"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": false,
+        "designInfo": {
+          "observationalModel": "CASE_CONTROL",
+          "timePerspective": "CROSS_SECTIONAL"
+        },
+        "enrollmentInfo": {
+          "count": 93,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Group A",
+            "description": "21 patients with lung cancer",
+            "interventionNames": [
+              "Diagnostic Test: ELISA assays and Westren blot analysis of survivin and fibulin-3 expression"
+            ]
+          },
+          {
+            "label": "Group B",
+            "description": "21 patients with various benign lung diseases",
+            "interventionNames": [
+              "Diagnostic Test: ELISA assays and Westren blot analysis of survivin and fibulin-3 expression"
+            ]
+          },
+          {
+            "label": "Group C",
+            "description": "Healthy controls",
+            "interventionNames": [
+              "Diagnostic Test: ELISA assays and Westren blot analysis of survivin and fibulin-3 expression"
+            ]
+          },
+          {
+            "label": "Group D",
+            "description": "15 patients with malignant pleural mesothelioma (MPM)",
+            "interventionNames": [
+              "Diagnostic Test: ELISA assays and Westren blot analysis of survivin and fibulin-3 expression"
+            ]
+          },
+          {
+            "label": "Group E",
+            "description": "16 patients having various benign pleural diseases",
+            "interventionNames": [
+              "Diagnostic Test: ELISA assays and Westren blot analysis of survivin and fibulin-3 expression"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DIAGNOSTIC_TEST",
+            "name": "ELISA assays and Westren blot analysis of survivin and fibulin-3 expression",
+            "description": "expression analysis of biomarkers",
+            "armGroupLabels": [
+              "Group A",
+              "Group B",
+              "Group C",
+              "Group D",
+              "Group E"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "analyze the local and circulating expression levels of both biomarkers in various benign and malignant lung and pleural diseases",
+            "description": "find out the possible correlations between them and their utility in diagnosing and discriminating malignant from benign lesions that affect the respiratory tract.",
+            "timeFrame": "2 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* any patients with Benign or Malignant Respiratory Diseases and agree to included in the study\n\nExclusion Criteria:\n\n* Patients with renal failure, hepatic failure, severe cardiopulmonary compromise, coagulopathy or hemodynamically unstable were excluded",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "35 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "any patients with Benign or Malignant Respiratory Diseases and agree to included in the study in addition to healthy controls",
+        "samplingMethod": "PROBABILITY_SAMPLE"
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "UNDECIDED"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D008175",
+            "term": "Lung Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D012142",
+            "term": "Respiratory Tract Neoplasms"
+          },
+          {
+            "id": "D013899",
+            "term": "Thoracic Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D012140",
+            "term": "Respiratory Tract Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628815"
+}

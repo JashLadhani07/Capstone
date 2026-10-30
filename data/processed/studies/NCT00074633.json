@@ -1,0 +1,265 @@
+{
+  "nct_id": "NCT00074633",
+  "title": "Evaluating \"Health at Every Size\"(HAES) as an Alternative Obesity Treatment Model",
+  "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Hypercholesterolemia",
+    "Hypertension",
+    "Depression",
+    "Diabetes Mellitus, Type 2"
+  ],
+  "interventions": [
+    "Health at Every Size (HAES)",
+    "Diet (Traditional, moderate energy restriction)"
+  ],
+  "primary_outcome": "",
+  "secondary_outcomes": [],
+  "start_date": "2000-01",
+  "completion_date": "",
+  "results_posted": false,
+  "enrollment": 79,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00074633",
+        "orgStudyIdInfo": {
+          "id": "OBFRETTO (completed)"
+        },
+        "organization": {
+          "fullName": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+          "class": "NIH"
+        },
+        "briefTitle": "Evaluating \"Health at Every Size\"(HAES) as an Alternative Obesity Treatment Model",
+        "officialTitle": "Evaluating \"Health at Every Size\"(HAES) as an Alternative Obesity Treatment Model"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2010-01",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2000-01"
+        },
+        "studyFirstSubmitDate": "2003-12-17",
+        "studyFirstSubmitQcDate": "2003-12-18",
+        "studyFirstPostDateStruct": {
+          "date": "2003-12-19",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2010-01-12",
+        "lastUpdatePostDateStruct": {
+          "date": "2010-01-13",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {
+          "name": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+          "class": "NIH"
+        },
+        "collaborators": [
+          {
+            "name": "University of California, Davis",
+            "class": "OTHER"
+          },
+          {
+            "name": "United States Department of Agriculture (USDA)",
+            "class": "FED"
+          }
+        ]
+      },
+      "descriptionModule": {
+        "briefSummary": "Increasingly more individuals are trying to lose weight. Indeed, many women, regardless of their size, experience a life-long battle and preoccupation with their weight. Despite the attention to weight and the increase in diet behavior, the incidence of obesity continues to rise. There is little data to show improved long term success for the majority of participants who engage in weight loss behaviors.\n\nThe specific aim is to improve the psychological and metabolic health of obese women with a history of chronic dieting through encouraging \"Health at Every Size\" (HAES). This treatment model emphasizes \"intutitive eating,\" i.e., internal regulation of eating (responding to cues of hunger, appetite and satiety). The HAES model is being compared to the current standard of care in obesity treatment, energy restriction dieting, which encourages cognitive control of eating and weight reduction."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Hypercholesterolemia",
+          "Hypertension",
+          "Depression",
+          "Diabetes Mellitus, Type 2"
+        ],
+        "keywords": [
+          "Type 2 Diabetes",
+          "Self-Esteem"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 79
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Health at Every Size (HAES)"
+          },
+          {
+            "type": "BEHAVIORAL",
+            "name": "Diet (Traditional, moderate energy restriction)"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "* Caucasian;\n* female;\n* age 30-45 years;\n* Body Mass Index (BMI)\\>30 m/kg2;\n* non-smoker;\n* not pregnant or lactating;\n* Restraint Scale (Herman and Polivy, 1988) score \\>15, indicating a history of chronic dieting;\n* no recent myocardial infarction;\n* no active neoplasms, Type 1 diabetes or insulin-dependent Type 2 diabetes, nor history of cerebrovascular or renal disease.",
+        "healthyVolunteers": true,
+        "sex": "FEMALE",
+        "minimumAge": "30 Years",
+        "maximumAge": "45 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Nutrition Department, University of California, Davis",
+            "city": "Davis",
+            "state": "California",
+            "zip": "95616",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.54491,
+              "lon": -121.74052
+            }
+          },
+          {
+            "facility": "Western Human Nutrition Research Center",
+            "city": "Davis",
+            "state": "California",
+            "zip": "95616",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.54491,
+              "lon": -121.74052
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "12037657",
+            "type": "BACKGROUND",
+            "citation": "Bacon L, Keim NL, Van Loan MD, Derricote M, Gale B, Kazaks A, Stern JS. Evaluating a 'non-diet' wellness intervention for improvement of metabolic fitness, psychological well-being and eating and activity behaviors. Int J Obes Relat Metab Disord. 2002 Jun;26(6):854-65. doi: 10.1038/sj.ijo.0802012."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006937",
+            "term": "Hypercholesterolemia"
+          },
+          {
+            "id": "D006973",
+            "term": "Hypertension"
+          },
+          {
+            "id": "D003863",
+            "term": "Depression"
+          },
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006949",
+            "term": "Hyperlipidemias"
+          },
+          {
+            "id": "D050171",
+            "term": "Dyslipidemias"
+          },
+          {
+            "id": "D052439",
+            "term": "Lipid Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D001526",
+            "term": "Behavioral Symptoms"
+          },
+          {
+            "id": "D001519",
+            "term": "Behavior"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D004032",
+            "term": "Diet"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D009747",
+            "term": "Nutritional Physiological Phenomena"
+          },
+          {
+            "id": "D000066888",
+            "term": "Diet, Food, and Nutrition"
+          },
+          {
+            "id": "D010829",
+            "term": "Physiological Phenomena"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604191"
+}

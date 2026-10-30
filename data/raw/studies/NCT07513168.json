@@ -1,0 +1,422 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07513168",
+      "orgStudyIdInfo": {
+        "id": "AIMS/ERC/9856/26"
+      },
+      "organization": {
+        "fullName": "Asian Institute Of Medical Sciences",
+        "class": "OTHER"
+      },
+      "briefTitle": "Low-Dose Semaglutide for Weight Loss in Obese Non-Diabetic Pakistani Adults",
+      "officialTitle": "Efficacy and Safety of Low-Dose Semaglutide for Weight Loss and Cardiometabolic Improvement in Obese Pakistani Adults Without Type 2 Diabetes: A Single-Arm Open-Label Single-Center Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-08-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-08-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-12-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-04-01",
+      "studyFirstSubmitQcDate": "2026-04-01",
+      "studyFirstPostDateStruct": {
+        "date": "2026-04-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-04-01",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-04-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Mohammad sadik memon",
+        "investigatorTitle": "Prof.Dr.",
+        "investigatorAffiliation": "Asian Institute Of Medical Sciences"
+      },
+      "leadSponsor": {
+        "name": "Asian Institute Of Medical Sciences",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This prospective, open-label, single-arm, single-center interventional pilot trial aims to evaluate the efficacy and safety of low-dose semaglutide for weight loss and cardiometabolic improvement in obese Pakistani adults without type 2 diabetes mellitus. The study will be conducted at the Asian Institute of Medical Sciences (AIMS), Hyderabad, Sindh, Pakistan. A total of 60 obese adults aged 18 years or older with a body mass index (BMI) of 27.5 kg/m\u00b2 or greater according to World Health Organization Asian cutoffs and without type 2 diabetes mellitus (fasting blood glucose \\<126 mg/dL and HbA1c \\<6.5%) will be enrolled. Eligible participants will receive once-weekly subcutaneous semaglutide following a standard dose titration schedule of 0.25 mg weekly for four weeks, 0.5 mg weekly for four weeks, and 1.0 mg weekly for the remaining 16 weeks, for a total treatment duration of 24 weeks. All participants will receive standardized lifestyle counseling, including a hypocaloric diet with a 500-750 kcal/day deficit and at least 150 minutes per week of moderate-intensity physical activity. The primary outcome is the percentage change in body weight from baseline to 24 weeks. Secondary outcomes include changes in body mass index, waist circumference, systolic and diastolic blood pressure, lipid profile (total cholesterol, low-density lipoprotein, high-density lipoprotein, triglycerides), liver enzymes (alanine aminotransferase and aspartate aminotransferase), and quality of life. Safety will be assessed through continuous monitoring of adverse events and adverse drug reactions with causality assessment using the Naranjo Adverse Drug Reaction Probability Scale. Clinical and laboratory assessments will be conducted at baseline, 12 weeks, and 24 weeks. Data will be analyzed using descriptive and inferential statistics, including paired t-tests or non-parametric equivalents and repeated measures analysis, with a significance level of p \\< 0.05. The study will be conducted in accordance with Good Clinical Practice guidelines and the Declaration of Helsinki, with approval from the AIMS Institutional Review Board and written informed consent obtained from all participants. The trial aims to generate locally relevant clinical evidence on the effectiveness and safety of low-dose semaglutide for obesity management in non-diabetic Pakistani adults.",
+      "detailedDescription": "Obesity is a growing public health concern worldwide and is increasingly prevalent in Pakistan, contributing significantly to cardiovascular disease, metabolic syndrome, non-alcoholic fatty liver disease, hypertension, dyslipidemia, and reduced quality of life. Despite the rising burden of obesity in South Asian populations, access to evidence-based pharmacological treatment remains limited, and locally generated clinical data on anti-obesity medications in non-diabetic individuals are scarce. Semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist, has demonstrated significant weight reduction and cardiometabolic benefits in multiple international clinical trials; however, most available evidence comes from Western populations and higher-dose formulations. In Pakistan, locally available lower-dose semaglutide formulations are increasingly being used in clinical practice, but their real-world effectiveness and safety in non-diabetic obese adults have not been systematically evaluated. This study aims to generate locally relevant clinical evidence to support the safe and effective use of semaglutide for obesity management in the Pakistani population.\n\nThis prospective, open-label, single-arm, single-center pilot interventional trial will be conducted at the Asian Institute of Medical Sciences (AIMS), Hyderabad, Sindh, Pakistan. The study will enroll 60 obese adults aged 18 years or older with a body mass index (BMI) of 27.5 kg/m\u00b2 or greater according to World Health Organization Asian cutoffs and without type 2 diabetes mellitus, confirmed by fasting blood glucose less than 126 mg/dL and HbA1c less than 6.5% within three months prior to enrollment. Participants with a history of pancreatitis, medullary thyroid carcinoma, multiple endocrine neoplasia type 2, pregnancy or lactation, severe renal or hepatic impairment, current use of other anti-obesity medications, or known hypersensitivity to semaglutide will be excluded to ensure participant safety and minimize confounding factors.\n\nEligible participants will receive once-weekly subcutaneous low-dose semaglutide following a standardized dose titration schedule consisting of 0.25 mg weekly for the first four weeks, 0.5 mg weekly for the next four weeks, and 1.0 mg weekly for the remaining 16 weeks, for a total treatment duration of 24 weeks (six months). The medication will be administered under medical supervision, and participants will be educated on proper injection technique and adherence to the treatment regimen. In addition to pharmacological treatment, all participants will receive standardized lifestyle counseling, including a hypocaloric diet with a daily caloric deficit of 500-750 kcal and at least 150 minutes of moderate-intensity physical activity per week, in accordance with international obesity management guidelines.\n\nThe primary objective of the study is to evaluate the percentage change in body weight from baseline to 24 weeks following low-dose semaglutide treatment. Secondary objectives include evaluating changes in body mass index, waist circumference, systolic and diastolic blood pressure, lipid profile (total cholesterol, low-density lipoprotein, high-density lipoprotein, and triglycerides), liver enzymes (alanine aminotransferase and aspartate aminotransferase), and quality of life over the study period. Safety and tolerability will be assessed through continuous monitoring of adverse events and adverse drug reactions, with causality assessment using the Naranjo Adverse Drug Reaction Probability Scale. Clinical and laboratory assessments will be conducted at baseline, 12 weeks, and 24 weeks to evaluate treatment response and safety outcomes.\n\nData will be collected using standardized case report forms and securely stored in a password-protected database. Statistical analysis will be performed using IBM SPSS Statistics software. Descriptive statistics will summarize baseline demographic and clinical characteristics. Continuous variables will be expressed as mean with standard deviation or median with interquartile range, and categorical variables will be expressed as frequencies and percentages. Changes in primary and secondary outcomes from baseline to follow-up visits will be analyzed using paired t-tests or non-parametric equivalents depending on data distribution, and repeated measures analysis will be used to assess trends across time points. A p-value of less than 0.05 will be considered statistically significant. As a pilot trial, the sample size of 60 participants is intended to assess feasibility, estimate treatment effect, and generate preliminary data for future multicenter randomized controlled trials.\n\nThe study will be conducted in accordance with the Declaration of Helsinki and Good Clinical Practice guidelines. Ethical approval will be obtained from the Institutional Review Board of the Asian Institute of Medical Sciences prior to study initiation. Written informed consent will be obtained from all participants before enrollment, and participant confidentiality will be maintained through de-identification and secure data handling. The results of this study are expected to provide important real-world clinical evidence on the effectiveness and safety of low-dose semaglutide for obesity management in non-diabetic Pakistani adults and support future larger-scale clinical research in the region."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Obesity",
+        "Weight Reduction",
+        "Cardiometabolic Risk Factors"
+      ],
+      "keywords": [
+        "Semaglutide",
+        "Obesity",
+        "Weight loss",
+        "GLP-1 Receptor Agonist",
+        "Body Mass Index",
+        "Open label trial",
+        "Cardiometabolic risk",
+        "Single Arm Study",
+        "Pakistan",
+        "Obesity Pharmacotherapy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "This is a single-arm, open-label, single-center interventional study designed to evaluate the efficacy and safety of low-dose semaglutide in obese Pakistani adults without type 2 diabetes. All participants will receive the same intervention (once-weekly subcutaneous semaglutide with dose titration: 0.25 mg for 4 weeks, 0.5 mg for 4 weeks, and 1.0 mg for 16 weeks) along with standardized lifestyle counseling. There is no control or comparator group, and participants are aware of the intervention. The study aims to assess weight loss, cardiometabolic parameters, quality of life, and safety over a 24-week period. Data will be collected at baseline, 12 weeks, and 24 weeks, with continuous adverse event monitoring. This design allows preliminary evaluation of treatment effect and safety in a real-world local population.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 60,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Low-Dose Semaglutide Intervention",
+          "type": "EXPERIMENTAL",
+          "description": "Participants in this single arm will receive once-weekly subcutaneous injections of locally available semaglutide (rDNA-based) for a total duration of 24 weeks (6 months). The intervention follows a standardized dose titration schedule to improve tolerability and minimize gastrointestinal adverse effects. All participants will receive standardized lifestyle counseling at baseline, month 3, and month 6, including guidance on a balanced hypocaloric diet (500-750 kcal/day deficit) and encouragement of moderate-intensity physical activity (\u2265150 minutes per week). No comparator or placebo arm is included in this single-arm design.",
+          "interventionNames": [
+            "Drug: Locally available low-dose semaglutide (0.25 mg, 0.5 mg, 1 mg)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Locally available low-dose semaglutide (0.25 mg, 0.5 mg, 1 mg)",
+          "description": "Once-weekly subcutaneous injections following a titration schedule (0.25 mg for 4 weeks, 0.5 mg for 4 weeks, 1.0 mg for remaining 16 weeks) for a total of 24 weeks.",
+          "armGroupLabels": [
+            "Low-Dose Semaglutide Intervention"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage Change in Body Weight",
+          "description": "The primary outcome is the percentage change in body weight from baseline to 24 weeks following once-weekly low-dose semaglutide treatment. Body weight will be measured using standardized calibrated scales at baseline, 12 weeks, and 24 weeks. The outcome will assess the efficacy of semaglutide in reducing weight in obese adults without type 2 diabetes mellitus.",
+          "timeFrame": "Baseline to 24 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Body Mass Index (BMI)",
+          "description": "The change in BMI from baseline to 24 weeks will be calculated to assess the impact of semaglutide treatment on overall body composition.",
+          "timeFrame": "Baseline, 12 weeks, and 24 weeks"
+        },
+        {
+          "measure": "Change in Waist Circumference",
+          "description": "Waist circumference will be measured using standardized techniques to evaluate reduction in central adiposity during the 24-week intervention period.",
+          "timeFrame": "Baseline, 12 weeks, and 24 weeks"
+        },
+        {
+          "measure": "Change in Lipid Profile",
+          "description": "Fasting blood samples will be analyzed for total cholesterol, LDL-C, HDL-C, and triglycerides to evaluate changes in lipid parameters during the study.",
+          "timeFrame": "Baseline, 12 weeks, and 24 weeks"
+        },
+        {
+          "measure": "Change in Liver Enzymes",
+          "description": "Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels will be measured to monitor hepatic safety and assess potential metabolic improvements.",
+          "timeFrame": "Baseline, 12 weeks, and 24 weeks"
+        },
+        {
+          "measure": "Safety and Adverse Drug Reactions",
+          "description": "All adverse events and adverse drug reactions will be recorded and assessed using the Naranjo Adverse Drug Reaction Probability Scale to monitor tolerability and safety of low-dose semaglutide.",
+          "timeFrame": "Continous throughout 24 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults aged 18 years or older.\n* Body mass index (BMI \u2265 27.5 kg/m\u00b2) according to WHO Asian cut-offs.\n* No diagnosis of type 2 diabetes mellitus, confirmed by:\n\nFasting blood glucose \\< 126 mg/dL, and HbA1c \\< 6.5% within three months prior to enrollment.\n\n* Willingness and ability to provide written informed consent.\n* Willingness to comply with study procedures, including weekly injections and lifestyle counseling.\n\nExclusion Criteria:\n\n* History of pancreatitis.\n* History or presence of medullary thyroid carcinoma or multiple endocrine neoplasia type 2 (MEN2).\n* Pregnant or lactating women.\n* Severe renal impairment (eGFR \\< 30 mL/min/1.73 m\u00b2) or hepatic impairment (ALT or AST \\> 3\u00d7 upper limit of normal).\n* Current use of other anti-obesity medications.\n* Known hypersensitivity to semaglutide or any component of the formulation.\n* Any condition that, in the investigator's opinion, would interfere with participation, adherence, or safety in the study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Fatima Nadeem Dr, Pharm-D, Mphil",
+          "role": "CONTACT",
+          "phone": "+923080744996",
+          "email": "fatima.nadeem2401@gmail.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Dr. Fatima Nadeem",
+          "affiliation": "Asian Institute Of Medical Sciences",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Sadik Memon",
+          "affiliation": "Asian Institute Of Medical Sciences",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Asian Institute of Medical Sciences",
+          "status": "RECRUITING",
+          "city": "Hyder\u0101b\u0101d",
+          "state": "Sindh",
+          "zip": "71000",
+          "country": "Pakistan",
+          "contacts": [
+            {
+              "name": "Sadik Memon Dr",
+              "role": "CONTACT",
+              "phone": "+923009373868",
+              "email": "sadikmemon@gmail.com"
+            },
+            {
+              "name": "Haris Rathore",
+              "role": "CONTACT",
+              "phone": "+923138189653",
+              "email": "aimshyd786@gmail.com"
+            },
+            {
+              "name": "Dr. Fatima Nadeem",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 25.39689,
+            "lon": 68.37718
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "31689026",
+          "type": "BACKGROUND",
+          "citation": "Adverse Drug Reaction Probability Scale (Naranjo) in Drug Induced Liver Injury. 2019 May 4. LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. No abstract available. Available from http://www.ncbi.nlm.nih.gov/books/NBK548069/"
+        },
+        {
+          "pmid": "41295856",
+          "type": "BACKGROUND",
+          "citation": "Hammad MAM, Quesada SG, Belczyk AL, Ghoniem GM. Beyond Glycemic Control: Concurrent GLP-1 Receptor Agonist Use Is Associated with Reduced Urinary Adverse Events Following OnabotulinumtoxinA Treatment in Non-Diabetic Adults with Overactive Bladder. Toxins (Basel). 2025 Nov 1;17(11):542. doi: 10.3390/toxins17110542."
+        },
+        {
+          "pmid": "41773123",
+          "type": "BACKGROUND",
+          "citation": "Sterckx M, De Keyser L. Euglycemic Ketoacidosis Following the Use of Counterfeit Semaglutide for Weight Loss. Cureus. 2026 Jan 30;18(1):e102627. doi: 10.7759/cureus.102627. eCollection 2026 Jan."
+        },
+        {
+          "pmid": "40804463",
+          "type": "BACKGROUND",
+          "citation": "Ismaiel A, Scarlata GGM, Boitos I, Leucuta DC, Popa SL, Al Srouji N, Abenavoli L, Dumitrascu DL. Gastrointestinal adverse events associated with GLP-1 RA in non-diabetic patients with overweight or obesity: a systematic review and network meta-analysis. Int J Obes (Lond). 2025 Oct;49(10):1946-1957. doi: 10.1038/s41366-025-01859-6. Epub 2025 Aug 13."
+        },
+        {
+          "pmid": "40978842",
+          "type": "BACKGROUND",
+          "citation": "Kasagga A, Rebellow D, Hashmi T, Husami MY, Lama P, Arul Selvan K, Nakasagga K. Comparative Efficacy and Tolerability of Tirzepatide Versus Semaglutide at Varying Doses for Weight Loss in Non-diabetic Adults With Obesity: A Network Meta-Analysis of Randomized Controlled Trials. Cureus. 2025 Aug 17;17(8):e90335. doi: 10.7759/cureus.90335. eCollection 2025 Aug."
+        },
+        {
+          "pmid": "38017205",
+          "type": "BACKGROUND",
+          "citation": "Quddos F, Hubshman Z, Tegge A, Sane D, Marti E, Kablinger AS, Gatchalian KM, Kelly AL, DiFeliceantonio AG, Bickel WK. Semaglutide and Tirzepatide reduce alcohol consumption in individuals with obesity. Sci Rep. 2023 Nov 28;13(1):20998. doi: 10.1038/s41598-023-48267-2."
+        },
+        {
+          "pmid": "33977495",
+          "type": "BACKGROUND",
+          "citation": "Ard J, Fitch A, Fruh S, Herman L. Weight Loss and Maintenance Related to the Mechanism of Action of Glucagon-Like Peptide 1 Receptor Agonists. Adv Ther. 2021 Jun;38(6):2821-2839. doi: 10.1007/s12325-021-01710-0. Epub 2021 May 11."
+        },
+        {
+          "pmid": "40196933",
+          "type": "BACKGROUND",
+          "citation": "Thomsen RW, Mailhac A, Lohde JB, Pottegard A. Real-world evidence on the utilization, clinical and comparative effectiveness, and adverse effects of newer GLP-1RA-based weight-loss therapies. Diabetes Obes Metab. 2025 Apr;27 Suppl 2(Suppl 2):66-88. doi: 10.1111/dom.16364. Epub 2025 Apr 8."
+        },
+        {
+          "pmid": "38851997",
+          "type": "BACKGROUND",
+          "citation": "European Association for the Study of the Liver (EASL); European Association for the Study of Diabetes (EASD); European Association for the Study of Obesity (EASO). EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). J Hepatol. 2024 Sep;81(3):492-542. doi: 10.1016/j.jhep.2024.04.031. Epub 2024 Jun 7."
+        },
+        {
+          "pmid": "38976257",
+          "type": "BACKGROUND",
+          "citation": "Rodriguez PJ, Goodwin Cartwright BM, Gratzl S, Brar R, Baker C, Gluckman TJ, Stucky NL. Semaglutide vs Tirzepatide for Weight Loss in Adults With Overweight or Obesity. JAMA Intern Med. 2024 Sep 1;184(9):1056-1064. doi: 10.1001/jamainternmed.2024.2525."
+        },
+        {
+          "pmid": "33625476",
+          "type": "BACKGROUND",
+          "citation": "Wadden TA, Bailey TS, Billings LK, Davies M, Frias JP, Koroleva A, Lingvay I, O'Neil PM, Rubino DM, Skovgaard D, Wallenstein SOR, Garvey WT; STEP 3 Investigators. Effect of Subcutaneous Semaglutide vs Placebo as an Adjunct to Intensive Behavioral Therapy on Body Weight in Adults With Overweight or Obesity: The STEP 3 Randomized Clinical Trial. JAMA. 2021 Apr 13;325(14):1403-1413. doi: 10.1001/jama.2021.1831."
+        },
+        {
+          "pmid": "35441470",
+          "type": "BACKGROUND",
+          "citation": "Wilding JPH, Batterham RL, Davies M, Van Gaal LF, Kandler K, Konakli K, Lingvay I, McGowan BM, Oral TK, Rosenstock J, Wadden TA, Wharton S, Yokote K, Kushner RF; STEP 1 Study Group. Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension. Diabetes Obes Metab. 2022 Aug;24(8):1553-1564. doi: 10.1111/dom.14725. Epub 2022 May 19."
+        },
+        {
+          "pmid": "36578889",
+          "type": "BACKGROUND",
+          "citation": "Tan HC, Dampil OA, Marquez MM. Efficacy and Safety of Semaglutide for Weight Loss in Obesity Without Diabetes: A Systematic Review and Meta-Analysis. J ASEAN Fed Endocr Soc. 2022;37(2):65-72. doi: 10.15605/jafes.037.02.14. Epub 2022 Aug 23."
+        },
+        {
+          "pmid": "33755728",
+          "type": "BACKGROUND",
+          "citation": "Rubino D, Abrahamsson N, Davies M, Hesse D, Greenway FL, Jensen C, Lingvay I, Mosenzon O, Rosenstock J, Rubio MA, Rudofsky G, Tadayon S, Wadden TA, Dicker D; STEP 4 Investigators. Effect of Continued Weekly Subcutaneous Semaglutide vs Placebo on Weight Loss Maintenance in Adults With Overweight or Obesity: The STEP 4 Randomized Clinical Trial. JAMA. 2021 Apr 13;325(14):1414-1425. doi: 10.1001/jama.2021.3224."
+        },
+        {
+          "pmid": "34706925",
+          "type": "BACKGROUND",
+          "citation": "Singh G, Krauthamer M, Bjalme-Evans M. Wegovy (semaglutide): a new weight loss drug for chronic weight management. J Investig Med. 2022 Jan;70(1):5-13. doi: 10.1136/jim-2021-001952. Epub 2021 Oct 27."
+        },
+        {
+          "pmid": "34942372",
+          "type": "BACKGROUND",
+          "citation": "Chao AM, Tronieri JS, Amaro A, Wadden TA. Semaglutide for the treatment of obesity. Trends Cardiovasc Med. 2023 Apr;33(3):159-166. doi: 10.1016/j.tcm.2021.12.008. Epub 2021 Dec 21."
+        },
+        {
+          "pmid": "38740993",
+          "type": "BACKGROUND",
+          "citation": "Ryan DH, Lingvay I, Deanfield J, Kahn SE, Barros E, Burguera B, Colhoun HM, Cercato C, Dicker D, Horn DB, Hovingh GK, Jeppesen OK, Kokkinos A, Lincoff AM, Meyhofer SM, Oral TK, Plutzky J, van Beek AP, Wilding JPH, Kushner RF. Long-term weight loss effects of semaglutide in obesity without diabetes in the SELECT trial. Nat Med. 2024 Jul;30(7):2049-2057. doi: 10.1038/s41591-024-02996-7. Epub 2024 May 13."
+        },
+        {
+          "pmid": "36216945",
+          "type": "BACKGROUND",
+          "citation": "Garvey WT, Batterham RL, Bhatta M, Buscemi S, Christensen LN, Frias JP, Jodar E, Kandler K, Rigas G, Wadden TA, Wharton S; STEP 5 Study Group. Two-year effects of semaglutide in adults with overweight or obesity: the STEP 5 trial. Nat Med. 2022 Oct;28(10):2083-2091. doi: 10.1038/s41591-022-02026-4. Epub 2022 Oct 10."
+        },
+        {
+          "pmid": "38015216",
+          "type": "BACKGROUND",
+          "citation": "Elmaleh-Sachs A, Schwartz JL, Bramante CT, Nicklas JM, Gudzune KA, Jay M. Obesity Management in Adults: A Review. JAMA. 2023 Nov 28;330(20):2000-2015. doi: 10.1001/jama.2023.19897."
+        },
+        {
+          "pmid": "36254579",
+          "type": "BACKGROUND",
+          "citation": "Bergmann NC, Davies MJ, Lingvay I, Knop FK. Semaglutide for the treatment of overweight and obesity: A review. Diabetes Obes Metab. 2023 Jan;25(1):18-35. doi: 10.1111/dom.14863. Epub 2022 Oct 18."
+        },
+        {
+          "pmid": "38679221",
+          "type": "BACKGROUND",
+          "citation": "Moiz A, Levett JY, Filion KB, Peri K, Reynier P, Eisenberg MJ. Long-Term Efficacy and Safety of Once-Weekly Semaglutide for Weight Loss in Patients Without Diabetes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Am J Cardiol. 2024 Jul 1;222:121-130. doi: 10.1016/j.amjcard.2024.04.041. Epub 2024 Apr 26."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "FDA press release announcing approval of Wegovy (semaglutide 2.4 mg weekly) for chronic weight management in adults with obesity or overweight plus \u22651 weight-related condition, based on trials showing significant weight loss with lifestyle intervention.",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-drug-treatment-chronic-weight-management-first-2014"
+        },
+        {
+          "label": "Classic article describing the Naranjo Adverse Drug Reaction Probability Scale, a validated method to estimate likelihood of drug-related adverse events, widely used in clinical research and pharmacovigilance to assess causality of reported reactions.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7282528/"
+        },
+        {
+          "label": "World Health Organization fact sheet on obesity and overweight, summarizing global prevalence, risk factors, health consequences, and public health impact of excess body weight across all regions, including data to support rationale for obesity managemen",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "De-identified individual participant data will be shared with qualified researchers upon reasonable request, starting 6 months after primary study publication for a period of 5 years. Shared data will include participant demographics, body weight, BMI, waist circumference, laboratory results, blood pressure, quality of life outcomes, and safety data. Supporting documents available for sharing include the study protocol, statistical analysis plan, informed consent form, and analytic code. Data requests must include a research proposal and data-sharing agreement approved by the AIMS Institutional Review Board. Participant confidentiality will be maintained through removal of all personal identifiers.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "ICF",
+        "ANALYTIC_CODE"
+      ],
+      "timeFrame": "Start Date: Waiting 6 months after publication ensures that the primary investigators have time to finalize and publish the main study results before sharing data.\n\nEnd Date: A 5-year period allows other qualified researchers sufficient time to request and use the de-identified data.",
+      "accessCriteria": "De-identified individual participant data will be available to qualified researchers with a scientific proposal and an approved data-sharing agreement from the AIMS Institutional Review Board. Shared data include baseline demographics, weight, BMI, waist circumference, blood pressure, lipid profile, liver enzymes, quality of life scores, and adverse events. Supporting documents include the study protocol, statistical analysis plan, informed consent form, and analytic code. Personal identifiers will be removed. Data will be shared electronically via secure file transfer or password-protected cloud after approval, for research purposes only. Access will begin 6 months after publication and continue for 5 years."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        },
+        {
+          "id": "D015431",
+          "term": "Weight Loss"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D001836",
+          "term": "Body Weight Changes"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000591245",
+          "term": "semaglutide"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,1188 @@
+{
+  "nct_id": "NCT06804304",
+  "title": "Efficacy of Music-Based Telerehabilitation After Stroke",
+  "sponsor": "Teppo Sarkamo",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "Stroke"
+  ],
+  "interventions": [
+    "Music-based telerehabilitation"
+  ],
+  "primary_outcome": "Change in the cognitive functioning summary score from baseline to 3-month stage",
+  "secondary_outcomes": [
+    "Change in the cognitive functioning summary score from baseline to 6-month stage",
+    "Change in the speech production summary score from baseline to 6-month stage",
+    "Change in the upper-extremity motor function summary score from baseline to 6-month stage",
+    "Change in the mood and quality of life summary score from baseline to 6-month stage",
+    "Change in the attention summary score from baseline to 3-month and 6-month stages",
+    "Change in the executive function summary score from baseline to 3-month and 6-month stages",
+    "Change in the working memory summary score from baseline to 3-month and 6-month stages",
+    "Change in the MoCA total score from baseline to 3-month and 6-month stages",
+    "Change in the MoCA Verbal Fluency subtest score from baseline to 3-month and 6-month stages",
+    "Change in the SART correct responses from baseline to 3-month and 6-month stages",
+    "Change in the SART reaction times from baseline to 3-month and 6-month stages",
+    "Change in the FAT Reaction Time subtest reaction times from baseline to 3-month and 6-month stages",
+    "Change in the FAT Trail Making subtest (A part) correct responses from baseline to 3-month and 6-month stages",
+    "Change in the FAT Trail Making subtest (A part) reaction times from baseline to 3-month and 6-month stages",
+    "Change in the FAT Trail Making subtest (B part) correct responses from baseline to 3-month and 6-month stages",
+    "Change in the FAT Trail Making subtest (B part) reaction times from baseline to 3-month and 6-month stages",
+    "Change in the FAT Trail Making subtest (difference between B part and A part) correct responses from baseline to 3-month and 6-month stages",
+    "Change in the FAT Trail Making subtest (difference between B part and A part) reaction times from baseline to 3-month and 6-month stages",
+    "Change in the Simon Task (Congruence part) correct responses from baseline to 3-month and 6-month stages",
+    "Change in the Simon Task (Congruence part) reaction times from baseline to 3-month and 6-month stages",
+    "Change in the Simon Task (Incongruence part) correct responses from baseline to 3-month and 6-month stages",
+    "Change in the Simon Task (Incongruence part) reaction times from baseline to 3-month and 6-month stages",
+    "Change in the Simon Task (difference between Incongruence part and Congruence part) correct responses from baseline to 3-month and 6-month stages",
+    "Change in the Simon Task (difference between Incongruence part and Congruence part) reaction times from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Digit Span subtest (forward recall score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Digit Span subtest (backward recall score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Digit Span subtest (total score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Spatial Span subtest (forward recall score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Spatial Span subtest (backward recall score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Spatial Span subtest (total score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Word Lists subtest (1st learning trial score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Word Lists subtest (learning trials change score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Word Lists subtest (learning trials total score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Word Lists subtest (learning trials recognition score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Word Lists subtest (delayed recall score) from baseline to 3-month and 6-month stages",
+    "Change in the WMS-III Word Lists subtest (delayed recognition score) from baseline to 3-month and 6-month stages",
+    "Change in the RBMT Story Recall subtest (immediate recall score) from baseline to 3-month and 6-month stages",
+    "Change in the RBMT Story Recall subtest (immediate recognition score) from baseline to 3-month and 6-month stages",
+    "Change in the RBMT Story Recall subtest (delayed recall score) from baseline to 3-month and 6-month stages",
+    "Change in the RBMT Story Recall subtest (delayed recognition score) from baseline to 3-month and 6-month stages",
+    "Change in the BIT Star Cancellation subtest (left side score) from baseline to 3-month and 6-month stages",
+    "Change in the BIT Star Cancellation subtest (right side score) from baseline to 3-month and 6-month stages",
+    "Change in the BIT Star Cancellation subtest (laterality index) from baseline to 3-month and 6-month stages",
+    "Change in the BIT Star Cancellation subtest (total score) from baseline to 3-month and 6-month stages",
+    "Change in the WAB Conversational Question subtest score from baseline to 3-month and 6-month stages",
+    "Change in the WAB Conversational Question & Picture Description subtests (information content score) from baseline to 3-month and 6-month stages",
+    "Change in the WAB Conversational Question & Picture Description subtests (fluency of speech score) from baseline to 3-month and 6-month stages",
+    "Change in the WAB Spontaneous speech score from baseline to 3-month and 6-month stages",
+    "Change in the WAB Conversational Question & Picture Description subtests (efficiency score) from baseline to 3-month and 6-month stages",
+    "Change in the WAB Repetition subtest score from baseline to 3-month and 6-month stages",
+    "Change in the WAB Object Naming subtest score from baseline to 3-month and 6-month stages",
+    "Change in the WAB Word Fluency subtest score from baseline to 3-month and 6-month stages",
+    "Change in the WAB Sentence Completion subtest score from baseline to 3-month and 6-month stages",
+    "Change in the WAB Responsive Speech subtest score from baseline to 3-month and 6-month stages",
+    "Change in the WAB Naming and Word Finding score from baseline to 3-month and 6-month stages",
+    "Change in the WAB Sequential Commands subtest score from baseline to 3-month and 6-month stages",
+    "Change in the BDAE Verbal Agility subtest score from baseline to 3-month and 6-month stages",
+    "Change in the BDAE Automatized Sequences subtest score from baseline to 3-month and 6-month stages",
+    "Change in the ARAT Grasp subscale score (paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT Grasp subscale score (non-paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT Grip subscale score (paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT Grip subscale score (non-paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT Pinch subscale score (paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT Pinch subscale score (non-paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT Gross Movement subscale score (paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT Gross Movement subscale score (non-paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT total score (paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT total score (non-paretic hand) from baseline to 3-month and 6-month stages",
+    "Change in the ARAT total score from baseline to 3-month and 6-month stages",
+    "Change in the BBT paretic hand score from baseline to 3-month and 6-month stages",
+    "Change in the BBT non-paretic hand score from baseline to 3-month and 6-month stages",
+    "Change in the BBT total score from baseline to 3-month and 6-month stages",
+    "Change in the PPT paretic hand score from baseline to 3-month and 6-month stages",
+    "Change in the PPT non-paretic hand score from baseline to 3-month and 6-month stages",
+    "Change in the PPT both hands score from baseline to 3-month and 6-month stages",
+    "Change in the PPT total score from baseline to 3-month and 6-month stages",
+    "Change in the PPT Assembly score from baseline to 3-month and 6-month stages",
+    "Change in PROMIS Depression subscale total score from baseline to 3-month and 6-month stages",
+    "Change in PROMIS Anxiety subscale total score from baseline to 3-month and 6-month stages",
+    "Change in SIS Strength subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS Hand Function subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS ADL subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS Mobility subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS Communication subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS Emotion subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS Memory and Thinking subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS Participation subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS Recovery item score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS total score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in SIS Strength subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS Hand Function subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS ADL subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS Mobility subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS Communication subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS Emotion subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS Memory and Thinking subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS Participation subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS Recovery item score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in SIS total score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in MAL total score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in MAL total score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in CAL Quantity of Communication scale score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in CAL Quality of Communication score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in CAL total score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in CAL Quantity of Communication scale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in CAL Quality of Communication score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in CAL total score (proxy report of family member) from baseline to 3-month and 6-month stages",
+    "Change in CFQ total score (patient self-report) from baseline to 3-month and 6-month stages",
+    "Change in PRMQ total score (patient self-report) from baseline to 3-month and 6-month stages"
+  ],
+  "start_date": "2025-02-01",
+  "completion_date": "2028-06",
+  "results_posted": false,
+  "enrollment": 100,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06804304",
+        "orgStudyIdInfo": {
+          "id": "HUS/5459/2024"
+        },
+        "organization": {
+          "fullName": "University of Helsinki",
+          "class": "OTHER"
+        },
+        "briefTitle": "Efficacy of Music-Based Telerehabilitation After Stroke",
+        "officialTitle": "Efficacy of Music-Based Telerehabilitation After Stroke"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-04",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2025-02-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2028-06",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2028-12",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2025-01-23",
+        "studyFirstSubmitQcDate": "2025-01-23",
+        "studyFirstPostDateStruct": {
+          "date": "2025-02-03",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-04-21",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-04-22",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Teppo Sarkamo",
+          "investigatorTitle": "Professor",
+          "investigatorAffiliation": "University of Helsinki"
+        },
+        "leadSponsor": {
+          "name": "Teppo Sarkamo",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "HUS Neurocenter",
+            "class": "UNKNOWN"
+          },
+          {
+            "name": "HUS Medical Imaging Centre",
+            "class": "UNKNOWN"
+          },
+          {
+            "name": "University of Jyvaskyla",
+            "class": "OTHER"
+          },
+          {
+            "name": "Finnish Brain Association",
+            "class": "UNKNOWN"
+          },
+          {
+            "name": "Uusimaa Stroke Association",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The goal of this clinical trial is to learn if a music-based telerehabilitation intervention implemented at home works to treat different kinds of neurological deficits caused by stroke. The main questions it aims to answer are: 1) Can the music intervention improve recovery of cognitive, verbal, motor, and emotional deficits after stroke, 2) can the music intervention enhance structural and functional recovery of the brain, and (3) how different demographic, musical, and clinical background factors affect the way the music intervention works. Researchers will compare the music intervention to standard (usual) care to see if the music intervention works to treat the deficits caused by stroke. Subjects are stroke patients who will participate either in the music intervention 5 times/week for 10 weeks in addition to standard care or receive standard care only. During the trial, the subjects will undergo neuropsychological testing and magnetic resonance imaging (MRI) three times: at baseline (before the intervention), at 3-month stage (immediately after the intervention), and at 6-month stage (3 months after the intervention)."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Stroke"
+        ],
+        "keywords": [
+          "stroke",
+          "music",
+          "telerehabilitation",
+          "attention",
+          "executive function",
+          "memory",
+          "cognition",
+          "language",
+          "aphasia",
+          "motor",
+          "hemiparesis",
+          "emotion",
+          "depression",
+          "anxiety",
+          "quality of life",
+          "magnetic resonance imaging",
+          "neuroplasticity"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "whoMasked": [
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 100,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Music intervention plus standard care",
+            "type": "EXPERIMENTAL",
+            "description": "Participation in a music-based telerehabilitation program (10 weeks, 5 days/week, 60 min/day) in addition to standard care for post-stroke deficits provided in public health care (physical therapy, occupational therapy, speech therapy, and/or neuropsychological rehabilitation).",
+            "interventionNames": [
+              "Behavioral: Music-based telerehabilitation"
+            ]
+          },
+          {
+            "label": "Standard care only",
+            "type": "NO_INTERVENTION",
+            "description": "Standard care for post-stroke deficits provided in public health care (physical therapy, occupational therapy, speech therapy, and/or neuropsychological rehabilitation). No additional intervention is provided."
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Music-based telerehabilitation",
+            "description": "The music-based telerehabilitation program is a 10-week multicomponent intervention which includes (1) rhythm-based training of motor and cognitive (attention, working memory, executive function) functions, (2) singing-based training of speech production (using singing and melodic intonation therapy training), (3) playing-based training of upper-extremity motor functions (using instrumental training with a xylophone), and (4) music listening for enhancement of mood, attention, and memory. Training is done using a tablet computer and an online platform comprising a collection of short (3-5 min) training videos for each of the 4 training modules, which the patients are instructed to train with at home for 4 days / week (60 min/day). Additionally, the patients participate in a remote (online) music therapy session led by a music therapist for 1 day/week (60 min).",
+            "armGroupLabels": [
+              "Music intervention plus standard care"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change in the cognitive functioning summary score from baseline to 3-month stage",
+            "description": "Cognitive functioning summary score is calculated as an average of rescaled scores in following tests: Montreal Cognitive Assessment (MoCA) total score, MoCA Verbal Fluency subtest total score, Sustained Attention to Response Task (SART; correct responses \\& reaction times), Flexible Attention Test (FAT) / Reaction Time subtest (reaction times) and Trail Making subtest (correct responses \\& reaction times from difference scores between B part and A part), Simon Task (correct responses \\& reaction times from difference scores between Incongruence part and Congruence part), and Wechsler Memory Scale III (WMS-III) / Digit Span subtest (total score) and Spatial Span subtest (total score). Raw scores are rescaled to a scale of 0-100 using min-max normalization \\[(x-min(x))/(max(x)-min(x))\\*100\\] across the measurement points. The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline and 3-month stage"
+          },
+          {
+            "measure": "Change in the speech production summary score from baseline to 3-month stage",
+            "description": "Speech production summary score is calculated as an average of percentage of correct responses (score/maximum value\\*100; range 0-100) in the following subtests of the Western Aphasia Battery (WAB): Conversational Question, Picture Description, Repetition, Object Naming, Word Fluency, Sentence Completion, and Responsive Speech. The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline and 3-month stage"
+          },
+          {
+            "measure": "Change in the upper-extremity motor function summary score from baseline to 3-month stage",
+            "description": "Upper-extremity motor function summary score is calculated as an average of percentage of correct responses (score/maximum value\\*100; range 0-100) in following tests: Action Research Arm Test (ARAT; total score), Box and Block Test (BBT; total score), and Purdue Pegboard Test (PPT; total score). The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline and 3-month stage"
+          },
+          {
+            "measure": "Change in the mood and quality of life summary score from baseline to 3-month stage",
+            "description": "Mood and quality of life summary score is calculated as an average of percentage scores (score/maximum value\\*100; range 0-100) in following self-report questionnaires: Patient-Reported Outcomes Measurement Information System (PROMIS) / Depression scale (total score), PROMIS / Anxiety scale (total score), and Stroke Impact Scale (SIS; total score). The scores of the PROMIS are reversed to align with the SIS scores. The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline and 3-month stage"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change in the cognitive functioning summary score from baseline to 6-month stage",
+            "description": "Cognitive functioning summary score is calculated as an average of rescaled scores in following tests: Montreal Cognitive Assessment (MoCA) total score, MoCA Verbal Fluency subtest total score, Sustained Attention to Response Task (SART; correct responses \\& reaction times), Flexible Attention Test (FAT) / Reaction Time subtest (reaction times) and Trail Making subtest (correct responses \\& reaction times from difference scores between B part and A part), Simon Task (correct responses \\& reaction times from difference scores between Incongruence part and Congruence part), and Wechsler Memory Scale III (WMS-III) / Digit Span subtest (total score) and Spatial Span subtest (total score). Raw scores are rescaled to a scale of 0-100 using min-max normalization \\[(x-min(x))/(max(x)-min(x))\\*100\\] across the measurement points. The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline and 6-month stage"
+          },
+          {
+            "measure": "Change in the speech production summary score from baseline to 6-month stage",
+            "description": "Speech production summary score is calculated as an average of percentage of correct responses (score/maximum value\\*100; range 0-100) in the following subtests of the Western Aphasia Battery (WAB): Conversational Question, Picture Description, Repetition, Object Naming, Word Fluency, Sentence Completion, and Responsive Speech. The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline and 6-month stage"
+          },
+          {
+            "measure": "Change in the upper-extremity motor function summary score from baseline to 6-month stage",
+            "description": "Upper-extremity motor function summary score is calculated as an average of percentage of correct responses (score/maximum value\\*100; range 0-100) in following tests: Action Research Arm Test (ARAT; total score), Box and Block Test (BBT; total score), and Purdue Pegboard Test (PPT; total score). The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline and 6-month stage"
+          },
+          {
+            "measure": "Change in the mood and quality of life summary score from baseline to 6-month stage",
+            "description": "Mood and quality of life summary score is calculated as an average of percentage scores (score/maximum value\\*100; range 0-100) in following self-report questionnaires: Patient-Reported Outcomes Measurement Information System (PROMIS) / Depression scale (total score), PROMIS / Anxiety scale (total score), and Stroke Impact Scale (SIS; total score). The scores of the PROMIS are reversed to align with the SIS scores. The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline and 6-month stage"
+          },
+          {
+            "measure": "Change in the attention summary score from baseline to 3-month and 6-month stages",
+            "description": "Attention summary score is calculated as an average of rescaled scores in following tests: Sustained Attention to Response Task (SART; correct responses \\& reaction times), Flexible Attention Test (FAT) / Reaction Time subtest (reaction times) and Trail Making subtest (correct responses \\& reaction times from A part), and Simon Task (correct responses \\& reaction times from Congruence part). Raw scores are rescaled to a scale of 0-100 using min-max normalization \\[(x-min(x))/(max(x)-min(x))\\*100\\] across the measurement points. The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the executive function summary score from baseline to 3-month and 6-month stages",
+            "description": "Executive function summary score is calculated as an average of rescaled scores in following tests: MoCA Verbal Fluency subtest total score, Flexible Attention Test (FAT) / Trail Making subtest (correct responses \\& reaction times from difference scores between B part and A part), and Simon Task (correct responses \\& reaction times from difference scores between Incongruence part and Congruence part). Raw scores are rescaled to a scale of 0-100 using min-max normalization \\[(x-min(x))/(max(x)-min(x))\\*100\\] across the measurement points. The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the working memory summary score from baseline to 3-month and 6-month stages",
+            "description": "Working memory summary score is calculated as an average of percentage of correct responses (score/maximum value\\*100; range 0-100) in the Wechsler Memory Scale III (WMS-III) / Digit Span subtest (total score) and Spatial Span subtest (total score). The range of the summary score is 0-100 (higher score indicates better outcome).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the MoCA total score from baseline to 3-month and 6-month stages",
+            "description": "Montreal Cognitive Assessment (MoCA) total score (range 0-30, higher score indicates better outcome), measures general cognitive function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the MoCA Verbal Fluency subtest score from baseline to 3-month and 6-month stages",
+            "description": "Montreal Cognitive Assessment (MoCA) Verbal Fluency subtest score (phonemic fluency; min value: 0, max value: no upper limit; higher score indicates better outcome), measures executive functioning (cognitive flexibility).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the SART correct responses from baseline to 3-month and 6-month stages",
+            "description": "Sustained Attention to Response Task (SART), number of correct responses (range 0-225, higher score indicates better outcome), measures sustained attention.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the SART reaction times from baseline to 3-month and 6-month stages",
+            "description": "Sustained Attention to Response Task (SART), average reaction time (ms) across trials (scores do not have a fixed range, lower score indicates better outcome), measures sustained attention.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the FAT Reaction Time subtest reaction times from baseline to 3-month and 6-month stages",
+            "description": "Flexible Attention Test (FAT) / Reaction Time subtest, average reaction time (ms) across trials (scores do not have a fixed range, lower score indicates better outcome), measures selective attention \\& psychomotor speed.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the FAT Trail Making subtest (A part) correct responses from baseline to 3-month and 6-month stages",
+            "description": "Flexible Attention Test (FAT) / Trail Making subtest (A part), number of correct responses (range 0-24, higher score indicates better outcome), measures selective attention.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the FAT Trail Making subtest (A part) reaction times from baseline to 3-month and 6-month stages",
+            "description": "Flexible Attention Test (FAT) / Trail Making subtest (A part), average reaction time (ms) across trials (scores do not have a fixed range, lower score indicates better outcome), measures selective attention.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the FAT Trail Making subtest (B part) correct responses from baseline to 3-month and 6-month stages",
+            "description": "Flexible Attention Test (FAT) / Trail Making subtest (B part), number of correct responses (range 0-24, higher score indicates better outcome), measures executive function (set-shifting).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the FAT Trail Making subtest (B part) reaction times from baseline to 3-month and 6-month stages",
+            "description": "Flexible Attention Test (FAT) / Trail Making subtest (B part), average reaction time (ms) across trials (scores do not have a fixed range, lower score indicates better outcome), measures executive function (set-shifting).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the FAT Trail Making subtest (difference between B part and A part) correct responses from baseline to 3-month and 6-month stages",
+            "description": "Flexible Attention Test (FAT) / Trail Making subtest (difference between B part and A part), number of correct responses (range 0-24, lower score indicates better outcome), measures executive function (set-shifting).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the FAT Trail Making subtest (difference between B part and A part) reaction times from baseline to 3-month and 6-month stages",
+            "description": "Flexible Attention Test (FAT) / Trail Making subtest (difference between B part and A part), average reaction time (ms) across trials (scores do not have a fixed range, lower score indicates better outcome), measures executive function (set-shifting).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the Simon Task (Congruence part) correct responses from baseline to 3-month and 6-month stages",
+            "description": "Simon Task / Congruence part, number of correct responses (range 0-50, higher score indicates better outcome), measures selective attention.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the Simon Task (Congruence part) reaction times from baseline to 3-month and 6-month stages",
+            "description": "Simon Task / Congruence part, average reaction time (ms) across trials (scores do not have a fixed range, lower score indicates better outcome), measures selective attention.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the Simon Task (Incongruence part) correct responses from baseline to 3-month and 6-month stages",
+            "description": "Simon Task / Incongruence part, number of correct responses (range 0-50, higher score indicates better outcome), measures executive function (inhibition).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the Simon Task (Incongruence part) reaction times from baseline to 3-month and 6-month stages",
+            "description": "Simon Task / Incongruence part, average reaction time (ms) across trials (scores do not have a fixed range, lower score indicates better outcome), measures executive function (inhibition).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the Simon Task (difference between Incongruence part and Congruence part) correct responses from baseline to 3-month and 6-month stages",
+            "description": "Simon Task: Difference between Incongruence part and Congruence part, number of correct responses (range 0-50, lower score indicates better outcome), measures executive function (set-shifting).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the Simon Task (difference between Incongruence part and Congruence part) reaction times from baseline to 3-month and 6-month stages",
+            "description": "Simon Task: Difference between Incongruence part and Congruence part, average reaction time (ms) across trials (scores do not have a fixed range, lower score indicates better outcome), measures executive function (set-shifting).",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Digit Span subtest (forward recall score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Digit Span subtest, forward recall score (range 0-16, higher score indicates better outcome), measures verbal working memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Digit Span subtest (backward recall score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Digit Span subtest, backward recall score (range 0-14, higher score indicates better outcome), measures verbal working memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Digit Span subtest (total score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Digit Span subtest, total score (range 0-30, higher score indicates better outcome), measures verbal working memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Spatial Span subtest (forward recall score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Spatial Span subtest, forward recall score (range 0-16, higher score indicates better outcome), measures visuospatial working memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Spatial Span subtest (backward recall score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Spatial Span subtest, backward recall score (range 0-16, higher score indicates better outcome), measures visuospatial working memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Spatial Span subtest (total score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Spatial Span subtest, total score (range 0-32, higher score indicates better outcome), measures visuospatial working memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Word Lists subtest (1st learning trial score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Word Lists subtest, 1st learning trial score (range 0-12, higher score indicates better outcome), measures verbal memory \\& learning",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Word Lists subtest (learning trials change score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Word Lists subtest, change score from the 1st to 4th learning trial (range 0-12, higher score indicates better outcome), measures verbal memory \\& learning.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Word Lists subtest (learning trials total score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Word Lists subtest, total score over 4 learning trials (range 0-48, higher score indicates better outcome), measures verbal memory \\& learning.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Word Lists subtest (learning trials recognition score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Word Lists subtest, recognition (old-new) score after 4 learning trials (range 0-24, higher score indicates better outcome), measures verbal memory \\& learning.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Word Lists subtest (delayed recall score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Word Lists subtest, delayed recall score (range 0-12, higher score indicates better outcome), measures verbal memory \\& learning.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WMS-III Word Lists subtest (delayed recognition score) from baseline to 3-month and 6-month stages",
+            "description": "Wechsler Memory Scale III (WMS-III) / Word Lists subtest, recognition (old-new) score after delay (range 0-24, higher score indicates better outcome), measures verbal memory \\& learning.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the RBMT Story Recall subtest (immediate recall score) from baseline to 3-month and 6-month stages",
+            "description": "Rivermead Behavioural Memory Test (RBMT) / Story Recall subtest, immediate recall score (range 0-42, higher score indicates better outcome), measures episodic memory",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the RBMT Story Recall subtest (immediate recognition score) from baseline to 3-month and 6-month stages",
+            "description": "Rivermead Behavioural Memory Test (RBMT) / Story Recall subtest, recognition (old-new) score after immediate recall (range 0-12, higher score indicates better outcome), measures episodic memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the RBMT Story Recall subtest (delayed recall score) from baseline to 3-month and 6-month stages",
+            "description": "Rivermead Behavioural Memory Test (RBMT) / Story Recall subtest, delayed recall score (range 0-42, higher score indicates better outcome), measures episodic memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the RBMT Story Recall subtest (delayed recognition score) from baseline to 3-month and 6-month stages",
+            "description": "Rivermead Behavioural Memory Test (RBMT) / Story Recall subtest, recognition (old-new) score after delay (range 0-12, higher score indicates better outcome), measures episodic memory.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BIT Star Cancellation subtest (left side score) from baseline to 3-month and 6-month stages",
+            "description": "Behavioral Inattention Test (BIT) / Star Cancellation subtest, number of correctly marked items on the left side (range 0-27, higher score indicates better outcome), measures spatial attention (unilateral spatial neglect)",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BIT Star Cancellation subtest (right side score) from baseline to 3-month and 6-month stages",
+            "description": "Behavioral Inattention Test (BIT) / Star Cancellation subtest, number of correctly marked items on the right side (range 0-27, higher score indicates better outcome), measures spatial attention (unilateral spatial neglect)",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BIT Star Cancellation subtest (laterality index) from baseline to 3-month and 6-month stages",
+            "description": "Behavioral Inattention Test (BIT) / Star Cancellation subtest, ratio of correctly marked items on the left side to total correctly marked items (range 0-1, lower score indicates better outcome), measures spatial attention (unilateral spatial neglect)",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BIT Star Cancellation subtest (total score) from baseline to 3-month and 6-month stages",
+            "description": "Behavioral Inattention Test (BIT) / Star Cancellation subtest, number of correctly marked items (range 0-54, higher score indicates better outcome), measures spatial attention (unilateral spatial neglect)",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Conversational Question subtest score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Conversational Question subtest, score (range 0-6, higher score indicates better outcome), measures spontaneous speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Conversational Question & Picture Description subtests (information content score) from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Conversational Question \\& Picture Description subtests, information content score (range 0-10, higher score indicates better outcome), measures spontaneous speech production",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Conversational Question & Picture Description subtests (fluency of speech score) from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Conversational Question \\& Picture Description subtests, fluency of speech score (range 0-10, higher score indicates better outcome), measures spontaneous speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Spontaneous speech score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Spontaneous speech score (sum of information content and fluency of speech scores; range 0-20, higher score indicates better outcome), measures spontaneous speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Conversational Question & Picture Description subtests (efficiency score) from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Conversational Question \\& Picture Description subtests, number of correct information units per minute (min: 0, max: no fixed value, higher score indicates better outcome), measures spontaneous speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Repetition subtest score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Repetition subtest, score (range: 0-100, higher score indicates better outcome), measures responsive speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Object Naming subtest score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Object Naming subtest, score (range: 0-60, higher score indicates better outcome), measures responsive speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Word Fluency subtest score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Word Fluency subtest, score (range: 0-20, higher score indicates better outcome), measures responsive speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Sentence Completion subtest score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Sentence Completion subtest, score (range: 0-10, higher score indicates better outcome), measures responsive speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Responsive Speech subtest score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Responsive Speech subtest, score (range: 0-10, higher score indicates better outcome), measures responsive speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Naming and Word Finding score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Naming and Word Finding score (sum of Object Naming, Word Fluency, Sentence Completion, Responsive Speech subtest scores; range: 0-100, higher score indicates better outcome), measures responsive speech production.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the WAB Sequential Commands subtest score from baseline to 3-month and 6-month stages",
+            "description": "Western Aphasia Battery (WAB) / Sequential Commands subtest, score (range: 0-80, higher score indicates better outcome), measures verbal comprehension.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BDAE Verbal Agility subtest score from baseline to 3-month and 6-month stages",
+            "description": "Boston Diagnostic Aphasia Examination (BDAE) / Verbal Agility subtest, score (range: 0-14, higher score indicates better outcome), measures motor production of speech",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BDAE Automatized Sequences subtest score from baseline to 3-month and 6-month stages",
+            "description": "Boston Diagnostic Aphasia Examination (BDAE) / Automatized Sequences subtest, score (range: 0-8, higher score indicates better outcome), measures non-propositional speech.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT Grasp subscale score (paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) / Grasp subscale score of the paretic hand (range: 0-18, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT Grasp subscale score (non-paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) / Grasp subscale score of the non-paretic hand (range: 0-18, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT Grip subscale score (paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) / Grip subscale score of the paretic hand (range: 0-12, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT Grip subscale score (non-paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) / Grip subscale score of the non-paretic hand (range: 0-12, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT Pinch subscale score (paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) / Pinch subscale score of the paretic hand (range: 0-18, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT Pinch subscale score (non-paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) / Pinch subscale score of the non-paretic hand (range: 0-18, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT Gross Movement subscale score (paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) / Gross Movement subscale score of the paretic hand (range: 0-9, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT Gross Movement subscale score (non-paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) / Gross Movement subscale score of the non-paretic hand (range: 0-9, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT total score (paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) total score of the paretic hand (range: 0-57, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT total score (non-paretic hand) from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) total score of the non-paretic hand (range: 0-57, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the ARAT total score from baseline to 3-month and 6-month stages",
+            "description": "Action Research Arm Test (ARAT) total score (both paretic \\& non-paretic hands; range: 0-114, higher score indicates better outcome), measures upper-extremity motor function.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BBT paretic hand score from baseline to 3-month and 6-month stages",
+            "description": "Box and Block Test (BBT) total score for the paretic hand (range: 0-150, higher score indicates better outcome), measures gross manual dexterity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BBT non-paretic hand score from baseline to 3-month and 6-month stages",
+            "description": "Box and Block Test (BBT) total score for the non-paretic hand (range: 0-150, higher score indicates better outcome), measures gross manual dexterity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the BBT total score from baseline to 3-month and 6-month stages",
+            "description": "Box and Block Test (BBT) total score for both hands (range: 0-300, higher score indicates better outcome), measures gross manual dexterity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the PPT paretic hand score from baseline to 3-month and 6-month stages",
+            "description": "Purdue Pegboard Test (PPT) score of the paretic hand (range: 0-25, higher score indicates better outcome), measures fine manual dexterity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the PPT non-paretic hand score from baseline to 3-month and 6-month stages",
+            "description": "Purdue Pegboard Test (PPT) score of the non-paretic hand (range: 0-25, higher score indicates better outcome), measures fine manual dexterity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the PPT both hands score from baseline to 3-month and 6-month stages",
+            "description": "Purdue Pegboard Test (PPT) score of both hands (range: 0-25, higher score indicates better outcome), measures fine manual dexterity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the PPT total score from baseline to 3-month and 6-month stages",
+            "description": "Purdue Pegboard Test (PPT) total score (range: 0-75, higher score indicates better outcome), measures fine manual dexterity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in the PPT Assembly score from baseline to 3-month and 6-month stages",
+            "description": "Purdue Pegboard Test (PPT) Assembly score (range: 0-80, higher score indicates better outcome), measures fine manual dexterity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in PROMIS Depression subscale total score from baseline to 3-month and 6-month stages",
+            "description": "Patient-Reported Outcomes Measurement Information System (PROMIS) / Depression subscale total score (patient self-report; range: 5-40, lower score indicates better outcome), measures depression.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in PROMIS Anxiety subscale total score from baseline to 3-month and 6-month stages",
+            "description": "Patient-Reported Outcomes Measurement Information System (PROMIS) / Anxiety subscale total score (patient self-report; range: 5-40, lower score indicates better outcome), measures anxiety.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Strength subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Strength subscale score (patient self-report; range: 0-100, higher score indicates better outcome), measures strength of the paretic upper-extremity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Hand Function subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Hand Function subscale score (patient self-report; range: 0-100, higher score indicates better outcome), measures hand function of the paretic upper-extremity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS ADL subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / ADL subscale score (patient self-report; range: 0-100, higher score indicates better outcome), measures ability to perform activities of daily living.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Mobility subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Mobility subscale score (patient self-report; range: 0-100, higher score indicates better outcome), measures mobility in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Communication subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Communication subscale score (patient self-report; range: 0-100, higher score indicates better outcome), measures communication ability in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Emotion subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Emotion subscale score (patient self-report; range: 0-100, higher score indicates better outcome), measures mood.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Memory and Thinking subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Memory and Thinking subscale score (patient self-report; range: 0-100, higher score indicates better outcome), measures cognitive functioning in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Participation subscale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Participation subscale score (patient self-report; range: 0-100, higher score indicates better outcome), measures social interaction and involvement in life situations.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Recovery item score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Recovery item score (patient self-report using visual analogue scale, range: 0-100, higher score indicates better outcome), measures patient's perception of their overall recovery from stroke.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS total score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) total score (patient self-report; range: 0-900, higher score indicates better outcome), measures overall quality of life after stroke.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Strength subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Strength subscale score (proxy report of family member; range: 0-100, higher score indicates better outcome), measures strength of the paretic upper-extremity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Hand Function subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Hand Function subscale score (proxy report of family member; range: 0-100, higher score indicates better outcome), measures hand function of the paretic upper-extremity.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS ADL subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / ADL subscale score (proxy report of family member; range: 0-100, higher score indicates better outcome), measures ability to perform activities of daily living.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Mobility subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Mobility subscale score (proxy report of family member; range: 0-100, higher score indicates better outcome), measures mobility in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Communication subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Communication subscale score (proxy report of family member; range: 0-100, higher score indicates better outcome), measures communication ability in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Emotion subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Emotion subscale score (proxy report of family member; range: 0-100, higher score indicates better outcome), measures mood.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Memory and Thinking subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Memory and Thinking subscale score (proxy report of family member; range: 0-100, higher score indicates better outcome), measures cognitive functioning in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Participation subscale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Participation subscale score (proxy report of family member; range: 0-100, higher score indicates better outcome), measures social interaction and involvement in life situations.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS Recovery item score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) / Recovery item score (proxy report of family member using visual analogue scale, range: 0-100, higher score indicates better outcome), measures family member's perception of patient's overall recovery from stroke.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in SIS total score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Stroke Impact Scale (SIS) total score (proxy report of family member; range: 0-900, higher score indicates better outcome), measures overall quality of life after stroke.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in MAL total score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Motor Activity Log (MAL) total score (patient self-report; range: 0-70, higher score indicates better outcome), measures severity of upper-extremity paresis.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in MAL total score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Motor Activity Log (MAL) total score (proxy report of family member; range: 0-70, higher score indicates better outcome), measures severity of upper-extremity paresis.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in CAL Quantity of Communication scale score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Communicative Activity Log (CAL) / Quantity of Communication score (patient self-report; range: 0-90, higher score indicates better outcome), measures quantity of communication in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in CAL Quality of Communication score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Communicative Activity Log (CAL) / Quality of Communication scale score (patient self-report; range: 0-90, higher score indicates better outcome), measures quality of communication in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in CAL total score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Communicative Activity Log (CAL) total score (patient self-report; range: 0-180, higher score indicates better outcome), measures communication ability in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in CAL Quantity of Communication scale score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Communicative Activity Log (CAL) / Quantity of Communication score (proxy report of family member; range: 0-90, higher score indicates better outcome), measures quantity of communication in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in CAL Quality of Communication score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Communicative Activity Log (CAL) / Quality of Communication scale score (proxy report of family member; range: 0-90, higher score indicates better outcome), measures quality of communication in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in CAL total score (proxy report of family member) from baseline to 3-month and 6-month stages",
+            "description": "Communicative Activity Log (CAL) total score (proxy report of family member; range: 0-180, higher score indicates better outcome), measures communication ability in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in CFQ total score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Cognitive Failures Questionnaire (CFQ) total score (patient self-report; range: 0-100, lower score indicates better outcome), measures severity of attention and executive deficits in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in PRMQ total score (patient self-report) from baseline to 3-month and 6-month stages",
+            "description": "Prospective and Retrospective Memory Questionnaire (PRMQ) total score (patient self-report; range: 5-80, higher score indicates better outcome), measures memory functioning in daily life.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          }
+        ],
+        "otherOutcomes": [
+          {
+            "measure": "Change in the MIT phrase repetition score from baseline to 3-month and 6-month stages",
+            "description": "Spoken repetition of phrases used in the melodic intonation therapy (MIT) part of the music intervention (range: 0-100, higher score indicates better outcome), measures verbal production of trained material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in verbal production in a singing task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Percentage of correctly produced words \\& syllables in a singing task used in the music intervention (score/maximum value\\*100; range 0-100, higher score indicates better outcome), measures verbal production of trained singing material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in musical production in a singing task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Error scores (pitch, rhythm \\& melodic) in a singing task used in the music intervention (based on acoustic analysis of recorded sung production, lower score indicates better outcome), measures musical production of trained singing material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in melodic production using paretic hand in a playing task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Percentage of notes played correctly with paretic hand in an instrument (xylophone) playing task used in the music intervention (score/maximum value\\*100; range 0-100, higher score indicates better outcome), measures melodic production of trained playing material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in melodic production using non-paretic hand in a playing task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Percentage of notes played correctly with non-paretic hand in an instrument (xylophone) playing task used in the music intervention (score/maximum value\\*100; range 0-100, higher score indicates better outcome), measures melodic production of trained playing material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in rhythmic production using paretic hand in a playing task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Average timing deviation (in ms) of notes played with paretic hand in an instrument (xylophone) playing task used in the music intervention compared to the actual rhythm of the song (scores do not have a fixed range, lower score indicates better outcome), measures rhythmic production of trained playing material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in rhythmic production using non-paretic hand in a playing task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Average timing deviation (in ms) of notes played with non-paretic hand in an instrument (xylophone) playing task used in the music intervention compared to the actual rhythm of the song (scores do not have a fixed range, lower score indicates better outcome), measures rhythmic production of trained playing material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in movement quality of paretic hand in a playing task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Kinematic movement quality (velocity, time, range, and smoothness of movements; based on optical motion capture analysis) of playing performance with paretic hand in an instrument (xylophone) playing task used in the music intervention, measures motor production of trained playing material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in movement quality of non-paretic hand in a playing task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Kinematic movement quality (velocity, time, range, and smoothness of movements; based on optical motion capture analysis) of playing performance with non-paretic hand in an instrument (xylophone) playing task used in the music intervention, measures motor production of trained playing material.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in performance accuracy using paretic hand in a gross motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Percentage of movements produced correctly with paretic hand in a gross motor rhythmic task used in the music intervention (score/maximum value\\*100; range 0-100, higher score indicates better outcome), measures accuracy of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in performance accuracy using non-paretic hand in a gross motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Percentage of movements produced correctly with non-paretic hand in a gross motor rhythmic task used in the music intervention (score/maximum value\\*100; range 0-100, higher score indicates better outcome), measures accuracy of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in performance timing using paretic hand in a gross motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Average timing deviation (in ms) of movements produced with paretic hand in a gross motor rhythmic task used in the music intervention compared to the actual rhythm of the song (scores do not have a fixed range, lower score indicates better outcome), measures timing of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in performance timing using non-paretic hand in a gross motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Average timing deviation (in ms) of movements produced with non-paretic hand in a gross motor rhythmic task used in the music intervention compared to the actual rhythm of the song (scores do not have a fixed range, lower score indicates better outcome), measures timing of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in movement quality of paretic hand in a gross motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Kinematic movement quality (velocity, time, range, and smoothness of movements; based on optical motion capture analysis) of movements produced with paretic hand in a gross motor rhythmic task used in the music intervention, measures motor production of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in movement quality of non-paretic hand in a gross motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Kinematic movement quality (velocity, time, range, and smoothness of movements; based on optical motion capture analysis) of movements produced with non-paretic hand in a gross motor rhythmic task used in the music intervention, measures motor production of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in performance accuracy using paretic hand in a fine motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Percentage of movements produced correctly with paretic hand in a fine motor rhythmic task used in the music intervention (score/maximum value\\*100; range 0-100, higher score indicates better outcome), measures accuracy of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in performance accuracy using non-paretic hand in a fine motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Percentage of movements produced correctly with non-paretic hand in a fine motor rhythmic task used in the music intervention (score/maximum value\\*100; range 0-100, higher score indicates better outcome), measures accuracy of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in performance timing using paretic hand in a fine motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Average timing deviation (in ms) of movements produced with non-paretic hand in a fine motor rhythmic task used in the music intervention compared to the actual rhythm of the song (scores do not have a fixed range, lower score indicates better outcome), measures timing of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in performance timing using non-paretic hand in a fine motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Average timing deviation (in ms) of movements produced with non-paretic hand in a fine motor rhythmic task used in the music intervention compared to the actual rhythm of the song (scores do not have a fixed range, lower score indicates better outcome), measures timing of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in movement quality of paretic hand in a fine motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Kinematic movement quality (velocity, time, range, and smoothness of movements; based on optical motion capture analysis) of movements produced with paretic hand in a fine motor rhythmic task used in the music intervention, measures motor production of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in movement quality of non-paretic hand in a fine motor rhythmic task of the music intervention from baseline to 3-month and 6-month stages",
+            "description": "Kinematic movement quality (velocity, time, range, and smoothness of movements; based on optical motion capture analysis) of movements produced with non-paretic hand in a fine motor rhythmic task used in the music intervention, measures motor production of trained rhythmic movements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in sMRI regional grey matter volume from baseline to 3-month and 6-month stages",
+            "description": "Regional grey matter volume from voxel-based morphometry (VBM) analyses of structural magnetic resonance imaging (sMRI) images.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in dMRI structural connectivity from baseline to 3-month and 6-month stages",
+            "description": "Connectivity of white matter pathways from diffusion tensor imaging (DTI) analyses of diffusion-weighted magnetic resonance imaging (dMRI) images.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in fMRI resting-state functional connectivity from baseline to 3-month and 6-month stages",
+            "description": "Connectivity within and between functional brain networks in resting-state functional magnetic resonance imaging (fMRI) measurements",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in fMRI functional connectivity during music listening from baseline to 3-month and 6-month stages",
+            "description": "Connectivity within and between functional brain networks during listening of novel and well-known songs in functional magnetic resonance imaging (fMRI) measurements",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          },
+          {
+            "measure": "Change in fMRI regional brain activation during music listening from baseline to 3-month and 6-month stages",
+            "description": "Pattern of regional brain activation during listening of novel and well-known songs in functional magnetic resonance imaging (fMRI) measurements.",
+            "timeFrame": "Baseline, 3-month stage, and 6-month stage"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Left or right hemisphere stroke which has occurred at least 3 months ago\n* At least mild cognitive deficit and mild aphasia / upper-extremity hemiparesis caused by the stroke\n* Age 30-80 years\n* Finnish-speaking (or bilingual, able to participate in Finnish)\n* Understands the purpose of the study and is able to give informed consent\n\nExclusion Criteria:\n\n* Prior significant hearing or visual impairment\n* Prior severe psychiatric illness (e.g., schizopheria, bipolar disorder, severe unipolar depression)\n* Prior severe neurological illness (e.g., brain injury, dementia; can have prior TIA or mild stroke)",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "30 Years",
+        "maximumAge": "80 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Teppo S\u00e4rk\u00e4m\u00f6, Ph.D.",
+            "role": "CONTACT",
+            "phone": "+358505399065",
+            "email": "teppo.sarkamo@helsinki.fi"
+          },
+          {
+            "name": "Nella Moisseinen, M.A.",
+            "role": "CONTACT",
+            "phone": "+358504070507",
+            "email": "nella.moisseinen@helsinki.fi"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Teppo S\u00e4rk\u00e4m\u00f6, Ph.D.",
+            "affiliation": "University of Helsinki / Faculty of Medicine / Department of Psychology",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of Helsinki / Faculty of Medicine / Department of Psychology",
+            "status": "RECRUITING",
+            "city": "Helsinki",
+            "zip": "00014",
+            "country": "Finland",
+            "contacts": [
+              {
+                "name": "Nella Moisseinen, M.A.",
+                "role": "CONTACT",
+                "phone": "+358504070507",
+                "email": "nella.moisseinen@helsinki.fi"
+              },
+              {
+                "name": "Teppo S\u00e4rk\u00e4m\u00f6, Ph.D.",
+                "role": "CONTACT",
+                "phone": "+358505399065",
+                "email": "teppo.sarkamo@helsinki.fi"
+              },
+              {
+                "name": "Teppo S\u00e4rk\u00e4m\u00f6, Ph.D.",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Nella Moisseinen, M.A.",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Emma Oksanen, M.A.",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Ella Laakso, M.A.",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Aleksi J Sihvonen, Ph.D.",
+                "role": "SUB_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 60.16952,
+              "lon": 24.93545
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "42785935",
+            "type": "DERIVED",
+            "citation": "Laakso E, Oksanen E, Kaila LM, Salakka I, Kauramaki J, Lahdenpera N, Pitkaniemi A, Sihvonen AJ, Moisseinen N, Sarkamo T. Efficacy of music-based telerehabilitation after stroke: protocol description of a randomised controlled trial. BMJ Open. 2026 Sep 24;16(9):e124110. doi: 10.1136/bmjopen-2026-124110."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D020521",
+            "term": "Stroke"
+          },
+          {
+            "id": "D007802",
+            "term": "Language"
+          },
+          {
+            "id": "D001037",
+            "term": "Aphasia"
+          },
+          {
+            "id": "D010291",
+            "term": "Paresis"
+          },
+          {
+            "id": "D003863",
+            "term": "Depression"
+          },
+          {
+            "id": "D001008",
+            "term": "Anxiety Disorders"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002561",
+            "term": "Cerebrovascular Disorders"
+          },
+          {
+            "id": "D001927",
+            "term": "Brain Diseases"
+          },
+          {
+            "id": "D002493",
+            "term": "Central Nervous System Diseases"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D003142",
+            "term": "Communication"
+          },
+          {
+            "id": "D001519",
+            "term": "Behavior"
+          },
+          {
+            "id": "D013064",
+            "term": "Speech Disorders"
+          },
+          {
+            "id": "D007806",
+            "term": "Language Disorders"
+          },
+          {
+            "id": "D003147",
+            "term": "Communication Disorders"
+          },
+          {
+            "id": "D019954",
+            "term": "Neurobehavioral Manifestations"
+          },
+          {
+            "id": "D009461",
+            "term": "Neurologic Manifestations"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D001526",
+            "term": "Behavioral Symptoms"
+          },
+          {
+            "id": "D001523",
+            "term": "Mental Disorders"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:31:09.378560"
+}

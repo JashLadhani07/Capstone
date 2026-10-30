@@ -1,0 +1,680 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02132884",
+      "orgStudyIdInfo": {
+        "id": "CGI-068"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2014-00717",
+          "type": "REGISTRY",
+          "domain": "CTRP (Clinical Trial Reporting Program)"
+        },
+        {
+          "id": "CGI-068",
+          "type": "OTHER",
+          "domain": "Fox Chase Cancer Center"
+        },
+        {
+          "id": "P30CA006927",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/P30CA006927"
+        }
+      ],
+      "organization": {
+        "fullName": "Fox Chase Cancer Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Genetic Sequencing-Informed Targeted Therapy in Treating Patients With Stage IIIB-IV Non-small Cell Lung Cancer",
+      "officialTitle": "CancerCodeTM Informed, Molecularly Targeted Therapies in Non-small Cell Lung Cancer"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-08",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Feasibility",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-03"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2016-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2016-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-05-06",
+      "studyFirstSubmitQcDate": "2014-05-06",
+      "studyFirstPostDateStruct": {
+        "date": "2014-05-07",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2017-12-13",
+      "resultsFirstSubmitQcDate": "2017-12-13",
+      "resultsFirstPostDateStruct": {
+        "date": "2018-01-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-08-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-09-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Fox Chase Cancer Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Cancer Institute (NCI)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This randomized clinical trial studies how well genetic sequencing-informed targeted therapy works in treating patients with stage IIIB-IV non-small cell lung cancer. Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific types of tumor cells that may have less harm to normal cells. Genetic sequencing may help identify these specific types of tumor cells in patients with non-small cell lung cancer.",
+      "detailedDescription": "PRIMARY OBJECTIVES:\n\nI. The three month progression free survival (PFS) of patients treated with targeted agents in the second line setting based on the tumor molecular signature as defined by CancerCode will be 40% vs 20% with standard cytotoxic chemotherapy.\n\nSECONDARY OBJECTIVES:\n\nI. Response rate (RR). II. Overall survival (OS). III. Proportion of Arm-B patients whose second line therapy is changed as a result of physician access to CancerCode-50 results.\n\nIV. Concordance of variants identified when sequencing is performed on samples from the same patient collected at baseline and follow-up time points.\n\nOUTLINE: Patients are randomized to 1 of 2 treatment arms.\n\nARM A: Patients receive standard of care therapy based on the discretion of the treating physician.\n\nARM B: Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.\n\nAfter completion of study treatment, patients are followed up every 3 months for 2 years, every 6 months for 1 year, and then annually thereafter."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Malignant Pericardial Effusion",
+        "Malignant Pleural Effusion",
+        "Recurrent Non-small Cell Lung Cancer",
+        "Stage IIIB Non-small Cell Lung Cancer",
+        "Stage IV Non-small Cell Lung Cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Arm A (standard of care treatment)",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Patients receive standard of care treatment based on the discretion of the treating physician.",
+          "interventionNames": [
+            "Procedure: therapeutic procedure",
+            "Other: laboratory biomarker analysis"
+          ]
+        },
+        {
+          "label": "Arm B (genetic sequencing and targeted therapy)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.",
+          "interventionNames": [
+            "Other: cytology specimen collection procedure",
+            "Drug: targeted therapy",
+            "Other: laboratory biomarker analysis"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "cytology specimen collection procedure",
+          "description": "Undergo collection of tissue and blood samples",
+          "armGroupLabels": [
+            "Arm B (genetic sequencing and targeted therapy)"
+          ],
+          "otherNames": [
+            "cytologic sampling"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "therapeutic procedure",
+          "description": "Receive standard of care treatment",
+          "armGroupLabels": [
+            "Arm A (standard of care treatment)"
+          ],
+          "otherNames": [
+            "Therapeutic Interventions",
+            "Therapeutic Method",
+            "Therapeutic Technique",
+            "Therapy",
+            "TX"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "targeted therapy",
+          "description": "Receive specific targeted therapy",
+          "armGroupLabels": [
+            "Arm B (genetic sequencing and targeted therapy)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "laboratory biomarker analysis",
+          "description": "Correlative studies",
+          "armGroupLabels": [
+            "Arm A (standard of care treatment)",
+            "Arm B (genetic sequencing and targeted therapy)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Progression Free Survival",
+          "description": "A chi-square test (one-sided; alpha = .1) will be used to assess the efficacy of treating patients with targeted agents based in the Cancer-Code-50 in the second line setting. For each patient \"success\" will be defined as being progression free for at least 3 months following initiation of second line therapy. Progression free survival times will be characterized separately by arm using the method of Kaplan and Meier.",
+          "timeFrame": "Time from start of second line treatment to time of progression or death, whichever occurs first, assessed at 3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Response Rate Defined by RECIST 1.1",
+          "description": "The response rate (with 95% two-sided confidence intervals) will be computed separately by arm. One-sided chi-square or Fisher's exact tests (alpha = .1) will be used to evaluate differences in response rates between arms.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Proportion of Arm B Patients Whose Second Line Therapy is Changed as a Result of Physician Access to CancerCode-50 Results",
+          "description": "To assess the effect of sequencing on clinical practice and decision making the proportion of Arm B patients whose second line therapy is changed as a result of physician access to CancerCode-50 results will be computed. This comparison will be based on information provided by the treating physician before being exposed to the sequencing results, and information obtained from a from post-treatment chart review.",
+          "timeFrame": "Up to 2 years"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Concordance of Variants (Arm B)",
+          "description": "The concordance of variants identified when sequencing will be performed on samples from the same patient collected at baseline and follow-up time points will also be measured.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Incidence of Non-protocol Testing (Arm A)",
+          "description": "The incidence of non-protocol testing of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Response Rate Defined by RECIST 1.1 (Arm A)",
+          "description": "The response rate of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated.",
+          "timeFrame": "Up to 2 years"
+        },
+        {
+          "measure": "Progression Free Survival (Arm A)",
+          "description": "The progression free survival of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated.",
+          "timeFrame": "Time from start of second line treatment to time of progression or death, whichever occurs first, assessed up to 2 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with cytologically or histologically confirmed non-small cell lung cancer (NSCLC) - locally advanced, stage IIIB OR stage IV or stage IVM1A (malignant pleural or pericardial effusion or pleural implants) OR recurrence after primary surgery or radiotherapy (refer to 2010 American Joint Committee on Cancer \\[AJCC\\] staging, 7th edition \\[Ed\\])\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST)-1.1 criteria; previous irradiated tumor is acceptable if there is at least a 20% increase in the size of the previously irradiated lesion\n* Patients must be suitable candidates for treatment with standard regimens; this includes having adequate hematologic parameters, liver function and renal function based on labs that are deemed acceptable for treatment by the investigators\n* Previous radiation allowed provided that 2 weeks has passed since radiation and/or the patient has recovered from the side effects\n* Availability of archival diagnostic tissue (paraffin tissue block, cytospin block from a fine needle aspirate, or unstained slides from resected tumor, core biopsy, or fine needle aspirate) is required\n* Able and willing to sign an informed consent and Health Insurance Portability and Accountability Act (HIPAA) authorization\n* Women of childbearing potential (WOCBP) and men who are sexually active with WOCBP must agree to use effective methods of contraception during active treatment and for the duration of the study\n\nExclusion Criteria:\n\n* Prior treatment with any investigational or targeted therapies\n* Patients with known activating mutations in the epidermal growth factor receptor (EGFR) gene or anaplastic lymphoma receptor tyrosine kinase (ALK) or c-ros oncogene 1, receptor tyrosine kinase (ROS-1) (this test \\[ROS-1\\] will be done only on select patients and at the discretion of treating physicians) translocation positive; the mutational status of all patients will be determined prior to study entry\n* Prior malignancy within the past 3 years other than complete resection of basal or squamous cell carcinoma of the skin, any in situ malignancy, or low-risk prostate cancer after curative therapy\n* Prior systemic therapy within 14 days of initiating protocol treatment\n* Symptomatic brain metastasis or asymptomatic brain metastasis that are 1 cm or greater in size; patients with asymptomatic sub-centimeter brain metastasis are eligible\n* Uncontrolled or unstable medical or psychiatric co-morbidities which would clearly limits patients participation\n* Current, recent (within 2 weeks of enrollment of this study), or planned participation in an experimental drug study\n* Unstable angina\n* Pregnant (positive serum pregnancy test) or breast feeding\n* History of any disease that could lead to impaired absorption of drugs\n* Inability to comply with study and/or follow-up procedures\n* Prior allogeneic bone marrow or organ",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Hossein Borghaei",
+          "affiliation": "Fox Chase Cancer Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Fox Chase Cancer Center",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19111",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Arm A (Standard of Care Treatment)",
+          "description": "Patients receive standard of care treatment based on the discretion of the treating physician.\n\ntherapeutic procedure: Receive standard of care treatment\n\nlaboratory biomarker analysis: Correlative studies"
+        },
+        {
+          "id": "FG001",
+          "title": "Arm B (Genetic Sequencing and Targeted Therapy)",
+          "description": "Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.\n\ncytology specimen collection procedure: Undergo collection of tissue and blood samples\n\ntargeted therapy: Receive specific targeted therapy\n\nlaboratory biomarker analysis: Correlative studies"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "There was only one patient enrolled and the study was closed before the patient started treatment.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Arm A (Standard of Care Treatment)",
+          "description": "Patients receive standard of care treatment based on the discretion of the treating physician.\n\ntherapeutic procedure: Receive standard of care treatment\n\nlaboratory biomarker analysis: Correlative studies"
+        },
+        {
+          "id": "BG001",
+          "title": "Arm B (Genetic Sequencing and Targeted Therapy)",
+          "description": "Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.\n\ncytology specimen collection procedure: Undergo collection of tissue and blood samples\n\ntargeted therapy: Receive specific targeted therapy\n\nlaboratory biomarker analysis: Correlative studies"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "0"
+            },
+            {
+              "groupId": "BG001",
+              "value": "0"
+            },
+            {
+              "groupId": "BG002",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years"
+                },
+                {
+                  "title": "Between 18 and 65 years"
+                },
+                {
+                  "title": ">=65 years"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous"
+        },
+        {
+          "title": "Sex: Female, Male",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female"
+                },
+                {
+                  "title": "Male"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States"
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Progression Free Survival",
+          "description": "A chi-square test (one-sided; alpha = .1) will be used to assess the efficacy of treating patients with targeted agents based in the Cancer-Code-50 in the second line setting. For each patient \"success\" will be defined as being progression free for at least 3 months following initiation of second line therapy. Progression free survival times will be characterized separately by arm using the method of Kaplan and Meier.",
+          "populationDescription": "There was only one patient enrolled and the study was closed before the patient started treatment.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Time from start of second line treatment to time of progression or death, whichever occurs first, assessed at 3 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Arm A (Standard of Care Treatment)",
+              "description": "Patients receive standard of care treatment based on the discretion of the treating physician.\n\ntherapeutic procedure: Receive standard of care treatment\n\nlaboratory biomarker analysis: Correlative studies"
+            },
+            {
+              "id": "OG001",
+              "title": "Arm B (Genetic Sequencing and Targeted Therapy)",
+              "description": "Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.\n\ncytology specimen collection procedure: Undergo collection of tissue and blood samples\n\ntargeted therapy: Receive specific targeted therapy\n\nlaboratory biomarker analysis: Correlative studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Response Rate Defined by RECIST 1.1",
+          "description": "The response rate (with 95% two-sided confidence intervals) will be computed separately by arm. One-sided chi-square or Fisher's exact tests (alpha = .1) will be used to evaluate differences in response rates between arms.",
+          "populationDescription": "There was only one patient enrolled and the study was closed before the patient started treatment.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Up to 2 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Arm A (Standard of Care Treatment)",
+              "description": "Patients receive standard of care treatment based on the discretion of the treating physician.\n\ntherapeutic procedure: Receive standard of care treatment\n\nlaboratory biomarker analysis: Correlative studies"
+            },
+            {
+              "id": "OG001",
+              "title": "Arm B (Genetic Sequencing and Targeted Therapy)",
+              "description": "Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.\n\ncytology specimen collection procedure: Undergo collection of tissue and blood samples\n\ntargeted therapy: Receive specific targeted therapy\n\nlaboratory biomarker analysis: Correlative studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Arm B Patients Whose Second Line Therapy is Changed as a Result of Physician Access to CancerCode-50 Results",
+          "description": "To assess the effect of sequencing on clinical practice and decision making the proportion of Arm B patients whose second line therapy is changed as a result of physician access to CancerCode-50 results will be computed. This comparison will be based on information provided by the treating physician before being exposed to the sequencing results, and information obtained from a from post-treatment chart review.",
+          "populationDescription": "There was only one patient enrolled and the study was closed before the patient started treatment.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Up to 2 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Arm A (Standard of Care Treatment)",
+              "description": "Patients receive standard of care treatment based on the discretion of the treating physician.\n\ntherapeutic procedure: Receive standard of care treatment\n\nlaboratory biomarker analysis: Correlative studies"
+            },
+            {
+              "id": "OG001",
+              "title": "Arm B (Genetic Sequencing and Targeted Therapy)",
+              "description": "Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.\n\ncytology specimen collection procedure: Undergo collection of tissue and blood samples\n\ntargeted therapy: Receive specific targeted therapy\n\nlaboratory biomarker analysis: Correlative studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Concordance of Variants (Arm B)",
+          "description": "The concordance of variants identified when sequencing will be performed on samples from the same patient collected at baseline and follow-up time points will also be measured.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Up to 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Incidence of Non-protocol Testing (Arm A)",
+          "description": "The incidence of non-protocol testing of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Up to 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Response Rate Defined by RECIST 1.1 (Arm A)",
+          "description": "The response rate of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Up to 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Progression Free Survival (Arm A)",
+          "description": "The progression free survival of those patients in Arm A who undergo molecular testing (by any method) at the discretion of the treating physician will be estimated.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Time from start of second line treatment to time of progression or death, whichever occurs first, assessed up to 2 year",
+          "denomUnitsSelected": "Participants"
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "1 year",
+      "description": "There was only one patient enrolled and the study was closed before the patient started treatment.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Arm A (Standard of Care Treatment)",
+          "description": "Patients receive standard of care treatment based on the discretion of the treating physician.\n\ntherapeutic procedure: Receive standard of care treatment\n\nlaboratory biomarker analysis: Correlative studies",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 0,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 0,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        },
+        {
+          "id": "EG001",
+          "title": "Arm B (Genetic Sequencing and Targeted Therapy)",
+          "description": "Patients undergo collection of tissue and blood samples for analysis via sequencing. Upon disease progression following front-line treatment, patients receive specific targeted therapy based on the mutational status obtained during sequencing.\n\ncytology specimen collection procedure: Undergo collection of tissue and blood samples\n\ntargeted therapy: Receive specific targeted therapy\n\nlaboratory biomarker analysis: Correlative studies",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 0,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 0,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Hossein Borghaei",
+        "organization": "Fox Chase Cancer Center",
+        "email": "Hossein.Borghaei@fccc.edu",
+        "phone": "215-2141515"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016066",
+          "term": "Pleural Effusion, Malignant"
+        },
+        {
+          "id": "D002289",
+          "term": "Carcinoma, Non-Small-Cell Lung"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010997",
+          "term": "Pleural Neoplasms"
+        },
+        {
+          "id": "D012142",
+          "term": "Respiratory Tract Neoplasms"
+        },
+        {
+          "id": "D013899",
+          "term": "Thoracic Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D010996",
+          "term": "Pleural Effusion"
+        },
+        {
+          "id": "D010995",
+          "term": "Pleural Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D002283",
+          "term": "Carcinoma, Bronchogenic"
+        },
+        {
+          "id": "D001984",
+          "term": "Bronchial Neoplasms"
+        },
+        {
+          "id": "D008175",
+          "term": "Lung Neoplasms"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003033",
+          "term": "Coal Tar"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013638",
+          "term": "Tars"
+        },
+        {
+          "id": "D045424",
+          "term": "Complex Mixtures"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

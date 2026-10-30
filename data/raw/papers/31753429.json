@@ -1,0 +1,27 @@
+{
+  "pmid": "31753429",
+  "title": "The Electrical Isolation of the Left Atrial Posterior Wall in Catheter Ablation of Persistent Atrial Fibrillation.",
+  "abstract": "This study explored whether complete electrical isolation of the left atrial (LA) posterior wall improves the rhythm outcome of catheter ablation of persistent atrial fibrillation (AF). Although the STAR AF2 (Substrate and Trigger Ablation for Reduction of Atrial Fibrillation Trial Part II) proved no additional benefit of empirical extra-pulmonary vein (PV) LA ablation, the long-term recurrence rate after circumferential PV isolation (CPVI) alone remains high. We randomly assigned 217 patients with persistent AF (83.1% men, age 58.7 \u00b1 10.8 years, 73.3% long-standing persistent AF) to ablation with CPVI alone (CPVI group) or CPVI with a POsterior wall Box Isolation (POBI group). The endpoint of the POBI group was the elimination of the posterior atrial potentials by roof and posterior inferior lines and touch-up focal ablation. After a mean follow-up of 16.2 \u00b1 8.8\u00a0months, the clinical recurrence rate did not significantly differ between the 2 groups (23.8% vs. 26.5%; p\u00a0=\u00a00.779) in the CPVI and POBI groups. The recurrence rate for atrial tachycardias (16.0% vs. 11.1%; p\u00a0=\u00a00.913) and cardioversion rates (6.7% vs. 13.7%; p\u00a0=\u00a00.093) to control clinical recurrences also did not significantly differ between the 2 groups. At the final follow-up, sinus rhythm was maintained without antiarrhythmic drug in 50.5% and 55.9% in the CPVI and POBI groups, respectively (p\u00a0=\u00a00.522). No significant difference was found in the major complication rates between the 2 groups, but the total ablation time was significantly longer in the POBI group (4,289 \u00b1 1,837\u00a0s vs. 5,365 \u00b1 2,358 s; p\u00a0<\u00a00.001). In patients with persistent AF, an empirical complete POBI did not improve the rhythm outcome of catheter ablation or influence the type of recurrent atrial arrhythmia. (Comparison of Circumferential Pulmonary Vein Isolation Alone Versus Linear Ablation in Addition to Circumferential Pulmonary Vein Isolation for Catheter Ablation in Persistent Atrial Fibrillation: Prospective Randomized Controlled Trial; NCT02721121).",
+  "journal": "JACC. Clinical electrophysiology",
+  "pub_date": "2019-Nov",
+  "authors": [
+    "Lee, Jung Myung",
+    "Shim, Jaemin",
+    "Park, Junbeom",
+    "Yu, Hee Tae",
+    "Kim, Tae-Hoon",
+    "Park, Jin-Kyu",
+    "Uhm, Jae-Sun",
+    "Kim, Jin-Bae",
+    "Joung, Boyoung",
+    "Lee, Moon-Hyoung",
+    "Kim, Young-Hoon",
+    "Pak, Hui-Nam"
+  ],
+  "nct_ids_referenced": [
+    "NCT02721121"
+  ],
+  "source": "pubmed",
+  "word_count": 310,
+  "parsed_at": "2026-10-30T13:31:29.598533"
+}

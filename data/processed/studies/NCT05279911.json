@@ -1,0 +1,361 @@
+{
+  "nct_id": "NCT05279911",
+  "title": "Influence of Low-level Laser Therapy on Radiographic and Biochemical Profiles in Type II Controlled Diabetic Patients After Dental Implant Insertion: A Randomized Case Control Study",
+  "sponsor": "Sinai University",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "T2DM (Type 2 Diabetes Mellitus)",
+    "Low-level Laser Therapy",
+    "Bone Density Increased"
+  ],
+  "interventions": [
+    "low-level laser therapy (LLLT)"
+  ],
+  "primary_outcome": "Bone density",
+  "secondary_outcomes": [],
+  "start_date": "2021-03-03",
+  "completion_date": "2022-01-05",
+  "results_posted": false,
+  "enrollment": 40,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05279911",
+        "orgStudyIdInfo": {
+          "id": "FWA00025577"
+        },
+        "organization": {
+          "fullName": "Sinai University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Effect of Low-level Laser Therapy on Type II Controlled Diabetic Patients After Dental Implant Insertion",
+        "officialTitle": "Influence of Low-level Laser Therapy on Radiographic and Biochemical Profiles in Type II Controlled Diabetic Patients After Dental Implant Insertion: A Randomized Case Control Study"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2022-03",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-03-03",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2022-01-05",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2022-01-22",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2022-02-24",
+        "studyFirstSubmitQcDate": "2022-03-05",
+        "studyFirstPostDateStruct": {
+          "date": "2022-03-15",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2022-03-05",
+        "lastUpdatePostDateStruct": {
+          "date": "2022-03-15",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Mohamed Moawed Ibrahim Ghoneim, PhD",
+          "investigatorTitle": "Assistant professor of Oral and Maxillofacial Surgery",
+          "investigatorAffiliation": "Sinai University"
+        },
+        "leadSponsor": {
+          "name": "Sinai University",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Misr International University",
+            "class": "OTHER"
+          },
+          {
+            "name": "Al-Azhar University",
+            "class": "OTHER"
+          },
+          {
+            "name": "Delta University for Science and Technology",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study aimed therefore to evaluate bone density (BD) and OPG levels in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients. 40 T2DM patients were included in this study. Implants were randomly inserted in 20 non-lased T2DM patients (Control) and 20 lased T2DM patients (Intervention). BD and OPG levels in the PICF were assessed in both groups at the follow up points.",
+        "detailedDescription": "Background and objectives: Use of low-level laser therapy (LLLT) with dental implants has been suggested to improve bone quality during osseointegration. However, there is a lack of evidence about its influence on dental implants in diabetic patients. Osteoprotegrin (OPG) levels was reported as a biomarker for bone turnover to distinguish implant prognosis. This study aimed therefore to evaluate bone density (BD) and OPG levels in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients. Methods: 40 T2DM patients were included in this study. Implants were randomly inserted in 20 non-lased T2DM patients (Control) and 20 lased T2DM patients (Intervention). BD and OPG levels in the PICF were assessed in both groups at the follow up points."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "T2DM (Type 2 Diabetes Mellitus)",
+          "Low-level Laser Therapy",
+          "Bone Density Increased"
+        ],
+        "keywords": [
+          "T2DM (Type 2 Diabetes Mellitus)",
+          "Dental Implant insertion",
+          "Osteoprotegrin (OPG)",
+          "Bone Density",
+          "Low-level laser therapy",
+          "LLLT"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "CROSSOVER",
+          "interventionModelDescription": "Study design: A randomized case control study. A total of 40 adult participants of both genders of at least 21 years old were included in the study. All participants were controlled T2DM patients for more than 2 years (diagnosed according to the American Diabetes Association criteria) \\[21\\]. Patients were able and willing to participate in the study. Patients were recruited from out-patient clinic of Oral Diagnosis at Faculty of Dental Medicine for Girls, Al-Azhar University, Cairo, Egypt.",
+          "primaryPurpose": "SUPPORTIVE_CARE",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "maskingDescription": "Patients were included in the study after fulfilling all the eligibility criteria and signing the informed consent form for participation and permission to use obtained data or research purposes. Patients were randomly allocated according to the type of treatment (control group: conventional implant placement and intervention group: LLLT) that were performed considering the implant as a unit. To ensure concealment of randomization, consecutively numbered envelopes were used. The team of surgeons only became aware of the type of intervention at the time of surgery, when the envelope was opened by a blinded investigator.",
+            "whoMasked": [
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 40,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Control",
+            "type": "NO_INTERVENTION",
+            "description": "Implants were randomly inserted in 20 non-lased T2DM patients (Control)"
+          },
+          {
+            "label": "Low level laser therapy",
+            "type": "EXPERIMENTAL",
+            "description": "Implant were randomly inserted in 20 lased T2DM patients (Intervention)",
+            "interventionNames": [
+              "Radiation: low-level laser therapy (LLLT)"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "RADIATION",
+            "name": "low-level laser therapy (LLLT)",
+            "description": "low-level laser therapy (LLLT) with dental implants has been suggested to improve bone quality during osseointegration. Low-level laser (Gallium Aluminum Arsenide Diode \\[Ga-Al-As\\]) (wavelength: 808 nm, average power density: 50 mW, circular spot diameter:0.71 cm, spot area: 0.4cm2) in continuous mode was applied in six points in contact with peri-implant soft tissue (1.23 minutes in each point of application; dose per point 11 J) before and immediately after suturing. The application points were divided into two points in the labial region where the implant would be placed (apical and cervical); two points in the lingual region (apical and cervical); and two points in the occlusal direction. After suturing the laser protocol was repeated in the same points following the same protocol, resulting in a total dose of 66 J for each application moment (before and after implant placement).",
+            "armGroupLabels": [
+              "Low level laser therapy"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Bone density",
+            "description": "Bone density was evaluated in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients.",
+            "timeFrame": "Week 1"
+          },
+          {
+            "measure": "Bone density",
+            "description": "Bone density was evaluated in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients.",
+            "timeFrame": "Month 1"
+          },
+          {
+            "measure": "Bone density",
+            "description": "Bone density was evaluated in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients.",
+            "timeFrame": "Month 3"
+          },
+          {
+            "measure": "Bone density",
+            "description": "Bone density was evaluated in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients.",
+            "timeFrame": "Month 4"
+          },
+          {
+            "measure": "Osteoprotegrin (OPG) level",
+            "description": "Osteoprotegrin (OPG) level was evaluated in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients.",
+            "timeFrame": "Week 1"
+          },
+          {
+            "measure": "Osteoprotegrin (OPG) level",
+            "description": "Osteoprotegrin (OPG) level was evaluated in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients.",
+            "timeFrame": "Month 1"
+          },
+          {
+            "measure": "Osteoprotegrin (OPG) level",
+            "description": "Osteoprotegrin (OPG) level was evaluated in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients.",
+            "timeFrame": "Month 3"
+          },
+          {
+            "measure": "Osteoprotegrin (OPG) level",
+            "description": "Osteoprotegrin (OPG) level was evaluated in the peri-implant crevicular fluid (PICF) in lased controlled type II Diabetes Mellitus (T2DM) patients versus non-lased T2DM patients.",
+            "timeFrame": "Month 4"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* None of the participants had other major illnesses or severe diabetic complications.\n* A detailed medical history of each subject was obtained according to the detailed questionnaire of the modified Cornell Medical Index \\[22\\].\n* Diabetic control was measured by glycosylated hemoglobin A1c (HbA1c) of blood samples, patients had relatively stable glycemic control, as demonstrated by a difference not exceeding 1% in at least two HbA1c assays over the previous 6 months.\n* Participants with partial edentulous posterior mandibular region with bone density ranging between D2 and D3, also having adjacent tooth with healthy periodontium were selected.\n\nExclusion Criteria:\n\n* Any uncontrolled systemic diseases that prevent surgery for dental implant placement; (b) Need for guided bone regeneration or sinus lift for implant placement, and (c) History of radiation therapy in head and neck.\n* Pregnant women, smokers and patients with para-functional habits, psychological problems or in-cooperated patients were also excluded.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "21 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Faculty of Dental Medicine for Girls, Al-Azhar University",
+            "city": "Cairo",
+            "country": "Egypt",
+            "geoPoint": {
+              "lat": 30.06263,
+              "lon": 31.24967
+            }
+          },
+          {
+            "facility": "Misr International University",
+            "city": "Cairo",
+            "country": "Egypt",
+            "geoPoint": {
+              "lat": 30.06263,
+              "lon": 31.24967
+            }
+          },
+          {
+            "facility": "Misr University for Science and Technology (MUST)",
+            "city": "Cairo",
+            "country": "Egypt",
+            "geoPoint": {
+              "lat": 30.06263,
+              "lon": 31.24967
+            }
+          },
+          {
+            "facility": "Sinai University",
+            "city": "El Arish",
+            "country": "Egypt",
+            "geoPoint": {
+              "lat": 31.14821,
+              "lon": 33.83434
+            }
+          },
+          {
+            "facility": "Delta University of Science and Technology",
+            "city": "Gamasa",
+            "country": "Egypt",
+            "geoPoint": {
+              "lat": 31.44112,
+              "lon": 31.53675
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "37102010",
+            "type": "DERIVED",
+            "citation": "Attia MS, Elewa GM, Abdelgawad N, Ismail RM, Hassan Eid M, Ghoneim MM. The Influence of Low-Level Laser Therapy on CBCT Radiographic and Biochemical Profiles of Type II Controlled Diabetic Patients After Dental Implant Insertion: A Randomized Case-Control Study. Cureus. 2023 Mar 23;15(3):e36559. doi: 10.7759/cureus.36559. eCollection 2023 Mar."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "id": "D010026",
+            "term": "Osteosclerosis"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D010009",
+            "term": "Osteochondrodysplasias"
+          },
+          {
+            "id": "D001848",
+            "term": "Bone Diseases, Developmental"
+          },
+          {
+            "id": "D001847",
+            "term": "Bone Diseases"
+          },
+          {
+            "id": "D009140",
+            "term": "Musculoskeletal Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D028022",
+            "term": "Low-Level Light Therapy"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D053685",
+            "term": "Laser Therapy"
+          },
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          },
+          {
+            "id": "D010789",
+            "term": "Phototherapy"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:38:55.572230"
+}

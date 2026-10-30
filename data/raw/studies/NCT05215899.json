@@ -1,0 +1,283 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05215899",
+      "orgStudyIdInfo": {
+        "id": "95961207604010164779"
+      },
+      "organization": {
+        "fullName": "Ko\u00e7 University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effects Of Mindfulness-Based Yoga And Meditation Colorectal Cancer",
+      "officialTitle": "Effects Of Mindfulness-Based Yoga And Meditation On Sleep Disorder, Faciliat\u0131on And Quality Of Life in Pat\u0131ents With Colorectal Cancer: A Randomized Comparative Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-11",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "ENROLLING_BY_INVITATION",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-10-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-01-28",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2022-03-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-01-19",
+      "studyFirstSubmitQcDate": "2022-01-19",
+      "studyFirstPostDateStruct": {
+        "date": "2022-01-31",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2022-01-19",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-01-31",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Ko\u00e7 University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "In many systematic reviews, it has also been emphasized that different cancer groups and a large number of applications are needed in order to obtain definitive conclusions about the effect of various interventions applied to these patients (Smith et al, 2004: Mosher et al, 2017: Fieke, 2015). In addition, in the joint results of these studies, it was stated that there are very few studies supporting the effectiveness of psychosocial interventions for CRC patients, and these studies have a limited evidence base, and specifically due to the lack of strong evidence regarding the physiological and psychological difficulties of cancer treatment in the CRC patient group and the practices performed. The level of evidence needs to be strengthened with further studies. Based on these reasons, the various difficulties experienced by CRC survivors and the lack of strong evidence in the systematic analyzes led us to conduct this study.",
+      "detailedDescription": "EFFECTS OF MINDFULNESS-BASED YOGA AND MEDITATION ON SLEEP DISORDER, FACILIATION AND QUALITY OF LIFE IN PATIENTS WITH COLORECTAL CANCER: A RANDOMIZED COMPARATIVE STUDY INTRODUCTION Colorectal cancers (CRC) are the third most common type of cancer in both men and women worldwide and are the second leading cause of death from cancer (Thanikachalam, 2019). Although the incidence and mortality of CRC have decreased thanks to early detection methods, it is estimated that 149,500 patients will be newly diagnosed with colorectal cancer in 2021 and approximately 52,980 people will die from this disease (Siegel, 2021). At the same time, thanks to the advances in early diagnosis and treatment methods, an increase in cancer survival rate of approximately 60% is observed (Dunn, 2006). Therefore, there is a rapid increase in efforts to maximize the quality of life for cancer survivors and to solve ongoing problems (Ramsey, 2000; Zabora, 2021). According to the joint outcome reports of these studies on cancer survivors, it is reported that a number of psychosocial and physical problems develop during or after cancer diagnosis and treatment. In studies, the most common problems included depression and anxiety, low self-esteem and body image; treatment side effects such as fatigue, pain and nausea; decrease in cardiovascular functions and muscle weakness (Dunn, 2006; Brown, 2003; Deimling, 2002; Arndt, 2017). In addition, in the first 12 months following diagnosis, approximately 60% of CRC survivors experience problems such as overweight, 70% limitation in physical activity, and 22% alcohol dependence (Honda, 2005). In addition to these problems, it has been determined that there is an increase in cancer survival in bad lifestyle factors such as smoking and obesity (Gunnell, 2017; Friedenreich, 2016; Demark, 2008). In addition, it is estimated that 40% of post-CRC survivors struggle with psychological problems (Blanchard, 2008) and a significant proportion do not comply with current public health guidelines in terms of lifestyle factors or healthy lifestyle behaviors (Lynch, 2007; Hawkes, 2008). It is emphasized that most of them affect the quality of life of individuals negatively in all areas during their survival (Carver, 2006; Ramsey, 2000;Blanchard, 2008).\n\nThe survivors of CRC are in a different group compared to other types of cancer in that CRC is detected at more advanced stages, they are subject to different medical and surgical procedures, they are of advanced age, and they include equal numbers of men and women. (Skiber, 2001). In addition, it is stated that individuals who survive compared to other types of cancer have relatively more difficulties in maintaining a healthy lifestyle both before and after treatment. For these reasons, results from studies in different types of cancer groups may not be generalizable to colorectal cancer survivors (Skibber, 2001). Although, as a result of a randomized comparative study of lifelong interventions for cancer survivors in different types of cancer groups, it is emphasized that the implementation of various interventions positively affects health (Courneya, 2003). In particular, it is suggested that these interventions in the period immediately after diagnosis and treatment will be much more effective (Demark, 2005; Doyle, 2006; Demark, 2008). Because the period immediately after cancer diagnosis and treatment has been defined as the \"teachable period\". Despite the difficulties of cancer diagnosis and treatment, it was determined that the individuals who survived this period had high levels of motivation to optimize their health, prevent cancer recurrence, and make behavioral improvements (Demark, 2005; Doyle, 2006; Demark, 2008).\n\nYoga and meditation practices are among the most common interventions to provide physical and psychological benefits, especially to cancer survivors (Distasio, 2008). Lengacher et al. In their randomized comparative study, the mindfulness-based meditation program they applied to cancer patients reduced physical and psychological symptoms, and similarly, Bower et al. It was found that targeted yoga intervention (Bower, 2012) for breast cancer patients reduced long-lasting symptoms of fatigue and burnout and led to significant improvements in vitality. Additionally, in a review by Distasio, she mentioned the types of yoga and its potential benefits, emphasizing the importance of introducing yoga to nurses as a complementary therapy and integrating yoga into cancer care. It has also been stated that nurses can integrate yoga and meditation into cancer care by educating patients, explaining the potential benefits and risks, and discussing how to choose a program. To summarize, mindfulness-based programs for cancer survivors may have clinical potential, and according to the results of these studies mentioned above, we can say that the use of yoga and meditation practices as a complementary alternative medicine is beneficial and is becoming increasingly popular. Additionally, most studies suggest that yoga improves patients' physical and psychological symptoms, quality of life, and immune processes, providing strong support for the integration of yoga into traditional cancer care.\n\nIn many systematic reviews, it has also been emphasized that different cancer groups and a large number of applications are needed in order to obtain definitive conclusions about the effect of various interventions applied to these patients (Smith et al, 2004: Mosher et al, 2017: Fieke, 2015). In addition, in the joint results of these studies, it was stated that there are very few studies supporting the effectiveness of psychosocial interventions for CRC patients, and these studies have a limited evidence base, and specifically due to the lack of strong evidence regarding the physiological and psychological difficulties of cancer treatment in the CRC patient group and the practices performed. The level of evidence needs to be strengthened with further studies. Based on these reasons, the various difficulties experienced by CRC survivors and the lack of strong evidence in the systematic analyzes led us to conduct this study.\n\nMETHOD:\n\nPurpose of the research:\n\nThis study was planned to examine the effects of mindfulness-based yoga and meditation on sleep disturbance, fatigue and quality of life in CRC survivors.\n\nMethod of research:\n\nThe study was planned as a randomized comparative study. Place of research The study was treated in the colorectal cancer treatment unit of a private research hospital between October 2021 and March 2022; consisted of patients who met the inclusion criteria of the study. Yoga and meditation practices are held online at the participants' homes due to the covid-19 pandemic.\n\nThe universe and sample of the research The population of the study consists of approximately 200 participants who applied to the hospital within one year of the application and were diagnosed with CRC. The number of samples was determined as 90 people in total as experimental and comparison groups.\n\nInclusion criteria:\n\n* Participants' consent for their physicians to participate in the study\n* Being a stage 1-4 patient diagnosed with colorectal cancer,\n* Being between the ages of 20-70,\n* Being receiving outpatient treatment,\n* At least 1 month has passed after the operation\n\nExclusion criteria:\n\n* Conditions that will hinder physical activity (Hemoglobin value less than 10mg/Dl, Platelet value less than 50,000)\n* Cognitive disability\n\nEthical Dimension:\n\nEthics committee approval no: 95961207-604.01.01-E.64779 for the study was obtained from Istanbul Medipol University, GETAT Clinical Research Ethics Committee and the Ministry of Health and Ko\u00e7 University Hospital with the date and number of 12/12/2019.\n\nAPPLICATION The application was carried out by the researcher who had completed mindfulness-based yoga and meditation training.\n\nRandomization: In the colorectal surgery unit of the center where the research was conducted, the patients who met the criteria of the study were determined by the responsible physician and coordinator of the department, and a patient pool was created. Patients who wanted to be included in the study were listed for randomization after the patients were contacted by phone from this patient pool determined by the coordinator and they were informed about the study. Individuals from the list were divided into two groups by randomization method, while the first group was treated, the other waiting list group was included in the comparison group. (The SPSS syntax program was used to randomly select 15 participants from the eligible candidates in the file). All of the scales were applied to all individuals in the patient pool before starting the study.\n\nFor the intervention groups, 3 intervention groups of 15 people (45 people in total) were formed. The other 45 people on the waiting list formed the comparison group. The program to be implemented in intervention groups is designed as 2 modules. In the first module of this designed program, a mindfulness-based yoga module was planned for a total of 8 weeks (once a week, each section lasting 60 minutes). The mindfulness-based meditation section of the Second Module consisted of sections that lasted 30 minutes once a week for 8 weeks in total.\n\nINITIATIVES:\n\nComparison group:\n\nPatients in the comparison group will not be subjected to any intervention other than the tests specified in the method. Comparison group patients will continue their standard treatment and care. Questionnaires and scales will be applied to this group again before the application starts and after the application is finished.\n\nIntervention group:\n\nFor this study, a yoga exercise and mindfulness program suitable for colorectal cancer patients was designed with a trainer who has yoga and meditation training. The program consists of two modules. In this designed program, the yoga exercises module, which is the first module, is planned for a total of 8 weeks, once a week, and each section will last 60 minutes. The first 15 minutes of the program consist of meditation and pranamaya (breathing exercise), 30 minutes of asana (physical movements and stretching), and 15 minutes of savasana (relaxation) (Table 1). The second module of the program is the meditation section under the guidance of mindfulness. The meditation section is also 8 weeks in total. It is to be applied once a week and each section consists of sections lasting 30 minutes (Table 2). To summarize, patients in the intervention group will attend two sessions per week, one yoga session and one meditation session. Sessions will be held online."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Quality of Life"
+      ],
+      "keywords": [
+        "Yoga, Meditation, Colorectal Cancer, sleep, Quality of Life"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Comparison group\n\nIntervention group:",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 45,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "MINDFULNESS-BASED YOGA AND MEDITATION INTERVENTION",
+          "type": "EXPERIMENTAL",
+          "description": "MINDFULNESS-BASED YOGA AND MEDITATION INTERVENTION",
+          "interventionNames": [
+            "Other: MINDFULNESS-BASED YOGA AND MEDITATION"
+          ]
+        },
+        {
+          "label": "Comparison group",
+          "type": "EXPERIMENTAL",
+          "description": "Patients in the comparison group will not be subjected to any intervention other than the tests specified in the method. Comparison group patients will continue their standard treatment and care. Questionnaires and scales will be applied to this group again before the application starts and after the application is finished.",
+          "interventionNames": [
+            "Other: MINDFULNESS-BASED YOGA AND MEDITATION"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "MINDFULNESS-BASED YOGA AND MEDITATION",
+          "description": "The application was carried out by the researcher who had completed mindfulness-based yoga and meditation training.",
+          "armGroupLabels": [
+            "Comparison group",
+            "MINDFULNESS-BASED YOGA AND MEDITATION INTERVENTION"
+          ],
+          "otherNames": [
+            "Comparison group: Comparison group patients will continue their standard treatment and care."
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Mindfulness-based yoga and meditation intervention may improve sleep quality of colorectal cancer patients",
+          "description": "Mindfulness-based yoga and meditation intervention may improve sleep quality of colorectal cancer patients",
+          "timeFrame": "8 WEEKS"
+        },
+        {
+          "measure": "Mindfulness-based yoga and meditation intervention may improve the quality of life of colorectal cancer patients",
+          "description": "Mindfulness-based yoga and meditation intervention may improve the quality of life of colorectal cancer patients",
+          "timeFrame": "8 WEEKS"
+        },
+        {
+          "measure": "Mindfulness-based yoga and meditation intervention may reduce fatigue level of colorectal cancer patients",
+          "description": "Mindfulness-based yoga and meditation intervention may reduce fatigue level of colorectal cancer patients",
+          "timeFrame": "8 WEEKS"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nParticipants' consent for their physicians to participate in the study\n\n* Being a stage 1-4 patient diagnosed with colorectal cancer,\n* Being between the ages of 20-70,\n* Being receiving outpatient treatment,\n* At least 1 month has passed after the operation\n\nExclusion Criteria:\n\n* Conditions that will hinder physical activity (Hemoglobin value less than 10mg/Dl, Platelet value less than 50,000)\n* Cognitive disability",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Tuba Sengul, PhD",
+          "affiliation": "Ko\u00e7 University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Tuba Sengul",
+          "city": "Istanbul",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "There is a plan to make individual participant data available to other researchers.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP"
+      ],
+      "timeFrame": "Outcomes will be shared with other researchers during the completion of the initiatives.",
+      "accessCriteria": "Outcomes will be shared with other researchers during the completion of the initiatives."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015179",
+          "term": "Colorectal Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007414",
+          "term": "Intestinal Neoplasms"
+        },
+        {
+          "id": "D005770",
+          "term": "Gastrointestinal Neoplasms"
+        },
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D003108",
+          "term": "Colonic Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        },
+        {
+          "id": "D012002",
+          "term": "Rectal Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D019122",
+          "term": "Meditation"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D026441",
+          "term": "Mind-Body Therapies"
+        },
+        {
+          "id": "D000529",
+          "term": "Complementary Therapies"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D026443",
+          "term": "Spiritual Therapies"
+        },
+        {
+          "id": "D012064",
+          "term": "Relaxation Therapy"
+        },
+        {
+          "id": "D001521",
+          "term": "Behavior Therapy"
+        },
+        {
+          "id": "D011613",
+          "term": "Psychotherapy"
+        },
+        {
+          "id": "D004191",
+          "term": "Behavioral Disciplines and Activities"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

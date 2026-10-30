@@ -1,0 +1,360 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06898684",
+      "orgStudyIdInfo": {
+        "id": "MOVE pilot"
+      },
+      "organization": {
+        "fullName": "Vastra Gotaland Region",
+        "class": "OTHER_GOV"
+      },
+      "briefTitle": "Medulloblastoma Online Video-based Exercise Pilot Study",
+      "officialTitle": "Medulloblastoma Online Video-based Exercise Pilot Study (MOVE)",
+      "acronym": "MOVE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-12",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-12-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-12",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-12",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-03-13",
+      "studyFirstSubmitQcDate": "2025-03-20",
+      "studyFirstPostDateStruct": {
+        "date": "2025-03-27",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-12-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-12-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Aron Onerup",
+        "investigatorTitle": "Principal investigator",
+        "investigatorAffiliation": "Vastra Gotaland Region"
+      },
+      "leadSponsor": {
+        "name": "Aron Onerup",
+        "class": "OTHER_GOV"
+      },
+      "collaborators": [
+        {
+          "name": "G\u00f6teborg University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Uppsala University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Region V\u00e4sterbotten",
+          "class": "OTHER_GOV"
+        },
+        {
+          "name": "Region Stockholm",
+          "class": "OTHER_GOV"
+        },
+        {
+          "name": "Region \u00d6sterg\u00f6tland",
+          "class": "OTHER"
+        },
+        {
+          "name": "Region Skane",
+          "class": "OTHER"
+        },
+        {
+          "name": "Technical University of Munich",
+          "class": "OTHER"
+        },
+        {
+          "name": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "In this study, the investigators test whether it is possible to deliver an exercise intervention via video meetings to children and adolescents who have completed therapy for medulloblastoma. The exercise sessions will be individualized and offered three times weekly during 12 weeks.",
+      "detailedDescription": "Tumors of the central nervous system (CNS) represent 25-30% of all cases of pediatric cancer in Sweden. The survival for children with a brain tumor has improved over the last years. The 5-year overall survival rate is now 70%, resulting in a growing number or survivors every year. Malignant brain tumors typically have a poor prognosis, and curative treatment usually requires a combination of neurosurgery, chemotherapy and/or radiotherapy. For the survivors, the cure often comes at the cost of long-term side effects. Finding effective ways to mitigate the long-term side effects after childhood brain tumor is important, since they can severely impact the survivors\u00b4 daily life.\n\nThere is growing evidence that physical exercise is beneficial to cognition and improves cardiorespiratory fitness and motor function. It appears to be important that interventions start early, within 1-2 years after radiotherapy. For this to be feasible in international multicenter trials, the intervention and outcome assessments will need to be delivered remotely. Whether this is feasible in children treated for medulloblastoma is not known.\n\nThe investigators will perform a pilot study to provide pivotal information on whether exercise training can be remotely delivered in the home environment in children treated for medulloblastoma. This will take exercise training from an interesting research concept into a scalable intervention that can be offered regardless of geographic location of the patient. The study will further define the validity and feasibility of in-home outcome assessments of cardiorespiratory, muscular fitness and motor function in children treated for medulloblastoma. If shown feasible, this will work as a proof-of-concept and lead the way for including physical activity intervention in other childhood cancer treatment protocols as well. The results from this study will also enable the researchers to proceed in the planning of the first exercise intervention to be included upfront in an international childhood cancer treatment protocol, the upcoming Pan-European treatment protocol for standard-risk medulloblastoma in children (SIOP-MB6)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Medulloblastoma, Childhood"
+      ],
+      "keywords": [
+        "exercise",
+        "rehabilitation",
+        "medulloblastoma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 15,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Exercise",
+          "type": "EXPERIMENTAL",
+          "description": "Video-supervised exercise, offered three times per week for 12 weeks, followed by behavioral support towards incorporating physical activity into daily life for an additional 12 weeks.",
+          "interventionNames": [
+            "Behavioral: Exercise"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Exercise",
+          "description": "Moderate-high intensity exercise, with three sessions per week during 12 weeks. Includes both aerobic and resistance training and will also include exercises that strengthen coordination and balance.",
+          "armGroupLabels": [
+            "Exercise"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Feasibility of the remote assessment and a digitally delivered exercise intervention",
+          "description": "The researchers will test the feasibility of delivering the exercise intervention via video, defined as:\n\n1. Adherence to the intervention by number of completed intervention sessions Acceptable level: \u226570% adherence at 6 months.\n2. Data collection - feasibility of outcome measures Criteria: \u2265 90% of video-based measurements can be conducted according to protocol. \u2265 80% of PROM assessments can be completed as planned.\n3. Safety Documentation of adverse events (all occurring and documented adverse events associated with the intervention will be recorded in accordance with the Common Terminology Criteria for Adverse Events (CTCAE), version 5.0.).\n4. Acceptance and perceived usefulness Criterion: Qualitative analysis of interviews shows that the intervention is perceived as meaningful, feasible, and not too burdensome.\n5. Technical aspects Criterion: \u2265 90% of participants can complete video sessions without major technical problems, beginning after the first three sessions.",
+          "timeFrame": "From enrollment to the end of exercise at 12 weeks and then for prolonged support for another 12 weeks."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Handgrip strength",
+          "description": "Measured with a hand dynamometer",
+          "timeFrame": "Change from baseline, until 3 and 12 months."
+        },
+        {
+          "measure": "Physical activity",
+          "description": "Activity counts per day, registered with accelerometry (Fibion Sens)",
+          "timeFrame": "Change from baseline, until 1.5, 3, 6, and 12 months."
+        },
+        {
+          "measure": "Patient-reported quality of life",
+          "description": "Measured with Patient-Reported Outcomes Measurement Information System (PROMIS)-25.",
+          "timeFrame": "Change from baseline, until 3 and 12 months."
+        },
+        {
+          "measure": "Motor function",
+          "description": "Assessed with the brief ataxia rating scale (BARS), higher numbers indicate worse outcomes.",
+          "timeFrame": "Change from baseline, until 3 and 12 months."
+        },
+        {
+          "measure": "Cardiorespiratory fitness",
+          "description": "Assessed with the 3-min step in place test",
+          "timeFrame": "Change from baseline, until 3 and 12 months."
+        },
+        {
+          "measure": "Epigenetic age acceleration",
+          "description": "Epigenetic age will be determined from DNA methylation analyses of DNA extracted from saliva samples.",
+          "timeFrame": "Change from baseline, until 3 and 12 months."
+        },
+        {
+          "measure": "Feasibility of the outcome measures",
+          "description": "The researchers will develop the outcome assessments battery by removing outcome assessments that are not feasible through video.",
+          "timeFrame": "12 weeks"
+        },
+        {
+          "measure": "Cognitive function",
+          "description": "Patient-Reported Outcomes Measurement Information System (PROMIS) cognitive function 7a.",
+          "timeFrame": "Change from baseline to 12 weeks and 12 months."
+        },
+        {
+          "measure": "Lower limb strength",
+          "description": "We will assess lower limb strength with the five repetition sit-to-stand test, assessed with the number of seconds to perform the test. The same chair will be used across all time points.",
+          "timeFrame": "Change from baseline until 3 and 12 months."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria: Completed therapy for medulloblastoma, including craniospinal radiation therapy, within 36 months before study entry.\n\n\\-\n\nExclusion Criteria: Inability to walk without support. Progressive disease.\n\n\\-",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "3 Years",
+      "maximumAge": "18 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Aron Onerup, MD, PhD",
+          "role": "CONTACT",
+          "phone": "+46766185619",
+          "email": "aron.onerup@gu.se"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Technical University Munich",
+          "status": "NOT_YET_RECRUITING",
+          "city": "M\u00fcnchen",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Sabine Kesting, PhD",
+              "role": "CONTACT",
+              "email": "sabine.kusting@tum.de"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Queen Silvia C hildren\u00b4s Hospital",
+          "status": "RECRUITING",
+          "city": "Gothenburg",
+          "country": "Sweden",
+          "contacts": [
+            {
+              "name": "Aron Onerup, MD, PhD",
+              "role": "CONTACT",
+              "phone": "+46313421000",
+              "email": "aron.onerup@gu.se"
+            },
+            {
+              "name": "Aron Onerup",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 57.70716,
+            "lon": 11.96679
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "This is a small feasibility study and will not generate data that will be meaningful to share."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008527",
+          "term": "Medulloblastoma"
+        },
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D005910",
+          "term": "Glioma"
+        },
+        {
+          "id": "D018302",
+          "term": "Neoplasms, Neuroepithelial"
+        },
+        {
+          "id": "D017599",
+          "term": "Neuroectodermal Tumors"
+        },
+        {
+          "id": "D009373",
+          "term": "Neoplasms, Germ Cell and Embryonal"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D018242",
+          "term": "Neuroectodermal Tumors, Primitive"
+        },
+        {
+          "id": "D009375",
+          "term": "Neoplasms, Glandular and Epithelial"
+        },
+        {
+          "id": "D009380",
+          "term": "Neoplasms, Nerve Tissue"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015444",
+          "term": "Exercise"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009043",
+          "term": "Motor Activity"
+        },
+        {
+          "id": "D009068",
+          "term": "Movement"
+        },
+        {
+          "id": "D009142",
+          "term": "Musculoskeletal Physiological Phenomena"
+        },
+        {
+          "id": "D055687",
+          "term": "Musculoskeletal and Neural Physiological Phenomena"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

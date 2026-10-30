@@ -1,0 +1,29 @@
+{
+  "pmid": "36317715",
+  "title": "A Phase 2 Trial of Nab-paclitaxel in Combination With Anti-PD1 Therapy in Advanced Urothelial Cancer.",
+  "abstract": "Immune checkpoint inhibitor therapy and nab-paclitaxel have each shown efficacy in platinum-refractory advanced urothelial cancer. We conducted a single-arm phase 2 trial of the combination of nab-paclitaxel and pembrolizumab in platinum-refractory or cisplatin-ineligible advanced urothelial cancer (NCT03240016). Eligible patients had RECIST 1.1 measurable and cisplatin-ineligible or platinum-refractory advanced urothelial cancer. Patients received nab-paclitaxel at starting dose of 125 mg/m Between February 2018 and April 2021, 36 response-evaluable patients were enrolled. There was an equal split of platinum-refractory and cisplatin-ineligible patients. Confirmed overall response rate was 50.0% (18/36) including 3 complete and 15 partial responses; 31/36 patients experienced some tumor shrinkage. At a median follow-up of 19.7 months, median duration of response was 4.4 months (95% CI: 4.0-8.6), median progression-free survival 6.8 months (95% CI: 4.4-not reached), and median overall survival 18.2 months (95% CI: 10.6-not reached). Grade \u22653 adverse events occurred in 21/36 patients including fatigue (n=6) and anemia (n=4). Ten patients had immune-mediated adverse events. The combination of nab-paclitaxel and pembrolizumab exhibited promising activity in advanced urothelial cancer and warrants further study in this population. After reduction in nab-paclitaxel starting dose, no unanticipated or unexpected toxicities emerged.",
+  "journal": "The Journal of urology",
+  "pub_date": "2023-Jan",
+  "authors": [
+    "Tsung, Irene",
+    "Green, Edward",
+    "Palmbos, Phillip",
+    "Sloan, Zachery",
+    "Reichert, Zachery R",
+    "Vaishampayan, Ulka",
+    "Smith, David C",
+    "Caram, Megan E V",
+    "Yentz, Sarah",
+    "Daignault-Newton, Stephanie",
+    "Hurley, Laura",
+    "Nguyen, Charles B",
+    "Kraft, Shawna",
+    "Alva, Ajjai"
+  ],
+  "nct_ids_referenced": [
+    "NCT03240016"
+  ],
+  "source": "pubmed",
+  "word_count": 188,
+  "parsed_at": "2026-10-30T13:30:33.825530"
+}

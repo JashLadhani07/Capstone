@@ -1,0 +1,320 @@
+{
+  "nct_id": "NCT04702009",
+  "title": "Efficacy and Safety of First-line Anti-PD-1/PD-L1 Monoclonal Antibody in Combination With Chemotherapy vs. Anti-PD-1/PD-L1 Monoclonal Antibody, Chemotherapy, in Combination With Bronchoscopy-assisted Interventional Therapy in the Treatment of Patients With Advanced Central Non-small Cell Lung Cancer, a Randomized Controlled, Prospective Clinical Trial",
+  "sponsor": "Shanghai Pulmonary Hospital, Shanghai, China",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Advanced Lung Carcinoma",
+    "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+    "Chemoimmunotherapy (CIT): Sintilimab + Platinum-Based Doublet Chemotherapy",
+    "Chemoimmunotherapy (CIT): Sintilimab + Platinum-Based Doublet Chemotherapy"
+  ],
+  "primary_outcome": "progression free survival (PFS)",
+  "secondary_outcomes": [
+    "objective response rate (ORR)",
+    "disease control rate (DCR)",
+    "overall survival (OS)",
+    "Number of participants with treatment-related adverse events (AE) as assessed by CTCAE v5.0",
+    "quality of life (QoL)"
+  ],
+  "start_date": "2021-01-20",
+  "completion_date": "2025-10-17",
+  "results_posted": false,
+  "enrollment": 33,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04702009",
+        "orgStudyIdInfo": {
+          "id": "2021HY017"
+        },
+        "organization": {
+          "fullName": "Shanghai Pulmonary Hospital, Shanghai, China",
+          "class": "OTHER"
+        },
+        "briefTitle": "Efficacy and Safety of First-line Anti-PD-1/PD-L1 Monoclonal Antibody in Combination With Chemotherapy and Bronchoscopy-assisted Interventional Therapy in Patients With Advanced Central Non-small Cell Lung Cancer",
+        "officialTitle": "Efficacy and Safety of First-line Anti-PD-1/PD-L1 Monoclonal Antibody in Combination With Chemotherapy vs. Anti-PD-1/PD-L1 Monoclonal Antibody, Chemotherapy, in Combination With Bronchoscopy-assisted Interventional Therapy in the Treatment of Patients With Advanced Central Non-small Cell Lung Cancer, a Randomized Controlled, Prospective Clinical Trial"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-04",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-01-20",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2025-10-17",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2026-01-20",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2021-01-07",
+        "studyFirstSubmitQcDate": "2021-01-07",
+        "studyFirstPostDateStruct": {
+          "date": "2021-01-08",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-07-17",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-07-21",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Yayi He",
+          "investigatorTitle": "Associate Chief Physician",
+          "investigatorAffiliation": "Shanghai Pulmonary Hospital, Shanghai, China"
+        },
+        "leadSponsor": {
+          "name": "Shanghai Pulmonary Hospital, Shanghai, China",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Lung cancer is one of the malignant tumors with high morbidity and mortality. Several PD-1/PD-L1 immune checkpoint inhibitors have been approved for the treatment of advanced non-small cell lung cancer (NSCLC). However, its overall effective population is only 20%, and even in studies of enriched populations (such as PD-L1 \u2265 50%), its single-drug effective rate is only about 40%. Therefore, this study aims to explore the efficacy and safety of anti-PD-1/PD-L1 monoclonal antibodies and chemotherapy in combination with bronchoscopy-assisted lnterventional therapy in the first-line treatment of advanced central non-small cell lung cancer. We conducted a randomized controlled, prospective clinical trial to examine the efficacy, safety, and mechanism of anti-PD-1/PD-L1 monoclonal antibodies, chemotherapy, in combination with bronchoscopy-assisted interventional therapy vs anti-PD-1/PD-L1 monoclonal antibody in combination with chemotherapy as the first-line treatment of patients with advanced central NSCLC.",
+        "detailedDescription": "Lung cancer is one of the malignant tumors with high morbidity and mortality. Most patients with lung cancers are already in advanced stages when diagnosed, and the 5-year survival rate of advanced lung cancer is less than 5%. Therefore, exploring effective treatments is of great significance for improving the survival and quality of life of patients with lung cancer. Immunotherapy represented by immune checkpoint inhibitors has received widespread attention in the field of lung cancer, and several PD-1/PD-L1 immune checkpoint inhibitors have been approved for the treatment of advanced non-small cell lung cancer (NSCLC).However, its overall effective population is only 20%, even in studies of enriched populations (such as PD-L1 \u2265 50%), its single-drug effective rate is only about 40%. Therefore, this study aims to explore the efficacy and safety of anti-PD-1/PD-L1 monoclonal antibodies and chemotherapy in combination with bronchoscopy-assisted interventional therapy in the first-line treatment of advanced central non-small cell lung cancer. We conducted a randomized controlled, prospective clinical trial to examine the efficacy, safety and mechanism of anti-PD-1/PD-L1 monoclonal antibodies and chemotherapy in combination with bronchoscopy-assisted interventional therapy versus anti-PD-1/PD-L1 monoclonal antibody in combination with chemotherapy as the first-line treatment of patients with advanced central NSCLC."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Advanced Lung Carcinoma",
+          "Non-small Cell Lung Cancer"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 33,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "CIT alone",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Participants randomized to CIT alone received standard first-line chemoimmunotherapy (CIT) per protocol (see Intervention description).",
+            "interventionNames": [
+              "Drug: Chemoimmunotherapy (CIT): Sintilimab + Platinum-Based Doublet Chemotherapy"
+            ]
+          },
+          {
+            "label": "BIT + CIT",
+            "type": "EXPERIMENTAL",
+            "description": "Participants randomized to BIT+CIT underwent bronchoscopic intervention therapy (BIT) within 14 days after randomization (either 1 session before CIT initiation or 2 sessions: before CIT and before Cycle 3), followed by first-line CIT. BIT consisted of therapeutic flexible bronchoscopy with endobronchial tumor debulking using high-frequency electrocautery; airway stent could be placed if clinically indicated. CIT was administered per protocol (see Intervention description).",
+            "interventionNames": [
+              "Drug: Chemoimmunotherapy (CIT): Sintilimab + Platinum-Based Doublet Chemotherapy",
+              "Procedure: Chemoimmunotherapy (CIT): Sintilimab + Platinum-Based Doublet Chemotherapy"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Chemoimmunotherapy (CIT): Sintilimab + Platinum-Based Doublet Chemotherapy",
+            "description": "CIT (chemoimmunotherapy): anti-PD-1 sintilimab (Tyvyt) 200 mg IV on Day 1 q3w combined with platinum-based doublet chemotherapy at standard label doses selected by histology (squamous: gemcitabine + cisplatin/carboplatin or taxane + carboplatin; nonsquamous: pemetrexed + cisplatin/carboplatin). Treatment q3w for 4-6 cycles, then maintenance sintilimab \u00b1 pemetrexed until progression, unacceptable toxicity, consent withdrawal, or investigator decision. Dose modifications per labels/protocols; irAEs managed per guidelines (hold sintilimab, corticosteroids as indicated).",
+            "armGroupLabels": [
+              "BIT + CIT",
+              "CIT alone"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Chemoimmunotherapy (CIT): Sintilimab + Platinum-Based Doublet Chemotherapy",
+            "description": "BIT: therapeutic flexible bronchoscopy with endobronchial tumor debulking performed exclusively with high-frequency electrocautery within 14 days after randomization (once before CIT or twice: before CIT and before Cycle 3). Performed under monitored anesthesia care (propofol-based deep sedation) or general anesthesia with airway control; topical lidocaine as needed. Electrocautery delivered via ES-300D electrosurgical generator (Beijing Taktvoll; monopolar cutting); energy individualized per lesion/manufacturer guidance. Goal: restore airway patency and relieve obstruction symptoms while minimizing bleeding/hypoxemia. Self-expanding tracheobronchial stent (Micro-Tech, Nanjing) placed when clinically indicated. No APC/cryotherapy/laser or other adjuncts. Continuous ECG, SpO2 and NIBP monitoring; complications recorded.",
+            "armGroupLabels": [
+              "BIT + CIT"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "progression free survival (PFS)",
+            "description": "To evaluate the progression free survival (PFS) in the first-line treatment of patients with advanced central NSCLC",
+            "timeFrame": "1 year"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "objective response rate (ORR)",
+            "description": "To evaluate the objective response rate (ORR) in the first-line treatment of patients with advanced central NSCLC",
+            "timeFrame": "6 weeks"
+          },
+          {
+            "measure": "disease control rate (DCR)",
+            "description": "To evaluate the disease control rate (DCR) in the first-line treatment of patients with advanced central NSCLC",
+            "timeFrame": "6 weeks"
+          },
+          {
+            "measure": "overall survival (OS)",
+            "description": "To evaluate the overall survival (OS) in the first-line treatment of patients with advanced central NSCLC",
+            "timeFrame": "2 years"
+          },
+          {
+            "measure": "Number of participants with treatment-related adverse events (AE) as assessed by CTCAE v5.0",
+            "description": "To evaluate the side effects in the first-line treatment of patients with advanced central NSCLC",
+            "timeFrame": "2 years"
+          },
+          {
+            "measure": "quality of life (QoL)",
+            "description": "To evaluate the quality of life (QoL) in the first-line treatment of patients with advanced central NSCLC",
+            "timeFrame": "2 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1\\) Patients volunteer to participate in clinical studies and sign an informed consent (ICF), and are willing to follow and able to complete all trial procedures.\n\n2)18-75 years of age 3) All patients included are diagnosed with lung cancer detected by fibrous bronchoscope or percutaneous lung puncture biopsy, and are confirmed as NSCLC by Immunohistochemistry.\n\n4\\) Obstruction-type central lung cancer that cannot be surgically removed. 5) Patients without EGFR, ALK, and ROS mutation. 6) Patients have not previously received systemic treatment for phase IV NSCLC or patients receiving the adjuvant or neoadjuvant therapy for more than 6 months before the diagnosis of phase IV NSCLC.\n\n7\\) Within 4 weeks, at least one measurable lesions are required for researchers to evaluate in accordance with RECIST 1.1 requirements.\n\n8\\) Appropriate tumor tissues for PD-L1 expression level determination are required.\n\n9\\) Relevant laboratory tests indicate tolerance for chemotherapy, immunotherapy, and bronchoscopy.\n\nExclusion Criteria:\n\n1. Patients with uncertain diagnosis.\n2. Non-central NSCLC patients.\n3. Patients with contraindications to chemotherapy or immunotherapy.\n4. Bronchoscopy is contraindicated in patients.\n5. Patients have other active malignancies. Patients with cured limited tumors, such as skin substrate cell carcinoma, skin squamous cancer, superficial bladder cancer, carcinoma in situ of prostate, carcinoma in situ of cervix, and breast in-place cancer, can be included.\n6. Patients with human immunodeficiency virus (HIV) infection.\n7. Patients with infection of active tuberculosis.\n8. Patients have received a live vaccines within 28 days of the first drug use. Patients receiving inactivated viral vaccines to treat seasonal influenza are allowed, but inactivated live influenza vaccines with intracn nasal drugs are not allowed.\n9. Pregnant or lactating women.\n10. Patients have a known history of psychosophedic substance abuse or drug abuse;\n11. The researchers determined that there may be other factors that might have contributed to the early termination of the study.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Shanghai pulmonary hospital, Tongji University",
+            "city": "Shanghai",
+            "state": "Shanghai Municipality",
+            "zip": "200433",
+            "country": "China",
+            "geoPoint": {
+              "lat": 31.22222,
+              "lon": 121.45806
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "31912902",
+            "type": "BACKGROUND",
+            "citation": "Siegel RL, Miller KD, Jemal A. Cancer statistics, 2020. CA Cancer J Clin. 2020 Jan;70(1):7-30. doi: 10.3322/caac.21590. Epub 2020 Jan 8."
+          },
+          {
+            "pmid": "29191604",
+            "type": "BACKGROUND",
+            "citation": "He Y, Rozeboom L, Rivard CJ, Ellison K, Dziadziuszko R, Yu H, Zhou C, Hirsch FR. MHC class II expression in lung cancer. Lung Cancer. 2017 Oct;112:75-80. doi: 10.1016/j.lungcan.2017.07.030. Epub 2017 Jul 29."
+          },
+          {
+            "pmid": "28275222",
+            "type": "BACKGROUND",
+            "citation": "He Y, Rozeboom L, Rivard CJ, Ellison K, Dziadziuszko R, Yu H, Zhou C, Hirsch FR. PD-1, PD-L1 Protein Expression in Non-Small Cell Lung Cancer and Their Relationship with Tumor-Infiltrating Lymphocytes. Med Sci Monit. 2017 Mar 9;23:1208-1216. doi: 10.12659/msm.899909."
+          },
+          {
+            "pmid": "31564917",
+            "type": "BACKGROUND",
+            "citation": "Deng J, Zhao S, Zhang X, Jia K, Wang H, Zhou C, He Y. OX40 (CD134) and OX40 ligand, important immune checkpoints in cancer. Onco Targets Ther. 2019 Sep 6;12:7347-7353. doi: 10.2147/OTT.S214211. eCollection 2019."
+          },
+          {
+            "pmid": "28132868",
+            "type": "BACKGROUND",
+            "citation": "He Y, Yu H, Rozeboom L, Rivard CJ, Ellison K, Dziadziuszko R, Suda K, Ren S, Wu C, Hou L, Zhou C, Hirsch FR. LAG-3 Protein Expression in Non-Small Cell Lung Cancer and Its Relationship with PD-1/PD-L1 and Tumor-Infiltrating Lymphocytes. J Thorac Oncol. 2017 May;12(5):814-823. doi: 10.1016/j.jtho.2017.01.019. Epub 2017 Jan 26."
+          },
+          {
+            "pmid": "31454748",
+            "type": "BACKGROUND",
+            "citation": "He Y, Jia K, Dziadziuszko R, Zhao S, Zhang X, Deng J, Wang H, Hirsch FR, Zhou C. Galectin-9 in non-small cell lung cancer. Lung Cancer. 2019 Oct;136:80-85. doi: 10.1016/j.lungcan.2019.08.014. Epub 2019 Aug 16."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "De-identified individual participant data underlying the results reported in the primary publication, limited to the variables necessary to reproduce the reported analyses, will be made available to qualified researchers upon reasonable request. A data dictionary, study protocol, and statistical analysis plan will also be available. No direct participant identifiers will be shared.",
+        "infoTypes": [
+          "STUDY_PROTOCOL",
+          "SAP"
+        ],
+        "timeFrame": "Beginning 3 months after publication of the primary results and ending 5 years after publication of the primary results.",
+        "accessCriteria": "Data will be available to researchers who provide a methodologically sound proposal. Requests should be directed to the corresponding author. Access will be subject to institutional review and execution of any required data access agreement."
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002289",
+            "term": "Carcinoma, Non-Small-Cell Lung"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002283",
+            "term": "Carcinoma, Bronchogenic"
+          },
+          {
+            "id": "D001984",
+            "term": "Bronchial Neoplasms"
+          },
+          {
+            "id": "D008175",
+            "term": "Lung Neoplasms"
+          },
+          {
+            "id": "D012142",
+            "term": "Respiratory Tract Neoplasms"
+          },
+          {
+            "id": "D013899",
+            "term": "Thoracic Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D012140",
+            "term": "Respiratory Tract Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256669"
+}

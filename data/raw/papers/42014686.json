@@ -1,0 +1,26 @@
+{
+  "pmid": "42014686",
+  "title": "A pharmacokinetic and pharmacodynamic drug-drug interaction study of dorzagliatin and empagliflozin in patients with type 2 diabetes and obesity: an open-label phase I trial.",
+  "abstract": "Combination therapy of glucokinase activators and sodium-glucose cotransporter-2 inhibitors may exhibit potent glucose-lowering effects and improvement of \u03b2-cell function and insulin sensitivity in patients with type 2 diabetes mellitus, given their complementary mechanisms of action. However, the safety, pharmacokinetic interactions and pharmacodynamic effects of such combinations remain unexplored. To address this gap, we conduct an open-label, sequential phase I trial (ClinicalTrials.gov, NCT03790787 ) evaluating the dorzagliatin and the sodium-glucose cotransporter-2 inhibitor empagliflozin in patients with type 2 diabetes mellitus and obesity in the US. After strict screening against the inclusion/exclusion criteria, 16 participants are deemed eligible. Participants receive sequential treatments-empagliflozin alone, empagliflozin plus dorzagliatin, and dorzagliatin alone-five days for each regimen, followed by a comprehensive assessment of pharmacokinetic profiles and safety. The primary outcomes included GMR for C",
+  "journal": "Nature communications",
+  "pub_date": "2026-Apr",
+  "authors": [
+    "Liu, Huan",
+    "Zhang, Yuanhui",
+    "Feng, Lingge",
+    "Zhang, Jiayi",
+    "Sun, Yu",
+    "Zhao, Yu",
+    "Jiang, Muhan",
+    "Liu, Xiang",
+    "Tracey, Gregory J",
+    "Chen, Li",
+    "Liu, Dongyang"
+  ],
+  "nct_ids_referenced": [
+    "NCT03790787"
+  ],
+  "source": "pubmed",
+  "word_count": 128,
+  "parsed_at": "2026-10-30T13:39:03.475871"
+}

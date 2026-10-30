@@ -1,0 +1,391 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03244514",
+      "orgStudyIdInfo": {
+        "id": "07-AnIt-16"
+      },
+      "organization": {
+        "fullName": "University Hospital Muenster",
+        "class": "OTHER"
+      },
+      "briefTitle": "Biomarker-guided Implementation of the AKI Bundle",
+      "officialTitle": "Biomarker-guided Implementation of the Cardiovascular (CV) Surgery AKI Bundle to Reduce the Occurrence of AKI After Cardiac Surgery- Prevention of AKI",
+      "acronym": "PrevAKI-mc"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-11-02",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-10-26",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-01-26",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-07-07",
+      "studyFirstSubmitQcDate": "2017-08-08",
+      "studyFirstPostDateStruct": {
+        "date": "2017-08-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-02-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-02-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University Hospital Muenster",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "European Society of Intensive Care Medicine",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "There is no specific therapy for acute kidney injury. It is presumed that supportive measures improve the care and outcome of patients with acute kidney injury.\n\nThe investigators hypothesize that the implementation of a bundle of supportive measures adapted to patients undergoing cardiovascular surgery reduces the occurence of AKI.\n\nA Randomized prospective multicenter trial is needed to investigate whether the implementation of the bundle of measures is effective to prevent AKI in high risk patients undergoing cardiac surgery. In this feasibility trial the investigators will analyze the compliance rate to the trial protocol in a multicenter, multinational cohort in preparation for a large randomized controlled trial."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acute Kidney Injury (Nontraumatic)"
+      ],
+      "keywords": [
+        "cardiac surgery",
+        "KDIGO-Guideline"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 280,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intervention group",
+          "type": "EXPERIMENTAL",
+          "description": "Implementation of the cardiovascular surgery AKI bundle\n\n1. discontinuation of all nephrotoxic agents when possible\n2. optimization of volume status and hemodynamic parameters\n3. close monitoring of serum creatinine, fluid balance and urinary output\n4. avoidance of hyperglycemia\n5. considerations of alternatives to radiocontrast agents\n6. discontinuation of angiotensin converting enzyme inhibitors and angiotensin receptor blockers in the perioperative period\n7. avoidance of HES, gelatin, and chlorid-rich solutions",
+          "interventionNames": [
+            "Other: Intervention"
+          ]
+        },
+        {
+          "label": "Control group",
+          "type": "NO_INTERVENTION",
+          "description": "The patients will receive standard of care (according to each center)"
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Intervention",
+          "description": "Implementation of the cardiovascular AKI bundle (see arm description)",
+          "armGroupLabels": [
+            "Intervention group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Compliance rate",
+          "description": "proportion of patients who are treated according to the trial protocol: CV surgery AKI bundle fulfilled at all time",
+          "timeFrame": "48 hours after start of intervention"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Occurence of AKI",
+          "timeFrame": "72 hours after start of intervention"
+        },
+        {
+          "measure": "Moderate and severe AKI",
+          "timeFrame": "72 hours after start of intervention"
+        },
+        {
+          "measure": "Free-days through of vasoactive medications and mechanical ventilation",
+          "timeFrame": "28 days after start of intervention"
+        },
+        {
+          "measure": "Renal recovery",
+          "description": "renal recovery is defined as serum creatinine levels \\< 0.5 mg/dl higher than baseline serum creatinine (creatinine level before surgery)",
+          "timeFrame": "90 days after start of intervention"
+        },
+        {
+          "measure": "Mortality",
+          "timeFrame": "90 days after start of intervention"
+        },
+        {
+          "measure": "ICU and hospital stay",
+          "timeFrame": "up to 1 year after start of intervention (until discharge)"
+        },
+        {
+          "measure": "Number of patients with renal replacement therapy",
+          "timeFrame": "90 days after start of intervention"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients undergoing cardiac surgery with cardiopulmonary bypass (CPB)\n* Urinary \\[TIMP-2\\] \\* \\[IGFBP7\\] \\>= 0.3 4h after CPB\n* Written informed consent\n\nExclusion Criteria:\n\n* Preexisting AKI (stage 1 and higher)\n* Patients with cardiac assist devices (ECMO, LVAD, RVAD, IABP)\n* Pregnancy, breastfeeding\n* Known (Glomerulo-)-Nephritis, intersstitial nephritis or vasculitis\n* CKD with eGFR \\< 20 mL/min\n* Dialyses dependent CKD\n* Prior kidney transplant within the last 12 months",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "90 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Zarbock, PhD",
+          "affiliation": "University Hospital Muenster, Dept. of Anesthesiology",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "CHU Brugmann, Intensive Care Medicine",
+          "city": "Brussels",
+          "zip": "1020",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.85045,
+            "lon": 4.34878
+          }
+        },
+        {
+          "facility": "AZ Maria Middelares",
+          "city": "Ghent",
+          "zip": "9000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.05,
+            "lon": 3.71667
+          }
+        },
+        {
+          "facility": "Universitair Ziekenhuis Gent",
+          "city": "Ghent",
+          "zip": "9000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.05,
+            "lon": 3.71667
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum Bergmannsheil Bochum",
+          "city": "Bochum",
+          "zip": "D-44789",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.48165,
+            "lon": 7.21648
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum Gie\u00dfen, Klinik f\u00fcr Herz-, Kinderherz- und Gef\u00e4\u00dfchirurgie",
+          "city": "Giessen",
+          "zip": "35392",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.58727,
+            "lon": 8.67554
+          }
+        },
+        {
+          "facility": "Philipps-Universit\u00e4t Marburg",
+          "city": "Marburg",
+          "zip": "D-35033",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.80904,
+            "lon": 8.77069
+          }
+        },
+        {
+          "facility": "University Hospital Muenster",
+          "city": "M\u00fcnster",
+          "zip": "D-48149",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Ospedale San Raffaele S.r.I., I.R.C.C.S.",
+          "city": "Milan",
+          "zip": "20132",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.46427,
+            "lon": 9.18951
+          }
+        },
+        {
+          "facility": "Centro Cardiologico Monzino Istituto di Ricovero e Cura a Carattere Scientific",
+          "city": "Milan",
+          "zip": "I-20138",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Hospital del la Santa Creu i Sant Pau; Unidad de Cuidados Intensivos",
+          "city": "Barcelona",
+          "zip": "08041",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "St. Thomas' Hospital",
+          "city": "London",
+          "zip": "SE1 7EH",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "King's College Hospital",
+          "city": "London",
+          "zip": "SE5 9RS",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "28110412",
+          "type": "BACKGROUND",
+          "citation": "Meersch M, Schmidt C, Hoffmeier A, Van Aken H, Wempe C, Gerss J, Zarbock A. Prevention of cardiac surgery-associated AKI by implementing the KDIGO guidelines in high risk patients identified by biomarkers: the PrevAKI randomized controlled trial. Intensive Care Med. 2017 Nov;43(11):1551-1561. doi: 10.1007/s00134-016-4670-3. Epub 2017 Jan 21."
+        },
+        {
+          "pmid": "33684086",
+          "type": "DERIVED",
+          "citation": "Zarbock A, Kullmar M, Ostermann M, Lucchese G, Baig K, Cennamo A, Rajani R, McCorkell S, Arndt C, Wulf H, Irqsusi M, Monaco F, Di Prima AL, Garcia Alvarez M, Italiano S, Miralles Bagan J, Kunst G, Nair S, L'Acqua C, Hoste E, Vandenberghe W, Honore PM, Kellum JA, Forni LG, Grieshaber P, Massoth C, Weiss R, Gerss J, Wempe C, Meersch M. Prevention of Cardiac Surgery-Associated Acute Kidney Injury by Implementing the KDIGO Guidelines in High-Risk Patients Identified by Biomarkers: The PrevAKI-Multicenter Randomized Controlled Trial. Anesth Analg. 2021 Aug 1;133(2):292-302. doi: 10.1213/ANE.0000000000005458."
+        },
+        {
+          "pmid": "32265240",
+          "type": "DERIVED",
+          "citation": "Kullmar M, Massoth C, Ostermann M, Campos S, Grau Novellas N, Thomson G, Haffner M, Arndt C, Wulf H, Irqsusi M, Monaco F, Di Prima A, Garcia Alvarez M, Italiano S, Cegarra SanMartin V, Kunst G, Nair S, L'Acqua C, Hoste EAJ, Vandenberghe W, Honore PM, Kellum J, Forni L, Grieshaber P, Weiss R, Gerss J, Wempe C, Meersch M, Zarbock A. Biomarker-guided implementation of the KDIGO guidelines to reduce the occurrence of acute kidney injury in patients after cardiac surgery (PrevAKI-multicentre): protocol for a multicentre, observational study followed by randomised controlled feasibility trial. BMJ Open. 2020 Apr 6;10(4):e034201. doi: 10.1136/bmjopen-2019-034201."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D058186",
+          "term": "Acute Kidney Injury"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D051437",
+          "term": "Renal Insufficiency"
+        },
+        {
+          "id": "D007674",
+          "term": "Kidney Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008722",
+          "term": "Methods"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,590 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01616238",
+      "orgStudyIdInfo": {
+        "id": "UCL/11/0532"
+      },
+      "organization": {
+        "fullName": "University College, London",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Study for Older Adults With Acute Lymphoblastic Leukaemia",
+      "officialTitle": "A Phase 2 Study for Older Adults With Acute Lymphoblastic Leukaemia",
+      "acronym": "UKALL60+"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2012-12"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-12-21",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-02-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2012-06-07",
+      "studyFirstSubmitQcDate": "2012-06-08",
+      "studyFirstPostDateStruct": {
+        "date": "2012-06-11",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2023-08-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-08-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University College, London",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Cancer Research UK",
+          "class": "OTHER"
+        },
+        {
+          "name": "Stichting Hemato-Oncologie voor Volwassenen Nederland",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The NCRI Adult ALL sub-group propose to collaborate with the Dutch/Belgian group HOVON to carry out a prospective, non randomised multi-arm study (including a choice of regimen intensity) to investigate the safety, tolerability and feasibility of a standardised therapy protocol for patients \u2265 60 years old with de novo ALL. The overall aim is define a basic standard of care upon which trials of novel therapies will be based in future. The design of the study will enable collection of a comprehensive dataset regarding the clinical outcome, Complete Response Rate (CR) and Minimal Residual Disease (MRD) response rates in a previously completely uncharacterised population, thus providing the essential platform for designing future randomised advanced phase studies in which new therapeutic approaches and novel therapies can be prospectively investigated.",
+      "detailedDescription": "The study will\n\n1. establish baseline expectations for Event Free Survival (EFS), Overall Survival (OS), MRD responses and quality of life measures for older patients of all ages and pre-morbid states;\n2. disclose how best to use knowledge of pre-morbid characteristics to apply the appropriate intensity of therapy in order to balance the best disease related outcomes against quality of life;\n3. establish national standards of care for this patient group;\n4. provide the essential platform for careful design of future randomised advanced phase studies of new therapeutic approaches and agents."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acute Lymphoblastic Leukaemia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 126,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Philadelphia Positive Patients",
+          "type": "EXPERIMENTAL",
+          "description": "All patients with Philadelphia positive ALL will be treated in this group and will receive a standard imatinib-containing chemotherapy regimen",
+          "interventionNames": [
+            "Drug: Chemotherapy"
+          ]
+        },
+        {
+          "label": "Philadelphia -ve Patients- Intensive",
+          "type": "EXPERIMENTAL",
+          "description": "Patients with Philadelphia negative ALL who are fit for intensive treatment will be allocated into this group.",
+          "interventionNames": [
+            "Drug: Chemotherapy"
+          ]
+        },
+        {
+          "label": "Philadelphia -ve Patients- Intensive +",
+          "type": "EXPERIMENTAL",
+          "description": "Patients with Philadelphia negative disease and who are fit for intensive treatment will be entered into this group",
+          "interventionNames": [
+            "Drug: Chemotherapy"
+          ]
+        },
+        {
+          "label": "Philadelphia -ve Patients- Non Intensive",
+          "type": "EXPERIMENTAL",
+          "description": "Patients with Philadelphia negative disease who are not fit for intensive chemotherapy will be entered into this group",
+          "interventionNames": [
+            "Drug: Chemotherapy"
+          ]
+        },
+        {
+          "label": "Registration only",
+          "type": "NO_INTERVENTION",
+          "description": "Patients with either Philadelphia positive or negative ALL who do not wish to enter the study will be allocated to this group for data collection purposes only."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Chemotherapy",
+          "description": "Treatment for all pathways consists of Induction, Intensification (where applicable), Consolidation and Maintenance therapy during which combination chemotherapy is given for up to 2.5 years.",
+          "armGroupLabels": [
+            "Philadelphia -ve Patients- Intensive",
+            "Philadelphia -ve Patients- Intensive +",
+            "Philadelphia -ve Patients- Non Intensive",
+            "Philadelphia Positive Patients"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Complete remission rate after 2 phases of induction",
+          "description": "All patients will be assessed for their remission status at the end of Phase 2 induction. The CR rate at this timepoint will then be calculated.",
+          "timeFrame": "Approximately 2 months after start of treatment"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Complete remission rate after 1 phase of induction",
+          "description": "All patients will be assessed for their remission status at the end of Phase 1 induction. The CR rate at this timepoint will then be calculated.",
+          "timeFrame": "Approximately 1 month after start of treatment"
+        },
+        {
+          "measure": "Overall Survival at 1 year",
+          "description": "Overall survival for all patients will be measured 1 year after registration",
+          "timeFrame": "1 year after registration"
+        },
+        {
+          "measure": "Prognostic significance of molecularly determined minimal residual disease (MRD) at various time-points during therapy with respect to relapse occurrence.",
+          "description": "MRD levels will be measured at distinct timepoints during the trial.",
+          "timeFrame": "At diagnosis, 4 weeks, 8 weeks, 12 weeks after starting treatment"
+        },
+        {
+          "measure": "Tolerability of treatment as determined by occurrence of key adverse effects",
+          "description": "Patients in arms A-D will be assessed for adverse events at distinct timepoints during the trial",
+          "timeFrame": "Approximately 4 weeks, 8 weeks, 12 weeks, 24 weeks after starting treatment"
+        },
+        {
+          "measure": "Duration of in-patient hospitalisation",
+          "description": "All patients will be assessed for the number of days they have spent as in-patients at distinct timepoints during the trial.",
+          "timeFrame": "Approximately 4 weeks, 8 weeks, 12 weeks, 24 weeks, 28 after starting treatment and every 3 months during maintenance"
+        },
+        {
+          "measure": "Relationship between performance status/co-morbidity and treatment option chosen",
+          "timeFrame": "At registration"
+        },
+        {
+          "measure": "Quality of life aspects assessed at diagnosis/baseline at various time points",
+          "timeFrame": "Registration, Approximately 4 weeks, 8 weeks, 12 weeks, 24 weeks, 28 after starting treatment, before starting maintenance and at the end of maintenance"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 60 with Acute Lymphoblastic Leukaemia (ALL) OR \u2265 55 with Acute Lymphoblastic Leukaemia (ALL) unsuitable for the UKALL14 or HOVON 100 trial\n* Newly diagnosed, previously untreated ALL (a steroid pre-phase of 5-7 days may be given before trial registration))\n* Willing and able to give consent\n\nExclusion Criteria:\n\n* Known HIV infection\n* Blast transformation of CML\n* Mature B-cell leukaemia i.e. Burkitts disease t(8,14)(q24 ;q32) and variant c-myc translocations e.g. t(2;8)(p12 ;q24), t(8;22)(q24;q11)\n* Women who are pregnant or lactating",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "55 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Prof Adele Fielding",
+          "affiliation": "University College London Hospitals",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Erasmus MC",
+          "city": "Rotterdam",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 51.9225,
+            "lon": 4.47917
+          }
+        },
+        {
+          "facility": "NHS Lanarkshire - Monklands",
+          "city": "Airdrie",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.86602,
+            "lon": -3.98025
+          }
+        },
+        {
+          "facility": "Blackpool Victoria Hopsital",
+          "city": "Blackpool",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.81667,
+            "lon": -3.05
+          }
+        },
+        {
+          "facility": "Royal Bournemouth Hospital",
+          "city": "Bournemouth",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.72048,
+            "lon": -1.8795
+          }
+        },
+        {
+          "facility": "Bradford Royal Infirmary",
+          "city": "Bradford",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.79391,
+            "lon": -1.75206
+          }
+        },
+        {
+          "facility": "Bristol Haematology and Oncology Centre",
+          "city": "Bristol",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.45523,
+            "lon": -2.59665
+          }
+        },
+        {
+          "facility": "University Hospital of Wales",
+          "city": "Cardiff",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.48,
+            "lon": -3.18
+          }
+        },
+        {
+          "facility": "Castle Hill Hospital",
+          "city": "Cottingham",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.50243,
+            "lon": -0.7554
+          }
+        },
+        {
+          "facility": "Russells Hall Hospital",
+          "city": "Dudley",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.5,
+            "lon": -2.08333
+          }
+        },
+        {
+          "facility": "Ninewells Hospital",
+          "city": "Dundee",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 56.46913,
+            "lon": -2.97489
+          }
+        },
+        {
+          "facility": "NHS Lothian - Western General Hospital",
+          "city": "Edinburgh",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.95206,
+            "lon": -3.19648
+          }
+        },
+        {
+          "facility": "Beatson West of Scotland Cancer Centre",
+          "city": "Glasgow",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.86515,
+            "lon": -4.25763
+          }
+        },
+        {
+          "facility": "New Victoria Hospital and Southern General Hospital",
+          "city": "Glasgow",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.86515,
+            "lon": -4.25763
+          }
+        },
+        {
+          "facility": "Northwick Park Hospital",
+          "city": "Harrow",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.57835,
+            "lon": -0.33208
+          }
+        },
+        {
+          "facility": "St James' Hospital, Leeds",
+          "city": "Leeds",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.79648,
+            "lon": -1.54785
+          }
+        },
+        {
+          "facility": "Leicester Royal Infirmary",
+          "city": "Leicester",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.6386,
+            "lon": -1.13169
+          }
+        },
+        {
+          "facility": "Royal Liverpool University Hospital",
+          "city": "Liverpool",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.41058,
+            "lon": -2.97794
+          }
+        },
+        {
+          "facility": "King's College Hospital NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "St Bartholomew's Hospital",
+          "city": "London",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "St George's Hospital",
+          "city": "London",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "The Christie Hospital",
+          "city": "Manchester",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.48095,
+            "lon": -2.23743
+          }
+        },
+        {
+          "facility": "Arrowe Park Hospital",
+          "city": "Metropolitan Borough of Wirral",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.37616,
+            "lon": -3.10501
+          }
+        },
+        {
+          "facility": "James Cook University Hospital",
+          "city": "Middlesbrough",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 54.57623,
+            "lon": -1.23483
+          }
+        },
+        {
+          "facility": "Churchill Hospital, Oxford",
+          "city": "Oxford",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.75222,
+            "lon": -1.25596
+          }
+        },
+        {
+          "facility": "Derriford Hospital",
+          "city": "Plymouth",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.37153,
+            "lon": -4.14305
+          }
+        },
+        {
+          "facility": "Poole General Hospital",
+          "city": "Poole",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.71429,
+            "lon": -1.98458
+          }
+        },
+        {
+          "facility": "St Helen's & Knowlsey Teaching Hospitals",
+          "city": "Prescot",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.42948,
+            "lon": -2.80031
+          }
+        },
+        {
+          "facility": "Salisbury District Hospital",
+          "city": "Salisbury",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.06931,
+            "lon": -1.79569
+          }
+        },
+        {
+          "facility": "Royal Hallamshire Hospital",
+          "city": "Sheffield",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.38297,
+            "lon": -1.4659
+          }
+        },
+        {
+          "facility": "Royal MarsdenHospital",
+          "city": "Sutton",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.35,
+            "lon": -0.2
+          }
+        },
+        {
+          "facility": "Great Western Hospital",
+          "city": "Swindon",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.55797,
+            "lon": -1.78116
+          }
+        },
+        {
+          "facility": "Musgrove Park",
+          "city": "Taunton",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.01494,
+            "lon": -3.10293
+          }
+        },
+        {
+          "facility": "Torbay Hospital",
+          "city": "Torquay",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.46198,
+            "lon": -3.52522
+          }
+        },
+        {
+          "facility": "Sandwell General Hospital",
+          "city": "West Bromwich",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.51868,
+            "lon": -1.9945
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D054198",
+          "term": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007945",
+          "term": "Leukemia, Lymphoid"
+        },
+        {
+          "id": "D007938",
+          "term": "Leukemia"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D008206",
+          "term": "Lymphatic Diseases"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004358",
+          "term": "Drug Therapy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

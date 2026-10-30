@@ -1,0 +1,412 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02528149",
+      "orgStudyIdInfo": {
+        "id": "1308016"
+      },
+      "organization": {
+        "fullName": "Centre Hospitalier Universitaire de Saint Etienne",
+        "class": "OTHER"
+      },
+      "briefTitle": "Renal Arteries Dysplastic Aneurysms: Anatomopathological and Genetic Study",
+      "officialTitle": "Renal Arteries Dysplastic Aneurysms: Anatomopathological and Genetic Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2013-09"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2014-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2014-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2015-08-18",
+      "studyFirstSubmitQcDate": "2015-08-18",
+      "studyFirstPostDateStruct": {
+        "date": "2015-08-19",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-08-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-08-19",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Centre Hospitalier Universitaire de Saint Etienne",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Fibromuscular dysplasia (FMD) is localized structural defects in the arterial wall, whose innate or acquired character is still unknown. This segmental non atheromatous injury, leads to stenosis of the arteries of small and medium caliber. Renal arteries are the most commonly affected with 60-75% of total fibrodysplasia. Three histological subtypes have been described: intimal, medial and peri-medial. They are not mutually exclusive and can be observed in the same patient.\n\nThis is a rare blood disease, occurring in children and young adults. In this young population with long life expectancy, these aneurysmal lesion are associated with 10% risk of rupture. To date, no data have shown in the literature that FMD is link to genetic causes, or if there is specific histopathologic lesions for non-atherosclerotic renal artery aneurysms.\n\nTo answer these questions, Cardiovascular Surgery Unit of the University Hospital of Saint-Etienne, French national reference center for renal artery surgery, in association with the Reference Center for Rare Vascular Disease in Paris, designed the first study for pathological and genetic characteristics of dysplastic renal artery aneurysms in young patients."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Fibromuscular Dysplasia",
+        "Renal Artery Stenosis"
+      ],
+      "keywords": [
+        "Fibromuscular Dysplasia",
+        "dysplastic renal artery aneurysm",
+        "renal artery aneurysms",
+        "non atheromatous",
+        "dysplastic",
+        "anatomopathologic",
+        "genetic"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "blood samples and adjacent part and aneurysm of renal aneurysms"
+      },
+      "enrollmentInfo": {
+        "count": 34,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "patients with renal aneurysm",
+          "description": "Patient with one or more renal artery aneurysm (RAA) operated and with tissue; adjacent part and aneurysm; cryopreserved. Blood sample performed at day 1.",
+          "interventionNames": [
+            "Procedure: tissue of adjacent part and aneurysm of renal aneurysm",
+            "Other: blood sample"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "tissue of adjacent part and aneurysm of renal aneurysm",
+          "description": "the samples are collected during surgery of renal artery aneurysms. Th tissue is cryopreserved in liquid nitrogen before analysis",
+          "armGroupLabels": [
+            "patients with renal aneurysm"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "blood sample",
+          "armGroupLabels": [
+            "patients with renal aneurysm"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "anatomopathological characteristics of renal aneurysms",
+          "description": "Anatomopathological criteria is a composite outcome : Presence of a media thickness, the media disappearance zones, loss of smooth muscle cells (SMC) in the media with replacement by fibrosis, disorganization of SMC, aneurysms, dissections, discontinuity of the internal elastic lamina, and intimal thickening due to myointimal hyperplasia, abnormalities of proteins of the extracellular matrix.",
+          "timeFrame": "day 1"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "genetic markers in blood samples",
+          "description": "identify specific genetic markers (mutation, variant) to characterize genes involved in fibromuscular dysplasia",
+          "timeFrame": "day 1"
+        },
+        {
+          "measure": "genetic markers in aneurysm tissue",
+          "description": "identify specific genetic markers (mutation, variant) to characterize genes involved in fibromuscular dysplasia",
+          "timeFrame": "day 1"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with one or more Renal artery aneurysm (RAA), not eligible for endovascular treatment, have been operated at the Hospital of Saint-Etienne, with tissue (adjacent part and aneurysm) cryopreserved in liquid nitrogen in renal lab and then sent in genetic lab in Georges Pompidou European Hospital (EHGP ).\n* Patient (or parent/person having parental authority) Affiliate or entitled to a social security scheme.\n* Signature of patient consent (or parents or holder of parental authority)\n\nExclusion Criteria:\n\n* Patient not included in the tissue collection in Georges Pompidou European Hospital (EHGP ).\n* Patient refusing to participate in the study and / or genetic analysis or, for juvenile patients, parents or holder of parental authority refusing the minor patient to be involved in the study and / or genetic analysis.\n* Patient with FMD whose samples in the tissue collection did not concern aneurysm.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "15 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients with one or more Renal artery aneurysm (RAA), not eligible for endovascular treatment, have been operated at the Hospital of Saint-Etienne, with tissue (adjacent part and aneurysm) cryopreserved in liquid nitrogen in renal lab and then sent in genetic lab in EHGP.",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Xavier Barral, PhD",
+          "affiliation": "Centre Hospitalier Universitaire de Saint Etienne",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "CH Henri Mondor",
+          "city": "Aurillac",
+          "country": "France",
+          "geoPoint": {
+            "lat": 44.92539,
+            "lon": 2.43983
+          }
+        },
+        {
+          "facility": "CH Louis Pasteur",
+          "city": "Bagnols-sur-C\u00e8ze",
+          "country": "France",
+          "geoPoint": {
+            "lat": 44.16259,
+            "lon": 4.61974
+          }
+        },
+        {
+          "facility": "CHU Saint-Jacques",
+          "city": "Besan\u00e7on",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.24878,
+            "lon": 6.01815
+          }
+        },
+        {
+          "facility": "Groupe Hospitalier Pellegrin",
+          "city": "Bordeaux",
+          "country": "France",
+          "geoPoint": {
+            "lat": 44.84124,
+            "lon": -0.58046
+          }
+        },
+        {
+          "facility": "Clinique Saint-Germain",
+          "city": "Brive-la-Gaillarde",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.1589,
+            "lon": 1.53326
+          }
+        },
+        {
+          "facility": "Centre Hospitalier A. Gayraud",
+          "city": "Carcassonne",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.21649,
+            "lon": 2.34863
+          }
+        },
+        {
+          "facility": "CH W. Morey",
+          "city": "Chalon-sur-Sa\u00f4ne",
+          "country": "France",
+          "geoPoint": {
+            "lat": 46.78112,
+            "lon": 4.85372
+          }
+        },
+        {
+          "facility": "H\u00f4pital Gabriel Montpied",
+          "city": "Clermont-Ferrand",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.77969,
+            "lon": 3.08682
+          }
+        },
+        {
+          "facility": "CH Emile Roux",
+          "city": "Le Puy-en-Velay",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.04366,
+            "lon": 3.88523
+          }
+        },
+        {
+          "facility": "H\u00f4pital Jeanne de Flandre",
+          "city": "Lille",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.63391,
+            "lon": 3.05512
+          }
+        },
+        {
+          "facility": "H\u00f4pital de la m\u00e8re et de l'enfant",
+          "city": "Limoges",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.83362,
+            "lon": 1.24759
+          }
+        },
+        {
+          "facility": "H\u00f4pital Robert Schuman",
+          "city": "Metz",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.11911,
+            "lon": 6.17269
+          }
+        },
+        {
+          "facility": "H\u00f4pital Lapeyronie",
+          "city": "Montpellier",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.61093,
+            "lon": 3.87635
+          }
+        },
+        {
+          "facility": "CHU Nantes",
+          "city": "Nantes",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.21725,
+            "lon": -1.55336
+          }
+        },
+        {
+          "facility": "CH Niort",
+          "city": "Niort",
+          "country": "France",
+          "geoPoint": {
+            "lat": 46.32313,
+            "lon": -0.45877
+          }
+        },
+        {
+          "facility": "H\u00f4pital Europ\u00e9en Georges Pompidou",
+          "city": "Paris",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "CHRU Tours",
+          "city": "Tours",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.39484,
+            "lon": 0.70398
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D005352",
+          "term": "Fibromuscular Dysplasia"
+        },
+        {
+          "id": "D012078",
+          "term": "Renal Artery Obstruction"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001157",
+          "term": "Arterial Occlusive Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D007674",
+          "term": "Kidney Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001800",
+          "term": "Blood Specimen Collection"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013048",
+          "term": "Specimen Handling"
+        },
+        {
+          "id": "D019411",
+          "term": "Clinical Laboratory Techniques"
+        },
+        {
+          "id": "D019937",
+          "term": "Diagnostic Techniques and Procedures"
+        },
+        {
+          "id": "D003933",
+          "term": "Diagnosis"
+        },
+        {
+          "id": "D011677",
+          "term": "Punctures"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

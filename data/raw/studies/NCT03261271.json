@@ -1,0 +1,2065 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03261271",
+      "orgStudyIdInfo": {
+        "id": "STUDY00141060"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "RSG-17-050-01-NEC",
+          "type": "OTHER_GRANT",
+          "domain": "American Cancer Society"
+        }
+      ],
+      "organization": {
+        "fullName": "University of Kansas Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Weight Management Aimed to Reduce Risk and Improve Outcomes From Radical Prostatectomy",
+      "officialTitle": "Weight Management Aimed to Reduce Risk and Improve Outcomes From Radical Prostatectomy",
+      "acronym": "WARRIOR"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-11-02",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-11-28",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-03-25",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-08-22",
+      "studyFirstSubmitQcDate": "2017-08-22",
+      "studyFirstPostDateStruct": {
+        "date": "2017-08-24",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-10-29",
+      "resultsFirstSubmitQcDate": "2025-02-05",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-02-26",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Kansas Medical Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "American Cancer Society, Inc.",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to test how a weight management program affects substances in the blood called biomarkers that can show the presence or severity of cancer, compared to a standardized diet and exercise educational flyer."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Obesity",
+        "Prostate Cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 40,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Weight Loss and Weight Maintenance",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.",
+          "interventionNames": [
+            "Behavioral: Weight Loss Program",
+            "Behavioral: Weight Maintenance Program"
+          ]
+        },
+        {
+          "label": "Control",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants will receive a standardized educational flyer about a healthy diet and exercise.",
+          "interventionNames": [
+            "Behavioral: Standardized educational flyer"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Weight Loss Program",
+          "description": "Program involves one-on-one coaching, diet meal plan, and physical activity plan.",
+          "armGroupLabels": [
+            "Weight Loss and Weight Maintenance"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Standardized educational flyer",
+          "description": "The American Institute for Cancer Research handout \"Nutrition and the Cancer Survivor\" will be provided to participants.",
+          "armGroupLabels": [
+            "Control"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Weight Maintenance Program",
+          "description": "Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring.",
+          "armGroupLabels": [
+            "Weight Loss and Weight Maintenance"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Impact of Weight Loss Before and Weight Maintenance After Prostate Cancer (PCa) Surgery on Immunosuppressive Factors",
+          "description": "Impact will be measured by changes in specific blood immune biomarker monocytic myeloid-derived suppressor cells (mMDSCs). The absolute number of cell counts were calculated using the lymphocyte count abstracted from the complete blood count with differential.",
+          "timeFrame": "Change from Baseline to Month 6"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Impact of Weight Loss Before and Weight Maintenance After PCa Surgery on Inflammation Factors",
+          "description": "Impact will be measured by changes in specific blood biomarker leptin/adiponectin ratio.",
+          "timeFrame": "Change from Baseline to Month 6"
+        },
+        {
+          "measure": "Change in Weight",
+          "description": "Body weight will be measured at participant study visits.",
+          "timeFrame": "Change from Baseline to Month 6"
+        },
+        {
+          "measure": "Change in Body Composition",
+          "description": "Body composition will be measured using a Dual Energy X-Ray Absorptiometry (iDXA). Change in percent body fat will be analyzed between groups from baseline to study end.",
+          "timeFrame": "Change from Baseline to Study End"
+        },
+        {
+          "measure": "Change in Quality of Life",
+          "description": "Quality of Life will be measured using the Expanded PCa Index Composite (EPIC) Instrument-26. There are a total of 26 items on the survey. Scores range from 0 to 100. The higher the score, the higher the quality of life.",
+          "timeFrame": "Change from Baseline to Month 6"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Men newly diagnosed with PCa who are scheduled for radical prostatectomy (RP) (T1 or T2)\n* Body Mass Index (BMI) 25-45 kg/m2\n* Has internet access\n\nExclusion Criteria:\n\n* History of 5 alpha reductase inhibitors prior 3 months\n* History of radiation therapy for cancer treatment\n* Taking active cancer treatment\n* Undergoing salvage therapy\n* Castration-resistant PCa\n* Evidence of metastasis\n* Evidence of biochemical recurrence\n* High risk medical condition (e.g. kidney disease, uncontrolled diabetes, etc.)",
+      "healthyVolunteers": false,
+      "sex": "MALE",
+      "genderBased": true,
+      "minimumAge": "50 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Jill Hamilton-Reeves, PhD",
+          "affiliation": "University of Kansas Medical Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Kansas Medical Center",
+          "city": "Kansas City",
+          "state": "Kansas",
+          "zip": "66160",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.11417,
+            "lon": -94.62746
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38299570",
+          "type": "DERIVED",
+          "citation": "Bechtel MD, Michel C, Srinivasan P, Chalise P, Parker WP, Mirza M, Thrasher B, Gibbs HD, DiGiovanni J, Hamilton-Reeves J. Impact of Weight Management on Obesity-Driven Biomarkers of Prostate Cancer Progression. J Urol. 2024 Apr;211(4):552-562. doi: 10.1097/JU.0000000000003849. Epub 2024 Feb 1."
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Upon enrollment, participants were randomized to either the intervention or active control arms.",
+      "recruitmentDetails": "Participant enrollment took place from November 2017 to August 2020 at The University of Kansas Health System. Participants were recruited from the Department of Urology medical clinic.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Weight Loss and Weight Maintenance",
+          "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.\n\nWeight Loss Program: Program involves one-on-one coaching, diet meal plan, and physical activity plan.\n\nWeight Maintenance Program: Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring."
+        },
+        {
+          "id": "FG001",
+          "title": "Control",
+          "description": "Participants will receive a standardized educational flyer about a healthy diet and exercise.\n\nStandardized educational flyer: The American Institute for Cancer Research handout \"Nutrition and the Cancer Survivor\" will be provided to participants."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "19"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "19"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Treatment changed after surgery. Participants were removed from the study.",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Weight Loss and Weight Maintenance",
+          "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.\n\nWeight Loss Program: Program involves one-on-one coaching, diet meal plan, and physical activity plan.\n\nWeight Maintenance Program: Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring."
+        },
+        {
+          "id": "BG001",
+          "title": "Control",
+          "description": "Participants will receive a standardized educational flyer about a healthy diet and exercise.\n\nStandardized educational flyer: The American Institute for Cancer Research handout \"Nutrition and the Cancer Survivor\" will be provided to participants."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "20"
+            },
+            {
+              "groupId": "BG001",
+              "value": "20"
+            },
+            {
+              "groupId": "BG002",
+              "value": "40"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "59.25",
+                      "spread": "5.86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "60.80",
+                      "spread": "5.66"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "60.03",
+                      "spread": "5.74"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "39"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "36"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Highest Education Level",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "High School/GED",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Some College/Associate's",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "Bachelor's",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Master's",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Doctoral",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Rural-Urban Commuting Area (RUCA) Codes",
+          "description": "RUCA codes are a census tract-based classification that uses standard census measures of population density, levels of urbanization and daily commuting patterns. Codes range from 1 (highly urban) to 10 (highly rural).",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "RUCA Code 1",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    }
+                  ]
+                },
+                {
+                  "title": "RUCA Code 2",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "RUCA Code 4",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "RUCA Code 7",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "RUCA Code 10",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Smoking Status",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Current Smoker",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Former Smoker",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "Never Smoked",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Preoperative Erectile Dysfunction",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prostate Specific Antigen (PSA)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "ng/mL",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7.96",
+                      "spread": "5.76"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8.31",
+                      "spread": "6.09"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8.14",
+                      "spread": "5.85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gleason score",
+          "description": "A Gleason score is a grading system used to describe prostate cancer and determine its aggressiveness. Gleason scores range from 2-10. Pathologists rarely assign scores 2-5. Gleason scores assigned will range from 6 to 10, with 6 being low grade, 7 intermediate grade, and a score of 8 to 10 is high grade cancer.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7.05",
+                      "spread": "0.76"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7.05",
+                      "spread": "0.22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7.05",
+                      "spread": "0.55"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "106.94",
+                      "spread": "17.15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "101.54",
+                      "spread": "10.42"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "104.24",
+                      "spread": "14.27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Height",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "cm",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "177.38",
+                      "spread": "6.60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "176.55",
+                      "spread": "4.45"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "176.96",
+                      "spread": "5.57"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33.95",
+                      "spread": "4.90"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32.59",
+                      "spread": "3.29"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33.27",
+                      "spread": "4.18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Impact of Weight Loss Before and Weight Maintenance After Prostate Cancer (PCa) Surgery on Immunosuppressive Factors",
+          "description": "Impact will be measured by changes in specific blood immune biomarker monocytic myeloid-derived suppressor cells (mMDSCs). The absolute number of cell counts were calculated using the lymphocyte count abstracted from the complete blood count with differential.",
+          "populationDescription": "Intent to Treat Population (all participants assigned to Weight Loss and Weight Maintenance or Control).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "count of cells",
+          "timeFrame": "Change from Baseline to Month 6",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Weight Loss and Weight Maintenance",
+              "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.\n\nWeight Loss Program: Program involves one-on-one coaching, diet meal plan, and physical activity plan.\n\nWeight Maintenance Program: Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring."
+            },
+            {
+              "id": "OG001",
+              "title": "Control",
+              "description": "Participants will receive a standardized educational flyer about a healthy diet and exercise.\n\nStandardized educational flyer: The American Institute for Cancer Research handout \"Nutrition and the Cancer Survivor\" will be provided to participants."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "20"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "20"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline mMDSC count",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19.29",
+                      "spread": "26.72"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17.37",
+                      "spread": "18.96"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1 week prior to surgery mMDSC count",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17.68",
+                      "spread": "21.14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12.76",
+                      "spread": "15.64"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6 months after surgery mMDSC count",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40.52",
+                      "spread": "44.87"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "32.91",
+                      "spread": "36.38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.6489",
+              "pValueComment": "P value less than 0.05 was considered statistically significant.",
+              "statisticalMethod": "Mixed Models Analysis"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Impact of Weight Loss Before and Weight Maintenance After PCa Surgery on Inflammation Factors",
+          "description": "Impact will be measured by changes in specific blood biomarker leptin/adiponectin ratio.",
+          "populationDescription": "Intent to Treat Population (all participants assigned to Weight Loss and Weight Maintenance or Control).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "leptin/adiponectin ratio",
+          "timeFrame": "Change from Baseline to Month 6",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Weight Loss and Weight Maintenance",
+              "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.\n\nWeight Loss Program: Program involves one-on-one coaching, diet meal plan, and physical activity plan.\n\nWeight Maintenance Program: Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring."
+            },
+            {
+              "id": "OG001",
+              "title": "Control",
+              "description": "Participants will receive a standardized educational flyer about a healthy diet and exercise.\n\nStandardized educational flyer: The American Institute for Cancer Research handout \"Nutrition and the Cancer Survivor\" will be provided to participants."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "20"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "20"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline leptin/adiponectin ratio",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.28",
+                      "spread": "0.29"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.28",
+                      "spread": "0.27"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1 week prior to surgery leptin/adiponectin ratio",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.16",
+                      "spread": "0.21"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.29",
+                      "spread": "0.22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6 months after surgery leptin/adiponectin ratio",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.11",
+                      "spread": "0.14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.25",
+                      "spread": "0.32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0323",
+              "statisticalMethod": "Mixed Models Analysis"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Weight",
+          "description": "Body weight will be measured at participant study visits.",
+          "populationDescription": "Intent to Treat Population (all participants assigned to Weight Loss and Weight Maintenance or Control).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "weight in kilograms",
+          "timeFrame": "Change from Baseline to Month 6",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Weight Loss and Weight Maintenance",
+              "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.\n\nWeight Loss Program: Program involves one-on-one coaching, diet meal plan, and physical activity plan.\n\nWeight Maintenance Program: Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring."
+            },
+            {
+              "id": "OG001",
+              "title": "Control",
+              "description": "Participants will receive a standardized educational flyer about a healthy diet and exercise.\n\nStandardized educational flyer: The American Institute for Cancer Research handout \"Nutrition and the Cancer Survivor\" will be provided to participants."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "20"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "20"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline body weight (kg)",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "106.9",
+                      "spread": "17.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "101.5",
+                      "spread": "10.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1 week prior to surgery body weight (kg)",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "101.1",
+                      "spread": "16.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "100.6",
+                      "spread": "11.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6 months after surgery body weight (kg)",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "95.8",
+                      "spread": "17.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "99.8",
+                      "spread": "11.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Mixed Models Analysis"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Body Composition",
+          "description": "Body composition will be measured using a Dual Energy X-Ray Absorptiometry (iDXA). Change in percent body fat will be analyzed between groups from baseline to study end.",
+          "populationDescription": "Intent to Treat Population (all participants assigned to Weight Loss and Weight Maintenance or Control).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage of body fat",
+          "timeFrame": "Change from Baseline to Study End",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Weight Loss and Weight Maintenance",
+              "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.\n\nWeight Loss Program: Program involves one-on-one coaching, diet meal plan, and physical activity plan.\n\nWeight Maintenance Program: Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring."
+            },
+            {
+              "id": "OG001",
+              "title": "Control",
+              "description": "Participants will receive a standardized educational flyer about a healthy diet and exercise.\n\nStandardized educational flyer: The American Institute for Cancer Research handout \"Nutrition and the Cancer Survivor\" will be provided to participants."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "20"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "20"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline body fat %",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "39.2",
+                      "spread": "4.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37.6",
+                      "spread": "4.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1 week prior to surgery body fat %",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "37.1",
+                      "spread": "5.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37.4",
+                      "spread": "4.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6 months after surgery body fat %",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "34.0",
+                      "spread": "7.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "36.7",
+                      "spread": "4.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Mixed Models Analysis"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Quality of Life",
+          "description": "Quality of Life will be measured using the Expanded PCa Index Composite (EPIC) Instrument-26. There are a total of 26 items on the survey. Scores range from 0 to 100. The higher the score, the higher the quality of life.",
+          "populationDescription": "Intent to Treat Population (all participants assigned to Weight Loss and Weight Maintenance or Control).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Change from Baseline to Month 6",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Weight Loss and Weight Maintenance",
+              "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.\n\nWeight Loss Program: Program involves one-on-one coaching, diet meal plan, and physical activity plan.\n\nWeight Maintenance Program: Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring."
+            },
+            {
+              "id": "OG001",
+              "title": "Control",
+              "description": "Participants will receive a standardized educational flyer about a healthy diet and exercise.\n\nStandardized educational flyer: The American Institute for Cancer Research handout \"Nutrition and the Cancer Survivor\" will be provided to participants."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "20"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "20"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "General Health Quality of Life at Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "47.8",
+                      "spread": "7.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48.0",
+                      "spread": "7.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "General Health Quality of Life at Pre-Surgery",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "52.5",
+                      "spread": "6.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48.6",
+                      "spread": "8.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "General Health Quality of Life at Study End",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "52.0",
+                      "spread": "8.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "47.7",
+                      "spread": "8.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Difference between groups from Baseline to Study End.",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.09",
+              "statisticalMethod": "Mixed Models Analysis"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Difference between groups from baseline to pre-surgery.",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.04",
+              "statisticalMethod": "Mixed Models Analysis"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "4-16 weeks prior to surgery and 6 months after surgery. At most, 10 months.",
+      "description": "Adverse Events were not assessed for the control group since they did not follow the study intervention. The control group received educational materials and followed standard of care.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Weight Loss and Weight Maintenance",
+          "description": "Participants will take part in a weight loss program for at least 4 weeks (and up to 16 weeks) before their prostatectomy, and a weight maintenance program for 6 months after their surgery.\n\nWeight Loss Program: Program involves one-on-one coaching, diet meal plan, and physical activity plan.\n\nWeight Maintenance Program: Post-surgery program involves group support sessions, phone check-ins, and diet and exercise monitoring.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 20,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 20,
+          "otherNumAffected": 7,
+          "otherNumAtRisk": 20
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE v.4.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Bloating",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE v.4.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTCAE v.4.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Muscle pain or strain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE v.4.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 20
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "This randomized controlled trial could not be blinded to participants due to the nature of the intervention."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Jill Hamilton-Reeves",
+        "organization": "University of Kansas Medical Center",
+        "email": "jhamilton-reeves@kumc.edu",
+        "phone": "913-588-7650"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2020-03-23",
+          "uploadDate": "2024-10-22T16:44",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1976355
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2019-09-03",
+          "uploadDate": "2024-10-22T16:45",
+          "filename": "ICF_001.pdf",
+          "size": 1367046
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        },
+        {
+          "id": "D011471",
+          "term": "Prostatic Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D005834",
+          "term": "Genital Neoplasms, Male"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D005832",
+          "term": "Genital Diseases, Male"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D011469",
+          "term": "Prostatic Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D061217",
+          "term": "Weight Reduction Programs"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006293",
+          "term": "Health Promotion"
+        },
+        {
+          "id": "D006266",
+          "term": "Health Education"
+        },
+        {
+          "id": "D011314",
+          "term": "Preventive Health Services"
+        },
+        {
+          "id": "D006296",
+          "term": "Health Services"
+        },
+        {
+          "id": "D005159",
+          "term": "Health Care Facilities Workforce and Services"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,314 @@
+{
+  "nct_id": "NCT05083338",
+  "title": "Prospective Evaluation of Psychological, Psychophysical and Epigenetic Determinants of Chronic Pain After Cytoreductive - Hyperthermic Intraoperative Chemotherapy in Adult Patients",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Appendix Carcinoma",
+    "Carcinomatosis",
+    "Colorectal Carcinoma",
+    "Gastric Carcinoma",
+    "Malignant Peritoneal Neoplasm",
+    "Malignant Solid Neoplasm"
+  ],
+  "interventions": [
+    "Biospecimen Collection",
+    "Pain Assessment",
+    "Questionnaire Administration"
+  ],
+  "primary_outcome": "Chronic postsurgical pain",
+  "secondary_outcomes": [],
+  "start_date": "2021-08-10",
+  "completion_date": "2024-02-09",
+  "results_posted": false,
+  "enrollment": 24,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05083338",
+        "orgStudyIdInfo": {
+          "id": "2021-0027"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "NCI-2021-09684",
+            "type": "REGISTRY",
+            "domain": "CTRP (Clinical Trial Reporting Program)"
+          },
+          {
+            "id": "2021-0027",
+            "type": "OTHER",
+            "domain": "M D Anderson Cancer Center"
+          }
+        ],
+        "organization": {
+          "fullName": "M.D. Anderson Cancer Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "Psychological, Psychophysical and Epigenetic Determinants of Chronic Pain After Cytoreductive - Hyperthermic Intraoperative Chemotherapy",
+        "officialTitle": "Prospective Evaluation of Psychological, Psychophysical and Epigenetic Determinants of Chronic Pain After Cytoreductive - Hyperthermic Intraoperative Chemotherapy in Adult Patients"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2024-02",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-08-10",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2024-02-09",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2024-02-09",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2021-10-07",
+        "studyFirstSubmitQcDate": "2021-10-07",
+        "studyFirstPostDateStruct": {
+          "date": "2021-10-19",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2024-02-12",
+        "lastUpdatePostDateStruct": {
+          "date": "2024-02-13",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "M.D. Anderson Cancer Center",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study learns if depression, anxiety, and catastrophizing (thought patterns that prompt people to expect the worst) are associated with chronic pain after surgery among patients who are scheduled to have cytoreductive surgery with intraoperative hyperthermic chemotherapy. Information from this study may improve the understanding of persistent and chronic postsurgical pain integrating multiple layers of biological and behavioral sciences.",
+        "detailedDescription": "PRIMARY OBJECTIVE:\n\nI. To evaluate the association of preoperative psychological risk factors (depression, anxiety or catastrophizing) with the development of chronic postsurgical pain after cytoreductive surgery with intraoperative hyperthermic chemotherapy (CRS-HIPEC).\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the association of preoperative psychological risk factors (depression, anxiety or catastrophizing) with the development of persistent postsurgical pain after CRS-HIPEC.\n\nII. To evaluate the association between preoperative abnormal sensory disturbances and chronic postsurgical pain after CRS-HIPEC.\n\nIII. To assess the association of blood micro ribonucleic acids (RNAs) signatures with the development of chronic postsurgical pain after CRS-HIPEC.\n\nIV. To determine the rate of and factors associated with persistent and chronic opioid use after CRS-HIPEC.\n\nV. To determine the rate of persistent and chronic postsurgical anxiety and depression.\n\nVI. To investigate changes in psychological risk factors (depression, anxiety or catastrophizing) and sensory disturbances after CRS-HIPEC overtime.\n\nEXPLORATORY OBJECTIVE:\n\nI. To explore the impact of perioperative (in-patient) opioid use, non-opioid analgesic use and anesthetics on the development of persistent and chronic opioid use after CRS-HIPEC.\n\nOUTLINE:\n\nPatients complete questionnaires over 15 minutes and undergo pain assessments prior to surgery and at 3, 6 and 12 months after surgery. Patients also undergo blood sample collection before surgery and optionally at 3, 6 and 12 months after surgery."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Appendix Carcinoma",
+          "Carcinomatosis",
+          "Colorectal Carcinoma",
+          "Gastric Carcinoma",
+          "Malignant Peritoneal Neoplasm",
+          "Malignant Solid Neoplasm"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "bioSpec": {
+          "retention": "SAMPLES_WITH_DNA",
+          "description": "Blood"
+        },
+        "enrollmentInfo": {
+          "count": 24,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Observational (questionnaire, pain assessment, biospecimen)",
+            "description": "Patients complete questionnaires over 15 minutes and undergo pain assessments prior to surgery and at 3, 6 and 12 months after surgery. Patients also undergo blood sample collection before surgery and optionally at 3, 6 and 12 months after surgery.",
+            "interventionNames": [
+              "Procedure: Biospecimen Collection",
+              "Procedure: Pain Assessment",
+              "Other: Questionnaire Administration"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Biospecimen Collection",
+            "description": "Undergo blood sample collection",
+            "armGroupLabels": [
+              "Observational (questionnaire, pain assessment, biospecimen)"
+            ],
+            "otherNames": [
+              "Biological Sample Collection"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Pain Assessment",
+            "description": "Undergo pain assessment",
+            "armGroupLabels": [
+              "Observational (questionnaire, pain assessment, biospecimen)"
+            ],
+            "otherNames": [
+              "Pain Measurement"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Questionnaire Administration",
+            "description": "Complete questionnaires",
+            "armGroupLabels": [
+              "Observational (questionnaire, pain assessment, biospecimen)"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Chronic postsurgical pain",
+            "description": "Defined as pain that develops or increases in intensity compared to preoperative after cyotreductive surgery with intraoperative hyperthermic chemotherapy (CRS-HIPEC), lasts for more than 6 months.",
+            "timeFrame": "through study completion, an average of 1 year"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years of age or older; with or without history of preoperative abdominal pain\n* American Society of Anesthesiologists physical status (ASA) 1-4\n* Scheduled surgery: open CRS-HIPEC surgery for primary peritoneal malignancy or secondary carcinomatosis (i.e., appendiceal, colorectal and gastric cancers)\n* Written informed consent\n\nExclusion Criteria:\n\n* ASA \\>= 4 or emergency surgeries\n* Patients with extra-abdominal metastatic disease\n* Patients cognitive or neurologically unable to complete questionnaires preoperatively\n* Non-English-speaking patients\n* Pregnant women",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Patients with or without history of preoperative abdominal pain",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Juan P Cata",
+            "affiliation": "M.D. Anderson Cancer Center",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "M D Anderson Cancer Center",
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.76328,
+              "lon": -95.36327
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "seeAlsoLinks": [
+          {
+            "label": "M D Anderson Cancer Center",
+            "url": "http://www.mdanderson.org"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001063",
+            "term": "Appendiceal Neoplasms"
+          },
+          {
+            "id": "D002277",
+            "term": "Carcinoma"
+          },
+          {
+            "id": "D015179",
+            "term": "Colorectal Neoplasms"
+          },
+          {
+            "id": "D013274",
+            "term": "Stomach Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002430",
+            "term": "Cecal Neoplasms"
+          },
+          {
+            "id": "D007414",
+            "term": "Intestinal Neoplasms"
+          },
+          {
+            "id": "D005770",
+            "term": "Gastrointestinal Neoplasms"
+          },
+          {
+            "id": "D004067",
+            "term": "Digestive System Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D004066",
+            "term": "Digestive System Diseases"
+          },
+          {
+            "id": "D005767",
+            "term": "Gastrointestinal Diseases"
+          },
+          {
+            "id": "D002429",
+            "term": "Cecal Diseases"
+          },
+          {
+            "id": "D007410",
+            "term": "Intestinal Diseases"
+          },
+          {
+            "id": "D009375",
+            "term": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D003108",
+            "term": "Colonic Diseases"
+          },
+          {
+            "id": "D012002",
+            "term": "Rectal Diseases"
+          },
+          {
+            "id": "D013272",
+            "term": "Stomach Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256998"
+}

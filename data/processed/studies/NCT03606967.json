@@ -1,0 +1,1426 @@
+{
+  "nct_id": "NCT03606967",
+  "title": "Randomized Phase 2 Clinical Trial of Nab-Paclitaxel + Durvalumab (MEDI4736) + Tremelimumab + Neoantigen Vaccine vs. Nab-Paclitaxel + Durvalumab (MEDI4736) + Tremelimumab in Patients With Metastatic Triple Negative Breast Cancer",
+  "sponsor": "National Cancer Institute (NCI)",
+  "phase": "PHASE2",
+  "status": "RECRUITING",
+  "conditions": [
+    "Anatomic Stage IV Breast Cancer AJCC v8",
+    "Invasive Breast Carcinoma",
+    "Metastatic Triple-Negative Breast Carcinoma"
+  ],
+  "interventions": [
+    "Biopsy Procedure",
+    "Biospecimen Collection",
+    "Carboplatin",
+    "Computed Tomography",
+    "Durvalumab",
+    "Gemcitabine Hydrochloride",
+    "Magnetic Resonance Imaging",
+    "Nab-paclitaxel",
+    "Personalized Synthetic Long Peptide Vaccine",
+    "Poly ICLC",
+    "Sacituzumab Govitecan",
+    "Tremelimumab"
+  ],
+  "primary_outcome": "Progression-free survival (PFS)",
+  "secondary_outcomes": [
+    "Incidence of adverse events",
+    "Clinical response rate",
+    "Clinical benefit rate (complete response, partial response, stable disease)",
+    "Overall survival (OS)"
+  ],
+  "start_date": "2021-04-13",
+  "completion_date": "2026-12-30",
+  "results_posted": false,
+  "enrollment": 86,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03606967",
+        "orgStudyIdInfo": {
+          "id": "NCI-2018-01581"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "NCI-2018-01581",
+            "type": "REGISTRY",
+            "domain": "CTRP (Clinical Trial Reporting Program)"
+          },
+          {
+            "id": "10146",
+            "type": "OTHER",
+            "domain": "Yale University Cancer Center LAO"
+          },
+          {
+            "id": "10146",
+            "type": "OTHER",
+            "domain": "CTEP"
+          },
+          {
+            "id": "UM1CA186704",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/UM1CA186704"
+          }
+        ],
+        "organization": {
+          "fullName": "National Cancer Institute (NCI)",
+          "class": "NIH"
+        },
+        "briefTitle": "Testing the Addition of an Individualized Vaccine to Durvalumab and Tremelimumab and Chemotherapy in Patients With Metastatic Triple Negative Breast Cancer",
+        "officialTitle": "Randomized Phase 2 Clinical Trial of Nab-Paclitaxel + Durvalumab (MEDI4736) + Tremelimumab + Neoantigen Vaccine vs. Nab-Paclitaxel + Durvalumab (MEDI4736) + Tremelimumab in Patients With Metastatic Triple Negative Breast Cancer"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-07",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2021-04-13",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-12-30",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2026-12-30",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2018-07-30",
+        "studyFirstSubmitQcDate": "2018-07-30",
+        "studyFirstPostDateStruct": {
+          "date": "2018-07-31",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-10-09",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-10-13",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "National Cancer Institute (NCI)",
+          "class": "NIH"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This phase II trial studies how well nab-paclitaxel, durvalumab, and tremelimumab with or without personalized synthetic long peptide vaccine (neoantigen vaccine) works in treating patients with triple negative breast cancer that has spread from where it first started (primary site) to other places in the body (metastatic). Chemotherapy drugs, such as nab-paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as durvalumab and tremelimumab, may induce changes in body's immune system and may interfere with the ability of tumor cells to grow and spread. Vaccines made from peptides may help the body build an effective immune response to kill tumor cells. It is not yet known whether giving nab-paclitaxel, durvalumab, and tremelimumab with or without neoantigen vaccine will work better in treating patients with triple negative breast cancer.",
+        "detailedDescription": "PRIMARY OBJECTIVE:\n\nI. Evaluate the clinical response to nab-paclitaxel + durvalumab (MEDI4736) + tremelimumab + neoantigen vaccine (Arm 1) versus (vs.) nab-paclitaxel + durvalumab (MEDI4736) + tremelimumab (Arm 2) in patients with metastatic triple negative breast cancer (TNBC).\n\nSECONDARY OBJECTIVE:\n\nI. Evaluate the safety of nab-paclitaxel + durvalumab (MEDI4736) + tremelimumab + neoantigen vaccine vs. nab-paclitaxel + durvalumab (MEDI4736) + tremelimumab in patients with metastatic TNBC.\n\nEXPLORATORY OBJECTIVES:\n\nI. Assess the immune response induced by nab-paclitaxel + durvalumab (MEDI4736) + tremelimumab + neoantigen vaccine vs. nab-paclitaxel + durvalumab (MEDI4736) + tremelimumab in patients with metastatic TNBC.\n\nII. Biomarkers of response to therapy will be assessed based on the research biopsies performed at baseline, following the chemotherapy run-in (Part A) and following nab-paclitaxel + durvalumab (MEDI4736) + tremelimumab +/- neoantigen vaccine (Part B).\n\nOUTLINE:\n\nPART A: Patients receive gemcitabine hydrochloride intravenously (IV) over 30 minutes and carboplatin IV over 30 minutes on days 1 and 8 of each cycle. Treatment repeats every 21 days for up to 18 weeks (6 cycles) in the absence of disease progression or unacceptable toxicity. Patients who experience progression of disease or who are intolerant of treatment may switch and receive nab-paclitaxel IV over 30 minutes on days 1, 8, and 15 of each remaining cycle or sacituzumab govitecan-hziy IV over 1-3 hours on days 1 and 8 of each remaining cycle. Treatment with nab-paclitaxel repeats every 28 days for up to 2 cycles (for patients with progressive disease) or until a total of 18 weeks of treatment have been completed (for patients who are intolerant of treatment) at the discretion of the treating physician. Treatment with sacituzumab govitecan-hziyl repeats every 21 days for up to 2 cycles (for patients with progressive disease) or until a total of 18 weeks of treatment have been completed (for patients who are intolerant of treatment) at the discretion of the treating physician.\n\nPART B: Patients are randomized to 1 of 2 arms.\n\nARM I: Patients receive personalized synthetic long peptide vaccine and poly-ICLC subcutaneously (SC) on days 1, 4, 8, 15, 22, 50, and 78 in the absence of disease progression or unacceptable toxicity. Patients also receive tremelimumab IV over 60 minutes on day 1 of cycles 1-4, durvalumab IV over 60 minutes on day 1 of each cycle and nab-paclitaxel IV over 30 minutes on days 1, 8, and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nARM II: Patients receive tremelimumab IV over 60 minutes on day 1 of cycles 1-4, durvalumab IV over 60 minutes on day 1 of each cycle and nab-paclitaxel IV over 30 minutes on days 1, 8, and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nPatients undergo tumor biopsy, blood and urine sample collection, computed tomography (CT) scan and magnetic resonance imaging (MRI) on study.\n\nAfter completion of study treatment, patients are followed up every 3 months for 1 year, then annually thereafter."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Anatomic Stage IV Breast Cancer AJCC v8",
+          "Invasive Breast Carcinoma",
+          "Metastatic Triple-Negative Breast Carcinoma"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "maskingDescription": "Treating physicians and patients will be blinded to the results of randomization until the start of Part B.",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 86,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+            "type": "EXPERIMENTAL",
+            "description": "See Detailed Description.",
+            "interventionNames": [
+              "Procedure: Biopsy Procedure",
+              "Procedure: Biospecimen Collection",
+              "Drug: Carboplatin",
+              "Procedure: Computed Tomography",
+              "Biological: Durvalumab",
+              "Drug: Gemcitabine Hydrochloride",
+              "Procedure: Magnetic Resonance Imaging",
+              "Drug: Nab-paclitaxel",
+              "Biological: Personalized Synthetic Long Peptide Vaccine",
+              "Drug: Poly ICLC",
+              "Biological: Sacituzumab Govitecan",
+              "Biological: Tremelimumab"
+            ]
+          },
+          {
+            "label": "Arm II (durvalumab, nab-paclitaxel)",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "See Detailed Description.",
+            "interventionNames": [
+              "Procedure: Biopsy Procedure",
+              "Procedure: Biospecimen Collection",
+              "Drug: Carboplatin",
+              "Procedure: Computed Tomography",
+              "Biological: Durvalumab",
+              "Drug: Gemcitabine Hydrochloride",
+              "Procedure: Magnetic Resonance Imaging",
+              "Drug: Nab-paclitaxel",
+              "Biological: Sacituzumab Govitecan",
+              "Biological: Tremelimumab"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Biopsy Procedure",
+            "description": "Undergo tumor biopsy",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "Biopsy",
+              "BIOPSY_TYPE",
+              "Bx"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Biospecimen Collection",
+            "description": "Undergo blood and urine sample collection",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "Biological Sample Collection",
+              "Biospecimen Collected",
+              "Sample Collection",
+              "Specimen Collection"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Carboplatin",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "Blastocarb",
+              "Carboplat",
+              "Carboplatin Hexal",
+              "Carboplatino",
+              "Carboplatinum",
+              "Carbosin",
+              "Carbosol",
+              "Carbotec",
+              "CBDCA",
+              "Displata",
+              "Ercar",
+              "JM-8",
+              "JM8",
+              "Nealorin",
+              "Novoplatinum",
+              "Paraplatin",
+              "Paraplatin AQ",
+              "Paraplatine",
+              "Platinwas",
+              "Ribocarbo"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Computed Tomography",
+            "description": "Undergo CT scan",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "CAT",
+              "CAT Scan",
+              "Computed Axial Tomography",
+              "Computerized Axial Tomography",
+              "Computerized axial tomography (procedure)",
+              "Computerized Tomography",
+              "Computerized Tomography (CT) scan",
+              "CT",
+              "CT Scan",
+              "Diagnostic CAT Scan",
+              "Diagnostic CAT Scan Service Type",
+              "tomography"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "Durvalumab",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "Imfinzi",
+              "Immunoglobulin G1, Anti-(Human Protein B7-H1) (Human Monoclonal MEDI4736 Heavy Chain), Disulfide with Human Monoclonal MEDI4736 Kappa-chain, Dimer",
+              "MEDI 4736",
+              "MEDI-4736",
+              "MEDI4736"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Gemcitabine Hydrochloride",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "dFdCyd",
+              "Difluorodeoxycytidine Hydrochloride",
+              "Gemcitabine HCI",
+              "Gemzar",
+              "LY 188011",
+              "LY-188011",
+              "LY188011"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "Magnetic Resonance Imaging",
+            "description": "Undergo MRI",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "Magnetic Resonance",
+              "Magnetic Resonance Imaging (MRI)",
+              "Magnetic resonance imaging (procedure)",
+              "Magnetic Resonance Imaging Scan",
+              "Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance",
+              "MR",
+              "MR Imaging",
+              "MRI",
+              "MRI Scan",
+              "MRIs",
+              "NMR Imaging",
+              "NMRI",
+              "Nuclear Magnetic Resonance Imaging",
+              "sMRI",
+              "Structural MRI"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Nab-paclitaxel",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "ABI 007",
+              "ABI-007",
+              "ABI007",
+              "Abraxane",
+              "Albumin-bound Paclitaxel",
+              "Albumin-Stabilized Nanoparticle Paclitaxel",
+              "Nanoparticle Albumin-bound Paclitaxel",
+              "Nanoparticle Paclitaxel",
+              "Naveruclif",
+              "Paclitaxel Albumin",
+              "paclitaxel albumin-stabilized nanoparticle formulation",
+              "Paclitaxel Nanoparticle Albumin-bound",
+              "Paclitaxel Protein-Bound",
+              "Protein-bound Paclitaxel"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "Personalized Synthetic Long Peptide Vaccine",
+            "description": "Given SC",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "Personalized SLP Vaccine",
+              "TSMA-based SLP Vaccine",
+              "TSMA-based Synthetic Long Peptide Vaccine",
+              "Tumor Specific Mutant Antigen-based Synthetic Long Peptide Vaccine"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Poly ICLC",
+            "description": "Given SC",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "Hiltonol",
+              "Poly I:Poly C with Poly-L-Lysine Stabilizer",
+              "poly-ICLC",
+              "PolyI:PolyC with Poly-L-Lysine Stabilizer",
+              "Polyinosinic-Polycytidylic Acid Stabilized with Polylysine and Carboxymethylcellulose",
+              "Polyriboinosinic-Polyribocytidylic Acid-Polylysine Carboxymethylcellulose",
+              "Stabilized Polyriboinosinic/Polyribocytidylic Acid"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "Sacituzumab Govitecan",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "hRS7-SN38 Antibody Drug Conjugate",
+              "IMMU 132",
+              "IMMU-132",
+              "IMMU132",
+              "RS7 SN38",
+              "RS7-SN38",
+              "RS7SN38",
+              "Sacituzumab Govitecan-hziy",
+              "Trodelvy"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "Tremelimumab",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Arm I (neoantigen vaccine, durvalumab, nab-paclitaxel)",
+              "Arm II (durvalumab, nab-paclitaxel)"
+            ],
+            "otherNames": [
+              "Anti-CTLA4 Human Monoclonal Antibody CP-675,206",
+              "CP 675",
+              "CP 675206",
+              "CP-675",
+              "CP-675,206",
+              "CP-675206",
+              "CP675",
+              "CP675206",
+              "Imjudo",
+              "Ticilimumab",
+              "Tremelimumab-actl"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Progression-free survival (PFS)",
+            "description": "The median PFS in each arm and their 80% confidence intervals will be assessed using Kaplan-Meier product limit methods and compared by log-rank test.",
+            "timeFrame": "From initiation of Part B to progression or death, assessed at 6 and 12 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Incidence of adverse events",
+            "description": "Will be assessed using the National Cancer Institute Common Terminology Criteria for Adverse Events version 5. The number and percentage of subjects experiencing each type of adverse event will be tabulated by severity, and relationship to treatment. If appropriate, confidence intervals will be used to characterize the precision of the estimate.",
+            "timeFrame": "Up to day 22"
+          },
+          {
+            "measure": "Clinical response rate",
+            "description": "Will be assessed by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1. Will be assessed and their 95% confidence intervals will be calculated.",
+            "timeFrame": "Up to 52 weeks"
+          },
+          {
+            "measure": "Clinical benefit rate (complete response, partial response, stable disease)",
+            "description": "Will be assessed by RECIST 1.1. Will be assessed and their 95% confidence intervals will be calculated.",
+            "timeFrame": "Up to 52 weeks"
+          },
+          {
+            "measure": "Overall survival (OS)",
+            "description": "The median OS and 95% confidence interval will also be assessed using Kaplan-Meier product limit methods and compared by log-rank test.",
+            "timeFrame": "Up to 52 weeks"
+          }
+        ],
+        "otherOutcomes": [
+          {
+            "measure": "Immune response",
+            "description": "Immunogenicity biomarkers in both tumor tissues and peripheral blood will be summarized using descriptive statistics at each time point. The differences over time as well as the between-group differences will be compared using linear mixed model for repeated measurement data, followed by ad-hoc multiple comparisons for the specific differences of interest. The association between clinical response and baseline biomarkers (tumor infiltrating lymphocyte \\[TIL\\] percentage, expression of PD-L1 on TILs and tumor, triple negative breast cancer subtype as determined by gene expression, immune signature as determined by gene expression, mutational landscape, presence and phenotype of neoantigen-specific T cells, etc.) will also be explored by comparing the differences in theses biomarkers between responders versus non-responders using t-test, Mann-Whitney rank-sum test, or Fisher's exact test as appropriate.",
+            "timeFrame": "Up to 52 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have a histologically confirmed diagnosis of metastatic invasive triple negative breast cancer. Patients with clinical and/or radiologic suspicion of metastatic TNBC can be consented prior to this confirmation.\n* Estrogen receptor (ER) and progesterone receptor (PR) less than Allred score of 3 OR less than 1% positive staining cells in the invasive component of the tumor.\n* HER2 negative by fluorescence in situ hybridization (FISH) or immunohistochemistry (IHC) staining 0 or 1+.\n* PD-L1 negative by a Clinical Laboratory Improvement Act (CLIA) approved laboratory using compatible assays appropriate for treatment decisions.\n* Patients may have measurable or evaluable disease.\n* Patients must be willing to undergo biopsy and have accessible lesions for a new biopsy, or they must have sufficient tissue available from a biopsy performed for standard of care (specifications below). If patient does not have enough archived tissue available, a new biopsy is required. A tumor specimen obtained from relapsed primary, metastatic, or locally advanced sites of disease (if applicable) must be submitted. Acceptable samples include core needle biopsies for deep tumor tissue (minimum 4 cores) or excisional, incisional, punch, or forceps biopsies for cutaneous, subcutaneous, or mucosal lesions. Formalin-fixed, paraffin-embedded (FFPE) tumor specimens in paraffin blocks are preferred; FFPE tumor tissue sections on slides may be provided if sufficient material (15 x 10\u03bc, unstained) is available. Fine-needle aspiration, brushing, cell pellet from pleural effusion, bone metastases, and lavage samples are not acceptable.\n* No prior therapy for metastatic TNBC. Patients who have received taxane-based adjuvant therapy are required to have a disease-free interval of at least 12 months after completion of taxane therapy.\n* Age \\>= 18 years. Because no dosing or adverse event data are currently available on the use of durvalumab (MEDI4736) and tremelimumab in combination with neoantigen vaccine in patients \\< 18 years of age, children are excluded from this study, but will be eligible for future pediatric trials\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 1 (Karnofsky \\>= 60%).\n* Body weight \\> 30 kg.\n* Must have a life expectancy of at least 12 weeks.\n* Absolute neutrophil count \\>= 1,500/mcL.\n* Platelets \\>= 100,000/mcL.\n* Hemoglobin \\>= 9.0 g/dL.\n* Serum bilirubin =\\< 1.5 x institutional upper limit of normal.\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase \\[SGPT\\]) =\\< 2.5 x institutional upper limit of normal unless liver metastases are present, in which case it must be =\\< 5 x institutional upper limit of normal.\n* Calculated creatinine clearance \\> 40 mL/min by the Cockcroft-Gault formula or by 24-hour urine collection for determination of creatinine clearance.\n* Evidence of post-menopausal status or negative urinary or serum pregnancy test for female pre-menopausal patients. Women will be considered post-menopausal if they have been amenorrheic for 12 months without an alternative medical cause. The following age-specific requirements apply:\n\n  * Women \\< 50 years of age would be considered post-menopausal if they have been amenorrheic for 12 months or more following cessation of exogenous hormonal treatments and if they have luteinizing hormone and follicle-stimulating hormone levels in the post-menopausal range for the institution or underwent surgical sterilization (bilateral oophorectomy or hysterectomy).\n  * Women \\>= 50 years of age would be considered post-menopausal if they have been amenorrheic for 12 months or more following cessation of all exogenous hormonal treatments, had radiation-induced menopause with last menses \\> 1 year ago, had chemotherapy-induced menopause with last menses \\> 1 year ago, or underwent surgical sterilization (bilateral oophorectomy, bilateral salpingectomy or hysterectomy).\n* The effects of durvalumab (MEDI4736) and tremelimumab and neoantigen vaccine on the developing human fetus are unknown. For this reason and because these agents may be teratogenic, women of child-bearing potential must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and through 180 days after completion of durvalumab (MEDI4736) and tremelimumab. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately.\n* Patient is willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow up.\n* Human immunodeficiency virus (HIV)-positive patients are eligible provided they have a negative viral load, CD4 count \\> 250, and are on a stable antiretroviral regimen.\n* Ability to understand and the willingness to sign a written informed consent document. Patients with impaired decision-making capacity who have a close caregiver or legal guardian are also eligible with the consent of the caregiver/guardian.\n\nExclusion Criteria:\n\n* Patients who are not considered to be candidates for carboplatin + gemcitabine for first line therapy of their metastatic triple negative breast cancer are not eligible.\n* Patients who have had chemotherapy, radiotherapy (to more than 30% of the bone marrow), or biologic therapy within 30 days (42 days for nitrosoureas or mitomycin C) prior to entering the study.\n* Patients who have received prior immunotherapy for metastatic disease.\n* Patients who have not recovered from grade \\>= 2 adverse events due to prior anti-cancer therapy with the exception of alopecia, vitiligo, and the laboratory values defined in the inclusion criteria.\n\n  * Patients with grade \\>= 2 neuropathy will be evaluated on a case-by-case basis after consultation with the study physician.\n* Patients with grade \\>= 2 endocrinological adverse events (AEs), (e.g., hypothyroidism, adrenal insufficiency, hypopituitarism, or diabetes mellitus), must have been on a stable dose of supplemental therapy for at least 2 weeks before screening to be eligible for this study, and the endocrinological AE must be stable in the opinion of the treating physician.\n* Patients who are receiving any other investigational agents or who have received an investigational agent within the last 30 days.\n* Receipt of live attenuated vaccination within 6 months prior to study entry or within 30 days of receiving durvalumab (MEDI4736) and tremelimumab.\n\n  * Note: Patients, if enrolled, should not receive live vaccine whilst receiving study treatment and up to 30 days after the last dose of study treatment.\n* Major surgical procedure within 28 days prior to the first dose of durvalumab (MEDI4736) and tremelimumab. Local surgery of isolated lesions for palliative intent is acceptable.\n* Current or prior use of immunosuppressive medication within 14 days before the first dose of durvalumab (MEDI4736) or tremelimumab. The following are exceptions to this criterion:\n\n  * Intranasal, inhaled, topical steroids or local steroid injections (e.g. intra-articular injection)\n  * Systemic corticosteroids at physiological doses which are not to exceed 10 mg/day of prednisone or an equivalent corticosteroid\n  * Steroids as premedication for hypersensitivity reactions (e.g. CT scan premedication)\n  * Steroids for symptoms from brain metastases as defined.\n* Spinal cord compression or active brain metastases and/or carcinomatous meningitis. Subjects who have had brain metastases resected or have received radiation therapy ending at least 4 weeks prior to registration are eligible if they meet all of the following criteria:\n\n  * Residual neurological symptoms have resolved to grade =\\< 2\n  * On stable doses of dexamethasone, if applicable and if acceptable in the opinion of the treating physician\n  * Follow-up MRI performed after surgery or completion of radiation therapy and prior to registration shows no new lesions.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to durvalumab (MEDI4736) and tremelimumab. Known allergy, or history of serious adverse reaction to vaccines, such as anaphylaxis, hives or respiratory difficulty.\n* Mean QT interval corrected for heart rate using Fridericia's formula (QTcF) \\>= 470 ms calculated from 3 electrocardiograms (ECGs) (within 15 minutes at 5 \\[+/- 3\\] minutes apart).\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, interstitial lung disease, serious chronic gastrointestinal conditions associated with diarrhea, evidence of any acute or chronic viral illness or disease, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant women are excluded from this study because durvalumab (MEDI4736) and tremelimumab has the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with durvalumab (MEDI4736) and tremelimumab, breastfeeding should be discontinued if the mother is treated with durvalumab (MEDI4736) and tremelimumab. These potential risks may also apply to other agents used in this study. A negative serum pregnancy test is required no more than 7 days before study entry.\n* Active autoimmune disease that has required systemic treatment in the past 2 years (i.e. with use of disease modifying agents, corticosteroids, or immunosuppressive drugs). Replacement therapy (e.g. thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) is not considered a form of systemic treatment.\n* History of pneumonitis or interstitial lung disease.\n* History of active primary immunodeficiency.\n* Active infection including tuberculosis (clinical evaluation that includes clinical history, physical examination, and radiographic findings, and tuberculosis \\[TB\\] testing in line with local practice), hepatitis B (known positive hepatitis B virus \\[HBV\\] surface antigen \\[HBsAg\\] result), or hepatitis C. Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[anti-HBc\\] and absence of HBsAg) are eligible. Patients positive for hepatitis C (HCV) antibody are eligible only if polymerase chain reaction is negative for HCV ribonucleic acid (RNA).\n* The patient with a previous history of non-breast malignancy is eligible for this study only if the patient meets the following criteria for a cancer survivor. A cancer survivor is eligible provided the following criteria are met:\n\n  * Patient has undergone potentially curative therapy for all prior malignancies.\n  * Patients have been considered disease free for at least 1 year (with the exception of basal cell or squamous cell carcinoma of the skin or carcinoma-in-situ of the cervix).\n* Patients with a strong likelihood of non-adherence (such as difficulties in adhering to follow-up schedule due to geographic distance from the treatment facility) should not be knowingly registered.\n* History of allogeneic organ transplantation.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "William E Gillanders",
+            "affiliation": "Yale University Cancer Center LAO",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "UC Irvine Health/Chao Family Comprehensive Cancer Center",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "city": "Orange",
+            "state": "California",
+            "zip": "92868",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.78779,
+              "lon": -117.85311
+            }
+          },
+          {
+            "facility": "University of California Davis Comprehensive Cancer Center",
+            "status": "TERMINATED",
+            "city": "Sacramento",
+            "state": "California",
+            "zip": "95817",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.58157,
+              "lon": -121.4944
+            }
+          },
+          {
+            "facility": "UCHealth University of Colorado Hospital",
+            "status": "RECRUITING",
+            "city": "Aurora",
+            "state": "Colorado",
+            "zip": "80045",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "720-848-0650"
+              },
+              {
+                "name": "Jennifer R. Diamond",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.72943,
+              "lon": -104.83192
+            }
+          },
+          {
+            "facility": "Smilow Cancer Hospital Care Center at Saint Francis",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "city": "Hartford",
+            "state": "Connecticut",
+            "zip": "06105",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.76371,
+              "lon": -72.68509
+            }
+          },
+          {
+            "facility": "Yale University",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "city": "New Haven",
+            "state": "Connecticut",
+            "zip": "06520",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.30815,
+              "lon": -72.92816
+            }
+          },
+          {
+            "facility": "UM Sylvester Comprehensive Cancer Center at Aventura",
+            "status": "RECRUITING",
+            "city": "Aventura",
+            "state": "Florida",
+            "zip": "33180",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "954-461-2180"
+              },
+              {
+                "name": "Alejandra T. Perez",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 25.95648,
+              "lon": -80.13921
+            }
+          },
+          {
+            "facility": "UM Sylvester Comprehensive Cancer Center at Coral Gables",
+            "status": "RECRUITING",
+            "city": "Coral Gables",
+            "state": "Florida",
+            "zip": "33146",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "305-243-2647"
+              },
+              {
+                "name": "Alejandra T. Perez",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 25.72149,
+              "lon": -80.26838
+            }
+          },
+          {
+            "facility": "UM Sylvester Comprehensive Cancer Center at Deerfield Beach",
+            "status": "RECRUITING",
+            "city": "Deerfield Beach",
+            "state": "Florida",
+            "zip": "33442",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "305-243-2647"
+              },
+              {
+                "name": "Alejandra T. Perez",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 26.31841,
+              "lon": -80.09977
+            }
+          },
+          {
+            "facility": "University of Miami Miller School of Medicine-Sylvester Cancer Center",
+            "status": "RECRUITING",
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33136",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "305-243-2647"
+              },
+              {
+                "name": "Alejandra T. Perez",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 25.77427,
+              "lon": -80.19366
+            }
+          },
+          {
+            "facility": "UM Sylvester Comprehensive Cancer Center at Kendall",
+            "status": "RECRUITING",
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33176",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "305-243-2647"
+              },
+              {
+                "name": "Alejandra T. Perez",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 25.77427,
+              "lon": -80.19366
+            }
+          },
+          {
+            "facility": "UM Sylvester Comprehensive Cancer Center at Plantation",
+            "status": "RECRUITING",
+            "city": "Plantation",
+            "state": "Florida",
+            "zip": "33324",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "305-243-2647"
+              },
+              {
+                "name": "Alejandra T. Perez",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 26.13421,
+              "lon": -80.23184
+            }
+          },
+          {
+            "facility": "Moffitt Cancer Center-International Plaza",
+            "status": "RECRUITING",
+            "city": "Tampa",
+            "state": "Florida",
+            "zip": "33607",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-679-0775",
+                "email": "ClinicalTrials@moffitt.org"
+              },
+              {
+                "name": "Aixa E. Soyano",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 27.94752,
+              "lon": -82.45843
+            }
+          },
+          {
+            "facility": "Moffitt Cancer Center - McKinley Campus",
+            "status": "RECRUITING",
+            "city": "Tampa",
+            "state": "Florida",
+            "zip": "33612",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-679-0775",
+                "email": "ClinicalTrials@moffitt.org"
+              },
+              {
+                "name": "Aixa E. Soyano",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 27.94752,
+              "lon": -82.45843
+            }
+          },
+          {
+            "facility": "Moffitt Cancer Center",
+            "status": "RECRUITING",
+            "city": "Tampa",
+            "state": "Florida",
+            "zip": "33612",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-679-0775",
+                "email": "ClinicalTrials@moffitt.org"
+              },
+              {
+                "name": "Aixa E. Soyano",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 27.94752,
+              "lon": -82.45843
+            }
+          },
+          {
+            "facility": "Moffitt Cancer Center at Wesley Chapel",
+            "status": "RECRUITING",
+            "city": "Wesley Chapel",
+            "state": "Florida",
+            "zip": "33544",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-679-0775",
+                "email": "ClinicalTrials@moffitt.org"
+              },
+              {
+                "name": "Aixa E. Soyano",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 28.23973,
+              "lon": -82.32787
+            }
+          },
+          {
+            "facility": "Johns Hopkins University/Sidney Kimmel Cancer Center",
+            "status": "RECRUITING",
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "410-955-8804",
+                "email": "jhcccro@jhmi.edu"
+              },
+              {
+                "name": "Cesar A. Santa-Maria",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.29038,
+              "lon": -76.61219
+            }
+          },
+          {
+            "facility": "Siteman Cancer Center at Saint Peters Hospital",
+            "status": "RECRUITING",
+            "city": "City of Saint Peters",
+            "state": "Missouri",
+            "zip": "63376",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-600-3606",
+                "email": "info@siteman.wustl.edu"
+              },
+              {
+                "name": "William E. Gillanders",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 38.80033,
+              "lon": -90.62651
+            }
+          },
+          {
+            "facility": "Siteman Cancer Center at West County Hospital",
+            "status": "RECRUITING",
+            "city": "Creve Coeur",
+            "state": "Missouri",
+            "zip": "63141",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-600-3606",
+                "email": "info@siteman.wustl.edu"
+              },
+              {
+                "name": "William E. Gillanders",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 38.66089,
+              "lon": -90.42262
+            }
+          },
+          {
+            "facility": "Washington University School of Medicine",
+            "status": "RECRUITING",
+            "city": "St Louis",
+            "state": "Missouri",
+            "zip": "63110",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-600-3606",
+                "email": "info@siteman.wustl.edu"
+              },
+              {
+                "name": "William E. Gillanders",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 38.62727,
+              "lon": -90.19789
+            }
+          },
+          {
+            "facility": "Siteman Cancer Center-South County",
+            "status": "RECRUITING",
+            "city": "St Louis",
+            "state": "Missouri",
+            "zip": "63129",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-600-3606",
+                "email": "info@siteman.wustl.edu"
+              },
+              {
+                "name": "William E. Gillanders",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 38.62727,
+              "lon": -90.19789
+            }
+          },
+          {
+            "facility": "Siteman Cancer Center at Christian Hospital",
+            "status": "RECRUITING",
+            "city": "St Louis",
+            "state": "Missouri",
+            "zip": "63136",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-600-3606",
+                "email": "info@siteman.wustl.edu"
+              },
+              {
+                "name": "William E. Gillanders",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 38.62727,
+              "lon": -90.19789
+            }
+          },
+          {
+            "facility": "Dartmouth Hitchcock Medical Center/Dartmouth Cancer Center",
+            "status": "SUSPENDED",
+            "city": "Lebanon",
+            "state": "New Hampshire",
+            "zip": "03756",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.64229,
+              "lon": -72.25176
+            }
+          },
+          {
+            "facility": "NYP/Weill Cornell Medical Center",
+            "status": "RECRUITING",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10065",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "212-746-1848"
+              },
+              {
+                "name": "Massimo Cristofanilli",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 40.71427,
+              "lon": -74.00597
+            }
+          },
+          {
+            "facility": "Wake Forest University at Clemmons",
+            "status": "RECRUITING",
+            "city": "Clemmons",
+            "state": "North Carolina",
+            "zip": "27012",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "888-716-9259"
+              },
+              {
+                "name": "Emily H. Douglas",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 36.02153,
+              "lon": -80.382
+            }
+          },
+          {
+            "facility": "Wake Forest University Health Sciences",
+            "status": "RECRUITING",
+            "city": "Winston-Salem",
+            "state": "North Carolina",
+            "zip": "27157",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "336-713-6771"
+              },
+              {
+                "name": "Emily H. Douglas",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 36.09986,
+              "lon": -80.24422
+            }
+          },
+          {
+            "facility": "Ohio State University Comprehensive Cancer Center",
+            "status": "RECRUITING",
+            "city": "Columbus",
+            "state": "Ohio",
+            "zip": "43210",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "800-293-5066",
+                "email": "Jamesline@osumc.edu"
+              },
+              {
+                "name": "Kai C. Johnson",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.96118,
+              "lon": -82.99879
+            }
+          },
+          {
+            "facility": "University of Oklahoma Health Sciences Center",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "zip": "73104",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.46756,
+              "lon": -97.51643
+            }
+          },
+          {
+            "facility": "UPMC Hillman Cancer Center",
+            "status": "RECRUITING",
+            "city": "Pittsburgh",
+            "state": "Pennsylvania",
+            "zip": "15232",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "412-647-8073"
+              },
+              {
+                "name": "Julia Foldi",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 40.44062,
+              "lon": -79.99589
+            }
+          },
+          {
+            "facility": "University of Texas Medical Branch",
+            "status": "RECRUITING",
+            "city": "Galveston",
+            "state": "Texas",
+            "zip": "77555-0565",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "409-772-1950",
+                "email": "clinical.research@utmb.edu"
+              },
+              {
+                "name": "Avi B. Markowitz",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 29.30135,
+              "lon": -94.7977
+            }
+          },
+          {
+            "facility": "VCU Massey Comprehensive Cancer Center",
+            "status": "RECRUITING",
+            "city": "Richmond",
+            "state": "Virginia",
+            "zip": "23298",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Site Public Contact",
+                "role": "CONTACT",
+                "phone": "804-628-6430",
+                "email": "CTOclinops@vcu.edu"
+              },
+              {
+                "name": "Masey M. Ross",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 37.55376,
+              "lon": -77.46026
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES",
+        "description": "NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page.",
+        "url": "https://grants.nih.gov/policy/sharing.htm"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D064726",
+            "term": "Triple Negative Breast Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D001943",
+            "term": "Breast Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D001941",
+            "term": "Breast Diseases"
+          },
+          {
+            "id": "D012871",
+            "term": "Skin Diseases"
+          },
+          {
+            "id": "D017437",
+            "term": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001706",
+            "term": "Biopsy"
+          },
+          {
+            "id": "D013048",
+            "term": "Specimen Handling"
+          },
+          {
+            "id": "D016190",
+            "term": "Carboplatin"
+          },
+          {
+            "id": "C000613593",
+            "term": "durvalumab"
+          },
+          {
+            "id": "D007074",
+            "term": "Immunoglobulin G"
+          },
+          {
+            "id": "D004220",
+            "term": "Disulfides"
+          },
+          {
+            "id": "D000093542",
+            "term": "Gemcitabine"
+          },
+          {
+            "id": "D009682",
+            "term": "Magnetic Resonance Spectroscopy"
+          },
+          {
+            "id": "C520255",
+            "term": "130-nm albumin-bound paclitaxel"
+          },
+          {
+            "id": "D000068196",
+            "term": "Albumin-Bound Paclitaxel"
+          },
+          {
+            "id": "D013660",
+            "term": "Taxes"
+          },
+          {
+            "id": "C019531",
+            "term": "poly ICLC"
+          },
+          {
+            "id": "C000608132",
+            "term": "sacituzumab govitecan"
+          },
+          {
+            "id": "C520704",
+            "term": "tremelimumab"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003581",
+            "term": "Cytodiagnosis"
+          },
+          {
+            "id": "D003584",
+            "term": "Cytological Techniques"
+          },
+          {
+            "id": "D019411",
+            "term": "Clinical Laboratory Techniques"
+          },
+          {
+            "id": "D019937",
+            "term": "Diagnostic Techniques and Procedures"
+          },
+          {
+            "id": "D003933",
+            "term": "Diagnosis"
+          },
+          {
+            "id": "D003949",
+            "term": "Diagnostic Techniques, Surgical"
+          },
+          {
+            "id": "D013514",
+            "term": "Surgical Procedures, Operative"
+          },
+          {
+            "id": "D008919",
+            "term": "Investigative Techniques"
+          },
+          {
+            "id": "D056831",
+            "term": "Coordination Complexes"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D007132",
+            "term": "Immunoglobulin Isotypes"
+          },
+          {
+            "id": "D000906",
+            "term": "Antibodies"
+          },
+          {
+            "id": "D007136",
+            "term": "Immunoglobulins"
+          },
+          {
+            "id": "D007162",
+            "term": "Immunoproteins"
+          },
+          {
+            "id": "D001798",
+            "term": "Blood Proteins"
+          },
+          {
+            "id": "D011506",
+            "term": "Proteins"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D012712",
+            "term": "Serum Globulins"
+          },
+          {
+            "id": "D005916",
+            "term": "Globulins"
+          },
+          {
+            "id": "D013440",
+            "term": "Sulfides"
+          },
+          {
+            "id": "D000838",
+            "term": "Anions"
+          },
+          {
+            "id": "D007477",
+            "term": "Ions"
+          },
+          {
+            "id": "D004573",
+            "term": "Electrolytes"
+          },
+          {
+            "id": "D007287",
+            "term": "Inorganic Chemicals"
+          },
+          {
+            "id": "D006862",
+            "term": "Hydrogen Sulfide"
+          },
+          {
+            "id": "D013457",
+            "term": "Sulfur Compounds"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          },
+          {
+            "id": "D003841",
+            "term": "Deoxycytidine"
+          },
+          {
+            "id": "D003562",
+            "term": "Cytidine"
+          },
+          {
+            "id": "D011741",
+            "term": "Pyrimidine Nucleosides"
+          },
+          {
+            "id": "D011743",
+            "term": "Pyrimidines"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D013057",
+            "term": "Spectrum Analysis"
+          },
+          {
+            "id": "D002623",
+            "term": "Chemistry Techniques, Analytical"
+          },
+          {
+            "id": "D017239",
+            "term": "Paclitaxel"
+          },
+          {
+            "id": "D043823",
+            "term": "Taxoids"
+          },
+          {
+            "id": "D043822",
+            "term": "Cyclodecanes"
+          },
+          {
+            "id": "D003516",
+            "term": "Cycloparaffins"
+          },
+          {
+            "id": "D006840",
+            "term": "Hydrocarbons, Alicyclic"
+          },
+          {
+            "id": "D006844",
+            "term": "Hydrocarbons, Cyclic"
+          },
+          {
+            "id": "D006838",
+            "term": "Hydrocarbons"
+          },
+          {
+            "id": "D004224",
+            "term": "Diterpenes"
+          },
+          {
+            "id": "D013729",
+            "term": "Terpenes"
+          },
+          {
+            "id": "D000418",
+            "term": "Albumins"
+          },
+          {
+            "id": "D004467",
+            "term": "Economics"
+          },
+          {
+            "id": "D004472",
+            "term": "Health Care Economics and Organizations"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628746"
+}

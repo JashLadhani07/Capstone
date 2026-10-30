@@ -1,0 +1,339 @@
+{
+  "nct_id": "NCT05334004",
+  "title": "A Phase I Study of Intra-anally Administered Lopinavir/Ritonavir in People Living With HIV (PLWH) With High-Grade Anal Intraepithelial Neoplasia (AIN 2/3)",
+  "sponsor": "University of Wisconsin, Madison",
+  "phase": "PHASE1",
+  "status": "RECRUITING",
+  "conditions": [
+    "High-Grade Anal Intraepithelial Neoplasia"
+  ],
+  "interventions": [
+    "Lopinavir / Ritonavir"
+  ],
+  "primary_outcome": "Maximum Tolerated Dose (MTD) as determined by the number of participants at each dose level in the escalation cohorts who experienced a dose-limiting toxicity (DLT)",
+  "secondary_outcomes": [
+    "Number of Participants in the Expansion Cohort Who Experience Regression of AIN2/3 Determined by Pathology",
+    "Number of Participants in the Expansion Cohort Determined clear of HPV by PCR test",
+    "Number of Tissue Samples with evidence of apoptosis measured by presence of Activated Caspase 3",
+    "Number of Tissue Samples with evidence of autophagy measured by presence of LC3\u03b2 and p62",
+    "Number of Tissue Samples with evidence of cellular proliferation measured by presence of Ki-67",
+    "Number of Tissue Samples with evidence of HPV positivity measured by presence of p16",
+    "Number of Tissue Samples with p53 expression"
+  ],
+  "start_date": "2023-12-19",
+  "completion_date": "2027-06",
+  "results_posted": false,
+  "enrollment": 21,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05334004",
+        "orgStudyIdInfo": {
+          "id": "2023-0052"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "SMPH/SURGERY/COLON RECT",
+            "type": "OTHER",
+            "domain": "UW Madison"
+          },
+          {
+            "id": "Protocol Version 2/24/2026",
+            "type": "OTHER",
+            "domain": "UW Madison"
+          },
+          {
+            "id": "2022-0468 [former]",
+            "type": "OTHER",
+            "domain": "UW Madison"
+          },
+          {
+            "id": "UW22123",
+            "type": "OTHER",
+            "domain": "UWCCC ID"
+          }
+        ],
+        "organization": {
+          "fullName": "University of Wisconsin, Madison",
+          "class": "OTHER"
+        },
+        "briefTitle": "Lopinavir/Ritonavir in PLWH With High-Grade AIN",
+        "officialTitle": "A Phase I Study of Intra-anally Administered Lopinavir/Ritonavir in People Living With HIV (PLWH) With High-Grade Anal Intraepithelial Neoplasia (AIN 2/3)"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-05",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2023-12-19",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-06",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-06",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2022-04-01",
+        "studyFirstSubmitQcDate": "2022-04-11",
+        "studyFirstPostDateStruct": {
+          "date": "2022-04-19",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-05-12",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-05-15",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "University of Wisconsin, Madison",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Wisconsin Partnership Program",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study is being done to assess the safety of lopinavir/ritonavir in patients with PLWH with AIN. 30 participants will be recruited and can expect to be on active study for approximately 3 months and long term follow up for 40 weeks.",
+        "detailedDescription": "This is a Phase I modified 3 + 3 design, in which the maximum tolerated dose (MTD) will be identified. The 3 + 3 dose escalation will consist of 6 dose levels (18 participants; planned escalation described in arms below) in combination with variation in dosing schedules of the drug lopinavir/ritonavir. This design also allows for some possible intermediate doses to be examined if dose-limiting toxicities (DLTs) occur and de-escalation is needed.\n\nAn expansion cohort of 12 participants will occur at the MTD. Once the MTD is determined, then secondary outcomes will be evaluated.\n\nPrimary Objective\n\n* To evaluate the safety and tolerability of intra-anal administration of lopinavir/ritonavir, administered via suppository with 3 different schedules, in PLWH with high-grade anal intraepithelial neoplasia (HGAIN) (AIN 2/3).\n\nSecondary Objectives\n\n* To measure the effect of intra-anal topical lopinavir/ritonavir administration\n* To evaluate clearance of human papillomavirus (HPV)\n* To elucidate the mechanism of action of protease inhibitors"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "High-Grade Anal Intraepithelial Neoplasia"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "designInfo": {
+          "allocation": "NON_RANDOMIZED",
+          "interventionModel": "SEQUENTIAL",
+          "interventionModelDescription": "modified 3+3 design with increasing concentrations of study drug and thorough assessment of potential toxicities.",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 21,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Cohort 1: Lopinavir/Ritonavir 200mg/50mg (2 cycles)",
+            "type": "EXPERIMENTAL",
+            "description": "Cohort 1 will receive two 5-day cycles of the low dose of the suppository (Lopinavir/Ritonavir (200mg/50mg)) in Weeks 0 and 2",
+            "interventionNames": [
+              "Drug: Lopinavir / Ritonavir"
+            ]
+          },
+          {
+            "label": "Cohort 1b: Lopinavir/Ritonavir 200mg/50mg (3 cycles)",
+            "type": "EXPERIMENTAL",
+            "description": "Cohort 1b will receive three 5-day cycles of the low dose of the suppository (Lopinavir/Ritonavir (200mg/50mg)) in Weeks 0, 2, and 4 if Cohort 2 has one dose-limiting toxicity (DLT).",
+            "interventionNames": [
+              "Drug: Lopinavir / Ritonavir"
+            ]
+          },
+          {
+            "label": "Cohort 2: Lopinavir/Ritonavir 400mg/100mg (2 cycles)",
+            "type": "EXPERIMENTAL",
+            "description": "Cohort 2 will receive two 5-day cycles of the higher dose of the suppository (Lopinavir/Ritonavir (400mg/100mg)) in Weeks 0 and 2, if Cohort 1 dose is safe.",
+            "interventionNames": [
+              "Drug: Lopinavir / Ritonavir"
+            ]
+          },
+          {
+            "label": "Cohort 2b: Lopinavir/Ritonavir 400mg/100mg (3 cycles)",
+            "type": "EXPERIMENTAL",
+            "description": "Cohort 2b will receive three 5-day cycle of the higher dose of the suppository (Lopinavir/Ritonavir (400mg/100mg)) in Weeks 0, 2 and 4 if Cohort 3 has one DLT.",
+            "interventionNames": [
+              "Drug: Lopinavir / Ritonavir"
+            ]
+          },
+          {
+            "label": "Cohort 3: Lopinavir/Ritonavir 600mg/150mg (2 cycles)",
+            "type": "EXPERIMENTAL",
+            "description": "Cohort 3 will receive two 5-day cycles of the highest dose of the suppository (Lopinavir/Ritonavir (600mg/150mg)) in Weeks 0 and 2, if the Cohort 2 dose is safe.",
+            "interventionNames": [
+              "Drug: Lopinavir / Ritonavir"
+            ]
+          },
+          {
+            "label": "Cohort 4: Lopinavir/Ritonavir 600mg/150mg (3 cycles)",
+            "type": "EXPERIMENTAL",
+            "description": "Cohort 4 will receive three 5-day cycles of the highest dose of the suppository (Lopinavir/Ritonavir (600mg/150mg)) in Weeks 0, 2, and 4, if the Cohort 3 dose is safe.",
+            "interventionNames": [
+              "Drug: Lopinavir / Ritonavir"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Lopinavir / Ritonavir",
+            "description": "Human Immunodeficiency Virus (HIV) antiviral, given via suppository",
+            "armGroupLabels": [
+              "Cohort 1: Lopinavir/Ritonavir 200mg/50mg (2 cycles)",
+              "Cohort 1b: Lopinavir/Ritonavir 200mg/50mg (3 cycles)",
+              "Cohort 2: Lopinavir/Ritonavir 400mg/100mg (2 cycles)",
+              "Cohort 2b: Lopinavir/Ritonavir 400mg/100mg (3 cycles)",
+              "Cohort 3: Lopinavir/Ritonavir 600mg/150mg (2 cycles)",
+              "Cohort 4: Lopinavir/Ritonavir 600mg/150mg (3 cycles)"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Maximum Tolerated Dose (MTD) as determined by the number of participants at each dose level in the escalation cohorts who experienced a dose-limiting toxicity (DLT)",
+            "description": "The MTD is the highest explored dose of lopinavir/ritonavir is the dose at which less than 33% of patients experienced a DLT. A DLT is defined as any toxicity at least possibly related to ritonavir/lopinavir with a drug-related Grade greater than or equal to 3.",
+            "timeFrame": "up to 5 weeks"
+          },
+          {
+            "measure": "Rate of Grade 3 or above Toxicities in any Organ System in the Escalation Cohorts",
+            "description": "Grade 3 or above as delineated in Common Terminology Criteria for Adverse Events v 5.0 (CTCAE)",
+            "timeFrame": "up to 5 weeks"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Number of Participants in the Expansion Cohort Who Experience Regression of AIN2/3 Determined by Pathology",
+            "description": "Efficacy of intra-anal topical lopinavir/ritonavir administration determined by pathology, based on the regression of AIN2/3 at study weeks 16, 28, and 40. Regression defined as either AIN1 or no AIN lesion detected by High resolution anoscopy (HRA)/biopsy and anal cytology. Down grade of disease from AIN2/3 to AIN1 or normal.",
+            "timeFrame": "week 12, week 40"
+          },
+          {
+            "measure": "Number of Participants in the Expansion Cohort Determined clear of HPV by PCR test",
+            "description": "HPV clearance determined by quantitative polymerase chain reaction (PCR) test.",
+            "timeFrame": "week 12, week 40"
+          },
+          {
+            "measure": "Number of Tissue Samples with evidence of apoptosis measured by presence of Activated Caspase 3",
+            "description": "Mechanism of action of protease inhibitors investigated with biomarker studies (immunohistochemistry and Immunofluorescence of tissue). Samples with activated caspase 3 indicate evidence of apoptosis.",
+            "timeFrame": "week 12, week 40"
+          },
+          {
+            "measure": "Number of Tissue Samples with evidence of autophagy measured by presence of LC3\u03b2 and p62",
+            "description": "Mechanism of action of protease inhibitors investigated with biomarker studies (immunohistochemistry and Immunofluorescence of tissue). Samples with LC3\u03b2 and p62 indicate evidence of autophagy.",
+            "timeFrame": "week 12, week 40"
+          },
+          {
+            "measure": "Number of Tissue Samples with evidence of cellular proliferation measured by presence of Ki-67",
+            "description": "Mechanism of action of protease inhibitors investigated with biomarker studies (immunohistochemistry and Immunofluorescence of tissue). Samples with Ki-67 indicate evidence of cellular proliferation.",
+            "timeFrame": "week 12, week 40"
+          },
+          {
+            "measure": "Number of Tissue Samples with evidence of HPV positivity measured by presence of p16",
+            "description": "Mechanism of action of protease inhibitors investigated with biomarker studies (immunohistochemistry and Immunofluorescence of tissue). Samples with p16 indicate evidence of HPV positivity.",
+            "timeFrame": "week 12, week 40"
+          },
+          {
+            "measure": "Number of Tissue Samples with p53 expression",
+            "description": "Mechanism of action of protease inhibitors investigated with biomarker studies (immunohistochemistry and Immunofluorescence of tissue).",
+            "timeFrame": "week 12, week 40"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* willing to provide informed consent\n* greater than or equal to 18 years of age\n* Diagnosis of biopsy-confirmed HGAIN\n* willing to comply with all study procedures\n\nExclusion Criteria:\n\n* Diagnosis of low-grade anal dysplasia (AIN, low-grade squamous intraepithelial lesion (LSIL)) by HRA.\n* CD4 count less than 200 cells/mm\\^3 at the time of consideration for entry into the study\n* unable to provide informed consent\n* Pregnant or breastfeeding female\n* Currently receiving systemic chemotherapy or radiation therapy for another cancer.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Cancer Connect, MD, FACS",
+            "role": "CONTACT",
+            "phone": "800-622-8922",
+            "email": "clinicaltrials@cancer.wisc.edu"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Evie Carchman, MD, FACS",
+            "affiliation": "University of Wisconsin, Madison",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "UW Digestive Health Center Anoscopy Clinic",
+            "status": "RECRUITING",
+            "city": "Madison",
+            "state": "Wisconsin",
+            "zip": "53705",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.07305,
+              "lon": -89.40123
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D061466",
+            "term": "Lopinavir"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D011744",
+            "term": "Pyrimidinones"
+          },
+          {
+            "id": "D011743",
+            "term": "Pyrimidines"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:30:10.256872"
+}

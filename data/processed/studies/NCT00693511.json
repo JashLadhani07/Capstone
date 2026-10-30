@@ -1,0 +1,389 @@
+{
+  "nct_id": "NCT00693511",
+  "title": "Circuit Training and Motivational Interviewing to Reduce Type 2 Diabetes in Youth",
+  "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Obesity and Type 2 Diabetes"
+  ],
+  "interventions": [
+    "Circuit Training",
+    "Circuit training + motivational interviewing"
+  ],
+  "primary_outcome": "Insulin sensitivity",
+  "secondary_outcomes": [
+    "Change in waist circumference",
+    "Change in subcutaneous abdominal adipose tissue",
+    "Change in visceral abdominal adipose tissue"
+  ],
+  "start_date": "2007-10",
+  "completion_date": "2010-08-31",
+  "results_posted": false,
+  "enrollment": 45,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00693511",
+        "orgStudyIdInfo": {
+          "id": "K01DK078858",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/K01DK078858"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "K01DK078858",
+            "type": "NIH",
+            "link": "https://reporter.nih.gov/quickSearch/K01DK078858"
+          }
+        ],
+        "organization": {
+          "fullName": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+          "class": "NIH"
+        },
+        "briefTitle": "Circuit Training and Motivational Interviewing to Reduce Type 2 Diabetes in Youth",
+        "officialTitle": "Circuit Training and Motivational Interviewing to Reduce Type 2 Diabetes in Youth"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2017-09",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2007-10"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2010-08-31",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2012-08-31",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2008-06-05",
+        "studyFirstSubmitQcDate": "2008-06-05",
+        "studyFirstPostDateStruct": {
+          "date": "2008-06-09",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2017-09-20",
+        "lastUpdatePostDateStruct": {
+          "date": "2017-09-25",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+          "class": "NIH"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The overall goal of this project is to examine the physiological and metabolic effects of a 16-week circuit-training (strength training + aerobic activities) program, with and without a behavioral component utilizing motivational interviewing, in 45 overweight Latina adolescent girls (14-18 years of age). This 16-week randomized control study will examine the incremental effects of the following 3 intervention groups on insulin sensitivity, insulin secretion, adiposity, and habitual and ad libitum physical activity:\n\n* Control group (delayed circuit training intervention; n=15)\n* Circuit training group (strength + aerobic training; 2 times per week; n=15)\n* Circuit training (same as above) + weekly motivational interviewing sessions (n=15)\n\nSpecific Aim 1: To examine the effects of a 16-week circuit training program on adiposity, insulin dynamics, other associated hormones and adipocytokines, cardiorespiratory fitness, and muscular strength in overweight Latina adolescent girls. Hypothesis 1: Participation in the circuit-training program will result in significant improvements in both physiological and metabolic outcomes, including: a) body composition as measured by DEXA, b) fat distribution as measured by MRI, c) adipose tissue hormones (e.g. leptin, adiponectin, TNF-\u03b1) as measured by fasting blood samples, d) insulin sensitivity and secretion as measured by frequently sampled intravenous tolerance test, e) aerobic fitness as measured by the single stage submaximal treadmill test, and f) increase muscular strength as measured by repetition maximums.\n\nSpecific Aim 2: To examine the incremental effects of adding the motivational interviewing sessions to the circuit training on self-selected ad libitum physical activity during a 5-hour observational period, habitual physical activity levels using 7 day accelerometry, and the meanings and motivation to exercise using questionnaires before and after the intervention. Hypothesis 2: The addition of motivational interviewing will encourage and empower participants to be more active outside of the intervention and foster healthy physical activity behaviors in daily life. Improvements in physical activity behaviors will lead to greater improvements in all other health outcomes listed in specific aim 1 compared to circuit training alone and control group."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Obesity and Type 2 Diabetes"
+        ],
+        "keywords": [
+          "obesity",
+          "adolescents",
+          "adiposity",
+          "insulin sensitivity",
+          "type 2 diabetes",
+          "Latino",
+          "circuit training",
+          "physical activity",
+          "motivational interviewing"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 45,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Circuit Training",
+            "type": "EXPERIMENTAL",
+            "description": "Participants received CT exercise training two times per week for approximately 60-90 min per session for 16 wk",
+            "interventionNames": [
+              "Behavioral: Circuit Training"
+            ]
+          },
+          {
+            "label": "Circuit training + motivational interviewing",
+            "type": "EXPERIMENTAL",
+            "description": "Participants in the CT + MI group received the same CT classes but also received four individual MI and four group MI sessions throughout the 16-wk program by two trained research staff",
+            "interventionNames": [
+              "Behavioral: Circuit training + motivational interviewing"
+            ]
+          },
+          {
+            "label": "Control",
+            "type": "NO_INTERVENTION",
+            "description": "No intervention"
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Circuit Training",
+            "description": "Circuit Training (aerobic + strength training 2 times per week for 16 weeks)",
+            "armGroupLabels": [
+              "Circuit Training"
+            ],
+            "otherNames": [
+              "CT"
+            ]
+          },
+          {
+            "type": "BEHAVIORAL",
+            "name": "Circuit training + motivational interviewing",
+            "description": "Circuit training (aerobic + strength training 2 times per week for 16 weeks) + motivational interviewing (4 individual + 4 group sessions)",
+            "armGroupLabels": [
+              "Circuit training + motivational interviewing"
+            ],
+            "otherNames": [
+              "CT + MI"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Insulin sensitivity",
+            "timeFrame": "post intervention (week 16)"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change in waist circumference",
+            "timeFrame": "post-intervention (week 16)"
+          },
+          {
+            "measure": "Change in subcutaneous abdominal adipose tissue",
+            "timeFrame": "post-intervention (week 16)"
+          },
+          {
+            "measure": "Change in visceral abdominal adipose tissue",
+            "timeFrame": "post-intervention (week 16)"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* At Risk of Overweight and Overweight (age- \\& sex-specific body mass index \u2265 85th percentile based on CDC BMI growth charts \\[US Department of Health and Human Services, 2000\\]. There will not be an upper BMI limit. In our experience, we have had numerous children above the 99th percentile for BMI complete the outcome measures, and this group could benefit greatly from participation.\n* Gender \\& Age: Females from grades 9th to 12th (approximately 14-18 years of age). We chose to study adolescents because pubertal youth will likely possess the requisite hormonal milieu needed to elicit physiologically and metabolic changes in response to resistance and aerobic training. In addition physical activity declines are more pronounced in minority females. By limiting the study to just females, we will retain a more homogenous group. This will eliminate sensitive gender issues related to exercise such as body image concerns, goal setting, and motivations for behavioral changes. To reduce effects of the menstrual cycle, all females will be tested during the follicular phase, while those with irregular/unpredictable menses will be studied at random times.\n* Latino origin all four grandparents must be of Hispanic heritage (reported on screening forms). This approach is consistent with all of our previous and ongoing work.\n\nExclusion Criteria:\n\n* Presently taking medication(s) or diagnosed with any syndrome or disease that could influence physical activity, body composition and fat distribution, or insulin action.\n* Previously diagnosed with any major illness since birth (e.g. chronic birth asphyxia, cancer, etc.).\n* Children with type 1 and/or type 2 diabetes will be excluded and referred to a physician. Children with impaired glucose tolerance (fasting glucose \\>100 mg/dL during a fasting blood draw) and/or conditions associated with insulin resistance (e.g. acanthosis nigricans, hypertension, dyslipidemia) will be eligible, as long as they are not receiving treatment and meet other eligibility criteria.\n* Children who have any physical, cognitive, or psychological disabilities that would prevent them from participating in an exercise program.\n* Currently, or in the past 6 months, involved with any dietary, physical activity or weight loss program.\n* Children who live farther than 20 miles away from the GCRC.",
+        "healthyVolunteers": true,
+        "sex": "FEMALE",
+        "minimumAge": "14 Years",
+        "maximumAge": "18 Years",
+        "stdAges": [
+          "CHILD",
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Jaimie N Davis, PhD, RD",
+            "affiliation": "University of Southern California",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Veronica Atkins Lifestyle Intervention Laboratory",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90033",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.05223,
+              "lon": -118.24368
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "21502883",
+            "type": "RESULT",
+            "citation": "Davis JN, Gyllenhammer LE, Vanni AA, Meija M, Tung A, Schroeder ET, Spruijt-Metz D, Goran MI. Startup circuit training program reduces metabolic risk in Latino adolescents. Med Sci Sports Exerc. 2011 Nov;43(11):2195-203. doi: 10.1249/MSS.0b013e31821f5d4e."
+          },
+          {
+            "pmid": "20962157",
+            "type": "DERIVED",
+            "citation": "Davis JN, Le KA, Walker RW, Vikman S, Spruijt-Metz D, Weigensberg MJ, Allayee H, Goran MI. Increased hepatic fat in overweight Hispanic youth influenced by interaction between genetic variation in PNPLA3 and high dietary carbohydrate and sugar consumption. Am J Clin Nutr. 2010 Dec;92(6):1522-7. doi: 10.3945/ajcn.2010.30185. Epub 2010 Oct 20."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009765",
+            "term": "Obesity"
+          },
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "id": "D007333",
+            "term": "Insulin Resistance"
+          },
+          {
+            "id": "D009043",
+            "term": "Motor Activity"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D050177",
+            "term": "Overweight"
+          },
+          {
+            "id": "D044343",
+            "term": "Overnutrition"
+          },
+          {
+            "id": "D009748",
+            "term": "Nutrition Disorders"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D001835",
+            "term": "Body Weight"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          },
+          {
+            "id": "D006946",
+            "term": "Hyperinsulinism"
+          },
+          {
+            "id": "D001519",
+            "term": "Behavior"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D065327",
+            "term": "Circuit-Based Exercise"
+          },
+          {
+            "id": "D062405",
+            "term": "Motivational Interviewing"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D064797",
+            "term": "Physical Conditioning, Human"
+          },
+          {
+            "id": "D015444",
+            "term": "Exercise"
+          },
+          {
+            "id": "D009043",
+            "term": "Motor Activity"
+          },
+          {
+            "id": "D009068",
+            "term": "Movement"
+          },
+          {
+            "id": "D009142",
+            "term": "Musculoskeletal Physiological Phenomena"
+          },
+          {
+            "id": "D055687",
+            "term": "Musculoskeletal and Neural Physiological Phenomena"
+          },
+          {
+            "id": "D037001",
+            "term": "Directive Counseling"
+          },
+          {
+            "id": "D003376",
+            "term": "Counseling"
+          },
+          {
+            "id": "D008605",
+            "term": "Mental Health Services"
+          },
+          {
+            "id": "D004191",
+            "term": "Behavioral Disciplines and Activities"
+          },
+          {
+            "id": "D006296",
+            "term": "Health Services"
+          },
+          {
+            "id": "D005159",
+            "term": "Health Care Facilities Workforce and Services"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604248"
+}

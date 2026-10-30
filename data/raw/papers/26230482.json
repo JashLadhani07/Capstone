@@ -1,0 +1,20 @@
+{
+  "pmid": "26230482",
+  "title": "Changes in Depressive Symptoms and Mortality in Patients With Heart Failure: Effects of Cognitive-Affective and Somatic Symptoms.",
+  "abstract": "Depression is an independent predictor of adverse outcomes in patients with heart failure (HF). However, the effect of changes in cognitive-affective and somatic symptoms on mortality of HF patients is not known. The purpose of this study was to examine whether changes in cognitive-affective and somatic depressive symptoms over time were associated with mortality in HF. In this secondary analysis of data from the Rural Education to Improve Outcomes in Heart Failure clinical trial, we analyzed data from 457 HF patients (39% female, mean [standard deviation] age = 65.6 [12.8] years) who survived at least 1 year and repeated the Patient Health Questionnaire at 1 year. Cognitive-affective and somatic depression scores were calculated, respectively, based on published Patient Health Questionnaire factor models. Using Cox proportional hazards regression analyses, we evaluated the effect of changes in cognitive-affective and somatic symptoms from baseline to 1 year on cardiac and all-cause deaths. Controlling for baseline depression scores and other patient characteristics, the change in somatic symptoms was associated with increased risk of cardiac death during the subsequent 1-year period (hazard ratio = 1.24, 95% confidence interval = 1.07-1.44, p = .005), but the change in cognitive-affective symptoms was not (hazard ratio = 0.94, 95% confidence interval = 0.81-1.08, p = .38). Similar results were found for all-cause mortality. Worsening somatic depressive symptoms, not cognitive-affective symptoms, are independently associated with increased mortality of HF patients. The findings suggest that routine and ongoing assessment of somatic depressive symptoms in HF patients may help clinicians identify patients at increased risk for adverse outcomes. ClinicalTrials.gov NCT00415545.",
+  "journal": "Psychosomatic medicine",
+  "pub_date": "2015-Sep",
+  "authors": [
+    "Hwang, Boyoung",
+    "Moser, Debra K",
+    "Pelter, Michele M",
+    "Nesbitt, Thomas S",
+    "Dracup, Kathleen"
+  ],
+  "nct_ids_referenced": [
+    "NCT00415545"
+  ],
+  "source": "pubmed",
+  "word_count": 259,
+  "parsed_at": "2026-10-30T10:31:10.596060"
+}

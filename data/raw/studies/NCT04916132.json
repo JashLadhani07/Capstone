@@ -1,0 +1,705 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04916132",
+      "orgStudyIdInfo": {
+        "id": "PRIMETIME2"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "H-20080050",
+          "type": "OTHER",
+          "domain": "National Ethical Committee"
+        }
+      ],
+      "organization": {
+        "fullName": "Herlev Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Diabetic Nephropathy in People With Diabetes. Prevalence and Predictive Factors",
+      "officialTitle": "Biopsy-proven Diabetic Nephropathy in People With Type 2 Diabetes. Prevalence and Predictive Factors",
+      "acronym": "PRIMETIME2"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-12",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-08-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2043-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2043-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-06-01",
+      "studyFirstSubmitQcDate": "2021-06-01",
+      "studyFirstPostDateStruct": {
+        "date": "2021-06-07",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-12-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-12-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Marie M\u00f8ller",
+        "investigatorTitle": "MD, PhD-student",
+        "investigatorAffiliation": "Herlev Hospital"
+      },
+      "leadSponsor": {
+        "name": "Herlev Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Copenhagen University Hospital, Rigshospitalet",
+          "class": "OTHER"
+        },
+        {
+          "name": "Hillerod Hospital, Denmark",
+          "class": "OTHER"
+        },
+        {
+          "name": "Zealand University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Holbaek Sygehus",
+          "class": "OTHER"
+        },
+        {
+          "name": "Slagelse Sygehus",
+          "class": "OTHER"
+        },
+        {
+          "name": "Nyk\u00f8bing Falster County Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Aarhus University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "The Novo Nordisk Foundation Center for Basic Metabolic Research",
+          "class": "OTHER"
+        },
+        {
+          "name": "Novo Nordisk A/S",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "Gubra ApS",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Odense University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Aalborg University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "G\u00f8dstrup Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Steno Diabetes Center Copenhagen",
+          "class": "OTHER"
+        },
+        {
+          "name": "Steno Diabetes Center Sjaelland",
+          "class": "OTHER_GOV"
+        },
+        {
+          "name": "Steno Diabetes Center Nordjylland",
+          "class": "OTHER"
+        },
+        {
+          "name": "Michigan Kidney Translational Medical Center",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "a prospective, observational, multi-center study with a cohort of 300 patients with Type 2 diabetes and macroalbuminuria. Prospectively we will collect kidney biopsies and analyse the transciptome of the kidney tissue and other biomarkers from blood, faeces, urine, proteomic- and metabolomic profiles and DNA-variants. Thereby we hope to be able to discover molecular and clinical profiles, that can help us in the diagnosis of DKD, and to identify different risks of progression that can benefit from different forms of personalized treatment.",
+      "detailedDescription": "The PRIMETIME project is made to bring together molecular, translational and clinical scientists to create collaborations and build a scientific bridge between diabetology, nephrology, clinical biochemistry, and pathology. The ultimately goal is to bring forward an improved understanding of the most frequent cause of end stage renal disease: DKD. We aim to improve the diagnostic accuracy as well as the treatment precision by investigating in detail the features of histology and protein expression in both retrospective(WP1) and prospective(WP2) kidney biopsy material.\n\nPRIMETIME WP2 is a prospective, observational, multi-center study with a cohort of 300 patients. We plan to create a systematically unselected cohort of patients with Type2 diabetes and macroalbuminuria as a sign of kidney injury. Prospectively we will collect research kidney biopsies and other biomarkers from blood, faeces, urine, proteomic- and metabolomic profiles and DNA-variants. The biopsies will be thoroughly investigated with cutting-edge molecular technologies and associated to the biomarkers, disease course and clinical outcome. The participants will afterward be followed in 20 years.Thereby we hope to be able to discover molecular and clinical profiles, that can help us in the diagnosis of DKD, and to identify different risks of progression that can benefit from different forms of personalized treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Kidney Diseases",
+        "Albuminuria",
+        "Diabetic Kidney Disease",
+        "Diabetic Nephropathies",
+        "Diabetes type2",
+        "Molecular Sequence Variation",
+        "Kidney Biopsy"
+      ],
+      "keywords": [
+        "diabetic nephropaty",
+        "precision medicine",
+        "kidney biopsy"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "Kidney Biopsy (histological and RNA-sequencing) Blood (proteomics, metabolomics and wholegenome sequencing) Urine (Proteomics and metabolomics) Faecal and salvia samples (analysis om the microbiom)"
+      },
+      "enrollmentInfo": {
+        "count": 300,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Peolpe with T2DM and albuminuria",
+          "description": "Prospectively we will collect research kidney biopsies and other biomarkers from blood, faeces, urine, proteomic- and metabolomic profiles and DNA-variants. The biopsies will be thoroughly investigated with cutting-edge molecular technologies and associated to the biomarkers, disease course and clinical outcome.",
+          "interventionNames": [
+            "Procedure: Kidney Biopsy"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Kidney Biopsy",
+          "description": "Harvesting of kidney tissue from people with type 2 diabetes and albuminuria for subsequent analysis",
+          "armGroupLabels": [
+            "Peolpe with T2DM and albuminuria"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Prevalence",
+          "description": "To investigate the prevalence of biopsy-proven diabetic nephropathy in individuals with T2DM with severe albuminuria; urine albumin/creatinine ratio (UACR) \\>700 mg/g.",
+          "timeFrame": "From baseline to end inclusion (3 years)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Improved clinical diagnosis",
+          "description": "To investigate whether clinical variables, transcriptomic, proteomic and/or metabolomic profiles as well as genetic variation can predict the presence of diabetic nephropathy in a kidney biopsy.",
+          "timeFrame": "From baseline to end inclusion (3 years)"
+        },
+        {
+          "measure": "diabetic retinopathy",
+          "description": "To describe the sensitivity and specificity of diabetic retinopathy in predicting biopsy-proven diabetic nephropathy",
+          "timeFrame": "From baseline to end inclusion (3 years)"
+        },
+        {
+          "measure": "Kidney Biopsy",
+          "description": "describe the prognostic value of different histological and molecular findings on kidney biopsy in individuals with biopsy-proven diabetic nephropathy",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "non-diabetic nephropathy vs. biopsy-proven diabetic nephropathy",
+          "description": "describe the prognostic value of different histological and molecular findings on the kidney biopsy in individuals with non-diabetic nephropathy compared to biopsy-proven diabetic nephropathy.",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "proteomic and metabolomic",
+          "description": "describe the prognostic value of the proteomic and metabolomic profiles in biopsy-proven diabetic nephropathy.",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "genetic variants",
+          "description": "describe the prognostic value of different forms of genetic variation in biopsy-proven diabetic nephropathy",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "Microbiome",
+          "description": "describe the prognostic value of different compositions of the microbiome and its relation to biopsy and clinical findings",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "Annual changes in kidney status",
+          "description": "Annual changes in kidney status (defined by yes/no: initiation of dialysis, kidney transplantation, renal death or decrease in eGFR \\> 40 % compared to eGFR at baseline)",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "Annual decline in eGRF",
+          "description": "Annual decline in eGRF",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "Annual changes in albuminuria.",
+          "description": "Annual changes in albuminuria.",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "Annual events of cardiovascular disease",
+          "description": "Events of cardiovascular disease (fatal CV events, non-fatal stroke, non-fatal myocardial infarction, hospitalization for heart failure, PCI or bypass surgery (heart or legs), amputations due to ischemia, and unstable angina)",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        },
+        {
+          "measure": "Death",
+          "description": "Death (any cause).",
+          "timeFrame": "From baseline to end of followup (20 years)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Written informed consent\n* Diagnosis with T2DM according to the American diabetes Association (20)\n* eGFR \\>30 mL/min/1.73 m2 (maximum six months old)\n* urine-albumin/creatinine-ratio (uACR) \\> 700 mg/g or 24 hours urine albumin \\>700 mg on more than one measurement\n\nExclusion Criteria:\n\n* Signs of acute kidney failure according to the KDIGO classification (21) at the time for kidney biopsy or the last 6 months before kidney biopsy\n* Factors that increases the risk of complications due to kidney biopsy:\n\n  * Hemoglobin \\< 6 mmol/L\n  * INR \\>1,4 at the time for biopsy\n  * Platelet count \\< 100 x 109/l\n  * Uncontrolled high blood pressure (defined as systolic blood pressure \\> 160 mmHg and/or diastolic blood pressure \\> 100 mmHg)\n  * Only one functioning kidney\n  * Evidence of urinary tract obstruction or hydronephrosis at the time of biopsy\n  * Multiple bilateral kidney cysts\n  * Kidney infection, peri-renal infection, or cutaneous infection that overlies the kidney at time for biopsy\n  * Unwilling to receive blood transfusion\n  * Unable to lie flat in bed six hours after biopsy\n  * Any other contra-indications for percutaneous kidney biopsy according to local clinical guidelines\n* Unable to understand written and oral information\n* Kidney transplant recipient\n* Previous medical kidney biopsy\n* Women who are pregnant or planning to become pregnant before the kidney biopsy is performed\n* Treatment with Marcoumar (all other anticoagulants are accepted)\n* High thromboembolic risk combined with held in anticoagulation therapy according to the report \"Perioperative regulation of antithrombotic treatment\" (PRAB) (22)\n\n  * mechanical heart valve\n  * atrial fibrillation AND CHA2DS2-VASc\\> 5 and/or stroke within the last three months\n  * recurrent venous thromboembolism OR venous thromboembolism within the last three months\n  * less than 6 weeks after uncomplicated Acute Coronary Syndrome (ACS) with or without revascularization (Percutaneous Coronary Intervention (PCI)) with Bare Metal Stents (BMS) or Coronary Artery Bypass Grafting (CABG))\n  * less than 3 months after uncomplicated ACS with revascularization (PCI with Drug Eluting Stent (DES))\n  * less than 9-12 months after complicated ACS (e.g. reinfarction or stent thrombosis)\n  * less than 1 month after revascularization in individuals with stable Coronary Artery Disease (CAD) (PCI with BMS or CABG)\n  * less than 3 months after revascularization in individuals with stable CAD (PCI with DES)\n  * less than 3 months after stroke, or Transient Ischemic Attack (TIA)\n* Inability to withdraw nonsteroidal anti-inflammatory drugs (NSAID) 7 days before biopsy\n\nIf a participant meets one or more exclusion criteria, that are reversible, the participant can be rescreened later on, to evaluate whether or not the participant now is qualified for participation.",
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "120 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "People with type 2 diabetes, albuminuria and eGFR \\> 30 who are willing to undergo a kidney biopsy",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Marie M\u00f8ller",
+          "role": "CONTACT",
+          "phone": "+4561695364",
+          "email": "marie.moeller@regionh.dk"
+        },
+        {
+          "name": "Ditte Hansen",
+          "role": "CONTACT",
+          "phone": "+4538682056",
+          "email": "ditte.hansen.04@regionh.dk"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Frederik Persson, MD, PhD",
+          "affiliation": "Steno Diabetes Center Copenhagen",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Aarhus Universitetshospital, Skejby",
+          "status": "RECRUITING",
+          "city": "Skejby",
+          "state": "Aarhus",
+          "zip": "8200",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Johan V Povlsen, MD, PhD",
+              "role": "CONTACT",
+              "email": "johan.povlsen@skejby.rm.dk"
+            },
+            {
+              "name": "S\u00f8ren T Knudsen",
+              "role": "CONTACT",
+              "email": "soerknud@rm.dk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 56.19966,
+            "lon": 10.17587
+          }
+        },
+        {
+          "facility": "Steno Diabetes Center Copenhagen",
+          "status": "RECRUITING",
+          "city": "Copenhagen",
+          "state": "Gentofte",
+          "zip": "2820",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Peter C Rossing, MD,PHD, PROF",
+              "role": "CONTACT",
+              "email": "peter.rossing@regionh.dk"
+            },
+            {
+              "name": "Frederik Persson, MD, MDSc",
+              "role": "CONTACT",
+              "phone": "+4527512622",
+              "email": "frederik.persson@regionh.dk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.67594,
+            "lon": 12.56553
+          }
+        },
+        {
+          "facility": "Kristine D Schandorff",
+          "status": "RECRUITING",
+          "city": "Hiller\u00f8d",
+          "state": "Hiller\u00f8d",
+          "zip": "3400",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Kristine D Schandorff, MD",
+              "role": "CONTACT",
+              "email": "kristine.dyhr.schandorff@regionh.dk"
+            },
+            {
+              "name": "Signe SS Rasmussen, MD, PhD",
+              "role": "CONTACT",
+              "email": "signe.sabine.saetre.rasmussen@regionh.dk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.92791,
+            "lon": 12.30081
+          }
+        },
+        {
+          "facility": "Holb\u00e6k Hospital",
+          "status": "RECRUITING",
+          "city": "Holb\u00e6k",
+          "state": "Holb\u00e6k",
+          "zip": "4300",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Morten Lindhardt, MD, PhD",
+              "role": "CONTACT",
+              "email": "moli@regionsjaelland.dk"
+            },
+            {
+              "name": "Jesper O Christensen, MD, PhD",
+              "role": "CONTACT",
+              "email": "joc@regionsjaelland.dk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.7175,
+            "lon": 11.71279
+          }
+        },
+        {
+          "facility": "Rigshospitalet",
+          "status": "RECRUITING",
+          "city": "Copenhagen",
+          "state": "K\u00f8benhavn \u00d8",
+          "zip": "2100",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Mads Copenhagen, MD, PhD",
+              "role": "CONTACT",
+              "email": "mads.hornum@regionh.dk"
+            },
+            {
+              "name": "Thomas Almdal, MD, MDSc",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.67594,
+            "lon": 12.56553
+          }
+        },
+        {
+          "facility": "Sj\u00e6llands Universitetshospital, K\u00f8ge",
+          "status": "RECRUITING",
+          "city": "K\u00f8ge",
+          "state": "K\u00f8ge",
+          "zip": "4600",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Urd L Kielgast, MD, PhD",
+              "role": "CONTACT",
+              "email": "ulki@regionsjaelland.dk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.45802,
+            "lon": 12.18214
+          }
+        },
+        {
+          "facility": "Nyk\u00f8bing Falster Sygehus",
+          "status": "RECRUITING",
+          "city": "Nyk\u00f8bing Falster",
+          "state": "Nyk\u00f8bing F",
+          "zip": "4800",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Allan Kofoed-Enevoldsen, MD",
+              "role": "CONTACT",
+              "email": "akofo@regionsjaelland.dk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 54.76906,
+            "lon": 11.87425
+          }
+        },
+        {
+          "facility": "Sj\u00e6llands Universitetshospital, Roskilde",
+          "status": "RECRUITING",
+          "city": "Roskilde",
+          "state": "Roskilde",
+          "zip": "4000",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Rikke Borg, MD, PhD",
+              "role": "CONTACT",
+              "phone": "+4530223200",
+              "email": "rbor@regionsjaelland.dk"
+            },
+            {
+              "name": "Karina H Jensen, MD",
+              "role": "CONTACT",
+              "email": "khr@regionsjaelland.dk"
+            },
+            {
+              "name": "Bjarne \u00d8rskov, MD, PhD",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.64152,
+            "lon": 12.08035
+          }
+        },
+        {
+          "facility": "Slagelse Sygehus",
+          "status": "RECRUITING",
+          "city": "Slagelse",
+          "state": "Slagelse",
+          "zip": "4200",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Eva M Lerche-Black, MD, PhD",
+              "role": "CONTACT",
+              "email": "emle@regionsjaelland.dk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.40276,
+            "lon": 11.35459
+          }
+        },
+        {
+          "facility": "Aalborg universitetshospital",
+          "status": "RECRUITING",
+          "city": "Aalborg",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Charlotte Strandhave, MD PhD",
+              "role": "CONTACT"
+            },
+            {
+              "name": "Peter Vestergaard",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 57.048,
+            "lon": 9.9187
+          }
+        },
+        {
+          "facility": "Regionshospitalet G\u00f8dstrup",
+          "status": "RECRUITING",
+          "city": "G\u00f8dstrup",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Frank H Mose",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 56.15584,
+            "lon": 8.89276
+          }
+        },
+        {
+          "facility": "Herlev Hospital",
+          "status": "RECRUITING",
+          "city": "Herlev",
+          "zip": "2730",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Marie M\u00f8ller, MD",
+              "role": "CONTACT",
+              "phone": "+4561695364",
+              "email": "marie.moeller@regionh.dk"
+            },
+            {
+              "name": "Ditte Hansen, MD, PhD",
+              "role": "CONTACT",
+              "phone": "+4538682056",
+              "email": "ditte.hansen.04@regionh.dk"
+            },
+            {
+              "name": "Iain Bressendorff, MD, PhD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Bo Broberg, MD",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.72366,
+            "lon": 12.43998
+          }
+        },
+        {
+          "facility": "Odense universitetshospital",
+          "status": "RECRUITING",
+          "city": "Odense",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Karoline Schousboe",
+              "role": "CONTACT"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.39594,
+            "lon": 10.38831
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "37280026",
+          "type": "DERIVED",
+          "citation": "Moller M, Borg R, Bressendorff I, Fink LN, Gravesen E, Jensen KH, Hansen T, Krustrup D, Persson F, Rossing P, Sembach FE, Thuesen ACB, Hansen D. Rationale and design of a prospective, clinical study of kidney biopsies in people with type 2 diabetes and severely increased albuminuria (the PRIMETIME 2 study). BMJ Open. 2023 Jun 6;13(6):e072216. doi: 10.1136/bmjopen-2023-072216."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED",
+      "description": "This topic is still up for discussion. We do plan to share most of the data, but how, time and place are still undecided"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D051436",
+          "term": "Renal Insufficiency, Chronic"
+        },
+        {
+          "id": "D000419",
+          "term": "Albuminuria"
+        },
+        {
+          "id": "D003928",
+          "term": "Diabetic Nephropathies"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D051437",
+          "term": "Renal Insufficiency"
+        },
+        {
+          "id": "D007674",
+          "term": "Kidney Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D011507",
+          "term": "Proteinuria"
+        },
+        {
+          "id": "D014555",
+          "term": "Urination Disorders"
+        },
+        {
+          "id": "D020924",
+          "term": "Urological Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D048909",
+          "term": "Diabetes Complications"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

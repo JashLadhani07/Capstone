@@ -1,0 +1,255 @@
+{
+  "nct_id": "NCT06351345",
+  "title": "129Xenon MR Imaging and Spectroscopy Response to Sotatercept in Pulmonary Arterial Hypertension",
+  "sponsor": "Bastiaan Driehuys",
+  "phase": "PHASE2",
+  "status": "RECRUITING",
+  "conditions": [
+    "Pulmonary Hypertension",
+    "Pulmonary Arterial Hypertension"
+  ],
+  "interventions": [
+    "129Xe Hyperpolarized"
+  ],
+  "primary_outcome": "Change in Xenon MRI Red Blood Cell (RBC) percentage",
+  "secondary_outcomes": [],
+  "start_date": "2025-10-27",
+  "completion_date": "2029-02-04",
+  "results_posted": false,
+  "enrollment": 14,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06351345",
+        "orgStudyIdInfo": {
+          "id": "Pro00115215"
+        },
+        "organization": {
+          "fullName": "Duke University",
+          "class": "OTHER"
+        },
+        "briefTitle": "129 Xenon Imaging in Patients Treated With Sotatercept",
+        "officialTitle": "129Xenon MR Imaging and Spectroscopy Response to Sotatercept in Pulmonary Arterial Hypertension",
+        "acronym": "Sox-PH"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-02",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2025-10-27",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2029-02-04",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2030-02-04",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2024-04-02",
+        "studyFirstSubmitQcDate": "2024-04-02",
+        "studyFirstPostDateStruct": {
+          "date": "2024-04-08",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-02-23",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-02-24",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Bastiaan Driehuys",
+          "investigatorTitle": "Professor of Radiology",
+          "investigatorAffiliation": "Duke University"
+        },
+        "leadSponsor": {
+          "name": "Bastiaan Driehuys",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Merck Sharp & Dohme LLC",
+            "class": "INDUSTRY"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "Determine the ability of 129Xe MRI/MRS biomarker signatures to non-invasively monitor pulmonary vascular reverse remodeling induced by sotatercept in pulmonary arterial hypertension (PAH).",
+        "detailedDescription": "The researchers hypothesize that 129Xe MRI/MRS biomarker signatures of pulmonary vascular remodeling will predict short- and long-term response and efficacy to PAH patients who are receiving sotatercept as clinical standard-of-care. At baseline (prior to the treatment with sotatercept), 3, and 12 months of follow-up, the research team will perform 129Xe MRI/MRS scans. 129Xe MRI/MRS metrics, including: (1) 129Xe MRI ventilation defect (reflecting gas exchange abnormalities), (2)129Xe MRI RBC defect percentage (reflecting pulmonary capillary blood volume), (3) 129Xe MRI membrane uptake percentage (reflecting lung interstitial wall thick-ness and inflammation), and (4) 129Xe MRS oscillation amplitude (reflecting degree of pre/post-capillary PH) as well as standard-of-care assessments including labs, echocardiography, NTproBNP and 6MWD will be acquired at each visit. The investigators expect that 129Xe MRI/MRS biomarker signatures will improve prediction of treatment response and clinical outcomes (hospitalizations and death) compared to standard risk assessment with functional class, 6MWD, and NTproBNP.\n\nThis study would allow an assessment of sotatercept's role in promoting pulmonary vascular reverse remodeling. It could also improve outcome assessment in clinical trials to a biomarker that is more accurate and precise, thus allowing greater reliability in assessment of treatment effect and allowing smaller clinical trial size. Lastly, three-dimensional functional lung imaging could provide greater individualized assessment of lung function and tailoring of therapy, thus optimizing precision and personalized medicine.\n\nPAH is characterized by obstructive vasculopathy of the pulmonary arterioles that results in right heart failure and death. The pulmonary vascular remodeling in PAH includes neointimal proliferation, medial hypertrophy, plexiform arteriopathy, and fibrosis; these changes can also differ between these subtypes. This results in specific changes in cardiac and pulmonary physiology, most notably: (1) an increase in the pulmonary vascular resistance (PVR) through the blood vessels due to their obstruction; and (2) a decrease in sur-face area and capillary blood volume for gas exchange through disruption of the normal capillary-alveolar interface with a decrease in the diffusion limit for carbon monoxide (DLCO). The increase in PVR results in increased afterload on the right heart, resulting in right ventricular (RV) dysfunction and failure. Similarly, gas exchange abnormalities contribute to decreased ventilatory efficiency and exercise limitation. Current treatments, which target the prostacyclin, endothelin-1, or nitric oxide pathways, slow disease progression. However, these drugs are thought to act largely through vasodilation, and not through remodeling. For that reason, the 5-year survival rate in PAH is still only approximately 60%, highlighting the need for therapies targeting pulmonary vascular remodeling pathways."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Pulmonary Hypertension",
+          "Pulmonary Arterial Hypertension"
+        ],
+        "keywords": [
+          "Xenon",
+          "MRI"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "DIAGNOSTIC",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 14,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Pulmonary Arterial Hypertension Patients Receving Sotatercept",
+            "type": "OTHER",
+            "description": "PAH patients receiving sotatercept as treatment for their PAH",
+            "interventionNames": [
+              "Drug: 129Xe Hyperpolarized"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "129Xe Hyperpolarized",
+            "description": "Each xenon dose will be limited to a volume less than 25% of participant lung capacity (TLC).",
+            "armGroupLabels": [
+              "Pulmonary Arterial Hypertension Patients Receving Sotatercept"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change in Xenon MRI Red Blood Cell (RBC) percentage",
+            "timeFrame": "baseline, 3,and 12 months"
+          },
+          {
+            "measure": "Change in cardiogenic oscillation amplitudes",
+            "timeFrame": "baseline, 3, and 12 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1. Outpatients of either gender, Age 18-75\n2. Diagnosis of precapillary PH (right heart catheterization demonstrating hemodynamic criteria of a mean pulmonary artery pressure (mPAP) \u2265 20 mmHg, pulmonary vascular resistance \u2265 5 WU, pulmonary capillary wedge pressure \u2264 15 mmHg) in the setting of Group 1 (PAH)\n3. Willing and giving informed consent and adhere to visit/protocol schedules (consent must be given before any study procedures are performed).\n4. On a stable dose of background PAH therapy for \\> 90 days prior to study enrollment\n5. Women of childbearing potential must have a negative urine pregnancy test before MRI\n\nExclusion Criteria:\n\n1. Moderate to severe heart disease (LVEF \\< 45%, Severe LV hypertrophy, Moderate to severe valvular disease)\n2. Chronic thromboembolic disease\n3. PH due to schistosomiasis\n4. Active cancer\n5. Sickle cell anemia\n6. Prisoners and pregnant women will not be approached for the study\n7. Conditions that will prohibit MRI scanning (metal in eye, claustrophobia, inability to lie supine)\n8. Medical or psychological conditions which, in the opinion of the investigator, might create undue risk to the participant or interfere with the participant's ability to comply with the protocol requirements",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Claudia Salazar",
+            "role": "CONTACT",
+            "phone": "+1 919 660 2026",
+            "email": "claudia.salazar@duke.edu"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Sudarshan Rajagopal, MD, PhD",
+            "affiliation": "Duke University",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Duke University Medical Center",
+            "status": "RECRUITING",
+            "city": "Durham",
+            "state": "North Carolina",
+            "zip": "27710",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Claudia Salazar, BS",
+                "role": "CONTACT",
+                "phone": "919-660-2026",
+                "email": "claudia.salazar@duke.edu"
+              },
+              {
+                "name": "Sudarshan Rajagopal, MD, PhD",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 35.99403,
+              "lon": -78.89862
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006976",
+            "term": "Hypertension, Pulmonary"
+          },
+          {
+            "id": "D000081029",
+            "term": "Pulmonary Arterial Hypertension"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D008171",
+            "term": "Lung Diseases"
+          },
+          {
+            "id": "D012140",
+            "term": "Respiratory Tract Diseases"
+          },
+          {
+            "id": "D006973",
+            "term": "Hypertension"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792004"
+}

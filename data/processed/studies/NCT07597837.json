@@ -1,0 +1,237 @@
+{
+  "nct_id": "NCT07597837",
+  "title": "Understanding Long-Term Outcomes of Oncoplastic Breast Surgery",
+  "sponsor": "Tufts Medical Center",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    "Oncoplastic Breast Surgery"
+  ],
+  "primary_outcome": "Cancer Stage",
+  "secondary_outcomes": [
+    "Positive Margin Rate",
+    "Surgical Complication Rate"
+  ],
+  "start_date": "2026-02-26",
+  "completion_date": "2045-01",
+  "results_posted": false,
+  "enrollment": 1500,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07597837",
+        "orgStudyIdInfo": {
+          "id": "STUDY00006532"
+        },
+        "organization": {
+          "fullName": "Tufts Medical Center",
+          "class": "OTHER"
+        },
+        "briefTitle": "Oncoplastic Surgery Outcomes Database",
+        "officialTitle": "Understanding Long-Term Outcomes of Oncoplastic Breast Surgery"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-05",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2026-02-26",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2045-01",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2045-01",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2026-04-30",
+        "studyFirstSubmitQcDate": "2026-05-13",
+        "studyFirstPostDateStruct": {
+          "date": "2026-05-19",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-05-22",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-05-27",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Tufts Medical Center",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This is a retrospective and prospective chart review of surgical outcomes and collecting patient satisfaction outcomes using validated surveys for oncoplastic breast surgery and Goldilocks mastectomy.",
+        "detailedDescription": "This is a retrospective and prospective chart review from 2015-2045 of oncoplastic breast surgery and mastectomy patients at Tufts Medicine."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Breast Cancer"
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "patientRegistry": true,
+        "targetDuration": "1 Year",
+        "designInfo": {
+          "observationalModel": "COHORT",
+          "timePerspective": "OTHER"
+        },
+        "enrollmentInfo": {
+          "count": 1500,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "PROCEDURE",
+            "name": "Oncoplastic Breast Surgery",
+            "description": "Breast conservation surgery incorporating an oncologic partial mastectomy with ipsilateral defect repair using volume displacement or volume replacement techniques with contralateral symmetry surgery as appropriate"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Cancer Stage",
+            "description": "The TNM system of cancer classification determines the stage of cancer based on type of cancer, size of cancer, lymph node status, presence of metastasis",
+            "timeFrame": "From enrollment to up to 1 month after surgery."
+          },
+          {
+            "measure": "Patient Satisfaction",
+            "description": "Measured using validated surveys pre-operative and post-operative (2 week, 6 month, 1 year).",
+            "timeFrame": "From enrollment to 1 year after surgery."
+          },
+          {
+            "measure": "Cancer Recurrence",
+            "description": "Recurrence of cancer following surgery and adjuvant therapy",
+            "timeFrame": "From enrollment to 20 years after surgery"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Positive Margin Rate",
+            "description": "The investigators will measure rates of positive margins after cancer resection that requires additional resection.",
+            "timeFrame": "From enrollment to 1 year after initial surgery"
+          },
+          {
+            "measure": "Surgical Complication Rate",
+            "description": "Complications from surgery (infection, wound dehiscence, seroma, hematoma, etc.) will be measured and aggregated into a overall rate of major complications (requires intervention) and minor complications as percentages.",
+            "timeFrame": "From date of surgery up to 5 years after surgery"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Biological females \\>= 18 years old requiring oncologic breast surgery with and without reconstruction at Tufts Medicine.\n\nExclusion Criteria:\n\n* Biological females \\< 18 years old",
+        "healthyVolunteers": false,
+        "sex": "FEMALE",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ],
+        "studyPopulation": "Patients of Tufts Medicine hospitals requiring oncologic breast surgery with and without reconstruction.",
+        "samplingMethod": "NON_PROBABILITY_SAMPLE"
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Tufts Medical Center",
+            "status": "RECRUITING",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02111",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Sarah Persing, MD",
+                "role": "CONTACT",
+                "phone": "617-636-5600",
+                "email": "sarah.persing1@tuftsmedicine.org"
+              },
+              {
+                "name": "Sarah Persing, MD",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 42.35843,
+              "lon": -71.05977
+            }
+          },
+          {
+            "facility": "Melrose Wakefield Hospital",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "city": "Melrose",
+            "state": "Massachusetts",
+            "zip": "02176",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.45843,
+              "lon": -71.06616
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D001943",
+            "term": "Breast Neoplasms"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D001941",
+            "term": "Breast Diseases"
+          },
+          {
+            "id": "D012871",
+            "term": "Skin Diseases"
+          },
+          {
+            "id": "D017437",
+            "term": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628491"
+}

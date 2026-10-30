@@ -1,0 +1,281 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05987930",
+      "orgStudyIdInfo": {
+        "id": "1611"
+      },
+      "organization": {
+        "fullName": "Tanta University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Bone Lid Technique Versus Standard Technique for Treatment of Mandibular Lesions",
+      "officialTitle": "Lecturer of Oral and Maxillofacial Surgery"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-06-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-10-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-12-20",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-07-11",
+      "studyFirstSubmitQcDate": "2023-08-04",
+      "studyFirstPostDateStruct": {
+        "date": "2023-08-14",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-01-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-01-11",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "mona samy sheta",
+        "investigatorTitle": "Lecturer of Oral and Maxillofacial Surgery Department",
+        "investigatorAffiliation": "Tanta University"
+      },
+      "leadSponsor": {
+        "name": "Tanta University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Twenty patients with benign mandibular lesion will be included in this study. the patient will be divided randomly (10 patients each group). Group I the lesion will be treated using bone lid technique. Group II the lesion will be treated using the standard technique. The patients will be received, clinically and radiologically examined, and managed at the Oral and Maxillofacial surgery Department, Faculty of Dentistry, Tanta University.\n\nThe patients will be evaluated clinically to evaluate healing and radiographically using cone beam CT (CBCT) scan to identify bone healing, the extension and the volume of lesion six months later",
+      "detailedDescription": "Purpose: This study aimed to compare the clinical and radiologic outcomes of the bone lid technique performed using a piezoelectric device versus the traditional technique in patients requiring excision of the mandibular bony lesions\n\nMaterials \\& Methods: Twenty patients with mandibular lesion will be included in this study. the patient will be divided randomly (10 patients each group). Group I the lesion will be treated using bone lid technique. Group II the lesion will be treated using the standard technique. The patients will be received, clinically and radiologically examined, and managed at the Oral and Maxillofacial surgery Department, Faculty of Dentistry, Tanta University.\n\nPreoperative evaluation: The patients will be evaluated clinically and radiographically using Cone beam CT(CBCT) scan to identify the extension and the volume of lesion.\n\nSurgical procedure: A full thickness flap will be elevated in both groups to achieve access to the bone above the lesion, in group I osteotomy of bone will be designed to extend beyond the actual extension of lesion in radiograph using piezoelectric device to secure a latter repositioning of the lid on a healthy stable bone. The osteotomy will be performed with an internal bevel angle to facilitate repositioning. The removed bone lid will be soaked in saline. After excision of the lesion, the bony lid will be repositioned to its original position and fixed to the bone with an absorbable suture.\n\nIn group II the bone will be removed buccally using surgical bur then the lesion is removed. Finally, the flap will be sutured in both groups.\n\nPostoperative evaluation: The patients will be evaluated clinically regarding healing, presence of infection, inflammation, necrosis, or bone exposure each week for one month then monthly for six months.\n\nRadiographically, (CBCT) scan six months later to evaluate Healing and integration of the repositioned bone lid, any signs of recurrence in the case of cysts, and filling of the bone defect bone healing and volume of the defect.\n\nAll selected cases of both groups b were went for CBCT scan using fixed exposure parameters (Kv, mA) and the same field of view prior surgery and 6 months post-surgical using the same axial slicing to evaluate the following\n\n1. Cyst area in coronal view for posterior region and sagittal view for anterior region\n2. Evaluating lesion location by making perpendicular line from alveolar crest on the occlusal plane and measuring the distance from alveolar crest to the lesion using (Coronal view posterior, sagittal anterior).\n\n3- recurrence of lesion , integration of buccal cortex 4- bone density"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Mandible Cyst",
+        "Mandible Tumor",
+        "Mandibular Diseases"
+      ],
+      "keywords": [
+        "mandibular lesions",
+        "bone lid technique",
+        "standard technique"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 24,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "bone lid technique",
+          "type": "EXPERIMENTAL",
+          "description": "ten patients with mandibular benign lesions which were treated with bone lid technique to enucleate the lesion using piezo-electric device to allow removal of buccal bone cortex with preservation of it to have access to lesion then reposition of bone lid in its place",
+          "interventionNames": [
+            "Device: bone lid technique"
+          ]
+        },
+        {
+          "label": "standard technique",
+          "type": "EXPERIMENTAL",
+          "description": "ten patients with mandibular benign lesions in which the buccal cortex was removed by gridding using surgical rotary bur to allow enucleation of lesion",
+          "interventionNames": [
+            "Device: standard technique"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "bone lid technique",
+          "description": "group I ten patients with mandibular lesion will be undergo excision of lesion using bone lid technique with piezo-electric device then reposition of buccal bone cortex",
+          "armGroupLabels": [
+            "bone lid technique"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "standard technique",
+          "description": "group II ten patients with mandibular lesion will be undergo excision of lesion using surgical bur to remove buccal cortex to get access to lesion",
+          "armGroupLabels": [
+            "standard technique"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "degree of pain evaluated clinically in both groups",
+          "description": "using visual analogue scale:0 represent no pain and 10 represents the highest level of pain",
+          "timeFrame": "one-two weeks"
+        },
+        {
+          "measure": "soft tissue healing evaluated clinically in both groups",
+          "description": "adequate means closed or inadequate means open wound",
+          "timeFrame": "one week"
+        },
+        {
+          "measure": "infection evaluated clinically in both groups",
+          "description": "1 means mild,2 means moderate or3 means sever infection",
+          "timeFrame": "one week-one month"
+        },
+        {
+          "measure": "cyst area calculation radiographically in both groups",
+          "description": "using CBCT to measure the area in mm2",
+          "timeFrame": "six months"
+        },
+        {
+          "measure": "measuring the distance between the lesion and alveolar crest in both groups",
+          "description": "making perpendicular line from alveolar crest on the occlusal plane and measuring the distance from alveolar crest to the lesion in (mm) using (Coronal view posterior, sagittal anterior) in CBCT.",
+          "timeFrame": "six months"
+        },
+        {
+          "measure": "density of bone calculated radiographically in both groups",
+          "description": "CBCT to measure density (D1\\> 1250 ,D2 850-1250,D3 350-850,D4 150-350) hounsfield",
+          "timeFrame": "six months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "inflammation clinically in both groups",
+          "description": "0 no inflammation 1-3 mild inflammation 4-7 moderate inflammation 8-10 sever inflammation",
+          "timeFrame": "one week"
+        },
+        {
+          "measure": "integration of buccal cortex radigraphically in both groups",
+          "description": "presence of radiolucency around of buccal cortex or not",
+          "timeFrame": "six months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nage \u2265 6 years\n\n* presence of bony lesion (cysts, benign tumors, odontoma) located in mandibular region,\n* the existence of a normal residual buccal cortical plate with the adequate thickness (\u22651 mm) at least at the periphery of buccal cortical plate\n\nExclusion Criteria:\n\n* \u2022 patients taking medications that affect bone metabolism,\n\n  * patients underwent head and neck radiotherapy",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "6 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "mona s sheta",
+          "affiliation": "Tanta University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Faculty of Dentistry, Tanta University",
+          "city": "Tanta",
+          "zip": "3111",
+          "country": "Egypt",
+          "geoPoint": {
+            "lat": 30.78847,
+            "lon": 31.00192
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "39095818",
+          "type": "DERIVED",
+          "citation": "Sheta MS, Ghouraba RF, Ibrahim MT. Bone lid technique versus standard technique for treatment of mandibular lesions. BMC Oral Health. 2024 Aug 2;24(1):875. doi: 10.1186/s12903-024-04594-y."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008339",
+          "term": "Mandibular Neoplasms"
+        },
+        {
+          "id": "D008336",
+          "term": "Mandibular Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007573",
+          "term": "Jaw Neoplasms"
+        },
+        {
+          "id": "D012888",
+          "term": "Skull Neoplasms"
+        },
+        {
+          "id": "D001859",
+          "term": "Bone Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001847",
+          "term": "Bone Diseases"
+        },
+        {
+          "id": "D009140",
+          "term": "Musculoskeletal Diseases"
+        },
+        {
+          "id": "D007571",
+          "term": "Jaw Diseases"
+        },
+        {
+          "id": "D009057",
+          "term": "Stomatognathic Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

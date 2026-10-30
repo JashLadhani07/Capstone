@@ -1,0 +1,408 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04749992",
+      "orgStudyIdInfo": {
+        "id": "InternationalPUB"
+      },
+      "organization": {
+        "fullName": "International Psychoanalytic University Berlin",
+        "class": "OTHER"
+      },
+      "briefTitle": "Biological Function of Dreaming in Dreaming and Non-Dreaming Patients With PCA Infarction",
+      "officialTitle": "Biological Function of Dreaming - Declarative and Non-declarative Memory Consolidation and Sleep Quality in Dreaming and Non-dreaming Patients With PCA Infarction",
+      "acronym": "BFD"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-03",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "recruitment proved to be impossible for the necessary experimental non-dreaming group",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-08-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-03-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-03-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-01-23",
+      "studyFirstSubmitQcDate": "2021-02-10",
+      "studyFirstPostDateStruct": {
+        "date": "2021-02-11",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-03-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-03-12",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Tamara Fischmann",
+        "investigatorTitle": "Professor for clinical psychology and psychoanalysis",
+        "investigatorAffiliation": "International Psychoanalytic University Berlin"
+      },
+      "leadSponsor": {
+        "name": "International Psychoanalytic University Berlin",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Charite University, Berlin, Germany",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is a quasi-experimental between-group design. Using a prospective two-arm controlled exploratory study, data will be collected on an initial assessment of the effects of a specific neurological sample after thrombotic infarction (PCA infarction) who lost the ability to dream due to the infarction (experimental group) compared to a specific neurological sample after thrombotic infarction (PCA infarction) without loss of the ability to dream (comparison group) in terms of subjective and objective sleep quality and memory consolidation. Besides the importance to further elucidate the role of dreaming for sleep architecture and memory consolidation, the results of the evaluation are of great clinical relevance in a further scientific investigation regarding the treatment of a specifically neurological sample with acute thrombotic infarction.",
+      "detailedDescription": "The aim of the study is to investigate the biological function of dreams, which differs from that of REM (rapid eye-movement) sleep. People spend almost a third of every day asleep. About a fifth of this time they dream.\n\nWhy do dreams occupy such a significant part of human life? What is the biological function of dreams? The physiological function of dreaming for humans has been investigated in extensive studies. However, these are predominantly in the area of memory research and address the question of whether dreaming is conducive to memory consolidation. However, other biological functions of dreaming, such as their influence on the restorative effects of sleep, remain virtually unexplored to date. Therefore, the planned DFG (Deutsche Forschungsgemeinschaft) study will investigate the effect of dream activity on the objective and subjective quality of sleep.\n\nSolms was able to show that damage to the parieto-occipital brain region leads to a complete loss of dream recall in a large number of clinical cases (in 44 of 361 cases). This discovery holds the possibility of relating the biological function of dreaming to neuroanatomical structures. Obviously, the loss of dream memory must be related to the specific damage of the brain, or its biological functions.\n\nFurther studies also show that acute thrombotic infarction of the occipital lobe in the current area of the posterior cerebral artery can lead to complete loss of dream activity with simultaneous maintenance of REM sleep. The authors Bischof \\& Bassetti noticed, seemingly by chance and without grasping the theoretical implications of the discovery, that their patient was suffering from insomnia with difficulty falling asleep and staying asleep.\n\nBased on these observations, Solms conducted a pilot study comparing the sleep patterns of five dreaming and five nondreaming patients with thrombotic infarcts in the same arterial territory-as observed by Bischof \\& Bassetti . Solms and his research group observed that within the non-dreaming group there was a striking decrease in absolute sleep duration, as well as a more frequent number of nocturnal awakenings, more arousals, as well as microarousals (previously unpublished data).\n\nThe study of populations that have forfeited the ability to dream with preserved REM sleep makes it possible to test not only the classical theory on the function of dreams, but also such theories that deal with the role of dreams in memory consolidation during sleep. In recent years, there has been increased interest in the hypothesis that sleep contributes to and significantly influences memory processing.\n\nIn this context, dreaming is postulated to play a specific role in memory processing during sleep.\n\nThere are several hypotheses regarding the role of dreaming in memory consolidation. For example, Stickgold et al. found that during REM sleep, limbic forebrain structures are activated along with the amygdala, while there is concomitant inhibition of hippocampal signalling, which presumably prevents re-activation of episodic memory content. Accordingly, dreams would mainly occur via weak neocortical associations available during REM sleep. The authors hypothesize that this feature reflects the brain's attempts to recognize and evaluate new cortical associations in the context of emotions mediated by limbic structures. They concluded that one function of REM sleep was to enhance or attenuate specifically activated associations with regression to pictorial imaginings to compensate for the relative loss of motor activity during sleep.\n\nSimilarly, it has been postulated that the occurrence of memories in dreams promotes learning by, first, reactivating memory elements in their original perceptual state and, second, that linking a wide variety of memory elements strengthens and consolidates them and, third, that dreaming newly learned material facilitates later recall.\n\nRelevance and research questions of the study:\n\nThrough a specific choice of sample of neurological patients with posterior cortical lesions who are at risk of losing the ability to dream due to the lesion, the proposed project is particularly aimed at understanding the biological function of dreaming as distinct from REM sleep. Based on the neuropsychoanalytic theory of Solms, as well as neuropsychological findings that REM sleep and dreaming are doubly dissociable phenomena, the central hypothesis that dreams serve to maintain sleep (Sigmund Freud's hypothesis) will be investigated. By this, Freud meant that dreams serve to respond to sometimes highly affect-laden impulses to action with hallucinatory wish fulfillment, so that they do not lead to premature awakening. Secondly, it will be investigated whether dreams influence affective memory consolidation. This will be investigated using two groups of neurological patients with thrombotic infarction in the posterior stream area, i.e., the posterior cerebral artery (PCA infarction) during preserved REM sleep (i) who have lost the ability to recall dreams, and (ii) in whom the ability to recall dreams has been preserved. This has far-reaching implications not only for sleep medicine and neuroscience, but also for clinical neurology. Sleep pathologies have not yet been considered clinically-scientifically as a consequence of PCA infarction and, accordingly, have not yet been studied, but could provide significant clues for the clinical management of such patients. Similarly, findings on memory consolidation after PCA infarction during preserved REM sleep are significant because an important aspect of memory processing during sleep is examined with the distinction between preserved and nonsustained dreaming, which also has not been considered in scientific studies to date but is of clinical relevance.\n\nHypotheses Our hypotheses are that patients who have lost the ability to dream during preserved REM sleep will have (i) poorer sleep quality and (ii) poorer emotional declarative memory and non-declarative motor memory consolidation.\n\nNon-dreamers vs. dreamers.\n\nNull hypothesis (H0):\n\nThere is no difference in terms of loss of ability to dream during preserved REM sleep, related to poorer sleep quality, as well as poorer emotional declarative and non-declarative motor memory consolidation between the experimental group and the comparison group\n\nAlternative hypothesis (H1):\n\nThere is a difference in loss of ability to dream with preserved REM sleep related to worse sleep quality and worse emotional declarative and non-declarative motor memory consolidation between experimental group and comparison group\n\nDesign\n\nProspective two-arm controlled observational study (quasi-experimental between-group design)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Dream Disorder",
+        "Thrombotic Infarction",
+        "PCA Infarct"
+      ],
+      "keywords": [
+        "Dreams",
+        "Memory consolidation",
+        "Sleep quality",
+        "Declarative memory",
+        "Non-declarative memory"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "2 Days",
+      "designInfo": {
+        "observationalModel": "CASE_CONTROL",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 142,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Non-Dreamers",
+          "description": "Experimental Group",
+          "interventionNames": [
+            "Procedure: Polysomnographic examination in sleep laboratory (PSG measurement)"
+          ]
+        },
+        {
+          "label": "Dreamers",
+          "description": "Comparison Group",
+          "interventionNames": [
+            "Procedure: Polysomnographic examination in sleep laboratory (PSG measurement)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Polysomnographic examination in sleep laboratory (PSG measurement)",
+          "description": "Recording of sleep quality and quantity by sleep parameters, such as total sleep time - TST; duration of sleep stages - S1t, S2t, S3t, rapid eye movement - REMt; sleep onset latency - SL; wake after sleep onset - WASO, sleep efficiency - SE.",
+          "armGroupLabels": [
+            "Dreamers",
+            "Non-Dreamers"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change from pre- to post-sleep performance in memory of International Affective Picture System (IAPS)",
+          "description": "Emotional memory: number of affective pictures administered pre sleep and remembered post sleep",
+          "timeFrame": "pre-post sleep after a minimum of 8 hours sleep in sleep laboratory"
+        },
+        {
+          "measure": "Change from pre- to post-sleep performance in Finger-Tapping-Task (FTT)",
+          "description": "motor sequence learning task for memory consolidation of non-declarative memory; number of correct sequences per 30s is assessed pre and post sleep",
+          "timeFrame": "pre-post sleep after a minimum of 8 hours sleep in sleep laboratory"
+        },
+        {
+          "measure": "Polysomnography (PSG)",
+          "description": "Sleep Quality measurement: Total sleep time (TST); Duration of sleep stages - S1t, S2t, S3t, Rapid Eye Movement - REMt; sleep onset latency - SL; wake after sleep onset - WASO; sleep efficiency - SE.",
+          "timeFrame": "8 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Wechsler Memory Scale (WMS-IV)",
+          "description": "Wechsler Memory scales (declarative memory); test battery for adults; Raw values are converted to scale value points using an age-related conversion (SVP 1-19; mean 10; standard deviation 3). The value points of the scale-related subtests form scale sums, which in turn are converted into indices (40-160, mean 100; standard deviation 15).",
+          "timeFrame": "pre-post sleep after a minimum of 8 hours sleep in sleep laboratory"
+        },
+        {
+          "measure": "Change in Wechsler Adult Intelligence Scale (WAIS-IV)",
+          "description": "Individual test procedure for assessing the cognitive abilities (Working- and short-term-memory) of adolescents and adults aged 16;0 to 89;11 years. An overall IQ is calculated using the value point sums of the 10 subtests and serves as the basis for interpreting the individual subtests. As a measure of change subtest scores are compared pre-post sleep",
+          "timeFrame": "pre-post sleep after a minimum of 8 hours sleep in sleep laboratory"
+        },
+        {
+          "measure": "Change in California Verbal Learning Test (CVLT)",
+          "description": "Test-battery to assess declarative memory performance. Both free recall and recognition of two word lists across immediate trials and short- and long-delayed trials are measured. Subject is asked to reproduce as many words as possible from List A immediately after each presentation. List A is composed of 16 words that can be assigned to four semantic categories. A second list B, also with 16 words, is presented once to investigate interference effects. Immediately after the free recall of list B, the short-term free recall and the short-term recall with mention of the semantic headwords of list A as an aid take place. In the subsequent interval of 20 minutes, non-verbal test procedures are performed. This is followed by long-term free recall (Delayed Free Recall II), long-term recall with naming of semantic headwords, and Yes/No Recognition. Scores are compared pre-post sleep.",
+          "timeFrame": "pre-post sleep after a minimum of 8 hours sleep in sleep laboratory"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Mannheim Dream Questionnaire (MADRE)",
+          "description": "Acquisition of various aspects of dream experience (a.o. Dream recall frequency; Nightmare frequency; Frequency of telling dreams). The questionnaire contains 21 questions, the patient ticks the appropriate numbers on frequency scales or Likert scales (0 to 4). The frequency scales are used as single items.",
+          "timeFrame": "Baseline before sleep in sleep laboratory"
+        },
+        {
+          "measure": "Pittsburg Sleep Quality Index (PSQI)",
+          "description": "The Pittsburgh Sleep Quality Index (PSQI) is a self-rated questionnaire which assesses sleep quality and disturbances over a 1-month time interval. Nineteen individual items generate seven \"component\" scores: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medication, and daytime dysfunction. The sum of scores for these seven components yields one global score. A global PSQI score greater than 5 yielded a diagnostic sensitivity of 89.6% and specificity of 86.5% (kappa = 0.75, p less than 0.001) in distinguishing good and poor sleepers.",
+          "timeFrame": "Baseline before sleep in sleep laboratory"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Acute thrombotic infarction in the posterior stream area of the cerebral artery (parieto-temporo-occipital (PTO) lesions)\n* Dream recall before infarction more than 1 dream/week\n* REM sleep present\n* Willingness of the patient to participate in the sleep laboratory examinations within the scope of the study or to fill in questionnaires/diaries.\n* Patient is cognitively and linguistically able to comprehend the meaning of the study\n* Existence of a written declaration of consent\n\nExclusion Criteria:\n\n* Extension of the lesion to the brainstem.\n* Diagnosis of any previously known sleep disorder confounding with the study results, recorded on 1st screening night (sleep laboratory)\n\n  1. severe insomnia\n  2. Restless Leg Syndrome (RLS)\n  3. periodic movements of the extremities during sleep (PLMS), and\n  4. obstructive sleep apnea syndrome (OSAS)\n* Diagnosis of any neurological or psychiatric disorders or other conditions that may conflict with the study results\n* Cerebral insults in areas outside the posterior cerebral artery (excluding small vessel disease)\n* Medication use affecting sleep architecture, such as benzodiazepines, anticonvulsants, SSRIs.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "90 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients will be recruited based on the inclusion criteria (Acute thrombotic infarction in the posterior stream area of the cerebral artery (parieto-temporo-occipital (PTO) lesions)) from the Stroke Database \"1000 Plus\" 2008-2012 Neurology Charit\u00e9 - University medicine Berlin",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Tamara Fischmann, Prof.",
+          "affiliation": "International Psychoanalytic University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Michael Koslowski, Dr.",
+          "affiliation": "Charite university medicine",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Charite university medicine",
+          "city": "Berlin",
+          "zip": "10117",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "International Psychoanalytic University",
+          "city": "Berlin",
+          "zip": "10555",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "20417102",
+          "type": "BACKGROUND",
+          "citation": "Wamsley EJ, Tucker M, Payne JD, Benavides JA, Stickgold R. Dreaming of a learning task is associated with enhanced sleep-dependent memory consolidation. Curr Biol. 2010 May 11;20(9):850-5. doi: 10.1016/j.cub.2010.03.027. Epub 2010 Apr 22."
+        },
+        {
+          "pmid": "21227155",
+          "type": "BACKGROUND",
+          "citation": "Pace-Schott EF, Hobson JA. The neuropsychology of dreams: a clinico-anatomical study. Trends Cogn Sci. 1998 May 1;2(5):199-200. doi: 10.1016/s1364-6613(98)01166-8."
+        },
+        {
+          "pmid": "15389890",
+          "type": "BACKGROUND",
+          "citation": "Bischof M, Bassetti CL. Total dream loss: a distinct neuropsychological dysfunction after bilateral PCA stroke. Ann Neurol. 2004 Oct;56(4):583-6. doi: 10.1002/ana.20246."
+        },
+        {
+          "pmid": "23589831",
+          "type": "BACKGROUND",
+          "citation": "Rasch B, Born J. About sleep's role in memory. Physiol Rev. 2013 Apr;93(2):681-766. doi: 10.1152/physrev.00032.2012."
+        },
+        {
+          "pmid": "11691983",
+          "type": "BACKGROUND",
+          "citation": "Stickgold R, Hobson JA, Fosse R, Fosse M. Sleep, learning, and dreams: off-line memory reprocessing. Science. 2001 Nov 2;294(5544):1052-7. doi: 10.1126/science.1063530."
+        },
+        {
+          "pmid": "15576884",
+          "type": "BACKGROUND",
+          "citation": "Payne JD, Nadel L. Sleep, dreams, and memory consolidation: the role of the stress hormone cortisol. Learn Mem. 2004 Nov-Dec;11(6):671-8. doi: 10.1101/lm.77104."
+        },
+        {
+          "pmid": "16251954",
+          "type": "BACKGROUND",
+          "citation": "Nielsen TA, Stenstrom P. What are the memory sources of dreaming? Nature. 2005 Oct 27;437(7063):1286-9. doi: 10.1038/nature04288."
+        },
+        {
+          "pmid": "14534587",
+          "type": "BACKGROUND",
+          "citation": "Walker MP, Brakefield T, Hobson JA, Stickgold R. Dissociable stages of human memory consolidation and reconsolidation. Nature. 2003 Oct 9;425(6958):616-20. doi: 10.1038/nature01930."
+        },
+        {
+          "pmid": "24304770",
+          "type": "BACKGROUND",
+          "citation": "Solms M. Dreaming is not controlled by hippocampal mechanisms. Behav Brain Sci. 2013 Dec;36(6):629; discussion 634-59. doi: 10.1017/S0140525X1300143X."
+        },
+        {
+          "pmid": "30660955",
+          "type": "BACKGROUND",
+          "citation": "Blake Y, Terburg D, Balchin R, van Honk J, Solms M. The role of the basolateral amygdala in dreaming. Cortex. 2019 Apr;113:169-183. doi: 10.1016/j.cortex.2018.12.016. Epub 2018 Dec 25."
+        },
+        {
+          "pmid": "21056209",
+          "type": "BACKGROUND",
+          "citation": "Solms M. Neurobiology and the neurological basis of dreaming. Handb Clin Neurol. 2011;98:519-44. doi: 10.1016/B978-0-444-52006-7.00034-4. No abstract available."
+        },
+        {
+          "pmid": "15127665",
+          "type": "BACKGROUND",
+          "citation": "Solms M. Freud returns. Sci Am. 2004 May;290(5):82-8. doi: 10.1038/scientificamerican0504-82. No abstract available."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Freud, S. (1948). Die Traumdeutung.[Erstausgabe 1900]. Freud, Sigmund Gesammelte Werke. Chronologisch geordnet. London: Imago, Bde, 2."
+        },
+        {
+          "pmid": "41425211",
+          "type": "DERIVED",
+          "citation": "Fischmann T, Peters L, Rieker V, Koslowski M. Exploring the biological function of dreaming: lessons learned from recruitment challenges in a pilot study with PCA stroke patients. Front Sleep. 2025 Jul 21;4:1585263. doi: 10.3389/frsle.2025.1585263. eCollection 2025."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020762",
+          "term": "Infarction, Posterior Cerebral Artery"
+        },
+        {
+          "id": "D007319",
+          "term": "Sleep Initiation and Maintenance Disorders"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002544",
+          "term": "Cerebral Infarction"
+        },
+        {
+          "id": "D020520",
+          "term": "Brain Infarction"
+        },
+        {
+          "id": "D002545",
+          "term": "Brain Ischemia"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D002539",
+          "term": "Cerebral Arterial Diseases"
+        },
+        {
+          "id": "D020765",
+          "term": "Intracranial Arterial Diseases"
+        },
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D007238",
+          "term": "Infarction"
+        },
+        {
+          "id": "D007511",
+          "term": "Ischemia"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D009336",
+          "term": "Necrosis"
+        },
+        {
+          "id": "D020919",
+          "term": "Sleep Disorders, Intrinsic"
+        },
+        {
+          "id": "D020920",
+          "term": "Dyssomnias"
+        },
+        {
+          "id": "D012893",
+          "term": "Sleep Wake Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

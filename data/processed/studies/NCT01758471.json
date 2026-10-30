@@ -1,0 +1,314 @@
+{
+  "nct_id": "NCT01758471",
+  "title": "An Open-label, Randomized , Phase 4 Study to Compare the Different Efficacies of \u03b1-glucosidase Inhibitor and Sulfonylurea on Improvement of Intestinal Microbiome and Serum Incretins in Patients With Type 2 Diabetes",
+  "sponsor": "Shanghai Jiao Tong University School of Medicine",
+  "phase": "PHASE4",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Type 2 Diabetes"
+  ],
+  "interventions": [
+    "Glipizide",
+    "Acarbose"
+  ],
+  "primary_outcome": "euglycemia",
+  "secondary_outcomes": [],
+  "start_date": "2012-12",
+  "completion_date": "2013-12",
+  "results_posted": false,
+  "enrollment": 160,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01758471",
+        "orgStudyIdInfo": {
+          "id": "CCEMD017"
+        },
+        "organization": {
+          "fullName": "Shanghai Jiao Tong University School of Medicine",
+          "class": "OTHER"
+        },
+        "briefTitle": "Efficacy of Acarbose on Intestinal Microbiome and Incretins of Type 2 Diabetes",
+        "officialTitle": "An Open-label, Randomized , Phase 4 Study to Compare the Different Efficacies of \u03b1-glucosidase Inhibitor and Sulfonylurea on Improvement of Intestinal Microbiome and Serum Incretins in Patients With Type 2 Diabetes"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2012-12",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2012-12"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2013-12",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2014-06",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2012-12-24",
+        "studyFirstSubmitQcDate": "2012-12-24",
+        "studyFirstPostDateStruct": {
+          "date": "2013-01-01",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2012-12-24",
+        "lastUpdatePostDateStruct": {
+          "date": "2013-01-01",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Guang Ning",
+          "investigatorTitle": "Vice president of Ruijin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Director of Shanghai Institute for Endocrine and Metabolic Diseases",
+          "investigatorAffiliation": "Shanghai Jiao Tong University School of Medicine"
+        },
+        "leadSponsor": {
+          "name": "Shanghai Jiao Tong University School of Medicine",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "This study is aimed to investigate the effect of acarbose on intestinal microbiome and incretins, therefore to explore the new pathways or new targets to treat type 2 diabetes.",
+        "detailedDescription": "In recent years, Endocrinologist and Diabetologists have found that intestine might serve as a novel target for treating diabetes or other metabolic diseases. Incretins are well-known hormones secreted from intestine, such as CCK\uff08Cholecystokinin), Serotonin, GIP(gastric inhibitory polypeptide) and GLP-1(glucagon like peptide 1), to help control wholesome metabolic status through their effects on pancreatic islet cells, hypothalamus neurons and gastrointestinal movement. Gut microbiome has been recently revealed exerting major effect on host's immune system and metabolic balance with its various metabolites and components.\n\n\u03b1-glucosidase inhibitors have been used as anti-diabetes medicine for dozens of years. They are known to be effective by delaying glucose absorption in small intestine. Questions then have been arisen that if delaying glucose absorption changes the intestinal bacteria flora component by increasing bacteria fed on glucose, or that if it influences incretin secretion, since most glucose sensitive L cell (secreting GLP-1) were located in the distal part of small intestine and colon, and that if the hypoglycemia effect of \u03b1-glucosidase inhibitors might be mediated by either intestinal flora or incretins.\n\nTo address the questions above and to find the new targets from the intestine to treat diabetes, we therefore design this study, taking advantage of clinical trial and basic biomedical studies to find if \u03b1-glucosidase inhibitor- Acarbose (Bayer, Corp.) could change the profile of intestinal incretins and microbiome.\n\nStudy design:\n\n1. Multi-center, open label, randomized, positive control cohort.\n2. 110 cases of newly-diagnosed Type-2 Diabetes patients from five clinic centers from Shanghai, China Mainland.\n3. All patients will sign the consent and screened by the criteria before enrolled by this study.\n4. 55 cases of Type 2 Diabetes will be assigned to glucobay treatment and another 55 will take glipizide.\n5. 50 healthy volunteers for baseline data comparison.\n6. The duration of whole study will be 3 month.\n\n   1. Before treatment, all the patients will be required to have OGTT(oral glucose tolerant test) and IRT(insulin release test) test and give their feces. Standard meals will be required one day before the feces are collected.\n   2. In 3 months, all patients will take the medicine and their glucose will be monitored closely by visiting outpatient office once a month.\n   3. In the end of the study, patients will be required to receive OGTT and IRT and give their feces again.\n7. Serum and feces will be stored at -80\u2103 for further biomarkers investigation and microbiome sequencing.\n8. After 3 months intervention, patients will be observed for another 3 month with access to routine clinic visiting."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes"
+        ],
+        "keywords": [
+          "Type 2 Diabetes",
+          "gut microbiome",
+          "incretin",
+          "Sulfonylurea",
+          "\u03b1-glucosidase inhibitor"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE4"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "BASIC_SCIENCE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 160,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Acarbose",
+            "type": "EXPERIMENTAL",
+            "description": "The minimum dosage of acarbose in this study is 100mg tid p.o.(oral) for 3 month. With this dosage, patients should have similar glycemic control with those using glipizide, that is FBG(fasting blood glucose)\\<7.0,PBG(postprandial blood glucose)\\<10.0",
+            "interventionNames": [
+              "Drug: Acarbose"
+            ]
+          },
+          {
+            "label": "glipizide",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "There is no fixed dosage of glipizide to control hyperglycemia for patients in this group. As long as the targeted blood glucose concentration is reached, FBG\\< 7.0, PBG\\< 10.0, patients will have the least dosage of glipizide according to their glucose level.",
+            "interventionNames": [
+              "Drug: Glipizide"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Glipizide",
+            "description": "glipizide 5mg per pill 5mg tid p.o. for 3 month",
+            "armGroupLabels": [
+              "glipizide"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Acarbose",
+            "description": "Acarbose 50mg per pill 100mg to 150mgtid p.o.\uff08oral\uff09 for 3 month",
+            "armGroupLabels": [
+              "Acarbose"
+            ],
+            "otherNames": [
+              "glucobay"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "euglycemia",
+            "timeFrame": "3 months"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed Type 2 Diabetes, without any previous drug treatment,\n* 7.0 mmol/l \\<=FBG\\<=13.O mmol/l, HbA1C \\<=10%\n* Body mass index (BMI) \\< 35kg/m2 (inclusive);\n* Understand and voluntarily sign an informed consent document prior to any study related assessments/procedures are conducted\n* Having good study compliance\n\nExclusion Criteria:\n\n* Intestinal surgery or recent abdominal surgery within 1 year\n* Taken immunosuppressive agents, steroid,antidiarrhea agents, antibiotics and other gastrointestinal motility agents within 3 months\n* Severe liver dysfunction, including serum alanine aminotransferase concentration more than 2.5 times above upper limit of normal range, abnormal renal function (GFR \\< 60ml/min)\n* Other severe conditions which will put the patients in high risk during the study\n* Any clinically significant allergic disease\n* Women in pregnancy or under breast feeding",
+        "healthyVolunteers": true,
+        "sex": "ALL",
+        "minimumAge": "40 Years",
+        "maximumAge": "60 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Guang Ning, M.D. Ph.D.",
+            "role": "CONTACT",
+            "phone": "86-021-64370045",
+            "phoneExt": "665344",
+            "email": "guangning@medmail.com.cn"
+          },
+          {
+            "name": "Yanyun Gu, M.D. Ph.D.",
+            "role": "CONTACT",
+            "phone": "86-021-64370045",
+            "phoneExt": "663325",
+            "email": "guyanyun@hotmail.com"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Guang Ning, M.D. Ph.D.",
+            "affiliation": "Shanghai Jiao Tong University School of Medicine",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Shanghai Clinic Center for Endocrine and Metabolic Diseases, Ruijin Hospital, Shanghai Institute for Endocrine and Metabolic Diseases",
+            "status": "RECRUITING",
+            "city": "Shanghai",
+            "state": "Shanghai Municipality",
+            "zip": "200025",
+            "country": "China",
+            "contacts": [
+              {
+                "name": "Guang Ning, M.D.",
+                "role": "CONTACT",
+                "phone": "86-021-64370045",
+                "phoneExt": "665344"
+              }
+            ],
+            "geoPoint": {
+              "lat": 31.22222,
+              "lon": 121.45806
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "40270326",
+            "type": "DERIVED",
+            "citation": "Ni M, Chen Y, Gu W, Zhang Y, Xu M, Gu Y, Chen Y, Zhu Y, Wang X, Luo Y, Xu Y, Lin X, Zeng YA, Liu R, Wang J. Association Between Circulating Gremlin 2 and beta-Cell Function Among Participants With Prediabetes and Type 2 Diabetes. J Diabetes. 2025 Apr;17(4):e70090. doi: 10.1111/1753-0407.70090."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D005913",
+            "term": "Glipizide"
+          },
+          {
+            "id": "D020909",
+            "term": "Acarbose"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D013453",
+            "term": "Sulfonylurea Compounds"
+          },
+          {
+            "id": "D013450",
+            "term": "Sulfones"
+          },
+          {
+            "id": "D013457",
+            "term": "Sulfur Compounds"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D014312",
+            "term": "Trisaccharides"
+          },
+          {
+            "id": "D009844",
+            "term": "Oligosaccharides"
+          },
+          {
+            "id": "D011134",
+            "term": "Polysaccharides"
+          },
+          {
+            "id": "D002241",
+            "term": "Carbohydrates"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604553"
+}

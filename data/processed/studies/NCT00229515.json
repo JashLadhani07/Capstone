@@ -1,0 +1,456 @@
+{
+  "nct_id": "NCT00229515",
+  "title": "Multicentre 2x2 Factorial Randomised Study Comparing Tirofiban Administered With the Single High-Dose Bolus Versus Abciximab and Sirolimus Eluting Stent Versus Bare Metal Stent in Acute Myocardial Infarction - MULTI-STRATEGY Trial",
+  "sponsor": "Marco Valgimigli",
+  "phase": "PHASE4",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Myocardial Infarction"
+  ],
+  "interventions": [
+    "abciximab followed by implantation of bare metal stent",
+    "abciximab and Sirolimus eluting stent",
+    "tirofiban and bare metal stent",
+    "tirofiban and sirolimus-eluting stent"
+  ],
+  "primary_outcome": "The evaluation of the degree of ST-segment resolution after the mechanical intervention.",
+  "secondary_outcomes": [
+    "Death, recurrent acute myocardial infarction, target vessel revascularization and target lesion revascularisation, considered separately or in combination.",
+    "The evaluation of the cost-effectiveness of the involved experimental treatments.",
+    "stent thrombosis according to the ARC classification",
+    "the degree of cumulative or single lead ST segment resolution at time frames different from the primary endpoint. the degree of residual ST segment elevation.",
+    "bleeding rate defined according to different classifications including TIMI, Acuity, GUSTO and Steeple."
+  ],
+  "start_date": "2004-11",
+  "completion_date": "2007-04",
+  "results_posted": false,
+  "enrollment": 744,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00229515",
+        "orgStudyIdInfo": {
+          "id": "TSES-02-III"
+        },
+        "organization": {
+          "fullName": "Universit\u00e0 degli Studi di Ferrara",
+          "class": "OTHER"
+        },
+        "briefTitle": "Multicentre 2x2 Factorial Randomised Study Comparing Tirofiban Versus Abciximab and SES Versus BMS in AMI",
+        "officialTitle": "Multicentre 2x2 Factorial Randomised Study Comparing Tirofiban Administered With the Single High-Dose Bolus Versus Abciximab and Sirolimus Eluting Stent Versus Bare Metal Stent in Acute Myocardial Infarction - MULTI-STRATEGY Trial"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2011-10",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2004-11"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2007-04",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2012-03",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2005-09-27",
+        "studyFirstSubmitQcDate": "2005-09-27",
+        "studyFirstPostDateStruct": {
+          "date": "2005-09-29",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2011-10-26",
+        "lastUpdatePostDateStruct": {
+          "date": "2011-10-27",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR_INVESTIGATOR",
+          "investigatorFullName": "Marco Valgimigli",
+          "investigatorTitle": "Head of the Catheterization laboratory",
+          "investigatorAffiliation": "Universit\u00e0 degli Studi di Ferrara"
+        },
+        "leadSponsor": {
+          "name": "Marco Valgimigli",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to determine which from the four combinations tirofiban+sirolimus eluting stent (SES), tirofiban+bare metal stent (BMS), abciximab+SES, abciximab+BMS is the possible gold standard treatment for ST-segment elevation myocardial infarction in terms of efficacy and cost-efficacy.",
+        "detailedDescription": "The combination abciximab plus bare metal stent (BMS) is currently considered the standard therapy for AMI. The use of sirolimus eluting stent (SES) is related to a reduction of the need for urgent target vessel revascularization (TVR). With current acquisition prices for abciximab and SES, replacing abciximab with tirofiban, administered as a single high-dose bolus (SHDB) regimen, is a promising strategy that would preserve financial resources. In a recent study the combination tirofiban and SES resulted to be associated to an overall lower major adverse cardiovascular events (MACE) rate with respect to the abciximab plus BMS. However, since no conclusion can be drawn yet regarding the relative contribution of a specific GP IIb/IIIa inhibitor or a stent type with respect to the other, the combination of abciximab and SES may be associated to an even lower event rate with respect to SHDB tirofiban and SES, thus offsetting the higher initial cost.\n\nComparison(s): four strategies (SHDB tirofiban + BMS, SHDB tirofiban + SES, abciximab + BMS, abciximab + SES) are compared to determine the possible gold standard treatment for ST-segment elevation myocardial infarction in terms of efficacy and cost-efficacy."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Myocardial Infarction"
+        ],
+        "keywords": [
+          "Myocardial infarction",
+          "Revascularization",
+          "Stent",
+          "ST segment elevation"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE4"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "FACTORIAL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 744,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "1",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Patients will receive abciximab infusion at standard regimen prior undergoing percutaneous coronary intervention for STEMI followed by BMS implantation in the culprit lesion",
+            "interventionNames": [
+              "Other: abciximab followed by implantation of bare metal stent"
+            ]
+          },
+          {
+            "label": "2",
+            "type": "EXPERIMENTAL",
+            "description": "Abciximab followed by implantation of sirolimus-eluting stent in the culprit lesion",
+            "interventionNames": [
+              "Other: abciximab and Sirolimus eluting stent"
+            ]
+          },
+          {
+            "label": "3",
+            "type": "EXPERIMENTAL",
+            "description": "tirofiban infusion followed by bare metal stent implantation",
+            "interventionNames": [
+              "Other: tirofiban and bare metal stent"
+            ]
+          },
+          {
+            "label": "4",
+            "type": "EXPERIMENTAL",
+            "description": "tirofiban and sirolimus-eluting stent",
+            "interventionNames": [
+              "Other: tirofiban and sirolimus-eluting stent"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "abciximab followed by implantation of bare metal stent",
+            "description": "Patients will receive infusion of abciximab at standard regimen before undergoing intervention for STEMI and then bare metal stent implantation in the culprit lesion",
+            "armGroupLabels": [
+              "1"
+            ],
+            "otherNames": [
+              "Glycoprotein IIB/IIIa inhibitors",
+              "Stent"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "abciximab and Sirolimus eluting stent",
+            "description": "Patients will receive abciximab infusion at standard regimen followed by implantation of sirolimus-eluting stent in the culprit lesion",
+            "armGroupLabels": [
+              "2"
+            ],
+            "otherNames": [
+              "glycoprotein IIb/IIIa inhibitors",
+              "stent",
+              "DES",
+              "drug-eluting stent"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "tirofiban and bare metal stent",
+            "description": "Patients will receive tirofiban infusion at high loading dose followed by standard infusion for 18-24 hours and subsequently they will be treated with bare metal stent implantation",
+            "armGroupLabels": [
+              "3"
+            ],
+            "otherNames": [
+              "glycoprotein IIb/IIIa inhibitors",
+              "stent",
+              "uncoated stent",
+              "bare metal stent"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "tirofiban and sirolimus-eluting stent",
+            "description": "Patients will receive tirofiban infusion at high loading dose followed by standard infusion for 18-24 hours and subsequently they will be treated with sirolimus-eluting stent implantation",
+            "armGroupLabels": [
+              "4"
+            ],
+            "otherNames": [
+              "glycoprotein IIb/IIIa inhibitors",
+              "stent",
+              "drug-eluting stent",
+              "sirolimus-eluting stent",
+              "DES",
+              "SES"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "The evaluation of the degree of ST-segment resolution after the mechanical intervention.",
+            "timeFrame": "90 minutes after last balloon inflation"
+          },
+          {
+            "measure": "The cumulative rate of death for any cause, reinfarction and target vessel revascularisation",
+            "timeFrame": "8 months"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Death, recurrent acute myocardial infarction, target vessel revascularization and target lesion revascularisation, considered separately or in combination.",
+            "timeFrame": "at any time during follow-up"
+          },
+          {
+            "measure": "The evaluation of the cost-effectiveness of the involved experimental treatments.",
+            "timeFrame": "8 months, 1,3 and 5 years"
+          },
+          {
+            "measure": "stent thrombosis according to the ARC classification",
+            "timeFrame": "any time during follow-up"
+          },
+          {
+            "measure": "the degree of cumulative or single lead ST segment resolution at time frames different from the primary endpoint. the degree of residual ST segment elevation.",
+            "timeFrame": "immediately after intervention, at 90 minutes and at discharge"
+          },
+          {
+            "measure": "bleeding rate defined according to different classifications including TIMI, Acuity, GUSTO and Steeple.",
+            "timeFrame": "at 30 days, 1 year, 3 and 5 years"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* ST segment elevation myocardial infarction\n* Schedule for primary percutaneous coronary intervention\n* Informed consent\n\nExclusion Criteria:\n\n* Administration of fibrinolytic or any GP IIb/IIIa inhibitors for the treatment of current acute myocardial infarction or within 1 month before it\n* History of bleeding diathesis or allergy to the studies drug\n* Major surgery within 30 days\n* Limited life expectancy, e.g. neoplasms, others\n* Pregnancy",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Roberto Ferrari, Professor",
+            "affiliation": "Cattedra di Cardiologia, Azienda Ospedaliera Universitaria di Ferrara, Italy",
+            "role": "STUDY_CHAIR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Cattedra di Cardiologia, Azienda Ospedaliera Universitaria di Ferrara",
+            "city": "Ferrara",
+            "zip": "44100",
+            "country": "Italy",
+            "geoPoint": {
+              "lat": 44.83804,
+              "lon": 11.62057
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "15870414",
+            "type": "BACKGROUND",
+            "citation": "Valgimigli M, Percoco G, Malagutti P, Campo G, Ferrari F, Barbieri D, Cicchitelli G, McFadden EP, Merlini F, Ansani L, Guardigli G, Bettini A, Parrinello G, Boersma E, Ferrari R; STRATEGY Investigators. Tirofiban and sirolimus-eluting stent vs abciximab and bare-metal stent for acute myocardial infarction: a randomized trial. JAMA. 2005 May 4;293(17):2109-17. doi: 10.1001/jama.293.17.2109."
+          },
+          {
+            "pmid": "21251631",
+            "type": "DERIVED",
+            "citation": "Garg S, Sarno G, Serruys PW, Rodriguez AE, Bolognese L, Anselmi M, De Cesare N, Colangelo S, Moreno R, Gambetti S, Monti M, Bristot L, Bressers M, Garcia-Garcia HM, Parrinello G, Campo G, Valgimigli M; STRATEGY and MULTISTRATEGY Investigators. Prediction of 1-year clinical outcomes using the SYNTAX score in patients with acute ST-segment elevation myocardial infarction undergoing primary percutaneous coronary intervention: a substudy of the STRATEGY (Single High-Dose Bolus Tirofiban and Sirolimus-Eluting Stent Versus Abciximab and Bare-Metal Stent in Acute Myocardial Infarction) and MULTISTRATEGY (Multicenter Evaluation of Single High-Dose Bolus Tirofiban Versus Abciximab With Sirolimus-Eluting Stent or Bare-Metal Stent in Acute Myocardial Infarction Study) trials. JACC Cardiovasc Interv. 2011 Jan;4(1):66-75. doi: 10.1016/j.jcin.2010.09.017."
+          },
+          {
+            "pmid": "18375998",
+            "type": "DERIVED",
+            "citation": "Valgimigli M, Campo G, Percoco G, Bolognese L, Vassanelli C, Colangelo S, de Cesare N, Rodriguez AE, Ferrario M, Moreno R, Piva T, Sheiban I, Pasquetto G, Prati F, Nazzaro MS, Parrinello G, Ferrari R; Multicentre Evaluation of Single High-Dose Bolus Tirofiban vs Abciximab With Sirolimus-Eluting Stent or Bare Metal Stent in Acute Myocardial Infarction Study (MULTISTRATEGY) Investigators. Comparison of angioplasty with infusion of tirofiban or abciximab and with implantation of sirolimus-eluting or uncoated stents for acute myocardial infarction: the MULTISTRATEGY randomized trial. JAMA. 2008 Apr 16;299(15):1788-99. doi: 10.1001/jama.299.15.joc80026. Epub 2008 Mar 30."
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009203",
+            "term": "Myocardial Infarction"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D017202",
+            "term": "Myocardial Ischemia"
+          },
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D007238",
+            "term": "Infarction"
+          },
+          {
+            "id": "D007511",
+            "term": "Ischemia"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D009336",
+            "term": "Necrosis"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D015607",
+            "term": "Stents"
+          },
+          {
+            "id": "D000077284",
+            "term": "Abciximab"
+          },
+          {
+            "id": "D054855",
+            "term": "Drug-Eluting Stents"
+          },
+          {
+            "id": "D000077466",
+            "term": "Tirofiban"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D019736",
+            "term": "Prostheses and Implants"
+          },
+          {
+            "id": "D004864",
+            "term": "Equipment and Supplies"
+          },
+          {
+            "id": "D007140",
+            "term": "Immunoglobulin Fab Fragments"
+          },
+          {
+            "id": "D007128",
+            "term": "Immunoglobulin Fragments"
+          },
+          {
+            "id": "D010446",
+            "term": "Peptide Fragments"
+          },
+          {
+            "id": "D010455",
+            "term": "Peptides"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D061067",
+            "term": "Antibodies, Monoclonal, Humanized"
+          },
+          {
+            "id": "D000911",
+            "term": "Antibodies, Monoclonal"
+          },
+          {
+            "id": "D000906",
+            "term": "Antibodies"
+          },
+          {
+            "id": "D007136",
+            "term": "Immunoglobulins"
+          },
+          {
+            "id": "D007162",
+            "term": "Immunoproteins"
+          },
+          {
+            "id": "D001798",
+            "term": "Blood Proteins"
+          },
+          {
+            "id": "D011506",
+            "term": "Proteins"
+          },
+          {
+            "id": "D012712",
+            "term": "Serum Globulins"
+          },
+          {
+            "id": "D005916",
+            "term": "Globulins"
+          },
+          {
+            "id": "D014443",
+            "term": "Tyrosine"
+          },
+          {
+            "id": "D024322",
+            "term": "Amino Acids, Aromatic"
+          },
+          {
+            "id": "D000598",
+            "term": "Amino Acids, Cyclic"
+          },
+          {
+            "id": "D000596",
+            "term": "Amino Acids"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792498"
+}

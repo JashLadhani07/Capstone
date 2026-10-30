@@ -1,0 +1,270 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02193321",
+      "orgStudyIdInfo": {
+        "id": "1405313630"
+      },
+      "organization": {
+        "fullName": "University of Arizona",
+        "class": "OTHER"
+      },
+      "briefTitle": "Safety and Efficacy Study of Amniotic Membrane Patch to Treat Postoperative Atrial Fibrillation",
+      "officialTitle": "Prospective, Randomized Evaluation of New Onset Postoperative Atrial Fibrillation in Subjects Receiving an Amniotic Membrane Patch Placed on the Epicardial Surface"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-11",
+      "overallStatus": "WITHDRAWN",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2014-07"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2015-07",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2015-07",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2014-07-15",
+      "studyFirstSubmitQcDate": "2014-07-15",
+      "studyFirstPostDateStruct": {
+        "date": "2014-07-17",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-11-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-12-02",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Arizona",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "PalinGen",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to to evaluate the rate of new onset postoperative atrial fibrillation in subjects receiving the amniotic membrane patch placed on the epicardial surface as compared to subjects who did not undergo epicardium intervention.",
+      "detailedDescription": "New onset postoperative atrial fibrillation (NOPAF) presents in approximately 27 to 40% of patients who have recently undergone coronary artery bypass graft (CABG) or other open heart surgeries. NOPAF can put patients at clinical risk for stroke and other arrhythmias. NOPAF commonly prolongs hospitalization leading to increased use of hospital resources, higher cost and decreased patient satisfaction. A number of risk factors have been associated with the development of NOPAF including age, prior history of atrial fibrillation, Chronic Obstructive Pulmonary Disease (COPD), chronic renal failure, diabetes and obesity. It is not entirely clear what causes NOPAF; the prevailing theory is that it is a multi-factorial process, possibly due in part to inflammation from the surgery. The usual treatments for NOPAF are associated with various side effects and risks. We propose to test the hypothesis that an amniotic membrane patch, with minimal known risk and side effects, placed on the heart's surface during surgery will reduce the incidence of NOPAF.\n\nThis phase I/II prospective, single-center, randomized controlled clinical trial is being undertaken to assess the safety of the amniotic membrane patch when used in the setting of CABG surgery and whether utilization of the amniotic membrane patch to aid repair of the normal epicardium following isolated, first-time CABG procedures might result in a lower rate of NOPAF compared to subjects who did not undergo treatment with the amniotic membrane patch."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atrial Fibrillation"
+      ],
+      "keywords": [
+        "Atrial Fibrillation",
+        "Amniotic Membrane"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 0,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Amniotic membrane patch placement",
+          "type": "EXPERIMENTAL",
+          "description": "One amniotic membrane patch will be placed on the epicardial surface of the heart immediately following a CABG procedure prior to wound closure.",
+          "interventionNames": [
+            "Biological: Amniotic Membrane Patch"
+          ]
+        },
+        {
+          "label": "Control",
+          "type": "NO_INTERVENTION",
+          "description": "Amniotic membrane patch will not be placed after CABG procedure prior to wound closure."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Amniotic Membrane Patch",
+          "armGroupLabels": [
+            "Amniotic membrane patch placement"
+          ],
+          "otherNames": [
+            "PalinGen KardiaMembrane",
+            "PalinGen Kardia XPlus Membrane"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Rate of new onset postoperative atrial fibrillation",
+          "timeFrame": "up to 7 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Procedure-related serious adverse events",
+          "timeFrame": "up to 30 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years or older\n* This cardiac operation is the subject's first or primary cardiac operation\n* The subject must be undergoing an isolated CABG procedure using a median sternotomy approach\n* Must have ability to provide written informed consent\n* Must have ability to fulfill all of the expected requirements of this clinical protocol\n\nPreoperative Exclusion Criteria:\n\n* Prior history of atrial fibrillation\n* Prior history of open heart surgery\n* Prior history of pericarditis\n* Prior history of anti-arrhythmia drug treatment (e.g., amiodarone, dronedarone, or sotalol) in the past six months\n* The subject has an implantable cardiac device (i.e., cardiac resynchronization therapy devices with and without defibrillator capabilities (CRTs and CRT-Ds), implantable cardioverter-defibrillators (ICD) and pacemakers)\n* Concomitant procedure planned\n* In the investigator's opinion, the subject may require prophylactic treatment with anti-arrhythmia drugs or temporary pacing postoperatively\n\nIntraoperative Exclusion Criteria:\n\n* Unexpected procedure (i.e., valve repair/replacement) or intraoperative findings creating an unreasonable intraoperative risk or an increased probability of postoperative complications in terms of recovery.\n* CABG procedure with \\> 3 hours total on (cardiopulmonary bypass) CPB.\n* Prophylactic use of amiodarone.\n\nPostoperative Exclusion Criteria:\n\n* Prophylactic use of amiodarone\n* No prophylactic, temporary pacing except for symptomatic bradycardia or advanced heart black as defined as:\n* Sinus bradycardia \\< 40 beats per minute\n* Type 1 atrioventricular (AV) block\n* Type 2 AV block\n* Complete block",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Zain I Khalpey, MD,PhD,MRCS",
+          "affiliation": "University of Arizona",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Arizona Medical Center",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85724",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.22174,
+            "lon": -110.92648
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "15082699",
+          "type": "BACKGROUND",
+          "citation": "Mathew JP, Fontes ML, Tudor IC, Ramsay J, Duke P, Mazer CD, Barash PG, Hsu PH, Mangano DT; Investigators of the Ischemia Research and Education Foundation; Multicenter Study of Perioperative Ischemia Research Group. A multicenter risk index for atrial fibrillation after cardiac surgery. JAMA. 2004 Apr 14;291(14):1720-9. doi: 10.1001/jama.291.14.1720."
+        },
+        {
+          "pmid": "11747385",
+          "type": "BACKGROUND",
+          "citation": "Maisel WH, Rawn JD, Stevenson WG. Atrial fibrillation after cardiac surgery. Ann Intern Med. 2001 Dec 18;135(12):1061-73. doi: 10.7326/0003-4819-135-12-200112180-00010."
+        },
+        {
+          "pmid": "17015402",
+          "type": "BACKGROUND",
+          "citation": "Burgess DC, Kilborn MJ, Keech AC. Interventions for prevention of post-operative atrial fibrillation and its complications after cardiac surgery: a meta-analysis. Eur Heart J. 2006 Dec;27(23):2846-57. doi: 10.1093/eurheartj/ehl272. Epub 2006 Oct 2."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Maddox TM, Nash IS, Fuster V. Economic costs associated with atrial fibrillation. In: Natale A, Jalife J, ed 1. Atrial Fibrillation: from bench to bedside. Humana press: 13-26, 2008."
+        },
+        {
+          "pmid": "7955207",
+          "type": "BACKGROUND",
+          "citation": "Hamilton DR, Dani RS, Semlacher RA, Smith ER, Kieser TM, Tyberg JV. Right atrial and right ventricular transmural pressures in dogs and humans. Effects of the pericardium. Circulation. 1994 Nov;90(5):2492-500. doi: 10.1161/01.cir.90.5.2492."
+        },
+        {
+          "pmid": "12093773",
+          "type": "BACKGROUND",
+          "citation": "Crystal E, Connolly SJ, Sleik K, Ginger TJ, Yusuf S. Interventions on prevention of postoperative atrial fibrillation in patients undergoing heart surgery: a meta-analysis. Circulation. 2002 Jul 2;106(1):75-80. doi: 10.1161/01.cir.0000021113.44111.3e."
+        },
+        {
+          "pmid": "23194937",
+          "type": "BACKGROUND",
+          "citation": "Guo Y, Lip GY, Apostolakis S. Inflammation in atrial fibrillation. J Am Coll Cardiol. 2012 Dec 4;60(22):2263-70. doi: 10.1016/j.jacc.2012.04.063."
+        },
+        {
+          "pmid": "19650976",
+          "type": "BACKGROUND",
+          "citation": "Cargnoni A, Di Marcello M, Campagnol M, Nassuato C, Albertini A, Parolini O. Amniotic membrane patching promotes ischemic rat heart repair. Cell Transplant. 2009;18(10):1147-59. doi: 10.3727/096368909X12483162196764. Epub 2009 Jun 22."
+        },
+        {
+          "pmid": "21188388",
+          "type": "BACKGROUND",
+          "citation": "Kim HG, Choi OH. Neovascularization in a mouse model via stem cells derived from human fetal amniotic membranes. Heart Vessels. 2011 Mar;26(2):196-205. doi: 10.1007/s00380-010-0064-6. Epub 2010 Dec 25."
+        },
+        {
+          "pmid": "17986813",
+          "type": "BACKGROUND",
+          "citation": "Toda A, Okabe M, Yoshida T, Nikaido T. The potential of amniotic membrane/amnion-derived cells for regeneration of various tissues. J Pharmacol Sci. 2007 Nov;105(3):215-28. doi: 10.1254/jphs.cr0070034. Epub 2007 Nov 6."
+        },
+        {
+          "pmid": "19631653",
+          "type": "BACKGROUND",
+          "citation": "Dobaczewski M, Gonzalez-Quesada C, Frangogiannis NG. The extracellular matrix as a modulator of the inflammatory and reparative response following myocardial infarction. J Mol Cell Cardiol. 2010 Mar;48(3):504-11. doi: 10.1016/j.yjmcc.2009.07.015. Epub 2009 Jul 23."
+        },
+        {
+          "pmid": "25876055",
+          "type": "BACKGROUND",
+          "citation": "Fetterolf DE, Snyder RJ. Scientific and clinical support for the use of dehydrated amniotic membrane in wound management. Wounds. 2012 Oct;24(10):299-307."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001281",
+          "term": "Atrial Fibrillation"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001145",
+          "term": "Arrhythmias, Cardiac"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

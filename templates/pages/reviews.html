@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Review Queue | MOSAIC{% endblock %}
+{% block breadcrumb %}Review Queue{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">HUMAN-IN-THE-LOOP</p>
+        <h1>Review <span>Queue</span></h1>
+        <p class="page-description">Review, approve or reject flagged intelligence signals.</p>
+    </div>
+</section>
+
+<section class="metrics-grid review-metrics">
+    <div class="metric-card"><span>Pending</span><h2 id="review-pending">—</h2></div>
+    <div class="metric-card"><span>Approved</span><h2 id="review-approved">—</h2></div>
+    <div class="metric-card"><span>Rejected</span><h2 id="review-rejected">—</h2></div>
+</section>
+
+<section class="content-card">
+    <div class="card-header">
+        <div>
+            <h3>Pending Decisions</h3>
+            <p>Analyst review items</p>
+        </div>
+    </div>
+    <div id="review-list" class="review-list">
+        <p class="loading-cell">Loading review queue...</p>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', path='js/reviews.js') }}"></script>
+{% endblock %}

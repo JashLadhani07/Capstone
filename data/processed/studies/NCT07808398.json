@@ -1,0 +1,313 @@
+{
+  "nct_id": "NCT07808398",
+  "title": "Comparing Glycemic Outcomes of Carbohydrate Counting vs. Fixed Mealtime Insulin Dosing in Hospitalized Patients With Hyperglycemia: an EHR-embedded Randomized Controlled Study",
+  "sponsor": "Mayo Clinic",
+  "phase": "NA",
+  "status": "NOT_YET_RECRUITING",
+  "conditions": [
+    "Diabetes Type 2 on Insulin",
+    "Hypoglycemia (Diabetic)",
+    "Hyperglycemia Due to Type 2 Diabetes Mellitus"
+  ],
+  "interventions": [
+    "Carbohydrate-counting-based prandial rapid-acting insulin dosing",
+    "Flexible fixed mealtime rapid-acting insulin dosing based on percentage of meal consumed"
+  ],
+  "primary_outcome": "Percentage of Time With Glucose in Target Range of 100 to 180 mg/dL",
+  "secondary_outcomes": [
+    "Number of Hyperglycemia Events Greater Than 300 mg/dL",
+    "Rate of Hyperglycemia Events Greater Than 300 mg/dL Per Patient-Day",
+    "Percentage of Time With Glucose Greater Than 300 mg/dL",
+    "Number of Hypoglycemia Events Less Than 70 mg/dL",
+    "Rate of Hypoglycemia Events Less Than 70 mg/dL Per Patient-Day",
+    "Number of Severe Hypoglycemia Events Less Than 54 mg/dL",
+    "Rate of Severe Hypoglycemia Events Less Than 54 mg/dL Per Patient-Day",
+    "Percentage of Time With Glucose Less Than 70 mg/dL",
+    "Percentage of Time With Glucose Less Than 54 mg/dL",
+    "Average Glucose During Hospitalization",
+    "Hospital Length of Stay",
+    "All-Cause 30-Day Hospital Readmission",
+    "All-Cause 30-Day Emergency Room Visit",
+    "All-Cause Mortality"
+  ],
+  "start_date": "2026-10",
+  "completion_date": "2027-04",
+  "results_posted": false,
+  "enrollment": 500,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07808398",
+        "orgStudyIdInfo": {
+          "id": "25-014608"
+        },
+        "organization": {
+          "fullName": "Mayo Clinic",
+          "class": "OTHER"
+        },
+        "briefTitle": "Comparing Glycemic Outcomes of Carbohydrate Counting vs. Fixed Mealtime Insulin Dosing in Hospitalized Patients With Hyperglycemia",
+        "officialTitle": "Comparing Glycemic Outcomes of Carbohydrate Counting vs. Fixed Mealtime Insulin Dosing in Hospitalized Patients With Hyperglycemia: an EHR-embedded Randomized Controlled Study",
+        "acronym": "MEND"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-09",
+        "overallStatus": "NOT_YET_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2026-10",
+          "type": "ESTIMATED"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-04",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-05",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2026-09-02",
+        "studyFirstSubmitQcDate": "2026-09-02",
+        "studyFirstPostDateStruct": {
+          "date": "2026-09-08",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-09-02",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-09-08",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Sneha Mohan",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "Mayo Clinic"
+        },
+        "leadSponsor": {
+          "name": "Mayo Clinic",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The study compares two current practices for calculating insulin dose for admitted patients: flexible fixed mealtime dosing based on percent of meal eaten and carbohydrate counting based on amount of carbohydrates eaten."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes Type 2 on Insulin",
+          "Hypoglycemia (Diabetic)",
+          "Hyperglycemia Due to Type 2 Diabetes Mellitus"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "TRIPLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER",
+              "INVESTIGATOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 500,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Carbohydrate-Counting-Based Prandial Insulin Dosing",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Participants randomized to this arm will receive prandial rapid-acting insulin using the standard of care carbohydrate-counting workflow. Mealtime insulin dosing will be individualized based on the ordered insulin-to-carbohydrate ratio, carbohydrate intake documented by nursing staff, and any correctional insulin needs.",
+            "interventionNames": [
+              "Other: Carbohydrate-counting-based prandial rapid-acting insulin dosing"
+            ]
+          },
+          {
+            "label": "Flexible Fixed Mealtime Insulin Dosing",
+            "type": "EXPERIMENTAL",
+            "description": "Participants randomized to this arm will receive prandial rapid-acting insulin using a flexible fixed-dose workflow based on the percentage of meal consumed. The mealtime insulin dose will be selected from a pre-specified fixed dose and adjusted according to observed meal intake.",
+            "interventionNames": [
+              "Other: Flexible fixed mealtime rapid-acting insulin dosing based on percentage of meal consumed"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "Carbohydrate-counting-based prandial rapid-acting insulin dosing",
+            "description": "For each meal, the provider enters an insulin-to-carbohydrate ratio in the EHR. After the meal, nursing staff document the grams of carbohydrates consumed. The EHR calculates the rapid-acting insulin dose using the ordered insulin-to-carbohydrate ratio, along with any correctional insulin dose based on the pre-meal glucose value. The calculated insulin dose is then administered as soon as possible after meal completion.",
+            "armGroupLabels": [
+              "Carbohydrate-Counting-Based Prandial Insulin Dosing"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Flexible fixed mealtime rapid-acting insulin dosing based on percentage of meal consumed",
+            "description": "For each meal, the EHR calculates a full fixed prandial rapid-acting insulin dose from the provider-entered insulin-to-carbohydrate ratio, assuming a full meal contains 75 grams of carbohydrates and rounding to the nearest whole-unit dose according to the protocol. After the meal, nursing staff document whether the participant consumed 0%, 25%, 50%, 75%, or 100% of the meal. The EHR then instructs nursing staff to administer the corresponding proportion of the fixed dose as soon as possible after meal completion.",
+            "armGroupLabels": [
+              "Flexible Fixed Mealtime Insulin Dosing"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Percentage of Time With Glucose in Target Range of 100 to 180 mg/dL",
+            "description": "Patient-level percentage of time that glucose is within the target range of 100 to 180 mg/dL. This measure will be calculated using all glucose values obtained from randomization to discharge. For each patient, the time within range will be calculated using linear interpolation between consecutive measurements. For the percentage calculation, the numerator will be the calculated time within range, and the denominator will be the total time from the first glucose measurement after randomization to the last glucose measurement before discharge.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Number of Hyperglycemia Events Greater Than 300 mg/dL",
+            "description": "Number of glucose values greater than 300 mg/dL from randomization to hospital discharge.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Rate of Hyperglycemia Events Greater Than 300 mg/dL Per Patient-Day",
+            "description": "Rate of glucose values greater than 300 mg/dL, calculated as the number of hyperglycemia events divided by the number of patient-days from randomization to hospital discharge.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Percentage of Time With Glucose Greater Than 300 mg/dL",
+            "description": "Patient-level percentage of time that glucose is greater than 300 mg/dL, calculated using available glucose measurements from randomization to hospital discharge with linear interpolation between consecutive measurements.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Number of Hypoglycemia Events Less Than 70 mg/dL",
+            "description": "Number of glucose values less than 70 mg/dL from randomization to hospital discharge.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Rate of Hypoglycemia Events Less Than 70 mg/dL Per Patient-Day",
+            "description": "Rate of glucose values less than 70 mg/dL, calculated as the number of hypoglycemia events divided by the number of patient-days from randomization to hospital discharge.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Number of Severe Hypoglycemia Events Less Than 54 mg/dL",
+            "description": "Number of glucose values less than 54 mg/dL from randomization to hospital discharge.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Rate of Severe Hypoglycemia Events Less Than 54 mg/dL Per Patient-Day",
+            "description": "Rate of glucose values less than 54 mg/dL, calculated as the number of severe hypoglycemia events divided by the number of patient-days from randomization to hospital discharge.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Percentage of Time With Glucose Less Than 70 mg/dL",
+            "description": "Patient-level percentage of time that glucose is less than 70 mg/dL, calculated using available glucose measurements from randomization to hospital discharge with linear interpolation between consecutive measurements.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Percentage of Time With Glucose Less Than 54 mg/dL",
+            "description": "Patient-level percentage of time that glucose is less than 54 mg/dL, calculated using available glucose measurements from randomization to hospital discharge with linear interpolation between consecutive measurements.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Average Glucose During Hospitalization",
+            "description": "Mean glucose value during hospitalization, calculated using all point-of-care capillary and pertinent serum glucose values collected from randomization to hospital discharge.",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "Hospital Length of Stay",
+            "description": "Duration of hospitalization after randomization, reported in days",
+            "timeFrame": "From randomization to hospital discharge, up to 30 days"
+          },
+          {
+            "measure": "All-Cause 30-Day Hospital Readmission",
+            "description": "Occurrence of all-cause hospital readmission within 30 days after hospital discharge.",
+            "timeFrame": "Within 30 days after hospital discharge"
+          },
+          {
+            "measure": "All-Cause 30-Day Emergency Room Visit",
+            "description": "Occurrence of an all-cause emergency room visit within 30 days after hospital discharge.",
+            "timeFrame": "Within 30 days after hospital discharge"
+          },
+          {
+            "measure": "All-Cause Mortality",
+            "description": "Occurrence of death from any cause during study participation or within 30 days after completion of study participation.",
+            "timeFrame": "From randomization through 30 days after completion of study participation"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion criteria\n\n* Adults \u226518 years\n* Admitted to non-ICU units\n* Require scheduled prandial insulin as part of basal-bolus insulin therapy with CC.\n\nExclusion criteria\n\n* History of type 1 DM\n* History of total pancreatectomy\n* Use of pre-admission CC for prandial insulin administration\n* Critical illness requiring ICU admission at time of recruitment.\n* Admission to psychiatry services\n* Pregnancy\n* All forms of enteral/tube feeding or parenteral nutrition at recruitment\n* Observation status at time of recruitment",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Melissa Wang",
+            "role": "CONTACT",
+            "phone": "507-266-6911",
+            "email": "wang.melissa@mayo.edu"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Sneha Mohan, MBBS",
+            "affiliation": "Mayo Clinic",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D007003",
+            "term": "Hypoglycemia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604380"
+}

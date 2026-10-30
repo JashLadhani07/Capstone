@@ -1,0 +1,32 @@
+{
+  "pmid": "18375998",
+  "title": "Comparison of angioplasty with infusion of tirofiban or abciximab and with implantation of sirolimus-eluting or uncoated stents for acute myocardial infarction: the MULTISTRATEGY randomized trial.",
+  "abstract": "Abciximab infusion and uncoated-stent implantation is a complementary treatment strategy to reduce major adverse cardiac events in patients undergoing angioplasty for ST-segment elevation myocardial infarction (STEMI). It is uncertain whether there may be similar benefits in replacing abciximab with high-dose bolus tirofiban. Similarly, the use of drug-eluting stents in this patient population is currently discouraged because of conflicting results on efficacy reported in randomized trials and safety concerns reported by registries. To evaluate the effect of high-dose bolus tirofiban and of sirolimus-eluting stents as compared with abciximab infusion and uncoated-stent implantation in patients with STEMI undergoing percutaneous coronary intervention. An open-label, 2 x 2 factorial trial of 745 patients presenting with STEMI or new left bundle-branch block at 16 referral centers in Italy, Spain, and Argentina between October 2004 and April 2007. High-dose bolus tirofiban vs abciximab infusion and sirolimus-eluting stent vs uncoated stent implantation. For drug comparison, at least 50% ST-segment elevation resolution at 90 minutes postintervention with a prespecified noninferiority margin of 9% difference (relative risk, 0.89); for stent comparison, the rate of major adverse cardiac events, defined as the composite of death from any cause, reinfarction, and clinically driven target-vessel revascularization within 8 months. ST-segment resolution occurred in 302 of 361 patients (83.6%) who had received abciximab infusion and 308 of 361 (85.3%) who had received tirofiban infusion (relative risk, 1.020; 97.5% confidence interval, 0.958-1.086; P < .001 for noninferiority). Ischemic and hemorrhagic outcomes were similar in the tirofiban and abciximab groups. At 8 months, major adverse cardiac events occurred in 54 patients (14.5%) with uncoated stents and 29 (7.8%) with sirolimus stents (P = .004), predominantly reflecting a reduction of revascularization rates (10.2% vs 3.2%). The incidence of stent thrombosis was similar in the 2 stent groups. In patients with STEMI undergoing percutaneous coronary intervention, compared with abciximab, tirofiban therapy was associated with noninferior resolution of ST-segment elevation at 90 minutes following coronary intervention, whereas sirolimus-eluting stent implantation was associated with a significantly lower risk of major adverse cardiac events than uncoated stents within 8 months after intervention. clinicaltrials.gov Identifier: NCT00229515.",
+  "journal": "JAMA",
+  "pub_date": "2008-Apr",
+  "authors": [
+    "Valgimigli, Marco",
+    "Campo, Gianluca",
+    "Percoco, Gianfranco",
+    "Bolognese, Leonardo",
+    "Vassanelli, Corrado",
+    "Colangelo, Salvatore",
+    "de Cesare, Nicoletta",
+    "Rodriguez, Alfredo E",
+    "Ferrario, Maurizio",
+    "Moreno, Raul",
+    "Piva, Tommaso",
+    "Sheiban, Imad",
+    "Pasquetto, Giampaolo",
+    "Prati, Francesco",
+    "Nazzaro, Marco S",
+    "Parrinello, Giovanni",
+    "Ferrari, Roberto"
+  ],
+  "nct_ids_referenced": [
+    "NCT00229515"
+  ],
+  "source": "pubmed",
+  "word_count": 345,
+  "parsed_at": "2026-10-30T10:32:11.956714"
+}

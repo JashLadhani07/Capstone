@@ -1,0 +1,278 @@
+{
+  "nct_id": "NCT06947577",
+  "title": "The Effectiveness of Adding Pulsed Electromagnetic Field Therapy to a Tailored Exercise Program for Patients Suffering From Chemotherapy-induced Neuropathy Related to Breast Cancer: a Controlled, Double-blind Clinical Trial.",
+  "sponsor": "Cairo University",
+  "phase": "PHASE4",
+  "status": "COMPLETED",
+  "conditions": [
+    "Neuropathic"
+  ],
+  "interventions": [
+    "pulsed electromagnetic field (PEMF) therapy and a tailored exercise program (TEP)",
+    "Tailored Exercise Program"
+  ],
+  "primary_outcome": "visual analogue scale",
+  "secondary_outcomes": [
+    "NCV",
+    "The Functional Assessment of Cancer Therapy-Neurotoxicity (FACT-Ntx) questionnaire",
+    "BBS"
+  ],
+  "start_date": "2024-05-01",
+  "completion_date": "2024-05-08",
+  "results_posted": false,
+  "enrollment": 80,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06947577",
+        "orgStudyIdInfo": {
+          "id": "PT.BU.EC.17"
+        },
+        "organization": {
+          "fullName": "Cairo University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Pulsed Electromagnetic Field Therapy to a Tailored Exercise Program for Patients Suffering From Chemotherapy-induced Neuropathy Related to Breast Cancer",
+        "officialTitle": "The Effectiveness of Adding Pulsed Electromagnetic Field Therapy to a Tailored Exercise Program for Patients Suffering From Chemotherapy-induced Neuropathy Related to Breast Cancer: a Controlled, Double-blind Clinical Trial.",
+        "acronym": "PEMFTEPCHIN"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2025-08",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2024-05-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2024-05-08",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2024-12-30",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2025-04-21",
+        "studyFirstSubmitQcDate": "2025-04-21",
+        "studyFirstPostDateStruct": {
+          "date": "2025-04-27",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2025-08-15",
+        "lastUpdatePostDateStruct": {
+          "date": "2025-08-20",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Hany Mohamed Ibrahim Elgohary",
+          "investigatorTitle": "Professor",
+          "investigatorAffiliation": "Cairo University"
+        },
+        "leadSponsor": {
+          "name": "Cairo University",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This research studied the usefulness of a targeted intervention designed to manage chemotherapy-induced symptoms, particularly focusing on pain relief, balance deviations and functional improvements. Eighty participants were randomly allocated to either an experimental group, which received a combination of pulsed electromagnetic field (PEMF) therapy and a tailored exercise program (TEP), or a control one that only received the TEP. The study employed several primary measures, including the Visual Analog Scale (VAS) for pain assessment, the Functional Assessment of Cancer Therapy (FACT-Ntx) for evaluating functional status, the Biodex balance system (BBS) for assessing overall sway and stability indices, and nerve conduction velocity (NCV) assessments.",
+        "detailedDescription": "Material and Methods Design A randomized controlled comparative double-blind trial was conducted to assess the effectiveness of various interventions for female participants experiencing lower limb CHIN associated with breast cancer. In this study, both participants and assessors were blinded to group assignments to eliminate bias. A total of eighty female participants were screened and randomly assigned to two groups: the study group, which received a combination of PEMF therapy and TEP, and the control group, which received only TEP. Both groups followed their respective treatment protocols three times a week for six weeks. Assessments measuring postural stability, pain intensity, functional status, and NCV were conducted at three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions.\n\nParticipants For the analysis, participants were recruited from the registry files of patients diagnosed with lower limb CHIN associated with breast cancer at the outpatient clinic of the Department of Neurology at Kasr Elaini Hospital, Cairo University. They were examined and diagnosed by a qualified medical practitioner or neurologist. The study required participants to be adults, typically aged 40 or older, and to present with moderate to severe neuropathic symptoms, including pain, numbness, or tingling in the lower limbs (16). It was essential for participants to be willing to adhere to the treatment protocol. Additionally, informed consent was required, ensuring that participants understood the nature of the therapy, along with its potential risks and benefits. Certain conditions excluded individuals from participating in PEMF therapy, including those with implanted medical devices like pacemakers or defibrillators, as well as pregnant individuals. Participants with active infections, open wounds, or severe skin conditions in the treatment area were also disqualified. Individuals with significant cardiovascular issues or other serious health conditions were deemed unsuitable for PEMF therapy. Furthermore, patients who had recently undergone surgery in the targeted area were excluded. Lastly, individuals who were unlikely to comply with the treatment protocol or follow-up assessments were also excluded from the study. All participants ceased the use of any medications intended for the treatment of neuropathy during the treatment protocol.\n\nSample size A power analysis was conducted to establish the required sample size for the study. This analysis utilized VAS data based on a pilot study, which reported a mean of 7 and a standard deviation of 1.5. With a two-sided significance level set at 0.05 and a desired power of 80%, the effect size was determined to be 1. The calculations indicated that a total of 72 patients would be necessary for the study. To account for a potential dropout rate of 10%, the enrollment was adjusted to 40 patients in each group, leading to a total of 80 participants. All processes involving human subjects complied with the ethical guidelines established by the relevant institutional and national research committees, following the principles outlined in the 1964 Declaration of Helsinki and its later revisions. The Research Ethics Committee of the Faculty of Physical Therapy at Benha University oversaw these standards and approved the study (---------------------------). Participants were thoroughly informed about the study design, both verbally and in writing, and all individuals provided signed informed consent to participate.\n\nMeasures To accumulate desired data for the analysis, for all subjects, the BBS was used for the measurement of postural stability, pain intensity was measured by VAS, FACT-Ntx) for evaluating functional status. furthermore, NCV was performed to objectively assess nerve function. Each assessment method was conducted at the beginning of the treatment to establish a baseline, again after six weeks of intervention, and finally eight weeks later for follow-up after the completion of the interventions.\n\nBBS BBS- SD (950-440 with version 4.X software was utilized as an objective assessment tool to evaluate postural stability in this study. This device, equipped with version 4.X software, is specifically designed to measure and train postural stability on both stable and unstable surfaces. The system features a mobile platform that can tilt up to 20 degrees in all directions and offers 12 levels of difficulty. The Stability Index of the BBS is a key metric used in various studies to assess postural stability, focusing on a patient's ability to maintain their center of balance. The system calculated several parameters, including the overall sway index (OSWI), and the overall stability index (OSI), which reflect the degree of tilt across the anterior-posterior (AP) and medial-lateral (ML) dimensions. A lower score on this assessment indicated better stability, as it represents fewer deviations from the center. To conduct the Postural Stability Test, several steps were followed to ensure accurate measurements. Initially, the support handles and display settings were adjusted for patient comfort. The patient's name and height were entered into the system. The platform's stability was set to static for the initial trial and adjusted to level 4 for the final assessment. The patient was positioned to align their center of gravity with the system's axis, and their foot placements were recorded. After initiating the test, data collection commenced with a three-second countdown, followed by multiple trials to assess stability. Upon completion, results were displayed, allowing for further analysis and documentation of the patient's postural stability performance. BBS was conducted at three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions (17).\n\nThe Functional Assessment of Cancer Therapy-Neurotoxicity (FACT-Ntx) questionnaire FACT-Ntx is a validated tool specifically designed to assess the neurotoxic effects of cancer treatments on patients' daily functioning. Its validity has been established through rigorous psychometric testing, demonstrating that the questionnaire accurately measures symptoms associated with neurotoxicity, such as sensory and motor impairments. The FACT-Ntx exhibits high reliability, with internal consistency coefficients (Cronbach's alpha) typically exceeding 0.85, indicating that the items consistently assess the same fundamental concept. The scoring system employs a 5-point Likert scale, where patients rate their experiences from 0 (not at all) to 4 (very much), allowing for the quantification of neurotoxic effects. Total scores range from 0 to 44, with higher scores indicating better functional status and fewer neurotoxic symptoms. This scoring approach enables researchers to effectively monitor changes in patients' functional abilities throughout the course of treatment, thereby providing valuable insights into the impact of interventions on neurotoxicity-related quality of life. FACT-Ntx was conducted at three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions (18). FACT-Ntx was conducted at three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions.\n\nThe Visual Analogue Scale (VAS) VAS is a commonly used instrument for evaluating pain intensity, offering a straightforward and effective way for patients to express their pain levels. Typically, the VAS features a straight line, usually measuring 10 centimeters in length, with one end marked \"no pain\" and the other \"worst pain imaginable.\" Patients are asked to indicate a point on the line that reflects their current pain level, enabling a subjective assessment of pain intensity. The distance measured in millimeters from the \"no pain\" end to the patient's chosen mark is then converted into a numerical score that ranges from 0 to 10. VAS was conducted at three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions (19).\n\nNCV Neuropack Nihon Kohden Electrodiagnostic system was used for patients to measure NCV. The positioning of electrodes for evaluating the sensory and motor functions of the peroneal nerve is vital for obtaining accurate nerve conduction velocity (NCV) measurements, which are essential diagnostic tools for assessing peripheral nerve function and detecting potential neuropathies. For the peroneal nerve, which facilitates dorsiflexion and foot eversion, the motor electrode is generally placed over the tibialis anterior muscle on the outer side of the lower leg, while the stimulating electrode is situated at the fibular head, where the nerve is easily accessible. For sensory evaluation, the recording electrode is positioned on the top of the foot, specifically in the web space between the first and second toes, where the superficial peroneal nerve provides sensory input. The stimulating electrode is then placed about 10 cm above the recording site on the lateral aspect the lower leg to trigger sensory responses. NCV was conducted at three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions (20).\n\nPulsed electromagnetic field (PEMF) In the use of pulsed electromagnetic field (PEMF) therapy for addressing chemotherapy-induced peripheral neuritis in the lower limb, patients were first prepared by ensuring they were in a relaxed state, free from distractions, and instructed to remove any metallic items while wearing comfortable clothing. The treatment utilized the ASA Easy Terza series PEMF device from Italy, with each patient positioned comfortably in a supine posture. The device was connected to a 220 V electrical supply, and the solenoid was placed over the lower leg, operating at a frequency of 50 Hz and an intensity of 20 G for a duration of 20 minutes. Patients were situated in a position between sitting and lying, with their lower legs and feet positioned within the solenoid. The setup adhered to the manufacturer's guidelines to ensure effective delivery of the magnetic oscillations, with treatment parameters meticulously adjusted. During the therapy sessions, patients remained comfortably positioned with their affected limb exposed to the PEMF applicators. Typically, treatments were conducted three times a week over a six-week period, with each session lasting 20 minutes to facilitate the penetration of pulsed electromagnetic fields into the tissues, thereby promoting nerve regeneration.\n\nTailored exercise program (TEP) This TEP has been meticulously designed to address the rehabilitation needs of patients dealing with lower limb issues. The program encompasses a comprehensive approach, integrating various types of exercises aimed at enhancing strength, functional mobility, balance, coordination, flexibility, and pain management. The sequence of exercises begins with strengthening exercises targeting key muscle groups such as the gastrocnemius and tibialis anterior, followed by functional training activities that simulate daily movements. This is complemented by balance and coordination drills, coordination drills that challenge stability, and flexibility and stretching exercises to improve range of motion. Additionally, pain management techniques and therapeutic modalities like hot packs are incorporated to alleviate discomfort and enhance relaxation. Finally, the program concludes with low-impact aerobics, such as walking programs, to promote cardiovascular fitness. Prior to commencing the exercise sessions, patients are prepared by ensuring they are in a comfortable state, equipped with appropriate clothing, and informed about the exercises they will be performing to foster a positive and engaging rehabilitation experience."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Neuropathic"
+        ],
+        "keywords": [
+          "Chemotherapy-Induced Symptoms",
+          "Pain Management",
+          "Functional Outcomes"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE4"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "interventionModelDescription": "randomized controlled comparative double-blind trial",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "maskingDescription": "assessors were blinded to group assignments",
+            "whoMasked": [
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 80,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "experimental group",
+            "type": "EXPERIMENTAL",
+            "description": "an experimental group, which received a combination of pulsed electromagnetic field (PEMF) therapy and a tailored exercise program (TEP)",
+            "interventionNames": [
+              "Other: pulsed electromagnetic field (PEMF) therapy and a tailored exercise program (TEP)",
+              "Other: Tailored Exercise Program"
+            ]
+          },
+          {
+            "label": "control group",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "control group that received a tailored exercise program (TEP)",
+            "interventionNames": [
+              "Other: Tailored Exercise Program"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "OTHER",
+            "name": "pulsed electromagnetic field (PEMF) therapy and a tailored exercise program (TEP)",
+            "description": "pulsed electromagnetic field (PEMF) therapy for addressing chemotherapy-induced peripheral neuritis in the lower limb, patients were first prepared by ensuring they were in a relaxed state, free from distractions, and instructed to remove any metallic items while wearing comfortable clothing. The treatment utilized the ASA Easy Terza series PEMF device from Italy, with each patient positioned comfortably in a supine posture. The device was connected to a 220 V electrical supply, and the solenoid was placed over the lower leg, operating at a frequency of 50 Hz and an intensity of 20 G for a duration of 20 minutes. Patients were situated in a position between sitting and lying, with their lower legs and feet positioned within the solenoid. The setup adhered to the manufacturer's guidelines to ensure effective delivery of the magnetic oscillations, with treatment parameters meticulously adjusted",
+            "armGroupLabels": [
+              "experimental group"
+            ]
+          },
+          {
+            "type": "OTHER",
+            "name": "Tailored Exercise Program",
+            "description": "This TEP has been meticulously designed to address the rehabilitation needs of patients dealing with lower limb issues. The program encompasses a comprehensive approach, integrating various types of exercises aimed at enhancing strength, functional mobility, balance, coordination, flexibility, and pain management. The sequence of exercises begins with strengthening exercises targeting key muscle groups such as the gastrocnemius and tibialis anterior, followed by functional training activities that simulate daily movements. This is complemented by balance and coordination drills, coordination drills that challenge stability, and flexibility and stretching exercises to improve range of motion. Additionally, pain management techniques and therapeutic modalities like hot packs are incorporated to alleviate discomfort and enhance relaxation. Finally, the program concludes with low-impact aerobics, such as walking programs, to promote cardiovascular fitness. Prior to commencing the exercise",
+            "armGroupLabels": [
+              "control group",
+              "experimental group"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "visual analogue scale",
+            "description": "VAS is a commonly used instrument for evaluating pain intensity, offering a straightforward and effective way for patients to express their pain levels. Typically, the VAS features a straight line, usually measuring 10 centimeters in length, with one end marked \"no pain\" and the other \"worst pain imaginable.\" Patients are asked to indicate a point on the line that reflects their current pain level, enabling a subjective assessment of pain intensity. The distance measured in millimeters from the \"no pain\" end to the patient's chosen mark is then converted into a numerical score that ranges from 0 to 10.",
+            "timeFrame": "conducted at three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "NCV",
+            "description": "Electrodiagnostic system was used for patients to measure NCV. The positioning of electrodes for evaluating the sensory and motor functions of the peroneal nerve is vital for obtaining accurate nerve conduction velocity (NCV) measurements, which are essential diagnostic tools for assessing peripheral nerve function and detecting potential neuropathies. For the peroneal nerve, which facilitates dorsiflexion and foot eversion, the motor electrode is generally placed over the tibialis anterior muscle on the outer side of the lower leg, while the stimulating electrode is situated at the fibular head, where the nerve is easily accessible. For sensory evaluation, the recording electrode is positioned on the top of the foot, specifically in the web space between the first and second toes, where the superficial peroneal nerve provides sensory input. The stimulating electrode is then placed about 10 cm above the recording site on the lateral aspect the lower leg to trigger sensory responses.",
+            "timeFrame": "three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions"
+          },
+          {
+            "measure": "The Functional Assessment of Cancer Therapy-Neurotoxicity (FACT-Ntx) questionnaire",
+            "description": "FACT-Ntx is a validated tool specifically designed to assess the neurotoxic effects of cancer treatments on patients' daily functioning. Its validity has been established through rigorous psychometric testing, demonstrating that the questionnaire accurately measures symptoms associated with neurotoxicity, such as sensory and motor impairments. The FACT-Ntx exhibits high reliability, with internal consistency coefficients (Cronbach's alpha) typically exceeding 0.85, indicating that the items consistently assess the same fundamental concept. The scoring system employs a 5-point Likert scale, where patients rate their experiences from 0 (not at all) to 4 (very much), allowing for the quantification of neurotoxic effects. Total scores range from 0 to 44, with higher scores indicating better functional status and fewer neurotoxic symptoms.",
+            "timeFrame": "three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions."
+          },
+          {
+            "measure": "BBS",
+            "description": "The system features a mobile platform that can tilt up to 20 degrees in all directions and offers 12 levels of difficulty. The Stability Index of the BBS is a key metric used in various studies to assess postural stability, focusing on a patient's ability to maintain their center of balance. The system calculated several parameters, including the overall sway index (OSWI), and the overall stability index (OSI), which reflect the degree of tilt across the anterior-posterior (AP) and medial-lateral (ML) dimensions. A lower score on this assessment indicated better stability, as it represents fewer deviations from the center. To conduct the Postural Stability Test, several steps were followed to ensure accurate measurements. Initially, the support handles and display settings were adjusted for patient comfort. The patient's name and height were entered into the system. The platform's stability was set to static for the initial trial and adjusted to level 4 for the final assessment. The p",
+            "timeFrame": "conducted at three intervals: prior to the interventions, after the six-week treatment period, and again eight weeks post-treatment as a follow- up to evaluate the long-term effects of the interventions"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* The study required participants to be adults,\n* typically aged 40 or older,\n* and to present with moderate to severe neuropathic symptoms, including pain, numbness, or tingling in the lower limbs .\n* It was essential for participants to be willing to adhere to the treatment protocol.\n\nExclusion Criteria:\n\n* those with implanted medical devices like pacemakers or defibrillators,\n* as well as pregnant individuals.\n* Participants with active infections, open wounds, or severe skin conditions in the treatment area.\n* Individuals with significant cardiovascular issues or other serious health conditions were deemed unsuitable for PEMF therapy.\n\nFurthermore, patients who had recently undergone surgery in the targeted area - individuals who were unlikely to comply with the treatment protocol or follow-up assessments",
+        "healthyVolunteers": false,
+        "sex": "FEMALE",
+        "minimumAge": "40 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "faculty of physical therapy, Cairo University",
+            "city": "Cairo",
+            "zip": "P.O.Box 11432",
+            "country": "Egypt",
+            "geoPoint": {
+              "lat": 30.06263,
+              "lon": 31.24967
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "35422171",
+            "type": "RESULT",
+            "citation": "Elfahl AM, Abd El Baky AM, Yousef MT, Elgohary HM. High Versus Low Frequency Transcutaneous Electric Nerve Stimulation On Chronic Venous Lower Limb Ulceration Randomized Controlled Trial. Int J Low Extrem Wounds. 2025 Jun;24(2):376-382. doi: 10.1177/15347346221093860. Epub 2022 Apr 14."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO",
+        "description": "it will be available when needed"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000377",
+            "term": "Agnosia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D010468",
+            "term": "Perceptual Disorders"
+          },
+          {
+            "id": "D019954",
+            "term": "Neurobehavioral Manifestations"
+          },
+          {
+            "id": "D009461",
+            "term": "Neurologic Manifestations"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D012816",
+            "term": "Signs and Symptoms"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628570"
+}

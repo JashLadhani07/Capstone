@@ -1,0 +1,293 @@
+{
+  "nct_id": "NCT07750392",
+  "title": "The Role of Dry Needling Therapy and Low-Level Laser Microcurrent Electrical Stimulation on Serum Levels of Tumor Necrosis Factor-alpha (TNF-\u03b1) and Malondialdehyde (MDA) in Myofascial Pain Syndrome",
+  "sponsor": "Udayana University",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "Myofacial Pain Syndrome"
+  ],
+  "interventions": [
+    "Dry Needle",
+    "Low-Level Laser Microcurrent Electrical Stimulation",
+    "Sham Dry Needle"
+  ],
+  "primary_outcome": "Change in Serum Malondialdehyde (MDA) Concentration",
+  "secondary_outcomes": [],
+  "start_date": "2026-07-30",
+  "completion_date": "2026-11-30",
+  "results_posted": false,
+  "enrollment": 80,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT07750392",
+        "orgStudyIdInfo": {
+          "id": "2632/UN14.2.2.VII.14/LT/2026"
+        },
+        "organization": {
+          "fullName": "Udayana University",
+          "class": "OTHER"
+        },
+        "briefTitle": "Dry Needling and Low-Level Laser Microcurrent Electrical Stimulation for Myofascial Pain Syndrome",
+        "officialTitle": "The Role of Dry Needling Therapy and Low-Level Laser Microcurrent Electrical Stimulation on Serum Levels of Tumor Necrosis Factor-alpha (TNF-\u03b1) and Malondialdehyde (MDA) in Myofascial Pain Syndrome"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-08",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2026-07-30",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2026-11-30",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-02-28",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2026-08-02",
+        "studyFirstSubmitQcDate": "2026-08-02",
+        "studyFirstPostDateStruct": {
+          "date": "2026-08-06",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-08-05",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-08-10",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "I Putu Eka Widyadharma, MD, MSc, PhD",
+          "investigatorTitle": "Head of Neurology Study Program, Principal Investigator, Associate Professor",
+          "investigatorAffiliation": "Udayana University"
+        },
+        "leadSponsor": {
+          "name": "Udayana University",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": true,
+        "isUsExport": true
+      },
+      "descriptionModule": {
+        "briefSummary": "This study aims to evaluate the effectiveness of dry needling and Low-Level Laser Microcurrent Electrical Stimulation (LL MCES) in patients with acute upper trapezius myofascial pain syndrome (MPS) by assessing both biological and clinical outcomes. Specifically, it investigates whether these interventions reduce serum levels of the inflammatory biomarker tumor necrosis factor-alpha (TNF-\u03b1) and the oxidative stress biomarker malondialdehyde (MDA), while also improving pain intensity and neck-related disability. The study seeks to address the current knowledge gap regarding the relationship between changes in inflammatory and oxidative stress biomarkers and clinical improvement following these non-pharmacological treatments. The primary research question is: Do dry needling and LL MCES reduce serum TNF-\u03b1 and MDA levels and improve clinical outcomes in patients with acute upper trapezius myofascial pain syndrome?\n\nParticipants will:\n\nBe randomly assigned to receive dry needling, LL MCES, combined dry needling and LL MCES, or sham dry needling.\n\nReceive treatment according to the assigned intervention protocol. Undergo blood sampling before and after the intervention to measure serum TNF-\u03b1 and MDA levels.\n\nComplete assessments of pain intensity using the Numerical Pain Rating Scale (NPRS) and neck-related disability using the Neck Disability Index (NDI) before and after treatment.\n\nAttend scheduled follow-up visits for clinical evaluation and outcome assessment.",
+        "detailedDescription": "Myofascial pain syndrome (MPS) is a common musculoskeletal pain disorder characterized by the presence of myofascial trigger points within skeletal muscle, resulting in localized and referred pain, reduced range of motion, and functional impairment. Acute upper trapezius MPS is associated with activation of inflammatory pathways and oxidative stress, including increased production of pro-inflammatory cytokines such as tumor necrosis factor-alpha (TNF-\u03b1) and lipid peroxidation products such as malondialdehyde (MDA). These biological processes contribute to peripheral sensitization and may play an important role in the development and persistence of pain.\n\nDry needling is a minimally invasive intervention that targets myofascial trigger points through insertion of a solid filiform needle to elicit mechanical and neurophysiological responses. Proposed mechanisms include normalization of dysfunctional motor end plates, improvement of local blood flow, reduction of inflammatory mediators, and modulation of peripheral nociceptive input. Low-Level Laser Microcurrent Electrical Stimulation (LL MCES) is a non-pharmacological modality that combines low-level laser therapy with microcurrent electrical stimulation to promote cellular repair, enhance adenosine triphosphate (ATP) production, improve tissue regeneration, and reduce inflammatory activity. Although both interventions have demonstrated clinical benefits in patients with MPS, evidence comparing their effects on systemic inflammatory and oxidative stress biomarkers remains limited.\n\nThis study is designed to investigate the biological mechanisms underlying the therapeutic effects of dry needling and LL MCES by evaluating changes in serum TNF-\u03b1 and MDA concentrations following treatment. Clinical outcomes will be examined concurrently to explore whether biomarker modulation is associated with improvements in pain and functional disability. By integrating objective laboratory measures with patient-reported clinical outcomes, the study aims to provide insight into the pathophysiological mechanisms of treatment response in acute upper trapezius MPS.\n\nThe study will employ a prospective randomized controlled design involving adults with acute upper trapezius MPS. Participants will be allocated to one of four intervention groups: dry needling alone, LL MCES alone, combined dry needling and LL MCES, or sham dry needling. Serum TNF-\u03b1 and MDA levels will be measured before and after the intervention, together with standardized assessments of pain intensity and neck-related disability. The findings are expected to clarify whether biomarker changes parallel clinical improvement and to provide evidence supporting mechanism-based, non-pharmacological management strategies for acute myofascial pain syndrome."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Myofacial Pain Syndrome"
+        ],
+        "keywords": [
+          "myofascial",
+          "dry needling",
+          "laser",
+          "tnf-alpha",
+          "Malondialdehyde"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "BASIC_SCIENCE",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 80,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Dry Needling Group",
+            "type": "EXPERIMENTAL",
+            "description": "Participants receive dry needling treatment targeting active myofascial trigger points in the upper trapezius muscle according to the study protocol.",
+            "interventionNames": [
+              "Device: Dry Needle"
+            ]
+          },
+          {
+            "label": "Low-Level Laser Microcurrent Electrical Stimulation (LL MCES)",
+            "type": "EXPERIMENTAL",
+            "description": "Participants receive LL MCES therapy applied to the upper trapezius trigger point region according to the study protocol.",
+            "interventionNames": [
+              "Device: Low-Level Laser Microcurrent Electrical Stimulation"
+            ]
+          },
+          {
+            "label": "Combined Dry Needling + LL MCES",
+            "type": "EXPERIMENTAL",
+            "description": "Participants receive both dry needling and LL MCES during the same treatment session according to the study protocol.",
+            "interventionNames": [
+              "Device: Dry Needle",
+              "Device: Low-Level Laser Microcurrent Electrical Stimulation"
+            ]
+          },
+          {
+            "label": "Sham Dry Needling",
+            "type": "SHAM_COMPARATOR",
+            "description": "Participants receive a sham dry needling procedure designed to mimic the treatment experience without therapeutic needle penetration of the trigger point.",
+            "interventionNames": [
+              "Device: Sham Dry Needle"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "Dry Needle",
+            "description": "Dry needling is performed using a sterile disposable filiform needle inserted into identified active trigger points of the upper trapezius muscle. The needle is manipulated to elicit a local twitch response when possible, and the procedure is conducted by a trained physician following a standardized treatment protocol.",
+            "armGroupLabels": [
+              "Combined Dry Needling + LL MCES",
+              "Dry Needling Group"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Low-Level Laser Microcurrent Electrical Stimulation",
+            "description": "Low-Level Laser Microcurrent Electrical Stimulation (LL MCES) LL MCES is delivered using a therapeutic device that combines low-level laser irradiation and microcurrent electrical stimulation. Treatment parameters, application sites, and duration are standardized across participants.",
+            "armGroupLabels": [
+              "Combined Dry Needling + LL MCES",
+              "Low-Level Laser Microcurrent Electrical Stimulation (LL MCES)"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Sham Dry Needle",
+            "description": "A validated sham needling technique is used in which the procedure simulates dry needling while avoiding therapeutic penetration of the myofascial trigger point. The duration and treatment setting are matched to the active dry needling intervention.",
+            "armGroupLabels": [
+              "Sham Dry Needling"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Change in Serum Malondialdehyde (MDA) Concentration",
+            "description": "Change in serum malondialdehyde (MDA) concentration from baseline to post-intervention measured using ELISA. Results will be expressed in nmol/mL. A greater reduction indicates improvement in oxidative stress.",
+            "timeFrame": "Baseline and 3 days after completion of the intervention."
+          },
+          {
+            "measure": "Change in Serum Tumor Necrosis Factor-Alpha (TNF-\u03b1) Concentration",
+            "description": "Change in serum TNF-\u03b1 concentration from baseline to post-intervention measured using enzyme-linked immunosorbent assay (ELISA). Results will be expressed in pg/mL. A greater reduction indicates improvement in systemic inflammatory activity.",
+            "timeFrame": "Baseline and 3 days after completion of the intervention."
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must meet all of the following criteria:\n\nAdults aged 20 to 45 years. Clinical diagnosis of acute upper trapezius myofascial pain syndrome (MPS) with symptom duration of less than 1 month.\n\nPresence of at least one active myofascial trigger point in the upper trapezius muscle confirmed by physical examination according to accepted diagnostic criteria (palpable taut band, hypersensitive trigger point, reproduction of the patient's typical pain, and/or local twitch response).\n\nModerate or greater neck pain (Numerical Pain Rating Scale \\[NPRS\\] \u22654). Willing and able to provide written informed consent and comply with study procedures.\n\nExclusion Criteria:\n\n* Participants meeting any of the following criteria will be excluded:\n\nPrevious dry needling or LL MCES treatment for the current episode of myofascial pain.\n\nChronic myofascial pain syndrome (symptom duration \u22651 month). Current use of systemic corticosteroids, nonsteroidal anti-inflammatory drugs (NSAIDs), or other medications that may significantly influence inflammatory biomarkers within the washout period specified in the protocol.\n\nPrevious surgery, fracture, or significant trauma involving the neck or shoulder region.\n\nCervical radiculopathy, cervical myelopathy, fibromyalgia, inflammatory arthritis, or other neurological or musculoskeletal disorders that could explain the symptoms.\n\nLocal skin infection, open wound, or other contraindications to dry needling or LL MCES.\n\nBleeding disorders, anticoagulant therapy, or other contraindications to needling.\n\nPregnancy or breastfeeding. Active malignancy, autoimmune disease, uncontrolled diabetes mellitus, acute infection, or other systemic inflammatory conditions.\n\nHistory of severe psychiatric illness or inability to complete study assessments.\n\nParticipation in another interventional clinical trial within the previous 30 days.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "20 Years",
+        "maximumAge": "45 Years",
+        "stdAges": [
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "I Putu Eka Widyadharma, MD, PhD",
+            "role": "CONTACT",
+            "phone": "+62 812-3787-2840",
+            "email": "eka.widyadharma@unud.ac.id"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Udayana University",
+            "status": "RECRUITING",
+            "city": "Denpasar",
+            "state": "Bali",
+            "country": "Indonesia",
+            "contacts": [
+              {
+                "name": "I Putu Eka Widyadharma",
+                "role": "CONTACT",
+                "phone": "+62 812-3787-2840",
+                "email": "eka.widyadharma@unud.ac.id"
+              },
+              {
+                "name": "I Putu Eka Widyadharma, MD, PhD",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Vincent Wijaya, MD",
+                "role": "SUB_INVESTIGATOR"
+              },
+              {
+                "name": "Ida Ayu Sri Wijayanti, MD, PhD",
+                "role": "SUB_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": -8.65,
+              "lon": 115.21667
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO",
+        "description": "No additional information is required."
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D005156",
+            "term": "Facial Neuralgia"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D005155",
+            "term": "Facial Nerve Diseases"
+          },
+          {
+            "id": "D009059",
+            "term": "Mouth Diseases"
+          },
+          {
+            "id": "D009057",
+            "term": "Stomatognathic Diseases"
+          },
+          {
+            "id": "D003389",
+            "term": "Cranial Nerve Diseases"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628779"
+}

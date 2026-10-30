@@ -1,0 +1,230 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05100576",
+      "orgStudyIdInfo": {
+        "id": "TMED_INZULIN_001"
+      },
+      "organization": {
+        "fullName": "Szeged University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Intensified Insulin Therapy With Telemedicine",
+      "officialTitle": "Randomized Controlled Clinical Trial of Telemedicine-guided Lifestyle Intervention in Diabetic Patients During Intensive Insulin Therapy."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-10",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-07-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-10-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2021-10-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-10-06",
+      "studyFirstSubmitQcDate": "2021-10-19",
+      "studyFirstPostDateStruct": {
+        "date": "2021-10-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-10-19",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-10-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Szeged University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Investigation of the effect of a 3-month telemedicine-led lifestyle intervention in individuals requiring intensified insulin therapy.",
+      "detailedDescription": "The primary objective of this study was to evaluate the development of HbA1c levels in patients requiring 3 months of intensified insulin therapy using standard therapy and telemedicine devices currently in use.\n\nThe telemedicine system contains a mobile phone-based nutrition diary, bluetooth-related wrist activity meter, weight scale, blood pressure monitor, blood glucose meter, and IT system for transmitting and displaying data from these devices."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Intensified Insulin Therapy",
+        "Diabetes"
+      ],
+      "keywords": [
+        "telemedicine"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 60,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Active group",
+          "type": "EXPERIMENTAL",
+          "description": "This group gets the telemedicine system, with the devices, and gets life-style guide by telephone consultation/ visits, during 3 months",
+          "interventionNames": [
+            "Device: Telemedicine system users"
+          ]
+        },
+        {
+          "label": "Comparator group",
+          "type": "NO_INTERVENTION",
+          "description": "This group gets the normal, evidence based therapy, without extra visits."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Telemedicine system users",
+          "description": "Telemonitoring by medical devices connected to a software system with a router.",
+          "armGroupLabels": [
+            "Active group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change of HbA1c level",
+          "description": "Investigation of the effect of a 3-month telemedicine-led lifestyle intervention on HbA1c levels in individuals requiring insulin therapy",
+          "timeFrame": "3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0",
+          "description": "Safety of the device system",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "change of hypoglycemic episodes",
+          "description": "Number of hypoglycemic episodes",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Difference in the decisions between the two type of visits",
+          "description": "Consistency of investigators' decisions based on telemedicine data and personal visit",
+          "timeFrame": "3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Women or men between the ages of 18 and 75\n* Patient with Diabetes who needs intensified insulin therapy HbA1c\\> = 8%\n* IT proficiency is at least basic for cell phones (answering / making a voice call).\n* Signing a informed consent\n* For women with childbearing potential, by definition, all women who who are physiologically able to conceive are twofold use of contraception\n* The subject communicates well with the investigator and is able to perform the test to understand and help comply with the requirements of the protocol\n\nExclusion Criteria:\n\n* informed refusal any time after the sign of the informed consent\n* Planned invasive cardiac intervention (catheter vasodilation or surgical coronary artery bypass grafting, keyboard surgery or replacement)\n* Tumor disease\n* Pregnant or lactating women\n* Any medical condition that does not allow participation",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Istv\u00e1n K\u00f3sa, Md Ph.D.",
+          "role": "CONTACT",
+          "phone": "+36 70 320 1192",
+          "email": "office.prevmedicina@med.u-szeged.hu"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Szeged",
+          "status": "RECRUITING",
+          "city": "Szeged",
+          "zip": "6720",
+          "country": "Hungary",
+          "contacts": [
+            {
+              "name": "Istv\u00e1n K\u00f3sa, MD Ph.D.",
+              "role": "CONTACT",
+              "phone": "+36 70 320 1192",
+              "email": "office.prevmedicina@med.u-szeged.hu"
+            },
+            {
+              "name": "Csaba Lengyel, Prof.Dr.",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Istv\u00e1n K\u00f3sa, MD Ph.D.",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 46.253,
+            "lon": 20.14824
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

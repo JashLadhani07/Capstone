@@ -1,0 +1,270 @@
+{
+  "nct_id": "NCT02340364",
+  "title": "Patient NAVIgation to Reduce Readmissions Among Black Men With Heart Disease",
+  "sponsor": "University of Alabama at Birmingham",
+  "phase": "NA",
+  "status": "COMPLETED",
+  "conditions": [
+    "Heart Diseases"
+  ],
+  "interventions": [
+    "Education + Patient Navigation",
+    "Self-care Education"
+  ],
+  "primary_outcome": "Readmission Rates",
+  "secondary_outcomes": [],
+  "start_date": "2015-03",
+  "completion_date": "2019-07",
+  "results_posted": false,
+  "enrollment": 301,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT02340364",
+        "orgStudyIdInfo": {
+          "id": "X130515002"
+        },
+        "organization": {
+          "fullName": "University of Alabama at Birmingham",
+          "class": "OTHER"
+        },
+        "briefTitle": "Patient NAVIgation to Reduce Readmissions Among Black Men With Heart Disease",
+        "officialTitle": "Patient NAVIgation to Reduce Readmissions Among Black Men With Heart Disease",
+        "acronym": "NAVI-HF"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2019-07",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2015-03"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2019-07",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2019-07",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2015-01-13",
+        "studyFirstSubmitQcDate": "2015-01-15",
+        "studyFirstPostDateStruct": {
+          "date": "2015-01-16",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2019-07-30",
+        "lastUpdatePostDateStruct": {
+          "date": "2019-07-31",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Reagan W. Durant, MD",
+          "investigatorTitle": "Principal investigator",
+          "investigatorAffiliation": "University of Alabama at Birmingham"
+        },
+        "leadSponsor": {
+          "name": "University of Alabama at Birmingham",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "The investigators are asking subjects to take part in the Patient NAVIgation to Reduce Readmissions among Black Men with Heart Disease (NAVI-HF) research study. This research study will test how well trained laypeople working as patient navigators will help patients recently hospitalized for heart failure avoid future hospitalizations. NAVI-HF is a new program sponsored by funding from the National Institute of Minority Health and Health Disparities. People who enter into the study will work with a patient navigator to undergo the full program or work with a trained layperson to receive general education on heart disease treatment and prevention. The purpose of the study is to determine whether a patient navigation program will be effective in reducing the number of hospitalizations in the future for program participants. This study will enroll 416 participants from UAB.",
+        "detailedDescription": "Therefore, in the Patient NAVIgation to Reduce Readmissions among Black Men with Heart Disease (NAVI-HF) study, the investigators propose to recruit 416 AA men with Heart Disease receiving inpatient care at UAB Hospital and randomize them either to Heart Disease self-care education plus a patient navigator-delivered self-care plan (Education + PN arm) or to Heart Disease self-care education alone (Educational Control arm). The investigators will compare participant outcomes such as all-cause and Heart Disease readmission rates, Heart Disease self-care adherence as well as cost effectiveness across the two intervention arms. Our Specific Aims are:\n\n1. To assess the 30-day all-cause readmission rates among male African American Heart Disease patients receiving Heart Disease self-care education plus a patient navigator-delivered self-care plan versus Heart Disease self-care education alone\n2. To assess the Heart Disease self-efficacy and heart failure self-care adherence among male African American Heart Disease patients receiving Heart Disease self-care education plus a patient navigator-delivered self-care plan versus Heart Disease self-care education alone\n3. To evaluate the cost-effectiveness of Heart Disease self-care education plus a patient navigator-delivered self-care plan versus Heart Disease self-care education alone"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Heart Diseases"
+        ],
+        "keywords": [
+          "Hospital Readmissions",
+          "Patient Navigation"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "FACTORIAL",
+          "primaryPurpose": "PREVENTION",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "whoMasked": [
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 301,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Education + PN Arm",
+            "type": "EXPERIMENTAL",
+            "description": "208 patients randomized to self-care education+ Patient navigator-delivered self-care plan.",
+            "interventionNames": [
+              "Behavioral: Education + Patient Navigation"
+            ]
+          },
+          {
+            "label": "Educational Control Arm",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "\\- 208 patients randomized to self-care education alone.",
+            "interventionNames": [
+              "Behavioral: Self-care Education"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "Education + Patient Navigation",
+            "description": "208 patients randomized to self-care Education+ Patient Navigation-delivered self-care plan.",
+            "armGroupLabels": [
+              "Education + PN Arm"
+            ]
+          },
+          {
+            "type": "BEHAVIORAL",
+            "name": "Self-care Education",
+            "description": "208 patients randomized to self-care education alone.",
+            "armGroupLabels": [
+              "Educational Control Arm"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Readmission Rates",
+            "description": "Re-hospitalization of Heart Disease patients within 30 days of being discharged home.",
+            "timeFrame": "Within 30 days"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* African American\n* Male\n* Age = 30 or older\n* Inpatient admission at UAB Hospital or UAB Medical West with a diagnosis of heart disease as a principle or one of the first 3 diagnosis.\n* Residence in Jefferson or Shelby Counties, Alabama within 45 miles of UAB Hospital.\n* English Speaking\n* Physically and cognitively able to listen to 30-minute video undergo a home visit and telephone contacts over several weeks.\n\nExclusion Criteria:\n\n* Heart transplant or awaiting heart transplant (admitted to UAB Advanced HF/Transplant Service).\n* Currently participating in another clinical research study with an overlapping intervention.\n* Current or anticipated long term (\\>2 weeks) residence in a skilled nursing facility.\n* Patients who indicated that they were unwilling to make lifestyle changes now or in the near future.\n* Patients whose symptoms may be eliminated by surgery (e.g., severe aortic stenosis) or who had undergone surgery (e.g., coronary artery bypass grafting valvular replacement/repair) in the last month.",
+        "healthyVolunteers": false,
+        "sex": "MALE",
+        "minimumAge": "30 Years",
+        "maximumAge": "90 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Raegan W Durant, M.D., MPH",
+            "affiliation": "University of Alabama at Birmingham",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "UAB Medical West",
+            "city": "Bessemer",
+            "state": "Alabama",
+            "zip": "35022",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.40178,
+              "lon": -86.95444
+            }
+          },
+          {
+            "facility": "UAB",
+            "city": "Birmingham",
+            "state": "Alabama",
+            "zip": "35294",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.52066,
+              "lon": -86.80249
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006331",
+            "term": "Heart Diseases"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D004522",
+            "term": "Educational Status"
+          },
+          {
+            "id": "D062526",
+            "term": "Patient Navigation"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D012959",
+            "term": "Socioeconomic Factors"
+          },
+          {
+            "id": "D011154",
+            "term": "Population Characteristics"
+          },
+          {
+            "id": "D018802",
+            "term": "Patient-Centered Care"
+          },
+          {
+            "id": "D011320",
+            "term": "Primary Health Care"
+          },
+          {
+            "id": "D003191",
+            "term": "Comprehensive Health Care"
+          },
+          {
+            "id": "D010346",
+            "term": "Patient Care Management"
+          },
+          {
+            "id": "D006298",
+            "term": "Health Services Administration"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792369"
+}

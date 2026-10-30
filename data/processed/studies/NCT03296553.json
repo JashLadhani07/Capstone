@@ -1,0 +1,940 @@
+{
+  "nct_id": "NCT03296553",
+  "title": "Valganciclovir for Suppression of HHV-8 Four Weeks Prior to Initiation of cART in Patients With Disseminated Kaposi Sarcoma Compare With Standard Therapy, Its Impact on the Development of IRIS and Attributable Mortality",
+  "sponsor": "National Institute of Cancerolog\u00eda",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Kaposi Sarcoma",
+    "Human Immunodeficiency Virus",
+    "Immune Reconstitution Syndrome"
+  ],
+  "interventions": [
+    "Valganciclovir",
+    "Antiretroviral Combinations"
+  ],
+  "primary_outcome": "Number of Participants Who Died of Immune Reconstitution Inflammatory Syndrome Associated to Kaposi Sarcoma (IRIS-KS)",
+  "secondary_outcomes": [],
+  "start_date": "2015-10-01",
+  "completion_date": "2019-08-26",
+  "results_posted": true,
+  "enrollment": 40,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03296553",
+        "orgStudyIdInfo": {
+          "id": "(015/031/INI) (CEI/950/15)"
+        },
+        "organization": {
+          "fullName": "National Institute of Cancerolog\u00eda",
+          "class": "OTHER_GOV"
+        },
+        "briefTitle": "Impact of Valganciclovir on Severe IRIS-Kaposi Sarcoma Mortality: an Open-label, Parallel, Randomized Controlled-trial.",
+        "officialTitle": "Valganciclovir for Suppression of HHV-8 Four Weeks Prior to Initiation of cART in Patients With Disseminated Kaposi Sarcoma Compare With Standard Therapy, Its Impact on the Development of IRIS and Attributable Mortality"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2021-11",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2015-10-01",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2019-08-26",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2019-08-26",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2017-09-20",
+        "studyFirstSubmitQcDate": "2017-09-23",
+        "studyFirstPostDateStruct": {
+          "date": "2017-09-28",
+          "type": "ACTUAL"
+        },
+        "resultsFirstSubmitDate": "2021-06-23",
+        "resultsFirstSubmitQcDate": "2021-11-23",
+        "resultsFirstPostDateStruct": {
+          "date": "2022-01-27",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2021-11-23",
+        "lastUpdatePostDateStruct": {
+          "date": "2022-01-27",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Volkow Fernandez Patricia Amalia",
+          "investigatorTitle": "Infectious disease consultant, Clinical Professor",
+          "investigatorAffiliation": "National Institute of Cancerolog\u00eda"
+        },
+        "leadSponsor": {
+          "name": "National Institute of Cancerolog\u00eda",
+          "class": "OTHER_GOV"
+        },
+        "collaborators": [
+          {
+            "name": "Instituto Nacional de Enfermedades Respiratorias",
+            "class": "OTHER_GOV"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "Kaposi sarcoma (KS) has an unpredictable course, patients with disseminated KS starting combined Antiretroviral Therapy can develop Immune Reconstitution Syndrome (IRIS), with a severe clinical presentation and high mortality (severe-IRIS-KS). The objective of this study is to evaluate the presence of Severe IRIS-KS and it\u00b4s attributable mortality in patients with AIDS and disseminated KS with the use of valganciclovir prior to the initiation of cART compared with the standard management of immediate cART initiation.",
+        "detailedDescription": "Kaposi sarcoma (KS) is a Human Herpes-8 disease, it has been described as an angioproliferative disease mediated by cytokines in an environment of immunodeficiency and thus associated with HIV infection. Its course has been described as unpredictable; it can be indolent or can be progressive with a fulminant course. Patients with disseminated KS can have an extensive disseminated cutaneous disease with lymphedema and/or lymph node, gastrointestinal or pulmonary involvement, usually associated with low CD4 T cell counts (\\<100 cells).\n\nHigh early mortality in patients starting cART has been described in different settings, and it has been attributed to the development of Immune Reconstitution Syndrome KS (IRIS-KS).\n\nIn patients developing IRIS-KS the clinical event until now recognized as IRIS-KS: increase in KS lesion, lymphedema or pleural effusion that is associated with CD4 cells increase and the decrease of at least one log of HIV VL does not fully express what threatens patients life. The clinical picture of IRIS-KS that threatens the patient's life is the abrupt development of fever with no other infection recognized, rapid clinical deterioration with thrombocytopenia, anemia, hyponatremia, and hypoalbuminemia together with an increase in KS lesion, lymphedema, or pleural effusion, this clinical picture we have named Severe-Iris-KS.\n\nPatients with AIDS and disseminated KS are at risk of developing severe Immune Reconstitution Syndrome KS (S-IRIS-KS) after the initiation of cART and this has been associated with high mortality.\n\nGanciclovir and Foscarnet (antivirals) are active in vitro against HHV-8; valganciclovir is a prodrug of ganciclovir, it is an oral formulation.\n\nOur group documented, in a retrospective study that patients that were treated with ganciclovir for the management of Cytomegalovirus (CMV) end-organ disease in the pre-cART era achieve KS complete remission.\n\nPatients with infections such as meningeal tuberculosis, cryptococcal meningitis, or CMV-related chorioretinitis, are also at a greater risk of developing IRIS, and as a consequence of it, deteriorate their clinical conditions that can even lead to death or irreversible sequel. In these cases, it has been demonstrated that starting treatment for the opportunistic infection and delays two or four weeks cART initiation; is possible to avoid or diminish these complications.\n\nObjective:\n\nTo evaluate the occurrence of S-IRIS-KS and it attributable mortality in patients with HIV and disseminated KS (pulmonary and/or disseminated, and/or lymphadenopathic, and/or generalized lymphedema, and/or intestinal tract compromise) with the use of valganciclovir (ganciclovir prodrug, oral formulation) prior to the initiation of cART compared with the standard management of immediate cART initiation.\n\nHypothesis:\n\nIn patients with AIDS and disseminated KS administration of valganciclovir as an anti-HHV-8 agent can diminish viral replication prior to administration of cART, and thus decrease the frequency of S-IRIS-KS and will exert an impact on diminishing S-IRIS-KS attributable mortality.\n\nMethodology:\n\nOpen randomized clinical assay. Will include patients with AIDS and disseminated KS who accept to participate and sign informed consent.\n\nInclusion criteria:\n\nPatients \\>18 years old, HIV+ na\u00efve to cART with DKS, able and willing to provide written informed consent.\n\nDKS was defined as the presence of KS pulmonary disease and/or \u226530 KS skin lesions, with or without lymphedema, and/or lymph node involvement, and/or GIT KS involvement (biopsy-proven at least in one site).\n\nExclusion criteria:\n\nAnother concomitant malignancy, Multicentric Castleman Disease (MCD), steroid treatment two months prior to screening, active HBV or HCV or CMV end-organ disease, or severely ill patients with APACHE II score \\>15.\n\nThe study will comprise two study groups:\n\n1. Group 1:Patients will receive treatment with valanciclovir during 4 weeks prior to initiation of cART and/or continue for 48 weeks\n2. Group 2: Patients will initiate standard treatment with cART. Both groups recieve bleomycin/vincristine; according to treating physician.\n\nRandomization Patients will be randomized by blocks of ten; the assigned group written in closed envelopes: either to Experimental Group 1 (EG) to receive valganciclovir 900 mg twice daily for 48 weeks and initiate cART at week 4 after randomization.\n\nOr to the Control Group 2(CG) to start cART immediately according to current Mexican Guidelines.\n\nBlinding:\n\nNo blinding was considered feasible for personnel or patients; this is an open label study.\n\nSample Size Sample size was calculated for a study power of 80% and an alpha of 0.05. Event rate in the control group was estimated as 40%, while that in the treated group was considered 5%. The number of resulting patients in each group is 19 for as total sample of 38 patients. This assumes a significant impact of treatment impact on S-IRIS occurrence and its mortality.\n\nThe antiretroviral scheme will be assigned according to the criteria of the \"The Antiretroviral Management Guide of Persons with HIV\" in effect in Mexico.\n\nCandidates will have an initial thorough clinical evaluation including a work-up to diagnose coinfections and rule out other neoplasms that comprise: ophthalmologic evaluation, computed tomography (CT) scan (neck, thorax, and abdomen), bone marrow culture with bone biopsy, Hepatitis B Virus (HBV) and Hepatitis C Virus (HCV) serology, venereal disease research laboratory (VDRL) test and if indicated lumbar puncture to rule-out neurosyphilis, Histoplasma urinary antigen and serology, and GenXpert MTB/RIF test. Upper gastrointestinal tract (GIT) endoscopy with biopsy of lesions; colonoscopy will be performed only on patients with diarrhea or lower-GIT bleeding. Biopsies of enlarged lymph nodes will be obtained and process for histopathological analysis and culture. If indicated, bronchoscopy with bronchoalveolar lavage (BAL) will be performed as well as a thoracic Gallium 67 Spect-CT Scan or PET-FDG scans.\n\nCriteria for Non-svere-IRIS KS and Severe-IRIS-KS\n\nNon-severe-IRIS-KS: si defined as an increase in the number of KS lesions plus \u2265one log10 of HIV-1 RNA VL decrease or \u226550 cells/mm3 or \u22652-fold from baseline CD4+ cells increase after cART initiation.\n\nSevere -IRIS-KS is defined as an abrupt clinical deterioration after cART initiation alongside the presence of at least two clinical and at least three laboratory criteria.\n\nClinical criteria: 1) Fever (no identified concomitant infection), 2) increase in the size or number of KS lesions, 3) exacerbation of lymphedema, 4) appearance or increase of otherwise unexplained lung opacities on the chest images with a negative Gallium-Scan negative and 4) appearance or increase of pleural effusion.\n\nLaboratory criteria: 1) Thrombocytopenia \\<100,000 platelets/ml; 2) Anemia (decrease of at least 1 g/dl from previous measure and no obvious bleeding), 3) Hyponatremia \\<135 mEq/L and 4) Hypoalbuminemia \\<3.5 g/dL. This is the clinical picture associated with death.\n\nClassification of KS evolution:\n\nComplete Response (CR) when all of the KS lesions disappear Partial Response (PR) when there was a diminution of \\>50% in number and/or size of original lesions without the appearance of new lesions Stable Disease (SD) was when there was a reduction of \\<50% of lesions and new lesions have not appeared\n\nDisease Progression (DP) when an increase is documented of the number and size of the KS lesions during follow-up periods Relapse when new lesions appeared in patients with CR or documented CR in previous evaluations.\n\nVisits will be performed at baseline, week 1, 2, 4, 8, 12, 16, 24, and 48. At each visit, an Infectious Diseases specialist will perform a clinical evaluation, and pictures of skin lesions will photograph. Blood samples will be obtained for: WBC count, complete blood chemistry, urine analysis, CRP, D-Dimer, HIV VL with Abbott Real-time, HHV-8, CMV, and Epstein-Barr Virus (EBV) VL ELITe MGB KIT by ELITe InGenius Software, CD4+ and CD8+ cells count and percentage, (flow cytometry, Facs Canto II, Becton Dickinson) CD4/CD8 ratio and plasma levels of interleukin 6, 10 (IL-6, IL-10), tumor necrosis factor (TNF) and interferon-gamma (IFN-\u0264) were measured using a sandwich-type immunoassay, ELISA (Biolegend). Serology for syphilis, HBV, and HCV will be repeat at week 24 and 48. If patients had an exacerbation of KS outside the scheduled visit they will be reevaluated with laboratory tests and study images.\n\nA qualified phlebotomist will carry out blood sampling.\n\nPrimary outcome:\n\nMortality by all causes at end of follow-up, 48 weeks, adjusted at least by age, gender, CD4, and viral load of HV8, primarily with a survival analysis by a Cox regression, but also with a logistic regression model.\n\nSecondary outcomes:\n\nTotal number of SIRI events (S-IRIS-KS and Non-S-IRIS-KS) in treated and control group. This is going to be done by a Poisson\u00b4s models analysis adjusted by age, gender, coinfections, basleine: CD4, and viral load of HV8, C reactive protein, HIV VL, IL6, IL10, TNF, and IFN. We will compare mortality in patients with pulmonary KS between groups.\n\nVigilance of adverse events:\n\nAdverse events in treated and control group.\n\nStatistical analysis:\n\nThe primary analysis is going to be as intention to treat, but as a secondary analysis also as per protocol analysis is going to be performed for mortality, and Severe-IRIS. KS..\n\nEthical issues:\n\nProtocol and informed consent were reviewed and accepted by IRB form Intsituto Nacional de Cancerolog\u00eda. CEI/950/15No.15/03/INI) First submission: 14 October 2014 First amendment: July 22, 2016 Second amendment. 25 April 2018"
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Kaposi Sarcoma",
+          "Human Immunodeficiency Virus",
+          "Immune Reconstitution Syndrome"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 40,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Valganciclovir",
+            "type": "EXPERIMENTAL",
+            "description": "Oral Valgancyclovir 900 mg twice in a day during 4 weeks prior to initiation of cART (combined antirretroviral therapy) until suppression of HHV-8.",
+            "interventionNames": [
+              "Drug: Valganciclovir"
+            ]
+          },
+          {
+            "label": "Antiretroviral combinations",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Standard treatment with cART according to current HIV Therapy Mexican guidelines.",
+            "interventionNames": [
+              "Drug: Antiretroviral Combinations"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Valganciclovir",
+            "description": "The experimental group will receive Valganciclovir 900 mg twice in a day before the initiation of cART until viral load of HHV-8 is undetectable.",
+            "armGroupLabels": [
+              "Valganciclovir"
+            ],
+            "otherNames": [
+              "Valcyte"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Antiretroviral Combinations",
+            "description": "Patients will receive standard antiretroviral treatment as recommended",
+            "armGroupLabels": [
+              "Antiretroviral combinations"
+            ],
+            "otherNames": [
+              "cART"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Number of Participants Who Died of Immune Reconstitution Inflammatory Syndrome Associated to Kaposi Sarcoma (IRIS-KS)",
+            "description": "We measured the number of patients who died of IRIS-KS following the definition of IRIS-KS that is specified in the protocol.",
+            "timeFrame": "48 weeks"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients will be included with AIDS na\u00efve to antiretroviral therapy and severe KS, who accept to participate and who sign the letter of informed consent.\n* The following are the KS severity criteria: pulmonary compromise, and/or digestive tract compromise, and/or disseminated cutaneous, and/or lymphadenopathic compromise with generalized lymphedema.\n\nExclusion Criteria:\n\n* Patients with another synchronic malignant neoplasm\n* Patients receiving corticosteroids\n* Patients with active hepatitis B and/or hepatitis C\n* Patients with KS limited to skin with less than 30 lesions.\n* Patients with APACHE II score \u226515 points.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "70 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Patricia Amalia Volkow Fern\u00e1ndez, MD",
+            "affiliation": "Instituto Nacional de Cancerologia, Columbia",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Instituto Nacional de Cancerologia",
+            "city": "Mexico City",
+            "zip": "14080",
+            "country": "Mexico",
+            "geoPoint": {
+              "lat": 19.42847,
+              "lon": -99.12766
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "7270808",
+            "type": "BACKGROUND",
+            "citation": "Gottlieb GJ, Ragaz A, Vogel JV, Friedman-Kien A, Rywlin AM, Weiner EA, Ackerman AB. A preliminary communication on extensively disseminated Kaposi's sarcoma in young homosexual men. Am J Dermatopathol. 1981 Summer;3(2):111-4. doi: 10.1097/00000372-198100320-00002. No abstract available."
+          },
+          {
+            "pmid": "6116083",
+            "type": "BACKGROUND",
+            "citation": "Hymes KB, Cheung T, Greene JB, Prose NS, Marcus A, Ballard H, William DC, Laubenstein LJ. Kaposi's sarcoma in homosexual men-a report of eight cases. Lancet. 1981 Sep 19;2(8247):598-600. doi: 10.1016/s0140-6736(81)92740-9."
+          },
+          {
+            "pmid": "3901851",
+            "type": "BACKGROUND",
+            "citation": "Safai B, Johnson KG, Myskowski PL, Koziner B, Yang SY, Cunningham-Rundles S, Godbold JH, Dupont B. The natural history of Kaposi's sarcoma in the acquired immunodeficiency syndrome. Ann Intern Med. 1985 Nov;103(5):744-50. doi: 10.7326/0003-4819-103-5-744."
+          },
+          {
+            "pmid": "29539283",
+            "type": "BACKGROUND",
+            "citation": "Yarchoan R, Uldrick TS. HIV-Associated Cancers and Related Diseases. N Engl J Med. 2018 Mar 15;378(11):1029-1041. doi: 10.1056/NEJMra1615896."
+          },
+          {
+            "pmid": "23196937",
+            "type": "BACKGROUND",
+            "citation": "Lacombe JM, Boue F, Grabar S, Viget N, Gazaignes S, Lascaux-Cametz AS, Pacanowski J, Partisani M, Launay O, Matheron S, Rosenthal E, Rouveix E, Tattevin P, de Truchis P, Costagliola D, Goedert JJ. Risk of Kaposi sarcoma during the first months on combination antiretroviral therapy. AIDS. 2013 Feb 20;27(4):635-43. doi: 10.1097/QAD.0b013e32835cba6c."
+          },
+          {
+            "pmid": "32493198",
+            "type": "DERIVED",
+            "citation": "Cornejo-Juarez P, Islas-Munoz B, Ramirez-Ibarguen AF, Rosales-Pedraza G, Chavez-Mazari B, Martinez-Orozco A, Volkow-Fernandez P. Bone Marrow Culture Yield for the Diagnosis of Opportunistic Diseases in Patients with AIDS and Disseminated Kaposi Sarcoma. Curr HIV Res. 2020;18(4):277-282. doi: 10.2174/1570162X18666200603145640."
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "Valganciclovir",
+            "description": "Oral Valgancyclovir 900 mg twice in a day during 4 weeks prior to initiation of cART (combined antirretroviral therapy) until suppression of HHV-8.\n\nValganciclovir: The experimental group will receive Valganciclovir 900 mg twice in a day before the initiation of cART until viral load of HHV-8 is undetectable.\n\n20 experimental included 2 eliminated\n\n18 patients included finally."
+          },
+          {
+            "id": "FG001",
+            "title": "Antiretroviral Combinations",
+            "description": "Standard treatment with cART according to current HIV Therapy Mexican guidelines.\n\nAntiretroviral Combinations: Patients will receive standard antiretroviral treatment as recommended\n\n20 control patients included\n\n1 eliminated\n\n19 patients included finally"
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "20"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "20"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "18"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "19"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "2"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "1"
+                  }
+                ]
+              }
+            ],
+            "dropWithdraws": [
+              {
+                "type": "Withdrawal by Subject",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "1"
+                  }
+                ]
+              },
+              {
+                "type": "Death",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "1"
+                  },
+                  {
+                    "groupId": "FG001",
+                    "numSubjects": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "populationDescription": "Number of patients assigned to each group of the protocol",
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "Valganciclovir",
+            "description": "Patients in this group received oral Valgancyclovir 900 mg twice in a day during 4 weeks prior to initiation of cART (combined antiretroviral therapy) until suppression of HHV-8 viral load."
+          },
+          {
+            "id": "BG001",
+            "title": "Combined Antiretroviral Treatment",
+            "description": "Patients in this group started standard treatment with cART (combined antiretrovrial therapy) according to current HIV Therapy Mexican guidelines."
+          },
+          {
+            "id": "BG002",
+            "title": "Total",
+            "description": "Total of all reporting groups"
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "20"
+              },
+              {
+                "groupId": "BG001",
+                "value": "20"
+              },
+              {
+                "groupId": "BG002",
+                "value": "40"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Continuous",
+            "description": "Median of age with interquartilar range",
+            "paramType": "MEDIAN",
+            "dispersionType": "INTER_QUARTILE_RANGE",
+            "unitOfMeasure": "years",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "31",
+                        "lowerLimit": "26",
+                        "upperLimit": "36"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "31",
+                        "lowerLimit": "26",
+                        "upperLimit": "36"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "31",
+                        "lowerLimit": "26",
+                        "upperLimit": "36"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "description": "Number of female and male patients",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "20"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "20"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "40"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Race (NIH/OMB)",
+            "description": "Number of patients with any specific race",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "American Indian or Alaska Native",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "20"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "20"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "40"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Asian",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Native Hawaiian or Other Pacific Islander",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Black or African American",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "White",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "More than one race",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Unknown or Not Reported",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Patients assigned to each study group",
+            "description": "Number of patients assigned to each group",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "20"
+                      },
+                      {
+                        "groupId": "BG001",
+                        "value": "20"
+                      },
+                      {
+                        "groupId": "BG002",
+                        "value": "40"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Number of Participants Who Died of Immune Reconstitution Inflammatory Syndrome Associated to Kaposi Sarcoma (IRIS-KS)",
+            "description": "We measured the number of patients who died of IRIS-KS following the definition of IRIS-KS that is specified in the protocol.",
+            "reportingStatus": "POSTED",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "timeFrame": "48 weeks",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "Valganciclovir",
+                "description": "Oral Valgancyclovir 900 mg twice in a day during 4 weeks prior to initiation of cART (combined antirretroviral therapy) until suppression of HHV-8.\n\nValganciclovir: The experimental group will receive Valganciclovir 900 mg twice in a day before the initiation of cART until viral load of HHV-8 is undetectable.\n\n20 experimental included 2 eliminated\n\n18 patients included finally."
+              },
+              {
+                "id": "OG001",
+                "title": "Antiretroviral Combinations",
+                "description": "Standard treatment with cART according to current HIV Therapy Mexican guidelines.\n\nAntiretroviral Combinations: Patients will receive standard antiretroviral treatment as recommended\n\n20 control patients included\n\n1 eliminated\n\n19 patients included finally"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "20"
+                  },
+                  {
+                    "groupId": "OG001",
+                    "value": "20"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "0"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "3"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "5",
+        "timeFrame": "48 weeks",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "Valganciclovir",
+            "description": "Oral Valgancyclovir 900 mg twice in a day during 4 weeks prior to initiation of cART (combined antirretroviral therapy) until suppression of HHV-8.\n\nValganciclovir: The experimental group will receive Valganciclovir 900 mg twice in a day before the initiation of cART until viral load of HHV-8 is undetectable.\n\n20 experimental included 2 eliminated\n\n18 patients included finally.",
+            "deathsNumAffected": 3,
+            "deathsNumAtRisk": 18,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 18,
+            "otherNumAffected": 2,
+            "otherNumAtRisk": 18
+          },
+          {
+            "id": "EG001",
+            "title": "Antiretroviral Combinations",
+            "description": "Standard treatment with cART according to current HIV Therapy Mexican guidelines.\n\nAntiretroviral Combinations: Patients will receive standard antiretroviral treatment as recommended\n\n20 control patients included\n\n1 eliminated\n\n19 patients included finally",
+            "deathsNumAffected": 3,
+            "deathsNumAtRisk": 19,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 19,
+            "otherNumAffected": 1,
+            "otherNumAtRisk": 19
+          }
+        ],
+        "otherEvents": [
+          {
+            "term": "Neutropenia <500 cell",
+            "organSystem": "Blood and lymphatic system disorders",
+            "sourceVocabulary": "Profound neutropenia",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 2,
+                "numAtRisk": 18
+              },
+              {
+                "groupId": "EG001",
+                "numEvents": 2,
+                "numAffected": 1,
+                "numAtRisk": 19
+              }
+            ]
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "limitationsAndCaveats": {
+          "description": "We acknowledge some limitations in our study. First, the sample size was small. And second in estimating the sample size for the trial we overestimated the expected impact of valganciclovir treatment on mortality."
+        },
+        "certainAgreement": {
+          "piSponsorEmployee": false,
+          "restrictiveAgreement": false
+        },
+        "pointOfContact": {
+          "title": "Dr. Patricia Volkow",
+          "organization": "Instituto Nacional de Cancerolog\u00eda",
+          "email": "pvolkowf@gmail.com",
+          "phone": "01 55 5628 0400",
+          "phoneExt": "12120"
+        }
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot",
+            "hasProtocol": true,
+            "hasSap": false,
+            "hasIcf": false,
+            "label": "Study Protocol",
+            "date": "2015-07-23",
+            "uploadDate": "2021-11-10T13:52",
+            "filename": "Prot_000.pdf",
+            "size": 210594
+          },
+          {
+            "typeAbbrev": "SAP",
+            "hasProtocol": false,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Statistical Analysis Plan",
+            "date": "2019-11-30",
+            "uploadDate": "2021-11-10T13:57",
+            "filename": "SAP_001.pdf",
+            "size": 188047
+          },
+          {
+            "typeAbbrev": "ICF",
+            "hasProtocol": false,
+            "hasSap": false,
+            "hasIcf": true,
+            "label": "Informed Consent Form",
+            "date": "2015-07-14",
+            "uploadDate": "2021-11-10T14:08",
+            "filename": "ICF_002.pdf",
+            "size": 310046
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D012514",
+            "term": "Sarcoma, Kaposi"
+          },
+          {
+            "id": "D000163",
+            "term": "Acquired Immunodeficiency Syndrome"
+          },
+          {
+            "id": "D054019",
+            "term": "Immune Reconstitution Inflammatory Syndrome"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D006566",
+            "term": "Herpesviridae Infections"
+          },
+          {
+            "id": "D004266",
+            "term": "DNA Virus Infections"
+          },
+          {
+            "id": "D014777",
+            "term": "Virus Diseases"
+          },
+          {
+            "id": "D007239",
+            "term": "Infections"
+          },
+          {
+            "id": "D012509",
+            "term": "Sarcoma"
+          },
+          {
+            "id": "D018204",
+            "term": "Neoplasms, Connective and Soft Tissue"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D009383",
+            "term": "Neoplasms, Vascular Tissue"
+          },
+          {
+            "id": "D015658",
+            "term": "HIV Infections"
+          },
+          {
+            "id": "D000086982",
+            "term": "Blood-Borne Infections"
+          },
+          {
+            "id": "D003141",
+            "term": "Communicable Diseases"
+          },
+          {
+            "id": "D015229",
+            "term": "Sexually Transmitted Diseases, Viral"
+          },
+          {
+            "id": "D012749",
+            "term": "Sexually Transmitted Diseases"
+          },
+          {
+            "id": "D016180",
+            "term": "Lentivirus Infections"
+          },
+          {
+            "id": "D012192",
+            "term": "Retroviridae Infections"
+          },
+          {
+            "id": "D012327",
+            "term": "RNA Virus Infections"
+          },
+          {
+            "id": "D012897",
+            "term": "Slow Virus Diseases"
+          },
+          {
+            "id": "D000091662",
+            "term": "Genital Diseases"
+          },
+          {
+            "id": "D000091642",
+            "term": "Urogenital Diseases"
+          },
+          {
+            "id": "D007153",
+            "term": "Immunologic Deficiency Syndromes"
+          },
+          {
+            "id": "D007154",
+            "term": "Immune System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000077562",
+            "term": "Valganciclovir"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D015774",
+            "term": "Ganciclovir"
+          },
+          {
+            "id": "D000212",
+            "term": "Acyclovir"
+          },
+          {
+            "id": "D006147",
+            "term": "Guanine"
+          },
+          {
+            "id": "D007042",
+            "term": "Hypoxanthines"
+          },
+          {
+            "id": "D011688",
+            "term": "Purinones"
+          },
+          {
+            "id": "D011687",
+            "term": "Purines"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T10:30:03.628471"
+}

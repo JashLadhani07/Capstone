@@ -1,0 +1,24 @@
+{
+  "pmid": "27573938",
+  "title": "Randomized Controlled Study of Metformin and Sitagliptin on Long-term Normoglycemia Remission in African American Patients With Hyperglycemic Crises.",
+  "abstract": "After intensive insulin treatment, many obese African American patients with new-onset diabetic ketoacidosis (DKA) and severe hyperglycemia are able to achieve near-normoglycemia remission. The optimal treatment to prevent hyperglycemic relapses after remission is not known. This prospective, 4-year, placebo-controlled study randomly assigned 48 African American subjects with DKA and severe hyperglycemia to metformin 1,000 mg daily (n = 17), sitagliptin 100 mg daily (n = 16), or placebo (n = 15) after normoglycemia remission. Hyperglycemic relapse was defined as fasting glucose >130 mg/dL (7.2 mmol/L) and HbA Relapse-free survival was higher in sitagliptin and metformin (P = 0.015) compared with placebo, and mean time to relapse was significantly prolonged in the metformin and sitagliptin groups compared with the placebo group (480 vs. 305 days, P = 0.004). The probability of relapse was significantly lower for metformin (hazard ratio 0.28 [95% CI 0.10-0.81]) and sitagliptin (0.31 [0.10-0.98]) than for placebo. Subjects who remained in remission had a higher DI (P = 0.02) and incremental AUCi (P < 0.001) than those with hyperglycemia relapse without significant changes in Si. This study shows that near-normoglycemia remission was similarly prolonged by treatment with sitagliptin and metformin. The prolongation of remission was due to improvement in \u03b2-cell function.",
+  "journal": "Diabetes care",
+  "pub_date": "2016-Nov",
+  "authors": [
+    "Vellanki, Priyathama",
+    "Smiley, Dawn D",
+    "Stefanovski, Darko",
+    "Anzola, Isabel",
+    "Duan, Wenlan",
+    "Hudson, Megan",
+    "Peng, Limin",
+    "Pasquel, Francisco J",
+    "Umpierrez, Guillermo E"
+  ],
+  "nct_ids_referenced": [
+    "NCT01099618"
+  ],
+  "source": "pubmed",
+  "word_count": 203,
+  "parsed_at": "2026-10-30T10:29:35.879705"
+}

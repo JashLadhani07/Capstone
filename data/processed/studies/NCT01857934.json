@@ -1,0 +1,3200 @@
+{
+  "nct_id": "NCT01857934",
+  "title": "Neuroblastoma Protocol 2012: Therapy for Children With Advanced Stage High-Risk Neuroblastoma",
+  "sponsor": "St. Jude Children's Research Hospital",
+  "phase": "PHASE2",
+  "status": "COMPLETED",
+  "conditions": [
+    "Neuroblastoma"
+  ],
+  "interventions": [
+    "cyclophosphamide",
+    "topotecan",
+    "hu14.18K322A",
+    "peripheral blood stem cell harvest",
+    "surgical resection",
+    "cisplatin",
+    "etoposide",
+    "doxorubicin",
+    "vincristine",
+    "busulfan",
+    "melphalan",
+    "peripheral blood stem cell transplantation",
+    "natural killer cell infusion",
+    "radiation therapy",
+    "GM-CSF",
+    "G-CSF",
+    "mesna",
+    "levetiracetam",
+    "interleukin-2",
+    "Isotretinoin",
+    "CliniMACS"
+  ],
+  "primary_outcome": "Overall Response Rate [Complete Response + Very Good Partial Response + Partial Response (CR + VGPR + PR)]",
+  "secondary_outcomes": [
+    "Feasibility of Delivering hu14.18K322A to 6 Cycles of Induction Therapy",
+    "Local Failure Rate and Pattern of Failure",
+    "Dose Limiting Toxicity (DLT) or Severe (Grade 3 or 4) VOD With hu14.18K322A With Allogeneic NK Cells in Consolidation",
+    "Dose Limiting Toxicity (DLT)"
+  ],
+  "start_date": "2013-07-05",
+  "completion_date": "2021-10-21",
+  "results_posted": true,
+  "enrollment": 153,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT01857934",
+        "orgStudyIdInfo": {
+          "id": "NB2012"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "NCI-2013-00034",
+            "type": "REGISTRY",
+            "domain": "NCI Clinical Trial Registration Program"
+          }
+        ],
+        "organization": {
+          "fullName": "St. Jude Children's Research Hospital",
+          "class": "OTHER"
+        },
+        "briefTitle": "Therapy for Children With Advanced Stage Neuroblastoma",
+        "officialTitle": "Neuroblastoma Protocol 2012: Therapy for Children With Advanced Stage High-Risk Neuroblastoma"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-09",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2013-07-05",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2021-10-21",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2025-12-31",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2013-05-16",
+        "studyFirstSubmitQcDate": "2013-05-16",
+        "studyFirstPostDateStruct": {
+          "date": "2013-05-20",
+          "type": "ESTIMATED"
+        },
+        "resultsFirstSubmitDate": "2022-10-21",
+        "resultsFirstSubmitQcDate": "2023-02-23",
+        "resultsFirstPostDateStruct": {
+          "date": "2023-02-24",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-09-21",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-09-22",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "St. Jude Children's Research Hospital",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Cookies for Kids' Cancer",
+            "class": "OTHER"
+          },
+          {
+            "name": "CURE Childhood Cancer, Inc.",
+            "class": "OTHER"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": false,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": true,
+        "isUnapprovedDevice": true
+      },
+      "descriptionModule": {
+        "briefSummary": "Neuroblastoma is the most common extracranial solid tumor in childhood, with nearly 50% of patients presenting with widespread metastatic disease. The current treatment for this group of high-risk patients includes intensive multi-agent chemotherapy (induction) followed by myeloablative therapy with stem-cell rescue (consolidation) and then treatment of minimal residual disease (MRD) with isotretinoin. Recently a new standard of care was established by enhancing the treatment of MRD with the addition of a monoclonal antibody (ch14.18) which targets a tumor-associated antigen, the disialoganglioside GD2, which is uniformly expressed by neuroblasts. Despite improvement in 2-year event-free survival (EFS) of 20%, more than one-third of children with high-risk neuroblastoma (HR defined in) still cannot be cured by this approach. Therefore, novel therapeutic approaches are needed for this subset of patients. This study will be a pilot Phase II study of a unique anti-disialoganglioside (anti-GD2) monoclonal antibody (mAb) called hu14.18K322A, given with induction chemotherapy.\n\nPRIMARY OBJECTIVE:\n\n* To study the efficacy \\[response: complete remission + partial remission (CR+PR)\\] to two initial courses of cyclophosphamide and topotecan combined with hu14.18K322A (4 doses/course followed by GM-CSF) in previously untreated children with high-risk neuroblastoma.\n* To estimate the event-free survival of patients with newly diagnosed high-risk neuroblastoma treated with the addition of hu14.18K322A to treatment.\n\nSECONDARY OBJECTIVES:\n\n* To study the feasibility of delivering hu14.18K322A to 6 cycles induction chemotherapy and describe the antitumor activity (CR+PR) of this 6 course induction therapy.\n* To estimate local control and pattern of failure associated with focal intensity modulated or proton beam radiation therapy dose delivery in high-risk abdominal neuroblastoma.\n* To describe the tolerability of four doses of hu14.18K322A with allogeneic natural killer (NK) cells from an acceptable parent, in the immediate post-transplant period \\[day +2 - +5 after peripheral blood stem cell (PBSC) infusion\\] in consenting participants.\n* To describe the tolerability of hu14.18K322A with interleukin-2 and GM-CSF as treatment for minimal residual disease (MRD).",
+        "detailedDescription": "The phases of the study are:\n\n1. Screening phase: Tests and evaluations will be done before treatment starts.\n2. Induction phase: Includes chemotherapy plus hu14.18K322A mAb. Participants will also have surgery during this part of the study to remove as much tumor as possible.\n3. Consolidation/Intensification phase: Includes high doses of chemotherapy and blood stem cell transplantation with additional, experimental \"minimal residual disease\" (MRD) treatment. Participants will also get radiation treatment to all sites of the tumor(s) after recovery from the stem cell transplant.\n4. Maintenance/MRD treatment phase: With immune therapy in addition to the standard treatment with the drug isotretinoin."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Neuroblastoma"
+        ],
+        "keywords": [
+          "Anti-GD2 monoclonal antibody",
+          "hu14.18K322A",
+          "High-risk neuroblastoma",
+          "Phase II",
+          "Allogeneic NK cells"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SINGLE_GROUP",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 153,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Treatment",
+            "type": "EXPERIMENTAL",
+            "description": "Participants receive IV hu14.18K322A with each course of chemotherapy (cyclophosphamide, topotecan, cyclophosphamide, doxorubicin, vincristine, cisplatin, and etoposide). Mesna will be given prior to and after cyclophosphamide infusion. Peripheral blood stem cell harvest (PBSC) and surgical resection of primary tumor will be performed, if feasible. Intensification therapy includes busulfan, melphalan, and levetiracetam with peripheral blood stem cell transplantation. A course of hu14.18K322A with natural killer cell infusion will be given to consenting participants. Radiation therapy will follow PBSC transplant with the exception of any patient requiring emergent radiotherapy. MRD treatment includes hu14.18K322A, G-CSF, GM-CSF, interleukin-2 and isotretinoin.\n\nCells for infusion are prepared using the CliniMACS System.",
+            "interventionNames": [
+              "Drug: cyclophosphamide",
+              "Drug: topotecan",
+              "Biological: hu14.18K322A",
+              "Procedure: peripheral blood stem cell harvest",
+              "Procedure: surgical resection",
+              "Drug: cisplatin",
+              "Drug: etoposide",
+              "Drug: doxorubicin",
+              "Drug: vincristine",
+              "Drug: busulfan",
+              "Drug: melphalan",
+              "Biological: peripheral blood stem cell transplantation",
+              "Biological: natural killer cell infusion",
+              "Radiation: radiation therapy",
+              "Biological: GM-CSF",
+              "Biological: G-CSF",
+              "Drug: mesna",
+              "Drug: levetiracetam",
+              "Biological: interleukin-2",
+              "Drug: Isotretinoin",
+              "Device: CliniMACS"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "cyclophosphamide",
+            "description": "Given intravenously (IV)",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Cytoxan(R)"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "topotecan",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Hycamtin(R)"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "hu14.18K322A",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "humanized anti-GD2 antibody",
+              "monoclonal antibody",
+              "dinutuximab"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "peripheral blood stem cell harvest",
+            "description": "Following evaluation and approval by a member of the transplant staff and completion of the consent form by the participant, collection of peripheral blood stem cells (PBSC) may take place.",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "PBSCH"
+            ]
+          },
+          {
+            "type": "PROCEDURE",
+            "name": "surgical resection",
+            "description": "The primary tumor will be resected surgically following two initial courses of chemotherapy, if feasible. Patients who are unable to have their primary tumor resected after the initial two courses of induction chemotherapy will undergo surgery for resection of the primary tumor mass and careful lymph node staging.",
+            "armGroupLabels": [
+              "Treatment"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "cisplatin",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Platinol-AQ(R)"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "etoposide",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "VP16",
+              "Vepesid(R)",
+              "Etopophos(R)"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "doxorubicin",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Adriamycin(R)"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "vincristine",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Oncovin(R)"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "busulfan",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Busulfex(R)"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "melphalan",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "L-phenylalanine mustard",
+              "Phenylalanine mustard",
+              "L-PAM",
+              "L-sarcolysin",
+              "Alkeran(R)"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "peripheral blood stem cell transplantation",
+            "description": "Transplantation of previously harvested peripheral blood stem cells.",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "PBSCT"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "natural killer cell infusion",
+            "description": "Natural killer (NK) cells obtained from a suitable donor will be given together with hu14.18K322A prior to early hematopoietic cell recovery. In the event there is not a suitable parental donor, consenting participants will receive an additional course of hu14.18K322A.",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "NK cell infusion"
+            ]
+          },
+          {
+            "type": "RADIATION",
+            "name": "radiation therapy",
+            "description": "Radiation therapy to the primary and metastatic disease sites will follow peripheral blood stem cell transplant with the exception of any patient requiring emergent radiotherapy. External beam radiotherapy will be delivered to the primary site and select metastatic and bulky nodal sites.",
+            "armGroupLabels": [
+              "Treatment"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "GM-CSF",
+            "description": "Given subcutaneously (SQ)",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "sargramostim",
+              "Leukine(R)",
+              "granulocyte macrophage colony stimulating factor"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "G-CSF",
+            "description": "Given subcutaneously (SQ)",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Granulocyte colony stimulating factor",
+              "Neupogen(R)",
+              "Filgrastim"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "mesna",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Mesnex(R)"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "levetiracetam",
+            "description": "Given IV",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Keppra"
+            ]
+          },
+          {
+            "type": "BIOLOGICAL",
+            "name": "interleukin-2",
+            "description": "Given by continuous infusion during MRD maintenance, and SQ during induction.",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "IL-2",
+              "aldesleukin",
+              "Proleukin(R)"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Isotretinoin",
+            "description": "Given orally (PO)",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "13-cis retinoic acid"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "CliniMACS",
+            "description": "The mechanism of action of the CliniMACS Cell Selection System is based on magnetic-activated cell sorting (MACS). The CliniMACS device is a powerful tool for the isolation of many cell types from heterogeneous cell mixtures, (e.g. apheresis products). These can then be separated in a magnetic field using an immunomagnetic label specific for the cell type of interest, such as CD3+ human T cells.",
+            "armGroupLabels": [
+              "Treatment"
+            ],
+            "otherNames": [
+              "Cell Selection System"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Overall Response Rate [Complete Response + Very Good Partial Response + Partial Response (CR + VGPR + PR)]",
+            "description": "Per the 1993 INRC: measurable tumor defined as product of the longest x widest perpendicular diameter, elevated catecholamine levels and tumor cels in bone marrow. Complete Response (CR)-no evidence of primary tumor or metastases. Very Good Partial Response (VGPR)-\\>90% reduction of primary tumor; no metastases; no new bone lesions, all pre-existing lesions improved. Partial Response (PR)-50-90% reduction of primary tumor; \\>50% reduction in measurable sites of metastases; 0-1 bone marrow samples with tumor; number of positive bone sites decreased by \\>50%. Mixed Response (MR)-\\>50% reduction of any measurable lesion with \\<50% reduction in other sites; no new lesions; \\<25% increase in any existing lesion. No Response (NR)-no new lesions; \\<50% reduction but \\<25% increase in an any existing lesion. No Response (NR)-no new lesions; \\<50% reduction but \\<25% increase in any existing legions. Progressive Disease (PD)-any new/increased measurable lesion by \\>25%; previous negative marrow positive.",
+            "timeFrame": "After two initial courses of chemotherapy (approximately 6 weeks after enrollment)"
+          },
+          {
+            "measure": "Event-free Survival (EFS)",
+            "description": "EFS was estimated as time to relapse, progressive disease, secondary neoplasm, or death from any cause from enrollment. The EFS was estimated by Kaplan-Meier method",
+            "timeFrame": "3 years, from time of enrollment"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Feasibility of Delivering hu14.18K322A to 6 Cycles of Induction Therapy",
+            "description": "The study is designed to monitor the feasibility of delivering hu14.18K332A to 6 cycles of Induction chemotherapy. The feasibility of Induction therapy for this study will be to target no worse than 75%. A patient was considered as a \"failure\" for the 6 cycles of Induction therapy if the patient failed to complete Induction therapy within 155 days since treatment initiation due to toxicity or disease progression, unless the delay was a result of non-medical issues (e.g. not due to protocol toxicity). The proportion of patients who successfully received hu14.18K322A with 6 cycles of induction chemotherapy was estimated together with a 95% confidence interval. The response rate (CR + VGPR + PR) to 6 cycles of Induction chemoimmunotherapy was estimated together with the 95% confidence intervals",
+            "timeFrame": "After 6 cycles of induction therapy (approximately 24 weeks after enrollment)"
+          },
+          {
+            "measure": "Local Failure Rate and Pattern of Failure",
+            "description": "Local failure is defined as relapse or progression of disease at the primary site. The cumulative incidence of local failure will be estimated; competing events will include distant failure or death prior to local failure.",
+            "timeFrame": "Up to 3 years"
+          },
+          {
+            "measure": "Dose Limiting Toxicity (DLT) or Severe (Grade 3 or 4) VOD With hu14.18K322A With Allogeneic NK Cells in Consolidation",
+            "description": "Number of patients who experience an unacceptable dose limiting toxicity (per CTCAE v 4.0) including the following toxicities: 1) toxicity requiring the use of pressors, including Grade 4 acute capillary leak syndrome or Grade3 and 4 hypotension; 2) Toxicity requiring ventilation support, including Grade 4 respiratory toxicity; 3) Grade 3 or 4 neurotoxicity with MRI evidence of new CNS thrombi, infarction or bleeding in any subject receiving the hu14.18K322A with NK cell combination; 4) Failure of recovery of ANC \\> 500/mm3 by day 35 after PBSC infusion. Number of patients who experience Grade 3 or Grade 4 (per Common Toxicity Criteria v 4.0) veno occlusive disease (VOD).",
+            "timeFrame": "During the recovery phase after busulfan/melphalan and PBSC rescue (approximately 24-26 weeks after enrollment)"
+          },
+          {
+            "measure": "Dose Limiting Toxicity (DLT)",
+            "description": "Number of patients who experience an unacceptable dose limiting toxicity (per CTCAE v 4.0) including the following toxicities: 1) Toxicity requiring the use of pressors, including Grade 4 acute capillary leak syndrome or Grade 3 and 4 hypotension; 2) Toxicity requiring ventilation support, including Grade 4 respiratory toxicity; 3) Grade 3 or 4 neurotoxicity with MRI evidence of new CNS thrombi, infarction or bleeding.",
+            "timeFrame": "During MRD treatment cycle (approximately 8-12 months after enrollment)"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "PARTICIPANT Inclusion Criteria:\n\n* Participants \\<19 years of age (eligible until 19th birthday).\n* Newly diagnosed, advanced stage, high-risk neuroblastoma defined as one of the following:\n\n  * Children \\< 1 year with International Neuroblastoma Staging System (INSS) stage 2a, 2b, 3, 4 or 4S disease AND MYCN amplification (\\>10 copies, or greater than four-fold increase in MYCN signal as compared to reference signal).\n  * INSS 2a or 2b disease AND MYCN amplification, regardless of age or additional biologic features\n  * INSS stage 3 AND:\n\n    1. MYCN amplification (\\>10 copies, or greater than four-fold increase in MYCN signal as compared to reference signal, regardless of age or additional biologic features\n    2. Age \\> 18 months (\\> 547 days) with unfavorable pathology, regardless of MYCN status\n  * INSS stage 4 and:\n\n    1. MYCN amplification, regardless of age or additional biologic features\n    2. Age \\> 18 months (\\> 547 days) regardless of biologic features\n    3. Age 12 - 18 months (365 - 547 days) with any of the following three unfavorable biologic features (MYCN amplification, unfavorable pathology and/or DNA index =1) or any biologic feature that is indeterminant/unknown\n  * Children at least 365 days initially diagnosed with: INSS stage 1, 2, 4S who progressed to a stage 4 without interval chemotherapy.\n* Histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines.\n* Adequate renal and hepatic function (serum creatinine \\<3 x upper limit of normal for age, AST\\< 3 x upper limit of normal).\n* No prior therapy, unless an emergency situation requires local tumor treatment (discuss with principal investigator).\n* Written, informed consent according to institutional guidelines.\n\nPARTICIPANT Exclusion Criteria:\n\n* Any evidence, as judged by the investigator, of severe or uncontrolled systemic disease (e.g., unstable or uncompensated respiratory, cardiac, hepatic, or renal disease).\n* Pregnant or breast feeding (female of child-bearing potential).\n* Children with INSS 4 disease, age \\<18 months with all 3 favorable biologic features (non-amplified MYCN, favorable pathology and DNA index \\>1).\n\nDONOR Inclusion Criteria:\n\n* Potential donor is a biologic parent\n* Potential donor is at least 18 years of age.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "maximumAge": "18 Years",
+        "stdAges": [
+          "CHILD",
+          "ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Sara M. Federico, MD",
+            "affiliation": "St. Jude Children's Research Hospital",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "St. Jude Children's Research Hospital",
+            "city": "Memphis",
+            "state": "Tennessee",
+            "zip": "38105",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.14953,
+              "lon": -90.04898
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "34871104",
+            "type": "DERIVED",
+            "citation": "Furman WL, McCarville B, Shulkin BL, Davidoff A, Krasin M, Hsu CW, Pan H, Wu J, Brennan R, Bishop MW, Helmig S, Stewart E, Navid F, Triplett B, Santana V, Santiago T, Hank JA, Gillies SD, Yu A, Sondel PM, Leung WH, Pappo A, Federico SM. Improved Outcome in Children With Newly Diagnosed High-Risk Neuroblastoma Treated With Chemoimmunotherapy: Updated Results of a Phase II Study Using hu14.18K322A. J Clin Oncol. 2022 Feb 1;40(4):335-344. doi: 10.1200/JCO.21.01375. Epub 2021 Dec 6."
+          },
+          {
+            "pmid": "32221013",
+            "type": "DERIVED",
+            "citation": "Nguyen R, Sahr N, Sykes A, McCarville MB, Federico SM, Sooter A, Cullins D, Rooney B, Janssen WE, Talleur AC, Triplett BM, Anthony G, Dyer MA, Pappo AS, Leung WH, Furman WL. Longitudinal NK cell kinetics and cytotoxicity in children with neuroblastoma enrolled in a clinical phase II trial. J Immunother Cancer. 2020 Mar;8(1):e000176. doi: 10.1136/jitc-2019-000176."
+          }
+        ],
+        "seeAlsoLinks": [
+          {
+            "label": "St. Jude Children's Research Hospital",
+            "url": "http://www.stjude.org"
+          },
+          {
+            "label": "Clinical Trials Open at St. Jude",
+            "url": "http://www.stjude.org/protocols"
+          }
+        ]
+      }
+    },
+    "resultsSection": {
+      "participantFlowModule": {
+        "recruitmentDetails": "A total of 153 patients were enrolled on the study from July 5, 2013 to July 15, 2019. Of the 153 participants, 64 had newly diagnosed high-risk neuroblastoma. The remaining patients were potential parental donors for the NK infusion during Consolidation. All patients were enrolled at St. Jude Children's Research Hospital.",
+        "groups": [
+          {
+            "id": "FG000",
+            "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Plus Antibody (hu14.18K322A)",
+            "description": "All newly diagnosed high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study will receive cyclophosphamide and topotecan combined with humanized anti-GD2 antibody (hu14.18K322A)."
+          }
+        ],
+        "periods": [
+          {
+            "title": "Overall Study",
+            "milestones": [
+              {
+                "type": "STARTED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "64"
+                  }
+                ]
+              },
+              {
+                "type": "COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "54"
+                  }
+                ]
+              },
+              {
+                "type": "NOT COMPLETED",
+                "achievements": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "10"
+                  }
+                ]
+              }
+            ],
+            "dropWithdraws": [
+              {
+                "type": "Relapse or progression",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "2"
+                  }
+                ]
+              },
+              {
+                "type": "Unacceptable toxicity",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "3"
+                  }
+                ]
+              },
+              {
+                "type": "Unwillingness or inability to comply",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "2"
+                  }
+                ]
+              },
+              {
+                "type": "Physician Decision",
+                "reasons": [
+                  {
+                    "groupId": "FG000",
+                    "numSubjects": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "baselineCharacteristicsModule": {
+        "populationDescription": "All newly diagnosed, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study.",
+        "groups": [
+          {
+            "id": "BG000",
+            "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Plus Antibody (hu14.18K322A)",
+            "description": "All newly diagnosed, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study will receive Induction, Consolidation and MRD treatment with humanized anti-GD2 antibody (hu14.18K322A) included during Induction and Consolidation. A subset of patients also received hu14.18K322A during Consolidation."
+          }
+        ],
+        "denoms": [
+          {
+            "units": "Participants",
+            "counts": [
+              {
+                "groupId": "BG000",
+                "value": "64"
+              }
+            ]
+          }
+        ],
+        "measures": [
+          {
+            "title": "Age, Continuous",
+            "paramType": "MEAN",
+            "dispersionType": "STANDARD_DEVIATION",
+            "unitOfMeasure": "months",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "49.03",
+                        "spread": "39.24"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sex: Female, Male",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "Female",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "27"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Male",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "37"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Race/Ethnicity, Customized",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "title": "White",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "43"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Black",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "18"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Other",
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "3"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Cyclophosphamide and topotecan combined with humanized anti-GD2 antibody (hu14.18K322A)",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "BG000",
+                        "value": "64"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "outcomeMeasuresModule": {
+        "outcomeMeasures": [
+          {
+            "type": "PRIMARY",
+            "title": "Overall Response Rate [Complete Response + Very Good Partial Response + Partial Response (CR + VGPR + PR)]",
+            "description": "Per the 1993 INRC: measurable tumor defined as product of the longest x widest perpendicular diameter, elevated catecholamine levels and tumor cels in bone marrow. Complete Response (CR)-no evidence of primary tumor or metastases. Very Good Partial Response (VGPR)-\\>90% reduction of primary tumor; no metastases; no new bone lesions, all pre-existing lesions improved. Partial Response (PR)-50-90% reduction of primary tumor; \\>50% reduction in measurable sites of metastases; 0-1 bone marrow samples with tumor; number of positive bone sites decreased by \\>50%. Mixed Response (MR)-\\>50% reduction of any measurable lesion with \\<50% reduction in other sites; no new lesions; \\<25% increase in any existing lesion. No Response (NR)-no new lesions; \\<50% reduction but \\<25% increase in an any existing lesion. No Response (NR)-no new lesions; \\<50% reduction but \\<25% increase in any existing legions. Progressive Disease (PD)-any new/increased measurable lesion by \\>25%; previous negative marrow positive.",
+            "reportingStatus": "POSTED",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "timeFrame": "After two initial courses of chemotherapy (approximately 6 weeks after enrollment)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Antibody (hu14.18K322A)",
+                "description": "All newly diagnosed, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "63"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "42"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PRIMARY",
+            "title": "Event-free Survival (EFS)",
+            "description": "EFS was estimated as time to relapse, progressive disease, secondary neoplasm, or death from any cause from enrollment. The EFS was estimated by Kaplan-Meier method",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "percent of probability",
+            "timeFrame": "3 years, from time of enrollment",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Plus Antibody (hu14.18K322A)",
+                "description": "All newly diagnosed, advanced stage, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "64"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "73.7",
+                        "lowerLimit": "60.0",
+                        "upperLimit": "83.4"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Feasibility of Delivering hu14.18K322A to 6 Cycles of Induction Therapy",
+            "description": "The study is designed to monitor the feasibility of delivering hu14.18K332A to 6 cycles of Induction chemotherapy. The feasibility of Induction therapy for this study will be to target no worse than 75%. A patient was considered as a \"failure\" for the 6 cycles of Induction therapy if the patient failed to complete Induction therapy within 155 days since treatment initiation due to toxicity or disease progression, unless the delay was a result of non-medical issues (e.g. not due to protocol toxicity). The proportion of patients who successfully received hu14.18K322A with 6 cycles of induction chemotherapy was estimated together with a 95% confidence interval. The response rate (CR + VGPR + PR) to 6 cycles of Induction chemoimmunotherapy was estimated together with the 95% confidence intervals",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "percentage of participants",
+            "timeFrame": "After 6 cycles of induction therapy (approximately 24 weeks after enrollment)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Plus Antibody (hu14.18K322A)",
+                "description": "All newly diagnosed, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "64"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "96.8",
+                        "lowerLimit": "88.8",
+                        "upperLimit": "99.6"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Local Failure Rate and Pattern of Failure",
+            "description": "Local failure is defined as relapse or progression of disease at the primary site. The cumulative incidence of local failure will be estimated; competing events will include distant failure or death prior to local failure.",
+            "reportingStatus": "POSTED",
+            "paramType": "NUMBER",
+            "dispersionType": "95% Confidence Interval",
+            "unitOfMeasure": "percentage of participants",
+            "timeFrame": "Up to 3 years",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Antibody Antibody (hu14.18K322A)",
+                "description": "All newly diagnosed, advanced stage, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "64"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "1.56",
+                        "lowerLimit": "0.13",
+                        "upperLimit": "7.46"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Dose Limiting Toxicity (DLT) or Severe (Grade 3 or 4) VOD With hu14.18K322A With Allogeneic NK Cells in Consolidation",
+            "description": "Number of patients who experience an unacceptable dose limiting toxicity (per CTCAE v 4.0) including the following toxicities: 1) toxicity requiring the use of pressors, including Grade 4 acute capillary leak syndrome or Grade3 and 4 hypotension; 2) Toxicity requiring ventilation support, including Grade 4 respiratory toxicity; 3) Grade 3 or 4 neurotoxicity with MRI evidence of new CNS thrombi, infarction or bleeding in any subject receiving the hu14.18K322A with NK cell combination; 4) Failure of recovery of ANC \\> 500/mm3 by day 35 after PBSC infusion. Number of patients who experience Grade 3 or Grade 4 (per Common Toxicity Criteria v 4.0) veno occlusive disease (VOD).",
+            "reportingStatus": "POSTED",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "timeFrame": "During the recovery phase after busulfan/melphalan and PBSC rescue (approximately 24-26 weeks after enrollment)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Plus Antibody (hu14.18K322A)",
+                "description": "All newly diagnosed, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study. Patients had a parent to donate NK cells to be given during Consolidation."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "31"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "SECONDARY",
+            "title": "Dose Limiting Toxicity (DLT)",
+            "description": "Number of patients who experience an unacceptable dose limiting toxicity (per CTCAE v 4.0) including the following toxicities: 1) Toxicity requiring the use of pressors, including Grade 4 acute capillary leak syndrome or Grade 3 and 4 hypotension; 2) Toxicity requiring ventilation support, including Grade 4 respiratory toxicity; 3) Grade 3 or 4 neurotoxicity with MRI evidence of new CNS thrombi, infarction or bleeding.",
+            "reportingStatus": "POSTED",
+            "paramType": "COUNT_OF_PARTICIPANTS",
+            "unitOfMeasure": "Participants",
+            "timeFrame": "During MRD treatment cycle (approximately 8-12 months after enrollment)",
+            "groups": [
+              {
+                "id": "OG000",
+                "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Plus Antibody (hu14.18K322A)",
+                "description": "All newly diagnosed, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study."
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "OG000",
+                    "value": "42"
+                  }
+                ]
+              }
+            ],
+            "classes": [
+              {
+                "categories": [
+                  {
+                    "measurements": [
+                      {
+                        "groupId": "OG000",
+                        "value": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "adverseEventsModule": {
+        "frequencyThreshold": "5",
+        "timeFrame": "Acute adverse events were collected from study enrollment up to 4 weeks after completion of chemotherapy/radiation therapy, whichever came last. Long term toxicity was captured at every visit up to 5 years from study enrollment.",
+        "description": "CTCAE v4.0 Grades 3 and 4 toxicities",
+        "eventGroups": [
+          {
+            "id": "EG000",
+            "title": "NB2012 Therapy (Including Induction, Consolidation, and MRD) Plus Antibody (hu14.18K322A)",
+            "description": "All newly diagnosed, high-risk neuroblastoma participants \\<19 years of age who had histologic proof of neuroblastoma or positive bone marrow for tumor cells with increased urine catecholamines, with adequate renal and hepatic function, no prior therapy and consent to the study.",
+            "deathsNumAffected": 1,
+            "deathsNumAtRisk": 64,
+            "seriousNumAffected": 40,
+            "seriousNumAtRisk": 64,
+            "otherNumAffected": 64,
+            "otherNumAtRisk": 64
+          }
+        ],
+        "seriousEvents": [
+          {
+            "term": "Anemia",
+            "organSystem": "Blood and lymphatic system disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Febrile neutropenia",
+            "organSystem": "Blood and lymphatic system disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Asystole",
+            "organSystem": "Cardiac disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pericardial effusion",
+            "organSystem": "Cardiac disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pericarditis",
+            "organSystem": "Cardiac disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Sinus tachycardia",
+            "organSystem": "Cardiac disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Abdominal pain",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Colitis",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Diarrhea",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Esophagitis",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Intra-abdominal hemorrhage",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Mucositis oral",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 6,
+                "numAffected": 6,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Nausea",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Typhlitis",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Upper gastrointestinal hemorrhage",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Vomiting",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Fatigue",
+            "organSystem": "General disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Fever",
+            "organSystem": "General disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Infusion related reaction",
+            "organSystem": "General disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pain",
+            "organSystem": "General disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hepatic failure",
+            "organSystem": "Hepatobiliary disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hepatobiliary disorders - Other, specify",
+            "organSystem": "Hepatobiliary disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Catheter related infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Duodenal infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Enterocolitis infectious",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Infections and infestations - Other, specify",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Sepsis",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Upper respiratory infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 6,
+                "numAffected": 6,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Urinary tract infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Aspartate aminotransferase increased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Blood bilirubin increased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "GGT increased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Lymphocyte count decreased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 9,
+                "numAffected": 9,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Neutrophil count decreased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 8,
+                "numAffected": 8,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Platelet count decreased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 9,
+                "numAffected": 9,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "White blood cell decreased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Anorexia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Dehydration",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hyperuricemia",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypocalcemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypokalemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Metabolism and nutrition disorders - Other, specify",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Depressed level of consciousness",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Encephalopathy",
+            "organSystem": "Nervous system disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Acute kidney injury",
+            "organSystem": "Renal and urinary disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Cystitis noninfective",
+            "organSystem": "Renal and urinary disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Apnea",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Aspiration",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Atelectasis",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Dyspnea",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypoxia",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pneumothorax",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pulmonary edema",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pulmonary hypertension",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Respiratory failure",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypertension",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 2,
+                "numAffected": 2,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypotension",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 3,
+                "numAffected": 3,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Thromboembolic event",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 1,
+                "numAffected": 1,
+                "numAtRisk": 64
+              }
+            ]
+          }
+        ],
+        "otherEvents": [
+          {
+            "term": "Febrile neutropenia",
+            "organSystem": "Blood and lymphatic system disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 58,
+                "numAffected": 58,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Anemia",
+            "organSystem": "Blood and lymphatic system disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 64,
+                "numAffected": 64,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hearing impaired",
+            "organSystem": "Ear and labyrinth disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 20,
+                "numAffected": 20,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Mucositis oral",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 45,
+                "numAffected": 45,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Vomiting",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 27,
+                "numAffected": 27,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Nausea",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 20,
+                "numAffected": 20,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Diarrhea",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 18,
+                "numAffected": 18,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Abdominal pain",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 16,
+                "numAffected": 16,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Esophagitis",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 8,
+                "numAffected": 8,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Colitis",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 7,
+                "numAffected": 7,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Ascites",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 6,
+                "numAffected": 6,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Abdominal distension",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Small intestinal obstruction",
+            "organSystem": "Gastrointestinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Fever",
+            "organSystem": "General disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 38,
+                "numAffected": 38,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pain",
+            "organSystem": "General disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 28,
+                "numAffected": 28,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Infusion related reaction",
+            "organSystem": "General disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 15,
+                "numAffected": 15,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Fatigue",
+            "organSystem": "General disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hepatobiliary disorders - Other, specify",
+            "organSystem": "Hepatobiliary disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 13,
+                "numAffected": 13,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Enterocolitis infectious",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 43,
+                "numAffected": 43,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Upper respiratory infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 41,
+                "numAffected": 41,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Catheter related infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 32,
+                "numAffected": 32,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Urinary tract infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 24,
+                "numAffected": 24,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Device related infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 15,
+                "numAffected": 15,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Sepsis",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 13,
+                "numAffected": 13,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Infections and infestations - Other, specify",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 8,
+                "numAffected": 8,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Bladder infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Skin infection",
+            "organSystem": "Infections and infestations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Alanine aminotransferase increased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 30,
+                "numAffected": 30,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Lymphocyte count increased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 29,
+                "numAffected": 29,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Aspartate aminotransferase increased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 24,
+                "numAffected": 24,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Blood bilirubin increased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 17,
+                "numAffected": 17,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "GGT increased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 16,
+                "numAffected": 16,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Lymphocyte count decreased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 64,
+                "numAffected": 64,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Neutrophil count decreased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 64,
+                "numAffected": 64,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Platelet count decreased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 64,
+                "numAffected": 64,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "White blood cell decreased",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 64,
+                "numAffected": 64,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Blood antidiuretic hormone abnormal",
+            "organSystem": "Investigations",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypokalemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 50,
+                "numAffected": 50,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypophosphatemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 45,
+                "numAffected": 45,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hyperglycemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 33,
+                "numAffected": 33,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hyponatremia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 33,
+                "numAffected": 33,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Acidosis",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 29,
+                "numAffected": 29,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypocalcemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 23,
+                "numAffected": 23,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Anorexia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 17,
+                "numAffected": 17,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Dehydration",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 15,
+                "numAffected": 15,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hyperkalemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 11,
+                "numAffected": 11,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Alkalosis",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 7,
+                "numAffected": 7,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypoglycemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 6,
+                "numAffected": 6,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hyperuricemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypoalbuminemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypermagnesemia",
+            "organSystem": "Metabolism and nutrition disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pain in extremity",
+            "organSystem": "Musculoskeletal and connective tissue disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Agitation",
+            "organSystem": "Psychiatric disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Cystitis noninfective",
+            "organSystem": "Renal and urinary disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 8,
+                "numAffected": 8,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypoxia",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 31,
+                "numAffected": 31,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Epistaxis",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 15,
+                "numAffected": 15,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Atelectasis",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 9,
+                "numAffected": 9,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Cough",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 8,
+                "numAffected": 8,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pleural effusion",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 8,
+                "numAffected": 8,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Bronchospasm",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 5,
+                "numAffected": 5,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Dyspnea",
+            "organSystem": "Respiratory, thoracic and mediastinal disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Pruritus",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Rash acneiform",
+            "organSystem": "Skin and subcutaneous tissue disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 4,
+                "numAffected": 4,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypotension",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 29,
+                "numAffected": 29,
+                "numAtRisk": 64
+              }
+            ]
+          },
+          {
+            "term": "Hypertension",
+            "organSystem": "Vascular disorders",
+            "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+            "stats": [
+              {
+                "groupId": "EG000",
+                "numEvents": 12,
+                "numAffected": 12,
+                "numAtRisk": 64
+              }
+            ]
+          }
+        ]
+      },
+      "moreInfoModule": {
+        "certainAgreement": {
+          "piSponsorEmployee": true
+        },
+        "pointOfContact": {
+          "title": "Sara M. Federico, MD",
+          "organization": "St. Jude Children's Research Hospital",
+          "email": "referralinfo@stjude.org",
+          "phone": "866-278-5833"
+        }
+      }
+    },
+    "documentSection": {
+      "largeDocumentModule": {
+        "largeDocs": [
+          {
+            "typeAbbrev": "Prot_SAP",
+            "hasProtocol": true,
+            "hasSap": true,
+            "hasIcf": false,
+            "label": "Study Protocol and Statistical Analysis Plan",
+            "date": "2019-06-21",
+            "uploadDate": "2023-01-26T12:20",
+            "filename": "Prot_SAP_000.pdf",
+            "size": 25310719
+          },
+          {
+            "typeAbbrev": "ICF",
+            "hasProtocol": false,
+            "hasSap": false,
+            "hasIcf": true,
+            "label": "Informed Consent Form",
+            "date": "2019-06-21",
+            "uploadDate": "2023-01-26T12:17",
+            "filename": "ICF_001.pdf",
+            "size": 7156761
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D009447",
+            "term": "Neuroblastoma"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D018241",
+            "term": "Neuroectodermal Tumors, Primitive, Peripheral"
+          },
+          {
+            "id": "D018242",
+            "term": "Neuroectodermal Tumors, Primitive"
+          },
+          {
+            "id": "D018302",
+            "term": "Neoplasms, Neuroepithelial"
+          },
+          {
+            "id": "D017599",
+            "term": "Neuroectodermal Tumors"
+          },
+          {
+            "id": "D009373",
+            "term": "Neoplasms, Germ Cell and Embryonal"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D009375",
+            "term": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "id": "D009380",
+            "term": "Neoplasms, Nerve Tissue"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003520",
+            "term": "Cyclophosphamide"
+          },
+          {
+            "id": "D019772",
+            "term": "Topotecan"
+          },
+          {
+            "id": "C000624155",
+            "term": "Hu14.18K322A monoclonal antibody"
+          },
+          {
+            "id": "C000654310",
+            "term": "humanized 3F8 anti-GD2 monoclonal antibody"
+          },
+          {
+            "id": "D000911",
+            "term": "Antibodies, Monoclonal"
+          },
+          {
+            "id": "C112746",
+            "term": "dinutuximab"
+          },
+          {
+            "id": "D002945",
+            "term": "Cisplatin"
+          },
+          {
+            "id": "D005047",
+            "term": "Etoposide"
+          },
+          {
+            "id": "D004317",
+            "term": "Doxorubicin"
+          },
+          {
+            "id": "D014750",
+            "term": "Vincristine"
+          },
+          {
+            "id": "D002066",
+            "term": "Busulfan"
+          },
+          {
+            "id": "D008558",
+            "term": "Melphalan"
+          },
+          {
+            "id": "D036102",
+            "term": "Peripheral Blood Stem Cell Transplantation"
+          },
+          {
+            "id": "D011878",
+            "term": "Radiotherapy"
+          },
+          {
+            "id": "D016178",
+            "term": "Granulocyte-Macrophage Colony-Stimulating Factor"
+          },
+          {
+            "id": "C081222",
+            "term": "sargramostim"
+          },
+          {
+            "id": "D016179",
+            "term": "Granulocyte Colony-Stimulating Factor"
+          },
+          {
+            "id": "D000069585",
+            "term": "Filgrastim"
+          },
+          {
+            "id": "D015080",
+            "term": "Mesna"
+          },
+          {
+            "id": "D000077287",
+            "term": "Levetiracetam"
+          },
+          {
+            "id": "D007376",
+            "term": "Interleukin-2"
+          },
+          {
+            "id": "C082598",
+            "term": "aldesleukin"
+          },
+          {
+            "id": "D015474",
+            "term": "Isotretinoin"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D010752",
+            "term": "Phosphoramide Mustards"
+          },
+          {
+            "id": "D009588",
+            "term": "Nitrogen Mustard Compounds"
+          },
+          {
+            "id": "D009150",
+            "term": "Mustard Compounds"
+          },
+          {
+            "id": "D006846",
+            "term": "Hydrocarbons, Halogenated"
+          },
+          {
+            "id": "D006838",
+            "term": "Hydrocarbons"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D063088",
+            "term": "Phosphoramides"
+          },
+          {
+            "id": "D009943",
+            "term": "Organophosphorus Compounds"
+          },
+          {
+            "id": "D002166",
+            "term": "Camptothecin"
+          },
+          {
+            "id": "D000470",
+            "term": "Alkaloids"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          },
+          {
+            "id": "D000906",
+            "term": "Antibodies"
+          },
+          {
+            "id": "D007136",
+            "term": "Immunoglobulins"
+          },
+          {
+            "id": "D007162",
+            "term": "Immunoproteins"
+          },
+          {
+            "id": "D001798",
+            "term": "Blood Proteins"
+          },
+          {
+            "id": "D011506",
+            "term": "Proteins"
+          },
+          {
+            "id": "D000602",
+            "term": "Amino Acids, Peptides, and Proteins"
+          },
+          {
+            "id": "D012712",
+            "term": "Serum Globulins"
+          },
+          {
+            "id": "D005916",
+            "term": "Globulins"
+          },
+          {
+            "id": "D017606",
+            "term": "Chlorine Compounds"
+          },
+          {
+            "id": "D007287",
+            "term": "Inorganic Chemicals"
+          },
+          {
+            "id": "D017672",
+            "term": "Nitrogen Compounds"
+          },
+          {
+            "id": "D017671",
+            "term": "Platinum Compounds"
+          },
+          {
+            "id": "D011034",
+            "term": "Podophyllotoxin"
+          },
+          {
+            "id": "D013764",
+            "term": "Tetrahydronaphthalenes"
+          },
+          {
+            "id": "D009281",
+            "term": "Naphthalenes"
+          },
+          {
+            "id": "D011084",
+            "term": "Polycyclic Aromatic Hydrocarbons"
+          },
+          {
+            "id": "D006841",
+            "term": "Hydrocarbons, Aromatic"
+          },
+          {
+            "id": "D006844",
+            "term": "Hydrocarbons, Cyclic"
+          },
+          {
+            "id": "D011083",
+            "term": "Polycyclic Compounds"
+          },
+          {
+            "id": "D005960",
+            "term": "Glucosides"
+          },
+          {
+            "id": "D006027",
+            "term": "Glycosides"
+          },
+          {
+            "id": "D002241",
+            "term": "Carbohydrates"
+          },
+          {
+            "id": "D003630",
+            "term": "Daunorubicin"
+          },
+          {
+            "id": "D018943",
+            "term": "Anthracyclines"
+          },
+          {
+            "id": "D009279",
+            "term": "Naphthacenes"
+          },
+          {
+            "id": "D000617",
+            "term": "Aminoglycosides"
+          },
+          {
+            "id": "D014748",
+            "term": "Vinca Alkaloids"
+          },
+          {
+            "id": "D046948",
+            "term": "Secologanin Tryptamine Alkaloids"
+          },
+          {
+            "id": "D026121",
+            "term": "Indole Alkaloids"
+          },
+          {
+            "id": "D007211",
+            "term": "Indoles"
+          },
+          {
+            "id": "D006574",
+            "term": "Heterocyclic Compounds, 2-Ring"
+          },
+          {
+            "id": "D000072471",
+            "term": "Heterocyclic Compounds, Fused-Ring"
+          },
+          {
+            "id": "D054836",
+            "term": "Indolizidines"
+          },
+          {
+            "id": "D007212",
+            "term": "Indolizines"
+          },
+          {
+            "id": "D002072",
+            "term": "Butylene Glycols"
+          },
+          {
+            "id": "D006018",
+            "term": "Glycols"
+          },
+          {
+            "id": "D000438",
+            "term": "Alcohols"
+          },
+          {
+            "id": "D008698",
+            "term": "Mesylates"
+          },
+          {
+            "id": "D000476",
+            "term": "Alkanesulfonates"
+          },
+          {
+            "id": "D017738",
+            "term": "Alkanesulfonic Acids"
+          },
+          {
+            "id": "D000473",
+            "term": "Alkanes"
+          },
+          {
+            "id": "D006839",
+            "term": "Hydrocarbons, Acyclic"
+          },
+          {
+            "id": "D013451",
+            "term": "Sulfonic Acids"
+          },
+          {
+            "id": "D013456",
+            "term": "Sulfur Acids"
+          },
+          {
+            "id": "D013457",
+            "term": "Sulfur Compounds"
+          },
+          {
+            "id": "D010649",
+            "term": "Phenylalanine"
+          },
+          {
+            "id": "D024322",
+            "term": "Amino Acids, Aromatic"
+          },
+          {
+            "id": "D000598",
+            "term": "Amino Acids, Cyclic"
+          },
+          {
+            "id": "D000596",
+            "term": "Amino Acids"
+          },
+          {
+            "id": "D018380",
+            "term": "Hematopoietic Stem Cell Transplantation"
+          },
+          {
+            "id": "D033581",
+            "term": "Stem Cell Transplantation"
+          },
+          {
+            "id": "D017690",
+            "term": "Cell Transplantation"
+          },
+          {
+            "id": "D064987",
+            "term": "Cell- and Tissue-Based Therapy"
+          },
+          {
+            "id": "D001691",
+            "term": "Biological Therapy"
+          },
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          },
+          {
+            "id": "D014180",
+            "term": "Transplantation"
+          },
+          {
+            "id": "D013514",
+            "term": "Surgical Procedures, Operative"
+          },
+          {
+            "id": "D003115",
+            "term": "Colony-Stimulating Factors"
+          },
+          {
+            "id": "D006023",
+            "term": "Glycoproteins"
+          },
+          {
+            "id": "D006001",
+            "term": "Glycoconjugates"
+          },
+          {
+            "id": "D016298",
+            "term": "Hematopoietic Cell Growth Factors"
+          },
+          {
+            "id": "D016207",
+            "term": "Cytokines"
+          },
+          {
+            "id": "D036341",
+            "term": "Intercellular Signaling Peptides and Proteins"
+          },
+          {
+            "id": "D010455",
+            "term": "Peptides"
+          },
+          {
+            "id": "D001685",
+            "term": "Biological Factors"
+          },
+          {
+            "id": "D013438",
+            "term": "Sulfhydryl Compounds"
+          },
+          {
+            "id": "D000081",
+            "term": "Acetamides"
+          },
+          {
+            "id": "D000577",
+            "term": "Amides"
+          },
+          {
+            "id": "D000085",
+            "term": "Acetates"
+          },
+          {
+            "id": "D000144",
+            "term": "Acids, Acyclic"
+          },
+          {
+            "id": "D002264",
+            "term": "Carboxylic Acids"
+          },
+          {
+            "id": "D011760",
+            "term": "Pyrrolidinones"
+          },
+          {
+            "id": "D011759",
+            "term": "Pyrrolidines"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D007378",
+            "term": "Interleukins"
+          },
+          {
+            "id": "D008222",
+            "term": "Lymphokines"
+          },
+          {
+            "id": "D012176",
+            "term": "Retinoids"
+          },
+          {
+            "id": "D002338",
+            "term": "Carotenoids"
+          },
+          {
+            "id": "D011090",
+            "term": "Polyenes"
+          },
+          {
+            "id": "D000475",
+            "term": "Alkenes"
+          },
+          {
+            "id": "D053138",
+            "term": "Cyclohexenes"
+          },
+          {
+            "id": "D003510",
+            "term": "Cyclohexanes"
+          },
+          {
+            "id": "D003516",
+            "term": "Cycloparaffins"
+          },
+          {
+            "id": "D006840",
+            "term": "Hydrocarbons, Alicyclic"
+          },
+          {
+            "id": "D013729",
+            "term": "Terpenes"
+          },
+          {
+            "id": "D010860",
+            "term": "Pigments, Biological"
+          }
+        ]
+      }
+    },
+    "hasResults": true
+  },
+  "parsed_at": "2026-10-30T10:30:03.628900"
+}

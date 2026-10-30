@@ -1,0 +1,20 @@
+{
+  "pmid": "26721913",
+  "title": "Health Literacy Mediates the Relationship Between Age and Health Outcomes in Patients With Heart Failure.",
+  "abstract": "Previous studies have linked frequent rehospitalizations for heart failure (HF) and increased mortality with older age, higher severity of HF, lack of an evidence-based medication regimen, and inadequate health literacy. However, the pathway between age and health outcomes in patients with HF remains unknown. Therefore, the purpose of this study was to test whether the association between age and health outcomes can be explained by severity of HF, evidence-based medication use, and health literacy in patients with HF. This was a longitudinal study of 575 rural patients with HF recruited from outpatient clinics and hospitals. Demographics, clinical data, and health literacy were collected at baseline. HF readmissions and cardiac mortality were followed for 2 years; 57% of patients were \u2265 65 years of age. Older patients with HF were more likely to have low health literacy and less likely to be prescribed angiotensin-converting enzyme inhibitors or \u03b2-blockers. Using Kaplan-Meier survival curves with log-rank tests, health outcomes were significantly worse in patients who were \u2265 65 years and in those with low health literacy. Separate Cox regressions revealed that age and health literacy predicted worse health outcomes (P = 0.006 and < 0.001, respectively). When health literacy was entered into the model, the hazard ratio for age changed from 1.49 to 1.29 (a 41% reduction); age was no longer a significant predictor of health outcomes, but health literacy remained significant (P < 0.001), demonstrating mediation. Health literacy mediates the relationship between age and health outcomes in adults with HF. URL: http://www.clinicaltrials.gov. Unique identifier: NCT00415545.",
+  "journal": "Circulation. Heart failure",
+  "pub_date": "2016-Jan",
+  "authors": [
+    "Wu, Jia-Rong",
+    "Moser, Debra K",
+    "DeWalt, Darren A",
+    "Rayens, Mary Kay",
+    "Dracup, Kathleen"
+  ],
+  "nct_ids_referenced": [
+    "NCT00415545"
+  ],
+  "source": "pubmed",
+  "word_count": 253,
+  "parsed_at": "2026-10-30T10:31:10.595950"
+}

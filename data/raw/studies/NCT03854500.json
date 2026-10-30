@@ -1,0 +1,344 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03854500",
+      "orgStudyIdInfo": {
+        "id": "2018-003090-95"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2018",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/2018"
+        }
+      ],
+      "organization": {
+        "fullName": "Haukeland University Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Norwegian Tenecteplase Stroke Trial 2",
+      "officialTitle": "A Randomised Trial of Tenecteplase vs. Alteplase in Acute Ischemic Stroke",
+      "acronym": "NOR-TEST 2"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-02",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Per protocol safety analysis 200 patients showed a significant difference in bleeding rates between the two drug groups.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-10-28",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-09-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-12-31",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-01-21",
+      "studyFirstSubmitQcDate": "2019-02-24",
+      "studyFirstPostDateStruct": {
+        "date": "2019-02-26",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-02-27",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-03",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Haukeland University Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Background: Alteplase is the only approved acute drug treatment in ischemic stroke and aims at dissolving arterial clots causing cerebral ischemia. The overall benefit of alteplase is substantial. However, there is considerable room for improvement as 2/3 of patients with large clots may not achieve reopening of the vessel and up to 40% of the patients remain severely disabled or die.\n\nTenecteplase, a modified tissue plasminogen activator, has been shown to be a more efficient and safer thrombolytic drug than alteplase in pre-clinical studies. Tenecteplase has replaced alteplase as thrombolytic treatment in myocardial infarction and may also be the drug of choice in ischemic stroke.\n\nTenecteplase and alteplase had a similar safety profile in the NOR-TEST trial and there were no differences in efficacy between the two treatment groups. However, a majority of patients had mild stroke which may be associated with a natural favorable prognosis.\n\nIn spite of these neutral results, tenecteplase has the potential to replace alteplase as the drug of choice, based on a better pharmacological profile and a simpler practical administration. There is, however, need for a higher number of patients to prove the efficacy and safety of tenecteplase.\n\nHypothesis: Tenecteplase 0.4 mg/kg is non-inferior compared with alteplase 0.9 mg/kg.",
+      "detailedDescription": "Objectives: To compare efficacy and safety of tenecteplase 0.4 mg/kg (single bolus) vs. alteplase 0.9 mg/kg (10% bolus + 90% infusion/60 minutes) a) within 4\u00bd hours after symptom onset; b) within 4\u00bd hours after awakening with stroke symptoms, and c) as bridging therapy within 4\u00bd hours before thrombectomy.\n\nStudy design: NOR-TEST-2 is a multi-centre PROBE (prospective randomised, open-label, blinded endpoint) trial, designed to establish non-inferiority of tenecteplase as compared with alteplase for consecutively admitted patients with acute ischaemic stroke treated within 4\u00bd hours after symptom onset. Randomisation tenecteplase:alteplase is 1:1.\n\nEndpoints: Primary endpoint is functional outcome (mRS 0-1) at 90 days (efficacy). Secondary endpoints include rates of cerebral hemorrhages on CT/MR at 24-48 hours and mortality (safety).\n\nPatient recruitment: All patients admitted to hospital with acute ischaemic stroke eligible for standard iv thrombolysis with alteplase and with pre-stroke mRS\\<3 and NIHSS score of \\>5 on admission are potentially eligible for NOR-TEST-2. Based on power calculations from NOR-TEST, NOR-TEST 2 aims at including 1036 patients."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Stroke, Acute",
+        "Cerebrovascular Disorders",
+        "Ischemic Stroke"
+      ],
+      "keywords": [
+        "Tenecteplase",
+        "Thrombolysis",
+        "Alteplase"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Randomized, controlled multicenter study",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 201,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Tenecteplase",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Tenecteplase",
+          "interventionNames": [
+            "Drug: Tenecteplase"
+          ]
+        },
+        {
+          "label": "Alteplase",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Alteplase",
+          "interventionNames": [
+            "Drug: Alteplase"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tenecteplase",
+          "description": "0.4 mg/kg single bolus intravenously",
+          "armGroupLabels": [
+            "Tenecteplase"
+          ],
+          "otherNames": [
+            "Metalyse"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Alteplase",
+          "description": "0.9 mg/kg as 10% bolus + 90% infusion/60 minutes intravenously",
+          "armGroupLabels": [
+            "Alteplase"
+          ],
+          "otherNames": [
+            "Actilyse"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Proportion of patients with favorable functional outcome",
+          "description": "Modified Rankin Scale 0-1 (favorable= 0-1, unfavorable 2-6)",
+          "timeFrame": "90 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Symptomatic cerebral hemorrhage",
+          "description": "Proportion of patients with haemorrhagic infarct/haematoma as defined by CT or MRI",
+          "timeFrame": "24-48 hours"
+        },
+        {
+          "measure": "Any cerebral haemorrhage",
+          "description": "Proportion of patients haemorrhagic infarct/haematoma as defined by CT or MRI",
+          "timeFrame": "24-48 hours"
+        },
+        {
+          "measure": "Major neurological improvement",
+          "description": "Proportion of patients \\>3 Points improvement by NIHSS score or NIHSS score 0 (NIHSS score range is 0-42)",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Functional handicap",
+          "description": "Ordinal shift analysis of modified Rankin scale (0-6)",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Mortality",
+          "description": "Proportion of patients who died",
+          "timeFrame": "90 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "General inclusion criteria\n\n* 18 years or older\n* Ischaemic stroke with clinical symptoms corresponding to National Institutes of Health Stroke Scale Score (NIHSS) of \\>5. All stroke sub-types and vascular distributions are eligible. A visible arterial occlusion is not required for inclusion.\n* Treatment \\<4\u00bd hours after stroke onset or after awakening with symptoms.\n* Informed consent by patient or by patient's family\n\nSpecific sub-set inclusion criteria\n\n* Wake-Up Stroke: FLAIR-DWI mismatch on MRI as judged by the (neuro-) radiologist or neurologist.\n* Thrombectomy: Occlusion of intracerebral artery technically accessible for endovascular embolectomy as defined by local treatment protocols.\n\nExclusion criteria\n\n* Prestroke modified rankin scale of \u22653\n* Large areas of hypodense ischaemic changes on baseline CT;\n* Patients with systolic blood pressure \\>185 mm Hg or diastolic blood pressure \\>110 mm Hg in spite of acute antihypertensive treatment;\n* Pregnant women (are treated with alteplase);\n* Women with possible pregnancy (are treated with alteplase)\n* Beast feeding women, if a 24 hours stop of feeding is not feasible.\n* Clinical presentation suggesting subarachnoid haemorrhage even if baseline CT is normal;\n* Known bleeding diathesis; use of oral anticoagulants with no antidot, INR \u22651,4; heparin \\<48 hours and increased APTT; low molecular weight heparin(oid) \\<24 hours; another investigational drug \\<14 days;\n* Patients with arterial puncture at a noncompressible site or lumbar puncture \\<7 days; major surgery or serious trauma \\<14 days; gastrointestinal or urinary tract hemorrhage \\<14 days; clinical stroke \\<2 months; history of intracranial haemorrhage; CNS neurosurgery \\<2 months; serious head trauma \\<2 months; pericarditis; sepsis; any serious medical illness likely to interact with treatment; confounding pre-existent neurological or psychiatric disease; unlikely to complete follow-up;\n* Any condition that, in the opinion of the investigator, puts a patient at risk if treated with thrombolysis.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Haukeland University Hospital",
+          "city": "Bergen",
+          "zip": "5021",
+          "country": "Norway",
+          "geoPoint": {
+            "lat": 60.39299,
+            "lon": 5.32415
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "28780236",
+          "type": "BACKGROUND",
+          "citation": "Logallo N, Novotny V, Assmus J, Kvistad CE, Alteheld L, Ronning OM, Thommessen B, Amthor KF, Ihle-Hansen H, Kurz M, Tobro H, Kaur K, Stankiewicz M, Carlsson M, Morsund A, Idicula T, Aamodt AH, Lund C, Naess H, Waje-Andreassen U, Thomassen L. Tenecteplase versus alteplase for management of acute ischaemic stroke (NOR-TEST): a phase 3, randomised, open-label, blinded endpoint trial. Lancet Neurol. 2017 Oct;16(10):781-788. doi: 10.1016/S1474-4422(17)30253-3. Epub 2017 Aug 2."
+        },
+        {
+          "pmid": "35525250",
+          "type": "RESULT",
+          "citation": "Kvistad CE, Naess H, Helleberg BH, Idicula T, Hagberg G, Nordby LM, Jenssen KN, Tobro H, Rorholt DM, Kaur K, Eltoft A, Evensen K, Haasz J, Singaravel G, Fromm A, Thomassen L. Tenecteplase versus alteplase for the management of acute ischaemic stroke in Norway (NOR-TEST 2, part A): a phase 3, randomised, open-label, blinded endpoint, non-inferiority trial. Lancet Neurol. 2022 Jun;21(6):511-519. doi: 10.1016/S1474-4422(22)00124-7. Epub 2022 May 4."
+        },
+        {
+          "pmid": "37830342",
+          "type": "DERIVED",
+          "citation": "Novotny V, Kvistad CE, Naess H, Logallo N, Fromm A, Khanevski AN, Thomassen L. Tenecteplase, 0.4 mg/kg, in Moderate and Severe Acute Ischemic Stroke: A Pooled Analysis of NOR-TEST and NOR-TEST 2A. J Am Heart Assoc. 2023 Oct 17;12(20):e030320. doi: 10.1161/JAHA.123.030320. Epub 2023 Oct 13."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D000083242",
+          "term": "Ischemic Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077785",
+          "term": "Tenecteplase"
+        },
+        {
+          "id": "D010959",
+          "term": "Tissue Plasminogen Activator"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012697",
+          "term": "Serine Endopeptidases"
+        },
+        {
+          "id": "D010450",
+          "term": "Endopeptidases"
+        },
+        {
+          "id": "D010447",
+          "term": "Peptide Hydrolases"
+        },
+        {
+          "id": "D006867",
+          "term": "Hydrolases"
+        },
+        {
+          "id": "D004798",
+          "term": "Enzymes"
+        },
+        {
+          "id": "D045762",
+          "term": "Enzymes and Coenzymes"
+        },
+        {
+          "id": "D057057",
+          "term": "Serine Proteases"
+        },
+        {
+          "id": "D010960",
+          "term": "Plasminogen Activators"
+        },
+        {
+          "id": "D001779",
+          "term": "Blood Coagulation Factors"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

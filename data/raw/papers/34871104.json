@@ -1,0 +1,38 @@
+{
+  "pmid": "34871104",
+  "title": "Improved Outcome in Children With Newly Diagnosed High-Risk Neuroblastoma Treated With Chemoimmunotherapy: Updated Results of a Phase II Study Using hu14.18K322A.",
+  "abstract": "We evaluated whether combining a humanized antidisialoganglioside monoclonal antibody (hu14.18K322A) throughout therapy improves early response and outcomes in children with newly diagnosed high-risk neuroblastoma. We conducted a prospective, single-arm, three-stage, phase II clinical trial. Six cycles of induction chemotherapy were coadministered with hu14.18K322A, granulocyte-macrophage colony-stimulating factor (GM-CSF), and low-dose interleukin-2 (IL-2). The consolidation regimen included busulfan and melphalan. When available, an additional cycle of parent-derived natural killer cells with hu14.18K322A was administered during consolidation (n = 31). Radiation therapy was administered at the end of consolidation. Postconsolidation treatment included hu14.18K322A, GM-CSF, IL-2, and isotretinoin. Early response was assessed after the first two cycles of induction therapy. End-of-induction response, event-free survival (EFS), and overall survival (OS) were evaluated. Sixty-four patients received hu14.18K322A with induction chemotherapy. This regimen was well tolerated, with continuous infusion narcotics. Partial responses (PRs) or better after the first two chemoimmunotherapy cycles occurred in 42 of 63 evaluable patients (66.7%; 95% CI, 55.0 to 78.3). Primary tumor volume decreased by a median of 75% (range, 100% [complete disappearance]-5% growth). Median peak hu14.18K322A serum levels in cycle one correlated with early response to therapy ( Adding hu14.18K322A to induction chemotherapy improved early objective responses, significantly reduced tumor volumes in most patients, improved end-of-induction response rates, and yielded an encouraging 3-year EFS. These results, if validated in a larger study, may be practice changing.",
+  "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+  "pub_date": "2022-Feb",
+  "authors": [
+    "Furman, Wayne L",
+    "McCarville, Beth",
+    "Shulkin, Barry L",
+    "Davidoff, Andrew",
+    "Krasin, Matthew",
+    "Hsu, Chia-Wei",
+    "Pan, Haitao",
+    "Wu, Jianrong",
+    "Brennan, Rachel",
+    "Bishop, Michael W",
+    "Helmig, Sara",
+    "Stewart, Elizabeth",
+    "Navid, Fariba",
+    "Triplett, Brandon",
+    "Santana, Victor",
+    "Santiago, Teresa",
+    "Hank, Jacquelyn A",
+    "Gillies, Stephen D",
+    "Yu, Alice",
+    "Sondel, Paul M",
+    "Leung, Wing H",
+    "Pappo, Alberto",
+    "Federico, Sara M"
+  ],
+  "nct_ids_referenced": [
+    "NCT01857934"
+  ],
+  "source": "pubmed",
+  "word_count": 224,
+  "parsed_at": "2026-10-30T10:30:58.639153"
+}

@@ -1,0 +1,452 @@
+{
+  "nct_id": "NCT06918964",
+  "title": "Efficacy and Safety of Transcutaneous Auricular Vagus Nerve Stimulation for Acute Intracerebral Hemorrhage",
+  "sponsor": "Beijing Tiantan Hospital",
+  "phase": "NA",
+  "status": "RECRUITING",
+  "conditions": [
+    "Intracerebral Hemorrhage"
+  ],
+  "interventions": [
+    "transcutaneous auricular vagus nerve stimulation device",
+    "Sham device"
+  ],
+  "primary_outcome": "Volume of perihematoma edema assessed by CT",
+  "secondary_outcomes": [
+    "Autonomic activity assessed by heart rate variability",
+    "Autonomic activity assessed by baroreflex sensitivity",
+    "National Institutes of Health stroke scale (NIHSS)",
+    "GCS (Glasgow Coma Scale)",
+    "MMSE (Mini-Mental State Examination)",
+    "MoCA (Montreal Cognitive Assessment)",
+    "PHQ-9 (Patient Health Questionnaire-9)",
+    "90-day National Institutes of Health stroke scale (NIHSS)",
+    "90-day modified Rankin Scale (mRS)",
+    "90-day EQ-5D (EuroQol 5-Dimension Questionnaire) score",
+    "90-day GCS (Glasgow Coma Scale)",
+    "90-day MMSE (Mini-Mental State Examination)",
+    "90-day MoCA (Montreal Cognitive Assessment)",
+    "90-day PHQ-9 (Patient Health Questionnaire-9)"
+  ],
+  "start_date": "2025-09-15",
+  "completion_date": "2028-06",
+  "results_posted": false,
+  "enrollment": 186,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT06918964",
+        "orgStudyIdInfo": {
+          "id": "KangKJ"
+        },
+        "organization": {
+          "fullName": "Beijing Tiantan Hospital",
+          "class": "OTHER"
+        },
+        "briefTitle": "TaVNS for Acute Intracerebral Hemorrhage",
+        "officialTitle": "Efficacy and Safety of Transcutaneous Auricular Vagus Nerve Stimulation for Acute Intracerebral Hemorrhage",
+        "acronym": "TAVANS-ICH"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-01",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2025-09-15",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2028-06",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2028-12",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2025-03-06",
+        "studyFirstSubmitQcDate": "2025-04-07",
+        "studyFirstPostDateStruct": {
+          "date": "2025-04-09",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-01-14",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-01-15",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "PRINCIPAL_INVESTIGATOR",
+          "investigatorFullName": "Kaijiang Kang",
+          "investigatorTitle": "Principal Investigator",
+          "investigatorAffiliation": "Beijing Tiantan Hospital"
+        },
+        "leadSponsor": {
+          "name": "Beijing Tiantan Hospital",
+          "class": "OTHER"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": false,
+        "isFdaRegulatedDevice": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study aims to evaluate the efficacy and safety of transcutaneous auricular vagus nerve stimulation (taVNS) in patients with acute intracerebral hemorrhage (ICH). The taVNS intervention will be delivered using the BS-TVNS800-1 transcutaneous electrical stimulation therapy device (KERFUN, Shanxi, China). A total of 186 patients will be randomly assigned in a 1:1 ratio to either the taVNS group or the sham-taVNS group. The primary outcome is the relative volume of perihematoma edema assessed on day 10-14 after randomization. Adverse events associated with taVNS therapy will be systematically evaluated to assess its safety profile."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Intracerebral Hemorrhage"
+        ],
+        "keywords": [
+          "Intracerebral Hemorrhage",
+          "taVNS",
+          "perihemtomal edema",
+          "neuroinflammation",
+          "secondary brain injury"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "DOUBLE",
+            "maskingDescription": "The participants and outcome assessors are unaware of the trial grouping.",
+            "whoMasked": [
+              "PARTICIPANT",
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 186,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "taVNS intervention",
+            "type": "ACTIVE_COMPARATOR",
+            "description": "Patients will receive taVNS therapy twice daily for 10 consecutive days, in addition to receiving guideline-adherent conventional treatment during hospitalization.",
+            "interventionNames": [
+              "Device: transcutaneous auricular vagus nerve stimulation device"
+            ]
+          },
+          {
+            "label": "Sham taVNS intervention",
+            "type": "SHAM_COMPARATOR",
+            "description": "Patients will receive sham taVNS twice daily for 10 consecutive days, in addition to receiving guideline-adherent conventional treatment during their hospital stay.",
+            "interventionNames": [
+              "Device: Sham device"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DEVICE",
+            "name": "transcutaneous auricular vagus nerve stimulation device",
+            "description": "Place the stimulation device on the left auricle and set the stimulation parameters according to the following conditions: a. Waveform: biphase, square wave; b. Wave width: 200 \u03bcs; c. Frequency: Alternating between low frequency (4 Hz for 4 s), high frequency (40 Hz for 8 s), and a 4 s pause; d. Intensity: The maximum intensity that induces the strongest sensation the individual can tolerate without causing pain, usually 1.5-3.5 mA; e. Treatment duration: Each treatment lasted 30 minutes, twice daily (8:00, 16:00) for 10 days.",
+            "armGroupLabels": [
+              "taVNS intervention"
+            ]
+          },
+          {
+            "type": "DEVICE",
+            "name": "Sham device",
+            "description": "The sham taVNS group received the same parameters with a current intensity of 0.06 mA.",
+            "armGroupLabels": [
+              "Sham taVNS intervention"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Volume of perihematoma edema assessed by CT",
+            "description": "Relative edema volume.",
+            "timeFrame": "Day 10-14 after randomization"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Autonomic activity assessed by heart rate variability",
+            "description": "Heart rate variability (HRV) will be assessed using a 10-minute electrocardiogram (ECG) recorded with a 12-lead ECG Holter (TeleECG BI 12E, Biomedical Instruments Co., Ltd., Shenzhen). HRV indices will be analyzed in both the time domain (e.g., SDNN, RMSSD) and the frequency domain (e.g., LF, HF, LF/HF).",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "Autonomic activity assessed by baroreflex sensitivity",
+            "description": "Baroreflex sensitivity (BRS) will be evaluated by noninvasively measuring beat-to-beat signals for 10 min using a servo-controlled plethysmograph (FMS-8A, Delica Medical Equipment Co., Ltd., Shenzhen) placed on the middle finger.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "National Institutes of Health stroke scale (NIHSS)",
+            "description": "NIHSS is used to assess the severity of functional impairment caused by stroke. It consists of 11 test items, with a total score ranging from 0 to 42. A higher score indicates a more severe stroke.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "GCS (Glasgow Coma Scale)",
+            "description": "The GCS is used to assess the level of consciousness in patients, with the total score ranging from 3 to 15. Lower scores indicate more severe impairment.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "MMSE (Mini-Mental State Examination)",
+            "description": "The Mini-Mental State Examination (MMSE) is a widely used cognitive screening tool designed to assess global cognitive function, including orientation, memory, attention, language, and visuospatial skills. Scores range from 0 to 30, with higher scores indicating better cognitive performance.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "MoCA (Montreal Cognitive Assessment)",
+            "description": "The Montreal Cognitive Assessment (MoCA) is another cognitive screening instrument optimized for detecting mild cognitive impairment (MCI) and early dementia. Scores range from 0 to 30, with higher scores indicating better cognitive performance.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "PHQ-9 (Patient Health Questionnaire-9)",
+            "description": "The Patient Health Questionnaire-9 (PHQ-9) is a brief, self-report tool validated for screening and monitoring depression severity. Scores range from 0 to 27, with higher scores reflecting greater symptom severity.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "90-day National Institutes of Health stroke scale (NIHSS)",
+            "description": "NIHSS is used to assess the severity of functional impairment caused by stroke. It consists of 11 test items, with a total score ranging from 0 to 42. A higher score indicates a more severe stroke.",
+            "timeFrame": "90 \u00b1 7 days after randomization"
+          },
+          {
+            "measure": "90-day modified Rankin Scale (mRS)",
+            "description": "The mRS is used to measure the degree of disability or dependence after a stroke. The scale ranges from 0 to 6 and higher scores indicate greater functional impairment.",
+            "timeFrame": "90 \u00b1 7 days after randomization"
+          },
+          {
+            "measure": "90-day EQ-5D (EuroQol 5-Dimension Questionnaire) score",
+            "description": "The EQ-5D is a standardized instrument used to assess health-related quality of life.",
+            "timeFrame": "90 \u00b1 7 days after randomization"
+          },
+          {
+            "measure": "90-day GCS (Glasgow Coma Scale)",
+            "description": "The GCS is used to assess the level of consciousness in patients, with the total score ranging from 3 to 15. Lower scores indicate more severe impairment.",
+            "timeFrame": "90 \u00b1 7 days after randomization"
+          },
+          {
+            "measure": "90-day MMSE (Mini-Mental State Examination)",
+            "description": "The Mini-Mental State Examination (MMSE) is a widely used cognitive screening tool designed to assess global cognitive function, including orientation, memory, attention, language, and visuospatial skills. Scores range from 0 to 30, with higher scores indicating better cognitive performance.",
+            "timeFrame": "90 \u00b1 7 days after randomization"
+          },
+          {
+            "measure": "90-day MoCA (Montreal Cognitive Assessment)",
+            "description": "The Montreal Cognitive Assessment (MoCA) is another cognitive screening instrument optimized for detecting mild cognitive impairment (MCI) and early dementia. Scores range from 0 to 30, with higher scores indicating better cognitive performance.",
+            "timeFrame": "90 \u00b1 7 days after randomization"
+          },
+          {
+            "measure": "90-day PHQ-9 (Patient Health Questionnaire-9)",
+            "description": "The Patient Health Questionnaire-9 (PHQ-9) is a brief, self-report tool validated for screening and monitoring depression severity. Scores range from 0 to 27, with higher scores reflecting greater symptom severity.",
+            "timeFrame": "90 \u00b1 7 days after randomization"
+          }
+        ],
+        "otherOutcomes": [
+          {
+            "measure": "Safety assessment",
+            "description": "Adverse events, serious adverse events, death",
+            "timeFrame": "In the 10-day treatment period"
+          },
+          {
+            "measure": "Perihematomal blood-brain barrier permeability",
+            "description": "Perihematomal blood-brain barrier permeability will be assessed by Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE-MRI).",
+            "timeFrame": "Day 5-7 after randomization"
+          },
+          {
+            "measure": "Evaluation of glymphatic system",
+            "description": "Impairment of the function of the glymphatic system will be assessed by diffusion kurtosis imaging analysis along the perivascular space (DKI-ALPS).",
+            "timeFrame": "Day 5-7 after randomization"
+          },
+          {
+            "measure": "Assessment of microglial activation",
+            "description": "Microglial activation will be quantified by TSPO-PET/MRI.",
+            "timeFrame": "Day 7-9 after randomization"
+          },
+          {
+            "measure": "Interleukin-1\u03b2 (IL-1\u03b2) level in peripheral blood",
+            "description": "IL-1\u03b2: A pro-inflammatory cytokine (measured in pg/mL) that drives fever, neutrophil activation, and autoimmune responses. It will be detected by ELISA.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "Interleukin-6 (IL-6)",
+            "description": "IL-6: A pro-inflammatory cytokine (pg/mL) involved in acute-phase protein synthesis and B-cell differentiation, and implicated in infections. It will be detected by ELISA.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "Tumor Necrosis Factor-alpha (TNF-\u03b1)",
+            "description": "TNF-\u03b1 is a pro-inflammatory cytokine (pg/mL) which can be detected via ELISA.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "Interleukin-4 (IL-4)",
+            "description": "IL-4 is an anti-inflammatory Th2 cytokine (pg/mL) which will be measured by ELISA.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "Interleukin-10 (IL-10)",
+            "description": "IL-10 is an anti-inflammatory regulator (pg/mL), which will be quantified via ELISA.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "Transforming Growth Factor-beta (TGF-\u03b2)",
+            "description": "TGF-\u03b2 is a multifunctional cytokine (pg/mL) that is involved in regulation of cell growth, differentiation, and apoptosis. It will be detected by ELISA.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "Neurofilament light chain (NFL)",
+            "description": "NFL is a non-specific biological marker representing neuronal injury (measured in pg/mL). It will be measured by ELISA.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "Monocyte subsets",
+            "description": "Classical (CD14++CD16-) differentiate into macrophages for tissue repair, non-classical (CD14+CD16++) patrol vasculature for surveillance, measured in cells/\u03bcL by flow cytometry.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "CD4+ T cells",
+            "description": "Coordinate adaptive immunity (helper role, cells/\u03bcL) via cytokine secretion and immune activation, assessed by flow cytometry with surface marker staining.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "CD8+ T cells",
+            "description": "Mediate cytotoxicity (cells/\u03bcL), quantified using flow cytometry.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "NK cells",
+            "description": "Innate lymphocytes (cells/\u03bcL) detected via flow cytometry.",
+            "timeFrame": "Day 10-14 after randomization"
+          },
+          {
+            "measure": "B cells",
+            "description": "Produce antibodies for humoral immunity (measured in cells/\u03bcL), enumerated by flow cytometry (CD19/CD20 markers).",
+            "timeFrame": "Day 10-14 after randomization"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with spontaneous supratentorial intracerebral hemorrhage.\n2. Age between 18 and 80 years.\n3. Onset within 72 hours.\n4. Hematoma volume between 5 and 40 mL.\n5. Glasgow Coma Scale (GCS) score greater than 8.\n6. Written informed consent obtained from the patient or their legal representative.\n\nExclusion Criteria:\n\n1. Secondary intracerebral hemorrhage (e.g., traumatic, tumor-related, vascular malformation, aneurysm, or coagulopathy-related).\n2. Primary intraventricular hemorrhage.\n3. Parenchymal hemorrhage that ruptures into the ventricles, with blood completely filling one lateral ventricle, the third ventricle, the fourth ventricle or more than half of both lateral ventricles.\n4. Progressive neurological or other severe diseases.\n5. Planned surgical treatment within 24 hours.\n6. Pre-existing disability caused by previous illnesses: Modified Rankin Scale (mRS) score \u2265 3.\n7. Patients with severe cardiomyopathy, heart failure, pacemaker implantation, atrial fibrillation, frequent premature beats, second-degree or higher atrioventricular block, or other severe arrhythmias.\n8. Severe pulmonary disease, liver disease, renal insufficiency (glomerular filtration rate \\< 30 mL/min), active gastrointestinal bleeding, or malignant tumors with an expected survival of less than 3 months.\n9. Patients with hyperthyroidism, hypothyroidism, syncope, epilepsy, multiple sclerosis, Parkinson's disease, multiple system atrophy, or other known disorders affecting autonomic nervous function.\n10. Use of medications that interfere with autonomic function (e.g., beta-blockers, theophylline, tricyclic antidepressants, or steroids) within 7 days before screening.\n11. Patients who cannot tolerate taVNS.\n12. Congenital or acquired ear abnormalities preventing taVNS treatment.\n13. Inability to comply with 10 days of treatment.\n14. Pregnancy or within 30 days of delivery.\n15. Participation in another interventional clinical trial.\n16. Inability to obtain written informed consent from the participant or their legal representative.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "80 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {
+            "facility": "Beijing Tiantan Hospital, Capital Medical University",
+            "status": "RECRUITING",
+            "city": "Beijing",
+            "state": "Beijing Municipality",
+            "zip": "100070",
+            "country": "China",
+            "contacts": [
+              {
+                "name": "Kaijiang Kang, MD",
+                "role": "CONTACT",
+                "phone": "+8618210554710",
+                "email": "kangkaijiang678@126.com"
+              },
+              {
+                "name": "Chuanying Wang, MD",
+                "role": "CONTACT",
+                "phone": "+8618515356680",
+                "email": "chuanying616@163.com"
+              },
+              {
+                "name": "Kaijiang Kang, MD",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "geoPoint": {
+              "lat": 39.9075,
+              "lon": 116.39723
+            }
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "YES"
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D002543",
+            "term": "Cerebral Hemorrhage"
+          },
+          {
+            "id": "D000090862",
+            "term": "Neuroinflammatory Diseases"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D020300",
+            "term": "Intracranial Hemorrhages"
+          },
+          {
+            "id": "D002561",
+            "term": "Cerebrovascular Disorders"
+          },
+          {
+            "id": "D001927",
+            "term": "Brain Diseases"
+          },
+          {
+            "id": "D002493",
+            "term": "Central Nervous System Diseases"
+          },
+          {
+            "id": "D009422",
+            "term": "Nervous System Diseases"
+          },
+          {
+            "id": "D014652",
+            "term": "Vascular Diseases"
+          },
+          {
+            "id": "D002318",
+            "term": "Cardiovascular Diseases"
+          },
+          {
+            "id": "D006470",
+            "term": "Hemorrhage"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          },
+          {
+            "id": "D007249",
+            "term": "Inflammation"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:31:04.792378"
+}

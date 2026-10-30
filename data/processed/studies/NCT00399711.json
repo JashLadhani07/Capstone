@@ -1,0 +1,1413 @@
+{
+  "nct_id": "NCT00399711",
+  "title": "Repaglinide and Metformin Combination Tablet (NN4440) in a TID Regimen Compared to a BID Regimen and BID Avandamet in Subjects With Type 2 Diabetes: A Twenty-Six Week, Open-Label, Multicenter, Randomized, Parallel Group Trial to Investigate Efficacy and Safety",
+  "sponsor": "Novo Nordisk A/S",
+  "phase": "PHASE3",
+  "status": "COMPLETED",
+  "conditions": [
+    "Diabetes",
+    "Diabetes Mellitus, Type 2"
+  ],
+  "interventions": [
+    "repaglinide and metformin combination tablet",
+    "rosiglitazone and metformin combination tablet"
+  ],
+  "primary_outcome": "HbA1c",
+  "secondary_outcomes": [
+    "Change in 8-point Glucose Profiles",
+    "Change in Lipid Profile",
+    "Events of hypoglycemia",
+    "Safety parameters",
+    "Change in Fasting Plasma Glucose",
+    "Waist/hip ratio change",
+    "Change in body weight",
+    "Percentage of subjects achieving sudden levels of HbA1c"
+  ],
+  "start_date": "2006-11",
+  "completion_date": "2007-11",
+  "results_posted": false,
+  "enrollment": 560,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00399711",
+        "orgStudyIdInfo": {
+          "id": "NN4440-1794"
+        },
+        "organization": {
+          "fullName": "Novo Nordisk A/S",
+          "class": "INDUSTRY"
+        },
+        "briefTitle": "Effect of Repaglinide and Metformin Combination Tablet or Rosiglitazone and Metformin in Fixed Dose Combination on Blood Glucose Control in Patients With Type 2 Diabetes",
+        "officialTitle": "Repaglinide and Metformin Combination Tablet (NN4440) in a TID Regimen Compared to a BID Regimen and BID Avandamet in Subjects With Type 2 Diabetes: A Twenty-Six Week, Open-Label, Multicenter, Randomized, Parallel Group Trial to Investigate Efficacy and Safety"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2017-02",
+        "overallStatus": "COMPLETED",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2006-11"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2007-11",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2007-11",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2006-11-14",
+        "studyFirstSubmitQcDate": "2006-11-14",
+        "studyFirstPostDateStruct": {
+          "date": "2006-11-15",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2017-02-09",
+        "lastUpdatePostDateStruct": {
+          "date": "2017-02-10",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "Novo Nordisk A/S",
+          "class": "INDUSTRY"
+        }
+      },
+      "oversightModule": {
+        "oversightHasDmc": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This trial is conducted in the United States of America (USA). This trial compares the changes in HbA1c after 26 weeks of repaglinide and metformin fixed dose combination tablet given as twice daily versus three times daily regimens or versus twice daily rosiglitazone and metformin fixed dose combination tablet in subjects with type 2 diabetes currently on monotherapy."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Diabetes",
+          "Diabetes Mellitus, Type 2"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 560,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "repaglinide and metformin combination tablet"
+          },
+          {
+            "type": "DRUG",
+            "name": "rosiglitazone and metformin combination tablet"
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "HbA1c",
+            "timeFrame": "After 26 weeks of treatment"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Change in 8-point Glucose Profiles"
+          },
+          {
+            "measure": "Change in Lipid Profile"
+          },
+          {
+            "measure": "Events of hypoglycemia"
+          },
+          {
+            "measure": "Safety parameters"
+          },
+          {
+            "measure": "Change in Fasting Plasma Glucose"
+          },
+          {
+            "measure": "Waist/hip ratio change"
+          },
+          {
+            "measure": "Change in body weight"
+          },
+          {
+            "measure": "Percentage of subjects achieving sudden levels of HbA1c"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Type 2 diabetes for at least 3 months\n* HbA1c between 7.5-11.0% on monotherapy or\n* HbA1c between 7.0-10.0% on dual therapy\n* BMI maximum 45 kg/m2\n\nExclusion Criteria:\n\n* Any clinically significant disease history in the opinion of the investigator\n* Severe heart disease\n* Pregnancy",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Global Clinical Registry (GCR, 1452), MD",
+            "affiliation": "Novo Nordisk A/S",
+            "role": "STUDY_DIRECTOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Vestavia Hills",
+            "state": "Alabama",
+            "zip": "35209",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.44872,
+              "lon": -86.78777
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Glendale",
+            "state": "Arizona",
+            "zip": "85306",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.53865,
+              "lon": -112.18599
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Mesa",
+            "state": "Arizona",
+            "zip": "85206",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.42227,
+              "lon": -111.82264
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Jonesboro",
+            "state": "Arkansas",
+            "zip": "72401",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.8423,
+              "lon": -90.70428
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Chula Vista",
+            "state": "California",
+            "zip": "91911",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.64005,
+              "lon": -117.0842
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Long Beach",
+            "state": "California",
+            "zip": "90807",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.76696,
+              "lon": -118.18923
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90057",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.05223,
+              "lon": -118.24368
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Poway",
+            "state": "California",
+            "zip": "92064",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.96282,
+              "lon": -117.03586
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Redlands",
+            "state": "California",
+            "zip": "92374",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.05557,
+              "lon": -117.18254
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Sacramento",
+            "state": "California",
+            "zip": "95825",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.58157,
+              "lon": -121.4944
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "San Diego",
+            "state": "California",
+            "zip": "92121",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.71571,
+              "lon": -117.16472
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "San Diego",
+            "state": "California",
+            "zip": "92128",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.71571,
+              "lon": -117.16472
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "San Mateo",
+            "state": "California",
+            "zip": "94401",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.56299,
+              "lon": -122.32553
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Spring Valley",
+            "state": "California",
+            "zip": "91978",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.74477,
+              "lon": -116.99892
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Colorado Springs",
+            "state": "Colorado",
+            "zip": "80904",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.83388,
+              "lon": -104.82136
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Hamden",
+            "state": "Connecticut",
+            "zip": "06518",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.39593,
+              "lon": -72.89677
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Stamford",
+            "state": "Connecticut",
+            "zip": "06905",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.05343,
+              "lon": -73.53873
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Aventura",
+            "state": "Florida",
+            "zip": "33180",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 25.95648,
+              "lon": -80.13921
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Clearwater",
+            "state": "Florida",
+            "zip": "33765",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 27.96585,
+              "lon": -82.8001
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Daytona Beach",
+            "state": "Florida",
+            "zip": "32117",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.21081,
+              "lon": -81.02283
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Inverness",
+            "state": "Florida",
+            "zip": "34452",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.83582,
+              "lon": -82.33037
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "zip": "32116",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.33218,
+              "lon": -81.65565
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "zip": "32216",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.33218,
+              "lon": -81.65565
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Jacksonville",
+            "state": "Florida",
+            "zip": "32259",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 30.33218,
+              "lon": -81.65565
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Longwood",
+            "state": "Florida",
+            "zip": "32779",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.70305,
+              "lon": -81.3384
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Ocala",
+            "state": "Florida",
+            "zip": "34471",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.1872,
+              "lon": -82.14009
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Orlando",
+            "state": "Florida",
+            "zip": "32804",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 28.53834,
+              "lon": -81.37924
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Plantation",
+            "state": "Florida",
+            "zip": "33324",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 26.13421,
+              "lon": -80.23184
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Tampa",
+            "state": "Florida",
+            "zip": "33603",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 27.94752,
+              "lon": -82.45843
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "West Palm Beach",
+            "state": "Florida",
+            "zip": "33401",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 26.71534,
+              "lon": -80.05337
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip": "30318",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.749,
+              "lon": -84.38798
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Columbus",
+            "state": "Georgia",
+            "zip": "31904",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.46098,
+              "lon": -84.98771
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Marietta",
+            "state": "Georgia",
+            "zip": "30066",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.9526,
+              "lon": -84.54993
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Honolulu",
+            "state": "Hawaii",
+            "zip": "96814",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 21.30694,
+              "lon": -157.85833
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Nampa",
+            "state": "Idaho",
+            "zip": "83687",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.54072,
+              "lon": -116.56346
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Arlington Heights",
+            "state": "Illinois",
+            "zip": "60004",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.08836,
+              "lon": -87.98063
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Aurora",
+            "state": "Illinois",
+            "zip": "60504",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.76058,
+              "lon": -88.32007
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60607",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.85003,
+              "lon": -87.65005
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60611",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.85003,
+              "lon": -87.65005
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60616",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.85003,
+              "lon": -87.65005
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Flossmoor",
+            "state": "Illinois",
+            "zip": "60422",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.54281,
+              "lon": -87.68477
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Naperville",
+            "state": "Illinois",
+            "zip": "60564",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.78586,
+              "lon": -88.14729
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Oak Brook",
+            "state": "Illinois",
+            "zip": "60523",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.83281,
+              "lon": -87.92895
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62711",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.80172,
+              "lon": -89.64371
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Vernon Hills",
+            "state": "Illinois",
+            "zip": "60061",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.21947,
+              "lon": -87.97952
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "zip": "46250",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.76838,
+              "lon": -86.15804
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Des Moines",
+            "state": "Iowa",
+            "zip": "50314",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.60054,
+              "lon": -93.60911
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Shawnee Mission",
+            "state": "Kansas",
+            "zip": "66204",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.02,
+              "lon": -94.66583
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Topeka",
+            "state": "Kansas",
+            "zip": "66606",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.04833,
+              "lon": -95.67804
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Erlanger",
+            "state": "Kentucky",
+            "zip": "41018",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.01673,
+              "lon": -84.60078
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Louisville",
+            "state": "Kentucky",
+            "zip": "40213",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.25424,
+              "lon": -85.75941
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Bossier City",
+            "state": "Louisiana",
+            "zip": "71111",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.51599,
+              "lon": -93.73212
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21209",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.29038,
+              "lon": -76.61219
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Hyattsville",
+            "state": "Maryland",
+            "zip": "20782",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 38.95594,
+              "lon": -76.94553
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Ann Arbor",
+            "state": "Michigan",
+            "zip": "48106",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.27756,
+              "lon": -83.74088
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Flint",
+            "state": "Michigan",
+            "zip": "48504",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.01253,
+              "lon": -83.68746
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Oak Park",
+            "state": "Michigan",
+            "zip": "48237",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.45948,
+              "lon": -83.18271
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Troy",
+            "state": "Michigan",
+            "zip": "48098",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.60559,
+              "lon": -83.14993
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Kansas City",
+            "state": "Missouri",
+            "zip": "64111",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.09973,
+              "lon": -94.57857
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Omaha",
+            "state": "Nebraska",
+            "zip": "68114",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.25626,
+              "lon": -95.94043
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip": "89102",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.17497,
+              "lon": -115.13722
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "zip": "89123",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.17497,
+              "lon": -115.13722
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Berlin",
+            "state": "New Jersey",
+            "zip": "08009",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.79123,
+              "lon": -74.92905
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Jersey City",
+            "state": "New Jersey",
+            "zip": "07306",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.72816,
+              "lon": -74.07764
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Warren Township",
+            "state": "New Jersey",
+            "zip": "07059",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.60822,
+              "lon": -74.51803
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Rochester",
+            "state": "New York",
+            "zip": "14609",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.15478,
+              "lon": -77.61556
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "West Seneca",
+            "state": "New York",
+            "zip": "14224",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.85006,
+              "lon": -78.79975
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Asheville",
+            "state": "North Carolina",
+            "zip": "28803",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.60095,
+              "lon": -82.55402
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Greenville",
+            "state": "North Carolina",
+            "zip": "27834",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.61266,
+              "lon": -77.36635
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "zip": "27609",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.7721,
+              "lon": -78.63861
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Salisbury",
+            "state": "North Carolina",
+            "zip": "28144",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.67097,
+              "lon": -80.47423
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Wilmington",
+            "state": "North Carolina",
+            "zip": "28401",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.23556,
+              "lon": -77.94604
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Winston-Salem",
+            "state": "North Carolina",
+            "zip": "27103",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.09986,
+              "lon": -80.24422
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Cincinnati",
+            "state": "Ohio",
+            "zip": "45245",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.12711,
+              "lon": -84.51439
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Franklin",
+            "state": "Ohio",
+            "zip": "45005",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.55895,
+              "lon": -84.30411
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "zip": "74104",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.15398,
+              "lon": -95.99277
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "zip": "74136",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.15398,
+              "lon": -95.99277
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip": "97220",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 45.52345,
+              "lon": -122.67621
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Norristown",
+            "state": "Pennsylvania",
+            "zip": "19401",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 40.1215,
+              "lon": -75.3399
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip": "19152",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.95238,
+              "lon": -75.16362
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Springfield",
+            "state": "Pennsylvania",
+            "zip": "19064-2527",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 39.93067,
+              "lon": -75.32019
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Cranston",
+            "state": "Rhode Island",
+            "zip": "02920",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.77982,
+              "lon": -71.43728
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "East Providence",
+            "state": "Rhode Island",
+            "zip": "02914",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 41.81371,
+              "lon": -71.37005
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Greer",
+            "state": "South Carolina",
+            "zip": "29651",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.93873,
+              "lon": -82.22706
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Mt. Pleasant",
+            "state": "South Carolina",
+            "zip": "29464",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.79407,
+              "lon": -79.86259
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Simpsonville",
+            "state": "South Carolina",
+            "zip": "29681-1538",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 34.73706,
+              "lon": -82.25428
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Kingsport",
+            "state": "Tennessee",
+            "zip": "37660",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.54843,
+              "lon": -82.56182
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Knoxville",
+            "state": "Tennessee",
+            "zip": "37920",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 35.96064,
+              "lon": -83.92074
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Corpus Christi",
+            "state": "Texas",
+            "zip": "78412",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 27.80058,
+              "lon": -97.39638
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75224",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75390-8858",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 32.78306,
+              "lon": -96.80667
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77024",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.76328,
+              "lon": -95.36327
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.76328,
+              "lon": -95.36327
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Midland",
+            "state": "Texas",
+            "zip": "79707",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 31.99735,
+              "lon": -102.07791
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Plano",
+            "state": "Texas",
+            "zip": "75093",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 33.01984,
+              "lon": -96.69889
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "San Antonio",
+            "state": "Texas",
+            "zip": "78229",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 29.42412,
+              "lon": -98.49363
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "St. George",
+            "state": "Utah",
+            "zip": "84790",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.10415,
+              "lon": -113.58412
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Henrico",
+            "state": "Virginia",
+            "zip": "23233",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.59264,
+              "lon": -78.61611
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Lebanon",
+            "state": "Virginia",
+            "zip": "24266",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.90094,
+              "lon": -82.08013
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Richmond",
+            "state": "Virginia",
+            "zip": "23229",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 37.55376,
+              "lon": -77.46026
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Virginia Beach",
+            "state": "Virginia",
+            "zip": "23454",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 36.85293,
+              "lon": -75.97799
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "Milwaukee",
+            "state": "Wisconsin",
+            "zip": "53209",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 43.0389,
+              "lon": -87.90647
+            }
+          },
+          {
+            "facility": "Novo Nordisk Investigational Site",
+            "city": "San Juan",
+            "zip": "00921",
+            "country": "Puerto Rico",
+            "geoPoint": {
+              "lat": 18.46633,
+              "lon": -66.10572
+            }
+          }
+        ]
+      },
+      "referencesModule": {
+        "references": [
+          {
+            "pmid": "19531054",
+            "type": "RESULT",
+            "citation": "Raskin P, Lewin A, Reinhardt R, Lyness W; Repaglinide/Metformin Fixed-Dose Combination Study Group. Twice-daily and three-times-daily dosing of a repaglinide/metformin fixed-dose combination tablet provide similar glycaemic control. Diabetes Obes Metab. 2009 Oct;11(10):947-52. doi: 10.1111/j.1463-1326.2009.01069.x. Epub 2009 Jun 16."
+          },
+          {
+            "pmid": "19476470",
+            "type": "RESULT",
+            "citation": "Raskin P, Lewin A, Reinhardt R, Lyness W; Repaglinide/Metformin Fixed-Dose Combination Study Group. Twice-daily dosing of a repaglinide/metformin fixed-dose combination tablet provides glycaemic control comparable to rosiglitazone/metformin tablet. Diabetes Obes Metab. 2009 Sep;11(9):865-73. doi: 10.1111/j.1463-1326.2009.01062.x. Epub 2009 May 19."
+          }
+        ],
+        "seeAlsoLinks": [
+          {
+            "label": "Clinical Trials at Novo Nordisk",
+            "url": "http://novonordisk-trials.com"
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-30"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          },
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C072379",
+            "term": "repaglinide"
+          },
+          {
+            "id": "D000077154",
+            "term": "Rosiglitazone"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D045162",
+            "term": "Thiazolidinediones"
+          },
+          {
+            "id": "D013844",
+            "term": "Thiazoles"
+          },
+          {
+            "id": "D013457",
+            "term": "Sulfur Compounds"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D001393",
+            "term": "Azoles"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T13:37:30.604344"
+}

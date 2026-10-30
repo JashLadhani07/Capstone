@@ -1,0 +1,342 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07329452",
+      "orgStudyIdInfo": {
+        "id": "STUDY2025-1204"
+      },
+      "organization": {
+        "fullName": "Texas A&M University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Menu to Meal (M2M) Menu Labeling Intervention Study",
+      "officialTitle": "Menu to Meal (M2M): Evaluating the Effectiveness of a Digital Nutritional Labeling Intervention in Hispanic Restaurant Settings"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-11-17",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-05-18",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2026-05-18",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2025-11-24",
+      "studyFirstSubmitQcDate": "2025-12-26",
+      "studyFirstPostDateStruct": {
+        "date": "2026-01-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-07-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-07-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Hyunjung Lee",
+        "investigatorTitle": "Assistant Professor",
+        "investigatorAffiliation": "Texas A&M University"
+      },
+      "leadSponsor": {
+        "name": "Texas A&M University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study evaluates the impact of culturally tailored menu labeling interventions on psychosocial factors and ordering behavior among customers in two independently owned Hispanic restaurants in East-Central Texas. Participants will be exposed to one of three sequential menu conditions at each restaurant: (1) a standard menu without nutrition information, (2) a paper menu with bilingual nutrition labels, or (3) a digital menu app enhanced with Augmented Reality (AR) and Artificial Intelligence (AI) providing interactive nutrition guidance. The study will assess whether menu formats influence nutrition literacy, decision-making confidence, self-efficacy, attitudes, behavioral intentions, and actual ordering behavior. Data will be collected through surveys, purchase receipts, and app interaction logs.",
+      "detailedDescription": "Detailed Description:\n\nThis study aims to design and evaluate a culturally tailored, bilingual menu labeling intervention incorporating AR and AI features in small, independently owned Hispanic restaurants. The intervention seeks to promote informed food ordering by targeting psychosocial constructs known to influence food choice. Three sequential conditions will be implemented: (1) baseline with standard menus and no nutrition labels, (2) paper menus with visible bilingual nutrition labels, and (3) a digital AR/AI-enhanced menu.\n\nGuided by the Theory of Planned Behavior and Social Cognitive Theory, the study focuses on constructs such as decision-making confidence, self-efficacy, subjective norms, and perceived behavioral control. The two primary objectives are to (1) develop a culturally informed digital menu labeling tool and (2) evaluate its effectiveness compared with standard and paper menu formats in shaping psychosocial factors and actual ordering behavior.\n\nParticipants will be recruited during restaurant visits and exposed to the menu condition corresponding to their visit timing. Surveys will be administered before ordering to assess psychosocial factors, label awareness, and behavioral intentions. A formative needs assessment conducted prior to implementation will ensure cultural and linguistic appropriateness. Findings will provide evidence on the effectiveness of innovative, theory-informed digital interventions in promoting informed food choices in culturally specific restaurant settings not subject to federal nutrition labeling requirements."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Behavior, Eating"
+      ],
+      "keywords": [
+        "nutrition labeling",
+        "menu labeling",
+        "Augmented reality (AR)",
+        "Artificial intelligence (AI)",
+        "Dietary behavior",
+        "Hispanic population",
+        "Chronic disease prevention",
+        "Obesity",
+        "Type 2 diabetes",
+        "Cardiovascular disease",
+        "Calorie intake",
+        "Sodium intake",
+        "Saturated fat",
+        "Food choice",
+        "Health disparities",
+        "Behavioral intervention",
+        "Digital health intervention",
+        "Restaurant nutrition",
+        "Health literacy",
+        "Theory of Planned Behavior (TPB)",
+        "Social Cognitive Theory (SCT)",
+        "Behavioral Nutrition"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "This study uses a within-site, quasi-experimental design at two independently owned Hispanic restaurants. The intervention consists of three sequential conditions: (1) a baseline phase with the standard menu, (2) a paper menu phase featuring bilingual nutrition labels, and (3) a digital menu phase using a mobile app enhanced with augmented reality (AR) and artificial intelligence (AI) technologies. Each condition enrolls distinct participants to compare the effects of different menu labeling formats on ordering behavior and psychosocial outcomes. The restaurants serve as their own controls, allowing for direct comparison of menu formats within the same real-world setting.",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE",
+          "maskingDescription": "Participants in this study will be partially blinded to the specific aims of the intervention to minimize bias. While they will be aware they are participating in a study about menu use and food choices, they will not be informed of the detailed differences or hypotheses related to the nutrition labeling formats to reduce influence on their ordering behavior. Research staff collecting data will also be trained to maintain neutrality, but full masking is not possible due to the visible differences in menu formats across study phases."
+        }
+      },
+      "enrollmentInfo": {
+        "count": 242,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Baseline condition",
+          "type": "NO_INTERVENTION",
+          "description": "Standard menu with no nutrition information."
+        },
+        {
+          "label": "Paper menu condition",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Bilingual paper menus display numeric and icon-based nutrition information, including calories, saturated fat, and sodium.",
+          "interventionNames": [
+            "Behavioral: Paper menu"
+          ]
+        },
+        {
+          "label": "AR/AI digital menu condition",
+          "type": "EXPERIMENTAL",
+          "description": "Mobile app providing interactive nutrition information and personalized guidance based on dietary preferences.",
+          "interventionNames": [
+            "Behavioral: Digital menu condition"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Paper menu",
+          "description": "Paper menu with bilingual nutrition labels",
+          "armGroupLabels": [
+            "Paper menu condition"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Digital menu condition",
+          "description": "AR/AI-enhanced digital menu giving interactive nutrition guidance",
+          "armGroupLabels": [
+            "AR/AI digital menu condition"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Attitudes Toward Healthy Menu Choices",
+          "description": "Attitudes toward selecting healthier menu items, assessed using a study-developed questionnaire informed by the Theory of Planned Behavior. The questionnaire consists of agreement-scale items evaluating whether choosing healthier foods is important, beneficial, and enjoyable.\n\nMeasurement Tool:\n\nStudy-developed Attitudes Toward Healthy Menu Choices Questionnaire (5-point agreement Likert scale)\n\nScale Description and Coding:\n\n1. = Strongly disagree\n2. = Disagree\n3. = Neither agree nor disagree\n4. = Agree\n5. = Strongly agree\n\nUnit of Measure:\n\nMean attitude score (range: 1 to 5)\n\nScale Range and Direction:\n\nScores range from 1 to 5. Higher scores indicate more positive attitudes toward choosing healthier menu items.",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Intention to Make Healthier Food Choices",
+          "description": "Intention to choose healthier menu items, assessed using a study-developed questionnaire informed by the Theory of Planned Behavior.\n\nMeasurement Tool:\n\nStudy-developed Healthy Eating Intention Questionnaire (5-point agreement Likert scale)\n\nScale Description and Coding:\n\n1. = Strongly disagree\n2. = Disagree\n3. = Neither agree nor disagree\n4. = Agree\n5. = Strongly agree\n\nUnit of Measure:\n\nIntention score (range: 1 to 5)\n\nScale Range and Direction:\n\nScores range from 1 to 5. Higher scores indicate stronger intention to choose healthier menu items.",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Perceived Behavioral Control Over Healthy Menu Choices",
+          "description": "Perceived behavioral control over choosing healthier menu items, assessed using a study-developed questionnaire informed by the Theory of Planned Behavior.\n\nMeasurement Tool:\n\nStudy-developed Perceived Behavioral Control Questionnaire (5-point agreement Likert scale)\n\nScale Description and Coding:\n\n1. = Strongly disagree\n2. = Disagree\n3. = Neither agree nor disagree\n4. = Agree\n5. = Strongly agree\n\nUnit of Measure:\n\nPerceived behavioral control score (range: 1 to 5)\n\nScale Range and Direction:\n\nScores range from 1 to 5. Higher scores indicate greater perceived control over choosing healthier menu items.",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Self-Efficacy for Using Nutrition Information When Ordering",
+          "description": "Self-efficacy for using nutrition information to guide food choices, assessed using a study-developed questionnaire informed by Social Cognitive Theory.\n\nMeasurement Tool:\n\nStudy-developed Nutrition Information Self-Efficacy Questionnaire (5-point agreement Likert scale)\n\nScale Description and Coding:\n\n1. = Strongly disagree\n2. = Disagree\n3. = Neither agree nor disagree\n4. = Agree\n5. = Strongly agree\n\nUnit of Measure:\n\nMean self-efficacy score (range: 1 to 5)\n\nScale Range and Direction:\n\nScores range from 1 to 5. Higher scores indicate greater confidence in using nutrition information to make food choices.",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Awareness of Nutrition Information on the Menu",
+          "description": "Awareness of nutrition information on the menu, assessed using a study-developed self-report item asking whether the participant noticed or looked at nutrition information while viewing the menu.\n\nMeasurement Tool:\n\nStudy-developed Awareness of Nutrition Information Item (binary response)\n\nScale Description and Coding:\n\n0 = No, did not notice or look at nutrition information\n\n1 = Yes, noticed or looked at nutrition information\n\nUnit of Measure:\n\nPercentage of participants reporting awareness (response = 1)\n\nScale Range and Direction:\n\nValues range from 0 to 1. A value of 1 indicates awareness of nutrition information.\n\nHow the Percentage Is Derived:\n\nThe percentage is calculated as the proportion of participants with a response of 1 (Yes) among all participants who completed the questionnaire.",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Use of Nutrition Information to Inform Menu Selection",
+          "description": "Use of nutrition information to inform menu selection, assessed using a study-developed self-report item asking the extent to which nutrition information influenced the participant's food choice.\n\nMeasurement Tool:\n\nStudy-developed Nutrition Information Influence Item (5-point Likert scale)\n\nScale Description and Coding:\n\n1. = Not at all\n2. = A little\n3. = Somewhat\n4. = Mostly\n5. = Completely\n\nUnit of Measure:\n\nPercentage of participants reporting use of nutrition information, defined as responses of 4 or 5\n\nScale Range and Direction:\n\nScores range from 1 to 5. Higher values indicate greater influence of nutrition information on choice.\n\nHow the Percentage Is Derived:\n\nThe percentage is calculated as the proportion of participants with responses of 4 or 5 among all participants who completed the questionnaire.",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Total Energy Ordered per Customer Order",
+          "description": "Total energy content of menu items ordered by each participant, calculated using receipt-based ordering data linked to laboratory-tested and standardized recipe-based nutrient analysis conducted as part of the Menu2Meal (M2M) intervention.\n\nMeasurement Tool:\n\nReceipt-based nutrient calculation using laboratory-tested and standardized nutrient databases\n\nUnit of Measure:\n\nMean kilocalories (kcal) per customer order",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Saturated Fat Content of Menu Items Ordered",
+          "description": "Total saturated fat content of menu items ordered by each participant, calculated by summing grams of saturated fat from all items ordered, using laboratory-tested and standardized recipe-based nutrient values.\n\nMeasurement Tool:\n\nReceipt-based nutrient calculation using laboratory-tested and standardized nutrient databases\n\nUnit of Measure:\n\nMean grams (g) of saturated fat per customer order",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Sodium Content of Menu Items Ordered",
+          "description": "Total sodium content of menu items ordered by each participant, calculated by summing milligrams of sodium from all items ordered, using laboratory-tested and standardized recipe-based nutrient values.\n\nMeasurement Tool:\n\nReceipt-based nutrient calculation using laboratory-tested and standardized nutrient databases\n\nUnit of Measure:\n\nMean milligrams (mg) of sodium per customer order",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Dietary Fiber Content of Menu Items Ordered",
+          "description": "Total dietary fiber content of menu items ordered by each participant, calculated by summing grams of dietary fiber from all items ordered, using laboratory-tested and standardized recipe-based nutrient values.\n\nMeasurement Tool:\n\nReceipt-based nutrient calculation using laboratory-tested and standardized nutrient databases\n\nUnit of Measure:\n\nMean grams (g) of dietary fiber per customer order",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        },
+        {
+          "measure": "Added Sugar Content of Menu Items Ordered",
+          "description": "Total added sugar content of menu items ordered by each participant, calculated by summing grams of added sugars from all items ordered, using laboratory-tested and standardized recipe-based nutrient values.\n\nMeasurement Tool:\n\nReceipt-based nutrient calculation using laboratory-tested and standardized nutrient databases\n\nUnit of Measure:\n\nMean grams (g) of added sugars per customer order",
+          "timeFrame": "Immediately after the intervention (menu exposure)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults aged 18 years or older\n* Patrons dining at participating Hispanic restaurants during designated study hours\n* Able to read and speak English or Spanish\n* Willing and able to provide informed consent\n* Pregnant women are eligible to participate, as the study procedures pose minimal risk\n\nExclusion Criteria:\n\n* Minors under 18 years of age\n* Individuals with visual or cognitive impairments that prevent interaction with the menu formats or AR/AI technology\n* Individuals who have participated in a prior phase of the study\n* Restaurant staff involved in study implementation",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Hyunjung Lee, PhD",
+          "affiliation": "Department of Nutrition, Texas A&M University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Local Restaurant Site",
+          "city": "Bryan",
+          "state": "Texas",
+          "zip": "77802",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.67436,
+            "lon": -96.36996
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "De-identified individual participant data (IPD) underlying the results reported in the publication will be shared, including baseline characteristics, outcome measures, and adverse event data. Data will be available beginning 6 months after publication for researchers who provide a methodologically sound proposal. Requests should be submitted to the corresponding author and will require a data use agreement in accordance with institutional and regulatory policies.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP"
+      ],
+      "timeFrame": "IPD will be made available beginning approximately 6 months after publication of the primary results and will remain available for 2 years.",
+      "accessCriteria": "Researchers who wish to access the de-identified individual participant data (IPD) and supporting documents should submit a written request to the corresponding author. Requests must include a methodologically sound research proposal describing the intended analyses and purpose of data use. Access will be granted to qualified researchers upon approval of the proposal and execution of a data use agreement in accordance with Texas A\\&M University and applicable regulatory requirements. Data will be transferred using a secure institutional data-sharing platform."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-29"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D005247",
+          "term": "Feeding Behavior"
+        },
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        },
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001522",
+          "term": "Behavior, Animal"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        },
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

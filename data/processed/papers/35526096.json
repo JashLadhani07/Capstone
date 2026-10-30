@@ -1,0 +1,42 @@
+{
+  "pmid": "35526096",
+  "title": "LAG-3xPD-L1 bispecific antibody potentiates antitumor responses of T\u00a0cells through dendritic cell activation.",
+  "abstract": "Several preclinical studies demonstrate that antitumor efficacy of programmed cell death-1 (PD-1)/programmed death-ligand 1 (PD-L1) blockade can be improved by combination with other checkpoint inhibitors. Lymphocyte-activation gene 3 (LAG-3) is an inhibitory checkpoint receptor involved in T\u00a0cell exhaustion and tumor immune escape. Here, we describe ABL501, a bispecific antibody targeting LAG-3 and PD-L1 in modulating immune cell responses against tumors. ABL501 that efficiently inhibits both LAG-3 and PD-L1 pathways enhances the activation of effector CD4",
+  "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+  "pub_date": "2022-Aug",
+  "authors": [
+    "Sung, Eunsil",
+    "Ko, Minkyung",
+    "Won, Ju-Young",
+    "Jo, Yunju",
+    "Park, Eunyoung",
+    "Kim, Hyunjoo",
+    "Choi, Eunji",
+    "Jung, Ui-Jung",
+    "Jeon, Jaehyoung",
+    "Kim, Youngkwang",
+    "Ahn, Hyejin",
+    "Choi, Da-Som",
+    "Choi, Seunghyun",
+    "Hong, Youngeun",
+    "Park, Hyeyoung",
+    "Lee, Hanbyul",
+    "Son, Yong-Gyu",
+    "Park, Kyeongsu",
+    "Won, Jonghwa",
+    "Oh, Soo Jin",
+    "Lee, Seonmin",
+    "Kim, Kyu-Pyo",
+    "Yoo, Changhoon",
+    "Song, Hyun Kyu",
+    "Jin, Hyung-Seung",
+    "Jung, Jaeho",
+    "Park, Yoon"
+  ],
+  "nct_ids_referenced": [
+    "NCT05101109"
+  ],
+  "source": "pubmed",
+  "word_count": 76,
+  "parsed_at": "2026-10-30T13:30:20.109691"
+}

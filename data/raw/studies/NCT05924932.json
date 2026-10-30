@@ -1,0 +1,297 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05924932",
+      "orgStudyIdInfo": {
+        "id": "Masaryk Hospital"
+      },
+      "organization": {
+        "fullName": "Masaryk Hospital Usti nad Labem",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of HCL Insulin Delivery System on Glycemic Control in Patients With T1D",
+      "officialTitle": "Effect of an Artificial Pancreas System on Glycemic Control in Patients With Type 1 Diabetes"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-11",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-12-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-12-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-06-21",
+      "studyFirstSubmitQcDate": "2023-06-21",
+      "studyFirstPostDateStruct": {
+        "date": "2023-06-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-11-01",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-11-03",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Lucie Radovnick\u00e1",
+        "investigatorTitle": "MD",
+        "investigatorAffiliation": "Masaryk Hospital Usti nad Labem"
+      },
+      "leadSponsor": {
+        "name": "Masaryk Hospital Usti nad Labem",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this study is compare the effect of hybrid closed loop system (HCL) for automatic insulin dosing treatment on the glycemic control of type 1 diabetes (T1D) in patient with different initial glycated hemoglobin.",
+      "detailedDescription": "Rationale for the Study:\n\nAccording to our hypothesis, even T1D patients with an initially optimal glucose level should benefit from this treatment method in the form of a reduction in glycemic variability.\n\nThere are very few clinical studies from real practice in a larger group of patients."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus, Type 1"
+      ],
+      "keywords": [
+        "Type 1 diabetes mellitus",
+        "hybrid closed loop system for automatic insulin dosing",
+        "glycated hemoglobin"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "OTHER",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITHOUT_DNA",
+        "description": "blood samples for measurement of glycated hemoglobin"
+      },
+      "enrollmentInfo": {
+        "count": 120,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "group 1 with Control IQ system",
+          "description": "Tandem t:slim X2 with hybrid closed loop system Control IQ, glucose sensor: Dexcom G6",
+          "interventionNames": [
+            "Device: Tandem t:slim X2 with hybrid closed loop system Control IQ, glucose sensor: Dexcom G6"
+          ]
+        },
+        {
+          "label": "Group 2 with SmartGuard system",
+          "description": "MiniMed 780G, with hybrid closed loop system SmartGuard, sensor Guardien 4",
+          "interventionNames": [
+            "Device: MiniMed 780G, with hybrid closed loop system SmartGuard, sensor Guardien 4"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Tandem t:slim X2 with hybrid closed loop system Control IQ, glucose sensor: Dexcom G6",
+          "description": "type of hybrid close loop insulin delivery system",
+          "armGroupLabels": [
+            "group 1 with Control IQ system"
+          ],
+          "otherNames": [
+            "Control IQ"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "MiniMed 780G, with hybrid closed loop system SmartGuard, sensor Guardien 4",
+          "description": "type of hybrid close loop insulin delivery system",
+          "armGroupLabels": [
+            "Group 2 with SmartGuard system"
+          ],
+          "otherNames": [
+            "SmartGuard"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "glycated hemoglobin",
+          "description": "The difference and changes in glycated hemoglobin (HbA1c, % DCCT \\[mmol/mol\\]) between baseline and at 12 months after using HCL.",
+          "timeFrame": "12 month"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "tim spent in TIR",
+          "description": "changes in percentage of time in range (%TIR, 70-180 mg/dL \\[3.9-10.0 mmol/L\\])",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "time spent in hypoglycemia",
+          "description": "percentage of time spent in hypoglycemia (%TBR, \\<70 mg/dL \\[\\<3.9 mmol/L\\] and \\<54 mg/dL \\[\\<3.0 mmol/L\\])",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "time spent in hyperglycemia",
+          "description": "percentage of time spent in hyperglycemia (%TAR, \\>180 mg/dL \\[\\>10.0 mmol/L\\] and \\>250 mg/dL \\[\\>13.9 mmol/L\\])",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "glycemic variability",
+          "description": "glycemic variability expressed as the percentage coefficient of variation (%CV) and standard deviation (SD)",
+          "timeFrame": "12 m,onth"
+        },
+        {
+          "measure": "mean sensor glucose value",
+          "description": "mean sensor glucose value",
+          "timeFrame": "12 month"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Safety and Tolerability",
+          "description": "the incidence of severe hypoglycemia (requiring third-party assistance to treat), ketoacidosis requiring hospitalization, skin reaction, infection, or hematoma at the site of insertion of the sensor.",
+          "timeFrame": "12 month"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with T1D\n* Type 1 diabetes for \\> 1 years\n* \u2265 18 years old\n* CSII (without HCL) or MDI\n\nExclusion Criteria:\n\n* Severe noncompliance\n* Known severe diabetic retinopathy and/or macular edema,\n* Lactation, pregnancy, or intending to become pregnant during the study;\n* A condition likely to require MRI. Use of acetaminophen-containing medication;\n* Unwillingness to use the study device for \\>70% of time.\n* Conditions that affect red blood cell turnover (hemolytic and other anemias, glucose-6-phosphate dehydrogenase deficiency, recent blood transfusion, use of drugs that stimulate erythropoesis, end-stage kidney disease).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "adult patients with Type 1 diabetes",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Lucie Radovnick\u00e1",
+          "role": "CONTACT",
+          "phone": "+420777624793",
+          "email": "radovnickal@gmail.com"
+        },
+        {
+          "name": "Jiri Lastuvka",
+          "role": "CONTACT",
+          "phone": "1420477114202",
+          "email": "jiri.lastuvka@kzcr.eu"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Jiri Lastuvka",
+          "affiliation": "Masaryk hospital",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Lucie Radovnick\u00e1",
+          "status": "RECRUITING",
+          "city": "\u00dast\u00ed nad Labem",
+          "zip": "401 13",
+          "country": "Czechia",
+          "contacts": [
+            {
+              "name": "Lucie Radovnick\u00e1",
+              "role": "CONTACT",
+              "phone": "+420777624793",
+              "email": "radovnickal@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.6607,
+            "lon": 14.03227
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "33269551",
+          "type": "RESULT",
+          "citation": "Leelarathna L, Choudhary P, Wilmot EG, Lumb A, Street T, Kar P, Ng SM. Hybrid closed-loop therapy: Where are we in 2021? Diabetes Obes Metab. 2021 Mar;23(3):655-660. doi: 10.1111/dom.14273. Epub 2020 Dec 20."
+        },
+        {
+          "pmid": "33453783",
+          "type": "RESULT",
+          "citation": "Bergenstal RM, Nimri R, Beck RW, Criego A, Laffel L, Schatz D, Battelino T, Danne T, Weinzimer SA, Sibayan J, Johnson ML, Bailey RJ, Calhoun P, Carlson A, Isganaitis E, Bello R, Albanese-O'Neill A, Dovc K, Biester T, Weyman K, Hood K, Phillip M; FLAIR Study Group. A comparison of two hybrid closed-loop systems in adolescents and young adults with type 1 diabetes (FLAIR): a multicentre, randomised, crossover trial. Lancet. 2021 Jan 16;397(10270):208-219. doi: 10.1016/S0140-6736(20)32514-9."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

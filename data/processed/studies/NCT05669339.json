@@ -1,0 +1,402 @@
+{
+  "nct_id": "NCT05669339",
+  "title": "AD HOC Trial: Artificial Intelligence-Based Drug Dosing In Hepatocellular Carcinoma",
+  "sponsor": "University of Florida",
+  "phase": "PHASE2",
+  "status": "RECRUITING",
+  "conditions": [
+    "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+    "Irinotecan",
+    "Sonidegib",
+    "Sorafenib"
+  ],
+  "primary_outcome": "Maximally tolerated dose",
+  "secondary_outcomes": [
+    "Objective response rate",
+    "Change in the biomarker AFP",
+    "Change in the biomarker AFP-L3",
+    "Change in the biomarker DGC",
+    "Change in the biomarker TGF-B"
+  ],
+  "start_date": "2024-12-02",
+  "completion_date": "2027-04",
+  "results_posted": false,
+  "enrollment": 12,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT05669339",
+        "orgStudyIdInfo": {
+          "id": "UF-GI-015"
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "OCR43006",
+            "type": "OTHER",
+            "domain": "University of Florida"
+          },
+          {
+            "id": "IRB202300226",
+            "type": "OTHER",
+            "domain": "University of Florida"
+          }
+        ],
+        "organization": {
+          "fullName": "University of Florida",
+          "class": "OTHER"
+        },
+        "briefTitle": "AD HOC Trial: Artificial Intelligence-Based Drug Dosing In Hepatocellular Carcinoma",
+        "officialTitle": "AD HOC Trial: Artificial Intelligence-Based Drug Dosing In Hepatocellular Carcinoma"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2026-07",
+        "overallStatus": "RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2024-12-02",
+          "type": "ACTUAL"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2027-04",
+          "type": "ESTIMATED"
+        },
+        "completionDateStruct": {
+          "date": "2027-04",
+          "type": "ESTIMATED"
+        },
+        "studyFirstSubmitDate": "2022-12-20",
+        "studyFirstSubmitQcDate": "2022-12-20",
+        "studyFirstPostDateStruct": {
+          "date": "2022-12-30",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-07-10",
+        "lastUpdatePostDateStruct": {
+          "date": "2026-07-14",
+          "type": "ACTUAL"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "type": "SPONSOR"
+        },
+        "leadSponsor": {
+          "name": "University of Florida",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "Sun Pharmaceutical Industries Ltd",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true,
+        "isFdaRegulatedDrug": true,
+        "isFdaRegulatedDevice": false,
+        "isUsExport": false
+      },
+      "descriptionModule": {
+        "briefSummary": "This study will test the hypothesis that a novel combination of three drugs (sorafenib, sonidegib, and irinotecan), in conjunction with individually optimized doses, can be safely administered and lead to improved clinical outcomes in patients with hepatocellular carcinoma compared to standard of care. The main objective of this study is to establish safe dose ranges for the coadministration of sorafenib, sonidegib, and irinotecan in patients with hepatocellular carcinoma. Furthermore, we will collect data to inform the application of an artificial intelligence/computational approach to individual dosing of combination chemotherapy. Individualization of dosing will be achieved by using Phenotypic Personalized Medicine (PPM) to maximize treatment efficacy in patients with hepatocellular carcinoma, while minimizing toxicity. Drug efficacy will be assessed by measuring plasma circulating tumor DNA (ctDNA). Toxicity will be assessed by quantitating organ injury and patient tolerability. Recommended dosing for future studies will be based on the totality of the data."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Hepatocellular Carcinoma"
+        ],
+        "keywords": [
+          "hepatocellular carcinoma",
+          "Phenotypic Personalized Medicine"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "designInfo": {
+          "allocation": "NA",
+          "interventionModel": "SEQUENTIAL",
+          "primaryPurpose": "TREATMENT",
+          "maskingInfo": {
+            "masking": "NONE"
+          }
+        },
+        "enrollmentInfo": {
+          "count": 12,
+          "type": "ESTIMATED"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Irinotecan, Sonidegib, and Sorafenib",
+            "type": "EXPERIMENTAL",
+            "description": "Subjects will be assigned to a dose of each drug following a 3 + 3 design",
+            "interventionNames": [
+              "Drug: Irinotecan",
+              "Drug: Sonidegib",
+              "Drug: Sorafenib"
+            ]
+          }
+        ],
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Irinotecan",
+            "description": "All subjects will be given either 25 mg/m2 (dose level -1), 50 mg/m2 (dose level 0), or 75 mg/m2 (dose level +1) irinotecan intravenously every 7 days.",
+            "armGroupLabels": [
+              "Irinotecan, Sonidegib, and Sorafenib"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Sonidegib",
+            "description": "All subjects will take 200 mg sonidegib orally either every 96 hours (dose level -1), every 48 hours (dose level 0), or every 24 hours (dose level +1).",
+            "armGroupLabels": [
+              "Irinotecan, Sonidegib, and Sorafenib"
+            ]
+          },
+          {
+            "type": "DRUG",
+            "name": "Sorafenib",
+            "description": "All subjects will take 200 mg sorafenib orally either every 48 hours (dose level -1), every 24 hours (dose level 0), or every 12 hours (dose level +1).",
+            "armGroupLabels": [
+              "Irinotecan, Sonidegib, and Sorafenib"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Maximally tolerated dose",
+            "description": "Determine the maximum tolerated dose of irinotecan, sonidegib, and sorafenib",
+            "timeFrame": "32 days"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Objective response rate",
+            "description": "Determine the objective response rate, as measured by mRECIST 1.1 criteria",
+            "timeFrame": "32 days"
+          },
+          {
+            "measure": "Change in the biomarker AFP",
+            "description": "Measure the change in the blood level of the biomarker AFP",
+            "timeFrame": "32 days"
+          },
+          {
+            "measure": "Change in the biomarker AFP-L3",
+            "description": "Measure the change in the blood level of the biomarker AFP-L3",
+            "timeFrame": "32 days"
+          },
+          {
+            "measure": "Change in the biomarker DGC",
+            "description": "Measure the change in the blood level of the biomarker DGC",
+            "timeFrame": "32 days"
+          },
+          {
+            "measure": "Change in the biomarker TGF-B",
+            "description": "Measure the change in the blood level of the biomarker TGF-B",
+            "timeFrame": "32 days"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults \u2265 eighteen years of age\n* Biopsy proven advanced-stage hepatocellular carcinoma (HCC), as confirmed by pathological analysis; or confirmation of HCC from a LI-RADS 5 imaging score.\n* Not eligible for, or had disease progression after, surgical or locoregional therapies when these treatments are intended as sole, definitive therapy aimed at curing the disease, rather than as part of a combination therapy approach\n* Subjects must not have more than one active malignancy at the time of enrollment (Subjects with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen \\[as determined by the treating physician and approved by the PI\\] may be included).\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 2 or less.\n* Child-Pugh liver function class A\n* Life expectancy of 12 weeks or more\n* At least one target lesion that could be measured in one dimension, according to the Response Evaluation Criteria in Solid Tumors (mRECIST).\n* Must have lab values consistent with the following:\n\n  1. Platelet count \u2265 60,000\n  2. Hemoglobin, \u22658.0 g/dL\n  3. INR \u22642.5\n  4. Albumin \u22652.5 g/dL\n  5. Total bilirubin, \u22645 mg/dL\n  6. ALT \\& AST \u22645 times the upper limit of normal\n  7. Creatinine \u2264 2 times the upper limit of normal\n* Written informed consent obtained from the subject and the subject agrees to comply with all the study-related procedures.\n* Subjects of childbearing potential (SOCBP) must be using an adequate method of contraception to avoid pregnancy throughout the study and for at least 20 months after the last dose of study drug to minimize the risk of pregnancy.\n* Subjects with partners of child-bearing potential must agree to use physician-approved contraceptive methods (e.g., abstinence, condoms, vasectomy) throughout the study and should avoid conceiving children for 8 months following the last dose of study drug.\n\nExclusion Criteria:\n\n* Subjects of childbearing potential who are unwilling or unable to use an acceptable method to avoid pregnancy for the entire study period and for at least 20 months after the last dose of study drug.\n* Subjects who are pregnant or breastfeeding.\n* History of any other disease, metabolic dysfunction, physical examination finding, or clinical laboratory finding giving reasonable suspicion of a disease or condition that contraindicates the use of protocol therapy or that might affect the interpretation of the results of the study or that puts the subject at high risk for treatment complications or protocol noncompliance, in the opinion of the treating physician.\n* Prisoners or subjects who are involuntarily incarcerated, or subjects who are compulsorily detained for treatment of either a psychiatric or physical illness.\n* Inability to follow up with treatment center for up to 12 weeks after enrollment\n* Anticipated major surgery during the time of planned study\n* Homozygosity for UGT1A1\\*28 via genotyping",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "99 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "name": "Latia Jackson",
+            "role": "CONTACT",
+            "phone": "352-273-9552",
+            "email": "latiajackson@ufl.edu"
+          }
+        ],
+        "overallOfficials": [
+          {
+            "name": "Ali Zarrinpar, MD, PhD",
+            "affiliation": "University of Florida",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "University of Florida",
+            "status": "RECRUITING",
+            "city": "Gainesville",
+            "state": "Florida",
+            "zip": "32610",
+            "country": "United States",
+            "contacts": [
+              {
+                "name": "Latia Jackson",
+                "role": "CONTACT",
+                "phone": "352-273-9552",
+                "email": "latiajackson@ufl.edu"
+              }
+            ],
+            "geoPoint": {
+              "lat": 29.65163,
+              "lon": -82.32483
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D006528",
+            "term": "Carcinoma, Hepatocellular"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D000230",
+            "term": "Adenocarcinoma"
+          },
+          {
+            "id": "D002277",
+            "term": "Carcinoma"
+          },
+          {
+            "id": "D009375",
+            "term": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "id": "D009370",
+            "term": "Neoplasms by Histologic Type"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D008113",
+            "term": "Liver Neoplasms"
+          },
+          {
+            "id": "D004067",
+            "term": "Digestive System Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D004066",
+            "term": "Digestive System Diseases"
+          },
+          {
+            "id": "D008107",
+            "term": "Liver Diseases"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D000077146",
+            "term": "Irinotecan"
+          },
+          {
+            "id": "C561435",
+            "term": "sonidegib"
+          },
+          {
+            "id": "D000077157",
+            "term": "Sorafenib"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D002166",
+            "term": "Camptothecin"
+          },
+          {
+            "id": "D000470",
+            "term": "Alkaloids"
+          },
+          {
+            "id": "D006571",
+            "term": "Heterocyclic Compounds"
+          },
+          {
+            "id": "D010671",
+            "term": "Phenylurea Compounds"
+          },
+          {
+            "id": "D014508",
+            "term": "Urea"
+          },
+          {
+            "id": "D000577",
+            "term": "Amides"
+          },
+          {
+            "id": "D009930",
+            "term": "Organic Chemicals"
+          },
+          {
+            "id": "D001555",
+            "term": "Benzene Derivatives"
+          },
+          {
+            "id": "D006841",
+            "term": "Hydrocarbons, Aromatic"
+          },
+          {
+            "id": "D006844",
+            "term": "Hydrocarbons, Cyclic"
+          },
+          {
+            "id": "D006838",
+            "term": "Hydrocarbons"
+          },
+          {
+            "id": "D009536",
+            "term": "Niacinamide"
+          },
+          {
+            "id": "D009539",
+            "term": "Nicotinic Acids"
+          },
+          {
+            "id": "D000147",
+            "term": "Acids, Heterocyclic"
+          },
+          {
+            "id": "D011725",
+            "term": "Pyridines"
+          },
+          {
+            "id": "D006573",
+            "term": "Heterocyclic Compounds, 1-Ring"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628544"
+}

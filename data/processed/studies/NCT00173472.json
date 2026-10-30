@@ -1,0 +1,216 @@
+{
+  "nct_id": "NCT00173472",
+  "title": "Association of MSI, TS, DPD, MVD and EGFR With Chemosensitivity in Stage IV in Colorectal Cancer",
+  "sponsor": "National Taiwan University Hospital",
+  "phase": "NA",
+  "status": "UNKNOWN",
+  "conditions": [
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    "Chemotherapy"
+  ],
+  "primary_outcome": "",
+  "secondary_outcomes": [],
+  "start_date": "2002-07",
+  "completion_date": "2005-07",
+  "results_posted": false,
+  "enrollment": 200,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00173472",
+        "orgStudyIdInfo": {
+          "id": "9461700674"
+        },
+        "organization": {
+          "fullName": "National Taiwan University Hospital",
+          "class": "OTHER"
+        },
+        "briefTitle": "Association of MSI, TS, DPD, MVD and EGFR With Chemosensitivity in Stage IV in Colorectal Cancer",
+        "officialTitle": "Association of MSI, TS, DPD, MVD and EGFR With Chemosensitivity in Stage IV in Colorectal Cancer"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2002-07",
+        "overallStatus": "UNKNOWN",
+        "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2002-07"
+        },
+        "completionDateStruct": {
+          "date": "2005-07"
+        },
+        "studyFirstSubmitDate": "2005-09-12",
+        "studyFirstSubmitQcDate": "2005-09-12",
+        "studyFirstPostDateStruct": {
+          "date": "2005-09-15",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2005-11-23",
+        "lastUpdatePostDateStruct": {
+          "date": "2005-11-24",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {
+          "name": "National Taiwan University Hospital",
+          "class": "OTHER"
+        }
+      },
+      "descriptionModule": {
+        "briefSummary": "The present project will follow our previous phase\u2161 study of FOLFOX regimens for the treatment of stage \u2163 colorectal cancer. We will recruit at least 200 patients for this study. The selection of patients will be based on rigorous eligibility criteria. The patients will be allocated based on the expression of each molecular marker (MSI, TS, DPD, MVD and EGFR) and the implementation of chemotherapy. For example, in the examination for the clinical implications of EGFR, the patients will be classified into four groups: EGFR\uff08\uff0b\uff09 chemotherapy\uff08\uff0b\uff09; EGFR\uff08\uff0b\uff09 chemotherapy\uff08-\uff09; EGFR\uff08-\uff09 chemotherapy\uff08\uff0b\uff09; EGFR\uff08-\uff09 chemotherapy\uff08-\uff09. Base on the analysis of this 2\u00d72 table, we will clarify the prognostic significance of a specific molecular marker is due to whether the specific molecular marker predicts biological invasiveness and/or chemosensitivity. We believe the present study will have the following significance: \uff081\uff09To further clarify the mechanisms for the carcinogenesis and progression of CRC; \uff082\uff09To facilitate the development of novel chemotherapeutic agents; and \uff083\uff09 To gain the experience for the practice of evidence-based medicine.",
+        "detailedDescription": "Stage IV disease represented approximately 25% of all colorectal cancer (CRC) cases. The mainstay treatment for stage IV CRC is chemotherapy and surgery is only for palliation of symptoms including colorectal bleeding and obstruction. If patients with stage IV CRC were not treated, the average survival time was 6 months. Recently, with the progress of chemotherapeutic agents, such as oxaliplatin and irinotecan, the stage IV patients' average survival time considerably increased to 18 months. However, the currently utilized chemotherapeutic regimens, including FOLFOX (Folinic acid \uff0b 5-Fu \uff0boxaliplatin) and FOLFIRI (Folinic acid \uff0b 5-Fu \uff0b irinotecan), their response rate was only around 50-60%. Moreover, these agents had several severe side-effects, such as neurotoxicity and diarrhea. Therefore, it is mandatory for us to seek clinicopathogical parameters or novel molecular markers that predicted chemosensitivity, in terms of increase of response rate and avoidance of side-effects. Recently, the carcinogenesis of CRC was better clarified than before. Some molecular markers, such as p53, K-ras, microsatellite instability (MSI), microvessel density\uff08MVD\uff09, and epidermal growth factor receptor\uff08EGFR\uff09, and their relation to survival of colorectal cancer patients have become the focus of research.\n\nThe present project basically follows our previous study that p53 overexpression predict poorer chemosensitivity\uff08Liang et al. Int. J. Cancer 2002; 97: 451-457\uff09, and we plan to further explore the association between chemosensitivity with MSI-H, MVD, and EGFR. In fact, in either FOLFOX or FOLFIRI, they all belong to 5-Fu-based therapy. Therefore, the tumor expression of enzymes related to the metabolism of 5-Fu, such as thymidylate synthase\uff08TS\uff09and dipyrimidine dehydrogenase\uff08DPD\uff09, have also become the hot issue of research. In this project, we will explore the clinical implications of MSI, TS, DPD, MVD, and EGFR. This is because our previous study has indicated that MSI-H is a marker of mutator phenotype of colorectal cancer, i.e., colorectal cancers with MSI-H tend to have multiple mutations of downstream genes, especially those with repetitive microsatellite sequences within the genes. Our previous study has shown MSI-H predicted better chemosensitivity\uff08Liang et al. Int. J. Cancer 2002; 101: 519-525\uff09. Therefore, we are curious to know that if MSI-H is related to the alterations of TS and DPD in the tumor, i.e., if the alterations for the tumor levels of TS and DPD is one of the mechanisms for the better chemosensitivity in tumors with MSI-H. On the other hand, it has been known that EGFR is related to tumor growth, invasion, angiogenesis, and metastasis of colorectal cancers. Therefore, it is mandatory to further dissect the correlation between EGFR and MVD. To the best of our knowledge, this has not been published before.\n\nThe present project will follow our previous phase\u2161 study of FOLFOX regimens for the treatment of stage \u2163 colorectal cancer. We will recruit at least 200 patients for this study. The selection of patients will be based on rigorous eligibility criteria. The patients will be allocated based on the expression of each molecular marker and the implementation of chemotherapy. For example, in the examination for the clinical implications of EGFR, the patients will be classified into four groups: EGFR\uff08\uff0b\uff09 chemotherapy\uff08\uff0b\uff09; EGFR\uff08\uff0b\uff09 chemotherapy\uff08-\uff09; EGFR\uff08-\uff09 chemotherapy\uff08\uff0b\uff09; EGFR\uff08-\uff09 chemotherapy\uff08-\uff09. Base on the analysis of this 2\u00d72 table, we will clarify the prognostic significance of a specific molecular marker is due to whether the specific molecular marker predicts biological invasiveness and/or chemosensitivity. After the analysis of prognostic significance of each molecular marker, we will explore the interrelationship between these molecular markers. Also, all these 5 molecular markers and various clinicopathological factors will be subjected to multivariate analysis. Because the survival of stage \u2163 CRC patients will generally not exceed 30 months, the patients study will not have to be followed up for a long time before the final study result appears. We believe the present study will have the following significance: \uff081\uff09To further clarify the mechanisms for the carcinogenesis and progression of CRC; \uff082\uff09To facilitate the development of novel chemotherapeutic agents; and \uff083\uff09 To gain the experience for the practice of evidence-based medicine."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Colorectal Cancer"
+        ],
+        "keywords": [
+          "colorectal cancer, MSI, TS, DPD, EGFR, chemotherapy."
+        ]
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL",
+        "designInfo": {
+          "observationalModel": "DEFINED_POPULATION",
+          "timePerspective": "PROSPECTIVE"
+        },
+        "enrollmentInfo": {
+          "count": 200
+        }
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {
+            "type": "DRUG",
+            "name": "Chemotherapy"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* The patients recruited met the following eligibility criteria: (1) The sporadic primary colorectal cancer could be palliatively resected and pathologically confirmed as adenocarcinoma; (2) The metastatic lesions were measurable but unresectable; (3) Karnofsky performance status was \u226750%; (4) The life expectancy was greater than 12 weeks; (5) WBC count was \u22674,000/\u03bcL, platelet count was \u2267100,000/\u03bcL, serum bilirubin was \u22662.0 mg/dL, and serum glucose and electrolyte were normal.\n\nExclusion Criteria:\n\n* Patients with evident family history of colorectal cancer suggestive of familial adenomatous polyposis (FAP) or hereditary nonpolyposis colorectal cancer (HNPCC) were excluded from this study. Moreover, patients with evident carcinosis peritonitis were excluded from this study because their bowel function could not be restored through palliative operation and their prognosis was considered as very poor.",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "75 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Jin-Tung Liang, M.D., Ph.D.",
+            "affiliation": "Department of Surgery, National Taiwan University Hospital, No.7, Chung-Shan South Road, Taipei, TAIWAN, R.O.C.",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Department of Surgery, National Taiwan University Hospital, No.7, Chung-Shan South Road, Taipei, TAIWAN, R.O.C.",
+            "city": "Taipei",
+            "zip": "100",
+            "country": "Taiwan",
+            "geoPoint": {
+              "lat": 25.05306,
+              "lon": 121.52639
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D015179",
+            "term": "Colorectal Neoplasms"
+          },
+          {
+            "id": "D053842",
+            "term": "Microsatellite Instability"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D007414",
+            "term": "Intestinal Neoplasms"
+          },
+          {
+            "id": "D005770",
+            "term": "Gastrointestinal Neoplasms"
+          },
+          {
+            "id": "D004067",
+            "term": "Digestive System Neoplasms"
+          },
+          {
+            "id": "D009371",
+            "term": "Neoplasms by Site"
+          },
+          {
+            "id": "D009369",
+            "term": "Neoplasms"
+          },
+          {
+            "id": "D004066",
+            "term": "Digestive System Diseases"
+          },
+          {
+            "id": "D005767",
+            "term": "Gastrointestinal Diseases"
+          },
+          {
+            "id": "D003108",
+            "term": "Colonic Diseases"
+          },
+          {
+            "id": "D007410",
+            "term": "Intestinal Diseases"
+          },
+          {
+            "id": "D012002",
+            "term": "Rectal Diseases"
+          },
+          {
+            "id": "D042822",
+            "term": "Genomic Instability"
+          },
+          {
+            "id": "D010335",
+            "term": "Pathologic Processes"
+          },
+          {
+            "id": "D013568",
+            "term": "Pathological Conditions, Signs and Symptoms"
+          }
+        ]
+      },
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D004358",
+            "term": "Drug Therapy"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D013812",
+            "term": "Therapeutics"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:30:03.628526"
+}

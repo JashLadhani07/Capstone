@@ -1,0 +1,615 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00276614",
+      "orgStudyIdInfo": {
+        "id": "CDR0000453541"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "UCLA-0412011-01"
+        },
+        {
+          "id": "MILLENNIUM-X05145"
+        }
+      ],
+      "organization": {
+        "fullName": "Jonsson Comprehensive Cancer Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Bortezomib in Treating Patients With Metastatic Kidney Cancer",
+      "officialTitle": "A Phase II Study of Bortezomib (Velcade ) Administered as a Single Agent in Metastatic Non-Clear Cell Renal Cell Carcinoma (RCC) Patients"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2012-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2006-04"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2009-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2009-07",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2006-01-12",
+      "studyFirstSubmitQcDate": "2006-01-12",
+      "studyFirstPostDateStruct": {
+        "date": "2006-01-13",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2012-03-27",
+      "resultsFirstSubmitQcDate": "2012-03-27",
+      "resultsFirstPostDateStruct": {
+        "date": "2012-04-19",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2020-08-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-09-01",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Jonsson Comprehensive Cancer Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Millennium Pharmaceuticals, Inc.",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "RATIONALE: Bortezomib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.\n\nPURPOSE: This phase II trial is studying how well bortezomib works in treating patients with metastatic kidney cancer.",
+      "detailedDescription": "OBJECTIVES:\n\nPrimary\n\n* Determine, preliminarily, the efficacy of bortezomib in patients with metastatic non-clear cell renal cell carcinoma in terms of objective response rate after a minimum of 2 courses of treatment.\n\nSecondary\n\n* Correlate clinical response in these patients with baseline von Hippel-Lindau expression and nuclear factor-KB activity.\n\nOUTLINE: This is an open-label study.\n\nPatients receive bortezomib IV over 3-5 seconds on days 1, 4, 8, and 11. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed at 1 month and then periodically for 2 years.\n\nPROJECTED ACCRUAL: A total of 27 patients will be accrued for this study."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Kidney Cancer"
+      ],
+      "keywords": [
+        "stage IV renal cell cancer",
+        "recurrent renal cell cancer",
+        "papillary renal cell carcinoma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 4,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Velcade",
+          "type": "EXPERIMENTAL",
+          "description": "Velcade IV twice a week for two weeks on Days 1, 4, 8 and 11 of each cycle. A 10 day-rest period (Days 12-21) with no Velcade will follow the 2 weeks of treatment in each cycle. one cycle = 21 days",
+          "interventionNames": [
+            "Drug: bortezomib"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "bortezomib",
+          "armGroupLabels": [
+            "Velcade"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Objective Response Rate as Measured by RECIST Criteria After Every 2 Courses of Treatment for up to 6 Courses",
+          "timeFrame": "2 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed pure non-clear cell renal cell carcinoma (RCC)\n* Distant metastatic disease (Tx, Nx, M1)\n* Tumor expresses wild-type von Hippel-Lindau tumor suppressor gene/protein\n* Measurable disease on imaging scan (\u2265 1 cm)\n* Brain metastases allowed provided they have been treated with surgery and/or radiation therapy and show no evidence of progression on cerebral CT or MRI scan 2 months following surgery and/or radiation therapy.\n* Life expectancy \u2265 3 months\n* Karnofsky performance status \u2265 60%\n* Negative pregnancy test\n* Fertile patients must use an acceptable method of contraception\n* No other major illnesses likely to limit survival\n* Platelet count \u2265 100,000/mm\\^3\n* Absolute neutrophil count \u2265 1, 000/mm\\^3\n* Hemoglobin \u2265 10 g/dL (transfusion allowed)\n* Creatinine clearance \u2265 30 mL/min OR creatinine \u2264 2 mg/dL\n* ALT or AST \u2264 2.5 times upper limit of normal\n* At least 4 weeks since prior radiotherapy and recovered\n* More than 30 days since any other prior investigational drugs\n\nExclusion Criteria:\n\n* active CNS metastases\n* pregnant or nursing\n* myocardial infarction within the past 6 months\n* New York Heart Association class III or IV heart failure\n* uncontrolled angina\n* severe uncontrolled ventricular arrhythmias\n* electrocardiographic evidence of acute ischemia or active conduction system abnormalities\n* Peripheral neuropathy \u2264 grade 1\n* hypersensitivity to bortezomib, boron, or mannitol\n* history of a non-RCC malignancy within the past 5 years except basal cell carcinoma of the skin\n* serious medical or psychiatric illness that would preclude study participation\n* prior cytotoxic chemotherapy for this cancer\n* other concurrent investigational therapy\n* concurrent chemotherapy, immunotherapy, or hormonal therapy",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Matthew B. Rettig, MD",
+          "affiliation": "Jonsson Comprehensive Cancer Center",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Jonsson Comprehensive Cancer Center at UCLA",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095-1781",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "Recruitment period from April 2006 through May 2009 at outpatient oncology clinic.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Bortezomib",
+          "description": "Bortezomib 1.3 mg/m2 given on days 1, 4, 8, 11 of a 21 day cycle."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Progression of disease under study",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Bortezomib",
+          "description": "Bortezomib 1.3 mg/m2 given on days 1, 4, 8, 11 of a 21 day cycle."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "4"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "42",
+                      "lowerLimit": "26",
+                      "upperLimit": "63"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Objective Response Rate as Measured by RECIST Criteria After Every 2 Courses of Treatment for up to 6 Courses",
+          "populationDescription": "2 subjects were excluded from analysis as they completed less than 2 cycles of study therapy.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "2 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Bortezomib",
+              "description": "Bortezomib 1.3 mg/m2 given on days 1, 4, 8, 11 of a 21 day cycle."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Beginning of treatment through 30 days post last treatment.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Bortezomib",
+          "description": "Bortezomib 1.3 mg/m2 given on days 1, 4, 8, 11 of a 21 day cycle.",
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 4,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 4
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Thrombocytopenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "CTCAE (Unspecified)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (Unspecified)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (Unspecified)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Approval of several agents for management of renal cell carcinoma rendered accrual to this trial quite difficult."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Matthew Rettig, M.D.",
+        "organization": "David Geffen School of Medicine at UCLA",
+        "email": "mrettig@mednet.ucla.edu",
+        "phone": "310-794-3565"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-30"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007680",
+          "term": "Kidney Neoplasms"
+        },
+        {
+          "id": "D002292",
+          "term": "Carcinoma, Renal Cell"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014571",
+          "term": "Urologic Neoplasms"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D007674",
+          "term": "Kidney Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        },
+        {
+          "id": "D000230",
+          "term": "Adenocarcinoma"
+        },
+        {
+          "id": "D002277",
+          "term": "Carcinoma"
+        },
+        {
+          "id": "D009375",
+          "term": "Neoplasms, Glandular and Epithelial"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069286",
+          "term": "Bortezomib"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001897",
+          "term": "Boronic Acids"
+        },
+        {
+          "id": "D000148",
+          "term": "Acids, Noncarboxylic"
+        },
+        {
+          "id": "D000143",
+          "term": "Acids"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D001896",
+          "term": "Boron Compounds"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D011719",
+          "term": "Pyrazines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

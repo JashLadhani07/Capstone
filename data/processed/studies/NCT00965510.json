@@ -1,0 +1,229 @@
+{
+  "nct_id": "NCT00965510",
+  "title": "Improved Management of Type II Diabetes in a Primary Care Office With Targeted Case Management",
+  "sponsor": "SeaCare Health Services",
+  "phase": "NA",
+  "status": "TERMINATED",
+  "conditions": [
+    "Type 2 Diabetes"
+  ],
+  "interventions": [
+    "care coordination"
+  ],
+  "primary_outcome": "Scores on PHQ9, PAM and health indicators",
+  "secondary_outcomes": [
+    "Satisfaction with care coordination model."
+  ],
+  "start_date": "2009-09",
+  "completion_date": "2011-09",
+  "results_posted": false,
+  "enrollment": 50,
+  "protocol_amendments": [],
+  "raw_data": {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00965510",
+        "orgStudyIdInfo": {
+          "id": "9118277Downing306"
+        },
+        "organization": {
+          "fullName": "SeaCare Health Services",
+          "class": "OTHER"
+        },
+        "briefTitle": "SeaCare's Care Coordination for Diabetes Management in a Primary Care Office",
+        "officialTitle": "Improved Management of Type II Diabetes in a Primary Care Office With Targeted Case Management"
+      },
+      "statusModule": {
+        "statusVerifiedDate": "2010-09",
+        "overallStatus": "TERMINATED",
+        "whyStopped": "insufficient recruitment of control and study patients",
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "startDateStruct": {
+          "date": "2009-09"
+        },
+        "primaryCompletionDateStruct": {
+          "date": "2011-09",
+          "type": "ACTUAL"
+        },
+        "completionDateStruct": {
+          "date": "2011-09",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2009-08-24",
+        "studyFirstSubmitQcDate": "2009-08-24",
+        "studyFirstPostDateStruct": {
+          "date": "2009-08-25",
+          "type": "ESTIMATED"
+        },
+        "lastUpdateSubmitDate": "2011-09-29",
+        "lastUpdatePostDateStruct": {
+          "date": "2011-09-30",
+          "type": "ESTIMATED"
+        }
+      },
+      "sponsorCollaboratorsModule": {
+        "responsibleParty": {
+          "oldNameTitle": "Gwendolyn Gladstone, MD",
+          "oldOrganization": "SeaCare Health Services"
+        },
+        "leadSponsor": {
+          "name": "SeaCare Health Services",
+          "class": "OTHER"
+        },
+        "collaborators": [
+          {
+            "name": "New Hampshire Charitable Foundation",
+            "class": "UNKNOWN"
+          }
+        ]
+      },
+      "oversightModule": {
+        "oversightHasDmc": true
+      },
+      "descriptionModule": {
+        "briefSummary": "The purpose of this study is to determine whether it is possible to improve health outcomes for patients with Type II diabetes, a community-based health care agency will offer care coordination to half of a study group in a family practice office. The intervention will include assessing patients' status using two instruments:\n\na depression screen (the PHQ9) and a motivation to change scale (the Patient Activation Measure, PAM). A masters-level social worker will counsel patients in the intervention group. Changes in patients' health status, PHQ9 scores and PAM scores over one year will be measured. Outcomes will be compared between the study group and the group without intervention."
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Type 2 Diabetes"
+        ],
+        "keywords": [
+          "diabetes"
+        ]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": [
+          "NA"
+        ],
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "primaryPurpose": "SUPPORTIVE_CARE",
+          "maskingInfo": {
+            "masking": "SINGLE",
+            "whoMasked": [
+              "OUTCOMES_ASSESSOR"
+            ]
+          }
+        },
+        "enrollmentInfo": {
+          "count": 50,
+          "type": "ACTUAL"
+        }
+      },
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "label": "Care Coordination",
+            "type": "EXPERIMENTAL",
+            "description": "Patients receive care coordination to improve their diabetes.",
+            "interventionNames": [
+              "Behavioral: care coordination"
+            ]
+          },
+          {
+            "label": "control",
+            "type": "NO_INTERVENTION",
+            "description": "patients with type II diabetes receive usual health care"
+          }
+        ],
+        "interventions": [
+          {
+            "type": "BEHAVIORAL",
+            "name": "care coordination",
+            "description": "patients receive care coordination to improve their type II diabetes",
+            "armGroupLabels": [
+              "Care Coordination"
+            ]
+          }
+        ]
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "measure": "Scores on PHQ9, PAM and health indicators",
+            "timeFrame": "1 year"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "measure": "Satisfaction with care coordination model.",
+            "timeFrame": "1 year"
+          }
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Diabetes type II\n\nExclusion Criteria:\n\n* Non-English speaking",
+        "healthyVolunteers": false,
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "stdAges": [
+          "ADULT",
+          "OLDER_ADULT"
+        ]
+      },
+      "contactsLocationsModule": {
+        "overallOfficials": [
+          {
+            "name": "Gwendolyn Gladstone, MD",
+            "affiliation": "SeaCare Health Services",
+            "role": "PRINCIPAL_INVESTIGATOR"
+          }
+        ],
+        "locations": [
+          {
+            "facility": "Exeter Family Care",
+            "city": "Exeter",
+            "state": "New Hampshire",
+            "zip": "03833",
+            "country": "United States",
+            "geoPoint": {
+              "lat": 42.98148,
+              "lon": -70.94783
+            }
+          }
+        ]
+      }
+    },
+    "derivedSection": {
+      "miscInfoModule": {
+        "versionHolder": "2026-10-29"
+      },
+      "conditionBrowseModule": {
+        "meshes": [
+          {
+            "id": "D003924",
+            "term": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "id": "D003920",
+            "term": "Diabetes Mellitus"
+          }
+        ],
+        "ancestors": [
+          {
+            "id": "D044882",
+            "term": "Glucose Metabolism Disorders"
+          },
+          {
+            "id": "D008659",
+            "term": "Metabolic Diseases"
+          },
+          {
+            "id": "D009750",
+            "term": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "id": "D004700",
+            "term": "Endocrine System Diseases"
+          }
+        ]
+      }
+    },
+    "hasResults": false
+  },
+  "parsed_at": "2026-10-30T10:29:01.718629"
+}
